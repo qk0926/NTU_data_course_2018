@@ -1,4 +1,4 @@
-# datacourse
+# NTU_data_course_2018
 my course projects 
 ### week 1
 - course
