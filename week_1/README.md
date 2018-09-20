@@ -13,6 +13,6 @@
 - week_1任務
     - 建立個人`Github帳號`
     - 建立本課程專用`Repository`
-    - 在該 repository 當中上傳建立一命名為 `week_1(or task_1, hw_1)`的資料夾
-    - 於`該資料夾`中，上傳本周練習的`成果檔案(ex: hw_1_answers.R)`
+    - 在該 repository 當中上傳建立一命名為 `week_1`的資料夾
+    - 於`該資料夾`中，上傳本周練習的`成果檔案`
 
