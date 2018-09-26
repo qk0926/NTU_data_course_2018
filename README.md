@@ -8,3 +8,11 @@ my course projects
 - hw
   - basic R programming
   - 1A2B game design
+  
+### week 2
+- course topic: web crawler
+  - tools: selector gadget/ rvest package
+  - learn how to write an R markdown 
+- hw
+  - web crawler in R/rmd/html format
+  - (additional) OOXX game design
