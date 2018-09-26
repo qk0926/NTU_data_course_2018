@@ -17,6 +17,6 @@ for(i in 1:5){
   assign(noquote(paste("page",i,sep = "")),data.frame(product_name = d_clean, website = e_clean, stringsAsFactors = F))
   rm(e_clean)
   rm(d_clean)
-    i<-i+1
+  i<-i+1
 }
 

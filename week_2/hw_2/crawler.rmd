@@ -1,0 +1,52 @@
+---
+title: "web crawler"
+author: "B05401102"
+date: "2018年9月27日"
+output: html_document
+---
+```{r include==FALSE}
+library(knitr)
+knitr::opts_chunk$set(echo = T)
+```
+Target website: [Amazon](https://www.amazon.com)
+
+Query input: [Acer](https://www.amazon.com/s/ref=nb_sb_noss_2?url=search-alias%3Daps&field-keywords=acer)
+
+- The aim of this crawler project is to extract Acer-related products from Amazon's search engine.
+- I extracted the first 5 pages of the search results, including a total of 110 products and their links.
+
+Here shows the r script.
+
+```{r error=TRUE}
+library(rvest)
+i<-1
+for(i in 1:5){
+  page<-paste("https://www.amazon.com/s/ref=sr_pg_2?fst=as%3Aon&rh=n%3A230659011%2Cn%3A172282%2Cn%3A%21493964%2Cn%3A541966%2Cn%3A13896617011%2Ck%3Aacer&page=",i,"&bbn=230659011&keywords=acer&ie=UTF8&qid=1537412681",sep = "")
+  res<-read_html(page)
+  d<-res %>% html_nodes("div>a") %>%  html_attr("title")
+  e<-res %>% html_nodes("div>a") %>%  html_attr("href")
+  e_clean<-e[is.na(d)==F]
+  d_clean<-d[is.na(d)==F]
+  for(k in 1:length(e_clean)){
+    ls<-strsplit(e_clean[k],"")
+    if(ls[[1]][1]=="/"){
+      e_clean[k]<-paste("https://www.amazon.com",e_clean[k],sep="")
+    }
+    k<-k+1
+  }
+  assign(noquote(paste("page",i,sep = "")),data.frame(product_name = d_clean, website = e_clean, stringsAsFactors = F))
+  rm(e_clean)
+  rm(d_clean)
+  i<-i+1
+}
+```
+
+Programming Skills
+- use `for loop` to extract data from page1~5
+- some links are missing "https://www.amazon.com", so check the links by using function `strsplit`
+
+Results are presented in dataframes (page1~5). Take `page 1` as example. 
+
+```{r}
+kable(page1)
+```
