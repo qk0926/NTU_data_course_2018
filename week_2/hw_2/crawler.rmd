@@ -48,5 +48,9 @@ Programming Skills
 Results are presented in dataframes (page1~5). Take `page 1` as example. 
 
 ```{r}
-kable(page1)
+library(kableExtra)
+kable(page1)%>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed"), full_width = F)%>%
+  column_spec(1, width = "20em") %>%
+  column_spec(2, width = "20em")
 ```
