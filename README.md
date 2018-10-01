@@ -15,5 +15,6 @@ my course projects
   - learn how to write an R markdown 
 - hw
   - web crawler in R/rmd/html format
+  - [html link](file:///C:/GitHub/datacourse/week_2/hw_2/crawler.html)
   - html link: file:///C:/GitHub/datacourse/week_2/hw_2/crawler.html
   - (additional) OOXX game design
