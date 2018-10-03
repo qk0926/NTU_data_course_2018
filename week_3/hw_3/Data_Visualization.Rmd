@@ -1,0 +1,111 @@
+---
+title: "Data Visualization"
+author: "B05401102"
+date: "2018年10月3日"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(kableExtra)
+```
+
+#### **Data來源**： [kaggle-googleplaystore](https://www.kaggle.com/lava18/google-play-store-apps)  
+
+#### **說明**：   
+  - 此dataset出自於kaggle網站，包含google play store中約10000個app的資訊。
+  - 此次Data Visualization目的是為了解不同類型的App在數量上有沒有差異，研究Rating(評分)的分布，並探討Rating與Installs(下載次數)之間有何關聯。
+  - 進行Data Visualization的流程包含Data Input, Data Cleaning, 以及Plotting的步驟。  
+
+### **1. Data Input**  
+    直接從網站下載檔案後開啟。  
+  - 設置`stringsAsFactors = F`，輸入的資料型態才不會跑掉
+  - 原本讀取檔案後發現中文字導致亂碼，所以先利用記事本將dataset以新的編碼方式另存新檔，再開啟即可。
+
+```{r}
+#讀取googleplaystore.csv檔
+googleplay<-read.delim("googleplaystore.csv", sep = ",",header = T, stringsAsFactors = F)
+```
+
+### **2. Data Cleaning**  
+    將各column的資料型態改為適合進行分析的型態。  
+  - 使用gsub函數刪除不想要的字串符號後就可以順利將字串轉換為數字
+
+```{r warning=FALSE}
+#資料清洗與資料型態的轉變
+googleplay$Category<-as.factor(googleplay$Category)
+googleplay$Reviews<-as.numeric((googleplay$Reviews))
+googleplay$Price<-as.numeric(gsub("[$]","",googleplay$Price))
+googleplay$Installs<-as.numeric(gsub("[+,]","",googleplay$Installs))
+googleplay$Type<-as.factor(googleplay$Type)
+googleplay<-googleplay[-10473,]
+
+```
+    以下顯示清洗後dataset的一小部分。
+```{r echo=FALSE}
+kable(head(googleplay))%>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed"), full_width = F)%>%
+  column_spec(1, width = "20em") %>%
+  column_spec(2, width = "20em")
+```
+
+### **3. Plotting **
+    開始進入重點，畫圖！首先引入ggplot2 package
+
+```{r}
+library(ggplot2)
+
+```
+
+### a) App types:  
+##### 根據不同類型的app數量繪製長條圖。
+```{r warning=FALSE}
+my.plot_a <- ggplot(googleplay, aes(x = Category)) + layer(
+  geom = "bar",  stat = "count",  position = "identity",
+  params = list(
+    fill = "steelblue",  binwidth = 0.1,  na.rm = FALSE
+  )
+)  + labs(title = "App Types") + theme(
+  plot.background = element_rect(colour = "black",size = 3, linetype = 4, fill = "lightblue"), 
+  plot.title = element_text(colour = "black", face = "bold", size = 30, vjust = 1, hjust = 0.5),
+  plot.margin = unit(c(0.2, 0.2, 0.2, 0.2), "inches"),
+  axis.text.x = element_text(angle = 90, family = "Calibri", hjust = 1, vjust = 0.5)
+) 
+my.plot_a
+```
+    
+    可見Family, Game, Tools這三種類的app數量最多  
+  
+### b) Rating Distribution:  
+##### 根據所有app評分(1~5)的分布情形繪製density curve
+```{r warning=FALSE}
+my.plot_b <- ggplot(googleplay, aes(x = Rating))+ xlim(0, 5) + layer(
+  geom = "density",  stat = "bin",  position = "identity",  params = list(
+    fill = "steelblue",
+    binwidth = 0.2,
+    na.rm = FALSE
+  )
+)  + labs(title = "Rating distribution") + theme(
+  plot.background = element_rect(colour = "black",size = 3, linetype = 4, fill = "lightblue"), 
+  plot.title = element_text(colour = "black", face = "bold", size = 30, vjust = 1, hjust = 0.5),
+  plot.margin = unit(c(0.2, 0.2, 0.2, 0.2), "inches")
+)
+my.plot_b
+```
+
+    多數App的平均Rating在4~4.5之間。
+    
+### c) Rating vs Installs:  
+##### 將Installs(下載次數)由小到大分為6個level，繪製Rating的box plot
+```{r warning=FALSE}
+b_ins<- c(0, 5000, 50000, 500000,5000000, 50000000, Inf)
+lev_ins<- c("0\n~5,000", "5,000\n~50,000", "50,000\n~500,000", "500,000\n~5,000,000", "5,000,000\n~50,000,000", ">50,000,000")
+my.plot_c <- ggplot(na.omit(googleplay), aes(x = cut(na.omit(googleplay)$Installs, breaks = b_ins, labels = lev_ins), y = Rating)) +  geom_boxplot()  + labs(title = "Rating vs Installs", x = "Installs") + theme(
+  plot.background = element_rect(colour = "black",size = 3, linetype = 4, fill = "lightblue"), 
+  plot.title = element_text(colour = "black", face = "bold", size = 30, vjust = 1, hjust = 0.5),
+  plot.margin = unit(c(0.2, 0.2, 0.2, 0.2), "inches")
+)
+my.plot_c
+```
+
+    本來預期下載次數越多的App，Rating會比較好。圖表證明了這個猜測是對的，不過Rating變化也不大。有趣的是，在Installs<5000中，可以發現平均Rating反而比較高。另外，outlier的分布與installs大小呈現明顯的正相關，也是個值得探討的現象。

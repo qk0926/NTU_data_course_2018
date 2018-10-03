@@ -1,11 +1,11 @@
 ---
 title: "web crawler"
 author: "B05401102"
-date: "2018年9月27日"
+date: "2018年10月3日"
 output: html_document
 ---
 ```{r include==FALSE}
-library(knitr)
+library(ggplot2)
 knitr::opts_chunk$set(echo = T)
 ```
 Target website: [Amazon](https://www.amazon.com)
