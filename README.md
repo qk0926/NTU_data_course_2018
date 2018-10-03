@@ -10,10 +10,18 @@ my course projects
   - 1A2B game design
   
 ### week 2
-- course topic: web crawler
+- course topic: **Web Crawler**
   - tools: selector gadget/ rvest package
   - learn how to write an R markdown 
 - hw
   - web crawler in R/rmd/html format
-  - html link: file:///C:/GitHub/datacourse/week_2/hw_2/crawler.html
+  - html link: [Acer_Amazon] (https://qk0926.github.io/NTU_data_course_2018/week_2/hw_2/crawler.html)
   - (additional) OOXX game design
+
+### week 3
+- course topic: **Data Visualization**
+  - tools: ggplot2 package
+  - learn how to draw plots   
+- hw
+  - Data Visualization in R/rmd/html format
+  - html link: [Google_Play_Store] (https://qk0926.github.io/NTU_data_course_2018/week_3/hw_3/Data_Visualization.html)
