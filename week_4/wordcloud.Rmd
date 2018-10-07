@@ -1,0 +1,147 @@
+---
+title: "Word Cloud"
+author: "B05401102"
+date: "2018年10月7日"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#### **主題**：文字雲--比較川普、歐巴馬相關的新聞標題關鍵字  
+
+#### **文字資料來源**：[聯合新聞網](https://udn.com/news/index) 
+
+#### **說明**：   
+  - 從聯合新聞網上分別搜尋川普與歐巴馬，爬蟲擷取新聞標題，並進行詞語分析，製造出文字雲，並比較兩者的異同
+  - 以下步驟先以**川普**的資料進行說明。
+
+### **1. Data Input-Web Crawler** 
+>利用**rvest package**爬蟲，目標為搜尋**川普**前20頁的搜尋結果，並將標題擷取，輸出為`trump_title.csv`。
+
+  - 觀察搜尋結果換頁時，網址末數會變，因此可以利用`for loop`搜索多頁的資料。  
+  - 由於爬蟲時間需要蠻久的，所以只擷取了20頁約400筆標題資料。  
+  - 利用paste0函數避免paste時字串中間產生間隔。
+```{r eval=FALSE}
+library(rvest)
+trump_title<-c()
+for(i in 1:20){
+  t<-read_html(paste0("https://udn.com/search/tagging/2/%E5%B7%9D%E6%99%AE/",i))%>%
+    html_nodes("#search_content h2") %>% html_text() 
+  trump_title<-c(trump_title,t)
+  i<-i+1
+}
+write.csv(trump_title,"trump_title")
+```
+
+### **2. Data processing **  
+>先引入所需要的packages, 並輸入`trump_title.csv`。
+
+```{r warning=FALSE}
+library(NLP)
+library(tm)
+library(jiebaRD)
+library(jiebaR)
+library(RColorBrewer)
+library(wordcloud)
+library(wordcloud2)
+trump<-read.csv("trump_title", stringsAsFactors = F)
+```
+
+>刪除大量出現的「川普」二字和不必要的符號、數字後，利用**jiebaR package** 的內建辭庫處理標題文字，將句子分割成字詞。
+
+```{r warning=FALSE}
+docs <- Corpus(VectorSource(trump))
+toSpace <- content_transformer(function(x, pattern) {
+  return (gsub(pattern, " ", x))
+}
+)
+docs <- tm_map(docs, toSpace, "川普")
+docs <- tm_map(docs, toSpace, "‧")
+docs <- tm_map(docs, removePunctuation)
+docs <- tm_map(docs, removeNumbers)
+docs <- tm_map(docs, stripWhitespace)
+mixseg = worker()
+jieba_tokenizer=function(d){
+  unlist(segment(d[[1]],mixseg))
+}
+seg = lapply(docs, jieba_tokenizer)
+```
+
+>建立字詞(Var1)與字詞頻率(Freq)的data frame，依照頻率由高而低排列，並刪除字元長度為1的字詞。
+
+```{r warning=FALSE}
+freqFrame_a = as.data.frame(table(unlist(seg)))
+freqFrame_a_ordered<- freqFrame_a[order(freqFrame_a$Freq, decreasing = T),]
+freqFrame_a_clean<-freqFrame_a_ordered[-which(nchar(as.character(freqFrame_a_ordered$Var1))==1),]
+```
+
+### **3. Plotting **  
+>繪製頻率最高的30個字詞與其出現次數的長條圖。
+
+```{r warning=FALSE}
+barplot(freqFrame_a_clean$Freq[1:30], names.arg = freqFrame_a_clean$Var1[1:30],
+        col ="lightblue", main ="Trump-Most frequent words", las = 2,
+        ylab = "Word frequencies")
+```
+
+>利用**wordcloud2 package**繪製文字雲。
+
+```{r warning=FALSE}
+trump_cloud <- wordcloud2(freqFrame_a_clean[1:30,], size = 0.7)
+trump_cloud
+```
+
+### **4. Repeat **
+>對**歐巴馬**如法炮製，結果如下。
+  -一開始讀取的結果裡有「利王子」一詞，觀察文字資料庫後發現其應為「哈利王子」，因此用`new_user_word(mixseg,"哈利王子")`新增詞彙。
+
+```{r warning=FALSE}
+obama<-read.csv("obama_title", stringsAsFactors = F)
+docs <- Corpus(VectorSource(obama))
+toSpace <- content_transformer(function(x, pattern) {
+  return (gsub(pattern, " ", x))
+}
+)
+docs <- tm_map(docs, toSpace, "歐巴馬")
+docs <- tm_map(docs, toSpace, "‧")
+docs <- tm_map(docs, removePunctuation)
+docs <- tm_map(docs, removeNumbers)
+docs <- tm_map(docs, stripWhitespace)
+mixseg = worker()
+new_user_word(mixseg,"哈利王子")
+jieba_tokenizer=function(d){
+  unlist(segment(d[[1]],mixseg))
+}
+seg = lapply(docs, jieba_tokenizer)
+freqFrame = as.data.frame(table(unlist(seg)))
+freqFrame_ordered<- freqFrame[order(freqFrame$Freq, decreasing = T),]
+freqFrame_f<-freqFrame_ordered[-which(nchar(as.character(freqFrame_ordered$Var1))==1),]
+
+```
+
+```{r warning=FALSE, error=FALSE}
+barplot(freqFrame_f$Freq[1:30], names.arg = freqFrame_f$Var1[1:30],
+                      col ="lightblue", main ="Obama-Most frequent words", las = 2,
+                      ylab = "Word frequencies")
+
+obama_cloud <- wordcloud2(freqFrame_f[1:30,], size = 0.8)
+obama_cloud
+```
+
+>由於「川普」佔的比例過大，也沒有比較的意義，所以決定刪除它再做一張。
+
+```{r warning=FALSE}
+
+obama_cloud_modified <- wordcloud2(freqFrame_f[2:30,], size = 0.8)
+obama_cloud_modified 
+```
+
+>分析
+
+```{r warning=FALSE}
+
+wordcloud2(freqFrame_f[2:30,])
+trump_cloud
+```
