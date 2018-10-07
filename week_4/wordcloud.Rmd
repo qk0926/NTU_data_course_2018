@@ -2,7 +2,9 @@
 title: "Word Cloud"
 author: "B05401102"
 date: "2018年10月7日"
-output: html_document
+output: 
+  html_document: 
+    toc: yes
 ---
 
 ```{r setup, include=FALSE}
@@ -32,7 +34,7 @@ for(i in 1:20){
   trump_title<-c(trump_title,t)
   i<-i+1
 }
-write.csv(trump_title,"trump_title")
+write.csv(trump_title,"trump_title.csv")
 ```
 
 ### **2. Data processing **  
@@ -47,6 +49,7 @@ library(RColorBrewer)
 library(wordcloud)
 library(wordcloud2)
 trump<-read.csv("trump_title", stringsAsFactors = F)
+obama<-read.csv("obama_title", stringsAsFactors = F)
 ```
 
 >刪除大量出現的「川普」二字和不必要的符號、數字後，利用**jiebaR package** 的內建辭庫處理標題文字，將句子分割成字詞。
@@ -98,7 +101,7 @@ trump_cloud
   -一開始讀取的結果裡有「利王子」一詞，觀察文字資料庫後發現其應為「哈利王子」，因此用`new_user_word(mixseg,"哈利王子")`新增詞彙。
 
 ```{r warning=FALSE}
-obama<-read.csv("obama_title", stringsAsFactors = F)
+
 docs <- Corpus(VectorSource(obama))
 toSpace <- content_transformer(function(x, pattern) {
   return (gsub(pattern, " ", x))
@@ -125,17 +128,21 @@ freqFrame_f<-freqFrame_ordered[-which(nchar(as.character(freqFrame_ordered$Var1)
 barplot(freqFrame_f$Freq[1:30], names.arg = freqFrame_f$Var1[1:30],
                       col ="lightblue", main ="Obama-Most frequent words", las = 2,
                       ylab = "Word frequencies")
+```
 
-obama_cloud <- wordcloud2(freqFrame_f[1:30,], size = 0.7)
+
+```{r}
+obama_cloud<-wordcloud2(freqFrame_f[1:30,])
 obama_cloud
 ```
 
 >由於「川普」佔的比例過大，也沒有比較的意義，所以決定刪除它再做一張。
 
-```{r warning=FALSE}
+```{r}
 
-obama_cloud_modified <- wordcloud2(freqFrame_f[2:30,], size = 0.7)
+obama_cloud_modified <- wordcloud2(freqFrame_f[2:30,])
 obama_cloud_modified 
+
 ```
 
 >分析
