@@ -126,7 +126,7 @@ barplot(freqFrame_f$Freq[1:30], names.arg = freqFrame_f$Var1[1:30],
                       col ="lightblue", main ="Obama-Most frequent words", las = 2,
                       ylab = "Word frequencies")
 
-obama_cloud <- wordcloud2(freqFrame_f[1:30,], size = 0.8)
+obama_cloud <- wordcloud2(freqFrame_f[1:30,], size = 0.7)
 obama_cloud
 ```
 
@@ -134,7 +134,7 @@ obama_cloud
 
 ```{r warning=FALSE}
 
-obama_cloud_modified <- wordcloud2(freqFrame_f[2:30,], size = 0.8)
+obama_cloud_modified <- wordcloud2(freqFrame_f[2:30,], size = 0.7)
 obama_cloud_modified 
 ```
 
@@ -142,6 +142,5 @@ obama_cloud_modified
 
 ```{r warning=FALSE}
 
-wordcloud2(freqFrame_f[2:30,])
-trump_cloud
+
 ```
