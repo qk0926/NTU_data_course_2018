@@ -32,3 +32,17 @@ trump_word <- barplot(freqFrame_f$Freq[1:30], names.arg = freqFrame_f$Var1[1:30]
         ylab = "Word frequencies")
 
 trump_cloud <- wordcloud2(freqFrame_f[1:30,], size = 0.7)
+
+
+trump_cloud <- wordcloud2(freqFrame_a_clean[1:30,], size = 0.7)
+print(trump_cloud)
+
+wordcloud(freqFrame_f$Var1[2:30],freqFrame_f$Freq[2:30],
+          scale=c(5,0.1),min.freq=5,max.words=150,
+          random.order=FALSE, random.color=FALSE, 
+          rot.per=0, colors=brewer.pal(8, "Dark2"),
+          ordered.colors=FALSE,use.r.layout=FALSE,
+          fixed.asp=TRUE)
+
+
+

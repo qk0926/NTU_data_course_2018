@@ -48,6 +48,9 @@ library(jiebaR)
 library(RColorBrewer)
 library(wordcloud)
 library(wordcloud2)
+library(htmlwidgets)
+library(webshot)
+
 trump<-read.csv("trump_title", stringsAsFactors = F)
 obama<-read.csv("obama_title", stringsAsFactors = F)
 ```
@@ -91,14 +94,20 @@ barplot(freqFrame_a_clean$Freq[1:30], names.arg = freqFrame_a_clean$Var1[1:30],
 
 >利用**wordcloud2 package**繪製文字雲。
 
-```{r warning=FALSE}
-trump_cloud <- wordcloud2(freqFrame_a_clean[1:30,], size = 0.7)
-trump_cloud
+```{r}
+trump_cloud <- wordcloud2(freqFrame_a_clean[1:30,], size = 2.0)
+
+saveWidget(trump_cloud, "trump.html", selfcontained = F)
+webshot("trump.html", "trump.png", delay = 5, vwidth = 2000, vheight = 2000)
 ```
+ [川普文字雲](trump.png)
+
+
 
 ### **4. Repeat **
->對**歐巴馬**如法炮製，結果如下。
-  -一開始讀取的結果裡有「利王子」一詞，觀察文字資料庫後發現其應為「哈利王子」，因此用`new_user_word(mixseg,"哈利王子")`新增詞彙。
+>對**歐巴馬**如法炮製，結果如下。  
+
+  - 一開始讀取的結果裡有「利王子」一詞，觀察文字資料庫後發現其應為「哈利王子」，因此用`new_user_word(mixseg,"哈利王子")`新增詞彙。
 
 ```{r warning=FALSE}
 
@@ -130,24 +139,25 @@ barplot(freqFrame_f$Freq[1:30], names.arg = freqFrame_f$Var1[1:30],
                       ylab = "Word frequencies")
 ```
 
+  - 由於「川普」佔的比例過大，也沒有比較的意義，所以決定刪除它，繪製歐巴馬文字雲。
 
+  
 ```{r}
-obama_cloud<-wordcloud2(freqFrame_f[1:30,])
-obama_cloud
+obama_cloud <- wordcloud2(freqFrame_f[2:30,], size = 3)
+
+saveWidget(obama_cloud, "obama.html", selfcontained = F)
+webshot("obama.html", "obama.png", delay = 5, vwidth = 2000, vheight = 2000)
 ```
+ [歐巴馬文字雲](obama.png)
 
->由於「川普」佔的比例過大，也沒有比較的意義，所以決定刪除它再做一張。
+### **5. Intepretation **
+> 比對這兩張文字雲。可以發現一些特點。
 
-```{r}
-
-obama_cloud_modified <- wordcloud2(freqFrame_f[2:30,])
-obama_cloud_modified 
-
-```
-
->分析
-
-```{r warning=FALSE}
+  1. 美國、中國顯然是這兩位總統最近都很關心的議題。  
+  2. 川普的新聞主題集中在經濟上，包含**貿易**、**關稅**、**NAFTA**等，特別是**貿易**。  
+  3. 歐巴馬雖然已經卸任，但可以推測他在許多內政、外交議題上仍然有發表自己的看法。  
+  4. 川普的新聞關鍵字還包含最近具爭議性的大法官醜聞。有比較負面的關鍵字(ex.**指控**)。相反地，歐巴馬已經卸任，爭議不多，關鍵字包含**蜜雪兒**、**哈利王子**等。  
+  5. 歐巴馬的關鍵字中還有**台灣**，值得探討成因。  
 
 
-```
+
