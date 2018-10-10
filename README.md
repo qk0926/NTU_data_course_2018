@@ -28,7 +28,7 @@ my course projects
 
 ### week 4
 - course topic: **Word Cloud**
-  - tools: jiebar package/ wordcloud(2) package
+  - tools: jiebaR package/ wordcloud(2) package
   - learn how to create a word cloud of interest and interpret it  
 - hw
   - Word cloud in R/rmd/html format
