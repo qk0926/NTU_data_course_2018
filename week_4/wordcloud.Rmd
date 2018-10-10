@@ -27,12 +27,12 @@ knitr::opts_chunk$set(echo = TRUE)
   - 利用paste0函數避免paste時字串中間產生間隔。
 ```{r eval=FALSE}
 library(rvest)
-trump_title<-c()
+trump_title <- c()
 for(i in 1:20){
-  t<-read_html(paste0("https://udn.com/search/tagging/2/%E5%B7%9D%E6%99%AE/",i))%>%
-    html_nodes("#search_content h2") %>% html_text() 
-  trump_title<-c(trump_title,t)
-  i<-i+1
+  t <- read_html(paste0("https://udn.com/search/tagging/2/%E5%B7%9D%E6%99%AE/",i))%>%
+       html_nodes("#search_content h2") %>% html_text() 
+  trump_title <- c(trump_title,t)
+  i <- i+1
 }
 write.csv(trump_title,"trump_title.csv")
 ```
@@ -48,8 +48,7 @@ library(jiebaR)
 library(RColorBrewer)
 library(wordcloud)
 library(wordcloud2)
-library(htmlwidgets)
-library(webshot)
+
 
 trump<-read.csv("trump_title", stringsAsFactors = F)
 obama<-read.csv("obama_title", stringsAsFactors = F)
@@ -78,25 +77,31 @@ seg = lapply(docs, jieba_tokenizer)
 >建立字詞(Var1)與字詞頻率(Freq)的data frame，依照頻率由高而低排列，並刪除字元長度為1的字詞。
 
 ```{r warning=FALSE}
-freqFrame_a = as.data.frame(table(unlist(seg)))
-freqFrame_a_ordered<- freqFrame_a[order(freqFrame_a$Freq, decreasing = T),]
-freqFrame_a_clean<-freqFrame_a_ordered[-which(nchar(as.character(freqFrame_a_ordered$Var1))==1),]
+freqFrame_a <- as.data.frame(table(unlist(seg)))
+freqFrame_a_ordered <- freqFrame_a[order(freqFrame_a$Freq, decreasing = T),]
+freqFrame_a_clean <- freqFrame_a_ordered[-which(nchar(as.character(freqFrame_a_ordered$Var1))==1),]
 ```
 
 ### **3. Plotting **  
 >繪製頻率最高的30個字詞與其出現次數的長條圖。
 
 ```{r warning=FALSE}
-barplot(freqFrame_a_clean$Freq[1:30], names.arg = freqFrame_a_clean$Var1[1:30],
-        col ="lightblue", main ="Trump-Most frequent words", las = 2,
+barplot(freqFrame_a_clean$Freq[1:30], 
+        names.arg = freqFrame_a_clean$Var1[1:30],
+        col ="lightblue", 
+        main ="Trump-Most frequent words", 
+        las = 2,
         ylab = "Word frequencies")
 ```
 
 >利用**wordcloud2 package**繪製文字雲。
 
+  - 由於`wordcloud2`這個function存取的文字雲為動態(dynamic)的文字雲，要同時在一份markdown文件中顯示兩個文字雲的話，就必須把動態文字雲利用**htmlwidgets package**和**webshot package**存成靜態png檔再匯入，才能顯示。
+
 ```{r}
 trump_cloud <- wordcloud2(freqFrame_a_clean[1:30,], size = 2.0)
-
+library(htmlwidgets)
+library(webshot)
 saveWidget(trump_cloud, "trump.html", selfcontained = F)
 webshot("trump.html", "trump.png", delay = 5, vwidth = 2000, vheight = 2000)
 ```
@@ -127,16 +132,19 @@ jieba_tokenizer=function(d){
   unlist(segment(d[[1]],mixseg))
 }
 seg = lapply(docs, jieba_tokenizer)
-freqFrame = as.data.frame(table(unlist(seg)))
-freqFrame_ordered<- freqFrame[order(freqFrame$Freq, decreasing = T),]
-freqFrame_f<-freqFrame_ordered[-which(nchar(as.character(freqFrame_ordered$Var1))==1),]
+freqFrame <- as.data.frame(table(unlist(seg)))
+freqFrame_ordered <- freqFrame[order(freqFrame$Freq, decreasing = T),]
+freqFrame_f <- freqFrame_ordered[-which(nchar(as.character(freqFrame_ordered$Var1))==1),]
 
 ```
 
 ```{r warning=FALSE, error=FALSE}
-barplot(freqFrame_f$Freq[1:30], names.arg = freqFrame_f$Var1[1:30],
-                      col ="lightblue", main ="Obama-Most frequent words", las = 2,
-                      ylab = "Word frequencies")
+barplot(freqFrame_f$Freq[1:30], 
+        names.arg = freqFrame_f$Var1[1:30],
+        col ="lightblue", 
+        main ="Obama-Most frequent words", 
+        las = 2,
+        ylab = "Word frequencies")
 ```
 
   - 由於「川普」佔的比例過大，也沒有比較的意義，所以決定刪除它，繪製歐巴馬文字雲。
