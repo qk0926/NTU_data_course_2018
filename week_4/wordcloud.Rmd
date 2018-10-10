@@ -68,6 +68,7 @@ docs <- tm_map(docs, removePunctuation)
 docs <- tm_map(docs, removeNumbers)
 docs <- tm_map(docs, stripWhitespace)
 mixseg = worker()
+new_user_word(mixseg,"卡瓦諾")
 jieba_tokenizer=function(d){
   unlist(segment(d[[1]],mixseg))
 }
@@ -95,7 +96,8 @@ barplot(freqFrame_a_clean$Freq[1:30],
 ```
 
 >利用**wordcloud2 package**繪製文字雲。
-
+  
+  - 一開始讀取的結果裡有「卡瓦」一詞，觀察文字資料庫後發現其應為「卡瓦諾」，因此用`new_user_word(mixseg,"卡瓦諾")`新增詞彙。
   - 由於`wordcloud2`這個function存取的文字雲為動態(dynamic)的文字雲，要同時在一份markdown文件中顯示兩個文字雲的話，就必須把動態文字雲利用**htmlwidgets package**和**webshot package**存成靜態png檔再匯入，才能顯示。
 
 ```{r}
@@ -151,7 +153,7 @@ barplot(freqFrame_f$Freq[1:30],
 
   
 ```{r}
-obama_cloud <- wordcloud2(freqFrame_f[2:30,], size = 3)
+obama_cloud <- wordcloud2(freqFrame_f[2:30,], size = 2.2)
 
 saveWidget(obama_cloud, "obama.html", selfcontained = F)
 webshot("obama.html", "obama.png", delay = 5, vwidth = 2000, vheight = 2000)
@@ -164,7 +166,7 @@ webshot("obama.html", "obama.png", delay = 5, vwidth = 2000, vheight = 2000)
   1. 美國、中國顯然是這兩位總統最近都很關心的議題。  
   2. 川普的新聞主題集中在經濟上，包含**貿易**、**關稅**、**NAFTA**等，特別是**貿易**。  
   3. 歐巴馬雖然已經卸任，但可以推測他在許多內政、外交議題上仍然有發表自己的看法。  
-  4. 川普的新聞關鍵字還包含最近具爭議性的大法官醜聞。有比較負面的關鍵字(ex.**指控**)。相反地，歐巴馬已經卸任，爭議不多，關鍵字包含**蜜雪兒**、**哈利王子**等。  
+  4. 川普的新聞關鍵字還包含最近具爭議性的**卡瓦諾**大法官醜聞。有比較負面的關鍵字(ex.**指控**)。相反地，歐巴馬已經卸任，爭議不多，關鍵字包含**蜜雪兒**、**哈利王子**等。  
   5. 歐巴馬的關鍵字中還有**台灣**，值得探討成因。  
 
 
