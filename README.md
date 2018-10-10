@@ -25,3 +25,11 @@ my course projects
 - hw
   - Data Visualization in R/rmd/html format
   - html link: [Google_Play_Store](https://qk0926.github.io/NTU_data_course_2018/week_3/hw_3/Data_Visualization)
+
+### week 4
+- course topic: **Word Cloud**
+  - tools: jiebar package/ wordcloud(2) package
+  - learn how to create a word cloud of interest and interpret it  
+- hw
+  - Word cloud in R/rmd/html format
+  - html link: [Trump vs. Obama](https://qk0926.github.io/NTU_data_course_2018/week_4/wordcloud)
