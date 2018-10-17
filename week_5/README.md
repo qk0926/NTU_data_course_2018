@@ -1,18 +1,19 @@
 ## R_資料科學程式設計
 
-### week_4
+### week_5
 
-- course_4
-    - example_1_twitterR.R
-    - example_2_taipeiApi.R
-    - example_3_leafletMap.R
-    - example_4_socialNetworkAnalysis.R
+- course_5
+    - example_1_text_mining.R(tentative)
+        - Term to Document Matrix, tf-idf, pca, k-means
+    - [shiny-examples-master](https://github.com/rstudio/shiny-examples) (之後會寫shiny app作業，可先看)
+        - You could learn with **those examples** online by viewing `https://gallery.shinyapps.io/案例檔名`
+            - EX: https://gallery.shinyapps.io/001-hello
+        - check **[shiny gallery](https://shiny.rstudio.com/gallery/)** to inspire your ideas!
+        - check **[shiny widget gallery](https://shiny.rstudio.com/gallery/widget-gallery.html)** to meet widgets! 
 
-- week_4任務
+- week_5任務
+    - 建立一命名為 week_5(or task_5, hw_5)的資料夾。
+    - 完成一份_________-上傳至資料夾中，須繳交兩份檔案[.Rmd, .html)]。
+    - html link: [Nature Journal on PubMed](https://qk0926.github.io/NTU_data_course_2018/week_5/TF-ID_Visualization)
 
-    - https://ntu-csx-datascience.github.io/107-1RSampleCode/week_4/hw_4/WordCloud-1.html    
-    - https://ntu-csx-datascience.github.io/107-1RSampleCode/week_4/hw_4/WordCloud-2.html    
-    - 建立一命名為 week_4 的資料夾。
-    - 由透過社群網站 Open API 取得文本或是自行收集的文字資料。
-    - 完成文字雲上傳至資料夾中，須繳交兩份檔案[.Rmd, .html)]。
-    - html link: [Trump vs. Obama](https://qk0926.github.io/NTU_data_course_2018/week_4/wordcloud)
+    
