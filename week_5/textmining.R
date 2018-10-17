@@ -83,14 +83,4 @@ barplot(freqFrame.all[[9]]$Freq[1:30], names.arg = freqFrame.all[[9]]$Var1[1:30]
         col ="lightblue", main ="frequent words", las = 2,
         ylab = "Word frequencies" )
 
-ggplot(freqFrame.all[[1]] ,aes( x = Var1, y = freq , fill = book)) +
-  geom_bar(stat = "identity") +
-  facet_wrap(~ book, scales = "free_y") +
-  labs(x = "NULL", y = "Frequency") +
-  coord_flip() +
-  theme(legend.position="none")
 
-
-
-
-head(doc.tfidf[order(doc.tfidf[,2], decreasing = T),],100)
