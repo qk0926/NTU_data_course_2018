@@ -161,7 +161,7 @@ word_by_year
 
 ```
 
-### **5. Intepretation **
+### **4. Intepretation **
 > 從這張圖表可以做出一些推論。
 
   1. cell, protein, gene, molecular是近50年來最熱門的議題。  
