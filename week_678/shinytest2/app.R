@@ -11,7 +11,7 @@ library(shiny)
 
 ui <- fluidPage( navlistPanel(
   
-  titlePanel("Old Faithful Geyser Data"),
+  titlePanel("App Types"),
   
   mainPanel(radioButtons("radio", label = h3("Radio buttons"),
                          choices = list("Choice 1" = 1, "Choice 2" = 2, "Choice 3" = 3), 

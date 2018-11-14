@@ -1,0 +1,12 @@
+name: googleplaystore
+title: googleplaystore
+username:
+account: b05401102
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 570721
+bundleId: 1700817
+url: https://b05401102.shinyapps.io/googleplaystore/
+when: 1542211146.47644
+asMultiple: FALSE
+asStatic: FALSE
