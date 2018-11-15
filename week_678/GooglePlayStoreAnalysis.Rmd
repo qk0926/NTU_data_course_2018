@@ -1,7 +1,7 @@
 ---
 title: "Google Play Store Analysis"
 author: "B05401102"
-date: "2018年10月3日"
+date: "2018年11月15日"
 output: html_document
 ---
 
@@ -19,7 +19,7 @@ library(kableExtra)
 
 ### **1. Data Input**  
 >直接從網站下載檔案後開啟。  
->設置`stringsAsFactors = F`，輸入的資料型態才不會跑掉
+>設置`stringsAsFactors = F`，輸入的資料型態才不會跑掉。   
 >原本讀取檔案後發現中文字導致亂碼，所以先利用記事本將dataset以新的編碼方式另存新檔，再開啟即可。
 
 ```{r}
@@ -29,7 +29,7 @@ googleplay<-read.delim("googleplaystore.csv", sep = ",",header = T, stringsAsFac
 
 ### **2. Data Cleaning**  
 >將各column的資料型態改為適合進行分析的型態。  
->使用gsub函數刪除不想要的字串符號後就可以順利將字串轉換為數字
+>使用gsub函數刪除不想要的字串符號後就可以順利將字串轉換為數字。
 
 ```{r warning=FALSE}
 #資料清洗與資料型態的轉變
