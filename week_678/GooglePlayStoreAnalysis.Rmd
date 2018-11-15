@@ -131,7 +131,9 @@ library(wordcloud2)
 library(ggplot2)
 library(rvest)
 library(SnowballC)
-library(wordcloud2)
+library(RColorBrewer)
+library(wordcloud)
+
 
 orderGoogleplay <- googleplay[order(googleplay$Installs, decreasing = T),]
 na <- orderGoogleplay[1:3600,"App"]
@@ -157,10 +159,13 @@ seg = lapply(docs, tokenizer)
 >分別建立term frequency的table。
 
 ```{r}
-for(i in 1:3){
-  termfreq <- table(unlist(seg[[i]])) %>% sort(., decreasing =T )
-  print(termfreq[2:31])
-}
+  termfreqa <- table(unlist(seg[[1]])) %>% sort(., decreasing =T )
+  print(termfreqa[2:31])
+  termfreqb <- table(unlist(seg[[2]])) %>% sort(., decreasing =T )
+  print(termfreqb[2:31])
+  termfreqc <- table(unlist(seg[[3]])) %>% sort(., decreasing =T )
+  print(termfreqc[2:31])
+
 
 ```
       
@@ -170,4 +175,23 @@ for(i in 1:3){
     2. 第一個table中，"camera"、"photo"、"editor"、"video"、"selfie"占了很大一部分，可見現代的人都愛當網帥網美XD。
     3. 除了拍照方面，"shopping"、"dating"、"games"也是熱門下載的對象
     4. 跟學習有關的，像是"english"、"calculator"，或是"weather"似乎是常見實用但沒那麼受歡迎的app。
+    
+    
+> 接下來繪製文字雲。由於`wordcloud2`這個function存取的文字雲為動態(dynamic)的文字雲，要同時在一份markdown文件中顯示兩個文字雲的話，就必須把動態文字雲利用**htmlwidgets package**和**webshot package**存成靜態png檔再匯入，才能顯示。    
+
+```{r}
+library(htmlwidgets)
+library(webshot)
+a_cloud <- wordcloud2(as.data.frame(table(unlist(seg[[1]])) %>% sort(., decreasing =T )),size = 10)
+saveWidget(a_cloud, "a.html", selfcontained = F)
+webshot("a.html", "a.png", delay = 5, vwidth = 2000, vheight = 2000)
+b_cloud <- wordcloud2(as.data.frame(table(unlist(seg[[2]])) %>% sort(., decreasing =T )),size = 13)
+saveWidget(b_cloud, "b.html", selfcontained = F)
+webshot("b.html", "b.png", delay = 5, vwidth = 2000, vheight = 2000)
+c_cloud <- wordcloud2(as.data.frame(table(unlist(seg[[3]])) %>% sort(., decreasing =T )),size = 10)
+saveWidget(c_cloud, "c.html", selfcontained = F)
+webshot("c.html", "c.png", delay = 5, vwidth = 2000, vheight = 2000)
+```
+
+
     
