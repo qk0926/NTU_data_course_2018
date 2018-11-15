@@ -5,8 +5,8 @@ account: b05401102
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 571215
-bundleId: 1701202
+bundleId: 1701751
 url: https://b05401102.shinyapps.io/week_678/
-when: 1542224767.6785
+when: 1542248301.09419
 asMultiple: FALSE
 asStatic: FALSE
