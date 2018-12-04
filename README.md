@@ -50,3 +50,12 @@ my course projects
 - hw
   - Shiny link: [GooglePlayStoreAnalysis](https://b05401102.shinyapps.io/week_678/)
   - html link: [GooglePlayStoreAnalysis](https://qk0926.github.io/NTU_data_course_2018/week_678/GooglePlayStoreAnalysis.html)
+  
+### week 12
+- course topic: **Named Entity Recognition(NER) Tagging**
+  - tools: Python, nltk(Natural Language Toolkit) package
+  - install Python(w/ Anaconda, Jupyter Notebook)
+  - learn to tag words with nltk package  
+- hw
+  - NER in html format
+  - html link: [CNN news: Taiwan voters reject same-sex marriage](https://qk0926.github.io/NTU_data_course_2018/week_12/NER)
