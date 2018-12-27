@@ -1,0 +1,2855 @@
+[[1]]
+[[1]]$abbreviation
+ [1] "MICU"  "ER"    "IAI"   "CRRT"  "PSA"   "ADLs"  "on"    "CXR"   "CK"    "CT"    "BUN"  
+[12] "HD"    "CVC"   "NKA"   "ADR"   "IF"    "SC"    "NPH"   "Inj"   "IV"    "PO"    "BMI"  
+[23] "BW"    "kg"    "BP"    "HEENT" "LAP"   "PMI"   "S1"    "S2"    "S3"    "S4"    "RL"   
+[34] "PH"    "HCO3"  "CBC"   "PLT"   "WBC"   "RBC"   "HB"    "HCT"   "MCV"   "dL"    "MCH"  
+[45] "MCHC"  "RDW"   "CV"    "CRE"   "Na"    "Ca"    "Mg"    "AST"   "CKMB"  "BNP"   "ALT"  
+[56] "ALP"   "HPF"   "Gr"    "SA"    "VDRL"  "RPR"   "VH"    "HIV"   "Ag"    "Ab"    "dl"   
+[67] "ID"    "DS"    "Hb"    "Hct"   "BK"    "ABO"   "CBD"   "KUB"   "DJD"   "AP"    "LLL"  
+[78] "AKI"   "ED"    "BT"    "ABG"   "CVVH"  "VS"    "ETT"   "DNR"   "GI"    "NPO"   "NG"   
+[89] "PPI"   "EGD"   "D5W"   "LDH"   "SBP"   "PCV"   "Abd"   "DW"    "TPN"  
+
+[[1]]$`abbreviation(expand)`
+ [1] "antibiotic"      "prognosis"       "admission"       "history"         "fracture"       
+ [6] "blood"           "dopamine"        "biopsy"          "antigen"         "unknown"        
+[11] "assessment"      "negative"        "headache"        "cardiovascular"  "abnormal"       
+[16] "conjunctiva"     "normal"          "bilateral"       "antibody"        "without"        
+[21] "lymphadenopathy" "catheter"        "dislocation"     "lateral"         "diagnosis"      
+[26] "antibiotics"     "discharge"       "disease"         "amount"          "specimen"       
+[31] "symptoms"        "extremities"    
+
+[[1]]$drugs
+ [1] "levophed"        "dopamine"        "diphenhydramine" "bethanechol"     "maxipime"       
+ [6] "metronidazole"   "albumin"         "ceftazidime"     "furosemide"      "tygacil"        
+[11] "ampicillin"      "valtrex"        
+
+[[1]]$disease
+[1] "ascites"
+
+[[1]]$`disease(expand)`
+  [1] "shock"            "with"             "focus"            "muscle"          
+  [5] "abscess"          "from"             "uremic"           "adrenal"         
+  [9] "thyroid"          "contact"          "weakness"         "pain"            
+ [13] "adenocarcinoma"   "cancer"           "hematuria"        "urinary"         
+ [17] "fracture"         "severe"           "limb"             "fever"           
+ [21] "blood"            "infection"        "renal"            "hypotension"     
+ [25] "left"             "allergy"          "materials"        "alcohol"         
+ [29] "type"             "cluster"          "system"           "positive"        
+ [33] "negative"         "systemic"         "fatigue"          "insomnia"        
+ [37] "weight"           "diffuse"          "cold"             "intolerance"     
+ [41] "edema"            "head"             "headache"         "vertigo"         
+ [45] "photophobia"      "visual"           "field"            "defect"          
+ [49] "ocular"           "excess"           "alopecia"         "cataracts"       
+ [53] "glaucoma"         "ears"             "nose"             "hearing"         
+ [57] "impairment"       "nasal"            "anosmia"          "mouth"           
+ [61] "throat"           "oral"             "ulcer"            "dental"          
+ [65] "dysphagia"        "cardiovascular"   "cough"            "respiratory"     
+ [69] "paroxysmal"       "nocturnal"        "syncope"          "intermittent"    
+ [73] "gastrointestinal" "vomiting"         "acid"             "regurgitation"   
+ [77] "hiccup"           "abdominal"        "constipation"     "bowel"           
+ [81] "small"            "abnormal"         "sexual"           "skin"            
+ [85] "jaundice"         "changes"          "hair"             "loss"            
+ [89] "telangiectasia"   "purpura"          "myalgia"          "bone"            
+ [93] "joint"            "fractures"        "neurological"     "paresis"         
+ [97] "tremor"           "anxiety"          "depression"       "appearance"      
+[101] "activity"         "anomaly"          "conjunctiva"      "pupils"          
+[105] "reflex"           "neck"             "goiter"           "symmetric"       
+[109] "expansion"        "retraction"       "coarse"           "heart"           
+[113] "normal"           "soft"             "liver"            "spleen"          
+[117] "extremity"        "bilateral"        "others"           "bacteria"        
+[121] "protein"          "band"             "manual"           "crystals"        
+[125] "cell"             "antibody"         "without"          "pulmonary"       
+[129] "emphysema"        "partial"          "lower"            "mild"            
+[133] "effusion"         "thoracic"         "lymph"            "lymphadenopathy" 
+[137] "bones"            "wall"             "central"          "venous"          
+[141] "brain"            "atrophy"          "dilated"          "nonspecific"     
+[145] "white"            "matter"           "intracranial"     "abnormality"     
+[149] "cranial"          "skull"            "right"            "advanced"        
+[153] "insertion"        "bladder"          "pelvic"           "ascites"         
+[157] "stones"           "ducts"            "duct"             "clinical"        
+[161] "spine"            "disc"             "aorta"            "scoliosis"       
+[165] "osteopenia"       "kyphoscoliosis"   "multiple"         "osseous"         
+[169] "tissue"           "clinically"       "lumbosacral"      "factor"          
+[173] "phenomenon"       "essential"        "intact"           "joints"          
+[177] "borderline"       "aortic"           "calcification"    "lung"            
+[181] "lesions"          "dislocation"      "femur"            "lateral"         
+[185] "medial"           "related"          "acute"            "kidney"          
+[189] "injury"           "tract"            "uremia"           "long"            
+[193] "failure"          "chronic"          "disease"          "diabetes"        
+[197] "foot"             "distal"           "overload"         "context"         
+[201] "body"             "very"             "dependent"        "lactic"          
+[205] "acidosis"         "tapered"          "large"            "component"       
+[209] "aeruginosa"       "recurrent"        "resistant"        "drug"            
+[213] "sensitivity"      "during"           "persistent"       "limited"         
+[217] "extremities"      "feet"             "colon"            "organ"           
+[221] "coma"             "withdrawal"      
+
+[[1]]$treatment
+  [1] "the"              "a"                "of"               "with"            
+  [5] "prostate"         "ca"               "to"               "for"             
+  [9] "and"              "thyroid"          "function"         "treatment"       
+ [13] "plan"             "back"             "score"            "psa"             
+ [17] "therapy"          "in"               "cancer"           "urinary"         
+ [21] "c"                "blood"            "tests"            "infection"       
+ [25] "ct"               "scan"             "b"                "after"           
+ [29] "left"             "medical"          "surgical"         "ultrasonography" 
+ [33] "biopsy"           "elevated"         "specific"         "antigen"         
+ [37] "allergy"          "medication"       "device"           "iv"              
+ [41] "screen"           "stool"            "weight"           "intolerance"     
+ [45] "visual"           "field"            "eye"              "hearing"         
+ [49] "nasal"            "mouth"            "throat"           "oral"            
+ [53] "gum"              "dental"           "problems"         "chest"           
+ [57] "gastrointestinal" "acid"             "abdominal"        "bowel"           
+ [61] "incontinence"     "small"            "urine"            "abnormal"        
+ [65] "skin"             "hair"             "loss"             "bone"            
+ [69] "joint"            "physical"         "examination"      "light"           
+ [73] "neck"             "lap"              "breath"           "heart"           
+ [77] "or"               "normal"           "soft"             "liver"           
+ [81] "ph"               "gas"              "cbc"              "wbc"             
+ [85] "rbc"              "hb"               "hct"              "mcv"             
+ [89] "mch"              "mchc"             "rdw"              "125"             
+ [93] "ast"              "mucus"            "d"                "alt"             
+ [97] "protein"          "band"             "sugar"            "test"            
+[101] "hiv"              "cell"             "glucose"          "antibody"        
+[105] "imaging"          "without"          "partial"          "lower"           
+[109] "lymph"            "brain"            "study"            "density"         
+[113] "white"            "pelvic"           "clinical"         "lumbar"          
+[117] "multiple"         "factor"           "vacuum"           "joints"          
+[121] "aortic"           "ultrasound"       "diagnosis"        "kidney"          
+[125] "care"             "ed"               "control"          "complete"        
+[129] "vs"               "failure"          "disease"          "diabetes"        
+[133] "drainage"         "volume"           "gi"               "feeding"         
+[137] "response"         "body"             "support"          "egd"             
+[141] "questions"        "removal"          "morning"          "fluid"           
+[145] "infusion"         "drug"             "high"             "during"          
+[149] "milk"             "colon"            "withdrawal"      
+
+[[1]]$symptoms
+  [1] "the"          "of"           "with"         "muscle"       "prostate"     "to"          
+  [7] "from"         "and"          "bleeding"     "contact"      "weakness"     "low"         
+ [13] "back"         "pain"         "under"        "in"           "cancer"       "urinary"     
+ [19] "retention"    "on"           "fever"        "c"            "blood"        "increased"   
+ [25] "infection"    "decreased"    "enlarged"     "elevated"     "allergy"      "alcohol"     
+ [31] "stool"        "chills"       "fatigue"      "insomnia"     "weight"       "appetite"    
+ [37] "cold"         "intolerance"  "eyes"         "headache"     "dizziness"    "vertigo"     
+ [43] "photophobia"  "blurred"      "vision"       "ocular"       "eye"          "redness"     
+ [49] "dry"          "trauma"       "glaucoma"     "ears"         "nose"         "hearing"     
+ [55] "nasal"        "congestion"   "mouth"        "throat"       "ulcer"        "gum"         
+ [61] "sore"         "dysphagia"    "hoarseness"   "cough"        "sputum"       "respiratory" 
+ [67] "chest"        "tightness"    "nausea"       "vomiting"     "heartburn"    "acid"        
+ [73] "abdominal"    "diarrhea"     "constipation" "bowel"        "urgency"      "incontinence"
+ [79] "small"        "urine"        "cloudy"       "impotence"    "abnormal"     "skin"        
+ [85] "rash"         "pruritus"     "dryness"      "jaundice"     "color"        "changes"     
+ [91] "hair"         "loss"         "bone"         "joint"        "stiffness"    "cramps"      
+ [97] "numbness"     "tremor"       "gait"         "memory"       "anxiety"      "panic"       
+[103] "depression"   "pale"         "sclera"       "pupils"       "neck"         "retraction"  
+[109] "breath"       "heart"        "or"           "liver"        "pitting"      "leg"         
+[115] "gas"          "yeast"        "sugar"        "hiv"          "cell"         "pulmonary"   
+[121] "lymph"        "nodes"        "brain"        "dilated"      "density"      "white"       
+[127] "hemorrhage"   "bladder"      "pelvic"       "osteopenia"   "multiple"     "joints"      
+[133] "lung"         "acute"        "kidney"       "injury"       "tract"        "poor"        
+[139] "discharge"    "failure"      "chronic"      "disease"      "diabetes"     "drainage"    
+[145] "foot"         "body"         "output"       "morning"      "high"         "distended"   
+[151] "feet"         "toes"         "colon"        "confusion"    "withdrawal"  
+
+[[1]]$all
+  [1] "the"              "a"                "of"               "shock"           
+  [5] "with"             "focus"            "muscle"           "abscess"         
+  [9] "prostate"         "ca"               "to"               "from"            
+ [13] "antibiotic"       "for"              "and"              "uremic"          
+ [17] "bleeding"         "adrenal"          "thyroid"          "function"        
+ [21] "contact"          "treatment"        "plan"             "prognosis"       
+ [25] "admission"        "weakness"         "low"              "back"            
+ [29] "pain"             "history"          "adenocarcinoma"   "score"           
+ [33] "psa"              "under"            "therapy"          "in"              
+ [37] "cancer"           "hematuria"        "urinary"          "retention"       
+ [41] "fracture"         "severe"           "limb"             "on"              
+ [45] "fever"            "c"                "blood"            "tests"           
+ [49] "increased"        "infection"        "ct"               "scan"            
+ [53] "decreased"        "b"                "renal"            "after"           
+ [57] "hypotension"      "levophed"         "dopamine"         "enlarged"        
+ [61] "left"             "medical"          "surgical"         "ultrasonography" 
+ [65] "biopsy"           "elevated"         "specific"         "antigen"         
+ [69] "allergy"          "medication"       "unknown"          "device"          
+ [73] "materials"        "alcohol"          "type"             "cluster"         
+ [77] "iv"               "diphenhydramine"  "bethanechol"      "assessment"      
+ [81] "screen"           "stool"            "system"           "positive"        
+ [85] "negative"         "systemic"         "chills"           "fatigue"         
+ [89] "insomnia"         "weight"           "appetite"         "diffuse"         
+ [93] "cold"             "intolerance"      "edema"            "head"            
+ [97] "eyes"             "headache"         "dizziness"        "vertigo"         
+[101] "photophobia"      "visual"           "field"            "defect"          
+[105] "blurred"          "vision"           "ocular"           "eye"             
+[109] "redness"          "dry"              "excess"           "alopecia"        
+[113] "trauma"           "cataracts"        "glaucoma"         "ears"            
+[117] "nose"             "hearing"          "impairment"       "nasal"           
+[121] "congestion"       "anosmia"          "mouth"            "throat"          
+[125] "oral"             "ulcer"            "gum"              "dental"          
+[129] "problems"         "sore"             "dysphagia"        "hoarseness"      
+[133] "cardiovascular"   "cough"            "sputum"           "respiratory"     
+[137] "chest"            "tightness"        "paroxysmal"       "nocturnal"       
+[141] "syncope"          "intermittent"     "gastrointestinal" "nausea"          
+[145] "vomiting"         "heartburn"        "acid"             "regurgitation"   
+[149] "hiccup"           "abdominal"        "diarrhea"         "constipation"    
+[153] "bowel"            "urgency"          "incontinence"     "small"           
+[157] "urine"            "cloudy"           "impotence"        "abnormal"        
+[161] "sexual"           "skin"             "rash"             "pruritus"        
+[165] "dryness"          "jaundice"         "color"            "changes"         
+[169] "hair"             "loss"             "telangiectasia"   "purpura"         
+[173] "myalgia"          "bone"             "joint"            "stiffness"       
+[177] "cramps"           "fractures"        "neurological"     "numbness"        
+[181] "paresis"          "tremor"           "gait"             "memory"          
+[185] "anxiety"          "panic"            "depression"       "physical"        
+[189] "examination"      "appearance"       "activity"         "anomaly"         
+[193] "conjunctiva"      "pale"             "sclera"           "pupils"          
+[197] "light"            "reflex"           "neck"             "lap"             
+[201] "goiter"           "symmetric"        "expansion"        "retraction"      
+[205] "breath"           "coarse"           "heart"            "or"              
+[209] "normal"           "soft"             "liver"            "spleen"          
+[213] "extremity"        "pitting"          "bilateral"        "leg"             
+[217] "ph"               "gas"              "cbc"              "wbc"             
+[221] "rbc"              "hb"               "hct"              "mcv"             
+[225] "mch"              "mchc"             "rdw"              "125"             
+[229] "ast"              "mucus"            "d"                "alt"             
+[233] "others"           "bacteria"         "yeast"            "protein"         
+[237] "band"             "manual"           "sugar"            "test"            
+[241] "hiv"              "crystals"         "cell"             "glucose"         
+[245] "antibody"         "imaging"          "without"          "pulmonary"       
+[249] "emphysema"        "partial"          "lower"            "mild"            
+[253] "effusion"         "thoracic"         "lymph"            "nodes"           
+[257] "lymphadenopathy"  "bones"            "wall"             "central"         
+[261] "venous"           "catheter"         "brain"            "study"           
+[265] "atrophy"          "dilated"          "nonspecific"      "density"         
+[269] "white"            "matter"           "intracranial"     "hemorrhage"      
+[273] "abnormality"      "cranial"          "skull"            "right"           
+[277] "advanced"         "insertion"        "bladder"          "pelvic"          
+[281] "ascites"          "stones"           "ducts"            "duct"            
+[285] "clinical"         "lumbar"           "spine"            "disc"            
+[289] "aorta"            "scoliosis"        "osteopenia"       "kyphoscoliosis"  
+[293] "multiple"         "osseous"          "tissue"           "clinically"      
+[297] "lumbosacral"      "factor"           "vacuum"           "phenomenon"      
+[301] "essential"        "intact"           "joints"           "borderline"      
+[305] "aortic"           "calcification"    "lung"             "lesions"         
+[309] "dislocation"      "femur"            "lateral"          "ultrasound"      
+[313] "medial"           "diagnosis"        "related"          "acute"           
+[317] "kidney"           "injury"           "tract"            "care"            
+[321] "ed"               "maxipime"         "uremia"           "poor"            
+[325] "control"          "complete"         "antibiotics"      "long"            
+[329] "discharge"        "vs"               "failure"          "chronic"         
+[333] "disease"          "diabetes"         "metronidazole"    "drainage"        
+[337] "foot"             "distal"           "volume"           "overload"        
+[341] "gi"               "context"          "feeding"          "response"        
+[345] "albumin"          "body"             "support"          "egd"             
+[349] "ceftazidime"      "output"           "questions"        "very"            
+[353] "removal"          "amount"           "dependent"        "lactic"          
+[357] "acidosis"         "tapered"          "morning"          "large"           
+[361] "component"        "specimen"         "aeruginosa"       "recurrent"       
+[365] "fluid"            "furosemide"       "infusion"         "tygacil"         
+[369] "ampicillin"       "resistant"        "drug"             "sensitivity"     
+[373] "high"             "during"           "persistent"       "symptoms"        
+[377] "valtrex"          "limited"          "distended"        "extremities"     
+[381] "feet"             "toes"             "milk"             "colon"           
+[385] "confusion"        "organ"            "coma"             "withdrawal"      
+
+
+[[2]]
+[[2]]$abbreviation
+ [1] "on"   "ER"   "CT"   "ICH"  "DNR"  "CPR"  "ECMO" "OP"   "hr"   "ETT"  "PEEP" "WBC"  "HB"  
+[14] "dL"   "CXR"  "PO"  
+
+[[2]]$`abbreviation(expand)`
+[1] "dopamine"   "assessment" "bilateral"  "tumor"     
+
+[[2]]$drugs
+[1] "dopamine"
+
+[[2]]$disease
+NULL
+
+[[2]]$`disease(expand)`
+ [1] "brain"     "left"      "lobe"      "with"      "midline"   "right"     "shock"    
+ [8] "multiple"  "bilateral" "lung"      "tumor"    
+
+[[2]]$treatment
+ [1] "of"         "the"        "brain"      "ct"         "left"       "lobe"       "with"      
+ [8] "to"         "for"        "d"          "intubation" "in"         "multiple"   "care"      
+[15] "and"        "wbc"        "hb"         "tumor"      "plan"       "a"          "b"         
+[22] "c"         
+
+[[2]]$symptoms
+ [1] "of"        "on"        "the"       "brain"     "with"      "to"        "in"       
+ [8] "multiple"  "and"       "lung"      "increased" "tumor"     "bleeding"  "c"        
+
+[[2]]$all
+ [1] "of"         "on"         "the"        "brain"      "ct"         "left"       "lobe"      
+ [8] "with"       "midline"    "to"         "right"      "for"        "shock"      "d"         
+[15] "intubation" "in"         "multiple"   "care"       "dopamine"   "and"        "assessment"
+[22] "wbc"        "hb"         "bilateral"  "lung"       "increased"  "tumor"      "bleeding"  
+[29] "plan"       "a"          "b"          "c"         
+
+
+[[3]]
+[[3]]$abbreviation
+ [1] "PEA"  "CPR"  "VA"   "ECMO" "on"   "CVVH" "EEG"  "BP"   "ID"   "MRI"  "CPCR" "ARDS" "DNR" 
+[14] "ICU" 
+
+[[3]]$`abbreviation(expand)`
+[1] "without"       "pneumonia"     "ventilation"   "etiology"      "schizophrenia"
+
+[[3]]$drugs
+[1] "meropenem"   "fluconazole"
+
+[[3]]$disease
+NULL
+
+[[3]]$`disease(expand)`
+ [1] "with"         "coma"         "without"      "paralysis"    "brain"        "stem"        
+ [7] "reflex"       "neurological" "pneumonia"    "related"      "overload"     "persistent"  
+[13] "hypotension"  "responsive"   "infection"    "tube"         "airway"       "overdose"    
+[19] "shock"        "undetermined" "respiratory"  "failure"      "lung"         "edema"       
+[25] "right"        "type"         "hepatitis"    "withdrawal"   "combined"     "contact"     
+
+[[3]]$treatment
+ [1] "with"         "medication"   "without"      "or"           "breathing"    "trigger"     
+ [7] "brain"        "stem"         "and"          "for"          "d"            "fluid"       
+[13] "imaging"      "eeg"          "in"           "to"           "infection"    "mri"         
+[19] "endotracheal" "tube"         "mechanical"   "ventilation"  "airway"       "failure"     
+[25] "aspiration"   "b"            "a"            "care"         "the"          "withdrawal"  
+[31] "treat"        "your"         "support"      "problems"    
+
+[[3]]$symptoms
+ [1] "with"          "on"            "or"            "paralysis"     "brain"        
+ [6] "and"           "pneumonia"     "in"            "to"            "low"          
+[11] "infection"     "under"         "respiratory"   "failure"       "lung"         
+[16] "schizophrenia" "hepatitis"     "the"           "withdrawal"    "contact"      
+
+[[3]]$all
+ [1] "with"          "medication"    "on"            "coma"          "without"      
+ [6] "or"            "paralysis"     "breathing"     "trigger"       "brain"        
+[11] "stem"          "reflex"        "and"           "neurological"  "for"          
+[16] "d"             "pneumonia"     "related"       "fluid"         "overload"     
+[21] "imaging"       "eeg"           "persistent"    "in"            "to"           
+[26] "hypotension"   "low"           "responsive"    "meropenem"     "fluconazole"  
+[31] "infection"     "mri"           "under"         "endotracheal"  "tube"         
+[36] "mechanical"    "ventilation"   "airway"        "overdose"      "shock"        
+[41] "etiology"      "undetermined"  "respiratory"   "failure"       "lung"         
+[46] "edema"         "right"         "aspiration"    "schizophrenia" "type"         
+[51] "hepatitis"     "b"             "a"             "care"          "the"          
+[56] "withdrawal"    "treat"         "your"          "support"       "combined"     
+[61] "contact"       "problems"     
+
+
+[[4]]
+[[4]]$abbreviation
+  [1] "MTX"   "on"    "NEC"   "ENT"   "OPD"   "CNS"   "MRI"   "CT"    "ALL"   "IF"    "IV"   
+ [12] "PO"    "BT"    "BMI"   "HEENT" "BW"    "kg"    "BP"    "EOM"   "LV"    "RV"    "CVC"  
+ [23] "RL"    "CBC"   "PLT"   "WBC"   "RBC"   "HB"    "HCT"   "MCV"   "dL"    "MCH"   "MCHC" 
+ [34] "RDW"   "CV"    "UA"    "ALT"   "CRE"   "Na"    "Ca"    "HE"    "BC"    "AST"   "ALP"  
+ [45] "GGT"   "LDH"   "Mg"    "CRP"   "Ag"    "ID"    "DS"    "OP"    "HPF"   "Gr"    "ESR"  
+ [56] "hr"    "DIC"   "FDP"   "PT"    "INR"   "PTT"   "IU"    "SE"    "GBM"   "Ab"    "ANCA" 
+ [67] "DNA"   "SS"    "SB"    "RA"    "dl"    "BUN"   "KUB"   "PA"    "LUL"   "RML"   "RLL"  
+ [78] "LN"    "LAP"   "Abd"   "GB"    "TPN"   "GI"    "VS"    "CXR"   "VRE"   "Lab"   "Hb"   
+ [89] "PD"    "LOP"   "US"    "CVAD"  "SBP"   "EKG"   "HR"    "EGD"   "DU"    "OM"    "aPTT" 
+[100] "EEG"  
+
+[[4]]$`abbreviation(expand)`
+ [1] "history"         "disease"         "chemotherapy"    "bilateral"       "lymphadenopathy"
+ [6] "normal"          "biopsy"          "lymphocytes"     "blood"           "diagnosis"      
+[11] "without"         "abnormal"        "admission"       "tumor"           "assessment"     
+[16] "headache"        "discharge"       "cardiovascular"  "conjunctiva"     "extremities"    
+[21] "negative"        "antibody"        "gallbladder"     "internal"        "electrolytes"   
+[26] "symptoms"        "antibiotics"     "temperature"     "injection"       "seizure"        
+[31] "antibiotic"     
+
+[[4]]$drugs
+ [1] "fluconazole"    "augmentin"      "diflucan"       "maxipime"       "dexamethasone" 
+ [6] "meropenem"      "metronidazole"  "flagyl"         "levofloxacin"   "megace"        
+[11] "epinephrine"    "nexium"         "levophed"       "ganciclovir"    "hydrocortisone"
+[16] "keppra"        
+
+[[4]]$disease
+[1] "ascites"
+
+[[4]]$`disease(expand)`
+  [1] "abdominal"        "pain"             "with"             "intermittent"    
+  [5] "fever"            "illness"          "female"           "disease"         
+  [9] "acute"            "lymphoblastic"    "leukemia"         "lymphoma"        
+ [13] "part"             "positive"         "liver"            "abscess"         
+ [17] "infection"        "hepatitis"        "from"             "bilateral"       
+ [21] "neck"             "meningeal"        "local"            "cervical"        
+ [25] "lymphadenopathy"  "normal"           "pharyngeal"       "oral"            
+ [29] "head"             "multiple"         "lymph"            "left"            
+ [33] "core"             "tissue"           "small"            "lymphocytes"     
+ [37] "aggregates"       "cells"            "between"          "expansion"       
+ [41] "right"            "involvement"      "bone"             "marrow"          
+ [45] "white"            "blood"            "lymphocyte"       "cell"            
+ [49] "combined"         "activity"         "partial"          "neurological"    
+ [53] "brain"            "chromosome"       "abnormalities"    "minimal"         
+ [57] "vomiting"         "persistent"       "neutropenia"      "progressive"     
+ [61] "peripheral"       "body"             "aortic"           "mesenteric"      
+ [65] "lesions"          "kidneys"          "without"          "focus"           
+ [69] "abnormal"         "organ"            "rupture"          "cough"           
+ [73] "skull"            "disseminated"     "coagulation"      "during"          
+ [77] "pelvic"           "colitis"          "site"             "bowel"           
+ [81] "wall"             "valve"            "colon"            "tumor"           
+ [85] "associated"       "systemic"         "lymphomas"        "allergy"         
+ [89] "alcohol"          "system"           "weight"           "loss"            
+ [93] "skin"             "headache"         "strabismus"       "ocular"          
+ [97] "hearing"          "impairment"       "vertigo"          "nasal"           
+[101] "throat"           "ulcer"            "cardiovascular"   "nocturnal"       
+[105] "syncope"          "respiratory"      "gastrointestinal" "dysphagia"       
+[109] "acid"             "regurgitation"    "constipation"     "hematuria"       
+[113] "urinary"          "myalgia"          "weakness"         "metabolic"       
+[117] "intolerance"      "cold"             "nervous"          "paresis"         
+[121] "muscle"           "limbs"            "conjunctiva"      "mild"            
+[125] "reflex"           "vein"             "thyroid"          "goiter"          
+[129] "carotid"          "thoracic"         "symmetric"        "retraction"      
+[133] "vocal"            "heart"            "cardiac"          "umbilicus"       
+[137] "reflux"           "spleen"           "extremities"      "intact"          
+[141] "edema"            "legs"             "pigmentation"     "purpura"         
+[145] "telangiectasia"   "band"             "negative"         "epithelial"      
+[149] "cluster"          "mixed"            "bacteria"         "others"          
+[153] "protein"          "esterase"         "yellow"           "factor"          
+[157] "fibrinogen"       "nuclear"          "antibody"         "random"          
+[161] "fatigue"          "hepatic"          "cysts"            "cystic"          
+[165] "duct"             "medium"           "renal"            "kidney"          
+[169] "splenomegaly"     "pancreas"         "adrenal"          "external"        
+[173] "ascites"          "uterus"           "stones"           "calcified"       
+[177] "nodular"          "essential"        "joints"           "lung"            
+[181] "nonspecific"      "opacity"          "nodule"           "effusion"        
+[185] "great"            "vessels"          "bones"            "soft"            
+[189] "posterior"        "chain"            "maxillary"        "sinus"           
+[193] "focal"            "lower"            "clinical"         "crest"           
+[197] "node"             "fatty"            "broad"            "spectrum"        
+[201] "sinuses"          "deep"             "manual"           "platelet"        
+[205] "anemia"           "steroid"          "shock"            "dependent"       
+[209] "tachycardia"      "loose"            "hypotension"      "cutaneous"       
+[213] "pressure"         "thrombocytopenia" "lactic"           "insertion"       
+[217] "lysis"            "component"        "seizure"          "terminal"        
+
+[[4]]$treatment
+  [1] "and"              "abdominal"        "with"             "for"             
+  [5] "a"                "female"           "disease"          "of"              
+  [9] "post"             "c"                "chemotherapy"     "response"        
+ [13] "to"               "high"             "liver"            "infection"       
+ [17] "b"                "neck"             "in"               "examination"     
+ [21] "cervical"         "normal"           "oral"             "sonogram"        
+ [25] "multiple"         "lymph"            "the"              "left"            
+ [29] "core"             "needle"           "biopsy"           "small"           
+ [33] "or"               "bone"             "marrow"           "study"           
+ [37] "when"             "white"            "blood"            "cell"            
+ [41] "diagnosis"        "partial"          "brain"            "mri"             
+ [45] "complete"         "after"            "treatment"        "elevated"        
+ [49] "peripheral"       "body"             "ct"               "scan"            
+ [53] "aortic"           "root"             "without"          "abnormal"        
+ [57] "surgery"          "during"           "pelvic"           "colitis"         
+ [61] "echo"             "bowel"            "valve"            "colon"           
+ [65] "tumor"            "surgical"         "excision"         "removal"         
+ [69] "allergy"          "medication"       "iv"               "cap"             
+ [73] "d"                "screen"           "weight"           "loss"            
+ [77] "skin"             "strabismus"       "hearing"          "nasal"           
+ [81] "gum"              "throat"           "chest"            "gastrointestinal"
+ [85] "acid"             "stool"            "urinary"          "urine"           
+ [89] "back"             "intolerance"      "physical"         "side"            
+ [93] "eye"              "light"            "thyroid"          "breathing"       
+ [97] "heart"            "lift"             "cardiac"          "reflux"          
+[101] "cbc"              "wbc"              "rbc"              "hb"              
+[105] "hct"              "mcv"              "mch"              "mchc"            
+[109] "rdw"              "band"             "ua"               "alt"             
+[113] "ca"               "ast"              "crp"              "mucus"           
+[117] "ph"               "protein"          "esr"              "factor"          
+[121] "pt"               "sugar"            "antibody"         "occult"          
+[125] "imaging"          "cystic"           "gallbladder"      "kidney"          
+[129] "external"         "uterus"           "gas"              "lumbar"          
+[133] "joints"           "lap"              "soft"             "tissues"         
+[137] "chain"            "fluid"            "sinus"            "lower"           
+[141] "clinical"         "node"             "medical"          "care"            
+[145] "plan"             "electrolytes"     "gi"               "vs"              
+[149] "deep"             "platelet"         "count"            "temperature"     
+[153] "test"             "steroid"          "cortisone"        "pressure"        
+[157] "morning"          "ekg"              "egd"              "duodenum"        
+[161] "injection"        "therapy"          "infusion"         "seizure"         
+[165] "eeg"              "control"          "monitoring"       "smear"           
+[169] "support"         
+
+[[4]]$symptoms
+  [1] "and"          "abdominal"    "pain"         "diarrhea"     "with"         "fever"       
+  [7] "disease"      "of"           "acute"        "leukemia"     "status"       "on"          
+ [13] "c"            "poor"         "to"           "high"         "liver"        "infection"   
+ [19] "sinusitis"    "hepatitis"    "from"         "neck"         "swelling"     "in"          
+ [25] "cervical"     "multiple"     "lymph"        "nodes"        "the"          "small"       
+ [31] "or"           "mass"         "bone"         "white"        "blood"        "cell"        
+ [37] "under"        "brain"        "vomiting"     "elevated"     "peripheral"   "body"        
+ [43] "increased"    "abnormal"     "cough"        "pelvic"       "colitis"      "bowel"       
+ [49] "colon"        "tumor"        "allergy"      "alcohol"      "weight"       "loss"        
+ [55] "easy"         "skin"         "rash"         "itching"      "headache"     "dizziness"   
+ [61] "blurred"      "vision"       "ocular"       "hearing"      "vertigo"      "nasal"       
+ [67] "discharge"    "gum"          "bleeding"     "sore"         "throat"       "ulcer"       
+ [73] "chest"        "tightness"    "respiratory"  "nausea"       "dysphagia"    "heartburn"   
+ [79] "acid"         "constipation" "stool"        "urinary"      "urgency"      "urine"       
+ [85] "impotence"    "weakness"     "back"         "intolerance"  "cold"         "numbness"    
+ [91] "muscle"       "gait"         "eye"          "pale"         "sclera"       "retraction"  
+ [97] "vocal"        "heart"        "distended"    "reflux"       "pitting"      "sputum"      
+[103] "fungus"       "color"        "sugar"        "fatigue"      "appetite"     "stone"       
+[109] "cystic"       "gallbladder"  "kidney"       "external"     "gas"          "joints"      
+[115] "lung"         "sinus"        "node"         "appendicitis" "low"          "cramps"      
+[121] "temperature"  "anemia"       "output"       "tachycardia"  "frequent"     "pressure"    
+[127] "morning"      "hemolysis"    "bloody"       "clot"         "thrush"      
+
+[[4]]$all
+  [1] "and"              "abdominal"        "pain"             "diarrhea"        
+  [5] "with"             "intermittent"     "fever"            "for"             
+  [9] "history"          "illness"          "a"                "female"          
+ [13] "disease"          "of"               "acute"            "lymphoblastic"   
+ [17] "leukemia"         "lymphoma"         "status"           "post"            
+ [21] "part"             "positive"         "on"               "c"               
+ [25] "chemotherapy"     "poor"             "response"         "to"              
+ [29] "high"             "liver"            "abscess"          "infection"       
+ [33] "sinusitis"        "hepatitis"        "b"                "from"            
+ [37] "bilateral"        "neck"             "swelling"         "in"              
+ [41] "meningeal"        "local"            "examination"      "cervical"        
+ [45] "lymphadenopathy"  "normal"           "pharyngeal"       "oral"            
+ [49] "head"             "sonogram"         "multiple"         "lymph"           
+ [53] "nodes"            "the"              "left"             "core"            
+ [57] "needle"           "biopsy"           "tissue"           "small"           
+ [61] "lymphocytes"      "aggregates"       "cells"            "between"         
+ [65] "expansion"        "or"               "right"            "mass"            
+ [69] "involvement"      "bone"             "marrow"           "study"           
+ [73] "when"             "white"            "blood"            "lymphocyte"      
+ [77] "cell"             "diagnosis"        "combined"         "under"           
+ [81] "activity"         "partial"          "neurological"     "brain"           
+ [85] "mri"              "chromosome"       "abnormalities"    "complete"        
+ [89] "minimal"          "after"            "vomiting"         "persistent"      
+ [93] "neutropenia"      "progressive"      "treatment"        "elevated"        
+ [97] "peripheral"       "body"             "ct"               "scan"            
+[101] "aortic"           "mesenteric"       "root"             "lesions"         
+[105] "kidneys"          "without"          "focus"            "fluconazole"     
+[109] "increased"        "abnormal"         "organ"            "rupture"         
+[113] "surgery"          "cough"            "skull"            "augmentin"       
+[117] "diflucan"         "disseminated"     "coagulation"      "during"          
+[121] "admission"        "pelvic"           "colitis"          "site"            
+[125] "maxipime"         "echo"             "bowel"            "wall"            
+[129] "valve"            "colon"            "tumor"            "associated"      
+[133] "systemic"         "surgical"         "lymphomas"        "excision"        
+[137] "removal"          "allergy"          "medication"       "iv"              
+[141] "cap"              "dexamethasone"    "d"                "alcohol"         
+[145] "assessment"       "screen"           "system"           "weight"          
+[149] "loss"             "easy"             "skin"             "rash"            
+[153] "itching"          "headache"         "dizziness"        "blurred"         
+[157] "vision"           "strabismus"       "ocular"           "hearing"         
+[161] "impairment"       "vertigo"          "nasal"            "discharge"       
+[165] "gum"              "bleeding"         "sore"             "throat"          
+[169] "ulcer"            "cardiovascular"   "chest"            "tightness"       
+[173] "nocturnal"        "syncope"          "respiratory"      "gastrointestinal"
+[177] "nausea"           "dysphagia"        "heartburn"        "acid"            
+[181] "regurgitation"    "constipation"     "stool"            "hematuria"       
+[185] "urinary"          "urgency"          "urine"            "impotence"       
+[189] "myalgia"          "weakness"         "back"             "metabolic"       
+[193] "intolerance"      "cold"             "nervous"          "numbness"        
+[197] "paresis"          "physical"         "side"             "muscle"          
+[201] "limbs"            "gait"             "eye"              "conjunctiva"     
+[205] "mild"             "pale"             "sclera"           "light"           
+[209] "reflex"           "vein"             "thyroid"          "goiter"          
+[213] "carotid"          "thoracic"         "symmetric"        "retraction"      
+[217] "vocal"            "breathing"        "heart"            "lift"            
+[221] "cardiac"          "distended"        "umbilicus"        "reflux"          
+[225] "spleen"           "extremities"      "intact"           "pitting"         
+[229] "edema"            "legs"             "pigmentation"     "purpura"         
+[233] "telangiectasia"   "cbc"              "wbc"              "rbc"             
+[237] "hb"               "hct"              "mcv"              "mch"             
+[241] "mchc"             "rdw"              "band"             "ua"              
+[245] "alt"              "ca"               "ast"              "crp"             
+[249] "sputum"           "fungus"           "negative"         "epithelial"      
+[253] "cluster"          "mixed"            "bacteria"         "mucus"           
+[257] "others"           "ph"               "protein"          "esterase"        
+[261] "color"            "yellow"           "esr"              "factor"          
+[265] "fibrinogen"       "pt"               "sugar"            "nuclear"         
+[269] "antibody"         "occult"           "random"           "imaging"         
+[273] "fatigue"          "appetite"         "hepatic"          "cysts"           
+[277] "stone"            "cystic"           "duct"             "gallbladder"     
+[281] "medium"           "renal"            "kidney"           "splenomegaly"    
+[285] "pancreas"         "adrenal"          "external"         "internal"        
+[289] "ascites"          "uterus"           "gas"              "stones"          
+[293] "calcified"        "nodular"          "lumbar"           "essential"       
+[297] "joints"           "lung"             "nonspecific"      "opacity"         
+[301] "nodule"           "effusion"         "lap"              "great"           
+[305] "vessels"          "bones"            "soft"             "tissues"         
+[309] "posterior"        "chain"            "fluid"            "maxillary"       
+[313] "sinus"            "focal"            "lower"            "clinical"        
+[317] "crest"            "node"             "appendicitis"     "medical"         
+[321] "care"             "plan"             "fatty"            "broad"           
+[325] "spectrum"         "electrolytes"     "sinuses"          "gi"              
+[329] "symptoms"         "vs"               "low"              "cramps"          
+[333] "deep"             "manual"           "meropenem"        "platelet"        
+[337] "count"            "antibiotics"      "temperature"      "test"            
+[341] "metronidazole"    "anemia"           "flagyl"           "output"          
+[345] "steroid"          "shock"            "dependent"        "tachycardia"     
+[349] "loose"            "levofloxacin"     "frequent"         "hypotension"     
+[353] "cutaneous"        "cortisone"        "megace"           "pressure"        
+[357] "morning"          "ekg"              "thrombocytopenia" "lactic"          
+[361] "hemolysis"        "bloody"           "insertion"        "egd"             
+[365] "clot"             "duodenum"         "epinephrine"      "injection"       
+[369] "therapy"          "nexium"           "infusion"         "thrush"          
+[373] "lysis"            "component"        "levophed"         "seizure"         
+[377] "eeg"              "antibiotic"       "ganciclovir"      "control"         
+[381] "hydrocortisone"   "keppra"           "monitoring"       "smear"           
+[385] "terminal"         "support"         
+
+
+[[5]]
+[[5]]$abbreviation
+ [1] "on"    "OU"    "BP"    "Lab"   "WBC"   "Hb"    "dl"    "PLT"   "BUN"   "CT"    "OB"   
+[12] "IV"    "Inj"   "IF"    "PO"    "IU"    "SC"    "TID"   "Oint"  "BMI"   "HEENT" "BW"   
+[23] "kg"    "BT"    "HR"    "RR"    "LAP"   "CV"    "CA"    "RA"    "FA"    "PA"    "PTA"  
+[34] "RL"    "CRE"   "Na"    "dL"    "Ca"    "CK"    "CBC"   "RBC"   "HB"    "HCT"   "MCV"  
+[45] "MCH"   "MCHC"  "RDW"   "HPF"   "Gr"    "PH"    "HCO3"  "PT"    "PTT"   "INR"   "Hct"  
+[56] "AP"    "CKD"   "HD"    "GERD"  "PEG"   "ESRD"  "ABG"   "CXR"   "RLL"   "DNR"   "UGI"  
+[67] "VS"   
+
+[[5]]$`abbreviation(expand)`
+ [1] "history"                    "disease"                    "hypertension"              
+ [4] "fracture"                   "esophagogastroduodenoscopy" "antibiotic"                
+ [7] "tetracycline"               "assessment"                 "headache"                  
+[10] "discharge"                  "cardiovascular"             "vaginal"                   
+[13] "conjunctiva"                "tumor"                      "blood"                     
+[16] "without"                    "bilateral"                  "lateral"                   
+[19] "diagnosis"                  "extremities"               
+
+[[5]]$drugs
+[1] "fosamax"      "rocephin"     "diovan"       "norvasc"      "nexium"       "tetracycline"
+
+[[5]]$disease
+NULL
+
+[[5]]$`disease(expand)`
+  [1] "short"            "hematuria"        "chronic"          "kidney"          
+  [5] "disease"          "temporary"        "vitamin"          "food"            
+  [9] "related"          "dementia"         "hypertension"     "reflux"          
+ [13] "esophagitis"      "lower"            "esophagus"        "osteoporosis"    
+ [17] "spine"            "fracture"         "mandible"         "heart"           
+ [21] "failure"          "cataract"         "during"           "with"            
+ [25] "renal"            "from"             "anemia"           "metabolic"       
+ [29] "acidosis"         "bacteria"         "protein"          "right"           
+ [33] "lobe"             "mild"             "pulmonary"        "brain"           
+ [37] "atrophy"          "intracranial"     "uremic"           "encephalopathy"  
+ [41] "acute"            "component"        "central"          "nervous"         
+ [45] "system"           "infection"        "abdominal"        "impression"      
+ [49] "syndrome"         "folic"            "acid"             "tube"            
+ [53] "alcohol"          "allergy"          "drug"             "materials"       
+ [57] "contact"          "cluster"          "diabetes"         "mellitus"        
+ [61] "weight"           "loss"             "fatigue"          "fever"           
+ [65] "weakness"         "skin"             "changes"          "hair"            
+ [69] "nail"             "purpura"          "head"             "headache"        
+ [73] "injury"           "ears"             "hearing"          "impairment"      
+ [77] "double"           "pain"             "glaucoma"         "cataracts"       
+ [81] "nose"             "sinus"            "oral"             "throat"          
+ [85] "teeth"            "ulcer"            "neck"             "respiratory"     
+ [89] "cough"            "cardiovascular"   "edema"            "nocturnal"       
+ [93] "vascular"         "gastrointestinal" "dysphasia"        "regurgitation"   
+ [97] "vomiting"         "bowel"            "constipation"     "yellow"          
+[101] "urinary"          "genital"          "female"           "myalgia"         
+[105] "joints"           "neurologic"       "seizures"         "tremor"          
+[109] "endocrine"        "intolerance"      "cold"             "depression"      
+[113] "appearance"       "orientation"      "person"           "deformity"       
+[117] "reflex"           "left"             "conjunctiva"      "carotid"         
+[121] "vein"             "goiter"           "expansion"        "symmetrical"     
+[125] "local"            "muscle"           "liver"            "spleen"          
+[129] "extremity"        "movement"         "peripheral"       "finger"          
+[133] "upper"            "limbs"            "tumor"            "bullae"          
+[137] "neurological"     "others"           "blood"            "band"            
+[141] "coagulation"      "without"          "dilated"          "nonspecific"     
+[145] "bilateral"        "white"            "matter"           "calcification"   
+[149] "vessels"          "abnormality"      "cranial"          "skull"           
+[153] "aorta"            "lung"             "field"            "lateral"         
+[157] "basal"            "extremities"      "legs"             "transfusion"     
+
+[[5]]$treatment
+  [1] "d"                          "of"                         "breath"                    
+  [4] "and"                        "the"                        "medical"                   
+  [7] "kidney"                     "disease"                    "post"                      
+ [10] "hemodialysis"               "treatment"                  "percutaneous"              
+ [13] "endoscopic"                 "gastrostomy"                "reflux"                    
+ [16] "lower"                      "a"                          "lumbar"                    
+ [19] "heart"                      "failure"                    "echo"                      
+ [22] "cataract"                   "during"                     "to"                        
+ [25] "after"                      "with"                       "replacement"               
+ [28] "therapy"                    "in"                         "breathing"                 
+ [31] "test"                       "wbc"                        "hb"                        
+ [34] "urinalysis"                 "protein"                    "chest"                     
+ [37] "lobe"                       "ct"                         "for"                       
+ [40] "brain"                      "stool"                      "esophagogastroduodenoscopy"
+ [43] "infection"                  "abdominal"                  "surgical"                  
+ [46] "medication"                 "iv"                         "acid"                      
+ [49] "b"                          "c"                          "cap"                       
+ [52] "tube"                       "allergy"                    "drug"                      
+ [55] "or"                         "device"                     "diabetes"                  
+ [58] "mellitus"                   "screen"                     "weight"                    
+ [61] "loss"                       "skin"                       "hair"                      
+ [64] "hearing"                    "double"                     "sinus"                     
+ [67] "oral"                       "throat"                     "teeth"                     
+ [70] "gum"                        "dentures"                   "neck"                      
+ [73] "gastrointestinal"           "bowel"                      "urinary"                   
+ [76] "incontinence"               "female"                     "vaginal"                   
+ [79] "back"                       "joints"                     "seizures"                  
+ [82] "intolerance"                "stress"                     "physical"                  
+ [85] "examination"                "eye"                        "light"                     
+ [88] "left"                       "ear"                        "lap"                       
+ [91] "liver"                      "peripheral"                 "upper"                     
+ [94] "ca"                         "tumor"                      "cbc"                       
+ [97] "rbc"                        "hct"                        "mcv"                       
+[100] "mch"                        "mchc"                       "rdw"                       
+[103] "mucus"                      "ph"                         "red"                       
+[106] "blood"                      "gas"                        "band"                      
+[109] "pt"                         "occult"                     "sugar"                     
+[112] "imaging"                    "without"                    "density"                   
+[115] "white"                      "field"                      "diagnosis"                 
+[118] "gerd"                       "peg"                        "feeding"                   
+[121] "care"                       "plan"                       "basal"                     
+[124] "dialysis"                   "transfusion"                "vs"                        
+
+[[5]]$symptoms
+  [1] "of"             "breath"         "irritable"      "and"            "on"            
+  [6] "the"            "chronic"        "kidney"         "disease"        "status"        
+ [11] "vitamin"        "reflux"         "osteoporosis"   "heart"          "failure"       
+ [16] "to"             "with"           "in"             "from"           "anemia"        
+ [21] "chest"          "pulmonary"      "brain"          "hemorrhage"     "acute"         
+ [26] "stool"          "infection"      "bloody"         "abdominal"      "under"         
+ [31] "syndrome"       "acid"           "c"              "alcohol"        "allergy"       
+ [36] "or"             "contact"        "diabetes"       "weight"         "loss"          
+ [41] "gain"           "fatigue"        "fever"          "chills"         "weakness"      
+ [46] "skin"           "lumps"          "itching"        "dryness"        "color"         
+ [51] "changes"        "hair"           "nail"           "headache"       "injury"        
+ [56] "ears"           "hearing"        "eyes"           "blurred"        "vision"        
+ [61] "double"         "pain"           "redness"        "glaucoma"       "nose"          
+ [66] "discharge"      "sinus"          "throat"         "gum"            "bleeding"      
+ [71] "sore"           "hoarseness"     "thrush"         "ulcer"          "neck"          
+ [76] "swollen"        "stiffness"      "respiratory"    "cough"          "wheezing"      
+ [81] "painful"        "tightness"      "palpitations"   "leg"            "heartburn"     
+ [86] "appetite"       "nausea"         "vomiting"       "bowel"          "constipation"  
+ [91] "diarrhea"       "urinary"        "urgency"        "burning"        "incontinence"  
+ [96] "genital"        "vaginal"        "rash"           "back"           "joints"        
+[101] "swelling"       "trauma"         "dizziness"      "fainting"       "seizures"      
+[106] "numbness"       "tingling"       "tremor"         "easy"           "bruising"      
+[111] "intolerance"    "cold"           "sweating"       "depression"     "memory"        
+[116] "deformity"      "eye"            "pale"           "sclera"         "ear"           
+[121] "mass"           "muscle"         "liver"          "peripheral"     "clubbing"      
+[126] "finger"         "pitting"        "upper"          "tumor"          "depigmentation"
+[131] "gait"           "yeast"          "dark"           "red"            "blood"         
+[136] "gas"            "sugar"          "dilated"        "low"            "density"       
+[141] "white"          "lung"           "lips"           "basal"         
+
+[[5]]$all
+  [1] "d"                          "short"                      "of"                        
+  [4] "breath"                     "irritable"                  "and"                       
+  [7] "hematuria"                  "on"                         "history"                   
+ [10] "the"                        "medical"                    "chronic"                   
+ [13] "kidney"                     "disease"                    "status"                    
+ [16] "post"                       "temporary"                  "hemodialysis"              
+ [19] "treatment"                  "vitamin"                    "food"                      
+ [22] "related"                    "dementia"                   "percutaneous"              
+ [25] "endoscopic"                 "gastrostomy"                "hypertension"              
+ [28] "reflux"                     "esophagitis"                "lower"                     
+ [31] "esophagus"                  "a"                          "osteoporosis"              
+ [34] "lumbar"                     "spine"                      "fracture"                  
+ [37] "mandible"                   "fosamax"                    "heart"                     
+ [40] "failure"                    "echo"                       "cataract"                  
+ [43] "during"                     "to"                         "after"                     
+ [46] "with"                       "renal"                      "replacement"               
+ [49] "therapy"                    "in"                         "from"                      
+ [52] "breathing"                  "test"                       "wbc"                       
+ [55] "anemia"                     "hb"                         "metabolic"                 
+ [58] "acidosis"                   "urinalysis"                 "bacteria"                  
+ [61] "protein"                    "chest"                      "right"                     
+ [64] "lobe"                       "mild"                       "pulmonary"                 
+ [67] "ct"                         "for"                        "brain"                     
+ [70] "atrophy"                    "intracranial"               "hemorrhage"                
+ [73] "uremic"                     "encephalopathy"             "acute"                     
+ [76] "component"                  "stool"                      "esophagogastroduodenoscopy"
+ [79] "antibiotic"                 "rocephin"                   "central"                   
+ [82] "nervous"                    "system"                     "infection"                 
+ [85] "bloody"                     "abdominal"                  "under"                     
+ [88] "impression"                 "syndrome"                   "surgical"                  
+ [91] "medication"                 "iv"                         "diovan"                    
+ [94] "norvasc"                    "folic"                      "acid"                      
+ [97] "b"                          "c"                          "cap"                       
+[100] "nexium"                     "tube"                       "tetracycline"              
+[103] "alcohol"                    "allergy"                    "drug"                      
+[106] "or"                         "device"                     "materials"                 
+[109] "contact"                    "cluster"                    "diabetes"                  
+[112] "mellitus"                   "assessment"                 "screen"                    
+[115] "weight"                     "loss"                       "gain"                      
+[118] "fatigue"                    "fever"                      "chills"                    
+[121] "weakness"                   "skin"                       "lumps"                     
+[124] "itching"                    "dryness"                    "color"                     
+[127] "changes"                    "hair"                       "nail"                      
+[130] "purpura"                    "head"                       "headache"                  
+[133] "injury"                     "ears"                       "hearing"                   
+[136] "impairment"                 "eyes"                       "blurred"                   
+[139] "vision"                     "double"                     "pain"                      
+[142] "redness"                    "glaucoma"                   "cataracts"                 
+[145] "nose"                       "discharge"                  "sinus"                     
+[148] "oral"                       "throat"                     "teeth"                     
+[151] "gum"                        "bleeding"                   "dentures"                  
+[154] "sore"                       "hoarseness"                 "thrush"                    
+[157] "ulcer"                      "neck"                       "swollen"                   
+[160] "stiffness"                  "respiratory"                "cough"                     
+[163] "wheezing"                   "painful"                    "cardiovascular"            
+[166] "tightness"                  "palpitations"               "edema"                     
+[169] "nocturnal"                  "vascular"                   "leg"                       
+[172] "gastrointestinal"           "dysphasia"                  "heartburn"                 
+[175] "regurgitation"              "appetite"                   "nausea"                    
+[178] "vomiting"                   "bowel"                      "constipation"              
+[181] "diarrhea"                   "yellow"                     "urinary"                   
+[184] "urgency"                    "burning"                    "incontinence"              
+[187] "genital"                    "female"                     "vaginal"                   
+[190] "rash"                       "myalgia"                    "back"                      
+[193] "joints"                     "swelling"                   "trauma"                    
+[196] "neurologic"                 "dizziness"                  "fainting"                  
+[199] "seizures"                   "numbness"                   "tingling"                  
+[202] "tremor"                     "easy"                       "bruising"                  
+[205] "endocrine"                  "intolerance"                "cold"                      
+[208] "sweating"                   "depression"                 "memory"                    
+[211] "stress"                     "physical"                   "examination"               
+[214] "appearance"                 "orientation"                "person"                    
+[217] "deformity"                  "eye"                        "light"                     
+[220] "reflex"                     "left"                       "conjunctiva"               
+[223] "pale"                       "sclera"                     "ear"                       
+[226] "mass"                       "lap"                        "carotid"                   
+[229] "vein"                       "goiter"                     "expansion"                 
+[232] "symmetrical"                "local"                      "muscle"                    
+[235] "liver"                      "spleen"                     "extremity"                 
+[238] "movement"                   "peripheral"                 "clubbing"                  
+[241] "finger"                     "pitting"                    "upper"                     
+[244] "limbs"                      "ca"                         "tumor"                     
+[247] "depigmentation"             "bullae"                     "neurological"              
+[250] "gait"                       "cbc"                        "rbc"                       
+[253] "hct"                        "mcv"                        "mch"                       
+[256] "mchc"                       "rdw"                        "others"                    
+[259] "yeast"                      "mucus"                      "ph"                        
+[262] "dark"                       "red"                        "blood"                     
+[265] "gas"                        "band"                       "coagulation"               
+[268] "pt"                         "occult"                     "sugar"                     
+[271] "imaging"                    "without"                    "dilated"                   
+[274] "nonspecific"                "low"                        "density"                   
+[277] "bilateral"                  "white"                      "matter"                    
+[280] "calcification"              "vessels"                    "abnormality"               
+[283] "cranial"                    "skull"                      "aorta"                     
+[286] "lung"                       "field"                      "lateral"                   
+[289] "diagnosis"                  "gerd"                       "peg"                       
+[292] "feeding"                    "care"                       "plan"                      
+[295] "lips"                       "basal"                      "extremities"               
+[298] "legs"                       "dialysis"                   "transfusion"               
+[301] "vs"                        
+
+
+[[6]]
+[[6]]$abbreviation
+ [1] "BP"   "PTA"  "AVF"  "on"   "ESRD" "HD"   "PAD"  "CVA"  "PAOD" "ATA"  "NE"   "MRI"  "OB"  
+[14] "NG"   "CVS"  "RFA"  "GI"   "LA"   "GA"   "DNR"  "USA"  "VS"   "SC"   "RUL"  "RLL"  "HR"  
+[27] "TID"  "CXR"  "RML"  "O2"   "ICD" 
+
+[[6]]$`abbreviation(expand)`
+ [1] "bilateral"   "history"     "admission"   "discharge"   "dressing"    "without"    
+ [7] "amount"      "extremities" "disease"     "pneumonia"   "prognosis"  
+
+[[6]]$drugs
+[1] "augmentin"     "plavix"        "coumadin"      "levophed"      "maxipime"     
+[6] "cordarone"     "meropenem"     "metronidazole"
+
+[[6]]$disease
+NULL
+
+[[6]]$`disease(expand)`
+ [1] "thrombosis"     "oral"           "dysarthria"     "mild"           "femoral"       
+ [6] "with"           "bilateral"      "gangrene"       "cellulitis"     "left"          
+[11] "sinus"          "node"           "dysfunction"    "gastric"        "ulcer"         
+[16] "hypotension"    "related"        "cortical"       "insufficiency"  "hypothyroidism"
+[21] "from"           "right"          "erythema"       "nail"           "aeruginosa"    
+[26] "strain"         "vascular"       "total"          "subclavian"     "artery"        
+[31] "stenosis"       "without"        "intermittent"   "brain"          "stem"          
+[36] "reflex"         "intact"         "dementia"       "during"         "person"        
+[41] "iodine"         "severe"         "lower"          "extremities"    "popliteal"     
+[46] "peroneal"       "atrial"         "fibrillation"   "syndrome"       "shock"         
+[51] "minimal"        "coronary"       "disease"        "renal"          "combined"      
+[56] "contact"        "pneumonia"      "respiratory"    "cell"           "positive"      
+[61] "infection"      "pain"           "mask"          
+
+[[6]]$treatment
+ [1] "for"               "stool"             "and"               "d"                
+ [5] "oral"              "in"                "the"               "with"             
+ [9] "left"              "sinus"             "node"              "of"               
+[13] "gastric"           "cortical"          "treatment"         "after"            
+[17] "to"                "first"             "extraction"        "c"                
+[21] "revascularization" "side"              "good"              "hemodialysis"     
+[25] "total"             "a"                 "taking"            "artery"           
+[29] "without"           "wound"             "care"              "brain"            
+[33] "stem"              "mri"               "pacemaker"         "high"             
+[37] "score"             "during"            "or"                "plan"             
+[41] "function"          "cvs"               "lower"             "rfa"              
+[45] "gi"                "coronary"          "disease"           "replacement"      
+[49] "therapy"           "pros"              "cons"              "vs"               
+[53] "your"              "questions"         "fine"              "aspiration"       
+[57] "removal"           "cell"              "infection"         "icd"              
+
+[[6]]$symptoms
+ [1] "stool"          "and"            "on"             "poor"           "dysarthria"    
+ [6] "in"             "the"            "stroke"         "with"           "toes"          
+[11] "cellulitis"     "sinus"          "node"           "of"             "ulcer"         
+[16] "hypothyroidism" "from"           "to"             "toe"            "pus"           
+[21] "discharge"      "nail"           "c"              "increased"      "arm"           
+[26] "drooling"       "brain"          "high"           "under"          "dehydration"   
+[31] "or"             "leg"            "atrial"         "flutter"        "fibrillation"  
+[36] "bleeding"       "syndrome"       "disease"        "contact"        "pneumonia"     
+[41] "sputum"         "respiratory"    "cell"           "infection"      "pain"          
+
+[[6]]$all
+  [1] "for"               "stool"             "and"               "thrombosis"       
+  [5] "on"                "poor"              "d"                 "oral"             
+  [9] "dysarthria"        "in"                "the"               "mild"             
+ [13] "stroke"            "femoral"           "with"              "bilateral"        
+ [17] "toes"              "gangrene"          "cellulitis"        "left"             
+ [21] "sinus"             "node"              "dysfunction"       "history"          
+ [25] "of"                "gastric"           "ulcer"             "hypotension"      
+ [29] "related"           "cortical"          "insufficiency"     "hypothyroidism"   
+ [33] "treatment"         "after"             "admission"         "augmentin"        
+ [37] "from"              "to"                "right"             "toe"              
+ [41] "pus"               "discharge"         "erythema"          "dressing"         
+ [45] "first"             "nail"              "extraction"        "aeruginosa"       
+ [49] "c"                 "strain"            "revascularization" "side"             
+ [53] "good"              "increased"         "hemodialysis"      "vascular"         
+ [57] "total"             "a"                 "taking"            "arm"              
+ [61] "subclavian"        "artery"            "stenosis"          "without"          
+ [65] "wound"             "care"              "intermittent"      "drooling"         
+ [69] "brain"             "stem"              "mri"               "pacemaker"        
+ [73] "plavix"            "coumadin"          "high"              "score"            
+ [77] "reflex"            "intact"            "amount"            "dementia"         
+ [81] "under"             "levophed"          "during"            "dehydration"      
+ [85] "or"                "person"            "plan"              "maxipime"         
+ [89] "iodine"            "function"          "cvs"               "severe"           
+ [93] "leg"               "lower"             "extremities"       "popliteal"        
+ [97] "peroneal"          "atrial"            "flutter"           "rfa"              
+[101] "fibrillation"      "gi"                "bleeding"          "syndrome"         
+[105] "shock"             "minimal"           "coronary"          "disease"          
+[109] "renal"             "replacement"       "therapy"           "pros"             
+[113] "cons"              "vs"                "combined"          "your"             
+[117] "contact"           "questions"         "fine"              "aspiration"       
+[121] "pneumonia"         "cordarone"         "removal"           "sputum"           
+[125] "meropenem"         "respiratory"       "cell"              "positive"         
+[129] "metronidazole"     "infection"         "prognosis"         "pain"             
+[133] "icd"               "mask"             
+
+
+[[7]]
+[[7]]$abbreviation
+ [1] "BP"   "MR"   "EEG"  "HD"   "on"   "CPCR" "ROSC" "AV"   "VC"   "PEEP" "RR"   "Lab"  "CRE" 
+[14] "dL"   "BUN"  "Na"   "WBC"  "HB"   "PLT"  "HCO3" "CT"   "DNR"  "PCV"  "IP"  
+
+[[7]]$`abbreviation(expand)`
+ [1] "blood"       "admission"   "antibiotic"  "assessment"  "without"     "diagnosis"  
+ [7] "abnormal"    "negative"    "ventilation" "symptoms"    "bilateral"  
+
+[[7]]$drugs
+[1] "ceftazidime" "rocephin"    "levophed"    "furosemide" 
+
+[[7]]$disease
+NULL
+
+[[7]]$`disease(expand)`
+ [1] "blood"          "cortical"       "with"           "encephalopathy" "fever"         
+ [6] "overload"       "neurologic"     "lung"           "without"        "abnormal"      
+[11] "head"           "diffuse"        "brain"          "atrophy"        "negative"      
+[16] "dependent"      "bowel"          "bilateral"      "infection"     
+
+[[7]]$treatment
+ [1] "for"          "and"          "blood"        "eeg"          "cortical"     "with"        
+ [7] "of"           "fluid"        "removal"      "when"         "the"          "after"       
+[13] "to"           "hemodialysis" "response"     "support"      "without"      "light"       
+[19] "diagnosis"    "abnormal"     "wbc"          "hb"           "ph"           "ct"          
+[25] "brain"        "treatment"    "ventilation"  "examination"  "self"         "dialysis"    
+[31] "bowel"        "infection"    "high"         "urine"        "plan"        
+
+[[7]]$symptoms
+ [1] "sputum"    "and"       "blood"     "with"      "of"        "the"       "to"       
+ [8] "fever"     "on"        "poor"      "lung"      "abnormal"  "brain"     "status"   
+[15] "bowel"     "wheezing"  "infection" "high"      "decreased" "urine"     "output"   
+
+[[7]]$all
+ [1] "ceftazidime"    "for"            "sputum"         "and"            "blood"         
+ [6] "eeg"            "cortical"       "with"           "encephalopathy" "of"            
+[11] "fluid"          "removal"        "when"           "the"            "after"         
+[16] "admission"      "antibiotic"     "rocephin"       "to"             "fever"         
+[21] "on"             "hemodialysis"   "overload"       "poor"           "neurologic"    
+[26] "response"       "lung"           "support"        "assessment"     "without"       
+[31] "light"          "diagnosis"      "abnormal"       "levophed"       "wbc"           
+[36] "hb"             "ph"             "ct"             "head"           "diffuse"       
+[41] "brain"          "atrophy"        "treatment"      "negative"       "ventilation"   
+[46] "dependent"      "status"         "symptoms"       "examination"    "self"          
+[51] "dialysis"       "bowel"          "bilateral"      "wheezing"       "infection"     
+[56] "high"           "furosemide"     "decreased"      "urine"          "output"        
+[61] "plan"          
+
+
+[[8]]
+NULL
+
+[[9]]
+[[9]]$abbreviation
+ [1] "on"    "ADR"   "Inj"   "IF"    "BW"    "kg"    "BP"    "HEENT" "ROM"   "RL"    "PT"   
+[12] "PTT"   "INR"   "CRE"   "Na"    "Ca"    "dL"    "ALT"   "ALP"   "LDH"   "WBC"   "CBC"  
+[23] "PLT"   "RBC"   "HB"    "HCT"   "MCV"   "MCH"   "MCHC"  "RDW"   "CV"    "BK"    "ABO"  
+[34] "AP"    "PA"    "THR"   "C2"    "MRI"   "O2"   
+
+[[9]]$`abbreviation(expand)`
+ [1] "history"      "axillary"     "fracture"     "bilateral"    "sacrum"       "unknown"     
+ [7] "assessment"   "headache"     "discharge"    "hypertension" "extremities"  "conjunctiva" 
+[13] "antibody"     "negative"     "blood"        "normal"       "atypical"     "diagnosis"   
+[19] "without"     
+
+[[9]]$drugs
+NULL
+
+[[9]]$disease
+NULL
+
+[[9]]$`disease(expand)`
+ [1] "right"          "pain"           "disability"     "female"         "breast"        
+ [6] "cancer"         "lymph"          "node"           "dissection"     "with"          
+[11] "multiple"       "bone"           "femur"          "fracture"       "skull"         
+[16] "spine"          "bilateral"      "ribs"           "bones"          "allergy"       
+[21] "materials"      "system"         "head"           "headache"       "vertigo"       
+[26] "syncope"        "nose"           "cough"          "heart"          "tachycardia"   
+[31] "hypertension"   "constipation"   "extremities"    "local"          "neurological"  
+[36] "muscle"         "anomaly"        "conjunctiva"    "symmetrical"    "expansion"     
+[41] "soft"           "flat"           "bowel"          "rigidity"       "limited"       
+[46] "distal"         "intact"         "motor"          "sensory"        "coagulation"   
+[51] "band"           "antibody"       "negative"       "blood"          "type"          
+[56] "positive"       "femoral"        "clinical"       "thoracic"       "vertebral"     
+[61] "fractures"      "mild"           "kyphoscoliosis" "upper"          "left"          
+[66] "normal"         "lung"           "lumbosacral"    "cervical"       "lesions"       
+[71] "small"          "osseous"        "tissue"         "marrow"         "joint"         
+[76] "partial"        "carcinoma"      "component"      "skin"           "atypical"      
+[81] "cells"          "without"       
+
+[[9]]$treatment
+ [1] "d"            "and"          "hip"          "after"        "female"       "of"          
+ [7] "breast"       "cancer"       "post"         "surgery"      "lymph"        "node"        
+[13] "with"         "multiple"     "bone"         "the"          "to"           "scan"        
+[19] "surgical"     "intervention" "for"          "medication"   "allergy"      "medical"     
+[25] "device"       "chest"        "heart"        "physical"     "examination"  "inspection"  
+[31] "breath"       "soft"         "bowel"        "or"           "wound"        "pt"          
+[37] "ca"           "alt"          "wbc"          "band"         "cbc"          "rbc"         
+[43] "hb"           "hct"          "mcv"          "mch"          "mchc"         "rdw"         
+[49] "c"            "antibody"     "blood"        "imaging"      "clinical"     "a"           
+[55] "upper"        "left"         "normal"       "in"           "mastectomy"   "lumbar"      
+[61] "cervical"     "small"        "occult"       "marrow"       "joint"        "partial"     
+[67] "invasive"     "skin"         "excision"     "sentinel"     "side"         "diagnosis"   
+[73] "care"         "plan"         "mri"          "without"      "control"      "b"           
+[79] "treatment"    "score"       
+
+[[9]]$symptoms
+ [1] "and"          "hip"          "pain"         "painful"      "of"           "breast"      
+ [7] "cancer"       "status"       "lymph"        "node"         "with"         "multiple"    
+[13] "bone"         "the"          "to"           "on"           "allergy"      "headache"    
+[19] "migraine"     "vertigo"      "trauma"       "nose"         "sinusitis"    "discharge"   
+[25] "chest"        "cough"        "sputum"       "heart"        "tachycardia"  "diarrhea"    
+[31] "constipation" "swelling"     "numbness"     "muscle"       "gait"         "pink"        
+[37] "sclera"       "breath"       "flat"         "bowel"        "or"           "motor"       
+[43] "c"            "blood"        "lines"        "upper"        "in"           "lung"        
+[49] "cervical"     "small"        "joint"        "carcinoma"    "skin"        
+
+[[9]]$all
+  [1] "d"              "and"            "right"          "hip"            "pain"          
+  [6] "painful"        "disability"     "after"          "history"        "female"        
+ [11] "of"             "breast"         "cancer"         "status"         "post"          
+ [16] "surgery"        "axillary"       "lymph"          "node"           "dissection"    
+ [21] "with"           "multiple"       "bone"           "the"            "to"            
+ [26] "femur"          "fracture"       "scan"           "on"             "skull"         
+ [31] "spine"          "bilateral"      "ribs"           "sacrum"         "bones"         
+ [36] "surgical"       "intervention"   "for"            "medication"     "allergy"       
+ [41] "unknown"        "medical"        "device"         "materials"      "assessment"    
+ [46] "system"         "head"           "headache"       "migraine"       "vertigo"       
+ [51] "syncope"        "trauma"         "nose"           "sinusitis"      "discharge"     
+ [56] "chest"          "cough"          "sputum"         "heart"          "tachycardia"   
+ [61] "hypertension"   "diarrhea"       "constipation"   "extremities"    "swelling"      
+ [66] "numbness"       "local"          "physical"       "examination"    "neurological"  
+ [71] "muscle"         "gait"           "anomaly"        "inspection"     "conjunctiva"   
+ [76] "pink"           "sclera"         "symmetrical"    "expansion"      "breath"        
+ [81] "soft"           "flat"           "bowel"          "or"             "rigidity"      
+ [86] "limited"        "wound"          "distal"         "intact"         "motor"         
+ [91] "sensory"        "coagulation"    "pt"             "ca"             "alt"           
+ [96] "wbc"            "band"           "cbc"            "rbc"            "hb"            
+[101] "hct"            "mcv"            "mch"            "mchc"           "rdw"           
+[106] "c"              "antibody"       "negative"       "blood"          "type"          
+[111] "positive"       "imaging"        "lines"          "femoral"        "clinical"      
+[116] "thoracic"       "vertebral"      "fractures"      "mild"           "kyphoscoliosis"
+[121] "a"              "upper"          "left"           "normal"         "in"            
+[126] "lung"           "mastectomy"     "lumbosacral"    "lumbar"         "cervical"      
+[131] "lesions"        "small"          "osseous"        "occult"         "tissue"        
+[136] "marrow"         "joint"          "partial"        "invasive"       "carcinoma"     
+[141] "component"      "skin"           "excision"       "sentinel"       "side"          
+[146] "atypical"       "cells"          "diagnosis"      "care"           "plan"          
+[151] "mri"            "without"        "control"        "b"              "treatment"     
+[156] "score"         
+
+
+[[10]]
+[[10]]$abbreviation
+ [1] "ECG"  "HR"   "on"   "CV"   "RUQ"  "NPO"  "IV"   "CT"   "RFA"  "O2"   "KUB"  "D5"   "MRI" 
+[14] "HCC"  "Post" "CXR"  "IF"   "OP"   "HBV"  "CKD"  "HTN"  "BP"   "SBP"  "ST"   "dL"   "AST" 
+[27] "ALT"  "PSVT" "HCO3" "WBC"  "PH"   "HB"   "PLT"  "BUN"  "CRE"  "Na"   "Cl"   "Ca"   "CK"  
+[40] "CKMB" "LFT"  "PV"   "LAP"  "RLL"  "LLL"  "RVR"  "ID"   "DS"   "PT"   "PTT"  "INR"  "ICU" 
+[53] "ARDS" "DNR"  "MIC" 
+
+[[10]]$`abbreviation(expand)`
+ [1] "catheter"     "without"      "assessment"   "conjunctiva"  "bilateral"    "tumor"       
+ [7] "admission"    "headache"     "hypertension" "discharge"    "blood"        "internal"    
+[13] "negative"     "antibiotics"  "pneumothorax"
+
+[[10]]$drugs
+[1] "nexium"        "metronidazole" "baraclude"     "rocephin"      "captopril"    
+[6] "apresoline"    "meropenem"    
+
+[[10]]$disease
+[1] "ascites"
+
+[[10]]$`disease(expand)`
+ [1] "tachycardia"    "with"           "atrial"         "fibrillation"   "urinary"       
+ [6] "urethral"       "insertion"      "impression"     "related"        "pain"          
+[11] "form"           "mild"           "wall"           "small"          "hepatic"       
+[16] "flexure"        "colon"          "fever"          "nasal"          "right"         
+[21] "effusion"       "abdominal"      "during"         "mask"           "dilated"       
+[26] "bowel"          "without"        "conjunctiva"    "muscle"         "edema"         
+[31] "bilateral"      "legs"           "recurrent"      "left"           "multiple"      
+[36] "lobe"           "tumor"          "remnant"        "liver"          "abscess"       
+[41] "clinical"       "ascites"        "atrophy"        "kidney"         "dilatation"    
+[46] "focal"          "differentiated" "cirrhosis"      "drug"           "hypertensive"  
+[51] "headache"       "hypertension"   "cardiac"        "enzymes"        "between"       
+[56] "total"          "severe"         "positive"       "cold"           "blood"         
+[61] "respiratory"    "alkalosis"      "lactic"         "acid"           "persistent"    
+[66] "negative"       "patent"         "renal"          "cysts"          "spleen"        
+[71] "pancreas"       "adrenal"        "aorta"          "lesions"        "lower"         
+[76] "opacity"        "nodule"         "interstitial"   "lung"           "nonspecific"   
+[81] "appearance"     "intestine"      "peritonitis"    "failure"        "thoracic"      
+[86] "pneumothorax"   "body"           "weight"        
+
+[[10]]$treatment
+ [1] "of"              "ecg"             "with"            "and"             "infusion"       
+ [6] "the"             "urinary"         "urine"           "catheterization" "self"           
+[11] "iv"              "ct"              "small"           "colon"           "post"           
+[16] "rfa"             "or"              "for"             "in"              "morning"        
+[21] "nasal"           "chest"           "to"              "abdominal"       "during"         
+[26] "echo"            "examination"     "bowel"           "without"         "back"           
+[31] "c"               "breath"          "mri"             "high"            "surface"        
+[36] "left"            "cholecystectomy" "multiple"        "lobe"            "tumor"          
+[41] "liver"           "clinical"        "kidney"          "side"            "gas"            
+[46] "plan"            "b"               "control"         "rate"            "score"          
+[51] "a"               "drug"            "after"           "cardiac"         "enzymes"        
+[56] "elevated"        "ablation"        "total"           "ast"             "alt"            
+[61] "blood"           "ph"              "acid"            "wbc"             "hb"             
+[66] "ca"              "study"           "lap"             "lower"           "effects"        
+[71] "monitoring"      "intubation"      "pt"              "intestine"       "failure"        
+[76] "care"            "fecal"           "surgery"         "when"            "function"       
+[81] "body"            "weight"         
+
+[[10]]$symptoms
+ [1] "of"           "tachycardia"  "with"         "atrial"       "fibrillation" "and"         
+ [7] "flutter"      "on"           "the"          "urinary"      "retention"    "urine"       
+[13] "under"        "pain"         "small"        "colon"        "inflammation" "or"          
+[19] "fever"        "delirium"     "in"           "morning"      "nasal"        "chest"       
+[25] "to"           "abdominal"    "dilated"      "bowel"        "decreased"    "back"        
+[31] "c"            "pale"         "sclera"       "breath"       "muscle"       "pitting"     
+[37] "low"          "high"         "multiple"     "tumor"        "liver"        "kidney"      
+[43] "increased"    "gas"          "urgency"      "headache"     "tightness"    "elevated"    
+[49] "discharge"    "cold"         "sweating"     "blood"        "respiratory"  "acid"        
+[55] "hemorrhage"   "interstitial" "lung"         "intestine"    "failure"      "fecal"       
+[61] "fungus"       "body"         "weight"      
+
+[[10]]$all
+  [1] "of"              "ecg"             "tachycardia"     "with"            "atrial"         
+  [6] "fibrillation"    "and"             "flutter"         "on"              "infusion"       
+ [11] "the"             "urinary"         "retention"       "urethral"        "catheter"       
+ [16] "insertion"       "urine"           "catheterization" "under"           "impression"     
+ [21] "related"         "pain"            "self"            "iv"              "form"           
+ [26] "nexium"          "ct"              "mild"            "wall"            "small"          
+ [31] "hepatic"         "flexure"         "colon"           "post"            "rfa"            
+ [36] "inflammation"    "or"              "fever"           "metronidazole"   "for"            
+ [41] "delirium"        "in"              "morning"         "nasal"           "chest"          
+ [46] "right"           "effusion"        "to"              "abdominal"       "during"         
+ [51] "echo"            "examination"     "mask"            "dilated"         "bowel"          
+ [56] "without"         "decreased"       "back"            "assessment"      "baraclude"      
+ [61] "c"               "conjunctiva"     "pale"            "sclera"          "breath"         
+ [66] "muscle"          "pitting"         "edema"           "bilateral"       "legs"           
+ [71] "mri"             "low"             "high"            "surface"         "recurrent"      
+ [76] "left"            "cholecystectomy" "multiple"        "lobe"            "tumor"          
+ [81] "remnant"         "liver"           "abscess"         "clinical"        "ascites"        
+ [86] "atrophy"         "kidney"          "side"            "increased"       "gas"            
+ [91] "dilatation"      "focal"           "differentiated"  "plan"            "rocephin"       
+ [96] "b"               "control"         "rate"            "cirrhosis"       "score"          
+[101] "a"               "drug"            "after"           "admission"       "hypertensive"   
+[106] "urgency"         "headache"        "captopril"       "hypertension"    "apresoline"     
+[111] "tightness"       "cardiac"         "enzymes"         "elevated"        "between"        
+[116] "ablation"        "total"           "ast"             "alt"             "discharge"      
+[121] "severe"          "positive"        "cold"            "sweating"        "blood"          
+[126] "respiratory"     "alkalosis"       "ph"              "lactic"          "acid"           
+[131] "wbc"             "internal"        "hemorrhage"      "persistent"      "hb"             
+[136] "ca"              "negative"        "study"           "patent"          "renal"          
+[141] "cysts"           "spleen"          "pancreas"        "adrenal"         "lap"            
+[146] "aorta"           "lesions"         "lower"           "opacity"         "nodule"         
+[151] "interstitial"    "lung"            "nonspecific"     "appearance"      "effects"        
+[156] "antibiotics"     "monitoring"      "intubation"      "pt"              "meropenem"      
+[161] "intestine"       "peritonitis"     "failure"         "care"            "fecal"          
+[166] "thoracic"        "pneumothorax"    "surgery"         "when"            "fungus"         
+[171] "function"        "body"            "weight"         
+
+
+[[11]]
+[[11]]$abbreviation
+ [1] "on"    "ORIF"  "OPD"   "dl"    "ER"    "CAD"   "ADR"   "PO"    "SC"    "BMI"   "BW"   
+[12] "kg"    "BP"    "ENT"   "EOM"   "BC"    "TP"    "ALT"   "CRE"   "dL"    "UA"    "Na"   
+[23] "Ca"    "TG"    "CHO"   "LDL"   "HDL"   "DM"    "AC"    "HbA1c" "HE"    "CBC"   "PLT"  
+[34] "WBC"   "RBC"   "HB"    "HCT"   "MCV"   "MCH"   "MCHC"  "RDW"   "CV"    "RL"    "BUN"  
+[45] "Cl"    "PH"    "HCO3"  "ED"    "AP"    "THR"   "CVP"   "UGI"   "Lab"   "CXR"   "KUB"  
+[56] "HTN"   "DNR"   "IV"    "NG"    "Cr"    "NPO"   "IVF"   "stat"  "ASAP"  "NS"    "SBP"  
+[67] "IF"    "VDRL"  "RPR"   "CK"    "Mg"    "Hb"    "VBG"   "BE"   
+
+[[11]]$`abbreviation(expand)`
+ [1] "history"         "disease"         "fracture"        "hypertension"    "creatinine"     
+ [6] "blood"           "temperature"     "antibiotics"     "unknown"         "admission"      
+[11] "bilateral"       "assessment"      "discharge"       "cardiovascular"  "normal"         
+[16] "conjunctiva"     "extremities"     "abnormal"        "lymphadenopathy" "diagnosis"      
+[21] "pneumonia"      
+
+[[11]]$drugs
+[1] "unasyn"   "catapres" "mircera"  "nexium"   "seroquel" "trandate" "lasix"   
+
+[[11]]$disease
+[1] "hyperparathyroidism"
+
+[[11]]$`disease(expand)`
+  [1] "with"                "acute"               "chronic"             "kidney"             
+  [5] "disease"             "type"                "severe"              "metabolic"          
+  [9] "acidosis"            "left"                "fracture"            "vascular"           
+ [13] "dementia"            "diabetes"            "mellitus"            "oral"               
+ [17] "anemia"              "secondary"           "hyperparathyroidism" "hypertension"       
+ [21] "valvular"            "heart"               "aortic"              "regurgitation"      
+ [25] "from"                "blood"               "pressure"            "respiratory"        
+ [29] "edema"               "liver"               "cancer"              "allergy"            
+ [33] "materials"           "dependent"           "brain"               "syndrome"           
+ [37] "cognitive"           "late"                "bilateral"           "proximal"           
+ [41] "distal"              "system"              "constitutional"      "fever"              
+ [45] "weight"              "weakness"            "head"                "neck"               
+ [49] "vertigo"             "injury"              "double"              "strabismus"         
+ [53] "ocular"              "pain"                "hearing"             "impairment"         
+ [57] "caries"              "throat"              "ulcer"               "cardiovascular"     
+ [61] "syncope"             "paroxysmal"          "nocturnal"           "cough"              
+ [65] "gastrointestinal"    "dysphagia"           "abdominal"           "vomiting"           
+ [69] "jaundice"            "constipation"        "normal"              "changes"            
+ [73] "bowel"               "hematuria"           "endocrine"           "lymph"              
+ [77] "node"                "polydipsia"          "hormone"             "growth"             
+ [81] "development"         "goiter"              "intolerance"         "cold"               
+ [85] "nervous"             "joints"              "muscular"            "atrophy"            
+ [89] "paresis"             "skin"                "breast"              "pigmentation"       
+ [93] "hair"                "loss"                "nail"                "nipple"             
+ [97] "muscle"              "neurological"        "focal"               "deficit"            
+[101] "conjunctiva"         "reflex"              "vein"                "carotid"            
+[105] "thoracic"            "symmetric"           "retraction"          "cardiac"            
+[109] "flat"                "soft"                "umbilicus"           "reflux"             
+[113] "spleen"              "extremities"         "intact"              "abnormal"           
+[117] "purpura"             "telangiectasia"      "lymphadenopathy"     "band"               
+[121] "calcification"       "aorta"               "lung"                "small"              
+[125] "effusion"            "osteopenia"          "mild"                "scoliosis"          
+[129] "spine"               "factor"              "disc"                "lower"              
+[133] "essential"           "femoral"             "fixation"            "tissue"             
+[137] "calcified"           "nodule"              "right"               "arteries"           
+[141] "pelvic"              "others"              "clinical"            "tube"               
+[145] "insertion"           "uremic"              "pneumonia"           "renal"              
+[149] "nephropathy"         "benign"              "hyperplasia"         "femur"              
+[153] "folic"               "acid"                "failure"             "terminal"           
+[157] "form"                "advanced"            "pathway"             "positive"           
+
+[[11]]$treatment
+  [1] "and"              "with"             "for"              "of"              
+  [5] "kidney"           "disease"          "left"             "diabetes"        
+  [9] "mellitus"         "oral"             "medication"       "heart"           
+ [13] "aortic"           "in"               "the"              "creatinine"      
+ [17] "to"               "blood"            "pressure"         "pulse"           
+ [21] "rate"             "temperature"      "liver"            "cancer"          
+ [25] "allergy"          "medical"          "device"           "cap"             
+ [29] "d"                "brain"            "effects"          "surgical"        
+ [33] "surgery"          "screen"           "weight"           "neck"            
+ [37] "double"           "strabismus"       "hearing"          "dentures"        
+ [41] "gum"              "throat"           "chest"            "breath"          
+ [45] "gastrointestinal" "good"             "abdominal"        "normal"          
+ [49] "bowel"            "fecal"            "incontinence"     "urine"           
+ [53] "stool"            "lymph"            "node"             "or"              
+ [57] "hormone"          "therapy"          "intolerance"      "muscles"         
+ [61] "joints"           "skin"             "breast"           "hair"            
+ [65] "loss"             "physical"         "examination"      "eye"             
+ [69] "light"            "cardiac"          "soft"             "reflux"          
+ [73] "wound"            "back"             "abnormal"         "ferritin"        
+ [77] "alt"              "ua"               "ca"               "ldl"             
+ [81] "c"                "hdl"              "cbc"              "wbc"             
+ [85] "rbc"              "hb"               "hct"              "mcv"             
+ [89] "mch"              "mchc"             "rdw"              "ph"              
+ [93] "gas"              "glucose"          "ed"               "band"            
+ [97] "imaging"          "small"            "hip"              "factor"          
+[101] "lumbar"           "vacuum"           "lower"            "a"               
+[105] "side"             "pelvic"           "study"            "clinical"        
+[109] "post"             "endotracheal"     "tube"             "diagnosis"       
+[113] "care"             "plan"             "prostate"         "control"         
+[117] "b"                "acid"             "treatment"        "iv"              
+[121] "after"            "failure"          "hemodialysis"     "self"            
+[125] "intervention"     "test"             "support"         
+
+[[11]]$symptoms
+  [1] "and"          "with"         "wheezing"     "of"           "acute"        "on"          
+  [7] "chronic"      "kidney"       "disease"      "diabetes"     "under"        "anemia"      
+ [13] "heart"        "in"           "the"          "increased"    "from"         "to"          
+ [19] "blood"        "pressure"     "respiratory"  "temperature"  "stroke"       "liver"       
+ [25] "cancer"       "allergy"      "brain"        "syndrome"     "status"       "fever"       
+ [31] "weight"       "weakness"     "neck"         "dizziness"    "vertigo"      "injury"      
+ [37] "vision"       "double"       "ocular"       "pain"         "hearing"      "congestion"  
+ [43] "discharge"    "gum"          "bleeding"     "sore"         "throat"       "ulcer"       
+ [49] "stiffness"    "chest"        "tightness"    "palpitations" "shortness"    "breath"      
+ [55] "cough"        "appetite"     "dysphagia"    "abdominal"    "heartburn"    "nausea"      
+ [61] "vomiting"     "jaundice"     "constipation" "diarrhea"     "changes"      "bowel"       
+ [67] "fecal"        "incontinence" "urgency"      "retention"    "urine"        "stool"       
+ [73] "lymph"        "node"         "or"           "intolerance"  "cold"         "swelling"    
+ [79] "redness"      "joints"       "cramps"       "numbness"     "skin"         "breast"      
+ [85] "rash"         "itching"      "hair"         "loss"         "nail"         "lumps"       
+ [91] "nipple"       "muscle"       "deficit"      "gait"         "eye"          "pink"        
+ [97] "sclera"       "retraction"   "flat"         "reflux"       "pitting"      "leg"         
+[103] "back"         "abnormal"     "c"            "gas"          "lung"         "small"       
+[109] "hip"          "osteopenia"   "pelvic"       "pneumonia"    "benign"       "prostate"    
+[115] "acid"         "poor"         "failure"     
+
+[[11]]$all
+  [1] "and"                 "with"                "wheezing"            "for"                
+  [5] "history"             "of"                  "acute"               "on"                 
+  [9] "chronic"             "kidney"              "disease"             "type"               
+ [13] "severe"              "metabolic"           "acidosis"            "left"               
+ [17] "fracture"            "vascular"            "dementia"            "diabetes"           
+ [21] "mellitus"            "under"               "oral"                "medication"         
+ [25] "anemia"              "secondary"           "hyperparathyroidism" "hypertension"       
+ [29] "valvular"            "heart"               "aortic"              "regurgitation"      
+ [33] "in"                  "the"                 "creatinine"          "increased"          
+ [37] "from"                "to"                  "blood"               "pressure"           
+ [41] "pulse"               "rate"                "respiratory"         "temperature"        
+ [45] "antibiotics"         "unasyn"              "edema"               "stroke"             
+ [49] "liver"               "cancer"              "allergy"             "unknown"            
+ [53] "medical"             "device"              "materials"           "catapres"           
+ [57] "cap"                 "d"                   "mircera"             "dependent"          
+ [61] "admission"           "brain"               "syndrome"            "cognitive"          
+ [65] "late"                "effects"             "surgical"            "bilateral"          
+ [69] "status"              "surgery"             "proximal"            "distal"             
+ [73] "assessment"          "screen"              "system"              "constitutional"     
+ [77] "fever"               "weight"              "weakness"            "head"               
+ [81] "neck"                "dizziness"           "vertigo"             "injury"             
+ [85] "vision"              "double"              "strabismus"          "ocular"             
+ [89] "pain"                "hearing"             "impairment"          "congestion"         
+ [93] "discharge"           "caries"              "dentures"            "gum"                
+ [97] "bleeding"            "sore"                "throat"              "ulcer"              
+[101] "stiffness"           "cardiovascular"      "chest"               "tightness"          
+[105] "palpitations"        "syncope"             "paroxysmal"          "nocturnal"          
+[109] "shortness"           "breath"              "cough"               "gastrointestinal"   
+[113] "appetite"            "good"                "dysphagia"           "abdominal"          
+[117] "heartburn"           "nausea"              "vomiting"            "jaundice"           
+[121] "constipation"        "diarrhea"            "normal"              "changes"            
+[125] "bowel"               "fecal"               "incontinence"        "hematuria"          
+[129] "urgency"             "retention"           "urine"               "stool"              
+[133] "endocrine"           "lymph"               "node"                "or"                 
+[137] "polydipsia"          "hormone"             "therapy"             "growth"             
+[141] "development"         "goiter"              "intolerance"         "cold"               
+[145] "nervous"             "swelling"            "redness"             "muscles"            
+[149] "joints"              "muscular"            "atrophy"             "cramps"             
+[153] "numbness"            "paresis"             "skin"                "breast"             
+[157] "rash"                "itching"             "pigmentation"        "hair"               
+[161] "loss"                "nail"                "lumps"               "nipple"             
+[165] "muscle"              "physical"            "examination"         "neurological"       
+[169] "focal"               "deficit"             "gait"                "eye"                
+[173] "conjunctiva"         "pink"                "sclera"              "light"              
+[177] "reflex"              "vein"                "carotid"             "thoracic"           
+[181] "symmetric"           "retraction"          "cardiac"             "flat"               
+[185] "soft"                "umbilicus"           "reflux"              "spleen"             
+[189] "extremities"         "intact"              "pitting"             "wound"              
+[193] "leg"                 "back"                "abnormal"            "purpura"            
+[197] "telangiectasia"      "lymphadenopathy"     "ferritin"            "alt"                
+[201] "ua"                  "ca"                  "ldl"                 "c"                  
+[205] "hdl"                 "cbc"                 "wbc"                 "rbc"                
+[209] "hb"                  "hct"                 "mcv"                 "mch"                
+[213] "mchc"                "rdw"                 "ph"                  "gas"                
+[217] "glucose"             "ed"                  "band"                "imaging"            
+[221] "calcification"       "aorta"               "lung"                "small"              
+[225] "effusion"            "hip"                 "osteopenia"          "mild"               
+[229] "scoliosis"           "spine"               "factor"              "lumbar"             
+[233] "disc"                "vacuum"              "lower"               "essential"          
+[237] "femoral"             "fixation"            "tissue"              "a"                  
+[241] "calcified"           "nodule"              "right"               "side"               
+[245] "arteries"            "pelvic"              "others"              "study"              
+[249] "clinical"            "post"                "endotracheal"        "tube"               
+[253] "insertion"           "diagnosis"           "uremic"              "pneumonia"          
+[257] "care"                "plan"                "renal"               "nexium"             
+[261] "nephropathy"         "benign"              "prostate"            "hyperplasia"        
+[265] "femur"               "control"             "b"                   "folic"              
+[269] "acid"                "seroquel"            "treatment"           "iv"                 
+[273] "after"               "poor"                "failure"             "hemodialysis"       
+[277] "self"                "intervention"        "terminal"            "form"               
+[281] "advanced"            "test"                "support"             "pathway"            
+[285] "trandate"            "lasix"               "positive"           
+
+
+[[12]]
+[[12]]$abbreviation
+ [1] "ALT"   "NSAID" "TP"    "IV"    "on"    "UGI"   "UTI"   "OPD"   "CPCR"  "ED"    "ROSC" 
+[12] "ICU"   "BP"    "ADR"   "TID"   "PO"    "BMI"   "HEENT" "BW"    "kg"    "ENT"   "EOM"  
+[23] "LV"    "RV"    "Ca"    "Hb"    "Hct"   "Na"    "dL"    "HCO3"  "RL"    "BUN"   "CRE"  
+[34] "CK"    "CKMB"  "PT"    "PTT"   "INR"   "WBC"   "CBC"   "PLT"   "RBC"   "HB"    "HCT"  
+[45] "MCV"   "MCH"   "MCHC"  "RDW"   "CV"    "CXR"   "DNR"   "ER"   
+
+[[12]]$`abbreviation(expand)`
+ [1] "history"         "tumor"           "chemotherapy"    "unknown"         "neoplasm"       
+ [6] "lateral"         "biopsy"          "assessment"      "headache"        "discharge"      
+[11] "cardiovascular"  "without"         "normal"          "conjunctiva"     "bilateral"      
+[16] "extremities"     "abnormal"        "lymphadenopathy" "pneumonia"       "diagnosis"      
+[21] "antibiotics"     "prognosis"       "admission"      
+
+[[12]]$drugs
+[1] "avastin"   "cisplatin" "ultracet"  "nexium"   
+
+[[12]]$disease
+NULL
+
+[[12]]$`disease(expand)`
+  [1] "onset"            "loss"             "left"             "cancer"          
+  [5] "tumor"            "with"             "skin"             "squamous"        
+  [9] "cell"             "carcinoma"        "airway"           "obstruction"     
+ [13] "intermittent"     "cough"            "tapered"          "allergy"         
+ [17] "materials"        "tube"             "malignant"        "neoplasm"        
+ [21] "lateral"          "cutaneous"        "partial"          "teeth"           
+ [25] "neck"             "lower"            "gingival"         "system"          
+ [29] "systemic"         "weight"           "headache"         "strabismus"      
+ [33] "ocular"           "pain"             "hearing"          "impairment"      
+ [37] "vertigo"          "nasal"            "throat"           "oral"            
+ [41] "ulcer"            "cardiovascular"   "nocturnal"        "syncope"         
+ [45] "respiratory"      "gastrointestinal" "vomiting"         "dysphagia"       
+ [49] "acid"             "regurgitation"    "abdominal"        "constipation"    
+ [53] "bowel"            "small"            "hematuria"        "urinary"         
+ [57] "bone"             "myalgia"          "weakness"         "metabolic"       
+ [61] "intolerance"      "cold"             "nervous"          "paresis"         
+ [65] "without"          "neurological"     "head"             "normal"          
+ [69] "conjunctiva"      "reflex"           "vein"             "goiter"          
+ [73] "carotid"          "thoracic"         "symmetric"        "retraction"      
+ [77] "vocal"            "expansion"        "bilateral"        "heart"           
+ [81] "cardiac"          "flat"             "soft"             "umbilicus"       
+ [85] "reflux"           "liver"            "spleen"           "extremities"     
+ [89] "intact"           "edema"            "abnormal"         "pigmentation"    
+ [93] "purpura"          "telangiectasia"   "lymphadenopathy"  "coagulation"     
+ [97] "band"             "lung"             "pneumonia"        "arrest"          
+[101] "related"          "return"           "encephalopathy"   "slow"            
+[105] "acute"            "distress"        
+
+[[12]]$treatment
+  [1] "of"               "loss"             "morning"          "the"             
+  [5] "a"                "left"             "cancer"           "post"            
+  [9] "tumor"            "excision"         "tracheostomy"     "alt"             
+ [13] "with"             "skin"             "iv"               "cell"            
+ [17] "chemotherapy"     "and"              "complete"         "airway"          
+ [21] "in"               "for"              "hemodialysis"     "after"           
+ [25] "medical"          "treatment"        "home"             "breathing"       
+ [29] "when"             "ed"               "high"             "to"              
+ [33] "care"             "nursing"          "medication"       "allergy"         
+ [37] "device"           "cap"              "tube"             "d"               
+ [41] "surgical"         "partial"          "teeth"            "extraction"      
+ [45] "biopsy"           "neck"             "lower"            "screen"          
+ [49] "weight"           "strabismus"       "hearing"          "nasal"           
+ [53] "gum"              "throat"           "oral"             "chest"           
+ [57] "gastrointestinal" "acid"             "abdominal"        "bowel"           
+ [61] "small"            "stool"            "urinary"          "urine"           
+ [65] "bone"             "back"             "intolerance"      "physical"        
+ [69] "examination"      "without"          "eye"              "normal"          
+ [73] "light"            "breath"           "heart"            "lift"            
+ [77] "cardiac"          "soft"             "reflux"           "liver"           
+ [81] "abnormal"         "ca"               "hb"               "hct"             
+ [85] "ph"               "sugar"            "pt"               "wbc"             
+ [89] "band"             "cbc"              "rbc"              "mcv"             
+ [93] "mch"              "mchc"             "rdw"              "imaging"         
+ [97] "diagnosis"        "mechanical"       "support"          "aspiration"      
+[101] "plan"             "therapy"          "score"            "rate"            
+
+[[12]]$symptoms
+ [1] "of"           "loss"         "morning"      "the"          "cancer"       "status"      
+ [7] "tumor"        "with"         "skin"         "squamous"     "cell"         "carcinoma"   
+[13] "and"          "on"           "in"           "bleeding"     "cough"        "difficulty"  
+[19] "sputum"       "high"         "to"           "allergy"      "neck"         "mass"        
+[25] "weight"       "easy"         "rash"         "itching"      "headache"     "dizziness"   
+[31] "blurred"      "vision"       "ocular"       "pain"         "hearing"      "vertigo"     
+[37] "nasal"        "discharge"    "gum"          "sore"         "throat"       "ulcer"       
+[43] "chest"        "tightness"    "respiratory"  "decreased"    "appetite"     "nausea"      
+[49] "vomiting"     "dysphagia"    "heartburn"    "acid"         "abdominal"    "constipation"
+[55] "diarrhea"     "bowel"        "small"        "stool"        "urinary"      "urgency"     
+[61] "urine"        "impotence"    "bone"         "weakness"     "back"         "intolerance" 
+[67] "cold"         "numbness"     "eye"          "pink"         "sclera"       "retraction"  
+[73] "vocal"        "breath"       "heart"        "increased"    "flat"         "reflux"      
+[79] "liver"        "pitting"      "abnormal"     "sugar"        "lung"         "congestion"  
+[85] "pneumonia"    "under"        "poor"         "acute"       
+
+[[12]]$all
+  [1] "onset"            "of"               "loss"             "morning"         
+  [5] "history"          "the"              "a"                "left"            
+  [9] "cancer"           "status"           "post"             "tumor"           
+ [13] "excision"         "tracheostomy"     "alt"              "with"            
+ [17] "skin"             "iv"               "squamous"         "cell"            
+ [21] "carcinoma"        "chemotherapy"     "and"              "avastin"         
+ [25] "cisplatin"        "complete"         "airway"           "obstruction"     
+ [29] "on"               "in"               "for"              "bleeding"        
+ [33] "hemodialysis"     "after"            "medical"          "treatment"       
+ [37] "intermittent"     "cough"            "home"             "difficulty"      
+ [41] "sputum"           "breathing"        "when"             "ed"              
+ [45] "high"             "to"               "care"             "tapered"         
+ [49] "nursing"          "medication"       "allergy"          "unknown"         
+ [53] "device"           "materials"        "cap"              "ultracet"        
+ [57] "nexium"           "tube"             "d"                "malignant"       
+ [61] "neoplasm"         "surgical"         "lateral"          "cutaneous"       
+ [65] "partial"          "teeth"            "extraction"       "biopsy"          
+ [69] "neck"             "mass"             "lower"            "gingival"        
+ [73] "assessment"       "screen"           "system"           "systemic"        
+ [77] "weight"           "easy"             "rash"             "itching"         
+ [81] "headache"         "dizziness"        "blurred"          "vision"          
+ [85] "strabismus"       "ocular"           "pain"             "hearing"         
+ [89] "impairment"       "vertigo"          "nasal"            "discharge"       
+ [93] "gum"              "sore"             "throat"           "oral"            
+ [97] "ulcer"            "cardiovascular"   "chest"            "tightness"       
+[101] "nocturnal"        "syncope"          "respiratory"      "gastrointestinal"
+[105] "decreased"        "appetite"         "nausea"           "vomiting"        
+[109] "dysphagia"        "heartburn"        "acid"             "regurgitation"   
+[113] "abdominal"        "constipation"     "diarrhea"         "bowel"           
+[117] "small"            "stool"            "hematuria"        "urinary"         
+[121] "urgency"          "urine"            "impotence"        "bone"            
+[125] "myalgia"          "weakness"         "back"             "metabolic"       
+[129] "intolerance"      "cold"             "nervous"          "numbness"        
+[133] "paresis"          "physical"         "examination"      "without"         
+[137] "neurological"     "head"             "eye"              "normal"          
+[141] "conjunctiva"      "pink"             "sclera"           "light"           
+[145] "reflex"           "vein"             "goiter"           "carotid"         
+[149] "thoracic"         "symmetric"        "retraction"       "vocal"           
+[153] "expansion"        "breath"           "bilateral"        "heart"           
+[157] "lift"             "increased"        "cardiac"          "flat"            
+[161] "soft"             "umbilicus"        "reflux"           "liver"           
+[165] "spleen"           "extremities"      "intact"           "pitting"         
+[169] "edema"            "abnormal"         "pigmentation"     "purpura"         
+[173] "telangiectasia"   "lymphadenopathy"  "ca"               "hb"              
+[177] "hct"              "ph"               "sugar"            "coagulation"     
+[181] "pt"               "wbc"              "band"             "cbc"             
+[185] "rbc"              "mcv"              "mch"              "mchc"            
+[189] "rdw"              "imaging"          "lung"             "congestion"      
+[193] "pneumonia"        "diagnosis"        "arrest"           "related"         
+[197] "return"           "under"            "mechanical"       "support"         
+[201] "encephalopathy"   "aspiration"       "plan"             "antibiotics"     
+[205] "poor"             "prognosis"        "therapy"          "admission"       
+[209] "score"            "slow"             "rate"             "acute"           
+[213] "distress"        
+
+
+[[13]]
+[[13]]$abbreviation
+ [1] "CAD"   "STEMI" "IV"    "CPCR"  "ROSC"  "PCI"   "RCA"   "UGI"   "DAPT"  "GI"    "Hb"   
+[12] "PPI"   "CVVH"  "NG"    "HR"    "DNR"   "CT"    "EEG"   "DI"    "DDAVP" "BW"   
+
+[[13]]$`abbreviation(expand)`
+[1] "hypertension" "internal"     "unknown"      "prophylaxis"  "prognosis"    "dopamine"    
+[7] "blood"       
+
+[[13]]$drugs
+[1] "heparin"  "plavix"   "dopamine" "levophed" "ddavp"   
+
+[[13]]$disease
+NULL
+
+[[13]]$`disease(expand)`
+ [1] "with"          "inferior"      "class"         "primary"       "acute"        
+ [6] "liver"         "injury"        "shock"         "related"       "source"       
+[11] "hypertension"  "type"          "diabetes"      "mellitus"      "carotid"      
+[16] "artery"        "stenosis"      "laterality"    "component"     "ulcer"        
+[21] "persistent"    "metabolic"     "acidosis"      "blood"         "from"         
+[26] "sinus"         "dilated"       "system"        "hydrocephalus" "cerebellum"   
+[31] "brain"         "stem"          "diffuse"       "cortical"      "dysfunction"  
+[36] "central"      
+
+[[13]]$treatment
+ [1] "with"     "class"    "iv"       "pci"      "to"       "liver"    "diabetes" "mellitus"
+ [9] "artery"   "therapy"  "plan"     "and"      "gi"       "back"     "hb"       "for"     
+[17] "blood"    "125"      "sinus"    "of"       "support"  "ct"       "brain"    "stem"    
+[25] "eeg"      "cortical" "response"
+
+[[13]]$symptoms
+ [1] "with"     "to"       "acute"    "liver"    "injury"   "bleeding" "diabetes" "and"     
+ [9] "back"     "ulcer"    "blood"    "from"     "under"    "sinus"    "dilated"  "of"      
+[17] "brain"   
+
+[[13]]$all
+ [1] "with"          "inferior"      "class"         "iv"            "primary"      
+ [6] "pci"           "to"            "acute"         "liver"         "injury"       
+[11] "shock"         "related"       "bleeding"      "source"        "hypertension" 
+[16] "type"          "diabetes"      "mellitus"      "internal"      "carotid"      
+[21] "artery"        "stenosis"      "laterality"    "unknown"       "therapy"      
+[26] "plan"          "and"           "heparin"       "gi"            "back"         
+[31] "plavix"        "component"     "hb"            "for"           "ulcer"        
+[36] "prophylaxis"   "prognosis"     "dopamine"      "persistent"    "metabolic"    
+[41] "acidosis"      "blood"         "from"          "under"         "levophed"     
+[46] "125"           "sinus"         "dilated"       "of"            "support"      
+[51] "system"        "ct"            "hydrocephalus" "cerebellum"    "brain"        
+[56] "stem"          "eeg"           "diffuse"       "cortical"      "dysfunction"  
+[61] "central"       "response"      "ddavp"        
+
+
+[[14]]
+[[14]]$abbreviation
+ [1] "on"    "PSVT"  "kg"    "CT"    "RLL"   "OPD"   "SICU"  "CXR"   "IV"    "PO"    "ER"   
+[12] "BT"    "PR"    "BP"    "PT"    "aPTT"  "HB"    "dL"    "WBC"   "PLT"   "PTT"   "INR"  
+[23] "RBC"   "ADR"   "Inj"   "IF"    "BMI"   "O2"    "BW"    "HEENT" "LAP"   "RL"    "CBC"  
+[34] "HCT"   "MCV"   "MCH"   "MCHC"  "RDW"   "CV"    "ALT"   "BUN"   "CRE"   "Na"    "Ca"   
+[45] "Mg"    "AST"   "PH"    "HCO3"  "Hb"    "Hct"   "HE"    "BC"    "TP"    "LDH"   "TG"   
+[56] "CHO"   "DM"    "AC"    "ID"    "DS"    "BK"    "ABO"   "OP"    "Exam"  "Gr"    "AF"   
+[67] "ED"    "PA"    "AP"    "NG"    "PET"   "MRI"   "MR"    "PE"    "Lab"   "TID"  
+
+[[14]]$`abbreviation(expand)`
+ [1] "history"         "biopsy"          "tumor"           "admission"       "unknown"        
+ [6] "assessment"      "cardiovascular"  "lymphadenopathy" "without"         "blood"          
+[11] "antibody"        "negative"        "specimen"        "pneumothorax"    "normal"         
+[16] "bilateral"       "subcutaneous"    "catheter"        "diagnosis"       "symptoms"       
+[21] "discharge"      
+
+[[14]]$drugs
+[1] "maxipime"  "cordarone" "ultracet"  "lanoxin"  
+
+[[14]]$disease
+NULL
+
+[[14]]$`disease(expand)`
+  [1] "progressive"      "cough"            "illness"          "male"            
+  [5] "right"            "lung"             "carcinoma"        "form"            
+  [9] "mild"             "fever"            "with"             "body"            
+ [13] "weight"           "loss"             "posterior"        "central"         
+ [17] "necrosis"         "visceral"         "lymph"            "node"            
+ [21] "total"            "malignant"        "cell"             "tumor"           
+ [25] "impression"       "cancer"           "left"             "white"           
+ [29] "edema"            "vascular"         "related"          "effusion"        
+ [33] "tube"             "from"             "tachycardia"      "diffuse"         
+ [37] "pain"             "coarse"           "lymphocyte"       "positive"        
+ [41] "allergy"          "shock"            "materials"        "system"          
+ [45] "cardiovascular"   "nasal"            "intolerance"      "limbs"           
+ [49] "respiratory"      "breast"           "gastrointestinal" "abdominal"       
+ [53] "bowel"            "anal"             "dysphagia"        "urinary"         
+ [57] "nocturnal"        "urolithiasis"     "lymphadenopathy"  "joint"           
+ [61] "endocrine"        "goiter"           "cold"             "fatigue"         
+ [65] "neurological"     "muscle"           "intact"           "pupils"          
+ [69] "movement"         "oral"             "ulcer"            "neck"            
+ [73] "vein"             "thyroid"          "symmetric"        "expansion"       
+ [77] "deformity"        "heart"            "without"          "flat"            
+ [81] "soft"             "liver"            "spleen"           "peripheral"      
+ [85] "carotid"          "brachial"         "radial"           "femoral"         
+ [89] "tibial"           "coagulation"      "blood"            "band"            
+ [93] "others"           "epithelial"       "cells"            "mixed"           
+ [97] "like"             "type"             "antibody"         "negative"        
+[101] "bacteria"         "acid"             "clinical"         "cardiac"         
+[105] "pneumothorax"     "normal"           "bilateral"        "borderline"      
+[109] "opacity"          "cystic"           "insertion"        "subcutaneous"    
+[113] "emphysema"        "wall"             "source"           "infection"       
+
+[[14]]$treatment
+  [1] "and"              "medical"          "for"              "of"              
+  [5] "post"             "control"          "with"             "breathing"       
+  [9] "body"             "weight"           "loss"             "in"              
+ [13] "to"               "ct"               "a"                "necrosis"        
+ [17] "lymph"            "node"             "total"            "biopsy"          
+ [21] "cell"             "tumor"            "or"               "surgical"        
+ [25] "intervention"     "chest"            "cancer"           "treatment"       
+ [29] "after"            "the"              "left"             "white"           
+ [33] "tube"             "iv"               "morning"          "when"            
+ [37] "c"                "study"            "pt"               "hb"              
+ [41] "wbc"              "rbc"              "count"            "test"            
+ [45] "medication"       "allergy"          "device"           "b"               
+ [49] "screen"           "nasal"            "intolerance"      "breast"          
+ [53] "gastrointestinal" "abdominal"        "bowel"            "incontinence"    
+ [57] "stool"            "urinary"          "joint"            "back"            
+ [61] "physical"         "examination"      "eye"              "oral"            
+ [65] "neck"             "lap"              "thyroid"          "inspection"      
+ [69] "breath"           "heart"            "without"          "soft"            
+ [73] "liver"            "peripheral"       "cbc"              "hct"             
+ [77] "mcv"              "mch"              "mchc"             "rdw"             
+ [81] "alt"              "ca"               "ast"              "blood"           
+ [85] "ph"               "gas"              "band"             "sugar"           
+ [89] "d"                "antibody"         "exam"             "fluid"           
+ [93] "acid"             "glucose"          "ed"               "imaging"         
+ [97] "clinical"         "cardiac"          "normal"           "cystic"          
+[101] "endotracheal"     "side"             "mri"              "group"           
+[105] "resection"        "diagnosis"        "infection"        "care"            
+[109] "plan"             "support"         
+
+[[14]]$symptoms
+ [1] "and"          "cough"        "of"           "lung"         "carcinoma"    "status"      
+ [7] "on"           "under"        "dry"          "fever"        "with"         "shortness"   
+[13] "body"         "weight"       "loss"         "in"           "nausea"       "to"          
+[19] "mass"         "lymph"        "node"         "cell"         "tumor"        "or"          
+[25] "chest"        "cancer"       "the"          "white"        "delirium"     "from"        
+[31] "morning"      "tachycardia"  "dizziness"    "pain"         "poor"         "c"           
+[37] "allergy"      "nasal"        "leg"          "intolerance"  "respiratory"  "wheezing"    
+[43] "breast"       "bleeding"     "abdominal"    "bowel"        "anal"         "incontinence"
+[49] "bloody"       "stool"        "dysphagia"    "heartburn"    "sensation"    "sclera"      
+[55] "urinary"      "urgency"      "impotence"    "joint"        "stiffness"    "back"        
+[61] "cold"         "fatigue"      "muscle"       "gait"         "pupils"       "pale"        
+[67] "eye"          "thrush"       "ulcer"        "neck"         "deformity"    "breath"      
+[73] "decreased"    "heart"        "flat"         "liver"        "peripheral"   "blood"       
+[79] "gas"          "sugar"        "sputum"       "yeast"        "acid"         "metallic"    
+[85] "increased"    "cystic"       "hot"          "nodes"        "infection"    "discharge"   
+
+[[14]]$all
+  [1] "and"              "medical"          "progressive"      "cough"           
+  [5] "for"              "history"          "illness"          "male"            
+  [9] "of"               "right"            "lung"             "carcinoma"       
+ [13] "status"           "post"             "on"               "under"           
+ [17] "control"          "form"             "dry"              "mild"            
+ [21] "fever"            "with"             "shortness"        "breathing"       
+ [25] "body"             "weight"           "loss"             "in"              
+ [29] "nausea"           "to"               "ct"               "a"               
+ [33] "mass"             "posterior"        "central"          "necrosis"        
+ [37] "visceral"         "lymph"            "node"             "total"           
+ [41] "biopsy"           "malignant"        "cell"             "tumor"           
+ [45] "or"               "surgical"         "intervention"     "chest"           
+ [49] "impression"       "cancer"           "treatment"        "after"           
+ [53] "admission"        "the"              "left"             "white"           
+ [57] "edema"            "vascular"         "related"          "effusion"        
+ [61] "tube"             "delirium"         "iv"               "from"            
+ [65] "morning"          "tachycardia"      "dizziness"        "when"            
+ [69] "diffuse"          "pain"             "poor"             "c"               
+ [73] "coarse"           "study"            "pt"               "hb"              
+ [77] "wbc"              "lymphocyte"       "rbc"              "count"           
+ [81] "test"             "positive"         "medication"       "allergy"         
+ [85] "shock"            "unknown"          "device"           "materials"       
+ [89] "maxipime"         "cordarone"        "ultracet"         "assessment"      
+ [93] "b"                "screen"           "system"           "cardiovascular"  
+ [97] "nasal"            "leg"              "intolerance"      "limbs"           
+[101] "respiratory"      "wheezing"         "breast"           "bleeding"        
+[105] "gastrointestinal" "abdominal"        "bowel"            "anal"            
+[109] "incontinence"     "bloody"           "stool"            "dysphagia"       
+[113] "heartburn"        "sensation"        "sclera"           "urinary"         
+[117] "urgency"          "nocturnal"        "impotence"        "urolithiasis"    
+[121] "lymphadenopathy"  "joint"            "stiffness"        "back"            
+[125] "endocrine"        "goiter"           "cold"             "fatigue"         
+[129] "physical"         "examination"      "neurological"     "muscle"          
+[133] "intact"           "gait"             "pupils"           "pale"            
+[137] "eye"              "movement"         "oral"             "thrush"          
+[141] "ulcer"            "neck"             "lap"              "vein"            
+[145] "thyroid"          "inspection"       "symmetric"        "expansion"       
+[149] "deformity"        "breath"           "decreased"        "heart"           
+[153] "without"          "flat"             "soft"             "liver"           
+[157] "spleen"           "peripheral"       "carotid"          "brachial"        
+[161] "radial"           "femoral"          "tibial"           "cbc"             
+[165] "hct"              "mcv"              "mch"              "mchc"            
+[169] "rdw"              "alt"              "ca"               "ast"             
+[173] "coagulation"      "blood"            "ph"               "gas"             
+[177] "band"             "sugar"            "d"                "others"          
+[181] "sputum"           "epithelial"       "cells"            "mixed"           
+[185] "yeast"            "like"             "type"             "antibody"        
+[189] "negative"         "exam"             "specimen"         "fluid"           
+[193] "bacteria"         "acid"             "glucose"          "ed"              
+[197] "imaging"          "clinical"         "cardiac"          "pneumothorax"    
+[201] "metallic"         "normal"           "bilateral"        "borderline"      
+[205] "increased"        "opacity"          "cystic"           "insertion"       
+[209] "subcutaneous"     "emphysema"        "wall"             "endotracheal"    
+[213] "catheter"         "side"             "hot"              "nodes"           
+[217] "mri"              "source"           "group"            "resection"       
+[221] "diagnosis"        "infection"        "care"             "plan"            
+[225] "support"          "lanoxin"          "symptoms"         "discharge"       
+
+
+[[15]]
+[[15]]$abbreviation
+NULL
+
+[[15]]$`abbreviation(expand)`
+NULL
+
+[[15]]$drugs
+NULL
+
+[[15]]$disease
+NULL
+
+[[15]]$`disease(expand)`
+NULL
+
+[[15]]$treatment
+[1] "support"
+
+[[15]]$symptoms
+NULL
+
+[[15]]$all
+[1] "support"
+
+
+[[16]]
+[[16]]$abbreviation
+ [1] "TB"     "on"     "GIB"    "BW"     "HbA1c"  "CABG"   "HLA"    "CXR"    "NG"     "IV"    
+[11] "PPI"    "NPO"    "CK"     "ECG"    "NSTEMI" "DAPT"   "CV"     "AFP"    "DNR"    "HBV"   
+[21] "MICU"   "ICU"    "VS"    
+
+[[16]]$`abbreviation(expand)`
+[1] "tuberculosis" "disease"      "pneumonia"    "prognosis"   
+
+[[16]]$drugs
+[1] "allopurinol" "fluconazole" "entecavir"   "diflucan"   
+
+[[16]]$disease
+NULL
+
+[[16]]$`disease(expand)`
+ [1] "acute"          "liver"          "failure"        "with"           "syndrome"      
+ [6] "hepatic"        "encephalopathy" "hepatitis"      "related"        "drug"          
+[11] "induced"        "chronic"        "pulmonary"      "from"           "kidney"        
+[16] "disease"        "acquired"       "pneumonia"      "type"           "diabetes"      
+[21] "mellitus"       "coronary"       "artery"         "vessel"         "ventricular"   
+[26] "tachycardia"    "allergy"        "positive"       "minimal"        "progressive"   
+[31] "renal"          "intermittent"   "cardiac"        "enzymes"        "changes"       
+[36] "contact"        "fever"          "edema"          "persistent"     "total"         
+[41] "terminal"       "withdrawal"     "during"        
+
+[[16]]$treatment
+ [1] "problems"      "liver"         "failure"       "with"          "and"          
+ [6] "b"             "drug"          "tuberculosis"  "post"          "to"           
+[11] "kidney"        "disease"       "d"             "diabetes"      "mellitus"     
+[16] "coronary"      "artery"        "cabg"          "in"            "ventricular"  
+[21] "defibrillator" "allergy"       "treatment"     "pump"          "urine"        
+[26] "function"      "for"           "hemodialysis"  "iv"            "first"        
+[31] "cardiac"       "enzymes"       "ecg"           "pacemaker"     "rate"         
+[36] "elevated"      "total"         "afp"           "plan"          "of"           
+[41] "the"           "care"          "withdrawal"    "support"       "during"       
+[46] "complete"      "questions"     "vs"           
+
+[[16]]$symptoms
+ [1] "acute"       "liver"       "failure"     "with"        "syndrome"    "and"        
+ [7] "hepatitis"   "chronic"     "pulmonary"   "status"      "from"        "to"         
+[13] "on"          "kidney"      "disease"     "dry"         "pneumonia"   "diabetes"   
+[19] "in"          "tachycardia" "allergy"     "urine"       "output"      "changes"    
+[25] "bleeding"    "contact"     "fever"       "elevated"    "low"         "poor"       
+[31] "of"          "viral"       "the"         "withdrawal"  "under"      
+
+[[16]]$all
+ [1] "problems"       "acute"          "liver"          "failure"        "with"          
+ [6] "syndrome"       "and"            "hepatic"        "encephalopathy" "hepatitis"     
+[11] "b"              "related"        "drug"           "induced"        "chronic"       
+[16] "pulmonary"      "tuberculosis"   "status"         "post"           "from"          
+[21] "to"             "on"             "kidney"         "disease"        "d"             
+[26] "dry"            "acquired"       "pneumonia"      "type"           "diabetes"      
+[31] "mellitus"       "coronary"       "artery"         "vessel"         "cabg"          
+[36] "in"             "ventricular"    "tachycardia"    "defibrillator"  "allopurinol"   
+[41] "allergy"        "positive"       "treatment"      "pump"           "minimal"       
+[46] "urine"          "output"         "progressive"    "renal"          "function"      
+[51] "for"            "hemodialysis"   "intermittent"   "iv"             "first"         
+[56] "cardiac"        "enzymes"        "ecg"            "changes"        "bleeding"      
+[61] "contact"        "pacemaker"      "rate"           "fever"          "fluconazole"   
+[66] "edema"          "persistent"     "elevated"       "total"          "low"           
+[71] "afp"            "poor"           "plan"           "entecavir"      "prognosis"     
+[76] "of"             "diflucan"       "viral"          "the"            "terminal"      
+[81] "care"           "withdrawal"     "support"        "under"          "during"        
+[86] "complete"       "questions"      "vs"            
+
+
+[[17]]
+[[17]]$abbreviation
+[1] "od"  "ETT" "Ag"  "on" 
+
+[[17]]$`abbreviation(expand)`
+[1] "disease" "inhaled"
+
+[[17]]$drugs
+[1] "zithromax"   "fluconazole"
+
+[[17]]$disease
+NULL
+
+[[17]]$`disease(expand)`
+ [1] "female"        "respiratory"   "failure"       "with"          "obstructive"  
+ [6] "airway"        "versus"        "host"          "lung"          "fever"        
+[11] "infection"     "syndrome"      "anemia"        "corneal"       "amniotic"     
+[16] "membrane"      "chronic"       "disease"       "bronchiolitis" "obliterans"   
+[21] "limited"      
+
+[[17]]$treatment
+ [1] "female"          "failure"         "post"            "intubation"      "support"        
+ [6] "with"            "airway"          "graft"           "infection"       "to"             
+[11] "transplant"      "eye"             "amniotic"        "transplantation" "disease"        
+[16] "mechanical"      "the"             "ph"              "and"             "breathing"      
+[21] "of"              "function"       
+
+[[17]]$symptoms
+ [1] "respiratory" "failure"     "status"      "under"       "with"        "lung"       
+ [7] "fever"       "infection"   "to"          "syndrome"    "anemia"      "dry"        
+[13] "eye"         "chronic"     "disease"     "the"         "chlamydia"   "and"        
+[19] "of"          "on"         
+
+[[17]]$all
+ [1] "female"          "respiratory"     "failure"         "status"          "post"           
+ [6] "intubation"      "under"           "support"         "with"            "obstructive"    
+[11] "airway"          "graft"           "versus"          "host"            "lung"           
+[16] "fever"           "infection"       "to"              "syndrome"        "anemia"         
+[21] "transplant"      "dry"             "eye"             "corneal"         "amniotic"       
+[26] "membrane"        "transplantation" "chronic"         "disease"         "bronchiolitis"  
+[31] "obliterans"      "mechanical"      "the"             "ph"              "chlamydia"      
+[36] "inhaled"         "and"             "breathing"       "zithromax"       "limited"        
+[41] "of"              "function"        "on"              "fluconazole"    
+
+
+[[18]]
+[[18]]$abbreviation
+ [1] "FL"    "on"    "PT"    "RUQ"   "MRI"   "HBV"   "AFP"   "dl"    "PV"    "Lab"   "AST"  
+[12] "ALT"   "CAD"   "HTN"   "DM"    "PO"    "BMI"   "HEENT" "BW"    "kg"    "BP"    "ENT"  
+[23] "RL"    "BUN"   "CRE"   "Na"    "dL"    "Ca"    "CBC"   "PLT"   "WBC"   "RBC"   "HB"   
+[34] "HCT"   "MCV"   "MCH"   "MCHC"  "RDW"   "CV"    "ALP"   "LDH"   "OP"    "HPF"   "Gr"   
+[45] "LMD"   "PD"    "CT"    "CXR"   "EKG"   "HCC"   "IA"    "PR"    "S2"    "HA"    "VS"   
+[56] "OB"    "AP"    "LN"    "GU"    "LFT"   "RFT"   "Abd"   "AC"    "VT"    "RR"    "PIP"  
+[67] "MAP"   "VE"    "PEEP" 
+
+[[18]]$`abbreviation(expand)`
+ [1] "history"         "disease"         "chemotherapy"    "hypertension"    "biopsy"         
+ [6] "tumor"           "injection"       "catheter"        "admission"       "blood"          
+[11] "assessment"      "headache"        "discharge"       "cardiovascular"  "conjunctiva"    
+[16] "lymphadenopathy" "abnormal"        "axillary"        "diagnosis"       "creatinine"     
+[21] "bilateral"       "lateral"         "anterior"       
+
+[[18]]$drugs
+[1] "sorafenib"   "cisplatin"   "baraclude"   "inderal"     "entecavir"   "propranolol"
+[7] "albumin"    
+
+[[18]]$disease
+[1] "ascites"
+
+[[18]]$`disease(expand)`
+  [1] "with"             "carcinoma"        "vein"             "thrombosis"      
+  [5] "liver"            "cancer"           "oral"             "disease"         
+  [9] "hepatic"          "arterial"         "cirrhosis"        "child"           
+ [13] "gastric"          "esophageal"       "varices"          "chronic"         
+ [17] "hepatitis"        "diabetes"         "mellitus"         "type"            
+ [21] "hypertension"     "mild"             "from"             "abdominal"       
+ [25] "local"            "tumors"           "right"            "lobe"            
+ [29] "left"             "related"          "hand"             "foot"            
+ [33] "syndrome"         "systemic"         "total"            "hypersensitivity"
+ [37] "transfusion"      "posterior"        "tumor"            "impression"      
+ [41] "during"           "obstruction"      "patent"           "cough"           
+ [45] "sleep"            "constipation"     "fever"            "cycle"           
+ [49] "acute"            "kidney"           "injury"           "diseases"        
+ [53] "drugs"            "allergy"          "skin"             "blood"           
+ [57] "alcohol"          "system"           "weight"           "loss"            
+ [61] "headache"         "strabismus"       "ocular"           "pain"            
+ [65] "hearing"          "impairment"       "vertigo"          "nasal"           
+ [69] "throat"           "ulcer"            "cardiovascular"   "nocturnal"       
+ [73] "syncope"          "intermittent"     "respiratory"      "gastrointestinal"
+ [77] "vomiting"         "dysphagia"        "acid"             "regurgitation"   
+ [81] "bowel"            "small"            "hematuria"        "urinary"         
+ [85] "bone"             "myalgia"          "weakness"         "metabolic"       
+ [89] "intolerance"      "cold"             "nervous"          "paresis"         
+ [93] "neurological"     "muscle"           "symmetric"        "appearance"      
+ [97] "conjunctiva"      "reflex"           "lymphadenopathy"  "thyroid"         
+[101] "goiter"           "thoracic"         "heart"            "soft"            
+[105] "umbilicus"        "spleen"           "edema"            "abnormal"        
+[109] "pigmentation"     "purpura"          "telangiectasia"   "erythema"        
+[113] "limbs"            "ulceration"       "band"             "bacteria"        
+[117] "others"           "protein"          "body"             "esterase"        
+[121] "yellow"           "overload"         "renal"            "ascites"         
+[125] "brain"            "cardiac"          "head"             "bilateral"       
+[129] "hands"            "severe"           "multiple"         "nodule"          
+[133] "lateral"          "shunt"            "recurrent"        "anterior"        
+[137] "phase"            "lung"             "pressure"        
+
+[[18]]$treatment
+  [1] "d"                "and"              "medical"          "with"            
+  [5] "the"              "of"               "liver"            "cancer"          
+  [9] "c"                "post"             "oral"             "disease"         
+ [13] "in"               "infusion"         "chemotherapy"     "a"               
+ [17] "b"                "pt"               "gastric"          "esophageal"      
+ [21] "diabetes"         "mellitus"         "abdominal"        "to"              
+ [25] "mri"              "lobe"             "left"             "echo"            
+ [29] "biopsy"           "side"             "effects"          "hand"            
+ [33] "afp"              "total"            "after"            "transfusion"     
+ [37] "tumor"            "stool"            "injection"        "high"            
+ [41] "during"           "response"         "procedures"       "or"              
+ [45] "complete"         "for"              "elevated"         "ast"             
+ [49] "alt"              "kidney"           "allergy"          "skin"            
+ [53] "surgery"          "medication"       "blood"            "home"            
+ [57] "screen"           "weight"           "loss"             "strabismus"      
+ [61] "hearing"          "nasal"            "gum"              "throat"          
+ [65] "chest"            "gastrointestinal" "acid"             "bowel"           
+ [69] "small"            "urinary"          "urine"            "bone"            
+ [73] "back"             "intolerance"      "physical"         "examination"     
+ [77] "score"            "eye"              "thyroid"          "heart"           
+ [81] "soft"             "abnormal"         "wound"            "ca"              
+ [85] "cbc"              "wbc"              "rbc"              "hb"              
+ [89] "hct"              "mcv"              "mch"              "mchc"            
+ [93] "rdw"              "band"             "mucus"            "ph"              
+ [97] "protein"          "body"             "sugar"            "imaging"         
+[101] "needle"           "diagnosis"        "care"             "plan"            
+[105] "creatinine"       "fluid"            "study"            "ct"              
+[109] "scan"             "brain"            "ekg"              "cardiac"         
+[113] "treatment"        "breath"           "when"             "multiple"        
+[117] "shunt"            "vs"               "rt"               "pressure"        
+
+[[18]]$symptoms
+  [1] "and"          "with"         "the"          "of"           "carcinoma"    "liver"       
+  [7] "cancer"       "c"            "status"       "disease"      "in"           "on"          
+ [13] "chronic"      "hepatitis"    "under"        "diabetes"     "from"         "abdominal"   
+ [19] "to"           "hand"         "foot"         "syndrome"     "diarrhea"     "increased"   
+ [25] "tumor"        "stool"        "bleeding"     "high"         "dry"          "cough"       
+ [31] "sleep"        "decreased"    "appetite"     "constipation" "or"           "fever"       
+ [37] "elevated"     "acute"        "kidney"       "injury"       "allergy"      "skin"        
+ [43] "rash"         "itching"      "blood"        "alcohol"      "weight"       "loss"        
+ [49] "easy"         "headache"     "dizziness"    "blurred"      "vision"       "ocular"      
+ [55] "pain"         "hearing"      "vertigo"      "nasal"        "discharge"    "gum"         
+ [61] "sore"         "throat"       "ulcer"        "chest"        "tightness"    "respiratory" 
+ [67] "nausea"       "vomiting"     "dysphagia"    "heartburn"    "acid"         "bowel"       
+ [73] "small"        "urinary"      "urgency"      "urine"        "impotence"    "bone"        
+ [79] "weakness"     "back"         "intolerance"  "cold"         "numbness"     "muscle"      
+ [85] "gait"         "eye"          "pink"         "sclera"       "heart"        "pitting"     
+ [91] "abnormal"     "body"         "color"        "sugar"        "brain"        "mass"        
+ [97] "hot"          "shortness"    "breath"       "hands"        "itch"         "sensation"   
+[103] "redness"      "multiple"     "enlarged"     "lung"         "swelling"     "pressure"    
+
+[[18]]$all
+  [1] "d"                "and"              "medical"          "with"            
+  [5] "history"          "the"              "of"               "carcinoma"       
+  [9] "vein"             "thrombosis"       "liver"            "cancer"          
+ [13] "c"                "status"           "post"             "oral"            
+ [17] "sorafenib"        "disease"          "in"               "hepatic"         
+ [21] "arterial"         "infusion"         "chemotherapy"     "cisplatin"       
+ [25] "on"               "cirrhosis"        "child"            "a"               
+ [29] "b"                "pt"               "gastric"          "esophageal"      
+ [33] "varices"          "chronic"          "hepatitis"        "under"           
+ [37] "baraclude"        "diabetes"         "mellitus"         "type"            
+ [41] "hypertension"     "mild"             "from"             "abdominal"       
+ [45] "local"            "to"               "mri"              "tumors"          
+ [49] "right"            "lobe"             "left"             "echo"            
+ [53] "biopsy"           "related"          "side"             "effects"         
+ [57] "hand"             "foot"             "syndrome"         "diarrhea"        
+ [61] "afp"              "systemic"         "total"            "hypersensitivity"
+ [65] "after"            "transfusion"      "posterior"        "increased"       
+ [69] "tumor"            "impression"       "stool"            "bleeding"        
+ [73] "injection"        "high"             "during"           "obstruction"     
+ [77] "catheter"         "response"         "patent"           "procedures"      
+ [81] "dry"              "cough"            "sleep"            "decreased"       
+ [85] "appetite"         "constipation"     "or"               "fever"           
+ [89] "complete"         "cycle"            "inderal"          "admission"       
+ [93] "for"              "elevated"         "ast"              "alt"             
+ [97] "acute"            "kidney"           "injury"           "diseases"        
+[101] "drugs"            "allergy"          "skin"             "rash"            
+[105] "itching"          "surgery"          "medication"       "entecavir"       
+[109] "propranolol"      "blood"            "home"             "alcohol"         
+[113] "assessment"       "screen"           "system"           "weight"          
+[117] "loss"             "easy"             "headache"         "dizziness"       
+[121] "blurred"          "vision"           "strabismus"       "ocular"          
+[125] "pain"             "hearing"          "impairment"       "vertigo"         
+[129] "nasal"            "discharge"        "gum"              "sore"            
+[133] "throat"           "ulcer"            "cardiovascular"   "chest"           
+[137] "tightness"        "nocturnal"        "syncope"          "intermittent"    
+[141] "respiratory"      "gastrointestinal" "nausea"           "vomiting"        
+[145] "dysphagia"        "heartburn"        "acid"             "regurgitation"   
+[149] "bowel"            "small"            "hematuria"        "urinary"         
+[153] "urgency"          "urine"            "impotence"        "bone"            
+[157] "myalgia"          "weakness"         "back"             "metabolic"       
+[161] "intolerance"      "cold"             "nervous"          "numbness"        
+[165] "paresis"          "physical"         "examination"      "neurological"    
+[169] "muscle"           "symmetric"        "gait"             "appearance"      
+[173] "score"            "eye"              "conjunctiva"      "pink"            
+[177] "sclera"           "reflex"           "lymphadenopathy"  "thyroid"         
+[181] "goiter"           "thoracic"         "heart"            "soft"            
+[185] "umbilicus"        "spleen"           "pitting"          "edema"           
+[189] "abnormal"         "pigmentation"     "purpura"          "telangiectasia"  
+[193] "erythema"         "limbs"            "wound"            "ulceration"      
+[197] "axillary"         "ca"               "cbc"              "wbc"             
+[201] "rbc"              "hb"               "hct"              "mcv"             
+[205] "mch"              "mchc"             "rdw"              "band"            
+[209] "bacteria"         "mucus"            "others"           "ph"              
+[213] "protein"          "body"             "esterase"         "color"           
+[217] "yellow"           "sugar"            "imaging"          "needle"          
+[221] "diagnosis"        "care"             "plan"             "creatinine"      
+[225] "fluid"            "overload"         "renal"            "study"           
+[229] "ascites"          "ct"               "scan"             "brain"           
+[233] "ekg"              "cardiac"          "treatment"        "head"            
+[237] "mass"             "hot"              "shortness"        "breath"          
+[241] "bilateral"        "hands"            "itch"             "when"            
+[245] "severe"           "sensation"        "redness"          "multiple"        
+[249] "nodule"           "lateral"          "shunt"            "recurrent"       
+[253] "anterior"         "phase"            "enlarged"         "vs"              
+[257] "rt"               "lung"             "swelling"         "albumin"         
+[261] "pressure"        
+
+
+[[19]]
+[[19]]$abbreviation
+ [1] "on"    "IV"    "RA"    "RV"    "LVEF"  "od"    "MICU"  "AKI"   "IAI"   "CAP"   "CVVH" 
+[12] "TPN"   "VSD"   "ICH"   "CT"    "O2"    "CXR"   "NG"    "CR"    "NPO"   "IVF"   "RLL"  
+[23] "CVC"   "HEENT" "Abd"   "Ext"   "WBC"   "HB"    "dL"    "PLT"   "PH"    "HCO3"  "DNR"  
+[34] "BT"    "HD"    "BP"    "Cr"   
+
+[[19]]$`abbreviation(expand)`
+ [1] "ventilation"   "etiology"      "unknown"       "disease"       "creatinine"   
+ [6] "hypertension"  "schizophrenia" "history"       "antibiotic"    "antibiotics"  
+[11] "seizure"       "amount"        "oxygen"        "hemoglobin"    "assessment"   
+[16] "normal"       
+
+[[19]]$drugs
+[1] "phenytoin"   "ceftazidime" "insulin"    
+
+[[19]]$disease
+[1] "hyperuricemia"
+
+[[19]]$`disease(expand)`
+ [1] "acute"            "respiratory"      "failure"          "tube"            
+ [5] "shock"            "pancreatitis"     "chronic"          "kidney"          
+ [9] "disease"          "upper"            "gastrointestinal" "congenital"      
+[13] "ventricular"      "septal"           "defect"           "left"            
+[17] "right"            "shunt"            "with"             "severe"          
+[21] "pulmonary"        "hypertension"     "pressure"         "stenosis"        
+[25] "multiple"         "diabetes"         "mellitus"         "benign"          
+[29] "prostatic"        "hypertrophy"      "hyperuricemia"    "intracranial"    
+[33] "metabolic"        "acidosis"         "drug"             "alcohol"         
+[37] "heart"            "seizure"          "local"            "adrenal"         
+[41] "insufficiency"    "steroid"          "insertion"        "intermittent"    
+[45] "infection"        "pneumonic"        "oral"             "contact"         
+[49] "early"            "lactic"           "acid"             "cold"            
+[53] "hypothermia"      "mild"             "edema"            "related"         
+[57] "mask"             "loss"             "appearance"       "normal"          
+[61] "soft"             "muscle"           "renal"            "insulin"         
+[65] "hypoglycemia"     "small"            "bowel"           
+
+[[19]]$treatment
+ [1] "the"              "a"                "of"               "failure"         
+ [5] "post"             "endotracheal"     "tube"             "intubation"      
+ [9] "and"              "mechanical"       "ventilation"      "kidney"          
+[13] "disease"          "iv"               "creatinine"       "upper"           
+[17] "gastrointestinal" "ventricular"      "left"             "to"              
+[21] "shunt"            "with"             "pressure"         "pulmonic"        
+[25] "multiple"         "in"               "high"             "diabetes"        
+[29] "mellitus"         "fluid"            "for"              "cap"             
+[33] "support"          "treatment"        "plan"             "drug"            
+[37] "heart"            "echo"             "seizure"          "feeding"         
+[41] "ct"               "stress"           "steroid"          "infusion"        
+[45] "removal"          "infection"        "patch"            "chest"           
+[49] "care"             "oral"             "stool"            "morning"         
+[53] "acid"             "rapid"            "hemoglobin"       "loss"            
+[57] "normal"           "soft"             "or"               "wbc"             
+[61] "hb"               "ph"               "occult"           "function"        
+[65] "insulin"          "small"            "bowel"            "d"               
+
+[[19]]$symptoms
+ [1] "the"           "of"            "acute"         "respiratory"   "failure"      
+ [6] "status"        "and"           "pancreatitis"  "on"            "chronic"      
+[11] "kidney"        "disease"       "upper"         "bleeding"      "to"           
+[16] "with"          "pulmonary"     "pressure"      "schizophrenia" "multiple"     
+[21] "in"            "high"          "diabetes"      "benign"        "under"        
+[26] "traumatic"     "hemorrhage"    "alcohol"       "heart"         "infection"    
+[31] "sputum"        "chest"         "contact"       "stool"         "morning"      
+[36] "low"           "acid"          "cold"          "hypothermia"   "hot"          
+[41] "increased"     "loss"          "poor"          "pale"          "distended"    
+[46] "or"            "muscle"        "pitting"       "insulin"       "hypoglycemia" 
+[51] "small"         "bowel"        
+
+[[19]]$all
+  [1] "the"              "a"                "of"               "acute"           
+  [5] "respiratory"      "failure"          "status"           "post"            
+  [9] "endotracheal"     "tube"             "intubation"       "and"             
+ [13] "mechanical"       "ventilation"      "shock"            "pancreatitis"    
+ [17] "etiology"         "unknown"          "on"               "chronic"         
+ [21] "kidney"           "disease"          "iv"               "creatinine"      
+ [25] "upper"            "gastrointestinal" "bleeding"         "congenital"      
+ [29] "ventricular"      "septal"           "defect"           "left"            
+ [33] "to"               "right"            "shunt"            "with"            
+ [37] "severe"           "pulmonary"        "hypertension"     "pressure"        
+ [41] "pulmonic"         "stenosis"         "schizophrenia"    "multiple"        
+ [45] "in"               "high"             "diabetes"         "mellitus"        
+ [49] "benign"           "prostatic"        "hypertrophy"      "hyperuricemia"   
+ [53] "under"            "traumatic"        "intracranial"     "hemorrhage"      
+ [57] "history"          "fluid"            "for"              "antibiotic"      
+ [61] "cap"              "metabolic"        "acidosis"         "support"         
+ [65] "treatment"        "plan"             "drug"             "alcohol"         
+ [69] "heart"            "echo"             "antibiotics"      "seizure"         
+ [73] "phenytoin"        "feeding"          "ct"               "local"           
+ [77] "adrenal"          "insufficiency"    "stress"           "steroid"         
+ [81] "infusion"         "insertion"        "intermittent"     "removal"         
+ [85] "infection"        "sputum"           "amount"           "pneumonic"       
+ [89] "patch"            "chest"            "care"             "oral"            
+ [93] "contact"          "stool"            "oxygen"           "early"           
+ [97] "morning"          "low"              "lactic"           "acid"            
+[101] "cold"             "hypothermia"      "hot"              "rapid"           
+[105] "mild"             "increased"        "edema"            "related"         
+[109] "mask"             "hemoglobin"       "loss"             "assessment"      
+[113] "appearance"       "poor"             "normal"           "pale"            
+[117] "soft"             "distended"        "or"               "muscle"          
+[121] "pitting"          "wbc"              "hb"               "ph"              
+[125] "ceftazidime"      "occult"           "renal"            "function"        
+[129] "insulin"          "hypoglycemia"     "small"            "bowel"           
+[133] "d"               
+
+
+[[20]]
+[[20]]$abbreviation
+[1] "GCS" "ETT" "VT"  "on"  "PIP"
+
+[[20]]$`abbreviation(expand)`
+[1] "bilateral"   "anterior"    "lateral"     "fracture"    "admission"   "seizure"    
+[7] "prophylaxis"
+
+[[20]]$drugs
+NULL
+
+[[20]]$disease
+NULL
+
+[[20]]$`disease(expand)`
+ [1] "male"          "bilateral"     "intracerebral" "left"          "anterior"     
+ [6] "temporal"      "lateral"       "lobe"          "herniation"    "skull"        
+[11] "fracture"      "scalp"         "with"          "reflex"        "cough"        
+[16] "tube"          "rupture"       "leak"          "tapered"       "from"         
+[21] "seizure"       "respiratory"   "failure"      
+
+[[20]]$treatment
+ [1] "a"         "left"      "temporal"  "and"       "lobe"      "treatment" "after"    
+ [8] "in"        "with"      "the"       "of"        "breath"    "tube"      "to"       
+[15] "seizure"   "care"      "failure"   "plan"     
+
+[[20]]$symptoms
+ [1] "hemorrhage"  "and"         "scalp"       "swelling"    "in"          "status"     
+ [7] "with"        "the"         "of"          "breath"      "cough"       "to"         
+[13] "on"          "from"        "low"         "respiratory" "failure"    
+
+[[20]]$all
+ [1] "male"          "a"             "hemorrhage"    "bilateral"     "intracerebral"
+ [6] "left"          "anterior"      "temporal"      "and"           "lateral"      
+[11] "lobe"          "herniation"    "skull"         "fracture"      "scalp"        
+[16] "swelling"      "treatment"     "after"         "admission"     "in"           
+[21] "status"        "with"          "the"           "reflex"        "of"           
+[26] "breath"        "cough"         "tube"          "to"            "rupture"      
+[31] "leak"          "on"            "tapered"       "from"          "low"          
+[36] "seizure"       "prophylaxis"   "care"          "respiratory"   "failure"      
+[41] "plan"         
+
+
+[[21]]
+[[21]]$abbreviation
+[1] "PCV"
+
+[[21]]$`abbreviation(expand)`
+[1] "seizure"
+
+[[21]]$drugs
+NULL
+
+[[21]]$disease
+NULL
+
+[[21]]$`disease(expand)`
+[1] "seizure"
+
+[[21]]$treatment
+[1] "support" "cons"    "seizure"
+
+[[21]]$symptoms
+NULL
+
+[[21]]$all
+[1] "support" "cons"    "seizure"
+
+
+[[22]]
+[[22]]$abbreviation
+[1] "DNR" "VS" 
+
+[[22]]$`abbreviation(expand)`
+NULL
+
+[[22]]$drugs
+NULL
+
+[[22]]$disease
+NULL
+
+[[22]]$`disease(expand)`
+ [1] "central"        "diabetes"       "encephalopathy" "related"        "cardiac"       
+ [6] "arrest"         "activity"       "with"           "return"         "severe"        
+[11] "terminal"       "combined"       "withdrawal"    
+
+[[22]]$treatment
+ [1] "diabetes"   "of"         "cardiac"    "electrical" "post"       "with"       "in"        
+ [8] "aspiration" "a"          "care"       "withdrawal" "the"        "for"        "vs"        
+
+[[22]]$symptoms
+[1] "diabetes"   "of"         "status"     "with"       "in"         "withdrawal" "the"       
+
+[[22]]$all
+ [1] "central"        "diabetes"       "encephalopathy" "related"        "of"            
+ [6] "cardiac"        "arrest"         "electrical"     "activity"       "status"        
+[11] "post"           "with"           "return"         "in"             "aspiration"    
+[16] "severe"         "terminal"       "a"              "combined"       "care"          
+[21] "withdrawal"     "the"            "for"            "vs"            
+
+
+[[23]]
+[[23]]$abbreviation
+ [1] "HCAP" "ETT"  "IV"   "on"   "VS"   "OPD"  "MICU" "ARDS" "COPD" "stat" "kg"   "SC"  
+
+[[23]]$`abbreviation(expand)`
+[1] "pneumonia"   "unknown"     "disease"     "antibiotics" "atypical"   
+
+[[23]]$drugs
+[1] "tamiflu"
+
+[[23]]$disease
+NULL
+
+[[23]]$`disease(expand)`
+ [1] "with"        "respiratory" "failure"     "shock"       "pneumonia"   "related"    
+ [7] "squamous"    "cell"        "carcinoma"   "primary"     "origin"      "pulmonary"  
+[13] "brain"       "lymph"       "node"        "left"        "frontal"     "chronic"    
+[19] "obstructive" "disease"     "benign"      "hyperplasia" "paroxysmal"  "atrial"     
+[25] "acute"       "steroid"     "atypical"    "mixed"      
+
+[[23]]$treatment
+ [1] "the"        "a"          "of"         "problems"   "with"       "failure"    "cell"      
+ [8] "brain"      "and"        "lymph"      "node"       "iv"         "left"       "disease"   
+[15] "vs"         "medication" "prostate"   "to"         "for"        "steroid"    "feeding"   
+[22] "treatment"  "plan"       "b"          "d"          "c"          "infusion"  
+
+[[23]]$symptoms
+ [1] "the"         "of"          "with"        "respiratory" "failure"     "pneumonia"  
+ [7] "squamous"    "cell"        "carcinoma"   "pulmonary"   "brain"       "and"        
+[13] "lymph"       "node"        "on"          "chronic"     "disease"     "under"      
+[19] "poor"        "benign"      "prostate"    "atrial"      "to"          "acute"      
+[25] "copd"        "sputum"      "c"          
+
+[[23]]$all
+ [1] "the"         "a"           "of"          "problems"    "with"        "respiratory"
+ [7] "failure"     "shock"       "pneumonia"   "related"     "squamous"    "cell"       
+[13] "carcinoma"   "unknown"     "primary"     "origin"      "pulmonary"   "brain"      
+[19] "and"         "lymph"       "node"        "iv"          "left"        "frontal"    
+[25] "on"          "chronic"     "obstructive" "disease"     "under"       "vs"         
+[31] "medication"  "poor"        "benign"      "prostate"    "hyperplasia" "paroxysmal" 
+[37] "atrial"      "to"          "acute"       "for"         "steroid"     "tamiflu"    
+[43] "antibiotics" "atypical"    "copd"        "sputum"      "mixed"       "feeding"    
+[49] "treatment"   "plan"        "b"           "d"           "c"           "infusion"   
+
+
+[[24]]
+[[24]]$abbreviation
+ [1] "CT"  "NPO" "TPN" "on"  "BP"  "BS"  "Ext" "Lab" "ID"  "DS"  "dL"  "ALT" "CRE" "Na"  "Ca" 
+[16] "SCC" "CA"  "VRE" "RIA" "CEA" "GI"  "CVP" "IV"  "DNR"
+
+[[24]]$`abbreviation(expand)`
+[1] "bilateral"    "extremities"  "blood"        "pneumonia"    "hypertension" "seizure"     
+[7] "prognosis"   
+
+[[24]]$drugs
+[1] "keppra"
+
+[[24]]$disease
+NULL
+
+[[24]]$`disease(expand)`
+ [1] "rupture"      "with"         "abscess"      "like"         "tube"         "pain"        
+ [7] "bilateral"    "coarse"       "right"        "effusion"     "heart"        "cold"        
+[13] "extremities"  "blood"        "growth"       "impression"   "tract"        "cancer"      
+[19] "pneumonia"    "chronic"      "respiratory"  "failure"      "hypertension" "parkinsonism"
+[25] "contact"      "seizure"     
+
+[[24]]$treatment
+ [1] "the"          "with"         "ct"           "drainage"     "and"          "support"     
+ [7] "to"           "a"            "tube"         "stool"        "score"        "chest"       
+[13] "of"           "heart"        "blood"        "after"        "alt"          "ca"          
+[19] "125"          "screening"    "cea"          "high"         "gi"           "or"          
+[25] "cancer"       "failure"      "tracheostomy" "care"         "iv"           "medications" 
+[31] "for"          "seizure"      "control"     
+
+[[24]]$symptoms
+ [1] "the"            "with"           "drainage"       "and"            "to"            
+ [6] "stool"          "on"             "pain"           "chest"          "of"            
+[11] "heart"          "cold"           "blood"          "diverticulitis" "high"          
+[16] "tract"          "or"             "cancer"         "pneumonia"      "chronic"       
+[21] "respiratory"    "failure"        "contact"       
+
+[[24]]$all
+ [1] "the"            "rupture"        "with"           "abscess"        "ct"            
+ [6] "drainage"       "and"            "support"        "like"           "to"            
+[11] "a"              "tube"           "stool"          "on"             "pain"          
+[16] "score"          "chest"          "bilateral"      "coarse"         "of"            
+[21] "right"          "effusion"       "heart"          "cold"           "extremities"   
+[26] "blood"          "growth"         "after"          "alt"            "ca"            
+[31] "125"            "screening"      "cea"            "impression"     "diverticulitis"
+[36] "high"           "gi"             "tract"          "or"             "cancer"        
+[41] "pneumonia"      "chronic"        "respiratory"    "failure"        "tracheostomy"  
+[46] "hypertension"   "parkinsonism"   "care"           "contact"        "iv"            
+[51] "medications"    "for"            "seizure"        "control"        "keppra"        
+[56] "prognosis"     
+
+
+[[25]]
+[[25]]$abbreviation
+[1] "on"   "AKI"  "CVVH"
+
+[[25]]$`abbreviation(expand)`
+[1] "biopsy"
+
+[[25]]$drugs
+[1] "maxipime"
+
+[[25]]$disease
+NULL
+
+[[25]]$`disease(expand)`
+[1] "effusion" "lung"     "with"     "brain"    "right"    "failure"  "shock"    "liver"   
+
+[[25]]$treatment
+[1] "ca"      "with"    "brain"   "biopsy"  "failure" "liver"   "for"     "support"
+
+[[25]]$symptoms
+[1] "lung"    "with"    "brain"   "mass"    "failure" "on"      "liver"  
+
+[[25]]$all
+ [1] "effusion" "lung"     "ca"       "with"     "brain"    "right"    "mass"     "biopsy"  
+ [9] "failure"  "shock"    "on"       "liver"    "for"      "support"  "maxipime"
+
+
+[[26]]
+[[26]]$abbreviation
+ [1] "GI"   "Hb"   "DIC"  "FFP"  "on"   "PTA"  "AKI"  "AK"   "HB"   "dL"   "WBC"  "PLT"  "PT"  
+[14] "INR"  "FDP"  "CRE"  "Na"   "CXR"  "HD"   "CVA"  "DM"   "PAOD" "BP"   "Lab"  "AST"  "ALT" 
+[27] "DNR" 
+
+[[26]]$`abbreviation(expand)`
+[1] "blood"      "assessment" "biopsy"     "dressing"   "pneumonia"  "bilateral"  "symptoms"  
+
+[[26]]$drugs
+NULL
+
+[[26]]$disease
+NULL
+
+[[26]]$`disease(expand)`
+ [1] "during"       "blood"        "positive"     "platelet"     "renal"        "medium"      
+ [7] "cyst"         "complex"      "right"        "colon"        "chronic"      "colitis"     
+[13] "fibrinogen"   "fever"        "atrial"       "fibrillation" "dementia"     "pneumonia"   
+[19] "inferior"     "rectal"       "artery"       "bilateral"    "amputation"   "pressure"    
+[25] "pain"         "combined"     "contact"     
+
+[[26]]$treatment
+ [1] "of"           "gi"           "after"        "hb"           "during"       "blood"       
+ [7] "sampling"     "and"          "platelet"     "treatment"    "plan"         "to"          
+[13] "hemodialysis" "function"     "d"            "echo"         "colon"        "biopsy"      
+[19] "colitis"      "treat"        "first"        "wound"        "wbc"          "pt"          
+[25] "for"          "aspiration"   "stool"        "post"         "artery"       "knee"        
+[31] "pressure"     "score"        "ast"          "alt"          "a"            "care"        
+[37] "support"      "your"         "problems"    
+
+[[26]]$symptoms
+ [1] "of"           "bleeding"     "low"          "blood"        "and"          "on"          
+ [7] "to"           "under"        "cyst"         "colon"        "chronic"      "colitis"     
+[13] "fever"        "wet"          "atrial"       "fibrillation" "pneumonia"    "bloody"      
+[19] "stool"        "status"       "rectal"       "knee"         "pressure"     "sore"        
+[25] "pain"         "contact"     
+
+[[26]]$all
+ [1] "of"           "gi"           "bleeding"     "after"        "low"          "hb"          
+ [7] "during"       "blood"        "sampling"     "and"          "positive"     "platelet"    
+[13] "on"           "treatment"    "plan"         "to"           "hemodialysis" "assessment"  
+[19] "renal"        "function"     "medium"       "under"        "d"            "echo"        
+[25] "cyst"         "complex"      "right"        "colon"        "biopsy"       "chronic"     
+[31] "colitis"      "treat"        "first"        "wound"        "wbc"          "pt"          
+[37] "fibrinogen"   "fever"        "wet"          "dressing"     "for"          "atrial"      
+[43] "fibrillation" "dementia"     "aspiration"   "pneumonia"    "bloody"       "stool"       
+[49] "status"       "post"         "inferior"     "rectal"       "artery"       "bilateral"   
+[55] "knee"         "amputation"   "symptoms"     "pressure"     "sore"         "pain"        
+[61] "score"        "ast"          "alt"          "a"            "care"         "support"     
+[67] "combined"     "your"         "contact"      "problems"    
+
+
+[[27]]
+NULL
+
+[[28]]
+[[28]]$abbreviation
+ [1] "HTN"    "WNL"    "CV"     "PAOD"   "BP"     "HD"     "D5"     "IV"     "on"     "ED"    
+[11] "TPR"    "ID"     "RLL"    "VS"     "CAD"    "BMT"    "LCX"    "LAD"    "NSTEMI" "PTA"   
+[21] "ESRD"   "DM"     "ANA"    "EKG"    "BUN"    "CT"     "DNR"    "ST"     "PCI"    "NTG"   
+[31] "ACS"    "LVEF"   "SC"     "CXR"    "CP"     "Lab"    "PH"     "HCO3"   "WBC"    "HB"    
+[41] "dL"     "PLT"    "AST"    "ALT"    "CRE"    "Na"     "Ca"     "Mg"    
+
+[[28]]$`abbreviation(expand)`
+ [1] "admission"         "antibiotic"        "pneumonia"         "disease"          
+ [5] "antibiotics"       "blood"             "electrocardiogram" "assessment"       
+ [9] "bilateral"         "dressing"          "diagnosis"         "history"          
+[13] "without"           "complication"      "oxygen"           
+
+[[28]]$drugs
+[1] "ceftazidime"        "meropenem"          "hydroxychloroquine" "prednisolone"      
+[5] "gabapentin"         "ismo"              
+
+[[28]]$disease
+NULL
+
+[[28]]$`disease(expand)`
+ [1] "fever"         "drug"          "hypotension"   "intermittent"  "cardiac"      
+ [6] "enzymes"       "right"         "foot"          "with"          "weight"       
+[11] "respiratory"   "tract"         "infection"     "pneumonia"     "disease"      
+[16] "from"          "total"         "progressive"   "pain"          "ulcer"        
+[21] "blood"         "white"         "cell"          "mild"          "acute"        
+[26] "myocardial"    "lung"          "bilateral"     "overload"      "related"      
+[31] "left"          "sacral"        "pressure"      "oral"          "contact"      
+[36] "vessel"        "lower"         "legs"          "gangrene"      "type"         
+[41] "cerebral"      "hemiplegia"    "dysphagia"     "autoimmune"    "activity"     
+[46] "muscle"        "intracranial"  "brain"         "without"       "head"         
+[51] "combined"      "depression"    "angina"        "pulmonary"     "edema"        
+[56] "symptom"       "regional"      "wall"          "abnormalities" "hand"         
+
+[[28]]$treatment
+ [1] "drug"              "for"               "chest"             "cardiac"          
+ [5] "enzymes"           "after"             "hemodialysis"      "with"             
+ [9] "to"                "weight"            "complete"          "iv"               
+[13] "infection"         "of"                "the"               "treatment"        
+[17] "disease"           "and"               "total"             "revascularization"
+[21] "blood"             "test"              "elevated"          "white"            
+[25] "cell"              "count"             "electrocardiogram" "myocardial"       
+[29] "c"                 "ed"                "b"                 "fluid"            
+[33] "point"             "patch"             "vs"                "catheterization"  
+[37] "plan"              "wound"             "left"              "pressure"         
+[41] "intervention"      "sugar"             "oral"              "care"             
+[45] "diagnosis"         "post"              "lower"             "d"                
+[49] "ana"               "ekg"               "examination"       "study"            
+[53] "brain"             "ct"                "scan"              "without"          
+[57] "a"                 "pci"               "infusion"          "or"               
+[61] "echo"              "support"           "hand"              "ph"               
+[65] "wbc"               "hb"                "ast"               "alt"              
+[69] "ca"                "response"          "control"          
+
+[[28]]$symptoms
+ [1] "fever"       "chest"       "foot"        "with"        "to"          "dry"        
+ [7] "weight"      "respiratory" "tract"       "infection"   "of"          "the"        
+[13] "pneumonia"   "infectious"  "disease"     "from"        "and"         "pain"       
+[19] "ankle"       "ulcer"       "on"          "blood"       "elevated"    "white"      
+[25] "cell"        "tightness"   "acute"       "c"           "sputum"      "yeast"      
+[31] "lung"        "blunted"     "pressure"    "sore"        "sugar"       "contact"    
+[37] "status"      "under"       "dysphagia"   "pruritus"    "decreased"   "muscle"     
+[43] "increased"   "brain"       "hemorrhage"  "depression"  "pulmonary"   "or"         
+[49] "hand"       
+
+[[28]]$all
+  [1] "fever"              "drug"               "for"                "hypotension"       
+  [5] "intermittent"       "chest"              "cardiac"            "enzymes"           
+  [9] "right"              "foot"               "after"              "hemodialysis"      
+ [13] "with"               "to"                 "dry"                "weight"            
+ [17] "ceftazidime"        "complete"           "iv"                 "respiratory"       
+ [21] "tract"              "infection"          "of"                 "admission"         
+ [25] "the"                "antibiotic"         "treatment"          "pneumonia"         
+ [29] "infectious"         "disease"            "antibiotics"        "from"              
+ [33] "and"                "total"              "progressive"        "pain"              
+ [37] "ankle"              "ulcer"              "revascularization"  "on"                
+ [41] "blood"              "test"               "elevated"           "white"             
+ [45] "cell"               "count"              "tightness"          "mild"              
+ [49] "electrocardiogram"  "acute"              "myocardial"         "assessment"        
+ [53] "c"                  "ed"                 "b"                  "sputum"            
+ [57] "yeast"              "lung"               "blunted"            "bilateral"         
+ [61] "fluid"              "overload"           "related"            "meropenem"         
+ [65] "point"              "patch"              "vs"                 "catheterization"   
+ [69] "plan"               "wound"              "dressing"           "left"              
+ [73] "sacral"             "pressure"           "sore"               "intervention"      
+ [77] "sugar"              "oral"               "care"               "contact"           
+ [81] "diagnosis"          "vessel"             "status"             "post"              
+ [85] "lower"              "legs"               "gangrene"           "under"             
+ [89] "d"                  "type"               "cerebral"           "hemiplegia"        
+ [93] "dysphagia"          "pruritus"           "autoimmune"         "ana"               
+ [97] "hydroxychloroquine" "prednisolone"       "history"            "ekg"               
+[101] "activity"           "decreased"          "examination"        "muscle"            
+[105] "increased"          "intracranial"       "study"              "brain"             
+[109] "ct"                 "scan"               "without"            "hemorrhage"        
+[113] "gabapentin"         "head"               "combined"           "a"                 
+[117] "depression"         "angina"             "pci"                "infusion"          
+[121] "ismo"               "pulmonary"          "edema"              "or"                
+[125] "symptom"            "echo"               "regional"           "wall"              
+[129] "abnormalities"      "complication"       "support"            "hand"              
+[133] "ph"                 "wbc"                "hb"                 "ast"               
+[137] "alt"                "ca"                 "oxygen"             "response"          
+[141] "control"           
+
+
+[[29]]
+[[29]]$abbreviation
+ [1] "PO"   "DM"   "TID"  "MICU" "BP"   "ECMO" "PTU"  "CV"   "IV"   "GI"  
+
+[[29]]$`abbreviation(expand)`
+[1] "pneumonia"    "without"      "anterior"     "hypertension" "antibiotics"  "prognosis"   
+[7] "antibiotic"  
+
+[[29]]$drugs
+[1] "norvasc"   "aspirin"   "tamiflu"   "xylocaine" "heparin"  
+
+[[29]]$disease
+NULL
+
+[[29]]$`disease(expand)`
+ [1] "acquired"         "pneumonia"        "secondary"        "infection"       
+ [5] "primary"          "influenza"        "aortic"           "dissection"      
+ [9] "type"             "without"          "regurgitation"    "mitral"          
+[13] "valve"            "prolapse"         "anterior"         "severe"          
+[17] "hypertension"     "atrial"           "with"             "acute"           
+[21] "respiratory"      "failure"          "positive"         "fever"           
+[25] "drug"             "tube"             "insertion"        "lower"           
+[29] "intermittent"     "liver"            "lung"             "induced"         
+[33] "thrombocytopenia" "deterioration"   
+
+[[29]]$treatment
+ [1] "the"         "a"           "of"          "infection"   "after"       "influenza"  
+ [7] "aortic"      "medical"     "treatment"   "without"     "valve"       "tricuspid"  
+[13] "pulmonic"    "to"          "and"         "with"        "failure"     "rapid"      
+[19] "test"        "function"    "antithyroid" "medication"  "drug"        "tube"       
+[25] "feeding"     "high"        "plan"        "for"         "lower"       "iv"         
+[31] "support"     "gi"          "liver"       "breathing"   "care"        "in"         
+
+[[29]]$symptoms
+ [1] "the"         "of"          "pneumonia"   "infection"   "influenza"   "to"         
+ [7] "under"       "and"         "atrial"      "with"        "acute"       "respiratory"
+[13] "failure"     "decreased"   "fever"       "high"        "liver"       "nutrition"  
+[19] "lung"        "increased"   "in"         
+
+[[29]]$all
+ [1] "the"              "a"                "of"               "acquired"        
+ [5] "pneumonia"        "secondary"        "infection"        "after"           
+ [9] "primary"          "influenza"        "aortic"           "dissection"      
+[13] "type"             "medical"          "treatment"        "without"         
+[17] "regurgitation"    "mitral"           "valve"            "prolapse"        
+[21] "anterior"         "tricuspid"        "pulmonic"         "to"              
+[25] "severe"           "hypertension"     "under"            "and"             
+[29] "norvasc"          "atrial"           "aspirin"          "with"            
+[33] "acute"            "respiratory"      "failure"          "rapid"           
+[37] "test"             "positive"         "decreased"        "function"        
+[41] "antithyroid"      "medication"       "fever"            "drug"            
+[45] "tube"             "insertion"        "feeding"          "high"            
+[49] "tamiflu"          "plan"             "antibiotics"      "for"             
+[53] "lower"            "intermittent"     "iv"               "xylocaine"       
+[57] "support"          "gi"               "liver"            "nutrition"       
+[61] "lung"             "increased"        "breathing"        "prognosis"       
+[65] "heparin"          "induced"          "thrombocytopenia" "care"            
+[69] "deterioration"    "in"               "antibiotic"      
+
+
+[[30]]
+[[30]]$abbreviation
+ [1] "on"  "TPN" "PE"  "CT"  "Lab" "HB"  "dL"  "WBC" "PLT" "AST" "GGT" "Na" 
+
+[[30]]$`abbreviation(expand)`
+[1] "admission"       "assessment"      "lymphadenopathy" "amount"         
+
+[[30]]$drugs
+[1] "nexium"
+
+[[30]]$disease
+NULL
+
+[[30]]$`disease(expand)`
+ [1] "anemia"          "oral"            "terminal"        "with"            "gastric"        
+ [6] "cancer"          "abdominal"       "lymphadenopathy" "liver"           "right"          
+[11] "adrenal"         "biliary"         "dilatation"      "activity"       
+
+[[30]]$treatment
+ [1] "of"        "after"     "and"       "oral"      "with"      "care"      "home"     
+ [8] "for"       "c"         "a"         "ct"        "gastric"   "cancer"    "abdominal"
+[15] "liver"     "biliary"   "hb"        "wbc"       "ast"       "plan"      "drainage" 
+[22] "to"        "physical" 
+
+[[30]]$symptoms
+ [1] "of"        "and"       "on"        "anemia"    "status"    "with"      "poor"     
+ [8] "sclera"    "c"         "cancer"    "enlarged"  "abdominal" "liver"     "drainage" 
+[15] "to"       
+
+[[30]]$all
+ [1] "of"              "after"           "admission"       "and"             "on"             
+ [6] "anemia"          "oral"            "nexium"          "terminal"        "status"         
+[11] "with"            "care"            "home"            "for"             "poor"           
+[16] "assessment"      "sclera"          "c"               "a"               "ct"             
+[21] "gastric"         "cancer"          "enlarged"        "abdominal"       "lymphadenopathy"
+[26] "liver"           "right"           "adrenal"         "biliary"         "dilatation"     
+[31] "hb"              "wbc"             "ast"             "plan"            "drainage"       
+[36] "amount"          "to"              "physical"        "activity"       
+
+
+[[31]]
+[[31]]$abbreviation
+ [1] "CAD"  "CABG" "DM"   "HTN"  "CKD"  "AED"  "CPCR" "ER"   "ROSC" "CCU"  "IF"   "EEG" 
+
+[[31]]$`abbreviation(expand)`
+[1] "transfer"
+
+[[31]]$drugs
+NULL
+
+[[31]]$disease
+NULL
+
+[[31]]$`disease(expand)`
+[1] "epilepsy"      "with"          "transfer"      "hypothermia"   "hypotension"  
+[6] "hypernatremia"
+
+[[31]]$treatment
+ [1] "of"       "cabg"     "epilepsy" "with"     "home"     "rhythm"   "to"       "for"     
+ [9] "therapy"  "when"     "eeg"      "elevated" "care"    
+
+[[31]]$symptoms
+[1] "of"          "with"        "to"          "hypothermia" "diarrhea"    "elevated"   
+
+[[31]]$all
+ [1] "of"            "cabg"          "epilepsy"      "with"          "home"         
+ [6] "rhythm"        "transfer"      "to"            "for"           "hypothermia"  
+[11] "therapy"       "hypotension"   "when"          "eeg"           "diarrhea"     
+[16] "elevated"      "hypernatremia" "care"         
+
+
+[[32]]
+NULL
+
+[[33]]
+NULL
+
+[[34]]
+[[34]]$abbreviation
+[1] "NP"  "VS"  "CBC" "CTA" "GI"  "IV"  "IF"  "Hb"  "dl" 
+
+[[34]]$`abbreviation(expand)`
+[1] "blood"      "internal"   "antibiotic" "without"   
+
+[[34]]$drugs
+[1] "nexium"        "ceftazidime"   "meropenem"     "metronidazole"
+
+[[34]]$disease
+NULL
+
+[[34]]$`disease(expand)`
+[1] "primary"     "blood"       "transfusion" "lower"       "fever"       "from"       
+[7] "without"    
+
+[[34]]$treatment
+ [1] "a"           "and"         "vs"          "stool"       "cbc"         "blood"      
+ [7] "transfusion" "gi"          "for"         "or"          "lower"       "iv"         
+[13] "to"          "in"          "first"       "hb"          "without"    
+
+[[34]]$symptoms
+ [1] "and"      "bloody"   "stool"    "blood"    "bleeding" "or"       "fever"    "from"    
+ [9] "to"       "in"      
+
+[[34]]$all
+ [1] "a"             "and"           "primary"       "vs"            "bloody"       
+ [6] "stool"         "cbc"           "blood"         "transfusion"   "nexium"       
+[11] "gi"            "for"           "internal"      "bleeding"      "or"           
+[16] "lower"         "fever"         "antibiotic"    "from"          "ceftazidime"  
+[21] "iv"            "to"            "meropenem"     "metronidazole" "in"           
+[26] "first"         "hb"            "without"      
+
+
+[[35]]
+[[35]]$abbreviation
+NULL
+
+[[35]]$`abbreviation(expand)`
+NULL
+
+[[35]]$drugs
+NULL
+
+[[35]]$disease
+NULL
+
+[[35]]$`disease(expand)`
+NULL
+
+[[35]]$treatment
+[1] "a" "c"
+
+[[35]]$symptoms
+[1] "c"
+
+[[35]]$all
+[1] "a" "c"
+
+
+[[36]]
+[[36]]$abbreviation
+NULL
+
+[[36]]$`abbreviation(expand)`
+NULL
+
+[[36]]$drugs
+NULL
+
+[[36]]$disease
+NULL
+
+[[36]]$`disease(expand)`
+NULL
+
+[[36]]$treatment
+NULL
+
+[[36]]$symptoms
+NULL
+
+[[36]]$all
+NULL
+
+
+[[37]]
+[[37]]$abbreviation
+ [1] "on"   "HBV"  "ROSC" "CPR"  "CPCR" "CT"   "BIS"  "EEG"  "CXR"  "GCS"  "BP"   "DNR" 
+
+[[37]]$`abbreviation(expand)`
+[1] "chemotherapy" "admission"    "ventilation"  "seizure"      "negative"     "bilateral"   
+
+[[37]]$drugs
+[1] "xeloda"    "baraclude"
+
+[[37]]$disease
+NULL
+
+[[37]]$`disease(expand)`
+ [1] "female"         "transverse"     "colon"          "adenocarcinoma" "left"          
+ [6] "with"           "lung"           "liver"          "related"        "malignant"     
+[11] "effusion"       "thyroid"        "carcinoma"      "right"          "oral"          
+[16] "from"           "shock"          "tube"           "insertion"      "hypothermia"   
+[21] "large"          "clinical"       "seizure"        "brain"          "stem"          
+[26] "reflex"         "negative"       "bilateral"      "system"         "cancer"        
+[31] "terminal"       "cardiac"        "arrest"        
+
+[[37]]$treatment
+ [1] "the"          "female"       "of"           "colon"        "post"         "left"        
+ [7] "with"         "and"          "liver"        "chemotherapy" "thyroid"      "oral"        
+[13] "to"           "problems"     "after"        "endotracheal" "tube"         "mechanical"  
+[19] "ventilation"  "for"          "chest"        "ct"           "rt"           "clinical"    
+[25] "seizure"      "brain"        "stem"         "eeg"          "morning"      "in"          
+[31] "support"      "cancer"       "care"         "cardiac"     
+
+[[37]]$symptoms
+ [1] "the"         "of"          "colon"       "status"      "on"          "with"       
+ [7] "lung"        "and"         "liver"       "carcinoma"   "under"       "from"       
+[13] "to"          "hypothermia" "chest"       "brain"       "morning"     "in"         
+[19] "cancer"     
+
+[[37]]$all
+ [1] "the"            "female"         "of"             "transverse"     "colon"         
+ [6] "adenocarcinoma" "status"         "post"           "left"           "on"            
+[11] "with"           "lung"           "and"            "liver"          "chemotherapy"  
+[16] "xeloda"         "related"        "malignant"      "effusion"       "thyroid"       
+[21] "carcinoma"      "right"          "under"          "baraclude"      "admission"     
+[26] "oral"           "from"           "to"             "problems"       "after"         
+[31] "shock"          "endotracheal"   "tube"           "insertion"      "mechanical"    
+[36] "ventilation"    "hypothermia"    "for"            "chest"          "ct"            
+[41] "rt"             "large"          "clinical"       "seizure"        "brain"         
+[46] "stem"           "reflex"         "negative"       "eeg"            "morning"       
+[51] "bilateral"      "in"             "support"        "system"         "cancer"        
+[56] "terminal"       "care"           "cardiac"        "arrest"        
+
+

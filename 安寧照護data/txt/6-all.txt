@@ -1,0 +1,104 @@
+2014/12/28 21:31 BP:90/54
+2014/12/28 18:14 T:36.1 P:100 R:26
+Wait for PTA.
+no more tarry stool and retry diet again.
+Re-arrange PTA for AVF.
+## AVF thrombosis , s/p perm-cah placement on 1/8 
+   poor H/D flow ~ 200  
+## poor oral inake and dysarthria since last w5 in the afternoon, mild stroke could not be r/o 
+--
+ESRD on HD W246 (via femoral D/L) 
+PAD with bilateral 1st toes gangrene
+Cellulitis, left calf and bilateral 1st toes
+Af, CHADSVASC 6
+Sinus node dysfunction on PPM
+History of Gastric ulcer
+Old CVA with left hemiparesis
+hypotension, suspected PAOD related 
+    no cortical insufficiency , no hypothyroidism 
+
+<Treatment course>
+   After admission, Augmentin was administered from 12/23 to 12/28 for left calf cellulitis and right 1st toe gangrene with pus discharge. However, the extent of erythema improved little. Discharge also appeared in left 1st toe on 12/25. Consulted dermatologist suggested changing dressing with fucidin first instead of nail extraction at this time. On 12/28, pus culture reported Enterbacter aeruginosa, likely amp-C strain. Thus cefepime was used instead. As for the revascularization, PTA to right side was performed on 12/25 and to left side on 12/30. The results were good with increased bilateral ATA pulses. Another problem was the left AVF thrombosis, mandating hemodialysis via right femoral DLC. Vascular duplex of the AVF was done on 12/31 and showed total thrombosis. The DLC also dislodged in 12/30 night. A new one was inserted on 1/1. We has been taking BP from right arm but the SBPs were around only 80-100. It was probably confounded by right subclavian artery stenosis. His vital sign was stable without resucitation. 
+    We consulted PS for left toe nail extraction on 1/2. His cellulitis and wound got improvement gradully. We was told by the care giver that the patient had dysarthria and intermittent drooling. After NE evaluation, mild stroke of brain stem could not be ruled out. MRI was not indicated due to pacemaker. We then kept conservative treatment with plavix for him. Coumadin was also indicated due to high CHAD score but he got sool OB 4+ and we hold it. P&R was also consulted for swallowing evaluation. His swallowing reflex was intact but oral intake amount was impaired by dementia. NG was indicated and the family finally received NG placement on 1/9. 
+    On 1/8, Perm-cath under IVG was done and intra-operation hypotension was noted despie levophed use. However, intermittent drop flow during H/D (200ml/min was kept, but flow was unstable). It may be related to dehydration or poor perm cath position. Hospice was consulted and after family meeting. His key person prefer not to H/D but they still await the reply from other family member in the America. 
+
+<Plan>
+1. keep maxipime for celllitis, may D/C 
+   keep better iodine use of the wound
+   add fucidin for left calf cellulitis 
+2. keep plavix, hold coumadin due to stool OB 4+ 
+3. NG placement today 
+4. for poor perm-cath function :  
+1) hydration for 2 days and try H/D via perm-cath again on w6
+2) re-do of perm-cath was discussed with CVS
+   they told : longest perm-cath was used , severe hypotension noted during IVG , poor cooperation of the patient 
+               no more operation will be done
+85y/o man:
+1. Cellulitis, left leg
+2. ESRD under HD, qW2,4,6, previously with left AVF, s/p AVF thrombosis, then via right femoral DLC, then via left IJV permcath
+3. PAOD of bilateral lower extremities, s/p PTA to right popliteal artery and right peroneal artery, with gangrene formation in the right big toe
+4. Atrial flutter, s/p RFA in 2012
+5. Atrial fibrillation, not on anticoagulant due to GI bleeding
+6. Sinus node dysfunction with tachy-brady syndrome and cardiogenic shock, s/p pacemaker implantation
+7. Gastric ulcer
+8. Old CVA with minimal left hemiparesis
+9. Suspected coronary artery disease
+10. Family grief
+
+*Brief hx:
+2014/12/23 admitted due to cellulitis
+2014/12/25 right leg PTA, 2014/12/30 left leg PTA
+2014/12/30 femoral DLC dislodged, s/p new DLC on 2015/1/1
+2015/1/7 attempt permcath under LA, failed
+2015/1/8 percath under GA
+
+*Evaluation:
+- DNR(-)(家屬有意願), consiousness: delirious, ECOG 4
+- 病人知病不知末, 家屬知病可能知末
+- 與案妻,小兒子,媳婦會談: 案妻表示不忍個案再受苦, 不想讓個案再接受急救或手術, 個案小兒子及媳婦皆表同意. 與家屬提及若不洗腎之症狀及症狀治療. 案妻及小兒子皆承受巨大痛苦.
+
+*Suggestion:
+1. We have introduced hospice care to 案妻,小兒子,媳婦.
+2. 家屬有DNR意願, 請協助簽署DNR全拒.
+3. 若原團隊認為此病人為末期, 請協助完成末期註記, 以便後續安寧共照, 謝謝.
+4. We have discussed with family about the issue of whether not to keep renal replacement therapy. We suggest they to weigh the pros and cons of prolonging life vs life quality of patient. The family understood and they will have further discussion with other two sons in USA.
+5. We will arrange hospice combined care. Thanks for your consultation. Please contact use for further questions (東址共照辦公室63274).
+
+N李欣蓉/R4潘昱豪(55512)/VS姚建安
+If H/D is fine today, discharge tomorrow.1.病人休息中,表情平順,
+2015/01/23  T:37.2 P:117 R:15 , BP:75/38 ,呼吸平順,UNDER MORPHINE 1MG SC Q6H USE
+
+2.口水分泌物,使用SCOPOLAMINE 後,有改善
+## aspiration pneumonia over RUL / RLL 
+## AfRVR with HR~120/min with intermittent hypotension 
+   under cordarone 1# QD, herbesser 0.5# TID  
+## ESRD on HD W135 (via perm-cath) 
+   AVF thrombosis, s/p perm-cah placement on 1/8 
+   fair H/D with flow 200ml/min and midodrine use 
+3. suspetced mild stroke on 1/2 with dysarthria and drooling
+5. PAOD with bilateral 1st toes gangrene
+6. Cellulitis, left calf and bilateral 1st toes
+7. Af, CHADSVASC 6
+8. Sinus node dysfunction on PPM
+9. History of Gastric ulcer
+10. Old CVA with left hemiparesis
+## 11. hypotension, suspected PAOD related 
+    no cortical insufficiency , no hypothyroidism 
+
+<Treatment course>
+   After admission, Augmentin was administered from 12/23 to 12/28 for left calf cellulitis and right 1st toe gangrene with pus discharge. However, the extent of erythema improved little. Discharge also appeared in left 1st toe on 12/25. Consulted dermatologist suggested changing dressing with fucidin first instead of nail extraction at this time. On 12/28, pus culture reported Enterbacter aeruginosa, likely amp-C strain. Thus cefepime was used instead. As for the revascularization, PTA to right side was performed on 12/25 and to left side on 12/30. The results were good with increased bilateral ATA pulses. Another problem was the left AVF thrombosis, mandating hemodialysis via right femoral DLC. Vascular duplex of the AVF was done on 12/31 and showed total thrombosis. The DLC also dislodged in 12/30 night. A new one was inserted on 1/1. We has been taking BP from right arm but the SBPs were around only 80-100. It was probably confounded by right subclavian artery stenosis. His vital sign was stable without resucitation. 
+    We consulted PS for left toe nail extraction on 1/2. His cellulitis and wound got improvement gradully. We was told by the care giver that the patient had dysarthria and intermittent drooling. After NE evaluation, mild stroke of brain stem could not be ruled out. MRI was not indicated due to pacemaker. We then kept conservative treatment with plavix for him. Coumadin was also indicated due to high CHAD score but he got sool OB 4+ and we hold it. P&R was also consulted for swallowing evaluation. His swallowing reflex was intact but oral intake amount was impaired by dementia. NG was indicated and the family finally received NG placement on 1/9. 
+    On 1/8, Perm-cath under IVG was done and intra-operation hypotension was noted despie levophed use. However, intermittent drop flow during H/D (200ml/min was kept, but flow was unstable). Hospice was consulted and after family meeting, they signed the DNR but still hesitated about H/D. 
+    After pre-H/D midodrine use, H/D could be done via perm-cath with flow ~200ml/min and without water removal. We then D/C cefepime on 1/14. However, he had increased sputum but no desaturation noted then. Follow-up CXR showed RUL/RML pneumonia on 1/14. Tazocin was added for aspiration pneumonia. Later was switched to meropenem due to worsen respiratory pattenr and O2 saturation. Stool pus cell also showed positive, and due to prolonged use of ABx, we added oral metronidazole for him to cover clostridium infection. Poor prognosis was informed to the family and they could realize the condition. 
+    On 1/16, his BP dropped again during H/D. After family meeting with nephrologist, the family decided not to H/D anymore. Hospice care was choosed then. We then kept morphin use or his dyspnea and pain. 
+
+
+<Plan>
+1. keep Mepem 
+2. DNR 全拒院宣 , no H/D , 土葬(不需移除ICD)
+3. keep cordarone 1# QD , D/C Hebesser
+4. hospice care
+2015/01/23 19:44 SpO2:83%(98？000 000010L,Mask)
+2015/01/23 17:44 T:36.4 P:95 R:19
+2015/01/23 17:42 BP:65/43
+observation.

@@ -1,0 +1,45 @@
+2015/01/23 23:56
+主訴(Chief Complaint)
+Informant:patient and family Right hip pain painful disability after standing up
+病史(Brief History)
+This 61-year-old female has history of right breast cancer status post breast-conservation surgery + axillary lymph node dissection with multiple bone metastasis. This time, she sustained right hip pain while standing up. Then the patient was sent to our emergency department, where X-ray showed right femur subtrochanteric fracture. Bone scan on 2014/03/21 showed multiple bone metastasis over skull, spine, bilateral ribs, sacrum, bilateral, iliac bones, right ischium, and right femur. Surgical intervention was suggested, so the patient was admitted for further management. Family History:non-contributory Medication Allergy:No 病人自述 2015/01/23 Medication ADR:unknown Allergy to Medical Device and Materials:unknown Current Medication: NTUH:(管4) 針 Tramal Inj 100 mg/2 mL /amp 100 mg STAT IF 1 days Other:denied 中草藥:denied 保健食品:denied Past Medical History: Right breast cancer Hospitalization: Right breast cancer s/p BCT + ALND Past Surgical History: Right breast cancer s/p BCT + ALND Travel History:denied
+社會心理相關評估(Psychosocial Assessment)
+pending
+系統性回顧(Review of System)
+Head: headache(-), migraine(-), vertigo(-), syncope(-), trauma(-). Nose: rhinitis(-), sinusitis(-), discharge(-), epistaxis(-) Chest: cough(-), dyspnea(-), orthopnea(-), sputum(-), hemoptysis(-), chest pain(-). Heart: palpitation(-), tachycardia(-), orthopnea(-), cyanosis(-), hypertension(-) Abdomen: distension(-), diarrhea(-), constipation(-), cramping(-) epigastralgia(-) Extremities: swelling(+) & tenderness(+) over right hip, cyanosis(-), numbness(-), local heat(-)
+身體檢查(Physical Examination)
+BH:153 cm BW:55 kg T: P: R: BP:/ mmHg Pain: Neurological Examination: . Consciousness:E4V5M6 clear & alert . Muscle power:couldn't perform due to pain . Gait:couldn't perform due to pain Consciousness: clear and alert HEENT: no gross anomaly on inspection conjunctiva: pink sclera: anicteric Chest: symmetrical expansion, bilateral clear breath sounds Heart: regular heart beat, no audible murmur Abdomen: soft and flat, normo-active bowel sounds, no tenderness or rigidity Local findings : 1.tenderness(+) & swelling(+) over right hip 2.ROM: limited due to pain/wound(+) 3.Distal circulation: Intact ,Distal motor: intact ,Distal sensory:intact
+檢驗紀錄(Laboratory Report)
+*********檢驗室:RL*********** 群組:Coagulation PT PTT PT INR time/item (sec) (sec) () 1040123 [1202] 11.5 34.1 1.08 群組:Biochemistry CRE Na K Ca P time/item (mg/dL) (mmol/L) (mmol/L) (mmol/L) (mg/dL) 1040123 [1202] 1.2 138 4.6 2.55 1040123 [1409] 2.52 5.7 群組:General BioChemistry ALB ALT ALP LDH time/item (g/dL) (U/L) (U/L) (U/L) 1040123 [1202] 15 1040123 [1409] 3.5 109 229 群組:WBC Classification Blast Promyl. Myelo. Meta Band time/item (%) (%) (%) (%) (%) 1040123 [1202] 0.0 0.0 0.0 0.0 0.0 Seg Eos. Baso. Mono. Lym. time/item (%) (%) (%) (%) (%) 1040123 [1202] 53.9 3.6 0.2 5.9 36.4 Aty.Lym. PlasmaCell Normobl. PS time/item (%) (%) () () 1040123 [1202] 0.0 0.0 0 - 群組:CBC+PLT WBC RBC HB HCT MCV time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1040123 [1202] 8.41 3.58 11.9 36.5 102.0 MCH MCHC PLT RDW-CV PS time/item (pg) (g/dL) (K/μL) (%) () 1040123 [1202] 33.2 32.6 166 18.1 - 群組:Yes C-Reactive P rotein time/item (mg/dL) 1040123 [1409] 0.89 *********檢驗室:BK*********** 群組:Yes antibody scr een(New Lis) time/item (*) 1040123 [1409] Negative 群組:Blood Type ABO Typing RH Typing time/item (*) (*) 1040123 [1409] O Positive
+檢查紀錄(Examination Report)
+nil
+影像報告(Imaging Report)
+Femur: Right 醫令: Femur: Right 報告醫師: 陳信嘉 影像時間: 2015/01/23 16:17 (000MP036) 發報告時間: 2015/01/23 16:54 multiple bone metastasis; suspect radiolucent lines at the right femoral subtrochanteric region; recommend clinical correlation. Spine:Thoracic AP, LAT. 醫令: Spine:Thoracic AP, LAT. 報告醫師: 陳信嘉 影像時間: 2015/01/23 16:16 (000MP086) 發報告時間: 2015/01/23 16:54 multiple bone metastasis with pathological vertebral compression fractures; mild thoracolumbar kyphoscoliosis; a portacath at the right upper chest; left rib fracture(s); recommend clinical correlation. Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 陳育青 影像時間: 2015/01/23 16:14 (32001CXM) 發報告時間: 2015/01/23 18:42 a port-A-cath. normal heart size. patchy opacities in the left lung. s/p right mastectomy. bilateral ribs fracture. multiple bone metastasis. spine compression fracture. Femur Left 醫令: Femur Left 報告醫師: 陳信嘉 影像時間: 2015/01/23 16:19 (000MP035) 發報告時間: 2015/01/23 16:54 multiple bone metastasis; recommend clinical correlation. Spine: Lumbosacral AP, LAT. 醫令: Spine: Lumbosacral AP, LAT. 報告醫師: 陳信嘉 影像時間: 2015/01/23 12:42 (000MP090) 發報告時間: 2015/01/23 12:59 multiple bone metastasis with pathological vertebral compression fractures; mild lumbar spondylosis; recommend clinical correlation. Pelvis: for THR 醫令: Pelvis: for THR 報告醫師: 陳信嘉 影像時間: 2015/01/23 12:41 (32022CUM) 發報告時間: 2015/01/23 12:58 multiple bone metastasis; suspect radiolucent lines at the right femoral subtrochanteric region; recommend clinical correlation. Spine: Cervical AP, LAT. 醫令: Spine: Cervical AP, LAT. 報告醫師: 陳信嘉 影像時間: 2015/01/23 16:14 (000MP083) 發報告時間: 2015/01/23 16:53 cervical spondylosis; suspect osteolytic lesions at the C2 spinous process; however, small osseous lesion, occult fracture, or soft tissue or bone marrow lesions may not be detected on plain film radiography; recommend clinical correlation. Hip: Right 醫令: Hip: Right 報告醫師: 陳信嘉 影像時間: 2015/01/23 12:43 (32022CYM) 發報告時間: 2015/01/23 13:00 multiple bone metastasis; mild marginal osteophyte formation at the right hip joint; recommend clinical correlation.
+病理報告(Pathology Report)
+097/06/30 S0820058 Breast,right,partial mastectomy,invasive ductal carcinoma grade II, with extensive intraductal component, Skin,breast area, right,excision,no evidence of invasion Lymph node,axillary, right, sentinel 2,lymphadenectomy,carcinoma micrometastatic (1/1), Lymph node,axillary, right, sentinel 1, 3, 4, 5 and 6,lymphadenectomy,no evidence of metastasis (7/7), Lymph node,axillary, right, labeled as normal lymph node,lymphadenectomy,no evidence of metastasis (1/1), 097/08/07 S0824577 Lymph node,axillary, level I, side not stated,lymphadenectomy,presece of atypical cells (1/10), Lymph node,axillary, level II, side not stated,lymphadenectomy,no evidence of malignancy (3/3), Soft tissue,unlabeled,excision,no evidence of malignancy
+臆斷(Tentative Diagnosis)
+(1) Right femur subtrochanteric pathological fracture (2) Right breast cancer s/p BCT + ALND with multiple bone metastasis
+醫療需求與治療計畫(Medical Needs and Care Plan)
+#Right femur subtrochanteric pathological fracture #Right breast cancer s/p BCT + ALND with multiple bone metastasis S:Right hip pain painful disability O:Vital sign stable Afebrile Distal C/M/S: intact Local: tenderness(+)/swelling(+) A: (1) Right femur subtrochanteric pathological fracture (2) Right breast cancer s/p BCT + ALND with multiple bone metastasis P: 1. Arrange MRI with/without contrast (Pelvis + bilateral femur) for pathological fracture 2. Inform the benefits and risk 3. Arrange operation tomorrow Goals: 1. Stable wound condition 2. Adequate pain control 3. Recovery of ambulation status
+出院規劃(Discharge Planning)
+pending
+醫師姓名
+楊榮森 主治醫師
+
+會談:女兒
+1.病人去年就決定安寧緩和醫療，並且不想化療，後事皆陸續交代兒女，並且不斷告訴兒女緩和醫療照顧理念，女兒表示不捨心情，但仍會依照病人的期望給予減輕痛苦平穩的照護。
+2.若安寧病房入住同意書填妥，請將黃色副聯傳回6A。
+3.指導舒適翻身擺位，及疼痛、呼吸喘評估方式，女兒可協助室內採光及通風方式，並用音樂協助病人減緩焦慮不安情緒也促進睡眠。
+61 y/o female patient 
+right breast cancer with multiple bone metastatsis, s/p surgical treatment for right femur fracture
+condition stable, choked on 4th sip of wather
+unable to do without O2 supplement
+A:
+2015/02/22 09:26 SpO2:95%(？000 00002L,Cannula)
+2015/02/22 09:20 BP:114/55
+2015/02/22 09:20 T:36.7 P:109 R:18
+2015/02/22 06:27 Pain score:0
+P:
+continue to try clear water with caution
+continue on cefspan 2# q12h
+supportive care

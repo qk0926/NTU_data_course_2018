@@ -1,0 +1,44 @@
+[Active Problems]
+1.	Acute liver failure complicated with hepatorenal syndrome and hepatic encephalopathy, suspect hepatitis B related, r/o drug-induced hepatitis related
+2.	Chronic Hepatitis B with acute flare up
+3.	Pulmonary tuberculosis, status post anti-TB agents from 2014/11/06 to 2015/02/16
+4.	Acute on chronic kidney disease, susp. Sepsis, GIB, and hepatorenal syndrome, s/p emergent H/D 3/4-3/6 then QW 135, dry BW 65kg
+5.	Suspect hospital acquired pneumonia
+
+[Inactive Problems]
+6.	Type 2 diabetes mellitus, poorly controlled (HbA1c>12%)
+7.	Coronary artery disease, three-vessel disease status post POBAS, status post CABG in Oct. 2011
+8.	Ventricular tachycardia status post intracardial defibrillator implantation in Nov. 2011
+9.	Allopurinol allergy (HLA-B*5801 positive)
+
+Treatment 3/2-3/7
+    Rasitol pump was administered due to minimal urine output and progressive pulmonary edmeao on CXR. Deteriorated renal function was also noted so we consulted nephrologist for  hemodialysis on 3/4, 3/5, 3/6, then QW135 with titration. NG coffee ground and intermittent bradycardia were note on 3/3. We gave IV PPI and NPO first. Follow up cardiac enzymes was CK/MB/TnI:224/21/1.19 and ECG showed no dynamic changes.      Although NSTEMI was likely but DAPT and heparinization was held due to active bleeding. We contact CV林俊立 and pacemaker service and rate adjustment(40/130->70/110ppm) was done.
+    New breakthrough fever occurred on 3/4 so Cefepime was upgraded to Meropenam + Fluconazole. Followed CXR disclosed imroved pulmonary edema. Liver function showed persistent elevated total bilirubin with low AFP < 2, representing poor liver regeneration and outcome.
+
+
+<Plan>
+1.	keep Entecavir for hepatitis B
+2.	Maintenance hemodialysis QW135
+3.	Inform grave prognosis of hepatic failure
+4.	DNR was confirmed. (不電不壓)
+6.	Keep Mepem/Diflucan and pursue culture result
+7.      f/u HBV viral load on next W1 3/9g
+71 y/o man:
+1. Acute liver failure complicated with hepatorenal syndrome and hepatic encephalopathy, suspect hepatitis B related
+2. Chronic Hepatitis B with acute flare up
+3. Pulmonary tuberculosis, status post anti-TB agents from 2014/11/06 to 2015/02/16
+4. Acute on chronic kidney disease, susp. Sepsis, GIB, and hepatorenal syndrome, s/p emergent H/D 3/4-3/6 then QW 135
+5. Suspect hospital acquired pneumonia
+
+*The patient was transferred to MICU due to acute liver failure with hepatic encephalopathy. Terminal status is deemed by parimary care team. We are consulted for withdrawal of hemodialysis and ventilator support.
+- DNR(+)(不電不壓), consiousness comatous under ICU sedation, ECOG 4
+- 與案妻會談: 
+
+*Suggestion:
+1. I have contacted with his daughter via phone. The family want to know more about withdrawal process. Please contact us to inform their decision of meeting time (during ICU visiting hours).
+2. Complete related legal documents (KM系統>末期病人終止或撤除維生醫療說明暨同意書).
+3. Withdrawal protocol is provided in chart.
+4. 安寧共同照護同意書已放在chart前面, 請協助家屬簽署.
+5. Contact 67940西址共照辦公室 for related questions. Thanks for consultation!
+
+R4潘昱豪/VS姚建安

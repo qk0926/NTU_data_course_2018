@@ -1,0 +1,103 @@
+2015/01/21 22:55
+主訴(Chief Complaint)
+Informant:patient himself, his wife, and medical records Intermittant dyspnea with exertional dyspnea since 1 week ago
+病史(Brief History)
+This 48-year-old gentleman has the underlying conditions of 1. Hepatocellular carcinoma with portal vein thrombosis, cT3N0M0, Okuda II, Barcelona Clinic Liver Cancer C, status post oral Sorafenib/UFUR, disease in progression, status post hepatic arterial infusion chemotherapy with Cisplatin+FL protocol (46, since 2008/04/24, last course on 2014/12/30). 2. Cirrhosis, Child A/B (PT not tested) with gastric and esophageal varices 3. Chronic hepatitis B, under Baraclude. 4. Diabetes mellitus, type II. 5. Hypertension The initial presentation was mild RUQ discomfort since from October 2007. Abdominal sonography at a local clinic revealed a suspicious 2cm lesion in the liver. He was referred to NTUH where abdomen MRI revealed liver cirrhosis and several hypervascular tumors over the right hepatic lobe, along with several tiny nodules over left hepatic lobe on Oct. 25, 2007. Abdomen echo on Nov. 21, 2007 showed infiltrative hepatocellular carcinoma with portal vein thrombosis. Liver biopsy revealed the pathology of hepatocellular carcinoma, and active HBV related cirrhosis. Hepatocellular carcinoma, T3N0M0, Okuda II, BCLC C, with Child-Pugh A grade liver cirrhosis was diagnosed. He received Sorafenib/UFUR initially, with the side effects of Grade I hand-foot syndrome and diarrhea from Feb. 12, 2008 to Apr 2008. Follow-up MRI revealed increasing liver tumors and elevating serum AFP (911.3ng/dl) on Apr. 07, 2008. Systemic chemotherapy was discontinued, and hepatic arterial infusion chemotherapy (HAIC) with Cisplatin + FL was initiated. He had underwent a total of 46 cycles since 2008/04/24 to 2014/12/30. Hypersensitivity to Cisplatin occurred at the 27th course of HAIC on Jun. 12, 2010, but did not recur in following episodes after the transfusion of Cisplatin was prolonged to 6hrs. The latest MRI was obtained on 2014/11/25 revealed that the largest lesion around 13.1cm with infiltrative pattern at right posterior liver has increased in size, along with tumor thrombosis of right PV. Progressing disease was the impression. An episode of massive tarry stool occurred in the night on 2014/11/25, and PES on 2014/11/26 revealed GV bleeding and EV, s/p histacryl injection. Samtosan (Somatostatin ) was administered due to high risk of rebleeding. During the last 2 HAIC courses, obstruction of the HAIC catheter were noted with no response to urokinase lock; the catheter was deemed to be patent and flushed by radiologist through angiographic procedures in both times. The most recent (46th) course of HAIC with P-FL was administered on 2014/12/30. Starting from around 2015/1/10, the patient started to experience exertional dyspnea, orthopnea, dry cough during sleep, and decreased appetite. There was no dysuria, oligouria, diarrhea, constipation, or fever. He stated that he used to be able to complete a cycle on the hallway in 10 mins, but now it takes more than 30 to complete one. He also could not climb the stairs as he used to (he could only climb 3 levels of stairs before feeling dyspnic now.) He took the Inderal prescribed during the last admission for this condition, but there was no significant improvement. Due to the condition, he visited a local clinic which he used to go and had a checkup. Lab exams revealed elevated AFP (2015/01/17 94110 ng/ml), elevated AST and ALT, and acute kidney injury (Cre 2.83) was noted. He was admitted to our ward for further evaluation. [Past medical history] 1. Systemic diseases: CAD(-); HTN(+); DM(+); HBV(+); 2. Diet or drugs allergy: Cisplatin →skin rash, itching 3. Surgery history: Nil Admissions: Underwent HAIC for 46 times at NTUH since 2008/04/24 4. Current medication: NTUH: Entecavir (Baraclude 0.5 mg/tab) 1 tab QDAC2HR PO Propranolol HCl (Inderal 10 mg/tab) 0.5 tab BID PO Other: 自備藥【Glibudon 500mg】 1 tab PO TIDAC (held due to acute kidney injury) 自備藥【amaryl 2.0mg】 1 tab PO QDAC (decreased to 0.5tab QDAC due to acute kidney injury) 自備藥【Glucobay 50mg】 1 tab PO TIDAC (decreased to 0.5tab TIDAC due to acute kidney injury) 自備藥【Januvia 100mg】 1 tab PO QDAC (decreased to 0.5tab QDAC due to acute kidney injury) 自備藥【Valsartan 80mg】 1 tab PO QD (held due to acute kidney injury) 中草藥:nil 保健食品: regular usage of 牛樟芝 5. Blood type: A [Personal and family history] 1. Occupation: 漁會/漁船老板, did not went out to the seas since 2 months ago 2. Financial status: abundant 3. Traveling history: denied recent traveling, but climbed the hills around his home regularly 4. Habits or addictions: Nil 5. Marital status: married 6. Alcohol(+):drunk(每天醉) for 25 years, quit for 8 years; Betel nut chewing(+):10-30# qd for 20 years, quit 8 years; Smoking(+):3-4PPD for 25+ years, quit for 8 years; 7. Family history: father: Liver cancer; mother: HBV carrier
+社會心理相關評估(Psychosocial Assessment)
+Social Economic and Personal History 教育程度:國中 職業:無 宗教信仰:道教 婚姻狀態:已婚 使用語言:國語 台語 口述血型:A，RH:不清楚，輸血反應:有,腹部紅疹 抽煙:沒有，已戒煙:8年 喝酒:沒有，已戒酒:8年 檳榔:沒有，已戒檳榔:8年 物質濫用: Psychological History and Evaluation 意識狀態:警醒 認知功能:正常 精神情緒狀態:異常 焦慮 安全問題:有 fall down 睡眠形態:異常 早醒 失眠 使用藥物 Nutritional Screen 攝食情形:佳，攝食75% 排便狀態:正常 BMI:33.15 Fall Risk Assessment 總分:3 (>=3分進行不倒翁計畫，請開預防跌倒醫囑)
+系統性回顧(Review of System)
+1.Systemic: weight loss(-), easy-fatigability(+), night sweats(-) 2.Skin: petechiae(-), purpurae(-), skin rash(-), itching(-), 3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-) 4.Cardiovascular: exertional chest tightness(-), nocturnal dyspnea(+), orthopnea(+), syncope(-), palpitation(-), intermittent claudication(-) 5.Respiratory: dyspnea(-), cough(+, night time), chest pain(-), hemoptysis(-), productive cough (-), pleuritic chest pain(-) 6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(+), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-) 7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-) 8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-) 9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-) 10.Nervous: numbness (-), paresis/plegia (-)
+身體檢查(Physical Examination)
+BH:162 cm BW:87 kg T:36.5 P:89 R:20 BP:132/72 mmHg Pain:0 Neurological Examination: . Consciousness: clear and oriented . Muscle power: symmetric . Gait: stable ‧General appearance: fair, ECOG: 1, Karnofsky performance score: 90 % ‧Head-Eye-ENT Conjunctiva: pink; Sclera: anicteric; Pupil: isocoric(3mm/3mm); reflex (+/+) ‧Neck Jugular vein engorgement(-); Lymphadenopathy (-); Thyroid goiter(-) ‧Chest Thoracic cage contour: symmetric Auscultation: Crackles(-) wheezes(-) rhonchi(-) stridor(-) ‧Heart Heart beat: regular Adventitious sounds (-); Murmurs(-) ‧Abdomen Ovoid & soft Superficial vein engorgement(-) Protruded umbilicus(-) Bowel sound: normo-active Tenderness(-) Shifting dullness (-) Liver and spleen: impalpable ‧Extremities: Freely movable, pitting edema (-), pulsations: symmetric ‧Skin Abnormal pigmentation(-) Petechiae(-) Purpura(-) Ecchymoses(-) Telangiectasia(-) Rash(+, papules around 3mm with erythema and curst located diffusely on the trunk and limbs, with pruritis) Plaque(-) Wound(-) Ulceration(-) Crust(-) ‧Inguinal lymphadenopathy(-); Axillary lymphadenopathy (-)
+檢驗紀錄(Laboratory Report)
+*********檢驗室:RL*********** 群組:Biochemistry BUN CRE Na K T-BIL time/item (mg/dL) (mg/dL) (mmol/L) (mmol/L) (mg/dL) 1040121 [1023] 24.4 1.1 130 4.8 1.43 Ca time/item (mmol/L) 1040121 [1023] 2.22 群組:CBC+PLT WBC RBC HB HCT MCV time/item (K/μL) (M/μL) (g/dL) (%) (fL) 1040121 [1023] 4.15 3.47 10.4 31.4 90.5 MCH MCHC PLT RDW-CV PS time/item (pg) (g/dL) (K/μL) (%) () 1040121 [1023] 30.0 33.1 173 18.1 - 群組:WBC Classification Blast Promyl. Myelo. Meta Band time/item (%) (%) (%) (%) (%) 1040121 [1023] 0.0 0.0 0.0 0.0 0.0 Seg Eos. Baso. Mono. Lym. time/item (%) (%) (%) (%) (%) 1040121 [1023] 50.0 4.8 0.2 14.2 30.8 Aty.Lym. PlasmaCell Normobl. PS time/item (%) (%) () () 1040121 [1023] 0.0 0.0 0 - 群組:General BioChemistry ALB ALT ALP LDH time/item (g/dL) (U/L) (U/L) (U/L) 1040121 [1023] 3.1 37 93 264 *********檢驗室:OP*********** 群組:SEDIMENT RBC (S) WBC (S) Epith (S) Cast (S) Crystal (S) time/item (/HPF) (/HPF) (/HPF) (/LPF) (*) 1040121 [1741] 0-2 0-2 0-2 - - Bacteria Mucus(S) Others (S) time/item (*) (*) (*) 1040121 [1741] - - - 群組:MULTISTIX Sp. Gr.(C) pH Protein(C) Glu.(C) Ketone body (U) time/item (*) (*) (mg/dL) (mg/dL) (*) 1040121 [1741] 1.012 7.0 - - - O.B.(C) Urobil.(C) Bil.(C) Nitrite(C) WBC esterase (U) time/item (mg/dL) (mg/dL) (mg/dL) (*) (*) 1040121 [1741] - 2.0 - - - Color Turbidity time/item (*) (*) 1040121 [1741] Yellow - *********檢驗室:PO*********** 群組: Sugar(One to uch) time/item (*) 1040121 [1723] 113
+檢查紀錄(Examination Report)
+nil
+影像報告(Imaging Report)
+nil
+病理報告(Pathology Report)
+096/11/28 S0736651 Liver,needle biopsy,hepatocellular carcinoma grade II,cirrhosis active,HBV related,
+臆斷(Tentative Diagnosis)
+1. Hepatocellular carcinoma with portal vein thrombosis, cT3N0M0, Okuda II, Barcelona Clinic Liver Cancer C, status post oral Sorafenib/UFUR, disease in progression, status post hepatic arterial infusion chemotherapy with Cisplatin+FL protocol (46, since 2008/04/24, last course on 2014/12/30). 2. Cirrhosis, Child A/B (PT not tested) with gastric and esophageal varices 3. Chronic hepatitis B, under Baraclude. 4. Diabetes mellitus, type II. 5. Hypertension
+醫療需求與治療計畫(Medical Needs and Care Plan)
+1. Acute kidney injury A: Elevated creatinine level noted at LMD (Cre 2.83) on 2015/01/17, but findings at NTUH was only 1.1, similiar to prior results (0.8) Denied usage of new herbal medicine or prescription drugs No sign of fluid overload. No dysuria. P: monitor U/O. Close follow-up. Consider renal sonography follow-up. 2. Hepatocellular carcinoma A: Most recent image study (MRI) in November 2014 revealed PD, with elevated AFP noted in the past month. No ascites noted. P: Arrange CT scan for brain+chest+abdomen+pelvis Arrange TACE. 3. Newly developed exertional dyspnea A: Condition developed in the past week, with orthopnea and night cough also noted. No pitting edema. CXR: cardiomegaly, with suspected pattern of cephalization P: EKG. Consider cardiac sonography. Treatment Goal: Complete workup of the conditoons ========【ONCOLOGY SUMMARY】======== 【Initial presentation】 2007/10 mild RUQ discomfort not related to meal. 【Definite diagnosis and Disease extend】 2007/10/25 MRI: liver cirrhosis, several hypervascular tumors over right hepatic lobe 2007/11/21 Abdomen echo: infiltrative HCC portal vein thrombosis and biopsy 2007/11/22: Pathology: hepatocellular carcinoma, and active HBV related★ Diagnosis: Hepatocellular carcinoma, staging T3N0M0, Okuda II, liver cirrhosis child-P A. 【Treatment plan, effect and side effect】2008/02/12~2008/04/07 Sorafenib/UFUR trial＊Side effect: grade I of head-foot syndrome, diarrhea ⊙Effect: 2008/04/07 MRI: disease progression; AFP elevated to 911.3ng/dl →PD 2008/04/24~2008/08/07 IA Cisplatin+FL(1~6) ⊙Effect: 2008/08/22 MRI: stationary 2008/09/02~2008/10/30 IA Cisplatin+FL(7~9) ⊙Effect: 2008/11/18 MRI: liver mass decreased 2008/11/18~2009/01/15 IA Cisplatin+FL(10~12) ⊙Effect: 2009/02/09: MRI: stationary 2009/02/09~2009/04/22 IA Cisplatin+FL(13~16) ⊙Effect: 2009/05/18: MRI: PR 2009/05/18~2009/08/15 IA Cisplatin+FL(17~20) ⊙Effect: 2009/09/08 MRI: PR 2009/09/09~2009/12/05 IA Cisplatin+FL(21~24) ＊Side effect: hot flush, mild dyspnea, shortness of breath, bilateral hands rednesswith itch and injected throat when Cisplatin infusion of the 20th to 23rd cycle of chemotherapy ⊙Effect: 2010/01/05 MRI: PR 2010/01/05 IA Cisplatin+FL(25) ⊙Effect: 2010/06/12 MRI: increased liver tumors, PD 2010/06/11~2010/08/27 IA Cisplatin+FL (26~29) ＊Side effect:: severe cough, general hot sensation, and bilateral palmer redness developed after Cisplatin infusion 30minutes on Jun. 12, 2010; hypersensitivity of cisplatin; prolonged the cisplatin infusion time to 6 hours from the 28th cycle 2010/09/30~2010/12/23 IA Cisplatin+FL(30~32) ⊙Effect: 2011/01/27 MRI: stationary disease, 2010/12/23 AFP 7.26 ng/ml 2011/01/27~2011/06/18 IA Cisplatin+FL(33~36) ⊙Effect: 2011/06/16 MRI: An infiltrative HCC at right lobe, size smaller.PR, 2011/06/16 AFP 8.34 ng/ml 2011/08/18~2011/10/15 IA Cisplatin+FL(37~38) (Q2M) ⊙Effect: 2011/12/12 Abdomen MRI: 1. A stationary infiltrative hepatic tumor, right lobe of liver. 2. Multiple hepatic nodules, R/O cirrhotic nodules. 3. Hepatic nodule, lateral segment, R/O HCC. D/D cirrhotic nodule. 4. Hepatic nodule, S7, R/O arterioportal shunt or small HCC.-->Stable disease 2011/12/12 IA Cisplatin+FL(39) (Q2M). ⊙Effect: 2012/03/26 MRI: PR 2012/03/27 IA Cisplatin+FL(40) 2012/06/29 IA Cisplatin+FL(41) ⊙Effect:2012/10/23 MRI: Two definite recurrent HCCs at S#2(1.8cm) and at S#7(2cm) of liver; Three nodules at high S#8(0.6cm), at anterior S#2(1.5cm), and at S#1(1.7cm) of liver-->Stable ⊙Effect:2013/1/21 MRI: Two small hepatic nodules, S2 and S7-->Stable disease! ⊙Effect:2013/4/30 MRI: multiple (at least 6) nodules in both hepatic lobes, showed moderate enhancement in HA phase, iso- to mild hypointense in PV and delayed phase, the largest one (3.6cm) at S#7 2013/06/14 IA-HAIC Cisplatin+FL(42) ⊙Effect:2013/08/29 MRI: S2(2.1cm) and S7(2.9cm) of the liver(size↓)-->PR 2013/08/29 IA-HAIC Cisplatin+FL(43) ⊙Effect:2014/07/04 MRI: at least six viable HCCs in both hepatic lobes, the largest one(4.5cm) at right superior liver. tumor thrombosis of right PV.-->PD 2014/07/29 IA-HAIC Cisplatin+FL(44) ⊙Effect:2014/11/25 MRI: progressing disease of one largest lesion around 13.1cm with infiltrative pattern at right posterior liver, size enlarged.-->PD 2014/11/25 HAIC catheter angiography: patent 2014/11/26 massive tarry stool--> PES: GV bleeding and EV s/p histacryl injection. 2014/12/08 HAIC catheter angiography: patent 2014/12/08 IA-HAIC Cisplatin+FL(45) ⊙Effect:2014/12/2x AFP ~40000 ng/ml (LMD) 2014/12/30 HAIC catheter angiography: patent 2014/12/30 IA-HAIC Cisplatin+FL(46) --> no discomfort ⊙Effect:2014/12/31 AFP 19104.83 ng/ml (NTUH) ⊙Effect:2015/01/17 AFP 94110 ng/ml (LMD)
+出院規劃(Discharge Planning)
+管路留置狀況:有 靜脈管路留置(含Hickman / Port-A)：無 雙腔導管留置：無 鼻胃管留置： 氣管管路留置：無 胃造廔口：無 尿管留置：無 膀胱造廔：無 傷口引流管：無 其他導管：right feneral HAIC 日常生活功能分數：100 預期出院後居住場所：與家人同住 預期出院後主要照顧者：自己 配偶 出院規劃收案篩檢：一般病患
+主治醫師評論(VS Comments)
+I agree with the assessment made by the resident.
+醫師姓名
+林宗哲 主治醫師
+HCC with Rt PVT; LC with EV/GV bleeding 
+s/p HAIC for 45 cycles
+C45D1: 2014-12-30
+Elevated AFP and cough
+Pending Tc99m-MAA scan
+pending CT scans of brain/chest/abdomen/pelvis
+
+1. Antitussives and symptomatic care
+2. Check stool OB, AFP
+3. Consult AP Liang PC for feasibility of angiography +/- TACE after reviewing new CT films
+HCC with Rt PVT; LC with EV/GV bleeding 
+s/p HAIC for 45 cycles
+C45D1: 2014-12-30
+Elevated AFP and cough 
+Tc99m-MAA scan: lung/liver ratio: 38.3 %
+
+mFOLFOX C1D1
+Symptomatic tx
+HCC with Rt PVT; LC with EV/GV bleeding 
+s/p HAIC for 45 cycles; C45D1: 2014-12-30
+Tc99m-MAA scan: lung/liver ratio: 38.3 %
+Tumor progression with lung and multiple LN mets
+Melena: PES: EV, F3Cb with RCS; GU, A2ulcers  
+mFOLFOX C1D7
+Grade 2 myelosuppression
+
+1. Supportive care 
+2. F/U hemogram, LFT, RFT on 2/5
+HCC with Rt PVT; LC with EV/GV bleeding 
+s/p HAIC for 45 cycles; C45D1: 2014-12-30
+Tc99m-MAA scan: lung/liver ratio: 38.3 %
+Tumor progression with lung and multiple LN mets
+Melena: PES: EV, F3Cb with RCS; GU, A2ulcers  
+mFOLFOX C1D13
+Physically: shifting dullness (+)
+ 
+1. Bed-side abd echo; paracentesis as needed
+2. F/U CXR
+3. D15 FOLFOX on 2/11 (當天早上在抽急CBC, Cre, Bil)
+HCC with Rt PVT; LC with EV/GV bleeding 
+s/p HAIC for 45 cycles; C45D1: 2014-12-30
+Tc99m-MAA scan: lung/liver ratio: 38.3 %
+Tumor progression with lung and multiple LN mets
+Melena: PES: EV, F3Cb with RCS; GU, A2ulcers  
+ 
+Start CT again today
+HCC with Rt PVT; LC with EV/GV bleeding 
+s/p HAIC for 45 cycles; C45D1: 2014-12-30
+Tc99m-MAA scan: lung/liver ratio: 38.3 %
+Tumor progression with lung and multiple LN mets
+Melena: PES: EV, F3Cb with RCS; GU, A2ulcers  
+mFOLFOX on 1/28, 2/11
+
+Abd fullness/scrotal swelling
+  
+1. F/U CXR, serum albumin
+2. Start Foley training
+3. Consult urologist for ? hydrocele
+4. Do paracentesis
+5. May give mFOLFOX later
+6. Albumin supplement
+1.因上次會談有問有關助念資源,提供給妹妹
+2.太太暫回租屋,休息
+3.家人表示病人病情近日有改善,如果再好點就可以繼續在治療
+Mode :PC/AC
+Insp. Pressure : 16   cmH2O
+VT set/exp. :400~350ml 
+RR set/total :24/27   bpm     
+FiO2 : 65 %
+PIP/MAP:30/18cmH2O
+VE total :9.7lpm
+Ti:1.0  sec
+PEEP:12cmH2O     
+SpO2 : 99%
