@@ -17,6 +17,7 @@ require(cluster)
 require(factoextra)
 require(wordcloud2)
 library(plotly)
+require(textclean)
 
 #讀取同一病人資料
 rawpatlist <- list()
@@ -36,7 +37,7 @@ f <- list.files(pattern = "all.txt$")
 n <- c(1,2,5,6,9,16,18,19,22,23,26,34,35)
 
 rawpatlist[[1]] <-  readLines("1-all.txt")
-rawpatlist[[2]] <-  readLines("2-all.txt")
+rawpatlist[[2]] <-  readLines("2-all.txt") 
 rawpatlist[[5]] <-  readLines("5-all.txt") 
 rawpatlist[[6]] <-  readLines("6-all.txt")
 rawpatlist[[9]] <-  readLines("9-all.txt")
@@ -48,7 +49,35 @@ rawpatlist[[23]] <-  readLines("23-all.txt")
 rawpatlist[[26]] <-  readLines("26-all.txt")
 rawpatlist[[34]] <-  readLines("34-all.txt")
 rawpatlist[[35]] <-  readLines("35-all.txt")
-rawpatlist[[37]] <-  readLines("37-all.txt")
+rawpatlist[[37]] <-  readLines("37-all.txt") 
+a <- list()
+for(x in 1:37){
+  tryCatch({t <- paste0("^",x, "\\s" )
+  filesToProcess <- list.files(pattern = t)
+  n <- length(filesToProcess)
+  ls <- list()
+  i <- 1
+  for(i in 1:n){
+    ls[[i]] <- read_doc(filesToProcess[i])
+  }
+  a[[x]] <- unlist(ls)%>% replace_non_ascii() %>% paste(collapse = "")}, error = function(e){}
+  ) 
+}
+a <- readLines("2-all.txt") %>% replace_non_ascii() %>% paste(collapse = "")
+a[[1]] <-  readLines("1-all.txt") %>% replace_non_ascii() %>% paste(collapse = "")
+a[[2]] <-  readLines("2-all.txt")  %>% replace_non_ascii() %>% paste(collapse = "")
+a[[5]] <-  readLines("5-all.txt")  %>% replace_non_ascii() %>% paste(collapse = "")
+a[[6]] <-  readLines("6-all.txt") %>% replace_non_ascii() %>% paste(collapse = "")
+a[[9]] <-  readLines("9-all.txt") %>% replace_non_ascii() %>% paste(collapse = "")
+a[[16]] <-  readLines("16-all.txt") %>% replace_non_ascii() %>% paste(collapse = "")
+a[[18]] <-  readLines("18-all.txt") %>% replace_non_ascii() %>% paste(collapse = "")
+a[[19]] <-  readLines("19-all.txt") %>% replace_non_ascii() %>% paste(collapse = "")
+a[[22]] <-  readLines("22-all.txt") %>% replace_non_ascii() %>% paste(collapse = "")
+a[[23]] <-  readLines("23-all.txt") %>% replace_non_ascii() %>% paste(collapse = "")
+a[[26]] <-  readLines("26-all.txt") %>% replace_non_ascii() %>% paste(collapse = "")
+a[[34]] <-  readLines("34-all.txt") %>% replace_non_ascii() %>% paste(collapse = "")
+a[[35]] <-  readLines("35-all.txt") %>% replace_non_ascii() %>% paste(collapse = "")
+a[[37]] <-  readLines("37-all.txt")  %>% replace_non_ascii() %>% paste(collapse = "")
 
 x <- 1
   t <- paste0("^",x, "\\s" )
@@ -118,6 +147,7 @@ for(i in 1:26){
 }
 
 dis <- unlist(dis)
+dis["[1]"]
 View(dis)
 
 
@@ -178,6 +208,17 @@ findmed <- function(x){
 }
 
 
+findmed2 <- function(x,y){
+  m <- c()
+  for(i in 1:length(y)){
+    if(length(grep(paste0("\\s", y[i]), x, ignore.case = T))>0){
+      m <- c(m, y[i])
+    }
+  }
+  return(m)
+}
+
+
 keyword <- sapply(rawpatlist, findmed)
 findmed(rawpatlist[[7]])  
 
@@ -208,10 +249,9 @@ findall <- function(x){
     if(words[i]%>% tolower() %in% drugs%>% tolower())
       c <- c(c, words[i])
   }
-  for(i in 1:length(words)){
-    if(words[i]%>% tolower() %in% dis%>% tolower() )
-      d <- c(d, words[i])
-  }
+
+      d <- findmed2(x,dis)
+  
   for(i in 1:length(words)){
     if(words[i]%>% tolower() %in% disadd%>% tolower() %>% strsplit(" ") %>% unlist())
       e <- c(e, words[i])
@@ -236,17 +276,15 @@ findall <- function(x){
   return(ls)}
 }
 
-
-findall(rawpatlist[[7]])
-for(j in 1:37){
-  print(class(rawpatlist[[j]]))
-}
-
+lapply(x,findmed2)
+grepl
 keyword2 <- lapply(rawpatlist, findall)
-          
 
 capture.output(keyword, file = "keyword.txt")
 capture.output(keyword2, file = "keyword2.txt")
+crawpatlist <- gsub('[^ -~]', '', rawpatlist)
+capture.output(rawpatlist, file = "rawpatlist.txt")
+capture.output(a, file = "rawpubtator.txt")
 
 patdisexp <- c()
 for(i in 1:37){
@@ -331,8 +369,19 @@ row.names(DF1) <- DF[,1]
 
 dfall2 <- dfall[,-1]
 row.names(dfall2) <- dfall[,1]
-
+dfall3 <- dfall2[-which(rownames(dfall2) %in% c("and","with","for","when","the")),]
 clus <- kmeans(dfall2, centers = 6)
 #dfall2$cluster <- clus$cluster
 ggplotly(plotallclus)
+
+keyword2
+
+
+
+
+
+
+
+
+
 

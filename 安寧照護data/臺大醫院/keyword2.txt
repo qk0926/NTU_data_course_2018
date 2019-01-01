@@ -1,287 +1,32 @@
 [[1]]
 [[1]]$abbreviation
- [1] "MICU"  "ER"    "IAI"   "CRRT"  "PSA"   "ADLs"  "on"    "CXR"   "CK"    "CT"    "BUN"  
-[12] "HD"    "CVC"   "NKA"   "ADR"   "IF"    "SC"    "NPH"   "Inj"   "IV"    "PO"    "BMI"  
-[23] "BW"    "kg"    "BP"    "HEENT" "LAP"   "PMI"   "S1"    "S2"    "S3"    "S4"    "RL"   
-[34] "PH"    "HCO3"  "CBC"   "PLT"   "WBC"   "RBC"   "HB"    "HCT"   "MCV"   "dL"    "MCH"  
-[45] "MCHC"  "RDW"   "CV"    "CRE"   "Na"    "Ca"    "Mg"    "AST"   "CKMB"  "BNP"   "ALT"  
-[56] "ALP"   "HPF"   "Gr"    "SA"    "VDRL"  "RPR"   "VH"    "HIV"   "Ag"    "Ab"    "dl"   
-[67] "ID"    "DS"    "Hb"    "Hct"   "BK"    "ABO"   "CBD"   "KUB"   "DJD"   "AP"    "LLL"  
-[78] "AKI"   "ED"    "BT"    "ABG"   "CVVH"  "VS"    "ETT"   "DNR"   "GI"    "NPO"   "NG"   
-[89] "PPI"   "EGD"   "D5W"   "LDH"   "SBP"   "PCV"   "Abd"   "DW"    "TPN"  
-
-[[1]]$`abbreviation(expand)`
- [1] "antibiotic"      "prognosis"       "admission"       "history"         "fracture"       
- [6] "blood"           "dopamine"        "biopsy"          "antigen"         "unknown"        
-[11] "assessment"      "negative"        "headache"        "cardiovascular"  "abnormal"       
-[16] "conjunctiva"     "normal"          "bilateral"       "antibody"        "without"        
-[21] "lymphadenopathy" "catheter"        "dislocation"     "lateral"         "diagnosis"      
-[26] "antibiotics"     "discharge"       "disease"         "amount"          "specimen"       
-[31] "symptoms"        "extremities"    
-
-[[1]]$drugs
- [1] "levophed"        "dopamine"        "diphenhydramine" "bethanechol"     "maxipime"       
- [6] "metronidazole"   "albumin"         "ceftazidime"     "furosemide"      "tygacil"        
-[11] "ampicillin"      "valtrex"        
-
-[[1]]$disease
-[1] "ascites"
-
-[[1]]$`disease(expand)`
-  [1] "shock"            "with"             "focus"            "muscle"          
-  [5] "abscess"          "from"             "uremic"           "adrenal"         
-  [9] "thyroid"          "contact"          "weakness"         "pain"            
- [13] "adenocarcinoma"   "cancer"           "hematuria"        "urinary"         
- [17] "fracture"         "severe"           "limb"             "fever"           
- [21] "blood"            "infection"        "renal"            "hypotension"     
- [25] "left"             "allergy"          "materials"        "alcohol"         
- [29] "type"             "cluster"          "system"           "positive"        
- [33] "negative"         "systemic"         "fatigue"          "insomnia"        
- [37] "weight"           "diffuse"          "cold"             "intolerance"     
- [41] "edema"            "head"             "headache"         "vertigo"         
- [45] "photophobia"      "visual"           "field"            "defect"          
- [49] "ocular"           "excess"           "alopecia"         "cataracts"       
- [53] "glaucoma"         "ears"             "nose"             "hearing"         
- [57] "impairment"       "nasal"            "anosmia"          "mouth"           
- [61] "throat"           "oral"             "ulcer"            "dental"          
- [65] "dysphagia"        "cardiovascular"   "cough"            "respiratory"     
- [69] "paroxysmal"       "nocturnal"        "syncope"          "intermittent"    
- [73] "gastrointestinal" "vomiting"         "acid"             "regurgitation"   
- [77] "hiccup"           "abdominal"        "constipation"     "bowel"           
- [81] "small"            "abnormal"         "sexual"           "skin"            
- [85] "jaundice"         "changes"          "hair"             "loss"            
- [89] "telangiectasia"   "purpura"          "myalgia"          "bone"            
- [93] "joint"            "fractures"        "neurological"     "paresis"         
- [97] "tremor"           "anxiety"          "depression"       "appearance"      
-[101] "activity"         "anomaly"          "conjunctiva"      "pupils"          
-[105] "reflex"           "neck"             "goiter"           "symmetric"       
-[109] "expansion"        "retraction"       "coarse"           "heart"           
-[113] "normal"           "soft"             "liver"            "spleen"          
-[117] "extremity"        "bilateral"        "others"           "bacteria"        
-[121] "protein"          "band"             "manual"           "crystals"        
-[125] "cell"             "antibody"         "without"          "pulmonary"       
-[129] "emphysema"        "partial"          "lower"            "mild"            
-[133] "effusion"         "thoracic"         "lymph"            "lymphadenopathy" 
-[137] "bones"            "wall"             "central"          "venous"          
-[141] "brain"            "atrophy"          "dilated"          "nonspecific"     
-[145] "white"            "matter"           "intracranial"     "abnormality"     
-[149] "cranial"          "skull"            "right"            "advanced"        
-[153] "insertion"        "bladder"          "pelvic"           "ascites"         
-[157] "stones"           "ducts"            "duct"             "clinical"        
-[161] "spine"            "disc"             "aorta"            "scoliosis"       
-[165] "osteopenia"       "kyphoscoliosis"   "multiple"         "osseous"         
-[169] "tissue"           "clinically"       "lumbosacral"      "factor"          
-[173] "phenomenon"       "essential"        "intact"           "joints"          
-[177] "borderline"       "aortic"           "calcification"    "lung"            
-[181] "lesions"          "dislocation"      "femur"            "lateral"         
-[185] "medial"           "related"          "acute"            "kidney"          
-[189] "injury"           "tract"            "uremia"           "long"            
-[193] "failure"          "chronic"          "disease"          "diabetes"        
-[197] "foot"             "distal"           "overload"         "context"         
-[201] "body"             "very"             "dependent"        "lactic"          
-[205] "acidosis"         "tapered"          "large"            "component"       
-[209] "aeruginosa"       "recurrent"        "resistant"        "drug"            
-[213] "sensitivity"      "during"           "persistent"       "limited"         
-[217] "extremities"      "feet"             "colon"            "organ"           
-[221] "coma"             "withdrawal"      
-
-[[1]]$treatment
-  [1] "the"              "a"                "of"               "with"            
-  [5] "prostate"         "ca"               "to"               "for"             
-  [9] "and"              "thyroid"          "function"         "treatment"       
- [13] "plan"             "back"             "score"            "psa"             
- [17] "therapy"          "in"               "cancer"           "urinary"         
- [21] "c"                "blood"            "tests"            "infection"       
- [25] "ct"               "scan"             "b"                "after"           
- [29] "left"             "medical"          "surgical"         "ultrasonography" 
- [33] "biopsy"           "elevated"         "specific"         "antigen"         
- [37] "allergy"          "medication"       "device"           "iv"              
- [41] "screen"           "stool"            "weight"           "intolerance"     
- [45] "visual"           "field"            "eye"              "hearing"         
- [49] "nasal"            "mouth"            "throat"           "oral"            
- [53] "gum"              "dental"           "problems"         "chest"           
- [57] "gastrointestinal" "acid"             "abdominal"        "bowel"           
- [61] "incontinence"     "small"            "urine"            "abnormal"        
- [65] "skin"             "hair"             "loss"             "bone"            
- [69] "joint"            "physical"         "examination"      "light"           
- [73] "neck"             "lap"              "breath"           "heart"           
- [77] "or"               "normal"           "soft"             "liver"           
- [81] "ph"               "gas"              "cbc"              "wbc"             
- [85] "rbc"              "hb"               "hct"              "mcv"             
- [89] "mch"              "mchc"             "rdw"              "125"             
- [93] "ast"              "mucus"            "d"                "alt"             
- [97] "protein"          "band"             "sugar"            "test"            
-[101] "hiv"              "cell"             "glucose"          "antibody"        
-[105] "imaging"          "without"          "partial"          "lower"           
-[109] "lymph"            "brain"            "study"            "density"         
-[113] "white"            "pelvic"           "clinical"         "lumbar"          
-[117] "multiple"         "factor"           "vacuum"           "joints"          
-[121] "aortic"           "ultrasound"       "diagnosis"        "kidney"          
-[125] "care"             "ed"               "control"          "complete"        
-[129] "vs"               "failure"          "disease"          "diabetes"        
-[133] "drainage"         "volume"           "gi"               "feeding"         
-[137] "response"         "body"             "support"          "egd"             
-[141] "questions"        "removal"          "morning"          "fluid"           
-[145] "infusion"         "drug"             "high"             "during"          
-[149] "milk"             "colon"            "withdrawal"      
-
-[[1]]$symptoms
-  [1] "the"          "of"           "with"         "muscle"       "prostate"     "to"          
-  [7] "from"         "and"          "bleeding"     "contact"      "weakness"     "low"         
- [13] "back"         "pain"         "under"        "in"           "cancer"       "urinary"     
- [19] "retention"    "on"           "fever"        "c"            "blood"        "increased"   
- [25] "infection"    "decreased"    "enlarged"     "elevated"     "allergy"      "alcohol"     
- [31] "stool"        "chills"       "fatigue"      "insomnia"     "weight"       "appetite"    
- [37] "cold"         "intolerance"  "eyes"         "headache"     "dizziness"    "vertigo"     
- [43] "photophobia"  "blurred"      "vision"       "ocular"       "eye"          "redness"     
- [49] "dry"          "trauma"       "glaucoma"     "ears"         "nose"         "hearing"     
- [55] "nasal"        "congestion"   "mouth"        "throat"       "ulcer"        "gum"         
- [61] "sore"         "dysphagia"    "hoarseness"   "cough"        "sputum"       "respiratory" 
- [67] "chest"        "tightness"    "nausea"       "vomiting"     "heartburn"    "acid"        
- [73] "abdominal"    "diarrhea"     "constipation" "bowel"        "urgency"      "incontinence"
- [79] "small"        "urine"        "cloudy"       "impotence"    "abnormal"     "skin"        
- [85] "rash"         "pruritus"     "dryness"      "jaundice"     "color"        "changes"     
- [91] "hair"         "loss"         "bone"         "joint"        "stiffness"    "cramps"      
- [97] "numbness"     "tremor"       "gait"         "memory"       "anxiety"      "panic"       
-[103] "depression"   "pale"         "sclera"       "pupils"       "neck"         "retraction"  
-[109] "breath"       "heart"        "or"           "liver"        "pitting"      "leg"         
-[115] "gas"          "yeast"        "sugar"        "hiv"          "cell"         "pulmonary"   
-[121] "lymph"        "nodes"        "brain"        "dilated"      "density"      "white"       
-[127] "hemorrhage"   "bladder"      "pelvic"       "osteopenia"   "multiple"     "joints"      
-[133] "lung"         "acute"        "kidney"       "injury"       "tract"        "poor"        
-[139] "discharge"    "failure"      "chronic"      "disease"      "diabetes"     "drainage"    
-[145] "foot"         "body"         "output"       "morning"      "high"         "distended"   
-[151] "feet"         "toes"         "colon"        "confusion"    "withdrawal"  
-
-[[1]]$all
-  [1] "the"              "a"                "of"               "shock"           
-  [5] "with"             "focus"            "muscle"           "abscess"         
-  [9] "prostate"         "ca"               "to"               "from"            
- [13] "antibiotic"       "for"              "and"              "uremic"          
- [17] "bleeding"         "adrenal"          "thyroid"          "function"        
- [21] "contact"          "treatment"        "plan"             "prognosis"       
- [25] "admission"        "weakness"         "low"              "back"            
- [29] "pain"             "history"          "adenocarcinoma"   "score"           
- [33] "psa"              "under"            "therapy"          "in"              
- [37] "cancer"           "hematuria"        "urinary"          "retention"       
- [41] "fracture"         "severe"           "limb"             "on"              
- [45] "fever"            "c"                "blood"            "tests"           
- [49] "increased"        "infection"        "ct"               "scan"            
- [53] "decreased"        "b"                "renal"            "after"           
- [57] "hypotension"      "levophed"         "dopamine"         "enlarged"        
- [61] "left"             "medical"          "surgical"         "ultrasonography" 
- [65] "biopsy"           "elevated"         "specific"         "antigen"         
- [69] "allergy"          "medication"       "unknown"          "device"          
- [73] "materials"        "alcohol"          "type"             "cluster"         
- [77] "iv"               "diphenhydramine"  "bethanechol"      "assessment"      
- [81] "screen"           "stool"            "system"           "positive"        
- [85] "negative"         "systemic"         "chills"           "fatigue"         
- [89] "insomnia"         "weight"           "appetite"         "diffuse"         
- [93] "cold"             "intolerance"      "edema"            "head"            
- [97] "eyes"             "headache"         "dizziness"        "vertigo"         
-[101] "photophobia"      "visual"           "field"            "defect"          
-[105] "blurred"          "vision"           "ocular"           "eye"             
-[109] "redness"          "dry"              "excess"           "alopecia"        
-[113] "trauma"           "cataracts"        "glaucoma"         "ears"            
-[117] "nose"             "hearing"          "impairment"       "nasal"           
-[121] "congestion"       "anosmia"          "mouth"            "throat"          
-[125] "oral"             "ulcer"            "gum"              "dental"          
-[129] "problems"         "sore"             "dysphagia"        "hoarseness"      
-[133] "cardiovascular"   "cough"            "sputum"           "respiratory"     
-[137] "chest"            "tightness"        "paroxysmal"       "nocturnal"       
-[141] "syncope"          "intermittent"     "gastrointestinal" "nausea"          
-[145] "vomiting"         "heartburn"        "acid"             "regurgitation"   
-[149] "hiccup"           "abdominal"        "diarrhea"         "constipation"    
-[153] "bowel"            "urgency"          "incontinence"     "small"           
-[157] "urine"            "cloudy"           "impotence"        "abnormal"        
-[161] "sexual"           "skin"             "rash"             "pruritus"        
-[165] "dryness"          "jaundice"         "color"            "changes"         
-[169] "hair"             "loss"             "telangiectasia"   "purpura"         
-[173] "myalgia"          "bone"             "joint"            "stiffness"       
-[177] "cramps"           "fractures"        "neurological"     "numbness"        
-[181] "paresis"          "tremor"           "gait"             "memory"          
-[185] "anxiety"          "panic"            "depression"       "physical"        
-[189] "examination"      "appearance"       "activity"         "anomaly"         
-[193] "conjunctiva"      "pale"             "sclera"           "pupils"          
-[197] "light"            "reflex"           "neck"             "lap"             
-[201] "goiter"           "symmetric"        "expansion"        "retraction"      
-[205] "breath"           "coarse"           "heart"            "or"              
-[209] "normal"           "soft"             "liver"            "spleen"          
-[213] "extremity"        "pitting"          "bilateral"        "leg"             
-[217] "ph"               "gas"              "cbc"              "wbc"             
-[221] "rbc"              "hb"               "hct"              "mcv"             
-[225] "mch"              "mchc"             "rdw"              "125"             
-[229] "ast"              "mucus"            "d"                "alt"             
-[233] "others"           "bacteria"         "yeast"            "protein"         
-[237] "band"             "manual"           "sugar"            "test"            
-[241] "hiv"              "crystals"         "cell"             "glucose"         
-[245] "antibody"         "imaging"          "without"          "pulmonary"       
-[249] "emphysema"        "partial"          "lower"            "mild"            
-[253] "effusion"         "thoracic"         "lymph"            "nodes"           
-[257] "lymphadenopathy"  "bones"            "wall"             "central"         
-[261] "venous"           "catheter"         "brain"            "study"           
-[265] "atrophy"          "dilated"          "nonspecific"      "density"         
-[269] "white"            "matter"           "intracranial"     "hemorrhage"      
-[273] "abnormality"      "cranial"          "skull"            "right"           
-[277] "advanced"         "insertion"        "bladder"          "pelvic"          
-[281] "ascites"          "stones"           "ducts"            "duct"            
-[285] "clinical"         "lumbar"           "spine"            "disc"            
-[289] "aorta"            "scoliosis"        "osteopenia"       "kyphoscoliosis"  
-[293] "multiple"         "osseous"          "tissue"           "clinically"      
-[297] "lumbosacral"      "factor"           "vacuum"           "phenomenon"      
-[301] "essential"        "intact"           "joints"           "borderline"      
-[305] "aortic"           "calcification"    "lung"             "lesions"         
-[309] "dislocation"      "femur"            "lateral"          "ultrasound"      
-[313] "medial"           "diagnosis"        "related"          "acute"           
-[317] "kidney"           "injury"           "tract"            "care"            
-[321] "ed"               "maxipime"         "uremia"           "poor"            
-[325] "control"          "complete"         "antibiotics"      "long"            
-[329] "discharge"        "vs"               "failure"          "chronic"         
-[333] "disease"          "diabetes"         "metronidazole"    "drainage"        
-[337] "foot"             "distal"           "volume"           "overload"        
-[341] "gi"               "context"          "feeding"          "response"        
-[345] "albumin"          "body"             "support"          "egd"             
-[349] "ceftazidime"      "output"           "questions"        "very"            
-[353] "removal"          "amount"           "dependent"        "lactic"          
-[357] "acidosis"         "tapered"          "morning"          "large"           
-[361] "component"        "specimen"         "aeruginosa"       "recurrent"       
-[365] "fluid"            "furosemide"       "infusion"         "tygacil"         
-[369] "ampicillin"       "resistant"        "drug"             "sensitivity"     
-[373] "high"             "during"           "persistent"       "symptoms"        
-[377] "valtrex"          "limited"          "distended"        "extremities"     
-[381] "feet"             "toes"             "milk"             "colon"           
-[385] "confusion"        "organ"            "coma"             "withdrawal"      
-
-
-[[2]]
-[[2]]$abbreviation
  [1] "on"   "ER"   "CT"   "ICH"  "DNR"  "CPR"  "ECMO" "OP"   "hr"   "ETT"  "PEEP" "WBC"  "HB"  
 [14] "dL"   "CXR"  "PO"  
 
-[[2]]$`abbreviation(expand)`
+[[1]]$`abbreviation(expand)`
 [1] "dopamine"   "assessment" "bilateral"  "tumor"     
 
-[[2]]$drugs
+[[1]]$drugs
 [1] "dopamine"
 
-[[2]]$disease
-NULL
+[[1]]$disease
+[1] "[1]"   "[1]"   "Shock"
 
-[[2]]$`disease(expand)`
+[[1]]$`disease(expand)`
  [1] "brain"     "left"      "lobe"      "with"      "midline"   "right"     "shock"    
  [8] "multiple"  "bilateral" "lung"      "tumor"    
 
-[[2]]$treatment
+[[1]]$treatment
  [1] "of"         "the"        "brain"      "ct"         "left"       "lobe"       "with"      
  [8] "to"         "for"        "d"          "intubation" "in"         "multiple"   "care"      
 [15] "and"        "wbc"        "hb"         "tumor"      "plan"       "a"          "b"         
 [22] "c"         
 
-[[2]]$symptoms
+[[1]]$symptoms
  [1] "of"        "on"        "the"       "brain"     "with"      "to"        "in"       
  [8] "multiple"  "and"       "lung"      "increased" "tumor"     "bleeding"  "c"        
 
-[[2]]$all
+[[1]]$all
  [1] "of"         "on"         "the"        "brain"      "ct"         "left"       "lobe"      
  [8] "with"       "midline"    "to"         "right"      "for"        "shock"      "d"         
 [15] "intubation" "in"         "multiple"   "care"       "dopamine"   "and"        "assessment"
@@ -289,28 +34,29 @@ NULL
 [29] "plan"       "a"          "b"          "c"         
 
 
-[[3]]
-[[3]]$abbreviation
+[[2]]
+[[2]]$abbreviation
  [1] "PEA"  "CPR"  "VA"   "ECMO" "on"   "CVVH" "EEG"  "BP"   "ID"   "MRI"  "CPCR" "ARDS" "DNR" 
 [14] "ICU" 
 
-[[3]]$`abbreviation(expand)`
+[[2]]$`abbreviation(expand)`
 [1] "without"       "pneumonia"     "ventilation"   "etiology"      "schizophrenia"
 
-[[3]]$drugs
+[[2]]$drugs
 [1] "meropenem"   "fluconazole"
 
-[[3]]$disease
-NULL
+[[2]]$disease
+[1] "[1]"                  "Aspiration pneumonia" "[1]"                  "Hepatitis"           
+[5] "Hepatitis B"          "Pneumonia"            "Schizophrenia"        "Shock"               
 
-[[3]]$`disease(expand)`
+[[2]]$`disease(expand)`
  [1] "with"         "coma"         "without"      "paralysis"    "brain"        "stem"        
  [7] "reflex"       "neurological" "pneumonia"    "related"      "overload"     "persistent"  
 [13] "hypotension"  "responsive"   "infection"    "tube"         "airway"       "overdose"    
 [19] "shock"        "undetermined" "respiratory"  "failure"      "lung"         "edema"       
 [25] "right"        "type"         "hepatitis"    "withdrawal"   "combined"     "contact"     
 
-[[3]]$treatment
+[[2]]$treatment
  [1] "with"         "medication"   "without"      "or"           "breathing"    "trigger"     
  [7] "brain"        "stem"         "and"          "for"          "d"            "fluid"       
 [13] "imaging"      "eeg"          "in"           "to"           "infection"    "mri"         
@@ -318,13 +64,13 @@ NULL
 [25] "aspiration"   "b"            "a"            "care"         "the"          "withdrawal"  
 [31] "treat"        "your"         "support"      "problems"    
 
-[[3]]$symptoms
+[[2]]$symptoms
  [1] "with"          "on"            "or"            "paralysis"     "brain"        
  [6] "and"           "pneumonia"     "in"            "to"            "low"          
 [11] "infection"     "under"         "respiratory"   "failure"       "lung"         
 [16] "schizophrenia" "hepatitis"     "the"           "withdrawal"    "contact"      
 
-[[3]]$all
+[[2]]$all
  [1] "with"          "medication"    "on"            "coma"          "without"      
  [6] "or"            "paralysis"     "breathing"     "trigger"       "brain"        
 [11] "stem"          "reflex"        "and"           "neurological"  "for"          
@@ -340,8 +86,8 @@ NULL
 [61] "contact"       "problems"     
 
 
-[[4]]
-[[4]]$abbreviation
+[[3]]
+[[3]]$abbreviation
   [1] "MTX"   "on"    "NEC"   "ENT"   "OPD"   "CNS"   "MRI"   "CT"    "ALL"   "IF"    "IV"   
  [12] "PO"    "BT"    "BMI"   "HEENT" "BW"    "kg"    "BP"    "EOM"   "LV"    "RV"    "CVC"  
  [23] "RL"    "CBC"   "PLT"   "WBC"   "RBC"   "HB"    "HCT"   "MCV"   "dL"    "MCH"   "MCHC" 
@@ -353,7 +99,7 @@ NULL
  [89] "PD"    "LOP"   "US"    "CVAD"  "SBP"   "EKG"   "HR"    "EGD"   "DU"    "OM"    "aPTT" 
 [100] "EEG"  
 
-[[4]]$`abbreviation(expand)`
+[[3]]$`abbreviation(expand)`
  [1] "history"         "disease"         "chemotherapy"    "bilateral"       "lymphadenopathy"
  [6] "normal"          "biopsy"          "lymphocytes"     "blood"           "diagnosis"      
 [11] "without"         "abnormal"        "admission"       "tumor"           "assessment"     
@@ -362,16 +108,24 @@ NULL
 [26] "symptoms"        "antibiotics"     "temperature"     "injection"       "seizure"        
 [31] "antibiotic"     
 
-[[4]]$drugs
+[[3]]$drugs
  [1] "fluconazole"    "augmentin"      "diflucan"       "maxipime"       "dexamethasone" 
  [6] "meropenem"      "metronidazole"  "flagyl"         "levofloxacin"   "megace"        
 [11] "epinephrine"    "nexium"         "levophed"       "ganciclovir"    "hydrocortisone"
 [16] "keppra"        
 
-[[4]]$disease
-[1] "ascites"
+[[3]]$disease
+ [1] "Acute lymphoblastic leukemia" "Anemia"                       "[1]"                         
+ [4] "Atelectasis"                  "[1]"                          "Candidiasis"                 
+ [7] "Colitis"                      "Cramp"                        "Fatty liver"                 
+[10] "Hepatitis"                    "Hepatitis B"                  "Leukemia"                    
+[13] "Lymphoma"                     "ascites"                      "Pleural effusion"            
+[16] "Purpura"                      "Septic shock"                 "Shock"                       
+[19] "Splenomegaly"                 "Syncope"                      "Tachycardia"                 
+[22] "TEN"                          "Thrombocytopenia"             "Thrush"                      
+[25] "Tinnitus"                    
 
-[[4]]$`disease(expand)`
+[[3]]$`disease(expand)`
   [1] "abdominal"        "pain"             "with"             "intermittent"    
   [5] "fever"            "illness"          "female"           "disease"         
   [9] "acute"            "lymphoblastic"    "leukemia"         "lymphoma"        
@@ -428,7 +182,7 @@ NULL
 [213] "pressure"         "thrombocytopenia" "lactic"           "insertion"       
 [217] "lysis"            "component"        "seizure"          "terminal"        
 
-[[4]]$treatment
+[[3]]$treatment
   [1] "and"              "abdominal"        "with"             "for"             
   [5] "a"                "female"           "disease"          "of"              
   [9] "post"             "c"                "chemotherapy"     "response"        
@@ -473,7 +227,7 @@ NULL
 [165] "eeg"              "control"          "monitoring"       "smear"           
 [169] "support"         
 
-[[4]]$symptoms
+[[3]]$symptoms
   [1] "and"          "abdominal"    "pain"         "diarrhea"     "with"         "fever"       
   [7] "disease"      "of"           "acute"        "leukemia"     "status"       "on"          
  [13] "c"            "poor"         "to"           "high"         "liver"        "infection"   
@@ -497,7 +251,7 @@ NULL
 [121] "temperature"  "anemia"       "output"       "tachycardia"  "frequent"     "pressure"    
 [127] "morning"      "hemolysis"    "bloody"       "clot"         "thrush"      
 
-[[4]]$all
+[[3]]$all
   [1] "and"              "abdominal"        "pain"             "diarrhea"        
   [5] "with"             "intermittent"     "fever"            "for"             
   [9] "history"          "illness"          "a"                "female"          
@@ -597,8 +351,8 @@ NULL
 [385] "terminal"         "support"         
 
 
-[[5]]
-[[5]]$abbreviation
+[[4]]
+[[4]]$abbreviation
  [1] "on"    "OU"    "BP"    "Lab"   "WBC"   "Hb"    "dl"    "PLT"   "BUN"   "CT"    "OB"   
 [12] "IV"    "Inj"   "IF"    "PO"    "IU"    "SC"    "TID"   "Oint"  "BMI"   "HEENT" "BW"   
 [23] "kg"    "BT"    "HR"    "RR"    "LAP"   "CV"    "CA"    "RA"    "FA"    "PA"    "PTA"  
@@ -607,7 +361,7 @@ NULL
 [56] "AP"    "CKD"   "HD"    "GERD"  "PEG"   "ESRD"  "ABG"   "CXR"   "RLL"   "DNR"   "UGI"  
 [67] "VS"   
 
-[[5]]$`abbreviation(expand)`
+[[4]]$`abbreviation(expand)`
  [1] "history"                    "disease"                    "hypertension"              
  [4] "fracture"                   "esophagogastroduodenoscopy" "antibiotic"                
  [7] "tetracycline"               "assessment"                 "headache"                  
@@ -616,13 +370,19 @@ NULL
 [16] "without"                    "bilateral"                  "lateral"                   
 [19] "diagnosis"                  "extremities"               
 
-[[5]]$drugs
+[[4]]$drugs
 [1] "fosamax"      "rocephin"     "diovan"       "norvasc"      "nexium"       "tetracycline"
 
-[[5]]$disease
-NULL
+[[4]]$disease
+ [1] "Alzheimer's disease"      "Anemia"                   "[1]"                     
+ [4] "Atrophy"                  "[1]"                      "Cataract"                
+ [7] "Congestive heart failure" "Cramp"                    "Diabetes mellitus"       
+[10] "Glaucoma"                 "Hearing impairment"       "Hypercalcemia"           
+[13] "Hyperkalemia"             "Hypertension"             "Osteonecrosis"           
+[16] "Osteoporosis"             "Purpura"                  "Reflux esophagitis"      
+[19] "TEN"                      "Thrush"                   "Tinnitus"                
 
-[[5]]$`disease(expand)`
+[[4]]$`disease(expand)`
   [1] "short"            "hematuria"        "chronic"          "kidney"          
   [5] "disease"          "temporary"        "vitamin"          "food"            
   [9] "related"          "dementia"         "hypertension"     "reflux"          
@@ -664,7 +424,7 @@ NULL
 [153] "aorta"            "lung"             "field"            "lateral"         
 [157] "basal"            "extremities"      "legs"             "transfusion"     
 
-[[5]]$treatment
+[[4]]$treatment
   [1] "d"                          "of"                         "breath"                    
   [4] "and"                        "the"                        "medical"                   
   [7] "kidney"                     "disease"                    "post"                      
@@ -708,7 +468,7 @@ NULL
 [121] "care"                       "plan"                       "basal"                     
 [124] "dialysis"                   "transfusion"                "vs"                        
 
-[[5]]$symptoms
+[[4]]$symptoms
   [1] "of"             "breath"         "irritable"      "and"            "on"            
   [6] "the"            "chronic"        "kidney"         "disease"        "status"        
  [11] "vitamin"        "reflux"         "osteoporosis"   "heart"          "failure"       
@@ -739,7 +499,7 @@ NULL
 [136] "gas"            "sugar"          "dilated"        "low"            "density"       
 [141] "white"          "lung"           "lips"           "basal"         
 
-[[5]]$all
+[[4]]$all
   [1] "d"                          "short"                      "of"                        
   [4] "breath"                     "irritable"                  "and"                       
   [7] "hematuria"                  "on"                         "history"                   
@@ -843,24 +603,25 @@ NULL
 [301] "vs"                        
 
 
-[[6]]
-[[6]]$abbreviation
+[[5]]
+[[5]]$abbreviation
  [1] "BP"   "PTA"  "AVF"  "on"   "ESRD" "HD"   "PAD"  "CVA"  "PAOD" "ATA"  "NE"   "MRI"  "OB"  
 [14] "NG"   "CVS"  "RFA"  "GI"   "LA"   "GA"   "DNR"  "USA"  "VS"   "SC"   "RUL"  "RLL"  "HR"  
 [27] "TID"  "CXR"  "RML"  "O2"   "ICD" 
 
-[[6]]$`abbreviation(expand)`
+[[5]]$`abbreviation(expand)`
  [1] "bilateral"   "history"     "admission"   "discharge"   "dressing"    "without"    
  [7] "amount"      "extremities" "disease"     "pneumonia"   "prognosis"  
 
-[[6]]$drugs
+[[5]]$drugs
 [1] "augmentin"     "plavix"        "coumadin"      "levophed"      "maxipime"     
 [6] "cordarone"     "meropenem"     "metronidazole"
 
-[[6]]$disease
-NULL
+[[5]]$disease
+[1] "[1]"                  "Aspiration pneumonia" "[1]"                  "Dementia"            
+[5] "Hypothyroidism"       "Pneumonia"            "Shock"               
 
-[[6]]$`disease(expand)`
+[[5]]$`disease(expand)`
  [1] "thrombosis"     "oral"           "dysarthria"     "mild"           "femoral"       
  [6] "with"           "bilateral"      "gangrene"       "cellulitis"     "left"          
 [11] "sinus"          "node"           "dysfunction"    "gastric"        "ulcer"         
@@ -875,7 +636,7 @@ NULL
 [56] "contact"        "pneumonia"      "respiratory"    "cell"           "positive"      
 [61] "infection"      "pain"           "mask"          
 
-[[6]]$treatment
+[[5]]$treatment
  [1] "for"               "stool"             "and"               "d"                
  [5] "oral"              "in"                "the"               "with"             
  [9] "left"              "sinus"             "node"              "of"               
@@ -892,7 +653,7 @@ NULL
 [53] "your"              "questions"         "fine"              "aspiration"       
 [57] "removal"           "cell"              "infection"         "icd"              
 
-[[6]]$symptoms
+[[5]]$symptoms
  [1] "stool"          "and"            "on"             "poor"           "dysarthria"    
  [6] "in"             "the"            "stroke"         "with"           "toes"          
 [11] "cellulitis"     "sinus"          "node"           "of"             "ulcer"         
@@ -903,7 +664,7 @@ NULL
 [36] "bleeding"       "syndrome"       "disease"        "contact"        "pneumonia"     
 [41] "sputum"         "respiratory"    "cell"           "infection"      "pain"          
 
-[[6]]$all
+[[5]]$all
   [1] "for"               "stool"             "and"               "thrombosis"       
   [5] "on"                "poor"              "d"                 "oral"             
   [9] "dysarthria"        "in"                "the"               "mild"             
@@ -940,28 +701,28 @@ NULL
 [133] "icd"               "mask"             
 
 
-[[7]]
-[[7]]$abbreviation
+[[6]]
+[[6]]$abbreviation
  [1] "BP"   "MR"   "EEG"  "HD"   "on"   "CPCR" "ROSC" "AV"   "VC"   "PEEP" "RR"   "Lab"  "CRE" 
 [14] "dL"   "BUN"  "Na"   "WBC"  "HB"   "PLT"  "HCO3" "CT"   "DNR"  "PCV"  "IP"  
 
-[[7]]$`abbreviation(expand)`
+[[6]]$`abbreviation(expand)`
  [1] "blood"       "admission"   "antibiotic"  "assessment"  "without"     "diagnosis"  
  [7] "abnormal"    "negative"    "ventilation" "symptoms"    "bilateral"  
 
-[[7]]$drugs
+[[6]]$drugs
 [1] "ceftazidime" "rocephin"    "levophed"    "furosemide" 
 
-[[7]]$disease
-NULL
+[[6]]$disease
+[1] "[1]"     "Atrophy" "[1]"    
 
-[[7]]$`disease(expand)`
+[[6]]$`disease(expand)`
  [1] "blood"          "cortical"       "with"           "encephalopathy" "fever"         
  [6] "overload"       "neurologic"     "lung"           "without"        "abnormal"      
 [11] "head"           "diffuse"        "brain"          "atrophy"        "negative"      
 [16] "dependent"      "bowel"          "bilateral"      "infection"     
 
-[[7]]$treatment
+[[6]]$treatment
  [1] "for"          "and"          "blood"        "eeg"          "cortical"     "with"        
  [7] "of"           "fluid"        "removal"      "when"         "the"          "after"       
 [13] "to"           "hemodialysis" "response"     "support"      "without"      "light"       
@@ -969,12 +730,12 @@ NULL
 [25] "brain"        "treatment"    "ventilation"  "examination"  "self"         "dialysis"    
 [31] "bowel"        "infection"    "high"         "urine"        "plan"        
 
-[[7]]$symptoms
+[[6]]$symptoms
  [1] "sputum"    "and"       "blood"     "with"      "of"        "the"       "to"       
  [8] "fever"     "on"        "poor"      "lung"      "abnormal"  "brain"     "status"   
 [15] "bowel"     "wheezing"  "infection" "high"      "decreased" "urine"     "output"   
 
-[[7]]$all
+[[6]]$all
  [1] "ceftazidime"    "for"            "sputum"         "and"            "blood"         
  [6] "eeg"            "cortical"       "with"           "encephalopathy" "of"            
 [11] "fluid"          "removal"        "when"           "the"            "after"         
@@ -990,29 +751,30 @@ NULL
 [61] "plan"          
 
 
-[[8]]
+[[7]]
 NULL
 
-[[9]]
-[[9]]$abbreviation
+[[8]]
+[[8]]$abbreviation
  [1] "on"    "ADR"   "Inj"   "IF"    "BW"    "kg"    "BP"    "HEENT" "ROM"   "RL"    "PT"   
 [12] "PTT"   "INR"   "CRE"   "Na"    "Ca"    "dL"    "ALT"   "ALP"   "LDH"   "WBC"   "CBC"  
 [23] "PLT"   "RBC"   "HB"    "HCT"   "MCV"   "MCH"   "MCHC"  "RDW"   "CV"    "BK"    "ABO"  
 [34] "AP"    "PA"    "THR"   "C2"    "MRI"   "O2"   
 
-[[9]]$`abbreviation(expand)`
+[[8]]$`abbreviation(expand)`
  [1] "history"      "axillary"     "fracture"     "bilateral"    "sacrum"       "unknown"     
  [7] "assessment"   "headache"     "discharge"    "hypertension" "extremities"  "conjunctiva" 
 [13] "antibody"     "negative"     "blood"        "normal"       "atypical"     "diagnosis"   
 [19] "without"     
 
-[[9]]$drugs
+[[8]]$drugs
 NULL
 
-[[9]]$disease
-NULL
+[[8]]$disease
+[1] "[1]"           "[1]"           "Breast cancer" "Cramp"         "Hypertension" 
+[6] "Migraine"      "Syncope"       "Tachycardia"   "TEN"          
 
-[[9]]$`disease(expand)`
+[[8]]$`disease(expand)`
  [1] "right"          "pain"           "disability"     "female"         "breast"        
  [6] "cancer"         "lymph"          "node"           "dissection"     "with"          
 [11] "multiple"       "bone"           "femur"          "fracture"       "skull"         
@@ -1031,7 +793,7 @@ NULL
 [76] "partial"        "carcinoma"      "component"      "skin"           "atypical"      
 [81] "cells"          "without"       
 
-[[9]]$treatment
+[[8]]$treatment
  [1] "d"            "and"          "hip"          "after"        "female"       "of"          
  [7] "breast"       "cancer"       "post"         "surgery"      "lymph"        "node"        
 [13] "with"         "multiple"     "bone"         "the"          "to"           "scan"        
@@ -1047,7 +809,7 @@ NULL
 [73] "care"         "plan"         "mri"          "without"      "control"      "b"           
 [79] "treatment"    "score"       
 
-[[9]]$symptoms
+[[8]]$symptoms
  [1] "and"          "hip"          "pain"         "painful"      "of"           "breast"      
  [7] "cancer"       "status"       "lymph"        "node"         "with"         "multiple"    
 [13] "bone"         "the"          "to"           "on"           "allergy"      "headache"    
@@ -1058,7 +820,7 @@ NULL
 [43] "c"            "blood"        "lines"        "upper"        "in"           "lung"        
 [49] "cervical"     "small"        "joint"        "carcinoma"    "skin"        
 
-[[9]]$all
+[[8]]$all
   [1] "d"              "and"            "right"          "hip"            "pain"          
   [6] "painful"        "disability"     "after"          "history"        "female"        
  [11] "of"             "breast"         "cancer"         "status"         "post"          
@@ -1093,27 +855,30 @@ NULL
 [156] "score"         
 
 
-[[10]]
-[[10]]$abbreviation
+[[9]]
+[[9]]$abbreviation
  [1] "ECG"  "HR"   "on"   "CV"   "RUQ"  "NPO"  "IV"   "CT"   "RFA"  "O2"   "KUB"  "D5"   "MRI" 
 [14] "HCC"  "Post" "CXR"  "IF"   "OP"   "HBV"  "CKD"  "HTN"  "BP"   "SBP"  "ST"   "dL"   "AST" 
 [27] "ALT"  "PSVT" "HCO3" "WBC"  "PH"   "HB"   "PLT"  "BUN"  "CRE"  "Na"   "Cl"   "Ca"   "CK"  
 [40] "CKMB" "LFT"  "PV"   "LAP"  "RLL"  "LLL"  "RVR"  "ID"   "DS"   "PT"   "PTT"  "INR"  "ICU" 
 [53] "ARDS" "DNR"  "MIC" 
 
-[[10]]$`abbreviation(expand)`
+[[9]]$`abbreviation(expand)`
  [1] "catheter"     "without"      "assessment"   "conjunctiva"  "bilateral"    "tumor"       
  [7] "admission"    "headache"     "hypertension" "discharge"    "blood"        "internal"    
 [13] "negative"     "antibiotics"  "pneumothorax"
 
-[[10]]$drugs
+[[9]]$drugs
 [1] "nexium"        "metronidazole" "baraclude"     "rocephin"      "captopril"    
 [6] "apresoline"    "meropenem"    
 
-[[10]]$disease
-[1] "ascites"
+[[9]]$disease
+ [1] "[1]"              "Atelectasis"      "[1]"              "Bronchiectasis"  
+ [5] "Delirium"         "Hypertension"     "Liver cirrhosis"  "ascites"         
+ [9] "Peritonitis"      "Pleural effusion" "Pneumothorax"     "Sepsis"          
+[13] "Tachycardia"      "TEN"             
 
-[[10]]$`disease(expand)`
+[[9]]$`disease(expand)`
  [1] "tachycardia"    "with"           "atrial"         "fibrillation"   "urinary"       
  [6] "urethral"       "insertion"      "impression"     "related"        "pain"          
 [11] "form"           "mild"           "wall"           "small"          "hepatic"       
@@ -1133,7 +898,7 @@ NULL
 [81] "appearance"     "intestine"      "peritonitis"    "failure"        "thoracic"      
 [86] "pneumothorax"   "body"           "weight"        
 
-[[10]]$treatment
+[[9]]$treatment
  [1] "of"              "ecg"             "with"            "and"             "infusion"       
  [6] "the"             "urinary"         "urine"           "catheterization" "self"           
 [11] "iv"              "ct"              "small"           "colon"           "post"           
@@ -1152,7 +917,7 @@ NULL
 [76] "care"            "fecal"           "surgery"         "when"            "function"       
 [81] "body"            "weight"         
 
-[[10]]$symptoms
+[[9]]$symptoms
  [1] "of"           "tachycardia"  "with"         "atrial"       "fibrillation" "and"         
  [7] "flutter"      "on"           "the"          "urinary"      "retention"    "urine"       
 [13] "under"        "pain"         "small"        "colon"        "inflammation" "or"          
@@ -1165,7 +930,7 @@ NULL
 [55] "hemorrhage"   "interstitial" "lung"         "intestine"    "failure"      "fecal"       
 [61] "fungus"       "body"         "weight"      
 
-[[10]]$all
+[[9]]$all
   [1] "of"              "ecg"             "tachycardia"     "with"            "atrial"         
   [6] "fibrillation"    "and"             "flutter"         "on"              "infusion"       
  [11] "the"             "urinary"         "retention"       "urethral"        "catheter"       
@@ -1203,8 +968,8 @@ NULL
 [171] "function"        "body"            "weight"         
 
 
-[[11]]
-[[11]]$abbreviation
+[[10]]
+[[10]]$abbreviation
  [1] "on"    "ORIF"  "OPD"   "dl"    "ER"    "CAD"   "ADR"   "PO"    "SC"    "BMI"   "BW"   
 [12] "kg"    "BP"    "ENT"   "EOM"   "BC"    "TP"    "ALT"   "CRE"   "dL"    "UA"    "Na"   
 [23] "Ca"    "TG"    "CHO"   "LDL"   "HDL"   "DM"    "AC"    "HbA1c" "HE"    "CBC"   "PLT"  
@@ -1213,20 +978,25 @@ NULL
 [56] "HTN"   "DNR"   "IV"    "NG"    "Cr"    "NPO"   "IVF"   "stat"  "ASAP"  "NS"    "SBP"  
 [67] "IF"    "VDRL"  "RPR"   "CK"    "Mg"    "Hb"    "VBG"   "BE"   
 
-[[11]]$`abbreviation(expand)`
+[[10]]$`abbreviation(expand)`
  [1] "history"         "disease"         "fracture"        "hypertension"    "creatinine"     
  [6] "blood"           "temperature"     "antibiotics"     "unknown"         "admission"      
 [11] "bilateral"       "assessment"      "discharge"       "cardiovascular"  "normal"         
 [16] "conjunctiva"     "extremities"     "abnormal"        "lymphadenopathy" "diagnosis"      
 [21] "pneumonia"      
 
-[[11]]$drugs
+[[10]]$drugs
 [1] "unasyn"   "catapres" "mircera"  "nexium"   "seroquel" "trandate" "lasix"   
 
-[[11]]$disease
-[1] "hyperparathyroidism"
+[[10]]$disease
+ [1] "Anemia"              "[1]"                 "Atrophy"             "[1]"                
+ [5] "Cramp"               "Dementia"            "Diabetes mellitus"   "Hyperparathyroidism"
+ [9] "Hypertension"        "Nephropathy"         "hyperparathyroidism" "Nephropathy"        
+[13] "Nephropathy"         "Pleural effusion"    "Purpura"             "Renal failure"      
+[17] "Scoliosis"           "Syncope"             "Telangiectasia"      "TEN"                
+[21] "Tinnitus"           
 
-[[11]]$`disease(expand)`
+[[10]]$`disease(expand)`
   [1] "with"                "acute"               "chronic"             "kidney"             
   [5] "disease"             "type"                "severe"              "metabolic"          
   [9] "acidosis"            "left"                "fracture"            "vascular"           
@@ -1268,7 +1038,7 @@ NULL
 [153] "folic"               "acid"                "failure"             "terminal"           
 [157] "form"                "advanced"            "pathway"             "positive"           
 
-[[11]]$treatment
+[[10]]$treatment
   [1] "and"              "with"             "for"              "of"              
   [5] "kidney"           "disease"          "left"             "diabetes"        
   [9] "mellitus"         "oral"             "medication"       "heart"           
@@ -1302,7 +1072,7 @@ NULL
 [121] "after"            "failure"          "hemodialysis"     "self"            
 [125] "intervention"     "test"             "support"         
 
-[[11]]$symptoms
+[[10]]$symptoms
   [1] "and"          "with"         "wheezing"     "of"           "acute"        "on"          
   [7] "chronic"      "kidney"       "disease"      "diabetes"     "under"        "anemia"      
  [13] "heart"        "in"           "the"          "increased"    "from"         "to"          
@@ -1324,7 +1094,7 @@ NULL
 [109] "hip"          "osteopenia"   "pelvic"       "pneumonia"    "benign"       "prostate"    
 [115] "acid"         "poor"         "failure"     
 
-[[11]]$all
+[[10]]$all
   [1] "and"                 "with"                "wheezing"            "for"                
   [5] "history"             "of"                  "acute"               "on"                 
   [9] "chronic"             "kidney"              "disease"             "type"               
@@ -1399,28 +1169,31 @@ NULL
 [285] "trandate"            "lasix"               "positive"           
 
 
-[[12]]
-[[12]]$abbreviation
+[[11]]
+[[11]]$abbreviation
  [1] "ALT"   "NSAID" "TP"    "IV"    "on"    "UGI"   "UTI"   "OPD"   "CPCR"  "ED"    "ROSC" 
 [12] "ICU"   "BP"    "ADR"   "TID"   "PO"    "BMI"   "HEENT" "BW"    "kg"    "ENT"   "EOM"  
 [23] "LV"    "RV"    "Ca"    "Hb"    "Hct"   "Na"    "dL"    "HCO3"  "RL"    "BUN"   "CRE"  
 [34] "CK"    "CKMB"  "PT"    "PTT"   "INR"   "WBC"   "CBC"   "PLT"   "RBC"   "HB"    "HCT"  
 [45] "MCV"   "MCH"   "MCHC"  "RDW"   "CV"    "CXR"   "DNR"   "ER"   
 
-[[12]]$`abbreviation(expand)`
+[[11]]$`abbreviation(expand)`
  [1] "history"         "tumor"           "chemotherapy"    "unknown"         "neoplasm"       
  [6] "lateral"         "biopsy"          "assessment"      "headache"        "discharge"      
 [11] "cardiovascular"  "without"         "normal"          "conjunctiva"     "bilateral"      
 [16] "extremities"     "abnormal"        "lymphadenopathy" "pneumonia"       "diagnosis"      
 [21] "antibiotics"     "prognosis"       "admission"      
 
-[[12]]$drugs
+[[11]]$drugs
 [1] "avastin"   "cisplatin" "ultracet"  "nexium"   
 
-[[12]]$disease
-NULL
+[[11]]$disease
+ [1] "[1]"                     "Aspiration pneumonia"    "[1]"                    
+ [4] "Cardiac arrest"          "Pneumonia"               "Purpura"                
+ [7] "Squamous cell carcinoma" "Syncope"                 "TEN"                    
+[10] "Tinnitus"               
 
-[[12]]$`disease(expand)`
+[[11]]$`disease(expand)`
   [1] "onset"            "loss"             "left"             "cancer"          
   [5] "tumor"            "with"             "skin"             "squamous"        
   [9] "cell"             "carcinoma"        "airway"           "obstruction"     
@@ -1449,7 +1222,7 @@ NULL
 [101] "related"          "return"           "encephalopathy"   "slow"            
 [105] "acute"            "distress"        
 
-[[12]]$treatment
+[[11]]$treatment
   [1] "of"               "loss"             "morning"          "the"             
   [5] "a"                "left"             "cancer"           "post"            
   [9] "tumor"            "excision"         "tracheostomy"     "alt"             
@@ -1477,7 +1250,7 @@ NULL
  [97] "diagnosis"        "mechanical"       "support"          "aspiration"      
 [101] "plan"             "therapy"          "score"            "rate"            
 
-[[12]]$symptoms
+[[11]]$symptoms
  [1] "of"           "loss"         "morning"      "the"          "cancer"       "status"      
  [7] "tumor"        "with"         "skin"         "squamous"     "cell"         "carcinoma"   
 [13] "and"          "on"           "in"           "bleeding"     "cough"        "difficulty"  
@@ -1494,7 +1267,7 @@ NULL
 [79] "liver"        "pitting"      "abnormal"     "sugar"        "lung"         "congestion"  
 [85] "pneumonia"    "under"        "poor"         "acute"       
 
-[[12]]$all
+[[11]]$all
   [1] "onset"            "of"               "loss"             "morning"         
   [5] "history"          "the"              "a"                "left"            
   [9] "cancer"           "status"           "post"             "tumor"           
@@ -1551,22 +1324,23 @@ NULL
 [213] "distress"        
 
 
-[[13]]
-[[13]]$abbreviation
+[[12]]
+[[12]]$abbreviation
  [1] "CAD"   "STEMI" "IV"    "CPCR"  "ROSC"  "PCI"   "RCA"   "UGI"   "DAPT"  "GI"    "Hb"   
 [12] "PPI"   "CVVH"  "NG"    "HR"    "DNR"   "CT"    "EEG"   "DI"    "DDAVP" "BW"   
 
-[[13]]$`abbreviation(expand)`
+[[12]]$`abbreviation(expand)`
 [1] "hypertension" "internal"     "unknown"      "prophylaxis"  "prognosis"    "dopamine"    
 [7] "blood"       
 
-[[13]]$drugs
+[[12]]$drugs
 [1] "heparin"  "plavix"   "dopamine" "levophed" "ddavp"   
 
-[[13]]$disease
-NULL
+[[12]]$disease
+[1] "[1]"                "[1]"                "Diabetes mellitus"  "Hydrocephalus"     
+[5] "Hypertension"       "Metabolic acidosis" "Shock"             
 
-[[13]]$`disease(expand)`
+[[12]]$`disease(expand)`
  [1] "with"          "inferior"      "class"         "primary"       "acute"        
  [6] "liver"         "injury"        "shock"         "related"       "source"       
 [11] "hypertension"  "type"          "diabetes"      "mellitus"      "carotid"      
@@ -1576,18 +1350,18 @@ NULL
 [31] "brain"         "stem"          "diffuse"       "cortical"      "dysfunction"  
 [36] "central"      
 
-[[13]]$treatment
+[[12]]$treatment
  [1] "with"     "class"    "iv"       "pci"      "to"       "liver"    "diabetes" "mellitus"
  [9] "artery"   "therapy"  "plan"     "and"      "gi"       "back"     "hb"       "for"     
 [17] "blood"    "125"      "sinus"    "of"       "support"  "ct"       "brain"    "stem"    
 [25] "eeg"      "cortical" "response"
 
-[[13]]$symptoms
+[[12]]$symptoms
  [1] "with"     "to"       "acute"    "liver"    "injury"   "bleeding" "diabetes" "and"     
  [9] "back"     "ulcer"    "blood"    "from"     "under"    "sinus"    "dilated"  "of"      
 [17] "brain"   
 
-[[13]]$all
+[[12]]$all
  [1] "with"          "inferior"      "class"         "iv"            "primary"      
  [6] "pci"           "to"            "acute"         "liver"         "injury"       
 [11] "shock"         "related"       "bleeding"      "source"        "hypertension" 
@@ -1603,8 +1377,8 @@ NULL
 [61] "central"       "response"      "ddavp"        
 
 
-[[14]]
-[[14]]$abbreviation
+[[13]]
+[[13]]$abbreviation
  [1] "on"    "PSVT"  "kg"    "CT"    "RLL"   "OPD"   "SICU"  "CXR"   "IV"    "PO"    "ER"   
 [12] "BT"    "PR"    "BP"    "PT"    "aPTT"  "HB"    "dL"    "WBC"   "PLT"   "PTT"   "INR"  
 [23] "RBC"   "ADR"   "Inj"   "IF"    "BMI"   "O2"    "BW"    "HEENT" "LAP"   "RL"    "CBC"  
@@ -1613,20 +1387,22 @@ NULL
 [56] "CHO"   "DM"    "AC"    "ID"    "DS"    "BK"    "ABO"   "OP"    "Exam"  "Gr"    "AF"   
 [67] "ED"    "PA"    "AP"    "NG"    "PET"   "MRI"   "MR"    "PE"    "Lab"   "TID"  
 
-[[14]]$`abbreviation(expand)`
+[[13]]$`abbreviation(expand)`
  [1] "history"         "biopsy"          "tumor"           "admission"       "unknown"        
  [6] "assessment"      "cardiovascular"  "lymphadenopathy" "without"         "blood"          
 [11] "antibody"        "negative"        "specimen"        "pneumothorax"    "normal"         
 [16] "bilateral"       "subcutaneous"    "catheter"        "diagnosis"       "symptoms"       
 [21] "discharge"      
 
-[[14]]$drugs
+[[13]]$drugs
 [1] "maxipime"  "cordarone" "ultracet"  "lanoxin"  
 
-[[14]]$disease
-NULL
+[[13]]$disease
+ [1] "[1]"              "[1]"              "Delirium"         "Emphysema"       
+ [5] "Hemothorax"       "Lung cancer"      "Pleural effusion" "Pneumothorax"    
+ [9] "Shock"            "Tachycardia"      "TEN"              "Thrush"          
 
-[[14]]$`disease(expand)`
+[[13]]$`disease(expand)`
   [1] "progressive"      "cough"            "illness"          "male"            
   [5] "right"            "lung"             "carcinoma"        "form"            
   [9] "mild"             "fever"            "with"             "body"            
@@ -1657,7 +1433,7 @@ NULL
 [109] "opacity"          "cystic"           "insertion"        "subcutaneous"    
 [113] "emphysema"        "wall"             "source"           "infection"       
 
-[[14]]$treatment
+[[13]]$treatment
   [1] "and"              "medical"          "for"              "of"              
   [5] "post"             "control"          "with"             "breathing"       
   [9] "body"             "weight"           "loss"             "in"              
@@ -1687,7 +1463,7 @@ NULL
 [105] "resection"        "diagnosis"        "infection"        "care"            
 [109] "plan"             "support"         
 
-[[14]]$symptoms
+[[13]]$symptoms
  [1] "and"          "cough"        "of"           "lung"         "carcinoma"    "status"      
  [7] "on"           "under"        "dry"          "fever"        "with"         "shortness"   
 [13] "body"         "weight"       "loss"         "in"           "nausea"       "to"          
@@ -1704,7 +1480,7 @@ NULL
 [79] "gas"          "sugar"        "sputum"       "yeast"        "acid"         "metallic"    
 [85] "increased"    "cystic"       "hot"          "nodes"        "infection"    "discharge"   
 
-[[14]]$all
+[[13]]$all
   [1] "and"              "medical"          "progressive"      "cough"           
   [5] "for"              "history"          "illness"          "male"            
   [9] "of"               "right"            "lung"             "carcinoma"       
@@ -1764,48 +1540,51 @@ NULL
 [225] "support"          "lanoxin"          "symptoms"         "discharge"       
 
 
+[[14]]
+[[14]]$abbreviation
+NULL
+
+[[14]]$`abbreviation(expand)`
+NULL
+
+[[14]]$drugs
+NULL
+
+[[14]]$disease
+NULL
+
+[[14]]$`disease(expand)`
+NULL
+
+[[14]]$treatment
+[1] "support"
+
+[[14]]$symptoms
+NULL
+
+[[14]]$all
+[1] "support"
+
+
 [[15]]
 [[15]]$abbreviation
-NULL
-
-[[15]]$`abbreviation(expand)`
-NULL
-
-[[15]]$drugs
-NULL
-
-[[15]]$disease
-NULL
-
-[[15]]$`disease(expand)`
-NULL
-
-[[15]]$treatment
-[1] "support"
-
-[[15]]$symptoms
-NULL
-
-[[15]]$all
-[1] "support"
-
-
-[[16]]
-[[16]]$abbreviation
  [1] "TB"     "on"     "GIB"    "BW"     "HbA1c"  "CABG"   "HLA"    "CXR"    "NG"     "IV"    
 [11] "PPI"    "NPO"    "CK"     "ECG"    "NSTEMI" "DAPT"   "CV"     "AFP"    "DNR"    "HBV"   
 [21] "MICU"   "ICU"    "VS"    
 
-[[16]]$`abbreviation(expand)`
+[[15]]$`abbreviation(expand)`
 [1] "tuberculosis" "disease"      "pneumonia"    "prognosis"   
 
-[[16]]$drugs
+[[15]]$drugs
 [1] "allopurinol" "fluconazole" "entecavir"   "diflucan"   
 
-[[16]]$disease
-NULL
+[[15]]$disease
+ [1] "[1]"                    "[1]"                    "Diabetes mellitus"     
+ [4] "Hepatic encephalopathy" "Hepatitis"              "Hepatitis B"           
+ [7] "Hepatorenal syndrome"   "Pneumonia"              "Sepsis"                
+[10] "Tachycardia"            "Tuberculosis"          
 
-[[16]]$`disease(expand)`
+[[15]]$`disease(expand)`
  [1] "acute"          "liver"          "failure"        "with"           "syndrome"      
  [6] "hepatic"        "encephalopathy" "hepatitis"      "related"        "drug"          
 [11] "induced"        "chronic"        "pulmonary"      "from"           "kidney"        
@@ -1816,7 +1595,7 @@ NULL
 [36] "contact"        "fever"          "edema"          "persistent"     "total"         
 [41] "terminal"       "withdrawal"     "during"        
 
-[[16]]$treatment
+[[15]]$treatment
  [1] "problems"      "liver"         "failure"       "with"          "and"          
  [6] "b"             "drug"          "tuberculosis"  "post"          "to"           
 [11] "kidney"        "disease"       "d"             "diabetes"      "mellitus"     
@@ -1828,7 +1607,7 @@ NULL
 [41] "the"           "care"          "withdrawal"    "support"       "during"       
 [46] "complete"      "questions"     "vs"           
 
-[[16]]$symptoms
+[[15]]$symptoms
  [1] "acute"       "liver"       "failure"     "with"        "syndrome"    "and"        
  [7] "hepatitis"   "chronic"     "pulmonary"   "status"      "from"        "to"         
 [13] "on"          "kidney"      "disease"     "dry"         "pneumonia"   "diabetes"   
@@ -1836,7 +1615,7 @@ NULL
 [25] "bleeding"    "contact"     "fever"       "elevated"    "low"         "poor"       
 [31] "of"          "viral"       "the"         "withdrawal"  "under"      
 
-[[16]]$all
+[[15]]$all
  [1] "problems"       "acute"          "liver"          "failure"        "with"          
  [6] "syndrome"       "and"            "hepatic"        "encephalopathy" "hepatitis"     
 [11] "b"              "related"        "drug"           "induced"        "chronic"       
@@ -1857,40 +1636,40 @@ NULL
 [86] "complete"       "questions"      "vs"            
 
 
-[[17]]
-[[17]]$abbreviation
+[[16]]
+[[16]]$abbreviation
 [1] "od"  "ETT" "Ag"  "on" 
 
-[[17]]$`abbreviation(expand)`
+[[16]]$`abbreviation(expand)`
 [1] "disease" "inhaled"
 
-[[17]]$drugs
+[[16]]$drugs
 [1] "zithromax"   "fluconazole"
 
-[[17]]$disease
-NULL
+[[16]]$disease
+[1] "Anemia"            "Bronchiectasis"    "Refractory anemia"
 
-[[17]]$`disease(expand)`
+[[16]]$`disease(expand)`
  [1] "female"        "respiratory"   "failure"       "with"          "obstructive"  
  [6] "airway"        "versus"        "host"          "lung"          "fever"        
 [11] "infection"     "syndrome"      "anemia"        "corneal"       "amniotic"     
 [16] "membrane"      "chronic"       "disease"       "bronchiolitis" "obliterans"   
 [21] "limited"      
 
-[[17]]$treatment
+[[16]]$treatment
  [1] "female"          "failure"         "post"            "intubation"      "support"        
  [6] "with"            "airway"          "graft"           "infection"       "to"             
 [11] "transplant"      "eye"             "amniotic"        "transplantation" "disease"        
 [16] "mechanical"      "the"             "ph"              "and"             "breathing"      
 [21] "of"              "function"       
 
-[[17]]$symptoms
+[[16]]$symptoms
  [1] "respiratory" "failure"     "status"      "under"       "with"        "lung"       
  [7] "fever"       "infection"   "to"          "syndrome"    "anemia"      "dry"        
 [13] "eye"         "chronic"     "disease"     "the"         "chlamydia"   "and"        
 [19] "of"          "on"         
 
-[[17]]$all
+[[16]]$all
  [1] "female"          "respiratory"     "failure"         "status"          "post"           
  [6] "intubation"      "under"           "support"         "with"            "obstructive"    
 [11] "airway"          "graft"           "versus"          "host"            "lung"           
@@ -1902,8 +1681,8 @@ NULL
 [41] "of"              "function"        "on"              "fluconazole"    
 
 
-[[18]]
-[[18]]$abbreviation
+[[17]]
+[[17]]$abbreviation
  [1] "FL"    "on"    "PT"    "RUQ"   "MRI"   "HBV"   "AFP"   "dl"    "PV"    "Lab"   "AST"  
 [12] "ALT"   "CAD"   "HTN"   "DM"    "PO"    "BMI"   "HEENT" "BW"    "kg"    "BP"    "ENT"  
 [23] "RL"    "BUN"   "CRE"   "Na"    "dL"    "Ca"    "CBC"   "PLT"   "WBC"   "RBC"   "HB"   
@@ -1912,21 +1691,27 @@ NULL
 [56] "OB"    "AP"    "LN"    "GU"    "LFT"   "RFT"   "Abd"   "AC"    "VT"    "RR"    "PIP"  
 [67] "MAP"   "VE"    "PEEP" 
 
-[[18]]$`abbreviation(expand)`
+[[17]]$`abbreviation(expand)`
  [1] "history"         "disease"         "chemotherapy"    "hypertension"    "biopsy"         
  [6] "tumor"           "injection"       "catheter"        "admission"       "blood"          
 [11] "assessment"      "headache"        "discharge"       "cardiovascular"  "conjunctiva"    
 [16] "lymphadenopathy" "abnormal"        "axillary"        "diagnosis"       "creatinine"     
 [21] "bilateral"       "lateral"         "anterior"       
 
-[[18]]$drugs
+[[17]]$drugs
 [1] "sorafenib"   "cisplatin"   "baraclude"   "inderal"     "entecavir"   "propranolol"
 [7] "albumin"    
 
-[[18]]$disease
-[1] "ascites"
+[[17]]$disease
+ [1] "[1]"                      "[1]"                      "Diabetes mellitus"       
+ [4] "Esophageal varices"       "Hearing impairment"       "Hepatitis"               
+ [7] "Hepatitis B"              "Hepatocellular carcinoma" "Hypersensitivity"        
+[10] "Hypertension"             "Liver cirrhosis"          "ascites"                 
+[13] "Portal vein thrombosis"   "Purpura"                  "Strabismus"              
+[16] "Syncope"                  "Telangiectasia"           "TEN"                     
+[19] "Tinnitus"                
 
-[[18]]$`disease(expand)`
+[[17]]$`disease(expand)`
   [1] "with"             "carcinoma"        "vein"             "thrombosis"      
   [5] "liver"            "cancer"           "oral"             "disease"         
   [9] "hepatic"          "arterial"         "cirrhosis"        "child"           
@@ -1963,7 +1748,7 @@ NULL
 [133] "lateral"          "shunt"            "recurrent"        "anterior"        
 [137] "phase"            "lung"             "pressure"        
 
-[[18]]$treatment
+[[17]]$treatment
   [1] "d"                "and"              "medical"          "with"            
   [5] "the"              "of"               "liver"            "cancer"          
   [9] "c"                "post"             "oral"             "disease"         
@@ -1995,7 +1780,7 @@ NULL
 [113] "treatment"        "breath"           "when"             "multiple"        
 [117] "shunt"            "vs"               "rt"               "pressure"        
 
-[[18]]$symptoms
+[[17]]$symptoms
   [1] "and"          "with"         "the"          "of"           "carcinoma"    "liver"       
   [7] "cancer"       "c"            "status"       "disease"      "in"           "on"          
  [13] "chronic"      "hepatitis"    "under"        "diabetes"     "from"         "abdominal"   
@@ -2015,7 +1800,7 @@ NULL
  [97] "hot"          "shortness"    "breath"       "hands"        "itch"         "sensation"   
 [103] "redness"      "multiple"     "enlarged"     "lung"         "swelling"     "pressure"    
 
-[[18]]$all
+[[17]]$all
   [1] "d"                "and"              "medical"          "with"            
   [5] "history"          "the"              "of"               "carcinoma"       
   [9] "vein"             "thrombosis"       "liver"            "cancer"          
@@ -2084,26 +1869,31 @@ NULL
 [261] "pressure"        
 
 
-[[19]]
-[[19]]$abbreviation
+[[18]]
+[[18]]$abbreviation
  [1] "on"    "IV"    "RA"    "RV"    "LVEF"  "od"    "MICU"  "AKI"   "IAI"   "CAP"   "CVVH" 
 [12] "TPN"   "VSD"   "ICH"   "CT"    "O2"    "CXR"   "NG"    "CR"    "NPO"   "IVF"   "RLL"  
 [23] "CVC"   "HEENT" "Abd"   "Ext"   "WBC"   "HB"    "dL"    "PLT"   "PH"    "HCO3"  "DNR"  
 [34] "BT"    "HD"    "BP"    "Cr"   
 
-[[19]]$`abbreviation(expand)`
+[[18]]$`abbreviation(expand)`
  [1] "ventilation"   "etiology"      "unknown"       "disease"       "creatinine"   
  [6] "hypertension"  "schizophrenia" "history"       "antibiotic"    "antibiotics"  
 [11] "seizure"       "amount"        "oxygen"        "hemoglobin"    "assessment"   
 [16] "normal"       
 
-[[19]]$drugs
+[[18]]$drugs
 [1] "phenytoin"   "ceftazidime" "insulin"    
 
-[[19]]$disease
-[1] "hyperuricemia"
+[[18]]$disease
+ [1] "Acute pancreatitis"        "Adrenal insufficiency"     "[1]"                      
+ [4] "[1]"                       "Diabetes mellitus"         "Hypertension"             
+ [7] "Hypoglycemia"              "Hypothermia"               "Metabolic acidosis"       
+[10] "Pulmonary hypertension"    "Pulmonic stenosis"         "Rhabdomyolysis"           
+[13] "Schizophrenia"             "Sepsis"                    "Septic shock"             
+[16] "Shock"                     "TEN"                       "Ventricular septal defect"
 
-[[19]]$`disease(expand)`
+[[18]]$`disease(expand)`
  [1] "acute"            "respiratory"      "failure"          "tube"            
  [5] "shock"            "pancreatitis"     "chronic"          "kidney"          
  [9] "disease"          "upper"            "gastrointestinal" "congenital"      
@@ -2122,7 +1912,7 @@ NULL
 [61] "soft"             "muscle"           "renal"            "insulin"         
 [65] "hypoglycemia"     "small"            "bowel"           
 
-[[19]]$treatment
+[[18]]$treatment
  [1] "the"              "a"                "of"               "failure"         
  [5] "post"             "endotracheal"     "tube"             "intubation"      
  [9] "and"              "mechanical"       "ventilation"      "kidney"          
@@ -2141,7 +1931,7 @@ NULL
 [61] "hb"               "ph"               "occult"           "function"        
 [65] "insulin"          "small"            "bowel"            "d"               
 
-[[19]]$symptoms
+[[18]]$symptoms
  [1] "the"           "of"            "acute"         "respiratory"   "failure"      
  [6] "status"        "and"           "pancreatitis"  "on"            "chronic"      
 [11] "kidney"        "disease"       "upper"         "bleeding"      "to"           
@@ -2154,7 +1944,7 @@ NULL
 [46] "or"            "muscle"        "pitting"       "insulin"       "hypoglycemia" 
 [51] "small"         "bowel"        
 
-[[19]]$all
+[[18]]$all
   [1] "the"              "a"                "of"               "acute"           
   [5] "respiratory"      "failure"          "status"           "post"            
   [9] "endotracheal"     "tube"             "intubation"       "and"             
@@ -2191,38 +1981,38 @@ NULL
 [133] "d"               
 
 
-[[20]]
-[[20]]$abbreviation
+[[19]]
+[[19]]$abbreviation
 [1] "GCS" "ETT" "VT"  "on"  "PIP"
 
-[[20]]$`abbreviation(expand)`
+[[19]]$`abbreviation(expand)`
 [1] "bilateral"   "anterior"    "lateral"     "fracture"    "admission"   "seizure"    
 [7] "prophylaxis"
 
-[[20]]$drugs
+[[19]]$drugs
 NULL
 
-[[20]]$disease
+[[19]]$disease
 NULL
 
-[[20]]$`disease(expand)`
+[[19]]$`disease(expand)`
  [1] "male"          "bilateral"     "intracerebral" "left"          "anterior"     
  [6] "temporal"      "lateral"       "lobe"          "herniation"    "skull"        
 [11] "fracture"      "scalp"         "with"          "reflex"        "cough"        
 [16] "tube"          "rupture"       "leak"          "tapered"       "from"         
 [21] "seizure"       "respiratory"   "failure"      
 
-[[20]]$treatment
+[[19]]$treatment
  [1] "a"         "left"      "temporal"  "and"       "lobe"      "treatment" "after"    
  [8] "in"        "with"      "the"       "of"        "breath"    "tube"      "to"       
 [15] "seizure"   "care"      "failure"   "plan"     
 
-[[20]]$symptoms
+[[19]]$symptoms
  [1] "hemorrhage"  "and"         "scalp"       "swelling"    "in"          "status"     
  [7] "with"        "the"         "of"          "breath"      "cough"       "to"         
 [13] "on"          "from"        "low"         "respiratory" "failure"    
 
-[[20]]$all
+[[19]]$all
  [1] "male"          "a"             "hemorrhage"    "bilateral"     "intracerebral"
  [6] "left"          "anterior"      "temporal"      "and"           "lateral"      
 [11] "lobe"          "herniation"    "skull"         "fracture"      "scalp"        
@@ -2234,58 +2024,58 @@ NULL
 [41] "plan"         
 
 
-[[21]]
-[[21]]$abbreviation
+[[20]]
+[[20]]$abbreviation
 [1] "PCV"
 
-[[21]]$`abbreviation(expand)`
+[[20]]$`abbreviation(expand)`
 [1] "seizure"
+
+[[20]]$drugs
+NULL
+
+[[20]]$disease
+NULL
+
+[[20]]$`disease(expand)`
+[1] "seizure"
+
+[[20]]$treatment
+[1] "support" "cons"    "seizure"
+
+[[20]]$symptoms
+NULL
+
+[[20]]$all
+[1] "support" "cons"    "seizure"
+
+
+[[21]]
+[[21]]$abbreviation
+[1] "DNR" "VS" 
+
+[[21]]$`abbreviation(expand)`
+NULL
 
 [[21]]$drugs
 NULL
 
 [[21]]$disease
-NULL
+[1] "Cardiac arrest"
 
 [[21]]$`disease(expand)`
-[1] "seizure"
-
-[[21]]$treatment
-[1] "support" "cons"    "seizure"
-
-[[21]]$symptoms
-NULL
-
-[[21]]$all
-[1] "support" "cons"    "seizure"
-
-
-[[22]]
-[[22]]$abbreviation
-[1] "DNR" "VS" 
-
-[[22]]$`abbreviation(expand)`
-NULL
-
-[[22]]$drugs
-NULL
-
-[[22]]$disease
-NULL
-
-[[22]]$`disease(expand)`
  [1] "central"        "diabetes"       "encephalopathy" "related"        "cardiac"       
  [6] "arrest"         "activity"       "with"           "return"         "severe"        
 [11] "terminal"       "combined"       "withdrawal"    
 
-[[22]]$treatment
+[[21]]$treatment
  [1] "diabetes"   "of"         "cardiac"    "electrical" "post"       "with"       "in"        
  [8] "aspiration" "a"          "care"       "withdrawal" "the"        "for"        "vs"        
 
-[[22]]$symptoms
+[[21]]$symptoms
 [1] "diabetes"   "of"         "status"     "with"       "in"         "withdrawal" "the"       
 
-[[22]]$all
+[[21]]$all
  [1] "central"        "diabetes"       "encephalopathy" "related"        "of"            
  [6] "cardiac"        "arrest"         "electrical"     "activity"       "status"        
 [11] "post"           "with"           "return"         "in"             "aspiration"    
@@ -2293,40 +2083,40 @@ NULL
 [21] "withdrawal"     "the"            "for"            "vs"            
 
 
-[[23]]
-[[23]]$abbreviation
+[[22]]
+[[22]]$abbreviation
  [1] "HCAP" "ETT"  "IV"   "on"   "VS"   "OPD"  "MICU" "ARDS" "COPD" "stat" "kg"   "SC"  
 
-[[23]]$`abbreviation(expand)`
+[[22]]$`abbreviation(expand)`
 [1] "pneumonia"   "unknown"     "disease"     "antibiotics" "atypical"   
 
-[[23]]$drugs
+[[22]]$drugs
 [1] "tamiflu"
 
-[[23]]$disease
-NULL
+[[22]]$disease
+[1] "[1]"       "[1]"       "Pneumonia" "Shock"    
 
-[[23]]$`disease(expand)`
+[[22]]$`disease(expand)`
  [1] "with"        "respiratory" "failure"     "shock"       "pneumonia"   "related"    
  [7] "squamous"    "cell"        "carcinoma"   "primary"     "origin"      "pulmonary"  
 [13] "brain"       "lymph"       "node"        "left"        "frontal"     "chronic"    
 [19] "obstructive" "disease"     "benign"      "hyperplasia" "paroxysmal"  "atrial"     
 [25] "acute"       "steroid"     "atypical"    "mixed"      
 
-[[23]]$treatment
+[[22]]$treatment
  [1] "the"        "a"          "of"         "problems"   "with"       "failure"    "cell"      
  [8] "brain"      "and"        "lymph"      "node"       "iv"         "left"       "disease"   
 [15] "vs"         "medication" "prostate"   "to"         "for"        "steroid"    "feeding"   
 [22] "treatment"  "plan"       "b"          "d"          "c"          "infusion"  
 
-[[23]]$symptoms
+[[22]]$symptoms
  [1] "the"         "of"          "with"        "respiratory" "failure"     "pneumonia"  
  [7] "squamous"    "cell"        "carcinoma"   "pulmonary"   "brain"       "and"        
 [13] "lymph"       "node"        "on"          "chronic"     "disease"     "under"      
 [19] "poor"        "benign"      "prostate"    "atrial"      "to"          "acute"      
 [25] "copd"        "sputum"      "c"          
 
-[[23]]$all
+[[22]]$all
  [1] "the"         "a"           "of"          "problems"    "with"        "respiratory"
  [7] "failure"     "shock"       "pneumonia"   "related"     "squamous"    "cell"       
 [13] "carcinoma"   "unknown"     "primary"     "origin"      "pulmonary"   "brain"      
@@ -2338,29 +2128,30 @@ NULL
 [49] "treatment"   "plan"        "b"           "d"           "c"           "infusion"   
 
 
-[[24]]
-[[24]]$abbreviation
+[[23]]
+[[23]]$abbreviation
  [1] "CT"  "NPO" "TPN" "on"  "BP"  "BS"  "Ext" "Lab" "ID"  "DS"  "dL"  "ALT" "CRE" "Na"  "Ca" 
 [16] "SCC" "CA"  "VRE" "RIA" "CEA" "GI"  "CVP" "IV"  "DNR"
 
-[[24]]$`abbreviation(expand)`
+[[23]]$`abbreviation(expand)`
 [1] "bilateral"    "extremities"  "blood"        "pneumonia"    "hypertension" "seizure"     
 [7] "prognosis"   
 
-[[24]]$drugs
+[[23]]$drugs
 [1] "keppra"
 
-[[24]]$disease
-NULL
+[[23]]$disease
+[1] "[1]"              "[1]"              "Diverticulitis"   "Parkinsonism"     "Pleural effusion"
+[6] "Pneumonia"       
 
-[[24]]$`disease(expand)`
+[[23]]$`disease(expand)`
  [1] "rupture"      "with"         "abscess"      "like"         "tube"         "pain"        
  [7] "bilateral"    "coarse"       "right"        "effusion"     "heart"        "cold"        
 [13] "extremities"  "blood"        "growth"       "impression"   "tract"        "cancer"      
 [19] "pneumonia"    "chronic"      "respiratory"  "failure"      "hypertension" "parkinsonism"
 [25] "contact"      "seizure"     
 
-[[24]]$treatment
+[[23]]$treatment
  [1] "the"          "with"         "ct"           "drainage"     "and"          "support"     
  [7] "to"           "a"            "tube"         "stool"        "score"        "chest"       
 [13] "of"           "heart"        "blood"        "after"        "alt"          "ca"          
@@ -2368,14 +2159,14 @@ NULL
 [25] "cancer"       "failure"      "tracheostomy" "care"         "iv"           "medications" 
 [31] "for"          "seizure"      "control"     
 
-[[24]]$symptoms
+[[23]]$symptoms
  [1] "the"            "with"           "drainage"       "and"            "to"            
  [6] "stool"          "on"             "pain"           "chest"          "of"            
 [11] "heart"          "cold"           "blood"          "diverticulitis" "high"          
 [16] "tract"          "or"             "cancer"         "pneumonia"      "chronic"       
 [21] "respiratory"    "failure"        "contact"       
 
-[[24]]$all
+[[23]]$all
  [1] "the"            "rupture"        "with"           "abscess"        "ct"            
  [6] "drainage"       "and"            "support"        "like"           "to"            
 [11] "a"              "tube"           "stool"          "on"             "pain"          
@@ -2390,56 +2181,56 @@ NULL
 [56] "prognosis"     
 
 
-[[25]]
-[[25]]$abbreviation
+[[24]]
+[[24]]$abbreviation
 [1] "on"   "AKI"  "CVVH"
 
-[[25]]$`abbreviation(expand)`
+[[24]]$`abbreviation(expand)`
 [1] "biopsy"
 
-[[25]]$drugs
+[[24]]$drugs
 [1] "maxipime"
 
-[[25]]$disease
-NULL
+[[24]]$disease
+[1] "Pleural effusion" "Shock"           
 
-[[25]]$`disease(expand)`
+[[24]]$`disease(expand)`
 [1] "effusion" "lung"     "with"     "brain"    "right"    "failure"  "shock"    "liver"   
 
-[[25]]$treatment
+[[24]]$treatment
 [1] "ca"      "with"    "brain"   "biopsy"  "failure" "liver"   "for"     "support"
 
-[[25]]$symptoms
+[[24]]$symptoms
 [1] "lung"    "with"    "brain"   "mass"    "failure" "on"      "liver"  
 
-[[25]]$all
+[[24]]$all
  [1] "effusion" "lung"     "ca"       "with"     "brain"    "right"    "mass"     "biopsy"  
  [9] "failure"  "shock"    "on"       "liver"    "for"      "support"  "maxipime"
 
 
-[[26]]
-[[26]]$abbreviation
+[[25]]
+[[25]]$abbreviation
  [1] "GI"   "Hb"   "DIC"  "FFP"  "on"   "PTA"  "AKI"  "AK"   "HB"   "dL"   "WBC"  "PLT"  "PT"  
 [14] "INR"  "FDP"  "CRE"  "Na"   "CXR"  "HD"   "CVA"  "DM"   "PAOD" "BP"   "Lab"  "AST"  "ALT" 
 [27] "DNR" 
 
-[[26]]$`abbreviation(expand)`
+[[25]]$`abbreviation(expand)`
 [1] "blood"      "assessment" "biopsy"     "dressing"   "pneumonia"  "bilateral"  "symptoms"  
 
-[[26]]$drugs
+[[25]]$drugs
 NULL
 
-[[26]]$disease
-NULL
+[[25]]$disease
+[1] "[1]"       "[1]"       "Colitis"   "Dementia"  "Pneumonia"
 
-[[26]]$`disease(expand)`
+[[25]]$`disease(expand)`
  [1] "during"       "blood"        "positive"     "platelet"     "renal"        "medium"      
  [7] "cyst"         "complex"      "right"        "colon"        "chronic"      "colitis"     
 [13] "fibrinogen"   "fever"        "atrial"       "fibrillation" "dementia"     "pneumonia"   
 [19] "inferior"     "rectal"       "artery"       "bilateral"    "amputation"   "pressure"    
 [25] "pain"         "combined"     "contact"     
 
-[[26]]$treatment
+[[25]]$treatment
  [1] "of"           "gi"           "after"        "hb"           "during"       "blood"       
  [7] "sampling"     "and"          "platelet"     "treatment"    "plan"         "to"          
 [13] "hemodialysis" "function"     "d"            "echo"         "colon"        "biopsy"      
@@ -2448,14 +2239,14 @@ NULL
 [31] "pressure"     "score"        "ast"          "alt"          "a"            "care"        
 [37] "support"      "your"         "problems"    
 
-[[26]]$symptoms
+[[25]]$symptoms
  [1] "of"           "bleeding"     "low"          "blood"        "and"          "on"          
  [7] "to"           "under"        "cyst"         "colon"        "chronic"      "colitis"     
 [13] "fever"        "wet"          "atrial"       "fibrillation" "pneumonia"    "bloody"      
 [19] "stool"        "status"       "rectal"       "knee"         "pressure"     "sore"        
 [25] "pain"         "contact"     
 
-[[26]]$all
+[[25]]$all
  [1] "of"           "gi"           "bleeding"     "after"        "low"          "hb"          
  [7] "during"       "blood"        "sampling"     "and"          "positive"     "platelet"    
 [13] "on"           "treatment"    "plan"         "to"           "hemodialysis" "assessment"  
@@ -2470,31 +2261,31 @@ NULL
 [67] "combined"     "your"         "contact"      "problems"    
 
 
-[[27]]
+[[26]]
 NULL
 
-[[28]]
-[[28]]$abbreviation
+[[27]]
+[[27]]$abbreviation
  [1] "HTN"    "WNL"    "CV"     "PAOD"   "BP"     "HD"     "D5"     "IV"     "on"     "ED"    
 [11] "TPR"    "ID"     "RLL"    "VS"     "CAD"    "BMT"    "LCX"    "LAD"    "NSTEMI" "PTA"   
 [21] "ESRD"   "DM"     "ANA"    "EKG"    "BUN"    "CT"     "DNR"    "ST"     "PCI"    "NTG"   
 [31] "ACS"    "LVEF"   "SC"     "CXR"    "CP"     "Lab"    "PH"     "HCO3"   "WBC"    "HB"    
 [41] "dL"     "PLT"    "AST"    "ALT"    "CRE"    "Na"     "Ca"     "Mg"    
 
-[[28]]$`abbreviation(expand)`
+[[27]]$`abbreviation(expand)`
  [1] "admission"         "antibiotic"        "pneumonia"         "disease"          
  [5] "antibiotics"       "blood"             "electrocardiogram" "assessment"       
  [9] "bilateral"         "dressing"          "diagnosis"         "history"          
 [13] "without"           "complication"      "oxygen"           
 
-[[28]]$drugs
+[[27]]$drugs
 [1] "ceftazidime"        "meropenem"          "hydroxychloroquine" "prednisolone"      
 [5] "gabapentin"         "ismo"              
 
-[[28]]$disease
-NULL
+[[27]]$disease
+[1] "[1]"        "[1]"        "Hemiplegia" "Pneumonia" 
 
-[[28]]$`disease(expand)`
+[[27]]$`disease(expand)`
  [1] "fever"         "drug"          "hypotension"   "intermittent"  "cardiac"      
  [6] "enzymes"       "right"         "foot"          "with"          "weight"       
 [11] "respiratory"   "tract"         "infection"     "pneumonia"     "disease"      
@@ -2508,7 +2299,7 @@ NULL
 [51] "combined"      "depression"    "angina"        "pulmonary"     "edema"        
 [56] "symptom"       "regional"      "wall"          "abnormalities" "hand"         
 
-[[28]]$treatment
+[[27]]$treatment
  [1] "drug"              "for"               "chest"             "cardiac"          
  [5] "enzymes"           "after"             "hemodialysis"      "with"             
  [9] "to"                "weight"            "complete"          "iv"               
@@ -2528,7 +2319,7 @@ NULL
 [65] "wbc"               "hb"                "ast"               "alt"              
 [69] "ca"                "response"          "control"          
 
-[[28]]$symptoms
+[[27]]$symptoms
  [1] "fever"       "chest"       "foot"        "with"        "to"          "dry"        
  [7] "weight"      "respiratory" "tract"       "infection"   "of"          "the"        
 [13] "pneumonia"   "infectious"  "disease"     "from"        "and"         "pain"       
@@ -2539,7 +2330,7 @@ NULL
 [43] "increased"   "brain"       "hemorrhage"  "depression"  "pulmonary"   "or"         
 [49] "hand"       
 
-[[28]]$all
+[[27]]$all
   [1] "fever"              "drug"               "for"                "hypotension"       
   [5] "intermittent"       "chest"              "cardiac"            "enzymes"           
   [9] "right"              "foot"               "after"              "hemodialysis"      
@@ -2578,21 +2369,22 @@ NULL
 [141] "control"           
 
 
-[[29]]
-[[29]]$abbreviation
+[[28]]
+[[28]]$abbreviation
  [1] "PO"   "DM"   "TID"  "MICU" "BP"   "ECMO" "PTU"  "CV"   "IV"   "GI"  
 
-[[29]]$`abbreviation(expand)`
+[[28]]$`abbreviation(expand)`
 [1] "pneumonia"    "without"      "anterior"     "hypertension" "antibiotics"  "prognosis"   
 [7] "antibiotic"  
 
-[[29]]$drugs
+[[28]]$drugs
 [1] "norvasc"   "aspirin"   "tamiflu"   "xylocaine" "heparin"  
 
-[[29]]$disease
-NULL
+[[28]]$disease
+[1] "[1]"               "Aortic dissection" "[1]"               "Hypertension"     
+[5] "Influenza"         "Pneumonia"         "Thrombocytopenia" 
 
-[[29]]$`disease(expand)`
+[[28]]$`disease(expand)`
  [1] "acquired"         "pneumonia"        "secondary"        "infection"       
  [5] "primary"          "influenza"        "aortic"           "dissection"      
  [9] "type"             "without"          "regurgitation"    "mitral"          
@@ -2603,7 +2395,7 @@ NULL
 [29] "intermittent"     "liver"            "lung"             "induced"         
 [33] "thrombocytopenia" "deterioration"   
 
-[[29]]$treatment
+[[28]]$treatment
  [1] "the"         "a"           "of"          "infection"   "after"       "influenza"  
  [7] "aortic"      "medical"     "treatment"   "without"     "valve"       "tricuspid"  
 [13] "pulmonic"    "to"          "and"         "with"        "failure"     "rapid"      
@@ -2611,13 +2403,13 @@ NULL
 [25] "feeding"     "high"        "plan"        "for"         "lower"       "iv"         
 [31] "support"     "gi"          "liver"       "breathing"   "care"        "in"         
 
-[[29]]$symptoms
+[[28]]$symptoms
  [1] "the"         "of"          "pneumonia"   "infection"   "influenza"   "to"         
  [7] "under"       "and"         "atrial"      "with"        "acute"       "respiratory"
 [13] "failure"     "decreased"   "fever"       "high"        "liver"       "nutrition"  
 [19] "lung"        "increased"   "in"         
 
-[[29]]$all
+[[28]]$all
  [1] "the"              "a"                "of"               "acquired"        
  [5] "pneumonia"        "secondary"        "infection"        "after"           
  [9] "primary"          "influenza"        "aortic"           "dissection"      
@@ -2638,36 +2430,36 @@ NULL
 [69] "deterioration"    "in"               "antibiotic"      
 
 
-[[30]]
-[[30]]$abbreviation
+[[29]]
+[[29]]$abbreviation
  [1] "on"  "TPN" "PE"  "CT"  "Lab" "HB"  "dL"  "WBC" "PLT" "AST" "GGT" "Na" 
 
-[[30]]$`abbreviation(expand)`
+[[29]]$`abbreviation(expand)`
 [1] "admission"       "assessment"      "lymphadenopathy" "amount"         
 
-[[30]]$drugs
+[[29]]$drugs
 [1] "nexium"
 
-[[30]]$disease
-NULL
+[[29]]$disease
+[1] "Anemia"
 
-[[30]]$`disease(expand)`
+[[29]]$`disease(expand)`
  [1] "anemia"          "oral"            "terminal"        "with"            "gastric"        
  [6] "cancer"          "abdominal"       "lymphadenopathy" "liver"           "right"          
 [11] "adrenal"         "biliary"         "dilatation"      "activity"       
 
-[[30]]$treatment
+[[29]]$treatment
  [1] "of"        "after"     "and"       "oral"      "with"      "care"      "home"     
  [8] "for"       "c"         "a"         "ct"        "gastric"   "cancer"    "abdominal"
 [15] "liver"     "biliary"   "hb"        "wbc"       "ast"       "plan"      "drainage" 
 [22] "to"        "physical" 
 
-[[30]]$symptoms
+[[29]]$symptoms
  [1] "of"        "and"       "on"        "anemia"    "status"    "with"      "poor"     
  [8] "sclera"    "c"         "cancer"    "enlarged"  "abdominal" "liver"     "drainage" 
 [15] "to"       
 
-[[30]]$all
+[[29]]$all
  [1] "of"              "after"           "admission"       "and"             "on"             
  [6] "anemia"          "oral"            "nexium"          "terminal"        "status"         
 [11] "with"            "care"            "home"            "for"             "poor"           
@@ -2678,76 +2470,102 @@ NULL
 [36] "amount"          "to"              "physical"        "activity"       
 
 
-[[31]]
-[[31]]$abbreviation
+[[30]]
+[[30]]$abbreviation
  [1] "CAD"  "CABG" "DM"   "HTN"  "CKD"  "AED"  "CPCR" "ER"   "ROSC" "CCU"  "IF"   "EEG" 
 
-[[31]]$`abbreviation(expand)`
+[[30]]$`abbreviation(expand)`
 [1] "transfer"
 
-[[31]]$drugs
+[[30]]$drugs
 NULL
 
-[[31]]$disease
-NULL
+[[30]]$disease
+[1] "Epilepsy"    "Hypothermia"
 
-[[31]]$`disease(expand)`
+[[30]]$`disease(expand)`
 [1] "epilepsy"      "with"          "transfer"      "hypothermia"   "hypotension"  
 [6] "hypernatremia"
 
-[[31]]$treatment
+[[30]]$treatment
  [1] "of"       "cabg"     "epilepsy" "with"     "home"     "rhythm"   "to"       "for"     
  [9] "therapy"  "when"     "eeg"      "elevated" "care"    
 
-[[31]]$symptoms
+[[30]]$symptoms
 [1] "of"          "with"        "to"          "hypothermia" "diarrhea"    "elevated"   
 
-[[31]]$all
+[[30]]$all
  [1] "of"            "cabg"          "epilepsy"      "with"          "home"         
  [6] "rhythm"        "transfer"      "to"            "for"           "hypothermia"  
 [11] "therapy"       "hypotension"   "when"          "eeg"           "diarrhea"     
 [16] "elevated"      "hypernatremia" "care"         
 
 
+[[31]]
+NULL
+
 [[32]]
 NULL
 
 [[33]]
-NULL
-
-[[34]]
-[[34]]$abbreviation
+[[33]]$abbreviation
 [1] "NP"  "VS"  "CBC" "CTA" "GI"  "IV"  "IF"  "Hb"  "dl" 
 
-[[34]]$`abbreviation(expand)`
+[[33]]$`abbreviation(expand)`
 [1] "blood"      "internal"   "antibiotic" "without"   
 
-[[34]]$drugs
+[[33]]$drugs
 [1] "nexium"        "ceftazidime"   "meropenem"     "metronidazole"
 
-[[34]]$disease
-NULL
+[[33]]$disease
+[1] "[1]" "[1]"
 
-[[34]]$`disease(expand)`
+[[33]]$`disease(expand)`
 [1] "primary"     "blood"       "transfusion" "lower"       "fever"       "from"       
 [7] "without"    
 
-[[34]]$treatment
+[[33]]$treatment
  [1] "a"           "and"         "vs"          "stool"       "cbc"         "blood"      
  [7] "transfusion" "gi"          "for"         "or"          "lower"       "iv"         
 [13] "to"          "in"          "first"       "hb"          "without"    
 
-[[34]]$symptoms
+[[33]]$symptoms
  [1] "and"      "bloody"   "stool"    "blood"    "bleeding" "or"       "fever"    "from"    
  [9] "to"       "in"      
 
-[[34]]$all
+[[33]]$all
  [1] "a"             "and"           "primary"       "vs"            "bloody"       
  [6] "stool"         "cbc"           "blood"         "transfusion"   "nexium"       
 [11] "gi"            "for"           "internal"      "bleeding"      "or"           
 [16] "lower"         "fever"         "antibiotic"    "from"          "ceftazidime"  
 [21] "iv"            "to"            "meropenem"     "metronidazole" "in"           
 [26] "first"         "hb"            "without"      
+
+
+[[34]]
+[[34]]$abbreviation
+NULL
+
+[[34]]$`abbreviation(expand)`
+NULL
+
+[[34]]$drugs
+NULL
+
+[[34]]$disease
+NULL
+
+[[34]]$`disease(expand)`
+NULL
+
+[[34]]$treatment
+[1] "a" "c"
+
+[[34]]$symptoms
+[1] "c"
+
+[[34]]$all
+[1] "a" "c"
 
 
 [[35]]
@@ -2767,55 +2585,30 @@ NULL
 NULL
 
 [[35]]$treatment
-[1] "a" "c"
+NULL
 
 [[35]]$symptoms
-[1] "c"
+NULL
 
 [[35]]$all
-[1] "a" "c"
+NULL
 
 
 [[36]]
 [[36]]$abbreviation
-NULL
-
-[[36]]$`abbreviation(expand)`
-NULL
-
-[[36]]$drugs
-NULL
-
-[[36]]$disease
-NULL
-
-[[36]]$`disease(expand)`
-NULL
-
-[[36]]$treatment
-NULL
-
-[[36]]$symptoms
-NULL
-
-[[36]]$all
-NULL
-
-
-[[37]]
-[[37]]$abbreviation
  [1] "on"   "HBV"  "ROSC" "CPR"  "CPCR" "CT"   "BIS"  "EEG"  "CXR"  "GCS"  "BP"   "DNR" 
 
-[[37]]$`abbreviation(expand)`
+[[36]]$`abbreviation(expand)`
 [1] "chemotherapy" "admission"    "ventilation"  "seizure"      "negative"     "bilateral"   
 
-[[37]]$drugs
+[[36]]$drugs
 [1] "xeloda"    "baraclude"
 
-[[37]]$disease
-NULL
+[[36]]$disease
+[1] "[1]"              "[1]"              "Cardiac arrest"   "Hypothermia"      "Pleural effusion"
+[6] "Shock"           
 
-[[37]]$`disease(expand)`
+[[36]]$`disease(expand)`
  [1] "female"         "transverse"     "colon"          "adenocarcinoma" "left"          
  [6] "with"           "lung"           "liver"          "related"        "malignant"     
 [11] "effusion"       "thyroid"        "carcinoma"      "right"          "oral"          
@@ -2824,7 +2617,7 @@ NULL
 [26] "reflex"         "negative"       "bilateral"      "system"         "cancer"        
 [31] "terminal"       "cardiac"        "arrest"        
 
-[[37]]$treatment
+[[36]]$treatment
  [1] "the"          "female"       "of"           "colon"        "post"         "left"        
  [7] "with"         "and"          "liver"        "chemotherapy" "thyroid"      "oral"        
 [13] "to"           "problems"     "after"        "endotracheal" "tube"         "mechanical"  
@@ -2832,13 +2625,13 @@ NULL
 [25] "seizure"      "brain"        "stem"         "eeg"          "morning"      "in"          
 [31] "support"      "cancer"       "care"         "cardiac"     
 
-[[37]]$symptoms
+[[36]]$symptoms
  [1] "the"         "of"          "colon"       "status"      "on"          "with"       
  [7] "lung"        "and"         "liver"       "carcinoma"   "under"       "from"       
 [13] "to"          "hypothermia" "chest"       "brain"       "morning"     "in"         
 [19] "cancer"     
 
-[[37]]$all
+[[36]]$all
  [1] "the"            "female"         "of"             "transverse"     "colon"         
  [6] "adenocarcinoma" "status"         "post"           "left"           "on"            
 [11] "with"           "lung"           "and"            "liver"          "chemotherapy"  
