@@ -130,7 +130,7 @@ View(dis)
 strsplit()
 disword <- sapply(dis, function(x){strsplit(x," ")}) %>% unlist %>% unique() %>% tolower()
 
-dfdis <- DF[which(DF$.rownames %in% disword),]
+
 write.csv(dfdis, "dfdis.csv")
 
 #症狀名
@@ -187,6 +187,34 @@ DF <- tidy(tf) %>% as.data.frame()
 dfdrugs2 <- DF[which(DF$.rownames %in% drugs),]
 dfdrugs2 <- dfdrugs2[!(dfdrugs2$.rownames %in% stopwords("en")),]
 write.csv(dfdrugs2, "dfdrugs2.csv")
+
+
+###分析
+all.data <- dfdrugs2
+all.data <- all.data[,-1]
+all.data[all.data>0] <- 1
+all.data <- unique(all.data)
+rownames(all.data) <- all.data$.rownames
+
+
+
+vis <- function(x,y,center,min){
+  
+  sel <- all.data[-1]
+  sel <- sel[  , which(colnames(sel) %in% x)] 
+  sel[sel>0]<-1
+  sel <- sel[rowSums(sel)>=min,]
+  sel <- sel[,colSums(sel)>0]
+  set.seed(20)
+  km <- kmeans(sel, centers = center, nstart = 5)
+  
+  
+  return(ggplotly(fviz_cluster(km, data = sel, main = y)))
+}
+
+vis(c2, "disease & drug cluster, 119 patients, <22days",5,2)
+
+
 
 
 
