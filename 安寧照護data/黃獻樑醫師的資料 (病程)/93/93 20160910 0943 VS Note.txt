@@ -1,0 +1,29 @@
+# UTI and pneumonia
+# Septic shock.
+2016/09/10 09:14 BP:113/55
+2016/09/10 09:14 SpO2:98%(%,5L,VCR)
+2016/09/10 09:13 T:36.6 P:80 R:24
+
+2016/09/10
+Sugar(One touch):144 *
+
+2016/09/09
+ID+DS Blood.#1:Gram neg. bacillus *
+ID+DS Blood.#2:Gram pos. coccus *
+ID+DS Blood.#1:Gram neg. bacillus *
+ID+DS Blood.#2:Gram pos. coccus *
+
+2016/09/09
+T-BIL:0.79 mg/dL
+ALT:59 U/L
+UN:29.9 mg/dL
+CRE:0.4 mg/dL
+eGFR:214.8 mL/min/1.73 m^2
+Na:150 mmol/L
+K:3.5 mmol/L
+hsCRP:28.33 mg/dL
+Multiple pathogen in blood culture
+r/o CRBSI.
+high CRP.
+Abx treatment.
+still NE dependent.

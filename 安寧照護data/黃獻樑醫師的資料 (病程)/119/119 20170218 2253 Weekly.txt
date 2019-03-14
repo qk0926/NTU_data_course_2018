@@ -1,0 +1,91 @@
+Brief Summary of this week    
+We kept chest tubes drainage after the VATs decortication. The colour of the pleural fluid was yellowish-reddish, the amount was about 100ml daily. The pus culture sent on 1/31 grew MDRAB and MRSA again. Tienam was added, combing with colistin and Vancomycin for empyema treatment. There were two chest tubes for pus drainage, which were inserted during VATS decortication. The posterior one was removed since it was out of function.  
+
+The patient had breakthrough fever under Colistin, Tienam and Vancomycin. The right pleural fluid was sent for culture again, which still yielded MRSA and MDRAB. Vancomycin was changed to Zyvox for poor treatment response. In addition, the sputum culture grew Ralstonia mannitolilytica, so Cravit was added. The patient had progressive lactic acidosis, and infection related was considered. Due to instable vital signs and fluid retention, continuous renal replacement therapy was used during 2017/2/5-2/8. Vancomycin was changed to Linezolid for better treatment effect. The metabolic disturbance was corrected, and the body weight returned to 72 kilograms after fluid elimination. Intermittent hemodialysis was resumed since 2017/2/10. Besides, Linezolid was swtiched to Vancomycin again on 2/12 because of thrombocytopenia. Fosfomycin was added on 2/13 for combination theerapy. 
+
+The patient's blood pressure was fluctuating during hemodialysis. The adrenal function was checked, which showed ACTH 20.5, cortisol 9.76 at 03:30am. Therefore, solu-cortef 50mg twice daily was prescribed relative adrenal insufficiency. The inotropics was tappered off successfully under the steroid.
+
+The patient's digestion function was poor. A NJ tube was inserted. The feed amount was increased gradually latter.  
+
+The patient had tachypnea, atrial fibrillation with rapid ventricular response, lactic acidosis and hypotension again on 2/16. Additional renal replacement thearpy(SLED) was arranged to eliminate the lactic acid. The condition improved for a while. However, he had fever again on 2/18. The color of the chest tube drainage turned to yellowish-whitish again. Vancomycin was changed to Linezolid again on 2/18 for poor infection control. Chest surgeons will be consulted on the next week for VATS decortication again. 
+
+
+PAP1
+
+Assessment 
+[Abx]
+Tienam       (02/03-) for MDRAB empyema
+Colistin IV  (01/10-) for MDRAB
+Colistin IH  (01/15-) for MDRAB pneumonia
+Cravit       (02/09-) for breakthrough fever, S/C Ralstonia
+Fosfomycin   (02/13-) combine therapy for MRSA empyema 
+Zyvox        (2/18-)  infection progress under Vancomycin
+-----------------------------------------------------------
+Zyvox        (02/05-) for new onset fever, MRSA empyema
+Vancomycin   (02/13-2/18) thromcytopenia under Zyvox
+
+[PE]
+E2VTM1, pupil 4+/4+
+bil. coarse breath sounds, persistent crackles over Rt lung
+Right chest tube air leak(+)
+dependent part edema improved
+normoactive bowel sounds, but easy milk-regurgitation
+
+[Ventilation]
+PSV, IP 10, PEEP 6, FiO2 40%
+-> RR 17, Vt 670, MV 12.0, SpO2 100%
+
+[Nutrition]
+1000cc/1000kcal, 葡勝納嚴選
+
+[Studies]
+01/06 CT: bialateral pneumonia with fibrosis and severe calcification; Brain CT revealed no hemorrhage
+01/10 no response to Flumazenil test
+01/12 CT: bilateral lower lung lesions; no significant findings in abdomen and pelvis.
+01/13 lumbar puncture: WBC 0, GLU 137; TP 49.3; IgG <0.34
+01/16 Chest X-ray: right side pneumothorax
+01/17 Chest X-ray: well lung expansion under chest tube drainage
+01/17 EEG:severe diffuse cortical dysfunction
+01/18 consult neurologist: may arrange perfusion CT
+01/23 Perfusion CT: No obvious lesions in brain
+01/24 Chest CT: right side empyema and pneumothorax
+01/31 bedside IVC: 1.6cm
+02/03 ECG: VPC bigeminy/trigeminy, QT prolong (QTc~550ms)
+02/05 ABG: progressive metabolic acidosis
+      ECG: Afib and VPCs, QTc 400ms
+02/06 3:30AM ACTH 20.5, cortisol 9.76 -> relative adrenal insufficiency
+02/11 bedside echo: Rt hydropneumothorax, seemed no loculated pneumothorax in RUL
+
+[Decisions]
+**家屬簽立DNR,但仍希望積極處理
+
+Plan 
+1. For MDRAB + MRSA Empyema
+ - Change Zyvox to Vanco because of thrombocytopenia
+ - Add Fosfomycin for combination treatment
+ - Keep Colistin + Tienam
+ - Keep Cravit for the Ralstonia mannitolytica yielded from sputum
+ - Keep chest tube drainage with 2-bottle system
+ - Consider fibrinolysis if poor drainage effect
+ - add Echinocandin for C. glabrata if fever
+2. for Afib
+ - keep Rytmonorm and Cordarone, keep electrolyte balanced
+3. For ESRD
+ - keep HD QW135, Albumin supplement, set dry weight 72kg
+4. Increase the amount of oral intake
+5. Self-paid EPO supplement, keep Hb~10
+6. Try whole day O2 collar
+7. CT on 2/16
+   If the viseral pleural is attach to the chest wall, remove the chest tube after infection control, otherwise consider pleurodesis before chest tube removal
+
+PAP2
+
+Assessment 
+[Consultation]
+01/12 Rheumatologist: suggested keep infection under control, check anti-CCP, electrophoresis, Plaquenil 1# QD
+01/18 Neurologist: suggested correct all metabolic factor, perform perfusion CT if possible
+01/23 Hospice combine care: for introduction and withdrawl
+01/25 Chest surgeon Dr.陳克誠: VATS decortication ,pneumothorax repair and tracheostomy were indicated and would arrange operation after INR was corrected below 1.5
+02/05 ID: Tigecycline replacing Vancomycin may be considered if refractory shock (MDRAB + MRSA empyema), but contraindicated if bacteremia; replace Vancomycin with Zyvox also suitable
+02/13 Radiologist: NJ will be performed on 2/14 on call
+02/14 ID: ID: C. glabrata perhaps just colonized on the chest tube. If we want to confirm that it was a true pathogen, thoracocentesis was needed. Or we could add Echinocandin in the next fever episode

@@ -1,0 +1,40 @@
+[Assessment]
+2017-07-12: a 59 years old man was a case of 1. Out-hospital cardiac arrest, suspect brain tumor or sepsis related, s/p CPR 33mins, with ROSC, 2. Community-acquired pneumonia, bilateral lung, with septic shock, 3. Abnormal liver function, hepacellular type, suspect shock liver, 4. Acute kidney injury, KDIGO stage 2, suspect CPR related, and 5. Non small cell lung cancer, adenocarcinoma, T3N2M1b, EGFR wild type, with brain metastasis status post brain stereotactic radiosurgery (SRS)(30Gy/5fx, 2016/12/15~2016/12/21), status post cisplatin + Alimta (VI)(2016/12/31-2017/04/19), status post maintainence Alimta (I)(2017/05/10), disease progression with new liver metastasis and prominent brain metastasis with perifocal edema, status post erlotinib (2017/05/22-2017/06/12), weekly paclitaxel(I)=2017/06/14
+
+ECOG:4
+Consciousness: comatous
+Vital signs:
+2017/07/11 12:00 T:36.1 P:85 R:20
+2017/07/11 12:00 BP:97/66
+2017/07/11 12:00 SpO2:100%(%,L,)
+No  pupil light reflex, no spontaneous respiration,remained on full vent support
+
+[訪視摘要]
+會談對象:配偶
+1. 病情認知及調適評估
+配偶陳述陪伴病人治療歷程及此次事發經過，表示當天病人出現大小便失禁數次後開始呼吸喘，最後突然緊抓胸口就昏厥過去，119於電話中指導開始CPR及至救護人員到現場持續CPR後到院。配偶描述過程情緒平穩，表示知道病人到院前已死亡，現在都是靠機器維生。
+2. 了解後續醫療照顧方向
+配偶表示子女白天需工作，今晚會聚集討論病人後續醫療照顧共識故不會到院
+，預計若得知腦波檢查無反應，會決定執行撤除維生醫療。
+3. 提供緩和照顧說明
+配偶原誤以為安寧共照維提供安寧病房轉介，予以澄清說明，依病人個別性提供所需相關照顧服務。
+4. 善終準備關懷
+配偶已開始準備撤除維生醫療後臨終照顧相關事宜，包括臨終更換衣物。表示子女也會於今晚一併討論後事準備。
+
+[Plan]
+1. 撤除維生醫療前準備建議:
+1) 召開家庭會議與親屬討論及說明撤除維生醫療
+2) 告知終止或撤除心肺復甦術或維生醫療之目標，是讓病人不再受無謂的痛苦。所以在終止或撤除後，病人會依自然病程演進，存活時間隨病情而有不同。
+3) 告知終止或撤除心肺復甦術或維生醫療後，病人生理上可能出現的反應及施行的緩和照護與處置。                                       。
+4) 告知照護之目的在於追求病人的舒適與尊嚴。
+5) 確定已取得末期病人之最近親屬一人簽署「不施行心肺復甦術或維生醫療同意書」以及「末期病人終止或撤除維生醫療說明暨同意書」。
+6) 醫師已開立「末期且不施行心肺復甦術」之醫囑，完成電子病歷註記。
+2. 撤除維生醫療執行建議:
+1) 確認已記錄病人生命末期，以及將終止或撤除心肺復甦術或維生醫療。
+2) 暫停餵食或減少人工輸液。
+3) 給予適當鎮靜劑，止痛:疼痛與呼吸窘迫時，可考慮用Morphine 0.05-0.1 mg/kg IV/SC stat, then 0.05-0.1 mg/kg/hr. 
+4) 撤除氣管內管前30分鐘：預防死前喉鳴可使用Scopolamine 20mg IV stat
+，預防拔管後哮鳴可使用Hydrocortisone 100mg IV stat
+5) 適當的給予家屬陪伴病人的空間及時間、哀傷輔導。
+
+原團隊共同照護成員:護理師江玉婷

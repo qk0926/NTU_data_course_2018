@@ -1,0 +1,22 @@
+[Assessment]
+ECOG:4
+Consciousness:stupor
+Vital signs:
+2016/08/31 08:59 T:36.4 P:81 R:19
+2016/08/31 08:59 BP:124/62
+2016/08/31 08:00 SpO2:99%(35%,8L,Mask)
+2016/08/31 09:27 Pain score:0
+
+[訪視摘要]
+會談對象:長子
+訪視時多位親友輪流探視，鼓勵引導家屬雖病人無法回應對答，但仍可向病人表達想說的話。長子表示在病人意識較差時對於決定撤除維生醫療似乎相較較為容易，但後來病人有眼神接觸反應再做此決定就有些許掙扎。
+予肯定家屬緩和醫療決策，並引導了解移除維生醫療是讓病人回復自然病程，為減輕末期病人痛苦之延長，並非加速死亡。觀察目前病人表情平靜、無不適，家屬同意後續照顧以減緩身心不適為照護目標，瞭解共照團隊提供全人、全家照護服務，提供若有需求可聯繫共照團隊。
+
+[Plan]
+1. Introduce hospice care to the family.
+2. Please provide psychospiritual support to family.
+3. Treat current condition as your expertise.
+
+原團隊共同照護成員:護理師 王姿萍
+
+安寧共照N2謝慧貞

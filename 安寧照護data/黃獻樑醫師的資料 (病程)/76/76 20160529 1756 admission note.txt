@@ -1,0 +1,224 @@
+2016/05/29 17:56 
+主訴(Chief Complaint) 
+Informant:patient, family and chart
+Sudden onset severe headache since this morning 
+病史(Brief History) 
+This 56-year-old woman has history of:
+1. Left posterior communicating artery aneurysm rupture with subarachnoid hemorrhage, status post pterional trans-sylvian approach for aneurysm clipping on 2009/12/16
+2. G6PD deficiency
+3. Hypertension
+4. Asthma
+5. Hyperthyroidism
+6. Uterine myoma
+
+She suffered from headache yesterday and visited other hospital, where CT was arranged and showed no apparent problem. This morning, she complained about sudden onset of severe headache. She was brought to our ER on 2016/05/29 12:01 by ambulance. At triage, consciousness change was noted. The GCS was E2M4V1. The vital signs were T/P/R: 36.2/112/20, BP:213/112, SpO2:99%. Endotracheal tube was inserted. Emergent brain CT was arranged. Under the impression of suspected right p-comm aneurysm rupture with diffuse SAH, SDH and uncal herniation, emergent surgery was indicated. Right fronto-temporo-parietal craniectomy for acute SDH removal and right p-comm aneurysm clipping and ICP monitor insertion was performed on 2016/05/29. After operation, she is admitted to SICU for further care.
+
+
+Family History: nil
+Medication Allergy:UnClear  病人自述 2009/10/19
+No  病人自述 2009/12/16
+Medication ADR:unknown
+Allergy to Medical Device and Materials:unknown
+Current Medication:
+NTUH:針 Depakine Inj 400 mg/vial 800 mg STAT IF 1 days
+Cefa 1000 mg/vial 1000 mg STAT IV 1 days
+警 Nimbex 10 mg/5 mL /amp 5 mg STAT IV 1 days
+Perdipine Inj 10 mg/10 mL /amp 20 mg QD cIF 2 days
+Mannitol 20% 100 mL/btl 100 mL STAT IF 1 days
+Other:
+中草藥: nil
+保健食品: nil
+Past Medical History and Hospitalization: as mentioned above
+
+Past Surgical History:2016_05_29  
+Travel History: nil 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:國中
+職業:商
+宗教信仰:民間信仰
+婚姻狀態:離婚
+使用語言:國語 台語 
+口述血型:A，RH:，輸血反應:無
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有 
+系統性回顧(Review of System) 
+1. Systemic: fever(-), BW loss(-), easy-fatigibility(-), change of appetite(-), dizziness(-), night sweating(-)
+2. Skin: petechiae(-), purpura(-), skin rash(-), itching(-)
+3. HEENT: blurred vision(-), strabismus(-), ocular pain(-), ear ache(-), otorrhea(-), hearing loss(-), tinnitus(-), vertigo(-), nasal stuffness(-), nasal discharge(-), nasal bleeding(-), gum bleeding(-), glossitis(-), sorethroat(-)
+4. Cardiovascular: exertional chest tightness(-), PND(-), orhtopea(-), syncope(-), palpitation(-), intermittent claudication(-)
+5. Respiratory: dyspnea(-), cough(-), chest pain(-), hemoptysis(-)
+6. GI: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heart burn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-), midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7. Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria(-), hesitancy(-), small stream of urine(-), impotance(-), nocturia(-), polyuria(-), oliguria(-)
+8. Musculoskeletal: bone pain(-), arthragia(-), myalgia(-), weakness(-)
+9. Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10. Nervous: numbness(-), paresis/plegia(-) 
+身體檢查(Physical Examination) 
+BH: 158 cm,  BW: 62 kg,
+T:  °C,  P:  bpm,  R:  /min,
+BP:  /  mmHg,
+Pain score: 
+
+Neurological Examination: 
+. Consciousness: E1M1Vt 
+. Muscle power: RU/RL/LU/LL: 0/0/0/0
+. Gait: unable
+
+General appearance: fair
+Consciousness: clear; GCS: E4V5M6
+HEENT: anicteric sclerae, not pale conjunctivae, Pupil size: 7mm/7mm, light reflex: R:- L:-
+Neck: supple, JVE (-), LAP (-)
+Chest: symmetric expansion, breathing sound: clear
+Heart: regular heart beats without murmur
+Abdomen: soft and flat, rebounding pain (-), hepatomegaly (-), splenomegaly (-)
+Back: CV angle knocking pain (-)
+Extremities: no edema
+Skin: normal
+Peripheral pulsation:
+	carotid	brachihial radial femoral dorsalis pedis posterior tibial
+  Left	++	++	   ++	  ++	  ++	         ++
+  Right	++	++	   ++	  ++	  ++	         ++ 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:YM***********
+
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1050529 [1554] 1.07          12.8          38            4.16          143.0        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1050529 [1554] 113           3.6          
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050529 [1554] 7.378         33.2          251.1         19.8          -5.7         
+               SO2          
+time/item      (%)          
+1050529 [1554] 99.8         
+
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050529 [1221] 125          
+*********檢驗室:YM***********
+
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1050529 [1204] 1.21          13.7          41            3.37          138.7        
+1050529 [1326] 1.13          12.4          37            2.97          135.2        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1050529 [1204] 131           2.1          
+1050529 [1326] 149           2.2          
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050529 [1204] 7.363         37.4          60.3          21.5          -4.2         
+1050529 [1326] 7.462         26.1          306.5         18.8          -5.3         
+               SO2          
+time/item      (%)          
+1050529 [1204] 89.9         
+1050529 [1326] 99.9         
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1050529 [1221] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1050529 [1221] A             Positive     
+*********檢驗室:RL***********
+
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1050529 [1221] 10.5          22.0          0.99         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1050529 [1221] 24           
+群組:Biochemistry
+
+               CRE           Na            K             Ammonia N     LacticAcid   
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)      (mmol/L)     
+1050529 [1221] 0.9           139           3.5                                      
+1050529 [1232]                                           20            2.16         
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050529 [1221] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050529 [1221] 45.4          3.8           0.6           4.6           45.6         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050529 [1221] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050529 [1221] 11.83         4.65          13.8          41.9          90.1         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050529 [1221] 29.7          32.9          176           12.3          - 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+nil 
+病理報告(Pathology Report) 
+S1122087
+Uterus,corpus,total hysterectomy,leiomyoma adenomyosis   
+Uterus,cervix,total hysterectomy,squamous metaplasia with nabothian cysts    
+Fallopian tube,right,salpingectomy,suture granuloma with hydrosalpinx    
+Fallopian tube,left,salpingectomy,suture granuloma with hydrosalpinx 
+臆斷(Tentative Diagnosis) 
+1. Right p-comm aneurysm rupture with diffuse SAH, SDH and uncal herniation, status post right frontotemporoparietal craniectomy for acute subdural hemorrhage removal and right posterior communicating artery aneurysm clipping and ICP monitor insertion on 2016/05/29
+2. Left posterior communicating artery aneurysm rupture with subarachnoid hemorrhage, status post pterional trans-sylvian approach for aneurysm clipping on 2009/12/16
+3. G6PD deficiency
+4. Hypertension
+5. Asthma
+6. Hyperthyroidism
+7. Uterine myoma 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+1. Right p-comm aneurysm rupture with diffuse SAH, SDH and uncal herniation, status post right frontotemporoparietal craniectomy for acute subdural hemorrhage removal and right posterior communicating artery aneurysm clipping and ICP monitor insertion on 2016/05/29
+
+A: E1M1Vt
+   Bilateral pupil dilated, no light reflex
+   CT: formal report pending
+
+P:
+1. Monitor GCS and vital sign
+2. Supportive care
+
+
+Treatment Goal: Supportive care 
+出院規劃(Discharge Planning) 
+nil 
+主治醫師評論(VS Comments) 
+follow up TCD 
+and traditional angio later on 
+醫師姓名 
+黃博浩 主治醫師 

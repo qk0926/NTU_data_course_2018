@@ -1,0 +1,25 @@
+Ventilator setting>
+2016-07-26: a 90 years old man was a case of 1. Suspected colon cancer with lower GI bleeding, complicated with massive bleeding and hypovolemic shock, 2. Acute lung edema/distress, suspected TACO or TRALI related, improved, 3. Suspected ventilator associated pneumonia, under Abx control, 4. Moderate aortic stenosis, complicated with acute lung edema and respiratory failure status post endotracheal intubation and ventilatory support (2014/03/13-2014/03/19), status post tracheostomy (2014/04/11), 5. Adrenal insufficiency under Cortisone, 6. Coronary artery disease, left main and 2-vessels disease, 7. Chronic atrial fibrillation with complete atrioventricular block status post pacemaker (VVIR) implantation, 2010, 8. Old cerebrovascular accident
+9. Vascular parkinsonism, 10. History of epilepsy, 11. Old pulmonary tuberculosis, 12. Microcytic anemia, Thalassemia and history of duodenal ulcer, and 13. Hypertension
+Mode :  PC
+IPAP/EPAP : 25/5 cmH2O
+Ti : 1.0 sec
+Exh.Vt : 450 ml
+RR set/total : 10/22 bpm
+O2 flow: 3 lpm
+SpO2 : 100 %
+PIP/MAP : 24/9 cmH2O
+VE total : 10.5 L/min
+
+<Respiratory problem>:
+Difficult weaning due to heart failure and pneumonia and
+ massive GI bleeding and poor muscle power endurance. 
+Home ventilator case, 居家：永愛
+會談:媳婦
+
+<Respiratory Plan>:
+1. Keep ventilator :目前使用居家的呼吸器
+2. Prn suction sputum and chest care.
+3. Infection control first.
+4.病人表情平順,無法針對問話回答,衛教家人如何觀察病人疼痛反應
+5.大女兒已回美國

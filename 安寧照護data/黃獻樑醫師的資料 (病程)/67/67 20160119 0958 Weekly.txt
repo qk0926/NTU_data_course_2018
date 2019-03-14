@@ -1,0 +1,125 @@
+Brief Summary of this week    
+After transferring to MICU, BiPAP was applied for pneumonia and heart failure with impenidng respiratory failure. Colistin and Meropenem was prescribed for covering MDRAB due to previous peritoneal dialysate and B/C result (2015/11). SLED was performed during hemodialysis due to shock status and then levophed was added. We had contacted with VS李志元, operation of Tenckhoff catheter removal was held due to poor general condition. Due to poor prognosis, we also consulted hospice team for mental support.
+  We contacted with CV VS李任光, then low dose dopamine for heart failure support was suggested. The fever curve got improved gradually and then we tried daily interruption BiPAP with mask, he could tolerate with the condition well. For further adjusted the dose of dopamine and levophed, PiCCO was placed on 1/22, then we tried tapered levophed gradually. Due to relative stable condition, we contacted with VS李志元, Tenckhoff catheter removal was done on 1/25. Final tip culture of Tenckhoff catheter also reported MDRAB.
+  On 1/25, ETT+MV was kept after the operation, then we tried tapered ventilator setting gradually and tried turned off the levophed, but intermittent BP dropped noted. The fever got subsided, but still poor digestion was noted, several stool-like content drained from the NG tube. So we kept NPO, and much prulent sputum noted on 1/30, with dyspnea, so we switched PSV to PCV on 1/30, and then switched back to PSV due to improved dyspnea. 
+  We contacted with GS VS李志元 for suspected intra-abdominal abscess formation noted by 2016/01/31 CT study. He suggested to keep current treatment. Ventilator was gradually tapered down, and he tolerated it well. Extubation was performed on 2016/02/02. He tolerated O2 mask support initially, but desaturation developed at night, so BiPAP use was applied. Chest radiography showed pulmonary edema, so we kept hemodialysis for fluid overload. Follow-up chest radiography showed improved lung edema. Dopamine was kept for hemodynamic support to keep SBP>90 as suggested by cardiologist. 
+  BiPAP duration was tapered gradually to BID 2hr + nighttime use since 2/9 with fair tolerance. SLED was smoothly performed thrice per week. Under stabilized condition, he was transferred to general ward on 2016/2/11.
+  BiPAP was once tappered to only nighttime use on 2/15. However, intermittent desaturation was noted. Long-term BiPAP was possibly needed for atelectasis. After discussion with ID specialist, image f/u for his abscess was suggested. A+P CT on 2/19 showed fluid accumulation at left psoas muscle with peripheral enhancement,  suspected abscess formation; a 4.38 cm fluid accumulation at lower abdomen with peripheral enhancement, abscess formation is considered. Drainage was considered. 
+
+Assessment 
+[Current antibiotics]
+Colistin      (1/13-) D36 (Tenckhoff: MDRAB)
+Meropenem     (1/22-) D27
+
+Previous antibiotics
+Anidulafungin (1/31-2/6)
+Teicoplanin(1/26-1/26)
+Mepem      (1/13-1/20)   
+Vancomycin (1/15-1/20)   
+
+CRP:11.89(1/23)->7.17(1/31)->3.94(2/12)->2.87(2/15)->7.36(2/17)
+
+[Vasopressor]
+Dopamine 3.8 mcg/kg/min(4ml/hr) -> keep for heart support
+SLED(11/22-)
+
+[O2 setting]
+BiPAP FiO2: 30%, IPAP/EPAP: 20->14/8, RR:16
+Duration: BID 2hr + nighttime 21:00 - 07:00 since 2/9
+
+[Physical examination]
+Consciousness: E4V5M6, oriented to place, person, and time
+Chest: bilateral faint rhonchi
+Heart: regular heart beats
+Abdomen: soft, mild distended, no tenderness
+         hypoactive bowel sound
+Extremities: pitting edema(-), dry gangrene of right toes
+             dry skin turgor
+
+[Culture reports]
+11/14 Ascites: MDRAB, few
+11/17 PD fluid:MDRAB
+      Blood culture: MDRAB, enterococcus
+      S/C: MDRAB
+1/13 S/S: GPC in chain, GNR
+     S/C: normal mixed flora
+     B/C (PB, AL): neg
+1/22 CVC tip/C: neg
+1/23 B/C (PB, permcath, AL): neg
+     S/C: mixed flora
+1/24 Stool culture/amoeba: neg
+1/25 Tenckoff tip/C: MDRAB
+1/26 B/C(arm AL): neg
+     B/C(Femoral AL):neg
+     B/C(CVC): failed
+     S/C: MDRAB 1+
+          Proteus mirabilis 1+
+1/30 B/C*2(new femoral CVP, AL)
+     S/C: MDRAB, Proteus mirabilis 1+
+     femoral AL tip cx: neg
+     CVC tip/C: neg
+2/4 B/C*1( peri): neg
+2/15 B/C*1(CVC):
+
+//Endocrine or others//
+1/13 ACTH/cortisol: 55.1/50.1, TSH/fT4: 2.91/0.99
+1/23 ACTH/cortisol: 73.4/10.3
+
+[Important image study]
+11/14 UCG:
+      LVEF: 28.7%, LVEDD/ESD: 62/52mm, IVS: 1.3cm
+      mild TR/MR
+12/25 CT (A+P)
+      1.Moderate ascites with peritoneal thickening 
+        r/o peritonitis
+      2.Bilateral pleural effusion. 
+      3.Atelectasis and/or consolidation in bil basal lungs
+01/19 UCG
+      LVEF: 28.9%, LVEDD/ESD: 53/45mm, LA: 36mm, IVS: 1.1cm
+      mild AR/TR, mild-moderate MR
+      akinesia at anterioseptal/anterial, other:hypokinesia
+01/31 CT(A+P) preliminary  [Duty radiologist R]
+      no prominent obstruction site, distended small bowel
+      but not sure about which small bowel part. 
+      Lesser ascites. 
+      Ischemic bowel is not likely.
+2/02  Bedside echo: no urine retention
+
+[Important consultation]
+1/18 CV李任光: keep plavix, arrange Tenckhoff 
+     removal if stable, 
+     Dopamine 2.7mg/Kg/hr for heart support, f/u UCG
+1/18 ENT: AOM, give tarivid
+1/29 ID Wang: The MDRAB is sensitive to carbapenem and 
+     colistin. May keep meropenem + colistin. 
+     No need for Tigecycline. 
+1/31 GS Lee: 
+     paralytic ileus, suggest NPO and conservative tx
+     due to easily bleeding under plavix. 
+     The ileus may get worse in the future. 
+2/01 Radiologist VS劉高郎: 
+     The image favor focal ileus over distal jejunum and
+     r/o intra-abdominal abscess
+2/01 GS Dr. 李志元: low benefit of surgical intervention
+2/04 CV李任光: taper dopamine to maintain SBP>90, 
+     may add on low dose Levophed; consider GW transfer 
+     if dopamine dose <8mcg/kg/min
+2/10 Chest 古: suggest keeping BiPAP 2hr BID + nighttime 
+     to prevent pulmonary edema
+2/17 ID: suggest image f/u and abscess drainage; Radiologist: drainage is feasible according to the image on 1/31
+
+Plan 
+1. Keep Meropenem and colistin for MDRAB peritonitis.
+   Discuss with ID specialist for the duration of treatment
+   (Prolonged treatment for peritonitis-related ileus) 
+   - arrange drainage of abscess if feasible
+2. Try oral milk 150ml * 5 times
+   - Consider TPN if long-term NPO is suspected
+3. SLED QW1,3,5 DW:55.5-56kg
+   Albumin supplement during SLED
+4. Dopamine and hemodynamic support, keep SBP>90
+5. Keep BiPAP support 2hr BID + nighttime use, 
+   Monitor respiratory pattern; consider Home-BiPAP
+   Informed the risk of re-intubation
+6. Cordarone and mexiletine for frequent VPCs
+   Plavix for CAD. Pletaal for PAOD

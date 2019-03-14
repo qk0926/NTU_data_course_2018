@@ -1,0 +1,93 @@
+Brief Summary of this week    
+After admission, his consciousness gradually improved. Previous diarrhea condition was still noted. Stool toxin of Clostridium difficle showed positive. Oral metronidazole was given since 8/12.  However turbid dialysate was noted on the next day. The dialysate showed much total nuclear cells; peritonitis was suspected. After contacted with nephrologist, antibiotic change to carbapenem was suggested. Keep peritoneal dialysis for drainage. Low grade fever improved. Respiratory ventilation mode was kept with SIMV mode. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+
+Assessment 
+still mild fever, turbid dialysate, abdominal pain
+-> Mepem was added according nephrologist suggestion
+-> consider add anti-fungus drugs (Diflucan?) if poor response to Mepem (following dialysate routine) according attending VS suggestion
+-> hold weaning until infecion under control
+
+Ganciclovir was hold due to CMV viral decreased
+
+[Abx] 
+Mepem for IAI (8/10-) D3
+Oral Metronidazole (8/9-) stool C. difficule
+---------------------------------------------------
+Cefepime(7/22-7/24), Tazocin(7/21-7/22), Mepem (7/25-8/3)
+Empirical Ceftazidime(8/4-8/10) 
+Empirical Vancomycin(7/22-8/09) for suspected left sialadenitis
+Ganciclovir (8/2-8/11) for CMV pneumonitis (sputum CMV viral load 8930 -> Broncho CMV < 150 cp
+IP Cefazolin (8/10) empirically => Nephrologist suggest upgrade to carbapenem systemic using
+
+[Ventilator settings]
+SIMV 4, IP 14, PEEP 6, PS 12, Ti 0.9, FiO2 35%
+-> RR 23, MV 9.8, VT 350, SpO2 95%
+
+[Culture]
+7/19 PD dialysate: (-)
+     right foot gangrene: Serratia marcescens 3+
+     B/C(peri):(-)
+7/21 B/C(peri):(-)
+7/22 S/C: Normal mixed flora 
+7/24 Vancomycin trough level: 13.69 (after loading 1g on 7/22)
+7/28 S/C C. tropicalis
+         C. glabrata
+8/1 Serum aspergillus Ag (-)
+7/31 Blood  CMV undetectable
+7/31 Sputum CMV 8930 cp/ml  
+7/31 Sputum PJP PCR(-)
+8/4  Mump virus IgM(-), IgG(+)
+
+[Important study findings]
+7/27 CT: bilateral GGO and patches; DVT in left external iliac vein with left lower extremity swelling; pneumoperitonium, chronic pancreatitis
+
+8/3 Gallium scan
+Probable active infection at bilateral lungs and left parotid gland
+
+[Consultations]
+CV §õ¥ô¥ú: NSTEMI less likely, please correct underlying electrolytes imbalence, on-going infection, and fluid overload. Keep Plavix and Pletaal.
+7/27 Plastic surgeon: right gangrentic foot was not likely the infection source. Amputation is not necessary at present. 
+7/29 Nephrologist for PD titration; VS½²§»Ùy has visited this pateint => add Extraneal
+8/3  ID ­J°û§°: Downgrade Mepem to Ceftazidime, consider bronchoscopy to obtain high quality sputum; Keep Vanco for suspecting left sialadenitis, check IgM/IgG mump Ab, clarify the etiology
+8/4 Radologist: left parotid: infection, inflammation or obstruction 
+8/4 ENT: if infection, abx one week is enough
+8/4 Chest: suggest biopsy by broncoscopy to confirm CMV pneumonitis
+8/6 Inform Dr. ªL¯\·ì for RCC transfer 
+8/10 Nephro: check dialysate analysis and adminstrated antibiotic if TNC>100. (consider systemic Carbepenem)
+
+[Family decision]
+7/22 Two sons: DNR except drugs. No HD if not feasible.
+               agree tapering inotrpic agents and adding sedative agents for dyspnea relief
+7/23 Two sons: agreed terminal care
+7/24 Two sons: agreed continatuing PD as long as the BP is feasible
+7/25 his son: refuse amputation
+7/27 informed his family about the current condition, including infection, pneumoperitonium and DVT; they accepted feeding since no obvious evidence of bowel perforation; they accept no using anti-coagulant for DVT due to bleeding tendency; his family preferred palliative care and terminal care
+8/04 Explained the incoming transfer to RCC for weaning.
+8/06 2nd son: if fail to extubation, by nature, no tracheostomy
+8/08 2nd son: Agreed with RCC transfer, decided no tracheostomy, if cannot extubate then consider withdraw
+
+[Important intervention]
+7/28 NG feeding + PD
+8/1 Galllium scan
+8/4 try SIMV mode
+
+Plan 
+1. Keep mepem use for suspect IAI
+  -> pursue dialysate culture result
+  -> consider add anti-fungus (Diflucan) if poor response to Mepem, following Dialysate routine
+  -> consider further image study if had peritoneal s/s
+2. Dianeal LC Ultra 2.5% 2L *2, Dianeal LC Ultra 1.5% 2L
+  => monitor ultrafiltration. Set dry weight 57kg.  
+  => consult nephrologist for dialysate adjustment: ­Ë§l
+3. Keep feeding; monitor if any new-onset peritoneal sign
+  => switch to elemental diet becasue of diarrhea
+  => Keep flagyl for long-term antibiotics using
+  => add smecta and imolax (contact dietitian for diet suggestion)
+4. Not add warfarin as CV doctor suggestion, but DVT tx?
+5. hold weaning until infection under control
+6. resume Fentanyl due to consciousness improving and abdominal pain was told
+7. MAY Consult hospice for palliative combined care and possible withdrawal need after attempt of weaning

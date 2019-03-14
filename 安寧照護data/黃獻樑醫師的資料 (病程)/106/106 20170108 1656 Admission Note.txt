@@ -1,0 +1,247 @@
+2017/01/08 16:56 
+主訴(Chief Complaint) 
+Informant:patient and medical records
+Headache for 3 days. 
+病史(Brief History) 
+This 35 year-old-male patient had past history of
+1.Recurrent left trigeminal Schwannoma status post left frontal-orbital-zygomatic
+craniotomy, extradural Kawase approach for tumor excision on 2009-04, 2009-07 in TMU,
+2009-11-20 in NTUH, status post left retrosigmoid approach for tumor excision on 2016/10/05.
+with right hemiparesis, dysphagia, dysarthria, left face hypesthesia, left ptosis, left hearing impairment, nystagmus and messeter/temporalis atrophy, improved.
+   According to his statement, he stated that right side weakness, drooling to left
+mouth angle ,slurred sppech, and difficulty in swallowing was found gradually since 2016/08. Episodic vertigo without hearing impairment was also noticed. however, he suffered from moderate head fullness, headache and marked right side weakness for 1 day, chest tightness and shortness of breath was also noticed. Accordingly, he was sent to our ER where nerological examination revealed right side decreased muscle power(4) and multi-directional nystagmus and left face decreased sensaiton(V2~V3 region). CT revealed left cerebellopontine angle tumor, with brainstem compression and mild hydrocephalus. The impression was recurrent left cp angle tumor, with brainstem compression and mild hydrocephalus, he was admiited for brain tumor excision on 2016/09/23, left retrosigmoid approach for tumor excision was performed on 2016/10/05 and discharged from rehabilitaiton ward on 2016/11/13. 
+    This time, he suffered from headache for 3 days. Right side numbness, cold sweating  and weakness was noted in recent 1 week. He then came to our ER. At ER, initial vital sign was stable and GCS was E4M6V5, neurological examination showed Pupils 3+/3+, Cranial nerve:left abducens palsy; tongue deviation to right, diplopia(+), left side hearing impairment(+). Muscle power: left side:full, Right side:4+, right foot dorsiflexion was poor than left side, no drop foot. Hypesthesia over right side. He denied choking, blurred vision and nausea. 
+Brain CT with contrast showed one lobulated mass lesion (4.6cm) in left cerebellopontine angle cistern with hemorrhage and necrosis. The tumor compressed pons and cerebellum with mild perifocal edema. The compression of 4th ventricle and aqueduct was noted, resulting in dilatation of lateral and 3rd ventricles. Left mastoid effusion was also noted. Tumor recurrence was suspected. Under the impression of left cerebellopontine angle tumor, suspected recurrence, he admitted in our ward for further management. 
+
+Family History:denied brain tumor history.
+Medication Allergy:No  病人自述 2009/09/29
+No  病人自述 2016/09/23
+No  病人自述 2016/10/13
+No  病人自述 2016/10/07
+No  親屬描述 2016/10/05
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  病人自述 2016/09/23
+No  病人自述 2016/10/13
+No  病人自述 2016/10/07
+No  親屬描述 2016/10/05
+Current Medication:
+NTUH:Mannitol 20% 100 mL/btl 100 mL ONCE IF 1 days
+Mannitol 20% 100 mL/btl 100 mL Q8H IF 2 days
+Methycobal 500 mcg/cap 1 cap TID PO 84 days
+Diphenidol SC 25 mg/tab 1 tab TID PO 28 days
+Other:denied.
+中草藥:denied.
+保健食品:denied.
+Past Medical History:
+Hospitalization:入院日期:2016_09_23 出院日期:2016_11_09 診斷:Brain tumor
+
+Past Surgical History:2016_10_05  Left retrosigmoid approach for tumor excision 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:大學
+職業:學生
+宗教信仰:其他
+婚姻狀態:未婚
+使用語言:國語 
+口述血型:A，RH:不清楚，輸血反應:無
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:警醒
+認知功能:正常 
+精神情緒狀態:異常 焦慮 
+安全問題:有 其他 跌倒
+睡眠形態:異常 淺、易醒 
+
+Nutritional Screen
+攝食情形:佳，攝食75%
+排便狀態:正常
+BMI:17.56
+
+Fall Risk Assessment
+總分:10
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1. Cardiovascular system: chest pain(-) dyspnea(-) orthopnea(-) leg edema(-) palpitation(-) exertional intolerance(-) cyanosis of limbs(-)
+2. Respiratory system: tachypnea(-) cough(-) wheezing(-) fever(-) night sweating(-) 
+3. Breast bleeding or lactorrhea(-)
+4. Gastrointestinal system: abdominal pain(-) bowel habit change(-) anal incontinence(-) bloody stool(-) melena(-) dysphagia(-) anorexia(-) nausea(-) body weight loss(-) heartburn sensation(-) jaundiced sclera(-)
+5. Genitourinary system: dysuria(-)urinary frequency(-)urinary urgency(-)nocturnal polyuria(-) impotence(-) urolithiasis(-)
+6. OBS/GYN: Nil.
+7. Blood system: tendency to have echymosis (-) lymphadenopathy(-)
+8. Musculoskeletal system: joint stiffness or pain(-) back pain(-)
+9. Endocrine system: goiter(-) heat or cold intolerance(-) fatigue(-) 
+身體檢查(Physical Examination) 
+BH: 165 cm,  BW: 47.8 kg,
+T:  °C,  P:  bpm,  R:  /min,
+BP:  /  mmHg,
+Pain score: 
+
+Neurological Examination: 
+. Consciousness: E4M6V5
+. Muscle power: left:5/ Right:4+
+. Gait: unstable gait, right side weakness.
+
+Consciousness:clear   Vital sign: stable
+HEENT: Conj: not pale, sclera:anicteric, ENT:grossly normal
+Neck: supple, JVE (-),  LAP (-),  Goiter (-),  Bruit (-)
+Chest: symmetric expansion, clear BS
+Heart: RHB, no murmur, no heave, no thrill, 
+Abdomen:  soft, no tenderness, no rebounding pain, BS: normoactive
+Ext.: freely movable, no edema, no cyanosis
+Peripheral pulse:
+         caro.  bra.   rad.  pop.  D.pedis  P.tibis   
+   l''t    ++    ++     ++    ++      ++        ++
+   r''t    ++    ++     ++    ++      ++        ++
+
+Neurological Examination
+Consciousness: clear.
+GCS: E4M6V5
+Speech: dysphonia(-), dysarthria(-), hoarseness(-), confabulation(-)
+aphasia(-): expressive(-), receptive(-), global(-)
+Cranial nerve
+CNI: smell, not performable, anosmia(-), hyposmia(-), hyperosmia(-), olfactory agnosia(-)
+CNII  Visual acuity: intact(+), impaired(-): R(-), L(-)
+      Counts fingers(-), hand motion(-), light perception(-)
+Visual fields: confrontation test-intact(+), 
+homonymous, bitemporal heminopsia(-), quadrantopia(-), 
+central, junctional, homonymous scotomas(-) 
+CNIII, IV, VI: EOM: left eye lateral gaze was limit, left abducens palsy; tongue deviation to right, ptosis(-)
+     isocoric pupils, 3mm/3mm
+     light reflex: symmetric and prompt
+CNV: Corneal reflex: R/L (+/+), Sensory: impairment(-)
+     Motor: masseter muscle weakness(-); jaw deviation(-)
+CNVII: Facial palsy (-)
+CNVIII: Bilateral hearing ability: left hearing impairment, 
+        Weber''s test: right lateralization
+        Rinne''s test: bilatareal AC>BC
+        Spontaneous nystagmus(-); positional nystagmus(-)
+CNIX, X: gag reflex (+/+); Uvula deviation to (+)
+CNXI: SCM muscle: weakness (-); Trapezius muscle: weakness (-)
+CNXII: Tongue: protrusion deviation to right (+); fasciculation(-), atrophy(-)
+
+Muscle power(right/left)
+Grasping 4/5
+Wrist extension 4/5; flexion 5/5
+Elbow extension 5/5; flexion 5/5
+Hip extension 5/5; flexion 5/5
+Knee extension 5/5; flexion 5/5
+Ankle extension 5/5; flexion 5/5
+
+Tendon reflex(right/left)
+Brachioradialis C5/6: ++/++
+Biceps C5/6: ++/++
+Triceps C5/6: ++/++
+Knee L4: ++/++
+Ankle: ++/++
+Other primitive reflex: nil
+
+Sensory: Hypesthesia over right side.
+Proprioception and vibration:right side Hypesthesia
+Pain and thermal:intact.
+Light touch:right side Hypesthesia
+
+Coordination
+Finger-nose-finger test:  dysmetria
+Heel-knee-shin test: dysmetria
+Rapid alternative test: bradykinesia 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060107 [1200] 4.25          5.28          15.9          46.8          88.6         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060107 [1200] 30.1          34.0          176           12.1          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060107 [1200] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060107 [1200] 67.8          0.7           0.2           4.7           26.6         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060107 [1200] 0.0           0.0           0             -            
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1060107 [1200] 11           
+群組:Biochemistry
+
+               CRE           Na            K             Ca            Mg           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)      (mmol/L)     
+1060107 [1200] 0.7           134           5.0           2.38          1.01         
+               P            
+time/item      (mg/dL)      
+1060107 [1200] 3.9          
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1060107 [1200] 136.4 
+檢查紀錄(Examination Report) 
+nil. 
+影像報告(Imaging Report) 
+CT With/Without Contrast-Brain 醫令: CT With/Without Contrast-Brain 報告醫師: 葉建德 影像時間: 2017/01/07 14:10 (33072B0M) 發報告時間: 2017/01/07 16:04 Brain CT without and with contrast enhancement shows: 
+1. Craniotomy at left fronto-temporo-parietal region with cranioplasty change at left mastoid region. Encephalomalacia of left temporal lobe.
+2. a large lobulated mass lesion (4.6cm) in left cerebellopontine angle cistern with hemorrhage and necrosis. recurrent tumor is considred.
+3. compression of pons and cerebellum with mild perifocal edema.
+4. compression of 4th ventricle and aqueduct, resulting in dilatation of lateral and 3rd ventricles.
+6. left mastoid effusion. 
+病理報告(Pathology Report) 
+098/11/23 S0941399
+Nerve,intracranial,trigeminal nerve,craniotomy,neurilemmoma    
+ S1640322
+Nerve,cerebello-pontine angle, left,craniectomy and excision,schwannoma 
+臆斷(Tentative Diagnosis) 
+1.Left cerebellopontine angle tumor, suspected recurrence
+
+2.Recurrent left trigeminal Schwannoma status post left frontal-orbital-zygomatic
+craniotomy, extradural Kawase approach for tumor excision on 2009-04, 2009-07 in TMU,
+2009-11-20 in NTUH, status post left retrosigmoid approach for tumor excision on 2016/10/05.
+with right hemiparesis, dysphagia, dysarthria, left face hypesthesia, left ptosis, left hearing impairment, nystagmus and messeter/temporalis atrophy, improved. 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*
+left cerebellopontine angle tumor, suspected recurrence
+
+Treatment Goal:
+S:headache for 3 days. 
+Right side numbness, cold sweating  and weakness.
+O:Vital sign:stable.
+GCS:E4M6V5.
+[Neurological examination] 
+Pupils 3+/3+, Cranial nerve:left abducens palsy; tongue deviation to right, diplopia(+), left side hearing impairment(+). Muscle power: left side:full, Right side:4+, right foot dorsiflexion was poor than left side, no drop foot. Hypesthesia over right side. He denied choking, blurred vision and nausea. 
+Brain CT with contrast : one lobulated mass lesion (4.6cm) in left cerebellopontine angle cistern with hemorrhage and necrosis. The tumor compressed pons and cerebellum with mild perifocal edema. The compression of 4th ventricle and aqueduct was noted, resulting in dilatation of lateral and 3rd ventricles. Left mastoid effusion was also noted.
+P:
+1. Mannitol 100ml Q8H
+3. Arrange emergent brain MRI with/without contrast.
+4. diet as usual. 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左手 
+雙腔導管留置：無  
+鼻胃管留置：無  
+氣管管路留置：無    
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：50
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：自己 媽媽 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+杜永光 主治醫師 

@@ -1,0 +1,16 @@
+Poor resolution of left lung haziness, probably due to hemorrhage and infection.
+Deteriorating condition for left pneumonia.
+Worsened oxygenation.
+Poor prognosis. DNR.
+2015/10/18 18:00 T:38.2 P:96 R:28
+2015/10/18 16:54 T:37.7 P:101 R:34
+2015/10/18 12:46 T:37.2 P:99 R:41
+2015/10/18 10:57 T:36.4 P:96 R:31
+2015/10/18 19:11 BP:90/43
+2015/10/18 16:54 BP:104/45
+2015/10/18 12:46 BP:109/52
+2015/10/18 10:57 BP:102/64
+2015/10/18 16:54 SpO2:92%(75%,L,VCR)
+2015/10/18 12:49 SpO2:89%(75%,L,VCR)
+2015/10/18 11:25 SpO2:89%(70%,L,VCR)
+2015/10/18 08:51 SpO2:88%(60%,L,VCR)

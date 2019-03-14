@@ -1,0 +1,60 @@
+Brief Summary of this week    
+We kept chest tubes drainage after the VATs decortication. The colour of the pleural fluid was yellowish-reddish, the amount was about 100ml daily. The pus culture sent on 1/31 grew MDRAB and MRSA again. Tienam was added, combing with colistin and Vancomycin for empyema treatment. There were two chest tubes for pus drainage, which were inserted during VATS decortication. The posterior one was removed since it was out of function.  
+
+The patient had breakthrough fever under Colistin, Tienam and Vancomycin. The right pleural fluid was sent for culture again, which still yielded MRSA and MDRAB. Vancomycin was changed to Zyvox for poor treatment response. In addition, the sputum culture grew Ralstonia mannitolilytica, so Cravit was added. The patient had progressive lactic acidosis, and infection related was considered. Due to unstable vital signs and fluid retention, continuous renal replacement therapy was used during 2017/2/5-2/8. The metabolic disturbance was corrected, and the body weight returned to 72 kilograms after fluid elimination. Intermittent hemodialysis was resumed since 2017/2/10. Besides, Linezolid was swtiched to Vancomycin again on 2/12 because of thrombocytopenia. Fosfomycin was added on 2/13 for combination theerapy. Anidulafungin was added on 2/15 for Candida glabrata and Candida albican which grew from the right pleural effusion. 
+
+The patient's blood pressure was fluctuating during hemodialysis. The adrenal function was checked, which showed ACTH 20.5, cortisol 9.76 at 03:30am. Therefore, solu-cortef 50mg twice daily was prescribed relative adrenal insufficiency. The inotropics was tappered off successfully under the steroid. The patient's digestion function was poor. A NJ tube was inserted. The feed amount was increased gradually latter.  
+
+He had tachypnea, atrial fibrillation with rapid ventricular response, lactic acidosis and hypotension again on 2/16. Inotropic agent was needed again. Additional renal replacement thearpy(SLED) was arranged to eliminate the lactic acid. The condition improved for a while. However, he had fever again on 2/18. The color of the chest tube drainage turned to yellowish-whitish. Vancomycin was changed to Linezolid again on 2/18 for poor infection control. Chest surgeons were consulted for VATS decortication again. Furthermore, the healing of the wound which was created by the previous chest tube entrance was poor. Much pus came out from the wound, and there were more pus after we squeezed the wound. A contrast enchance chest CT was done for the origin of the pus. It showed the wound was connected to the empyema, and there was no soft tissue infection. Therefore, VATS decortication was done again on 2/25, a new chest tube was inserted. 
+
+
+PAP1
+
+Assessment 
+[Abx]
+Tienam       (02/03-) for MDRAB empyema
+Colistin IV  (01/10-) for MDRAB
+Colistin IH  (01/15-) for MDRAB pneumonia
+Vancomycin   (2/23-)  for MRSA empyema
+Fosfomycin   (02/13-) combine therapy for MRSA empyema 
+Eraxis       (02/15-) for empyema (culture: Candida glabrata)
+-------------------------------------------------------------
+Cravit     (02/09-2/23) for breakthrough fever, S/C Ralstonia
+
+[PE]
+E3VTM1, pupil 2+/2+
+redness, gastric juice-like leakage from tracheostomy wound
+bil. coarse breath sounds, persistent crackles over Rt lung
+abdominal fullness, hypoactive bowel souds
+Two chest tubes at the right chest wall, air bubble(+)
+
+[Ventilation]
+PCV, IP 16, PEEP 6, FiO2 35%, f 12/16, Ti 0.9
+
+[Nutrition]
+HD diet, 1.5kca/ml, 1700kcal/d
+
+Plan 
+1. For MDRAB + MRSA + C. glabrata Empyema
+ - Keep current antibx
+ - chest tubes drainage for air and pus
+ - VATS decortication on 2/25, examinate the wound on 2/26
+2. For ESRD
+ - keep HD QW135, Albumin supplement, set dry weight 73kg
+3. Primperan use, lactulose enema PRN for r/o megacolon
+
+PAP2
+
+Assessment 
+[Consultation]
+01/12 Rheumatologist: suggested keep infection under control, check anti-CCP, electrophoresis, Plaquenil 1# QD
+01/18 Neurologist: suggested correct all metabolic factor, perform perfusion CT if possible
+01/23 Hospice combine care: for introduction and withdrawl
+01/25 Chest surgeon Dr.陳克誠: VATS decortication ,pneumothorax repair and tracheostomy were indicated and would arrange operation after INR was corrected below 1.5
+02/05 ID: Tigecycline replacing Vancomycin may be considered if refractory shock (MDRAB + MRSA empyema), but contraindicated if bacteremia; replace Vancomycin with Zyvox also suitable
+02/13 Radiologist: NJ will be performed on 2/14 on call
+02/14 ID: ID: C. glabrata perhaps just colonized on the chest tube. If we want to confirm that it was a true pathogen, thoracocentesis was needed. Or we could add Echinocandin in the next fever episode
+02/16 ID: Eraxis is indicated due to newly developed septic shock
+02/21 Consult CS Dr. 陳克誠:
+He will explain to the family and arrange surgery again
+02/22 CS Dr. 陳克誠: surgery will be arranged on 2/25, on call

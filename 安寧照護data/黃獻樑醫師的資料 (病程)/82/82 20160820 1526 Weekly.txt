@@ -1,0 +1,74 @@
+Brief Summary of this week    
+After admission, his consciousness gradually improved. Previous diarrhea condition was still noted. Stool toxin of Clostridium difficle showed positive. Oral metronidazole was given since 8/12.  However turbid dialysate was noted on the next day. The dialysate showed much total nuclear cells; peritonitis was suspected. After contacted with nephrologist, antibiotic change to carbapenem was suggested. Keep peritoneal dialysis for drainage. Low grade fever improved. Respiratory ventilation mode was kept with SIMV mode. Then followed dialysate showed decreased nuclear cell count, and gradually transparent PD fluid was noted. He tolerated T-piece training and cuff leak test was passed. Thus discussed with family and patient that they agreed with removal of endotracheal tube, and refused re-intubation if failure. Hospice team was consulted. Withdraw weaning was done on 2016/8/20 12:15 smoothly. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+
+Assessment 
+After family visited, extubation was done on 2016/8/20 12:15. No stridor or wheezing were noted after extubation.
+
+patient's family hesitated about keeping PD -> Hospice ward and afford PD. After contacted with CR kept PD was suggested. 
+
+PD peritonitis
+-> TNC 4000->1058->4 (8/17), keep Mepem use
+-> PD dialysate culture: Citrobacter braakii R to 3rd Cefa
+-> transparent PD fluid
+
+[Abx] 
+Mepem for IAI (8/10-) D11
+Oral Metronidazole (8/9-) stool C. difficule
+---------------------------------------------------
+Cefepime(7/22-7/24), Tazocin(7/21-7/22), Mepem (7/25-8/3)
+Empirical Ceftazidime(8/4-8/10) 
+Empirical Vancomycin(7/22-8/09) for suspected left sialadenitis
+Ganciclovir (8/2-8/11) for CMV pneumonitis (sputum CMV viral load 8930 -> Broncho CMV < 150 cp
+IP Cefazolin (8/10) empirically => Nephrologist suggest upgrade to carbapenem systemic using
+
+[Ventilator settings]
+SIMV 4, IP 14, PEEP 6, PS 12, Ti 0.9, FiO2 35%
+-> RR 23, MV 9.8, VT 350, SpO2 95%
+--> Extubation on 2016/8/20 12:15
+
+[Culture]
+7/19 PD dialysate: (-)
+     right foot gangrene: Serratia marcescens 3+
+     B/C(peri):(-)
+7/21 B/C(peri):(-)
+7/22 S/C: Normal mixed flora 
+7/24 Vancomycin trough level: 13.69 (after loading 1g on 7/22)
+7/28 S/C C. tropicalis
+         C. glabrata
+8/1 Serum aspergillus Ag (-)
+7/31 Blood  CMV undetectable
+7/31 Sputum CMV 8930 cp/ml  
+7/31 Sputum PJP PCR(-)
+8/4  Mump virus IgM(-), IgG(+)
+8/10 dialysate/C: Citrobacter braakii (S:cefepime)
+
+[Important study findings]
+7/27 CT: bilateral GGO and patches; DVT in left external iliac vein with left lower extremity swelling; pneumoperitonium, chronic pancreatitis
+
+8/3 Gallium scan
+Probable active infection at bilateral lungs and left parotid gland
+
+[Consultations]
+CV §õ¥ô¥ú: NSTEMI less likely, please correct underlying electrolytes imbalence, on-going infection, and fluid overload. Keep Plavix and Pletaal.
+7/27 Plastic surgeon: right gangrentic foot was not likely the infection source. Amputation is not necessary at present. 
+7/29 Nephrologist for PD titration; VS½²§»Ùy has visited this pateint => add Extraneal
+8/3  ID ­J°û§°: Downgrade Mepem to Ceftazidime, consider bronchoscopy to obtain high quality sputum; Keep Vanco for suspecting left sialadenitis, check IgM/IgG mump Ab, clarify the etiology
+8/4 Radologist: left parotid: infection, inflammation or obstruction 
+8/4 ENT: if infection, abx one week is enough
+8/4 Chest: suggest biopsy by bronchoscopy to confirm CMV pneumonitis
+8/6 Inform Dr. ªL¯\·ì for RCC transfer 
+8/10 Nephro: check dialysate analysis and administrated antibiotic if TNC>100. (consider systemic Carbepenem)
+8/16 Hospice team: for hospice combined care, and post weaning support
+
+Plan 
+1. Keep Mepem use for suspect IAI
+2. PD
+  => Set dry weight 57kg.  
+  => Shift to 2.5%*2, 1.5%*2
+  -> noticed electrolyte (esp hypo-K)
+3. Monitor vital sign and respiratory pattern. If condition relatively stable could transfer to hospice ward and/or nephrologic ward. (PD is acceptable at hospice ward)
+4. Sputum suction PRN (moderate to much sputum)

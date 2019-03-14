@@ -1,0 +1,120 @@
+Brief Summary of this week 
+We shifted Tazocin to Cefepime for elevated liver function since 9/30. However, elevated liver function might probably due to amiodarone use. 
+   About hemoptysis, radiologist had done TAE at right bronchial artery on 2015/10/1. No gross hemoptysis was found later. 
+   Fever up to 38'C ocurred on 9/30 midnight. On 10/2, bronchial washing sputum reported Tazocin-resistant Enterobacter. Thus, we kept Cefepime use. Escalate antibiotic to carbapenem if recurrent fever. 
+   For poor resolution of left VAP, tracheostomy was suggested. However, the patient was very angry and refused it. Prepare RCC transfer next week.
+
+PAP1
+Assessment 
+Current antibiotics:
+Maxipime (9/30~) D4 (for Enterobacter pneumonia)
+-----------------------------------------------------
+Vfend(9/22-10/2), Unasyn (9/20~9/21) 
+Tazocin (9/22~9/30) (empirically for pneumonia)
+
+** Intermittent hemosputum
+** Short-run VT on 9/25 and VPC bigeminy since 9/26, s/p Cordarone 1amp loading
+** Target Minute ventilation: 5-6 to prevent respiratory acidosis
+** abnormal liver function noted on 9/28
+** frequent VPC/Bigeminy noted on 9/29, s/p Cordarone 1amp stat, progressed dyspnea under PSV mode
+**another fever up to 38C in night on 09/30
+
+<Ventilator setting>
+PCV: IP 20, PEEP=6, FiO2=40%
+--> RR=20, TV=280, VE=8.4, SpO2=92%
+
+<Physical examination>
+Consciousness: responsive, E4VtM6 
+HEENT: pink conjunctiva, anicteric sclera
+Chest: right side decreased B.S., left coarse crackles, no wheezes
+Heart: IRHB with Gr. 2/6 systolic murmur over LLSB
+Abdomen: soft and flat, hyperactive bowel sounds, no tenderness
+Extremities: edema(+, four limbs), no skin rashes 
+
+<Culture report>
+09/20 S/S: GPC 3+, GNB 1+, GNC 1+
+      B/C (PB): negative*2
+09/21 S/C: Acinetobacter junii few
+           Enterobacter cloacae few
+      Aspergillus Ag: postive (0.814)
+09/22 S/C: Acinetobacter junii few 
+      Mycoplasma Pneumoniae IgM: negative
+      Legionella urinary Ag: negative
+      Sputum Chlamydiae Ag: negative
+      Aspergillus Ag: positive (0.721)
+      Cryptococcus Ag: negative
+      Anal swab: no VRE, no CRE
+09/24 Aspergillus Ag: positive (0.681)
+09/20~09/24 Sputum AFS: negative*5
+09/27 Aspergillus Ag: positive (0.629)
+09/28 S/C: Citrobacter koseri few 
+09/30 Aspergillus Ag: Negative (0.447)
+      CMV viral load Undetectable  
+      BRONCHIAL WASHING RLL Acid fast bacilli - negative
+      B/C: GPC x1
+      Bronchial washing: Enterobacter cloacae 2+ (R to Ertapenem, S to Cefepime)
+
+Plan 
+1. Keep cefepime for Enterobacter cloacae in the sputum, consider escalated to carbapenem if still low grade fever for possible developing AmpC pathogen
+   Discontinue Voriconazole 
+2. Enhance chest care and sputum suction; keep SpO2 around 
+   88%~95% to avoid CO2 retention due to COPD
+3. About tracheostomy, 兒子希望氣切，但病人及兩個女兒都拒絕，最終決定尚未出來。
+      - prepare RCC transfer next week 
+4. may taper Transamin use if decreasing hemosputum and 
+   hold Coumadin since 9/19; component therapy if indicated
+5. Electrolyte correction for short-run VT and VPC 
+   bigeminy if indicated (K>4, Mg>1, Ca>2.2);
+   close monitor I/O and renal function
+   Set dry weight as 45kg
+
+
+PAP2
+Assessment 
+2013/11 UCG: moderate TR (TRPG=37.5mmHg), mild to moderate MR, mild AR, mild pulmonary hypertension, anterior wall hypokinesia, LVEF=59.7%
+09/20 WBC=8030, Hb=10.8, ALT=21, CRE=1.2, Na=133, K=4.0, CK=47, Pro-BNP=501, INR=1.04, VBG (pH=7.317, PCO2=73.7, PO2=44.4, HCO3=38.1, BE=11.7)
+09/20 ECG: Af with MVR (HR=77bpm)
+09/21 Chest CT: (1) right lung consolidation and heterogeneous density, r/o infectious process or even necrotic change, (2) slightly enlarged cavitation at RUL, with some necrotic mass inside; small nodular enhancing lesions in the lower part of the cavity, vascular lesion such as aneurysm or pseudoaneurysm cannot be excluded, (3) ill-defined patchy opacities and tiny ill-defined centrilobular nodules at left lung, increased in the dependent part, r/o aspiration or infectious process
+09/22 ACTH=60.7(H), cortisol=36.6(H), hsTSH=0.798, free T4=1.02
+09/23 IgG=1780(H), IgM=479(H), IgA=280; reverse AG ratio (A/G=0.79) --> serum electrophoresis: a paraprotein peak (13.2%) in gamma region; spot urine electrophoresis/IFE: a Bence-Jones protein peak (13.6%) in gamma region (a dense band of kappa light chain Bence-Jones proteins)
+09/25 24hr urine IFE: a very dense band of kappa light chain Bence-Jones proteins; free kappa/lambda ratio 17.7632(H), kappa free light chain=2700.00(H), lambda free light chain=152.00(H), kappa/lambda ratio 6.2371(H)
+09/28 Digoxin level: 0.66
+09/29 Iron:17, TIBC:150, Ferritin:131(favor IDA)
+09/30 Direct : Coombs' Test Positive
+      Anti-HCV Ab=positive, anti-HBs Ab=negative, HBs Ag=neg
+09/30 HCV viral load: 3210000
+10/01 stool OB:3+
+
+PAP3
+Assessment 
+Home BiPAP use during sleeping time (around 9~12hr/day), baseline PCO2 around 65mmHg
+09/21 Add Vfend 1# BID for positive Aspergillus Ag
+09/22 Consciousness disturbance with progressive CO2 retention s/p ETT+MV; upgrade Unasyn to Tazocin; 6E1 admission
+09/23 Taper Vfend to 0.5# BID; shift IV Transamin to inhaled form (500mg Q6H)
+09/25 Loading Cordarone for short-run VT
+09/26 DC Digoxin; add Kalimate 1pk TID for 3 days (K=5.0); add Codenine for hemosputum-related cough; loading Cordarone for VPC bigeminy
+09/27 Loading Cordarone for VPC bigeminy; add Rasitol 20mg BID; add Procal 2# TID for 2 days
+09/28 Add Cordarone 1# QD for persistent VPC bigeminy; add self-paid Albumin 25g QD for 3 days; DC Kalimate
+09/29 give vitamin K, DC Rytmonorm, Cordarone 1amp IV for bigeminy
+09/30 Bronchoscopy: easy touch-bleeding in RUL and RB6; some new granulation tissue in RCB, s/p washing
+10/01 TAE: 1.Hyperemic change of RUL, supplied by right bronchial artery, no definite active bleeding.
+
+PAP4
+Assessment 
+09/23 CV VS陳盈憲: Coumadin was used instead of NOAC because there was a definite marker (INR) to monitor its effect; NOAC is not suitable for patients with renal insufficiency; Coumadin could be DC because of persistent hemoptysis
+09/23 ID VS盤松青: 6-month treatment for pulmonary aspergillosis is sufficient, and this event is not compatible with the natural course (too acute); suggest to add Vfend if further culture evidence or high Aspergillus Ag titer
+09/24 Hematology Fellow 姚啟元: favor MGUS, check "bone survey" if his condition is tolerable; bone marrow study is considered
+09/28 CV Fellow 許容綺: VPC bigeminy can be treated with Cordarone or Lidocaine if unstable hemodynamics; increasing Rytmonorm dosage is not recommended because it would cause bradycardia
+09/29 CV VS陳盈憲: Rytmonorm could be DC, keep Cordarone for VPCs, but could be DC as well if Afib with MVR
+09/30 Hematology Fellow 姚啟元: lab data and PB smear showed no evidence of hemolysis
+09/30 CV VS陳盈憲: DC Cordarone if drug-related abnormal liver function is suspected; do not add back digoxin due to drug-drug interaction with cordarone; if afib with RVR/VT with unstable hemodynamics, add back cordarone 0.5PC QD and slowly increase dosage
+09/30 Radiologist 梁博欽: elective TAE will be arranged on 10/01 VS盤松青 & VS鄭之勛: pulmonary Aspergillosis is less likely. Voriconazole could be discontinued.
+
+
+
+
+
+
+
+
+

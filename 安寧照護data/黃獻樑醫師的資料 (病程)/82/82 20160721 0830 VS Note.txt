@@ -1,0 +1,30 @@
+P:
+Sudden onset of desaturation was noted in this early morning.
+
+A:
+2016/07/21 06:03 T:36.5 P:126 R:19
+2016/07/21 06:02 SpO2:98%(%,15L,Non-Rebreathing)
+2016/07/21 06:02 BP:100/60
+2016/07/21 03:54 Pain score:0
+2016/07/20 20:46 BP:112/67
+2016/07/20 20:28 T:36.9 P:120 R:20
+2016/07/20 17:09 T:36.8 P:132 R:19
+
+2016/07/21 BUN:38.4 mg/dL  CRE:6.4 mg/dL
+Na:133 mmol/L K:3.1 mmol/L T-BIL:0.72 mg/dL
+Ca:1.73 mmol/L Mg:0.67 mmol/L CK:258 U/L
+CK-MB:33.18 ng/mL CK-MB:34.41 ng/mL CK:254 U/L
+ 
+2016/07/21 PH:7.484 * PCO2:28.5 mmHg PO2:70.1 mmHg
+HCO3:21.6 mmol/L BaseExcess:-2.1 mmol/L
+
+2016/07/21 HB:8.1 g/dL
+2016/07/21 NT-pro BNP:>35000 pg/mL
+2016/07/21 hsCRP:16.14 mg/dL
+2016/07/21 Troponin-T:1036 ng/L
+2016/07/21 Troponin-T:1029 ng/L
+P:
+Please correct hypocalcemia immediately.
+Correct anemia, and maintain I/O negative.
+Arrange UCG
+Contact with CV for possibe NSTEMI.

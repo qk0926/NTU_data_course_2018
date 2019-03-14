@@ -1,0 +1,45 @@
+1. Pneumonia and right-sided empyema, complicated with hypoxic respiratory failure, status post endotracheal intubation with mechanical ventilation (2016/03/03-), status post chest tube drainage (2016/03/03-), s/p Urokinase (I, 2016/3/10; II, 2016/3/11)
+2. Dementia
+3. Suspected chronic obstructive pulmonary disease
+4. Right intertrochanteric fracture, status post open reduction internal fixation (2016/01/20)
+5. Previous perforated peptic ulcer, status post subtotal gastrectomy
+
+【Assessment】
+ECOG:4
+Consciousness:confuse
+2016/04/06 12:15 T:36.2 P:97 R:20
+2016/04/06 12:15 BP:155/80
+2016/04/06 12:16 SpO2:100%(30%,L,VCR)
+2016/04/06 10:38 Pain score:0
+<Ventilator setting>
+Mode: PC/AC mode
+IP: 14 cmH2O
+VT set/exp.: 360 ml 
+RR set/total: 10/22 bpm     
+PS/PEEP: -/6  cmH2O
+PIP/MAP: 21/9 cmH2O
+VE total: 8.7 L/min
+
+DNR:已簽署,末期註記:(-)
+Main caregiver:RCC
+Main decision maker: 小兒子
+Awareness: 知病知末
+Acceptance: 慢性調適
+Propriety: 後事準備中
+Timelessness: 醫院善終
+
+【會談摘要】
+會談目的:確認撤除維生系統相關流程
+會談對象:小兒子
+案子表示了解經醫療評估病人無法計畫性移除呼吸管路，經醫師說明及考量病人後續長期照顧生活品質決定撤除呼吸維生系統，病人其他子女經社工聯繫已知病況及撤除計畫，表示對此決策無意見，部分兒女曾前來探視但不協助簽署文件。案小兒子與RCC醫療團隊討論預計於4/12執行呼吸維生系統撤除，予提供撤除後病人可能出現呼吸道症狀及緩解不適之處置等衛教，並說明撤除後病人進入自然病程，存活時間依病人病況而定，小兒子了解，表示後事預備有大致想法，詢問死亡證明取得及臨終衣物準備，已提供相關衛教單張及說明；另其表示若病人於移除呼吸管路後能自主呼吸也有後續長期照顧場所預備。予同理及傾聽其照顧辛勞，肯定其決策是為減少病人無謂痛苦及追求舒適與尊嚴。
+
+【Plan】
+1. 請完成兩位專科醫師末期判定註記。
+2. 確認已向家屬說明撤除維生系統流程及處置並有相關紀錄。
+3. 撤除準備及執行階段相關建議可參閱末期病人終止或撤除維生系統建議。
+4. 撤除前、後適當的給予家屬陪伴病人的空間及時間、哀傷輔導。
+                                         安寧共照N2謝慧貞
+護理師計畫：
+1. 對於後續照護，提供小兒子心理支持並提供後續照護相關資料。
+2. 鼓勵並肯定小兒子對病人的照護。
+                                         N2主護護理師杜家賢

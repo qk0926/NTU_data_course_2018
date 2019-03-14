@@ -1,0 +1,410 @@
+2017/06/27 17:55 
+主訴(Chief Complaint) 
+Informant:patient and chart
+Desaturation and shortness of breath since 6/25 
+病史(Brief History) 
+This 67-year-old man has underlying diseases of idiopathic pulmonary fibrosis, coronary artery disease, one vessel disease and lung cancer, squamous cell carcinoma, right upper lobe, T2aN2M0, stage IIIA, s/p curative radiotherapy for right upper lobe lung tumor and right hilar/mediastinal lymphadenopathies (2016/12/28-2017/02/06), s/p Navelbine(D1,D8)+Cisplatin(D8) (C1D1=2017/02/17, C1D8=2017/02/24, C2D1=2017/03/09, C2D8=2017/03/16, C3D1=2017/03/31, C3D8=2017/04/09). He had received regular follow up in our chest OPD and had received nintedanib (OFEV) and prednisolone for idiopathic pulmonary fibrosis. He depended on home oxygen therapy. This time, he had suffered from shortness of breath since 6/25 and de-saturation ensued. He was brought to our ER at 9AM of 6/26. On arrival, his mental status was awake and aware. He had low grade fever, BT 37.6'C, tachycardia PR 111/min, tachypnea RR 28/min and desaturation, SpO2 65% under ambient air. Blood gas analysis didn't reveal CO2 retention yet. NRM was applied and oxygenation stablized. Blood tests showed WBC 7730, Seg 80.4%. CXR revealed cardiomegaly and ill-defined opacities in bilateral lungs. Noncontrast chest HRCT revealed increased ground-glass nodule or airspace consolidation in bilateral lung, suspected pulmonary infection/inflammation. Before this, patient had rhinorrhea for several days but denied sore throat. He also no had relevant TOCC for fever. Empiric antibitic therapy of piperacillin/tazobactam and levofloxacin were administered for severe CAP. The influenza rapid test obrained via nasal swab was negative. The workups for common CAP pathogen including urinary pneumococcal antigen, urine legionella antigen, serum Chlamydophila pneumoniae IgM Ab and serum Mycoplasma pneumoniae IgM Ab were all negative. Besides, systemic steroid of SoluMedrol 20mg q8h was also applied, alone with inhaled bronchodilators in SVN. High oxygen demand persisted. ER doctor had confirmed with patient and his family about DNR, they hesistated but didn't refuse DNR. Under impression of severe CAP with type 1 respiratory failure, he was admitted to medical ward on 2017/06/27 for further management.
+
+Family History: denied heart or lung history
+Medication Allergy:denied
+Medication ADR:denied
+Allergy to Medical Device and Materials:denied
+Current Medication:
+ER-
+TAZOCIN (based on piperacillin content) 2000 mg/vial, 4000 mg, Q6H 
+Atrovent Neb Soln 250 mcg/1 mL 2 mL/amp, 1 amp, STAT, Q6H  
+40 Solu-Medrol 40 mg/vial  20 mg,Q12H  
+Siruta Inh Soln 200 mg/1 mL 3 mL/amp,1amp, Q6H
+Bricanyl Neb Soln 2.5 mg/1 mL 2 mL/amp, 1 amp,Q6H
+Nexium 40 mg/tab, 1 tab, QDAC1HR  
+針 Cravit inj 250 mg/50 mL /vial, 750 mg,QD 
+Actein Effervescent Tablet 600 mg/tab, 1 tab, BID
+Regrow SR 60 mg/tab, 1 tab, BID 
+袋 Saline (NK) inj 0.9% 500 mL/bag (常備藥), 500 mL, QD
+OPD-
+(管4) 安柏寧 Alpraline 0.5 mg/tab, 1 tab, TID  
+OFEV 150 mg/cap, 1 cap, BID  
+MgO 250 mg/tab, 1 tab, QID  
+HARNALIDGE D 0.2 mg/tab, 2 tab, QD  
+Aspirin 100 mg/tab, 1 tab, QDPC  
+(管2) Codeine 15 mg/tab, 1 tab, Q6H  
+Predonine 5 mg/tab, 2 tab, QD
+吸 Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl, 2 puff, QD  
+甘草 200 Compound Glycyrrhiza Mixture 200 mL/btl, 10 mL, BID  
+Actein Effervescent Tablet 600 mg/tab, 1 tab, BID  
+吸 Striverdi Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl, 2 puff, QD
+
+Other: nil
+中草藥: nil
+保健食品: nil
+Past Medical History:
+1. Atypical pneumonia complicated with acute hypoxemic respiratory failure s/p ETT+MV (2016/10/15-10/31), progressed to ARDS s/p iNO (2016/10/16-10/17), complicated with MDRAB colonization (11/02 sputum culture)
+2. Lung squamous cell carcinoma, right upper lobe,T2aN2M0, stage IIIA, s/p curative
+radiotherapy for right upper lobe lung tumor & right hilar/mediastinal lymphadenopathies (2016/12/28-2017/02/06), s/p Navelbine(D1,D8)+Cisplatin(D8) (C1D1=2017/02/17, C1D8=2017/02/24, C2D1=2017/03/09, C2D8=2017/03/16, C3D1=2017/03/31, C3D8=2017/04/09)
+3. Idiopathic pulmonary fibrosis, under nintedanib(OFEV)
+4. Coronary artery disease, one-vessel-disease
+
+Hospitalization:
+內科部 入: 2017/04/20 出: 2017/05/08 診斷: Idiopathic pulmonary fibrosis  
+內科部 入: 2017/04/08 出: 2017/04/10 診斷: Malignant neoplasm of unspecified part of right bronchus or lung  
+內科部 入: 2017/03/16 出: 2017/03/17 診斷: Malignant neoplasm of unspecified part of right bronchus or lung  
+內科部 入: 2017/02/24 出: 2017/02/25 診斷: Lung cancer, right  
+內科部 入: 2017/02/01 出: 2017/02/18 診斷: Lung cancer, right  
+內科部 入: 2016/12/26 出: 2017/01/26 診斷: Lung cancer, right  
+內科部 入: 2016/10/15 出: 2016/12/20 診斷: Lung cancer, right  
+Past Surgical History:
+2016/12/16 Operative Method: Port-A insertion 
+Travel History:denied
+Smoking: 30+ years, quit for 10 years
+Alcohol: nil
+Betenut: nil 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:小學
+職業:退休
+宗教信仰:民間信仰
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:O，RH:不清楚，輸血反應:不清楚
+抽煙:沒有，已戒煙:8年
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Fall Risk Assessment
+總分:11
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+<General>
+  Weight loss(-), Weight gain(-), Fever or chills(-),Weakness(-), Trouble sleeping(-), Fatigue(-)
+<Skin>
+  Rashes(-), Lumps(-), Itching(-), Dryness(-), Color changes(-), Hair and nail changes(-), .
+  Petechiae(-), Purpura(-), Head wound(-)
+<HEENT>
+Head-
+  Headache(-), Head injury(-)
+Ears-
+  Hearing impairment(-), Tinnitus(-), Otalgia(-), Otorrhea(-)
+ Eyes-
+  Blurred Vision(-), Double vision(-), Pain(-), Redness(-), Flashing lights(-), 
+  Glaucoma(-), Cataracts(-)
+ Nose-
+  Stuffiness(-), Discharge(-), Itching(-), Epistaxis(-), Sinus pain(-)
+ Oral Cavity and Throat-
+  Teeth problem(-), Gum Bleeding(-), Dentures(-), Sore throat(-), Hoarseness(-)
+  Thrush(-), Ulcer(-)
+ Neck-
+  Lumps(-), Swollen glands(-), Pain(-), Stiffness(-)
+<Breasts>
+  Lumps(-), Pain(-), Discharge(-)
+<Respiratory>
+  Cough(-), Sputum(-), sticky and whitish, Dyspnea(-), Wheezing(-), Painful(-)
+<Cardiovascular>
+  Chest pain or discomfort(-), Tightness(-), Palpitations(-), Dyspnea(-),Orthopnea(-), 
+  Edema(-), Nocturnal dyspnea(-)
+<Vascular>
+  Claudication(-), Leg cramping(-)
+<Gastrointestinal>
+  Dysphasia(-), Heartburn(-), Acid regurgitation(-), Change in appetite(-), Nausea(-), Vomiting 
+ (-), Haematemesis(-), Change in bowel habits(-), Constipation(-), Diarrhea(-), Yellow eyes and 
+  skin(-)
+<Urinary>
+  Frequency(-), Urgency(-), Burning or pain(-), Hematuria(-), Incontinence(-), Dysuria(-)
+<Genital>
+ Male-
+ Hernia(-), Penile discharge(-), Mass(-), Itching (-), skin rash(-)
+<Musculoskeletal>
+  Myalgia(-), Arthralgia(-), Stiffness(-), Back pain(-), Redness of joints(-), Swelling of joints
+ (-), Trauma(-)
+<Neurologic>
+  Dizziness(-), Fainting(-), Seizures(-), Weakness(-), Numbness(-), Tingling(-) , Tremor(-)
+<Hematologic>
+  Easy bruising(-), Easy bleeding(-)
+<Endocrine>
+  Hot intolerance(-), cold intolerance(-), Sweating(-), Polyuria(-), Polydipsia(-), 
+  Polyphagia(-)
+<Psychiatric>
+  Nervousness(-), Depression(-), Memory loss(-), Stress(-) 
+身體檢查(Physical Examination) 
+BH: 161 cm   BW:62.35 kg
+. Consciousness: clear
+. Muscle power: Upper limbs-Right:5 , Left:5 . Lower limbs-Right:5 , Left:5
+. Gait: no testing
+GENERAL:
+ Vital signs: 113/76 mmHg , TPR: 36.3℃/ 110 bpm / 38/min 
+ Consciousness: GCS E4M6V5, Pain score: 0
+ Orientation: Person (+); Time (+); Place (+)
+HEENT:
+ Deformity: nil,Rash(-),Panda eye(-)      
+ Pupil(3.0/3.0), Light reflex : Right(+); Left:(+) 
+ Conjunctiva: pink, Sclera: anicteric	
+ Ear: deformity(-), ear discharge(-), hear impaired(-)
+ Throat: Thrush(-), mass(-), ulcer(-)
+ NECK: Stiffness(-), Palpable LAP(-), Jugular Vein Engorgement(-), Goiter(-)
+CHEST: 
+ Deformity(-), Mass(-), Tenderness(-), Palpation crepitus(-) 
+ Expansion: Symmetrical, Breath sounds: bilateral clear
+HEART: 
+ regular heart beat, Audible murmur(-)
+ABDOMEN:
+ Superficial vein engorgement(-), Bowel Sounds:normactive
+ Local Tenderness(-), Rebounding Pain(-), Muscle Guarding(-), Murphy’s Sign(-), 
+ Palpable Mass(-), Shifting Dullness(-), Liver: not palpale, Spleen: not palpale
+BACK:
+ Deformity(-), CV angle knocking tenderness(-)
+EXTREMITY:
+ Limitation of movement(-), Deformity(-), Peripheral Cyanosis(-) 
+ Clubbing Finger(-), Pitting Edema(-)
+ Muscle power: Upper limbs-Right: 5, Left: 5, Lower limbs-Right: 5, Left: 5
+ Pulsation: R/L- CA(++/++) BA(++/++) RA(++/++) FA(++/++) PA(++/++) PTA(++/++) 
+ DPA(++/++)
+SKIN: 
+ Rash(-), Tumor(-), Ecchymosis(-), Purpurae(-), depigmentation(-)
+ vesicle/bullae(-), pressure sore(-), head wound(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060626 [0929] 7.73          3.67          11.0          34.8          94.8         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060626 [0929] 30.0          31.6          191           16.7          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060626 [0929] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060626 [0929] 80.4          1.7           0.0           7.0           10.9         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060626 [0929] 0.0           0.0           0             -            
+群組:Coagulation
+
+               PT            aPTT          PT INR       
+time/item      (sec)         (sec)         ()           
+1060626 [0930] 9.9           29.8          0.90         
+群組:General BioChemistry
+
+               Acid Fast     ALB           ALT          
+time/item      (*)           (g/dL)        (U/L)        
+1060626 [0931]               3.9           13           
+1060626 [1003] Negative/300                             
+                OPF                                     
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ammonia N    
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)     
+1060626 [0929]                                                         24           
+1060626 [0931] 11.5          0.6           135           3.4                        
+               T-BIL         Ca            Mg            LacticAcid    CK           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)      (U/L)        
+1060626 [0929]                                           0.93                       
+1060626 [0931] 0.85          2.21          0.88                        37           
+群組:Yes
+
+               hsCRP         NT-pro BNP   
+time/item      (mg/dL)       (pg/mL)      
+1060626 [0931] 7.60          79.26        
+群組:STAIN
+
+               Gram's(GS)#1  Gram's(GS)#2  Gram's(GS)#3  Gram's(GS)#4  Gram's(GS)#5                                                                       
+time/item      (*)           (*)           (*)           (*)           (*)          
+1060626 [1003] Moderate PMN  Many epithel  G(+)cocci 2+  G(-)Bacilli   G(+)Bacilli  
+               s(10-25/LPF)  ial cells(>=                              2+            1+                         
+                             25/LPF)                                                
+1060626 [2330] Many PMNs(>=  Many epithel  G(+)cocci 2+  G(-)Bacilli                
+               25/LPF)       ial cells(>=                              1+                         
+                             25/LPF)                                                
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketone (Urin 
+                                                                    e)           
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1060626 [1224] 1.028         6.5           10 ( +/- )    -             1+           
+               O.B.(C)(Urin  Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+               e)                                                       (Urine)     
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1060626 [1224] -             ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1060626 [1224] Yellow        -            
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1060626 [1224] 2-5           0-2           0-2           -             -            
+               Bacteria      Others(S)    
+time/item      (*)           (*)          
+1060626 [1224] -             -            
+群組:
+
+               Troponin-T    eGFR          CK-MB         Mucus(S)     
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)       (*)          
+                              m^2)                                    
+1060626 [0931] 27.39         142.8         0.882                      
+1060626 [1224] 23.02                                     -            
+*********檢驗室:BC***********
+
+群組:Hormones
+
+               Cortisol DL   ACTH         
+time/item      (μg/dL)       (pg/mL)      
+1060626 [1224] 7.25          <5.00        
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060626 [0919] 7.486         36.7          88.3          27.9          4.2          
+               SO2          
+time/item      (%)          
+1060626 [0919] 97.5         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1060626 [0919] 1.16          11.9          36            4.01          133.1        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1060626 [0919] 137           0.7          
+*********檢驗室:VF***********
+
+群組:Yes
+
+               Influenza A+ 
+               B Rapid Scre 
+               ening Test   
+time/item      ()           
+1060626 [0954] Negative     
+*********檢驗室:SA***********
+
+群組:Yes
+
+               Legionella U 
+               rinary Ag    
+time/item      (*)          
+1060626 [1224] Negative     
+*********檢驗室:B5***********
+
+群組:Yes
+
+               Pneumococcus 
+                rapid scree 
+               n(urine)     
+time/item      (*)          
+1060626 [1224] Pneumococcal 
+                antigen: Ne 
+               gative       
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1060626 [0927] 136          
+1060626 [2011] 156          
+1060627 [0406] 136          
+
+*********檢驗室:B3***********
+B3-1060626-6030830   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Many PMNs ( >25 /LPF )
+     Gram's(GS)#2:       Many epithelial cells ( >25 /LPF )
+     Gram's(GS)#3:       Gram (-) rods 1+
+     ID+DS Sputum Culture #1:       Mixed flora
+     Gram's(GS)#4:       Gram (+) cocci in chains 1+
+     Gram's(GS)#5:       Gram (+) rods,  痰檢體品質不良建議重新送檢 1+
+
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1060626 [0929] O             Positive     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1060626 [0929] Negative 
+檢查紀錄(Examination Report) 
+Nil 
+影像報告(Imaging Report) 
+Chest: AP View (Supine) 醫令: Chest: AP View (Supine) 報告醫師: 葉建德 影像時間: 2017/06/26 09:36 (32001CYM) 發報告時間: 2017/06/26 09:57 cardiomegaly. ill-defined opacities in bilateral lungs. placement of a left Port-A catheter.
+CT Without Contrast-Chest 醫令: CT Without Contrast-Chest 報告醫師: 陳信銘 影像時間: 2017/06/26 11:57 (33070B2M) 發報告時間: 2017/06/26 12:24 CT of chest without contrast enhancement is read and compared with prior study on 2017-4-20 for comparison.
+FINDINGS:
+- Lungs/large airways: 
+  -- the mass in RUL became much smaller.(SE2 IM26)
+  -- diffuse pulmonary fibrosis with lower lobe and subpleural honeycombing, the pattern is compatible with idiopathic pulmonary fibrosis, stationary.
+  -- Increased ground-glass nodule or airspace consolidation in bilateral lung, suspected pulmonary infection/inflammation.
+- Pleura: no effusion.
+- Thoracic lymph nodes: small mediastinal lymph nodes.
+- Heart/great vessels: atherosclerotic calcification of the aorta and coronary arteries. 
+- Adrenal glands: no definite lesion.
+- Bones: spondylosis with marginal spur formation. Old fractures in left clavicle and ribs.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳佾昌 影像時間: 2016/11/02 10:19 (32001CYM) 發報告時間: 2017/06/22 11:25 Chart No: 6391255
+Accession No: T0161442110
+EXAMINATION: Chest - AP View (Supine).
+FINDINGS:
+Normal heart size. Bilateral lung consolidation and/or pleural effusion. Nodular opacity at right middle lung field. This study is reassigned to current radiologist on 2017/06/22. 
+病理報告(Pathology Report) 
+S1648722
+Lung,upper lobe,right,echo-guided biopsy,c/w squamous cell carcinoma 
+臆斷(Tentative Diagnosis) 
+#. Type 1 respiratory failure
+#. Pneumonia
+#. Lung squamous cell carcinoma, right upper lobe,T2aN2M0, stage IIIA, s/p curative radiotherapy for right upper lobe lung tumor & right hilar/mediastinal lymphadenopathies (2016/12/28-2017/02/06), s/p Navelbine(D1,D8)+Cisplatin(D8) (C1D1=2017/02/17, C1D8=2017/02/24, C2D1=2017/03/09, C2D8=2017/03/16, C3D1=2017/03/31, C3D8=2017/04/09)
+#. Idiopathic pulmonary fibrosis, under nintedanib(OFEV)
+#. Coronary artery disease, one-vessel-disease 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*.Pneumonia with type 1 respiratory failure
+A:
+No fever
+Conscious clear
+Respiratory pattern dyspnea
+Non re-breathing mask 15L/min,SpO2:84%
+Breathing sounds crackles at bilateral lung
+On soft diet,no choking
+Abdomen soft
+Bowel sound normactive
+Limb edema(-)
+6/26-AFS【－】
+     Chest CT(-c)【RUL lung cancer, much smaller. Idiopathic pulmonary fibrosis. Pulmonary 
+                   infection/inflammation.】
+     -Influenza A+B Rapid Screening Test【－】
+     -Pneumococcus rapid screen(urine)【－】
+     -Pneumocystis jirovecii(PJP)(RT-PCR)【 】
+     -Legionella Ag (Urine)【－】
+     -Mycoplasma pneumoniae IgM【－】
+     -Chlamydophila pneumonia IgM Ab【－】
+	WBC	Hb	PLT	Seg
+6/26	7.73	11.0	191	80.4
+P:
+. Keep NRM
+. Watch out choking 
+. Keep empiric antibiotic therapy of Tazocin 
+. Keep Spiriva(LAMA) and Striverdi(LABA)(highly selective long activing beta 2 agonist)
+. Keep SoluMedrol 20mg q8h(6/26-), baseline Predonine 10mg qd for a long period
+. Keep contact isolation, MDRAB identified in 2016/06, further exam 
+. Keep aspirin
+. Check stool OB
+Treatment Goal:Palliative care and tapper to nausal cannula 
+出院規劃(Discharge Planning) 
+管路留置狀況:無
+日常生活功能分數：35
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：配偶 女兒 
+出院規劃收案篩檢：高危病患 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I had revised the patient history. 
+醫師姓名 
+楊佳鈴 主治醫師 

@@ -1,0 +1,29 @@
+Unstable BP, tachycardia
+Poor oxygenation
+No fever
+
+Airway resistance decrease: 17--> 14, fair response to bronchodilator 
+Oozing from tracheostomy wound
+
+2016/01/28 
+LacticAcid:1.35 mmol/L
+PH:7.461 *
+PCO2:43.9 mmHg
+PO2:74.5 mmHg
+HCO3:31.6 mmol/L
+BaseExcess:7.6 mmol/L
+Sugar(One touch):103 *
+K:2.9 mmol/L
+Ca:1.90 mmol/L
+Mg:0.73 mmol/L
+P:3.1 mg/dL
+Na:137 mmol/L
+
+Plan:
+Correct electrolyte imbalance
+Mild I/O negative
+Infection control
+ Mepem+Van
+Bronchodilator
+Chest care
+Slower feeding grogression via PEG + PN for refeeding syndrome

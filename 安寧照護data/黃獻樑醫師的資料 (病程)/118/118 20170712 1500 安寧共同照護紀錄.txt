@@ -1,0 +1,28 @@
+[Assessemnt]
+2017-07-12: a 67 years old man was a case of 1. Acute on chronic hypoxemic respiratory failure, status post ETT+MV (2017/06/28-), supsected CAP and/or IPF AE related, r/o ARDS,
+2. Idiopathic pulmonary fibrosis, under Nintedanib and steroid,
+3. Shock, suspected septic shock, suspected ventilator associated pneumonia related, r/o CRBSI, 4. Clostridium difficle related diarrhea, 5. Relative adrenal insufficiency,
+6. Ileus, suspected sepsis related, improved, and 
+7. Thrombocytopenia, suspect Tazocin related.
+
+ECOG:4
+Consciousness: comatous under strong sedation
+Vital signs:
+2017/07/12 13:18 T:36.8 P:92 R:18
+2017/07/12 13:18 BP:137/72 under levophed
+2017/07/12 13:18 SpO2:100%(%,L,)
+hypotension with inotropic agents support persisted
+Keep MV full support
+
+[訪視摘要]
+會談對象:配偶
+1. 病情認知及調適評估
+訪視時配偶與女兒陪伴，配偶滿是淚水時十分不捨，表達這次入院發生突然，沒想到變化那麼快，病人一直不想再插管，但因為想著也許會度過因此選擇插管，沒想到這次這麼困難，可能無法脫離機器。給予陪伴傾聽，進而引導思考於上次入住加護病房時病人病況已十分不穩定，肺部功能會持續惡化，病人及家人都已盡了最大的努力，配偶點頭表示了解。
+2. 提供心理支持、哀傷撫慰
+訪視期間配偶持續流淚，不斷輕撫病人臉、手，十分不捨、哀傷；女兒情緒較為平穩、靜默陪伴。陪伴，同理其哀傷及決策困難，給予安撫及情緒支持。
+
+[Plan]
+1. 持續安寧共照，預計轉介共照小組志工提供靈性關懷、哀傷輔慰。
+2. 評估家屬情緒十分哀傷，與病人關係緊密，預期為哀傷高危險群，建議可評估照會臨床心理中心心理師介入。
+
+原團隊共同照護成員:蘇浩俊醫師

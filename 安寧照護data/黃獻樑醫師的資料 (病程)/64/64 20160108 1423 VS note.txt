@@ -1,0 +1,12 @@
+#CVA, recurrent 
+#PAOD, s/p amputation
+#DM, HTN, CAD s/p CABG
+dysphagia , improved
+2016/01/08 10:07 BP:141/81
+2016/01/08 10:06 T:36.6 P:85 R:19
+2015/12/31 MRI Without Contrast--Brain (V1)
+MRI of brain without contrast enhancement shows
+Recent infarction at right paramedian pons Brain atrophy, leukoaraiosis and multiple old insults. Diffuse atherosclerotic narrowing of cervicocranial vessels
+>> monitor neurologic signs
+>> monitor sugar , avoid choking
+>> keep Rehab

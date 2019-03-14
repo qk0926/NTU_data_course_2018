@@ -1,0 +1,300 @@
+2015/10/05 18:01 
+主訴(Chief Complaint) 
+Informant:families and medical record
+out of hospital cardiac arrested found on 11:57 am 
+病史(Brief History) 
+This is a patient with 
+1. Moderatedly-differentiated squamous cell carcinoma over lower left edentulous area, cT4aN2bM0, stage IVa, s/p carboplatin CCRT (40 Gy/16 fx, 2015/08/31 ~ 2015/09/22)
+2. right lower bucco-gingival mucosa, pT4aN0M0, stage IV status post operation(method:wide tumor excision+segmental mandibulectomy + SND + optional PMMCF + tracheostomy)(2008.3.20)
+3. DM
+4. Hypertension
+   She was now receiving CCRT (last chemo: 2015/9/17, RT: 2015/09/22). She was ADLs independent but weakness was reported recently. Her caregiver reported she had much sputum recently and choking noted sometimes. This time, she was just about to have her lunch. Collapse was noted before eating, and CPR was performed by EMT for 17  min (initial rhythm: non-shockable), and was sent to NTUH ER for CPR for 7 min. ROSC was noted later. (11:57 call 119, EMT arrived at 12:00. arrived NTUH on 12:17.) 
+   She was sent to ICU for therapeutic hypothermia and postresuscitation care.
+
+Family History: 
+cardiovascular disease(-),
+diabetes mellitus(-),
+hypertension(-)
+cancer(-)
+Medication Allergy:No  親屬描述 2015/08/05
+No  舊病歷資料 2010/03/01
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  親屬描述 2015/08/05
+Current Medication:
+NTUH:TAZOCIN (based on piperacillin content) 2000 mg/vial 3000 mg STAT IF 1 days
+TAZOCIN (based on piperacillin content) 2000 mg/vial 3000 mg Q6H IF 2 days
+警 Levophed 4 mg/4 mL /amp 8 mg QD cIF 2 days
+PCN Test (Penicillin G Skin Test) 1000 U/1 mL 2 mL/vial 0.1 mL ONCE ID 1 days
+(鈣) Vitacal 5.4 mEq/20 mL /amp 10.8 mEq STAT IV 1 days
+Kalimate 5 g/pack 3 pack STAT PO 1 days
+Rolikan 16.6 mEq/20 mL /amp 33.2 mEq STAT IV 1 days
+警 Humulin R 1000 U/10 mL /vial 10 U STAT IV 1 days
+警 Adrenaline 1 mg/1 mL /amp 4 mg STAT IV 1 days
+警 Vitagen 50% 20 mL/amp 40 mL STAT IV 1 days
+Transamin 250 mg/cap 1 cap TID PO 14 days
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 14 days
+Acemet Retard 90 mg/cap 1 cap BIDPC PO 14 days
+Gaster D 20 mg/tab 1 tab BID LZ 14 days
+Norvasc 5 mg/tab 1 tab QD PO 7 days
+(管2) Codeine 30 mg/tab 1 tab Q4H PO 7 days
+(管4) Ultracet tab /tab 1 tab QID PO 7 days
+MgO 250 mg/tab 2 tab TID PO 7 days
+(管4) Eurodin 2 mg/tab 0.5 tab HS PO 7 days
+Amaryl 2 mg/tab 1 tab QD PO 7 days
+Lungtec 10 mg/tab 1 tab HS PO 7 days
+Nincort Oral Gel 0.1% 6 g/tube 1 XX BID OR 7 days
+Other:
+中草藥:denied
+保健食品:denied
+Past Medical History: as mentioned above
+Hospitalization:入院日期:2015_08_05 出院日期:2015_08_11 診斷:Malignant neoplasm of pharynx, unspecified
+
+Past Surgical History: right lower bucco-gingival mucosa, pT4aN0M0, stage IV status post operation(method:wide tumor excision+segmental mandibulectomy + SND + optional PMMCF + tracheostomy)(2008.3.20)
+
+Travel: denied                          Cluster:denied
+Contact: denied                         Occupation:retired 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:小學
+職業:退休
+宗教信仰:佛教
+婚姻狀態:喪偶
+使用語言:國語 台語 
+口述血型:AB，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:昏迷
+認知功能:無法評估 
+精神情緒狀態:無法評估  
+安全問題:有 其他 fall
+睡眠形態:異常 其他 E1M1VT
+
+Nutritional Screen
+攝食情形:50-74%,普通
+排便狀態:正常
+BMI:19.48
+
+Fall Risk Assessment
+總分:16
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular:  exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(-), cough(+), chest pain(-), hemoptysis(-), productive cough (-), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH:151 cm   BW:46.8 kg
+T:35.7 P:86 R:16
+BP:168/53 mmHg
+Pain:0
+
+Neurological Examination:
+. Consciousness: comatous
+. Muscle power: --
+. Gait:--
+
+‧Head-Eye-ENT 
+        grossly normal, conjunctiva: not pale, sclera: anicteric
+        Pupil: isocoric,  3mm/ 3mm
+        Light reflex: L/R: +/+, 
+‧Neck
+	Jugular vein engorgement(-)
+‧Chest
+	Thoracic cage contour: symmetric
+        Breath sound: course
+	Crackles(-) wheezes(-)rhonchi(-) stridor(-)
+‧Heart
+	Heart beat: regular,  Murmurs(-)
+‧Abdomen
+        Flat & soft
+	Bowel sound: Normoactive
+‧Extremities
+        Pitting edema (-) ; Cyanosis (-)
+        Peripheral pulsation( Right side/ Left side ):
+            Brachial artery (++/++), Radial artery(++/++),
+            Femoral artery(++/++), Dorsalis pedis artery(++/++).
+‧Back
+        Flank knocking tenderness(-)
+‧Skin
+	Abnormal pigmentation(-)
+‧Lymphadenopathy(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1040924 [1042] 10.10         3.80          10.5          32.5          85.5         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1040924 [1042] 27.6          32.3          222           13.0          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1040924 [1042] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1040924 [1042] 81.0          5.9           0.3           5.4           7.4          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1040924 [1042] 0.0           0.0           0             -            
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               T-BIL         ALT           ALP           LDH           CRE          
+time/item      (mg/dL)       (U/L)         (U/L)         (U/L)         (mg/dL)      
+1040924 [1042] 0.36          11            72            178           0.7          
+               Na            K             Ca           
+time/item      (mmol/L)      (mmol/L)      (mmol/L)     
+1040924 [1042] 129           5.1           2.18         
+
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1041005 [1235] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1041005 [1235] AB            Positive     
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ammonia N    
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)     
+1041005 [1234] 9.8           0.6           107           6.4           104          
+               T-BIL         Ca            Mg            LacticAcid    CK           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)      (U/L)        
+1041005 [1234] 0.33          2.18          1.12          12.73         251          
+               CK-MB         %CKMB         Troponin I   
+time/item      (U/L)         (%)           (ng/mL)      
+1041005 [1234] 33            13.1          0.028        
+群組:Yes
+
+               pro-BNP      
+time/item      (pg/mL)      
+1041005 [1234] 1600         
+群組:General BioChemistry
+
+               ALB           ALT          
+time/item      (g/dL)        (U/L)        
+1041005 [1234] 3.1           21           
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1041005 [1234] 10.5          46.3          0.99         
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041005 [1234] 0.0           0.0           0.0           0.9           2.8          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041005 [1234] 74.5          1.0           0.0           6.6           14.2         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041005 [1234] 0.0           0.0           0.0           -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041005 [1234] 11.68         3.46          9.7           27.4          79.2         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041005 [1234] 28.0          35.4          174           13.1          - 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 施怡倫 影像時間: 2015/10/05 13:17 (32001CYM) 發報告時間: 2015/10/05 13:27 EXAMINATION: Chest : AP View (Supine)
+FINDINGS:
+Placement of an endotracheal tube, a NG tube, and a right central venous catheter. Normal heart size with calcified aorta. Patchy opacities at the right upper lung zone. Surgical clips at the right lower neck. 
+病理報告(Pathology Report) 
+094/08/06 S0520428
+Oral cavity,buccal mucosa,right,incisional biopsy,verrucous carcinoma    
+Oral cavity,gingiva,mandibular,right,incisional biopsy,verrucous carcinoma    
+Oral cavity,gingiva,mandibular,left,incisional biopsy,mild dysplasia hyperkeratosis   
+097/04/09 S0808570
+Oral cavity,gingiva and buccal mucosa, right,wide excision,squamous cell carcinoma moderately differentiated,   
+Skin,face, right,wide excision,squamous cell carcinoma,invasive    
+Bone,mandible, right,segmental mandibulectomy,squamous cell carcinoma,invasive    
+Lymph node,neck, right, level I-V,modified radical neck dissection,no evidence of metastasis (51/ 51),   
+Salivary gland,submandibular, right, modified radical neck dissection,,sternocleidomastoid, right, modified radical neck,no evidence of malignancy    
+Muscle,sternocleidomastoid, right,sternocleidomastoid, right, modified radical neck,no evidence of malignancy    
+ S1529850
+Oral cavity,gingiva, edentulous ridge, lower, left,incisional biopsy,squamous cell carcinoma moderately-differentiated, 
+臆斷(Tentative Diagnosis) 
+1. Out of hospital cardiac arrest, choking or sputum impaction related, and hypoxic encephalopathy.
+2. Moderatedly-differentiated squamous cell carcinoma over lower left edentulous area, cT4aN2bM0, stage IVa, s/p carboplatin CCRT (40 Gy/16 fx, 2015/08/31 ~ 2015/09/22)
+3. right lower bucco-gingival mucosa, pT4aN0M0, stage IV status post operation(method:wide tumor excision+segmental mandibulectomy + SND + optional PMMCF + tracheostomy)(2008.3.20)
+4. DM
+5. Hypertension 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*
+P
+1. Out of hospital cardiac arrest, choking or sputum impaction related, and hypoxic encephalopathy
+2. Hyponatremia
+
+A
+BH:151 cm   BW:46.8 kg
+T:35.7 P:86 R:16
+BP:168/53 mmHg
+Pain:0
+
+WBC:11.68 K/μL
+HB:9.7 g/dL
+PLT:174 K/μL
+pro-BNP:1600 pg/mL
+Troponin I:0.028 ng/mL
+Na:107 mmol/L
+K:6.4 mmol/L
+Ammonia N:104 μmol/L
+LacticAcid:12.73 mmol/L
+
+CT:hypoxic ischemic encephalopathy, left lower gingival cancer with neck metastases, suspected lung metastasis.
+
+P:
+1. Follow Hypothermia protocol and completed hypothermia therapy. 
+2. Corrected Na+. Close f/u Na+. 
+3. Empirical antibiotics: tazocin
+4. Informed family for possibility of comatose status due to CT report (however,need to wait for EEG and brain perfusion after completed hypothermia). They signed DNR. 
+
+
+Treatment Goal: completed hypothermia therapy. 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右頸 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  6.5mm 
+胃造廔口：無  
+尿管留置：有 Two way Foley 16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：無
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：兒子 
+出院規劃收案篩檢：高危病患 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the resident's assessment. 
+醫師姓名 
+袁昂 主治醫師 

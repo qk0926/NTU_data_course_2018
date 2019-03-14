@@ -1,0 +1,24 @@
+1. Right side lobar pneumonia (right upper lobe and right lower lobe), under antibiotic treatment
+2. Hypoxia respiratory failure
+3. Non-small cell lung carcinoma, adenocarcinoma, left upper lobe, cT2aNoM1, stage IV, with bone metastasis, status post Afatinib (2016/10/12-),s/p palliative R/T to bone metastases(2016/5-2016/8), disease progression, under Cisplatin and Alimta C1D1 on 2017/01/04
+1. For Rt lobar pneumonia with impending respiratory failure
+  -keep Cravit, pursue cultures data 
+  -Keep BiPAP, follow CXR QD/QOD
+  -If worsening ABG or respiratory pattern, intubate the patient, and arrange elective tracheostomy
+2. For pleural effusion and lung cancer
+  -keep drainage with pigtail catheter QOD
+  -Malignant cell(+)
+  -C1D1 Cisplatin+Pemetrexed on 1/4, further anti-cancer therapy is not feasible currently
+  - may start AZD9291 treatment soon
+
+Pharmacist:
+Add cefepime for pneumonia control. 
+Adjust dose according to renal function.
+
+RT:
+<Plan>:
+1.Keep Ventilator full support
+2.Treatment pneumonia.
+
+Nurse:
+給予插管後肺炎護理，配合抗生素治療，隨醫療團隊決定追蹤抽血數值及外送檢察。/N1羅振豪。

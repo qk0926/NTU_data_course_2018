@@ -1,0 +1,295 @@
+2016/12/09 01:33 
+主訴(Chief Complaint) 
+Informant:His daughter and medical record
+Found coma on 2016/12/08 morning 
+病史(Brief History) 
+The 66-year-old man has the following medical conditions:
+1. Diabetes mellitus with nephropathy, proteinuria, and retinopathy
+2. Previous stroke without major sequela (2001)
+3. Right diabetic foot, status post below-knee amputation (2013)
+4. Previous upper gastrointestinal bleeding (2013)
+
+Due to diabetes, retinopathy and previous stroke, he was regularly followed at 和平醫院's metabolism, neurology and ophthalmology clinics. In early 2016, he was able to perform part of the ADLs on a electric wheelchair. He could buy himself a lunchbox and fed by himself without obvious choking. Since 2016/10, he developed progressive "dementia" symptoms; for example, he paid twice while buying something, got lost in the street and brought home by the police. He talked little, and was unable to name his family members. Since 2016/11, he developed urine intcontinence mandating diapers.
+He was cared by his daughters and son living nearby his home. At most of the time, he was alone at home. His eldered daughter attended him on 2016/11/07 night. She brought some fruits, and the patient could say "sweet!" after having some. The time of last normal was around 11/07 22:00. On the next morning (11/08 08:00), her daughter was surprised by his lying on the left side of the wheelchair, appearing unconscious. He was brought to 和平醫院. CT and MRI were performed there. Encephalitis or stroke was considered. Acyclovir 750mg was administered. He was transferred to NTUH.
+At NTUH, addition history was obtained. There was no recent fever, focal weakness, nasal discharge or seizure-like movements. He did not receive vaccination this year. TOCC history was unremarkable.
+At NTUH ER, the trachea was intubated and he was transferred to 3B ICU for further management.
+
+Family History:no stroke or CAD
+Medication Allergy:No  親屬描述 2016/12/08
+No  親屬描述 2016/12/08
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  親屬描述 2016/12/08
+No  親屬描述 2016/12/08
+Current Medication:
+NTUH:瓶500 KCl in NS Inj 20 mEq/500 mL /btl (信東 0.298% KCl) 40 mEq STAT IF 1 days
+Rocephin 500 mg/vial 1000 mg Q12H IV 2 days
+Rocephin 500 mg/vial 1000 mg STAT IV 1 days
+警 Relaxin 500 mg/vial 不計價常備藥 50 mg STAT IV 1 days
+(管4) 5 Dormicum 5 mg/1 mL /amp 5 mg STAT IV 1 days
+Other:nil
+中草藥:nil
+保健食品:nil
+Past Medical History:as above
+Hospitalization:as above
+Past Surgical History:as above
+Travel History:nil 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:高中
+職業:退休
+宗教信仰:無
+婚姻狀態:離婚
+使用語言:國語 台語 
+口述血型:B，RH:RH-，輸血反應:無
+抽煙:有，煙齡:50年，3支/天
+
+喝酒:沒有，已戒酒:3年
+檳榔:沒有
+物質濫用:沒有
+
+Fall Risk Assessment
+總分:10
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+General:
+Consciousness loss(+, for 1 day), fever(-), weight change(-), syncope(-), night sweats(-)
+HEENT:
+Headache(-), dizziness(-), ENT(-), neck stiffness(-), neck mass(-), goiter(-)
+CV-Chest:
+Angina/dyspnea(-), palpitation(-), orthopnea/nocturnal dyspnea/cough(-)
+Increased sputum amount(-), sputum purulence(-), hemoptysis(-), cough(-), wheeze(-)
+Abdomen:
+Abdominal pain(-), nausea(-), vomiting(-), heartburn(-), jaundice(-), constipation(-), diarrhea(-), hematemesis(-), tarry stools(-)
+Others:
+Dysuria(-), hematuria(-)
+Bruises(-), previous transfusions reactions(-)
+Edema(-), claudication(-)
+Musculoskeletal discomfort(-), numbness(-), paresis/plegia(-)
+Skin, nail and breast abnormality(-) 
+身體檢查(Physical Examination) 
+BH: NA cm,  BW: 53.1 kg
+T: 37.1 °C,  P: 126 bpm,  R: 19 /min
+BP: 141 / 90 mmHg
+Pain score:N/A
+CVP 10mmHg
+
+Consciousness: coma, E1M2Vt
+Muscle power: N/A, some twitching in the left lower limb
+Conjunctiva: pink, sclera: anicteric
+Jugular vein: not engorged, goiter(-), meningeal signs(-), carotid bruit(-)
+Lymphadenopathy(-)
+Breathing sound: rhonchi bilaterally
+Heart sound: regular, murmurs(-)
+Abdomen: soft, tenderness(-), bowel sound: normoactive
+Liver and spleen: impalpable
+Skin lesions(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               BUN           CRE           Na            K             T-BIL        
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)      
+1051208 [2026] 56.6          2.8           148           3.4           0.28         
+               AST           LacticAcid    CK           
+time/item      (U/L)         (mmol/L)      (U/L)        
+1051208 [2026] 142           1.26          4428         
+群組:General BioChemistry
+
+               GGT           ALP           LDH          
+time/item      (U/L)         (U/L)         (U/L)        
+1051208 [2026] 36            119           476          
+群組:
+
+               Troponin-T    eGFR          CK-MB        
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)      
+                              m^2)                      
+1051208 [2026] 1723          24.2          54.90        
+
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1051208 [1658] 16.92         4.51          13.0          39.2          86.9         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1051208 [1658] 28.8          33.2          249           13.3          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1051208 [1658] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1051208 [1658] 91.1          0.0           0.1           3.8           5.0          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1051208 [1658] 0.0           0.0           0             -            
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1051208 [1658] 10.4          26.0          0.96         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1051208 [1658] 58           
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ammonia N    
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)     
+1051208 [1658] 54.2          2.8           143           3.0                        
+1051208 [1659]                                                         28           
+               Ca            Mg            LacticAcid    CK           
+time/item      (mmol/L)      (mmol/L)      (mmol/L)      (U/L)        
+1051208 [1658] 2.11          0.85                        5019         
+1051208 [1659]                             2.36                       
+群組:Yes
+
+               NT-pro BNP   
+time/item      (pg/mL)      
+1051208 [1658] 4403         
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1051208 [1740] 1.023         6.0           600 ( 3+ )    >1000 ( 4+ )  +/-                        
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1051208 [1740] 3+            ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1051208 [1740] Yellow        +            
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1051208 [1740] 2-5           5-10          2-5           Gr(2-5) Waxy  -            
+                                                       (0-2)                      
+               Bacteria      Others(S)    
+time/item      (*)           (*)          
+1051208 [1740] -             -            
+群組:
+
+               Troponin-T    eGFR          CK-MB         Mucus(S)     
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)       (*)          
+                              m^2)                                    
+1051208 [1658] 1885          24.2          63.25                      
+1051208 [1740]                                           -            
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1051208 [2027] 7.356         37.0          100.1         20.9          -4.9         
+               SO2          
+time/item      (%)          
+1051208 [2027] 97.5         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1051208 [2027] 1.11          11.7          35            3.18          138.7        
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1051208 [1650] 211          
+1051208 [2029] 182          
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1051208 [1702] B             Negative     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1051208 [1702] Negative 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+Chest: AP View (Supine) 醫令: Chest: AP View (Supine) 報告醫師: 吳志宏 影像時間: 2016/12/08 17:19 (32001CYM) 發報告時間: 2016/12/08 18:55 EXAMINATION: Chest: AP View (Supine)
+FINDINGS:
+Ill-defined opacity at bilateral lungs. Prominent bilateral lung markings. MILD cardiomegaly. Blunting of left costophrenic angle. Atherosclerotic change with calcified plaque at aortic wall. Placement of a nasogastric tube. Mild degenerative change of the spine with marginal spur formation. Previous fracture at right lower ribs.
+Chest: AP View (Supine) 醫令: Chest: AP View (Supine) 報告醫師: 吳志宏 影像時間: 2016/12/08 18:41 (32001CYM) 發報告時間: 2016/12/08 19:10 EXAMINATION: Chest: AP View (Supine)
+FINDINGS:
+Ill-defined opacity at bilateral lungs, more on left side. Cardiomegaly. Atherosclerotic change with calcified plaque at aortic wall. Blunting of left costophrenic angle. Placement of lines and tubes. Mild degenerative change of the spine with marginal spur formation. 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1. Consciousness disturbance, suspected meningoencephalitis, with suspected seizures, status post endotracheal intubation with mechanical ventilation (2016/12/08-)
+2. Rhabdomyolysis (2016/12/08)
+3. Diabetes mellitus, with nephropathy, retinopathy
+4. Old stroke, left hemiparesis, without major sequela (2001)
+5. Right diabetic foot, status post below knee amputation (2013)
+6. Previous upper gastrointestinal bleeding (2013)
+7. Suspected coronary artery disease 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+1. Consciousness disturbance, suspected stroke or meningoencephalitis, with suspected seizures, s/p ETT-MV (2016/12/08-)
+2. Rhabdomyolysis (2016/12/08)
+3. DM, DMN with proteinuria, retinopathy
+4. Old CVA without major sequela (2001)
+5. PAD, right DM foot, s/p BK amputation (2013)
+6. Previous upper GI bleeding (2013)
+7. Suspected CAD (EKG: QS in inferior leads)
+
+住萬華青年公園, 離婚, 獨居, 附近兒女每天探視, 女女男, 入院病史提供: 大女兒
+2001 Stroke with left hemiparesis, sequela: 左手會抖會摔破碗
+2013 Peptic ulcer and right DM foot, s/p BK amputation
+
+2016 Baseline: 可自行進食, 電動輪椅出去買便當, 有殘障手冊
+看和平醫院新陳代謝科 (OADs), 神經科 (old stroke), 眼科 (DM retinopathy)
+2016/10- 兩個月以來逐漸健忘 (付兩次錢, 剛吃便當但忘記了, 以為紙尿褲是短褲, 去廚房尿尿), 迷路 (多次被警察帶回), 話變少 (2016/11 起不太會叫家人姓名)
+2016/11- Urine incontinence
+
+No recent fever, focal weakness, vaccination, TOCC unremarkable
+2016/12/07 19-22:00 Last normal (大女兒帶水果, 病人說很甜)
+2016/12/08 10:00 Found coma by his daughter (坐在輪椅, 倒向左側)
+和平醫院 CT and MRI: suspected encephalitis, suspected CJD, refer to NTUH
+2016/12/08 16:40 ER, 36.7/106/28, BP 134/71, E1M1V1
+2016/12/08 16:58 16920/13.0/249K, seg 91.1%
+2016/12/08 16:58 54.2/2.8, Na 143, K 3.0, Ca 2.11, Mg 0.85, LA 2.36, NH3 28, CK 5019, MB 63.25, TnT 1885, NT-pro-BNP 4403
+2016/12/08 17:40 U/A protein 3+, glucose 4+
+19:00 3B ICU
+21:07 EKG: sinus 110, QS in inferior leads, small R wave in V1-2
+CTX, ACV, CVC
+LP: opening pressure 12cmH2O
+
+1. High dose CTX and ACV (10mg/h q12h, renal dose) for suspected meningitis
+2. Pursue CSF study
+-- 有多留3管冰起來, consider PCR for TB, HSV, EBV, VZV if routine analysis suggested these infections
+3. ETT-MV for airway protection
+4. Hydration for stroke could not be ruled out
+5. Monitor the heart condition (CAD with previous MI likely)
+Treatment Goal: find the etiology of coma and start treatment in 3 days 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左手 右手 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.5mm 
+胃造廔口：無  
+尿管留置：有 Two way Foley 16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：Nil
+日常生活功能分數：0
+預期出院後居住場所：獨居 
+預期出院後主要照顧者：女兒 
+出院規劃收案篩檢：高危病患 獨居老人 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the note in the record of admission. 
+醫師姓名 
+錢穎群 主治醫師 

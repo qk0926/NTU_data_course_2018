@@ -1,0 +1,84 @@
+Brief Summary of this week    
+Wet dressing Q8H was kept for right thoracotomy wound, and Tigecycline+Colistin were shifted to Ceftriaxone according to wound culture: Serratia marscenes. However, right hemothorax with hypovolemic shock developed at night of 4/4 night, there was no prominent bleeding point noted, and bleeding improved after bosmin compression and component therapy. In addition, AfRVR and pacemaker related Wide QRS tachycardia developed. Hemodynamics were stabilized under norepinephrine support and hydration, and empirical Meropenem+Teicoplanin were adminsitered. Due to suspicion of uremic bleeding, SLED was reinitiated on 4/5. Teicoplanin was discontinued on 4/7 for no evidence of GPC, however, worsening right thoracotomy wound condition was noted, and TMP/SMX was added for coverage of Burkholderia after discussion with ID specialist.
+  SLED was held after 4/8 due to improved azotemia and fair urine output. For follow-up S/C and wound culture yielded multiple sets of MDRAB, IV and IH colistin were administered and meropenem was shifted to Tigecycline. SLED was resumed on 4/15 for azotemia reaccumulated. 
+
+
+Assessment 
+amiodarone -> concor 1.25mg QD yesterday;
+hypotension to SBP 80 today;
+with no elevated lactate, no prominent acidosis, improving proBNP;
+
+=> Suspect beta blocker effect;
+=> hydration and midorine 2# stat;
+
+[Inotropic agent]
+levophed (16mg/250ml): off 4/8 morning;
+
+[Respiration]
+PCV RR:12 IP 18, PEEP 6  FiO2 35%
+
+[RRT]
+4/05 SLED 2hr K3 Ca 3 on 4/5
+4/06SLED 3hr K3 Ca 3 on 4/6 => no IDH; 
+4/07 SLED 4hr K3 Ca3 UF:1.5kg (矗玡1h沧ゎ瑍登 due to HoTN)
+4/15 SLED 4hr K3 Ca3 UF:0kg
+
+3/12 S/C: Burkholderia (CAZ-S), Serratia (CAZ-S)
+3/14 chest tube/C: MDRAB, Serratia (CAZ-S)
+3/16 B/C(DLC) tip: Serratia (CAZ-S)
+3/22 PEs - AFS neg
+         - Serratia marcescens 1+
+         - Burkholderia cenocepacia 2+
+3/29 wound fungus culture: Candida albicans 
+3/29 wound: Serratia marcescens 2+, Serratia marcescens 2+ 
+3/30 skin pus: Serratia marcescens 3+ 
+3/31 wound: Serratia marcescens 2+
+4/5 S/C Burkholderia cenocepacia 2+ 
+        Serratia marcescens 1+ 
+4/8 Wound: MDRAB 2+ yeast 2+
+    S/C: mixed flora
+    S/C: AB 3+ 
+4/11 S/C: Acinetobacter baumannii 2+ (MDRAB, *R to Colistin*) 
+
+[Consultation]
+4/5 Dr.朝現蕹: The suspected VT episode was actually pacing rhythm.
+  Possible mechanism:
+    AfRVR -> amiodarone loading 
+    => conversion to sinus rhythm and inhibition of AV conduction
+    => A sensing V pacing with wide QRS tachycardia;
+    Suggest Off xylocaine, could resume Amiodarone PO.
+4/8 ID Dr.狶猌╦:
+    Pursue repeated wound culture result
+    Add TMP/SMX for coverage of Burkholderia cenocepacia and good wound penetration.
+4/10 ID Dr.法和聓:
+    Due to improvement of wound condition after TMP/SMX, keep current antibiotics first.
+    If condition deteriorated, consider add on colistin, keep meropenem+TMP/SMX
+4/10 CS Dr.朝港:
+  Wet dressing Q8H->Q12H.
+  The reconstruction of right thoracotomy wound only could be performed after condition stabilized (very clean wound, improved infection sign, no recent deterioration events)
+4/13 ID Dr.法和聓:
+  Shift Meropenem-> Tigecycline for MDRAB and coverage of Serratia
+  Add IH colistin
+  No evidence for Colistin local use
+
+Plan 
+1.For empyema
+ - Keep wet dressing Q8H (check wound culture frequently)
+   (ID specialist: Local colistin use was not suggested)
+ - Keep colistin IH+IV for multiple MDRAB culture from sputum
+   and right thoracotomy wound
+ - Keep TMP/SMX for B. cenocepacia & good wound penetration
+ - Switch Meropenem to Tigecycline (4/13-) for MDRAB
+ - Weaning is not considered now.
+
+2. For hypotension during SLED
+ - Levophed support PRN. Pursue blood culture result.
+ - Closely monitor patient's heart rhythm.
+ - Give albumin supplement
+
+3. For azotemia
+ - Adjust DW. Keep lasix 1# Q12H.
+ - Closely monitor renal function, start RRT since 4/5
+   Consider resume SLED when BUN>=100(Resume SLED today)
+
+4. Amiodarone 1# QD.

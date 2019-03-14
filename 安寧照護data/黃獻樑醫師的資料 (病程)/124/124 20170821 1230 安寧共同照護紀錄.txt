@@ -1,0 +1,40 @@
+1. Fever, suspected VAP or anal abscess
+2. Acute decompensated heart failure (2017/06/28 EF:28%), with pulmonary congestion and mixed respiratory failure, s/p ETT+MV(2017/07/22-)
+3. Acute on chronic kidney disease (baseline Cre: 2.1-2.5 mg/dL), KDIGO 2, suspect cardiorenal syndrome s/p RRT(07/27-)
+4. Paroxysmal atrial fibrillation
+5. Asthma
+6. Type 2 diabetes mellitus (2017/6/15 HbA1C:7.3%)
+7. History of coronary artery disease, 2-vessel-disease, status post percutaneous angioplasty to left circumflex in 2007/09, under Plavix
+
+[Assessment]
+ECOG:4
+Consciousness:E2VTM5
+Vital signs:
+2017/08/21 09:40 T:36.5 P:75 R:27
+2017/08/21 09:40 BP:105/33
+2017/08/21 09:40 SpO2:100%(35%,L,VCR)
+2017/08/21 10:29 Pain score:0
+extremities: warm, edema(-)
+chest: bil. coarse, no wheezing
+MV support: PSV PS 10, PEEP 6, FiO2 40% 
+-> RR 29, VT 311, MV 8.45
+
+[訪視摘要]
+原醫護團隊來電表示家屬希望了解撤除維生醫療流程
+會談對象:次女、參女、參女婿、孫子(小兒子的兒子)
+1. 病情認知及調適
+家屬理解原進行自主呼吸訓練，嘗試脫離呼吸器後朝向緩和照顧，但近日感染、休克暫停呼吸器脫離，且出現致死性心律不整。家人8/18與原團隊主治醫師進行家庭會議，了解心臟及呼吸衰竭病情，表達病人曾表示不要執行氣切手術，家人也傾向緩和照顧、不延長末期無品質維生醫療生活。
+2. 後續醫療方向及意願/緩和醫療照護說明
+在場家屬表示一致同意朝向緩和照顧，並表達因病況惡化，擔心臨終死亡後才移除身上管子會令病人痛苦(佛教宗教觀點)，因此希望撤除維生醫療設備。予說明撤除維生醫療需先經兩位專科醫師評估符合末期階段，簽署同意書；撤除維生醫療後病人回復自然病程，期間依評估協助緩解不適症狀，但臨終死亡時間是依病人自然病程進展。
+3. 善終準備關懷
+參女表示除今日到場家屬外，其他手足過去未參與照顧，目前也表示不參與決策意見。女兒表示病人後事已有準備，但認為病人一直牽掛小兒子，雖今天意識不清楚，但以手比出小指頭，可能在等小兒子來探視。女兒落淚，協助引導孫子與父親聯繫，嘗試完成病人心願。
+
+[plan]
+1. 待由第二專科醫師協助評估疾病階段是否符合末期終止及撤除維生醫療。
+2. 若由兩位專科醫師判斷為末期，請協助於portal執行末期DNR註記。
+3. 請持續協助善終照顧，緩和身體不適症狀、引導家人四道人生、協助心願完成，協助提供瀕死症狀評估及照顧衛教、後事準備等。
+4. 撤除維生醫療準備及症狀緩解藥物建議，可參見KM系統倫委會提供參考建議。
+5. 若有緩和照顧問題可再聯繫共照小組，謝謝。
+
+
+原團隊共同照護成員:主治醫師黃俊凱，住院醫師黃得瑞，專科護理師張寶綾，陳沛蓉護理師

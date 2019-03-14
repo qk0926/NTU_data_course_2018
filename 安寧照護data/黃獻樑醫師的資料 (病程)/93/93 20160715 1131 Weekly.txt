@@ -1,0 +1,76 @@
+Brief Summary of this week    
+After transferring to our general ward, the patient developed fever spike to 38 Celcius degree on 2016/07/09. Septic work-up was done, including blood culture from CVP, DL and peripheral, fungus culture, sputum culture and urine culture. CXR showed left plerual effusion, moderate. Empirical targocid was added (combined with Meropenem use). Urine culture grew yeast-like pathogen, but he defervesced after Abx use. Therefore, we kept Targocid and Meropenem use. 
+
+For GI bleeding, coffee ground event happened during last weekend. We check NG OB and it resulted 4+. We hold NG feeding and kept IV PPI and IV transamine use. Coffee ground subsided gradually. We slowly resumed his NG feeding. Currently, He was under half-milk 1200 ml daily with TPN 1000 ml QD nutrition supplement. No coffee ground or tarry stool was noted. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+half-milk of NG feeding: 1200 ml QD
+TPN 1000 ml QD
+
+<Antibiotics>
+Targocid 7/9 - D7
+Mepem    6/28- 7/15 D18, for S/C PsA and GI Bleeding suspected IAI
+================================
+Targocid 6/27-7/4, for S/C MRSA
+Tazocin  6/23-6/28, empirically for pneumonia
+
+<Culture report>
+6/23 B/C:neg 
+6/24 S/C:MRSA
+6/25 B/C:neg X 3
+     S/C:PsA(WT)
+     S/S:GNB3+(intracellular),GPB1+
+6/29 S/C:Elizabethkingia meningosepticum 1+ 
+               Stenotrophomonas maltophilia 1+   
+07/09 U/C: yeast-like pathogen > 100000 ***
+      
+
+<Respiration>
+shift to Home Ventilator
+PC/AC mode, I/E: 25/5, RR: 10, O2: 5L, Ti:1.0 s
+
+<PE>
+Consciousness: drowsiness, E4VtM5
+HEENT: grossly general edema
+Chest: diffuse bilateral crackles 
+Heart: regularly heart beats, RUSB III/VI murmur
+Abdomen: hard and distended, right inguinal herina without local tenderness but not reducible
+Extremities: diffusely pitting edema (+)
+
+<Nutrition>
+TPN: Nutriflex 1000 ml QD 
+
+<Important study findings>
+6/25 ACTH/Cortisol: 35.3/42.5, FT4/TSH:0.822/0.395
+6/28 CT: r/o colon cancer, proximal T-colon. Advise correlate with colonoscopy. Enlarged prostate. 
+Right inguinal hernia. Bilateral lower lung consolidation and pleural effusion.
+7/04 thoracentesis (right): 1040ml, straw color, Transudate
+7/4  thoracentesis (left): 430ml, straw color with mildly red, Transudate
+
+<Lab >
+WBC:8.5 k  Seg: 93%  --> 8.7k /92%  
+CRP: 0.59 --> 0.23
+HB: 9.6 --> 10.4 --> 9.3 --> 9.1 -->8.8
+BUN/Cr: 52.6/0.6 --> 58.3/0.5 --> 53/0.5
+Na/K:148/3.0 --> 140/ --> 147/3.6 --> 144/3.3
+Alb: 2.6 (7/6) --> albumin x 3 day --> 3.2
+U/A: WBC > 100/HPF
+
+ABG: pH/pCO2/HCO3: 7.477/31.8/23.7 --> VBG: 7.48/35.1/26.4
+
+Plan 
+1. keep Targocid to 7/18
+   hold Mepem
+2. pursue B/C, S/C and DL tip culture
+3. keep Cortisone 1# Q12H 
+   keep Midorine 1 tab Q6H
+4. keep IV PPI and transamine
+5. Family decision: DNR (不電不壓不TAE,除藥到家屬來)(大姊、二哥、小妹)
+6. Hospice combined care.
+7. keep Lasix 20 mg IV BID and monitor I/O
+8. try to full milk diet since 7/15 night    
+   shift TPN use to Taita No.5 if tolerated NG diet
+   monitor blood sugar

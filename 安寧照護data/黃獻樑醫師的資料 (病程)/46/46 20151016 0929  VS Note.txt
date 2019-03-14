@@ -1,0 +1,185 @@
+This is a patient with 
+1. Moderatedly-differentiated squamous cell carcinoma over lower left edentulous area, cT4aN2bM0, stage IVa, s/p carboplatin CCRT (40 Gy/16 fx, 2015/08/31 ~ 2015/09/22)
+2. right lower bucco-gingival mucosa, pT4aN0M0, stage IV status post operation(method:wide tumor excision+segmental mandibulectomy + SND + optional PMMCF + tracheostomy)(2008.3.20)
+3. DM
+4. Hypertension
+   She was now receiving CCRT (last chemo: 2015/9/17, RT: 2015/09/22). She was ADLs independent but weakness was reported recently. Her caregiver reported she had much sputum recently and choking noted sometimes. This time, she was just about to have her C/T. Collapse was noted before eating, and CPR was performed by EMT for 17  min for asystole, and was sent to NTUH ER for CPR for 7 min. ROSC was noted later. She was sent to ICU for therapeutic hypothermia and postresuscitation care.
+
+Active problems
+427.5 Out of hospital cardiac arrest, choking or sputum impaction related, and hypoxic encephalopathy.
+MSSA bactememia and KP/MRSA peumonia.
+143.9 Gingival cancer
+149.0 Malignant neoplasm of pharynx, unspecified
+149.8 Oral cancer other site   pre-irradiation status
+401.9 Hypertension
+250.00 Diabetes mellitus ( DM )
+250.60 Diabetes mellitus with neurological manifestations
+491.9 Chronic bronchitis
+372.30 Conjunctivitis
+307.41 Insomnia non-organic
+
+
+2015/10/05 16:25 SpO2:100%(60%,L,VCR)
+2015/10/05 16:25 BP:162/55
+2015/10/05 16:24 T:33 P:80 R:26
+2015/10/05 14:32 GCS:E1M1VT
+
+WBC 11260 (2+74).
+Off vasopressors.
+Head CT: hypoxic encephalopathy.
+Chest CT: apical fibrosis with lung metastasis.
+BUN/CR/K 9.8/0.6/6.4
+
+2015/10/06 09:14 Pain score:0
+2015/10/06 09:06 GCS:ECMNAVT
+2015/10/06 08:30 BP:146/59
+2015/10/06 08:30 SpO2:100%(40%,L,VCR)
+2015/10/06 08:29 T:32.9 P:60 R:16
+
+Hemodynamic stable.
+Na 107->118 increasing gradually. K 2.6->60 mEq. UO 2300 ml.
+Still coma.
+No pyuria.
+
+2015/10/06 14:02 BP:133/59
+2015/10/06 14:01 SpO2:98%(40%,L,VCR)
+2015/10/06 14:01 T:33 P:59 R:16
+2015/10/06 09:06 GCS:ECMNAVT
+
+Hemodynamic stable.
+Under rewarming phase of therapeutic hypothermia.
+
+2015/10/07 10:05 T:37.1 P:94 R:24
+2015/10/07 10:00 SpO2:99%(40%,L,VCR)
+2015/10/07 10:00 BP:167/70
+2015/10/07 08:13 GCS:E1M1VT
+
+Oncologist VS 黃懷正: discuss with family, supportive care is indicated NOW.
+Family request DNR.
+Under rewarming phase. No seizure, no VPC.
+PiCCO: EVLWI: 9.2, low CI, high SVRI, high BP. UO: 1820 ml.
+Cr 0.4.=>CHF with mild fluid overload.
+Under PRN lasix.
+
+
+2015/10/07 14:03 SpO2:95%(40%,L,VCR)
+2015/10/07 14:03 BP:164/64
+2015/10/07 14:03 T:36.5 P:93 R:19
+2015/10/07 08:13 GCS:E1M1VT
+
+Urine amount adequate.
+Complete therapeutic hypothermia.
+CxR RUL fibrosis.
+
+2015/10/08 10:43 SpO2:98%(40%,L,VCR)
+2015/10/08 10:14 T:37.4 P:94 R:19
+2015/10/08 10:14 BP:157/58
+2015/10/08 09:36 Pain score:0
+2015/10/08 08:05 GCS:E1M1VT
+
+Stationary.
+EEG 1st today.
+S/C: KP and MRSA. B/C MSSA.
+WBC 16990. High fever.
+
+2015/10/08 14:01 SpO2:99%(40%,L,VCR)
+2015/10/08 14:01 BP:172/56
+2015/10/08 14:01 T:37.4 P:94 R:19
+2015/10/08 08:05 GCS:E1M1VT
+
+ID man VS 王振泰suggest: Give IV avelox for MSSA bacteremia and MRSA lung infection.
+1 st EEG (D3): isoelectric activity.
+Complete therapeutic hypothermia.
+
+2015/10/12 09:02 Pain score:0
+2015/10/12 09:01 GCS:E1M1VT
+2015/10/12 08:01 SpO2:100%(40%,L,VCR)
+2015/10/12 08:01 BP:143/51
+2015/10/12 08:01 T:37.4 P:94 R:14
+
+10-11 fever once. WBC 9000 decreasing. Under IV moxifloxacin now.
+
+2015/10/12 14:09 SpO2:98%(40%,L,)
+2015/10/12 12:07 T:36.6 P:88 R:14
+2015/10/12 14:09 BP:153/50
+2015/10/12 09:01 GCS:E1M1VT
+
+fever subsiding.
+Others stationary.
+
+2015/10/13 12:17 BP:148/51
+2015/10/13 12:17 SpO2:98%(40%,L,VCR)
+2015/10/13 12:17 T:37.4 P:96 R:12
+2015/10/13 09:31 Pain score:0
+2015/10/13 08:27 GCS:E1M1VT
+
+2nd EEG today.
+Fever subsiding gradually.
+WBC 9360 decreasing.
+
+2015/10/14 08:50 Pain score:0
+2015/10/14 08:15 GCS:E1M1VT
+2015/10/14 08:14 SpO2:96%(40%,L,VCR)
+2015/10/14 08:14 BP:147/49
+2015/10/14 08:14 T:37.5 P:96 R:12
+
+2 nd EEG pending.
+Perfusion scan: brain stem hypoperfusion.
+WBC 10100.
+Occasional fever.
+CxR improving.
+B/C repeated pending.
+
+2015/10/14 17:08 Pain score:0
+2015/10/14 17:08 GCS:E1M1VT
+2015/10/14 16:43 T:36.3 P:87 R:15
+2015/10/14 16:43 SpO2:99%(40%,L,VCR)
+2015/10/14 08:15 GCS:E1M1VT
+
+2015/10/14 照會 家庭醫學部(家庭醫學部安寧照會)林怡妏住院醫師
+臨床診斷
+As above.
+建議事項
+1.Hospice introduction and we'll arrange Hospice combined care. 2.Psychosocial support. 3.Explain the process of ventilator withdraw. 4.Please feel free to contact us if any problem. (東址共照辦公室63274) Thanks for referal. R4林怡妏52213/VS姚建安
+
+Family meeting with Oncologist VS 黃懷正 and ICU Dr was held today afternoon, explanation of adverse prognosis, and further management plan including long term care, tracheostomy or withdrawl of life support systems. Family request withdrawl of life support system, but the timing is not chosen yet.
+
+2015/10/15 08:36 Pain score:0
+2015/10/15 08:36 GCS:E1M1VT
+2015/10/15 08:35 SpO2:97%(40%,L,VCR)
+2015/10/15 06:44 T:37.4 P:93 R:12
+
+Prepare for withdrawl of life support system.
+Fever subsiding.
+WBC 9360.
+
+Brain perfusion scan:Mild to moderate hypoperfusion to bilateral cerebral hemispheres (R＞＞L), worst at right frontal and right temporal lobes; mild hypoperfusion to right thalamus; preserved perfusion to left thalamus and bilateral basal ganglia; mild to moderate hypoperfusion to upper brainstem.
+* Mild increased interthalamic, intercaudate, and intersulcal distances.
+
+2nd EEG: isoelectric activity.
+
+2015/10/15 16:08 BP:178/63
+2015/10/15 16:08 SpO2:100%(40%,L,VCR)
+2015/10/15 16:07 T:36.7 P:90 R:12
+2015/10/15 08:36 GCS:E1M1VT
+
+WBC 9000->12080, increasing. Hb 8.7->7.1.
+Fever subsiding.
+Family do not decide the time of withdrawl of life support system yet.
+
+2015/10/16 08:14 Pain score:0
+2015/10/16 08:13 SpO2:97%(40%,L,VCR)
+2015/10/16 08:13 GCS:E1M2VT
+2015/10/16 08:12 T:36.9 P:98 R:16
+
+Tidal volume decreased, airway resitance increase, complicane decreasce. 
+Mild wheezing.
+WBC 12080.
+
+Please
+1. Consider change to IV Cravit (750 mg) for for MSSA/MRSA infection and empirically cover Pseudomonas.
+2. Consult Hospice team.
+3. Prepare for withdrawl of life support system.
+4. If High fever again, do infection work up.
+5. Prepare for withdrawling of life support system.
+6. Increase IP, give po aminophylline.

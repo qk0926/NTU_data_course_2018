@@ -1,0 +1,84 @@
+Brief Summary of this week    
+refered tp summary 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+[Today's event]
+continued Anxicam pump, Levetiracetam
+f/u EEG on 12/12
+discotinued levophed due to relatively stable blood pressure
+continued adquate hydration, f/u kidney function, electrolytes
+
+[Previous Abx]
+Ceftriaxone 12/08- D2
+Zovirax 12/08- D2
+----------------------------------------------------------
+
+[Cultures]
+12/08 B/C:
+      B/C:
+      S/C:
+      U/C:
+12/09 S/C:
+      CSF/C: -
+      CSF/C: 
+      CSF/AFS: -
+      CSF/AFS: 
+      CSF/F:
+
+[Infusion]
+Anxicam/Saline 50mg/50ml run 1ml/hr
+
+[MV/O2]
+AC/PC PIP: 12, PEEP: 6, FiO2: 40% Vt: 500-700, Ve: 6-7
+
+[Studies]
+12/08 和平醫院 CT and MRI: 
+      Radiologist common: suspect HIV encephalitis, CJD not 
+      likely
+12/09 EEG: still epileptic forms
+12/09 status elilepticus survey:
+      DIC profile
+      tumor markers
+      autoimmune panels
+      HIV infection
+12/12 Anti-NMDA ab profiles:
+      Repeat EEG
+
+[Consultation]
+2016/12/09 
+NEU Common:
+Rule out non-convulsive status epilepticus
+Encephalopathy, cause to be determined
+1. Please arrange EEG as soon as possible. 
+2. Consult neuroradiologist for the MRI in 和平 Hospital. 
+3. Check DIC profile, tumor markers, autoimmune panels and HIV infection. 
+4. Arrange cardiac echo. 
+5. Check liver function, renal function and electrolyte. 
+6. May consider to send CSF for autoimmune encephalitis. 
+
+[Family decision]
+[Intervention]
+
+Plan 
+1. For suspected encephalitis with NCSE
+-> continue Anxicam infusion
+-> continue Levetiracetam
+-> Pursue CSF TB, HSV, EBV, VZV 
+-> Check HIV and anti-NMDA ab, repeat EEG
+
+2. For Rhabdomyolysis with ARF(2016/12/08)
+-> Give regular loops diuretics to optimize UOP for globulin 
+   clearance and relief fluid overloading
+-> continued lactate ringer and hydration to maintain 
+   adequate UOP(First priority!!)
+-> Check ABG, DC Rokikan if no systemic acidosis
+   (Sodium bicarbonate had no benefit if no acidosis, however 
+    hypocalcemia would followed)
+-> Be aware of electrolytes imbalance(K,Ca,P,Mg..etc)
+-> RRT as indicated
+
+3. Monitor the heart condition (CAD with previous MI likely)
+-> f/u cardiac echo

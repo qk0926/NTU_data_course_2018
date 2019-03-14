@@ -1,0 +1,51 @@
+This 88year-old female with
+1. Basilar artery and bilateral posterior cerebral artery occlusion, day 1 = 2016/02/08
+2. Atrial fibrillation
+3. Old pulmonary tuberculosis, status post treatment
+【Assessment】
+ECOG:4
+Conciousness:coma
+2016/02/26 12:23 T:38.7 P:94 R:19
+2016/02/26 12:23 BP:108/56
+
+<Respiratory problem>:
+Difficult weaning due to Basilar artery occlusion and unconscious and poor weaning parameters and poor muscle power.
+<Ventilator setting>:
+Mode : PC/SIMV+PS
+IP : 20 cmH2O/ Ti : 0.9 sec.
+VT exp. : 327-339 ml
+RR set/total : 18/10 bpm
+FiO2/SPO2 : 30 %/ 98 %
+PS/PEEP : -/5  cmH2O
+VE total : 3.2 L/min
+
+DNR:已簽署
+Main caregiver: ICU
+Main decision maker: 子女共同(長女為主)
+Awareness: 知病知末
+Acceptance: 急性調適 
+
+【會談摘要】
+會談對象:案子、媳，案外孫女(長女女兒)
+會談目的:撤除維生醫療評估
+#疾病認知及調適
+家屬了解病人意識昏迷現況，對於撤除呼吸器及呼吸管路維生醫療決策為所有案子女一致決定。但目前對撤除流程及時間點意見較不一致，建議家屬在同一時間聚集討論或並與醫療團隊商討，釐清疑慮。案外孫女代案長女表達不忍病人目前插管、抽痰等醫療處置，希望能直接撤除呼吸管路及呼吸器維生醫療設施，但時間未定，預計明早會客時間會回覆醫護人員家屬決策。建議撤除當日案子女均能到場，家屬表示理解，引導家屬四道人生。
+#社心評估
+評估病人重要親友是否已知病人狀況前來探視時，案子表示病人兄弟姊妹均在大陸，不太確定是還有一個弟弟或妹妹，因僅會在過年時電話問候且年紀大、身體狀況不佳，因此不打算告知。鼓勵讓重要親友探視，家屬表示了解。
+
+【Plan】
+1. 撤除維生醫療前請先協助:
+#說明撤除維生醫療之目標並非立即導致死亡，撤除後病人依自然病程進入死亡。
+#說明會盡量考量病人或家屬之需求，照護之目標在於舒適與尊嚴。
+#說明撤除維生醫療措施後病人症狀:呼吸窘迫、分泌物過多、疼痛、拔管後哮鳴、末期煩躁不安等，但會給予藥物協助緩解不適。       
+#說明將停止重症照護常規：包括抽血檢驗、影像學檢查、抗生素、血液透析、輸血
+#確認即將撤除之項目為呼吸器及呼吸管路
+ →家屬表示理解並接受。
+ →後事、衣物已備、院宣。
+ →簽署DNR同意書(全拒)
+ →簽署末期病人終止或撤除維生醫療說明暨同意書
+
+2. Please provide psychospiritual support to family(同理家屬不捨情緒及決策困難，提供情緒支持，引導四道人生)
+3. Treat current condition as your expertise.
+4. If any problem ,please contact 共照辦公室63274/GSM:77569.
+                                              安寧共照N2謝慧貞

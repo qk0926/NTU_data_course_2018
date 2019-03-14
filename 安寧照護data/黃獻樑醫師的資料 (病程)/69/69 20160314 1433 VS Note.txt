@@ -1,0 +1,17 @@
+. GNB bacteremia
+. Community acquired pneumonia (3/3: Influenza virus type A RNA PCR: positive) with acute hypoxic respiratory failure and septic shock, status post ETT+MV (2016/3/3-), complicated with acute respiratory distress syndrome(ARDS), status post V-V ECMO (2016/3/7-)
+. Diabetes mellitus, type 2
+
+Admitted for influenza ARDS and under ECMO use
+Under Rapiacta
+FiO2 0.5, ECMO FiO2 0.6
+
+. Taper Solumedrol due GNB bacteremia
+. Keep Rapiacta
+. keep I/O balance, shift Anxicam to dormicum
+. Inform critical condition
+. Component therapy
+
+2016/03/14 Haptoglobin:<30 mg/dL
+2016/03/14 Osmolality(U):707 mOsm/Kg
+2016/03/14 Procalcitonin:1.157 ng/mL

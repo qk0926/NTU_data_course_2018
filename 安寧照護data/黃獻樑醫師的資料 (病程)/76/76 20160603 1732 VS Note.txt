@@ -1,0 +1,42 @@
+GCS:E1M2VT, T:36.7 P:70 R:10, BP:141/57, SpO2:100%, I/O:1324/1050(274)(24hr)
+
+WBC:11.07 k/£gL
+RBC:3.55 M/£gL
+HB:10.2 g/dL
+HCT:31.4 %
+MCV:88.5 fL
+MCH:28.7 pg
+MCHC:32.5 g/dL
+PLT:123 k/£gL
+
+PT:9.4 sec
+PTT:25.2 sec
+PT INR:0.88 
+
+D-BIL:0.11 mg/dL
+T-BIL:0.44 mg/dL
+AST:108 U/L
+ALT:92 U/L
+ALP:73 U/L
+GGT:52 U/L
+
+ABG:
+PH:7.455 
+PCO2:27.7 mmHg
+PO2:97.2 mmHg
+HCO3:19.7 mmol/L
+BaseExcess:-4.5 mmol/L
+
+2016/06/03
+Anti-HBc:Positive 
+HBsAg:Negative(0.00) IU/mL
+Anti-HCV Ab:Negative 
+HBeAg:Negative 
+
+2016/06/03 ID+DS Common #1:Coagulase neg. staphylococci few 
+
+<Plan>
+1.Close monitor consciousness level
+2.Keep mannitol and 3% NaCl
+3.Inform family about poor prognosis
+4.Mornitor liver function

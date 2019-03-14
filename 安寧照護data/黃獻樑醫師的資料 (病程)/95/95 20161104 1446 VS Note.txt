@@ -1,0 +1,16 @@
+# Hypoxic-ischemic encephalopathy with increased intra-cranial pressure
+# Lactic acidosis, suspect tissue hypoxia related, improved
+# Adrenal insufficiency and hypothyroidism
+# Suspected gastroparesis
+
+E1VtM1, no light reflex, no cough reflex
+FiO2= 0.25 -> 0.5  PEEP 3 -> 5
+CXR: atelectasis and consolidation of bilateral lower lungs
+Fever with leukocytosis
+ 
+P:
+Tazocin
+Chest care 
+Monitor I/O 
+Solu-cortef 50mg q12h for adrenal insufficiency
+Eltroxin replacement therapy

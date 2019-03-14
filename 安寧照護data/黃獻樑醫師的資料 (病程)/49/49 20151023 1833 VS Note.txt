@@ -1,0 +1,30 @@
+[Diagnosis]
+1.Suspected bile leakage related peritonitis and left side pleural effusion
+2.Septic shock, acute cholangitis related, complicated with Serratia marcescens bacteremia, improving
+3. Metastatic adenocarcinoma, suspected gastric antrum tumor as primary site, complicated with bile duct, right ureter obstruction, and suspected peritoneal carcinomatosis s/p failed ERCP on 2015/10/01, 10/5, s/p PTCD on 2015/10/02, s/p biliary stent on 10/07, s/p EUS+FNA and paracentesis on 10/19
+4. Macrocytic anemia
+5. Right hydronephrosis, tumor compress related, s/p DBJ insertion on 10/8
+6. Spotaneous bacterial peritonitis(TNC:428), culture:Candida tropicalis
+
+<Inactive problems>
+6. Hand crush injury, left wrist, status post operation
+7. Gastrojejunostomy operation history 20+ years ago, cause unknown
+
+[Treatment course]
+see above treament course
+
+10/19~10/23
+  This week, EUS-FNA was performed smoothly. Despite pathology showed only clot fibrin, cytology and ascites cytology showed adenocarcinoma. We consulted Oncologist and port-A implantation arrangement will be done on 10/26. PTCD was removed on 10/22. Nevertheless, acute abdominal pain with chest discomfort was noted since 10/22 night. Abdominal standing film showed no free air. Follow up lab data showed no leukocytosis and T.bil level was stasis compared to previous level. The pain condition aggravated in the morning on 10/23, bedside echo showed suspected air in ascites. ABD CT scan was performed and dilated IHDs, ascites and new onset of left side pleural effusion were noted. Thoracentesis showed green color, highly suspected bile leak induced peritonitis and pleural effusion. O2 demand increased gradually with dyspnea condition. Metabolic acidosis was also noted. Blood culture showed GPC*2. Tazocin and Targocid were administered. Previous ascites showed Candida tropicalis, so diflucan was also prescribed. 
+  We contacted Radiologist and they will arrange PTCD insertion tomorrow. We kept current abx and NPO. Closely follow up vital signs with bedside monitors. 
+
+[Assessment]
+New onset abdominal pain with chest discomfort
+highl y suspected bile leak related peritoniris and left side pleural effusion
+
+Under N/C 4L
+-->BT:37.4, HR:100, RR:30, BP:130/77mmHg, SpO2:98%
+
+[Plan]
+1.Keep Tazocin, Tarcogid and Diflucan use, closely monitor UOP
+2.Arrange PTCD tomorrow, consider membrane stent?
+3.ICU transfer if condition deteriorated

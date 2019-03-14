@@ -1,0 +1,45 @@
+<Doctor>
+1. Conscious change with general clonic tonic seizure, etiology to be determined, suspect brain mets related, complicated with hypoxemic respiratory failure, status post endotrachial tube insertion with mechanical ventilation (2016/09/17~)
+2. Non-small-cell-lung cancer, adenocarcinoma, with malignant pleural effusion, T2aN0M1a, stage IV, with EGFR exon 19 deletion, T790M mutation (+), ALK(-), status post Tarceva during 2014/02/20~2015/02/22; Disease progression with left supraclavicular, left hilar and mediastinal lymphadenopathy, status post lung CT guided re-biopsy, status post clinical trial of EGF816 (nivolumab, 2015/03/10~2015/12/16); Disease progression with bilateral axilla lymphadenopathy, status post left axillary lymph node excisional biopsy on 2015/12/19, with EGFR exon 19 deletion without T790M, Met FISH (-), status post TATTON trial (AZD9291 + AZD6244 (omisertinib 80mg 1# QD + selumetinib 75mg 1# Q12H, 4days on-3days off, C1D1=2016/01/22, C2D1=2016/02/19, C3D1=2016/03/18, C4D1=2016/04/15, C5D1=2016/05/13); Disease progression with larger lung and chest wall metastases, status post port-A implantation on 2016/06/21, status post Alimta + Cisplatin (C1D1=2016/06/10, C2D1=2016/06/30, C3D1=2016/07/21, C4D1=2016/08/11); Disease progression with larger lung and chest wall metastases and new metastasis in left frontal lobe, status post Taxotere (C1D1=2016/09/01), Disease progression with multiple brain metastases and leptomeningeal carcinomatosis
+3. Intermittent atrial premature beat
+
+-Episodic left facial muscle/mouth angle twitching or four limbs convulsion noted, resolved in secnods
+-More clear consciousness
+<Plans>
+1. Closely monitor consciousness level, keep depakine, arrange EEG, tapper fentanyl (use due to agitation after admission), consider CSF study
+-->add Keppra infsuion due to episoidic seizure attack, phone contact with neurologist: add keppra due to EEG showed spiking wave
+2. Emperical Brosym use for fever with left lung collapse, persue the culture data
+3. Electrolyte supplement
+4. Weaning ventilator after cnosciousness improving
+5. Resume feeding, noticed the digestion condition
+6. Inform the patient's family about poor prognosis
+--->family meeitng with Prof. Yu on 9/20 11:30
+7. Add iron supplement for IDA
+
+Nurse 
+目前病人GCS:E4VTM5，偶見局部抽搐，鼻胃管存，續灌食幫浦持續管灌中，消化可。氣管內管存，現PSV mode use，呼吸平順，痰黃白量中，口水多，續協助翻身拍背及抽痰。腹瀉問題存，續肛管使用。今會客時間，VS余忠仁、R2張皓鈞與病人主要照顧者(母親、表姐、表嫂)開家庭會議行病情解釋及預後治療(討論內容詳見會議記錄)。
+
+Pharmacy:
+Seizure, under valproic acid (VPA) and levetiracetam use, suggest f/u VPA level on W4(9/22). F/U PLT, NH3 and ALT due to high serum level.
+Hypokalemia, related to diarrhea, no CVC, suggest KCL+Taita 5 for better K supplement, f/u K closely.
+Low procalcitonin, consider to DC antibiotics
+
+RT
+< Ventilator setting >
+Mode :PC/AC
+Insp. Pressure :  12  cmH2O
+VT set/exp. : -/420   ml 
+RR set/total :  10/28  bpm     
+FiO2 : 30   %
+Flow : auto   L/min   
+PS/PEEP :  -/6   cmH2O
+PIP/MAP : 19/12   cmH2O
+VE total :   11.6  L/min
+Ti: 0.9   sec     
+SpO2 :  100   %
+ 
+
+Plan: 
+1. moniter GCS.
+2. keep ABX
+3. Depakine+Keppra use

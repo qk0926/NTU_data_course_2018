@@ -1,0 +1,14 @@
+. Community acquired pneumonia (3/3: Influenza virus type A RNA PCR: positive) with acute hypoxic respiratory failure and septic shock, status post ETT+MV (2016/3/3-), complicated with acute respiratory distress syndrome(ARDS), status post V-V ECMO (2016/3/7-).
+. Diabetes mellitus, type 2
+
+Admitted for influenza ARDS and under ECMO use
+Rapiacta D2
+FiO2 0.8
+
+. Add Solumedrol 40 mg Q8H (3/09-)
+. Keep Rapiacta for at least 5-10 days, Keep Tazocin use
+. Give diuretics, keep I/O balance to mild negative
+. Inform critical condition
+
+2016/03/09 LacticAcid:3.89 mmol/L
+2016/03/08 Influenza virus type A RNA PCR (qualitative test):Positive

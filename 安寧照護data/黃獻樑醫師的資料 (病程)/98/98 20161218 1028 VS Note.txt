@@ -1,0 +1,9 @@
+EEG(2016/12/9): status epileticus
+EEG(2016/12/12): no more seizure under Anxicam cIF
+EEG(2016/12/16): pending report
+
+AKI was still improving
+
+Plan:
+Adjust AED according to lastest EEG report
+Pursue result of NMDA-R autoantibody

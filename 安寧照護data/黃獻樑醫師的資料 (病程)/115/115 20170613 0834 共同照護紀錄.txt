@@ -1,0 +1,33 @@
+[Doctor]
+1. Meningococcus meningitis, complicated with septic schok, 
+   lactic acidosis, conscious disturbance, and type IV 
+   respiratory failure, s/p ETT-MV (2017/6/11-), s/p CVVH 
+   (2017/6/11-2017/6/12)
+2. Pneumonia ad ARDS, suspetected Influenza related
+
+<plan>
+1. For meningococcus meningitis
+ - Keep Vancomycin, Rocephin and Ampicillin
+   Keep Rocephin for 7 days if proven neisseria meningitis.
+ - Pursue culture report
+ - Repeat LP on 6/12
+   (Repeat LP was not routinely indicated, except for patient 
+   who had limited response in 48hrs)
+ - Monitor conscious level
+ - Monitor skin condition
+ - Check autoimmune profiles
+2. For pneumonia/lung edema/ARDS
+ - Keep Tamiflu
+ - Try diuretics for dry lung. Set DW 78kg, with adjustment.
+
+[Pharmacist]
+1. Follow up vancomycin trough level for better effecacy
+2. Monitor electrolyte for diuretics.
+
+[Respiratory  Plan]
+keep ventilator full support
+
+[Nurse]
+
+
+[dietitian]

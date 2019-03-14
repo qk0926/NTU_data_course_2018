@@ -1,0 +1,23 @@
+Poor resolution of left lung haziness, probably due to hemorrhage and infection.
+Deteriorating condition for left pneumonia.
+Worsened oxygenation. Now using 100% oxygen. CXR not improved.
+Poor prognosis. DNR.
+2015/10/19 ID+DS Sputum Culture #2:Gram neg. bacillus 1+ *
+2015/10/19 ID+DS Sputum Culture #1:Acinetobacter baumannii 3+ *
+2015/10/19 ID+DS Sputum Culture #2:Gram neg. bacillus 1+ *
+2015/10/19 ID+DS Sputum Culture #1:Acinetobacter baumannii 3+ *
+2015/10/19 CMV viral load:Undetectable cp/mL
+2015/10/18 C-Reactive Protein:6.22 mg/dL
+2015/10/18 WBC:7.39 K/£gL
+2015/10/18 HB:7.5 g/dL
+2015/10/18 PLT:181 K/£gL
+2015/10/19 13:44 SpO2:88%(100%,L,VCR)
+2015/10/19 08:50 SpO2:92%(75%,L,VCR)
+2015/10/19 06:39 SpO2:90%(75%,L,VCR)
+2015/10/19 04:54 SpO2:93%(75%,L,VCR)
+2015/10/19 01:07 SpO2:93%(75%,L,VCR)
+2015/10/18 21:10 SpO2:94%(75%,L,VCR)
+2015/10/19 13:44 T:36.1 P:101 R:32
+2015/10/19 08:50 T:36 P:128 R:33
+2015/10/19 04:54 T:36 P:118 R:26
+2015/10/19 01:07 T:36.3 P:77 R:23

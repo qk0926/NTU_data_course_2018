@@ -1,0 +1,103 @@
+Brief Summary of this week    
+EEG was performed on 2016/10/03 for persistent unclear consciousness. There was no spiking waves or epileptiform waves noticed. We then arranged brain MRI for the definite cause. The image showed partial remission of multiple brain metastasis, but progression disease at leptomengineal carcinomatosis. Bilateral hydrocephalus was also mentioned. After the family meeting with Profesor Yu, the patient's family members was intended to receive withdrawal of life-sustaining treatment. However, the patient's consciousness became clearer since 2016/10/07 (E2M4Vt -> E3M6Vt). The patient's mother then decided to postpone the issue.
+癌症治療效果追蹤評估 Disease Status:
+Residual tumor / Recurrence / Metastases
+Treatment Response:Evaluable
+Progression 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+E1-2M4Vt, 
+Large pupils(5mm/5mm) without light reflex.
+No presentation of Cushing reflex.
+
+weaning parameter and T-piece passed on 9/29
+-> hold extubation due to drowsy consciousness on 9/30
+-> keep SBT training
+-> consider extubation if consciousness more clear and after well inform the patient's family
+
+[Antibiotics]
+Tazocin     (10/06-)      empirical
+------------------------------------------
+Ceftazidime (09/30-10/06) empirical for UTI
+
+[Previous ABx]
+Brosym (09/17~09/24) empirical use
+
+[Inotropics]
+nil
+
+[Nutrition]
+濃度:1 卡/cc熱量:1500 營養品:佳易得
+
+[Ventilation]
+IP 12->14, PEEP 5->8, FiO2 50%, RR 12/13, Vt 452, VE 8-9, SpO2 99%
+
+[Physical examinations]
+Conscious: E1M4Vt, drowsy consciousness
+pupil: 5/5mm, light reflex: -/-
+left breathing sound diminish, chest wall tumor invasion
+Heart beat: regular with intermittent drop beats,  Murmurs(-)
+Hypoactive bowel sound
+
+[Culture]
+09/17 B/C: no growth x2
+      S/C: normal mixed flora.
+      U/C: no growth
+09/30 U/C: no growth
+10/06 B/C:
+
+[Images and special exams]
+9/17 B+C+A+P CT: 
+1. Leptomeningeal process with suspect brain metastasis.
+2. Left lung cancer with lung, pleural and bone metastases.
+3. Total consolidation and collapse of the left lung with large pleural effusion
+
+9/19 EEG:
+EEG reveals mild diffuse cortical dysfunction with emphasis in the left hemisphere, with active regional epileptogenicity in the left frontocentral areas. Advise clinical correlations. 
+09/22 EEG:
+This EEG reveals active periodic lateralized epiletiform discharges in the left centrotemporal regions and moderate diffuse cortical dysfunction with emphasis in the left hemisphere. Advise clinical correlation.
+
+09/23 EEG
+moderate to severe diffuse cortical dysfunction with active regional epileptogenicity in the left centroparietal areas. Compared to previous EEGs, the amplitude and frequencies has decreased
+
+9/26 EEG
+moderate to severe diffuse cortical dysfunction with some response to alerting maneuvers. Post-ictal changes after status epilepticus should be considered
+
+10/03 EET: This EEG reveals moderate to severe diffuse cortical dysfunction
+
+10/05 Brain MRI: Multiple brain metastases (partial remission) and leptomeningeal carcinomatosis (progression)
+hydrocephalus. 
+
+[Important internevtions]
+09/17 ETT+MV
+09/22 increase keppra to 1500 q12H and add on dormicum pump by Neorologist's suggestion
+09/25 off Dormicum
+
+[Consultations]
+9/19 Neurologist:
+1. Check VPA drug level stat. May (1) up-titrate Depakine if inadequate drug level, or (2) Add-on second-line AED.
+2. Pursue formal EEG report. Follow-up EEG study if still intermittent seizures.
+3. Correct the metabolic derrangement, especially the electrolyte imbalance.
+9/22 Neuro:
+increase keppra to 1500 q12H and add on dormicum pump according neurologist suggestion, following EEG tomorrow again, if still not subsided, consider transfer to NICU for 24hr EEG monitor
+
+[Family's decisions]
+09/20 family meeting and they prefer aggrasive treatment
+10/06 family meeting and they will discuss about palliative extubation, tracheostomy, or keep intubation.
+10/07 Hesitate about palliative extubation
+Plan 
+1. Keep Depakine + keppra for seizure, monitor 
+   consciousness level
+2. Hold weaning due to persistent unclear consciousness 
+   and poor cough ability. Consider thoracentesis if 
+   symptomatic
+3. Keep Tazocin for new onset fever under Ceftazidime
+4. Monitor pupils size and light reflex. 
+   Watch out Cushing reflex.
+5. Potassium and magnesium supplement. (TTKG:4.1, FeMg = 
+   11%, renal wasting if >2%)
+   Rule out anti-epileptic drugs related hypokalemia and 
+   hypomagnesemia.

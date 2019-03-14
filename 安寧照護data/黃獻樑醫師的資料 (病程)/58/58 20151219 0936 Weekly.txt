@@ -1,0 +1,61 @@
+Brief Summary of this week    
+see Treatment course 
+
+Assessment 
+[Antibiotics]
+Meropenem	11/27-12/11
+Linenolid	12/06-12/20 B/C:VRE
+Caspofungin	12/07	r/o fungal pneumonia under critical
+
+[Nutrition]NPO, TPN 994kcal/day+SMOF 450kcal QOD
+[Ventilator] NRM, 98% 10L/min, SpO2 95% 
+
+[Culture report]
+12/01   B/C (PB): Enterococcus, r to vancomycin
+        U/C: VSE 15000
+12/4    S/C: mixed flora
+12/7    B/C*2
+        S/C: Ralstonia mannilolilytica
+        Aspergillus: neg.
+[Important Study findings]
+D-dimer 5.22(2015/7)->3.26(2015/11/11)->10.14(2015/11/17)->3.99(11/26)->4.20(12/10)
+2015/11/23 CRP 1.0
+2015/11/13 ESR>140
+<Image>
+2015/11/26 chest CT:nonspecific fibrotic change, linear or ill-defined opacities at both lungs. 
+
+[Important Interventions and Newly Added Medications]
+12/01 Extubation, add Teicoplanin for cover GPC
+12/06 Intubation, change Teicoplanin to Linezolid due to blood culture showed VRE
+12/06 FiO2:100. PF ratio:53. set PC14, peep 14. 
+12/07 give Caspofungin 70mg loading. Clexane 60mg stat for possible PE without evidence of image. Hypoglycemia 39, hold OHA. Challenge D50W 2amps. Start feeding. 
+     PaO2:82.8/FiO2 60%. PF ratio improved.; add rivotril for tremor; family decided DNR全拒不洗腎
+12/09 family unable to decide withdraw timing, 捨不得
+12/14 try oral feeding D50W, but vomiting, abdominal distension => NPO + NG decompression; withdraw was decided and extubation at PM 13:25
+12/15 NG coffee ground => NPO + NG decompression + TPN + PPI
+12/17 adjust TPN content for hypokalemia
+12/18 SpO2 drop, NRM support
+
+[Important consultation]
+12/02 眼科: no evidence of endophthalmitis
+11/27 Rheuma VS謝: Solu-medrol 10mg Q12H
+11/11 蔡孟昆Keep immunosuppressant drugs, renal biopsy not suggested, decrease frequency or stop dialysis if renal function stabilizes
+11/11 GI man for chronic anemia Hb: 6-8 and stool OB3+. Family refused EGD
+
+[Important Patient and Family Decisions]
+11/27 口頭說願意急洗腎，但之後拔管後不重插.
+12/04 病人爸爸簽署放棄急救同意書(全拒)
+12/06 再次確認DNR時, 病人姐姐表示若還有機會, 緊急時仍希望插管, 在無法聯繫爸爸的情況下, 姐姐簽屬撤銷放棄急救, 重簽需插管但不壓不電不給急救藥物, 同時姐姐表示不願意接受氣切
+Previous DNR(全拒) was signed by her father but was withdrawn by her older sister
+DNR except intubation+MV
+12/07 family decided DNR全拒不洗腎
+12/08 Family could accept withdraw
+12/09 family unable to decide withdraw timing, 捨不得
+12/14 decided withdraw today
+
+Plan 
+1. Keep Zyvox for VRE bacteremia till 12/20 (D14)
+2. Taper steroid to 1# BID
+3. NG decompression, NPO due to GI bleeding and gastroparesis; TPN+lipid support; Keep PPI
+4. Keep supportive care, family didn't want invasive procedures; morphine PRN for SOB
+5. Might transfer to 7B ward on 12/20

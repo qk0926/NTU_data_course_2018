@@ -1,0 +1,35 @@
+【Assessment】
+ECOG:4
+Consciousness:confuse
+2016/03/25 12:09 T:36.4 P:102 R:20
+2016/03/25 12:10 BP:121/68
+2016/03/25 12:09 SpO2:100%(35%,L,VCR)
+< Ventilator setting >
+Mode : CPAP+PS
+VT set/exp. : -/426-501 ml 
+RR set/total : 24-30  bpm     
+FiO2 : 35  %
+PS/PEEP : 8/6  cmH2O
+VE total :9.7 L/min
+<Cuff leakage Test>
+VT(Exh VT)/dis-cuff VT:459/274 ml
+leakage volume:185 ml, 40% 
+cough reflex:(-)
+
+DNR(+)同意書
+Main caregiver: RCC；案小兒子、媳婦
+Main decision maker: 案小兒子
+Awareness: 家人知病知末，病人無法評估
+Acceptance: 慢性調適
+
+【會談摘要】
+會談對象:案小兒子
+#後續照顧/家庭支持系統評估
+案子表示醫師說明目前呼吸器脫離訓練於可執行計畫性拔管邊緣，考慮是否執行撤除維生醫療系統，但礙於病人其他子女已10年均未過問父母也不負照顧責任，此次病人於加護病房時曾電話通知其他家屬病危，要見最後一面，至今兄姊均未出面(除案三女曾探視外)。案子描述其兄姐騙光病人財產，病人目前已身無分文，對此過去其感到痛心，對兄長掏心付出卻換此結果。對於醫療決策也擔心其兄姐是否會秋後算帳，希望尋求專業意見。予同理及傾聽，肯定案小兒子對父母親照顧及付出。
+
+
+【Plan】
+1. Please consult social worker for evaluation of economic assistance and family support.
+2. Please provide psychospiritual support to family and patient
+3. Treat current condition as your expertise
+                                             安寧共照N2謝慧貞

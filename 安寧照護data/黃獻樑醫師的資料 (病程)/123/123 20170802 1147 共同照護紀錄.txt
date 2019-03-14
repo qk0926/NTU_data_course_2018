@@ -1,0 +1,55 @@
+Dx:
+1. Out-patient cardiac arrest, suspect arrhythmia or other cause related, status post CPCR for 11 mins with ROSC, status-post endotracheal intubation and mechanical ventilation(2017/7/30-), status-post therapeutic hypothermia(2017/7/30-7/31)
+2. Susp atrial flutter with rapid ventricular response
+3. Susp. adrenal insufficiency, secondary?
+4. Type 2 diabetes, without control
+
+<Dr>
+1. Abx shifted to Maxipime
+2. Increase Solu-cortef to 100 mg q8h
+3. Closely monitor hemodynamics
+4. EEG today
+5. F/U Tpn-T and ECG 
+6. EEG tomorrow
+
+<Pharmacist>
+keep the current medications.
+
+<Respiratory therapist>
+still critical.
+3T, on inotropics infusion.
+DC hypothermia therapy.
+keep full vent support.
+
+<Dietitian>
+S:
+Poor digestion.
+O:
+HT:173 IBW:65.8 BW:82 BMI:27.4 ABW:78.7
+8/01 ALB:3.6 g/dL
+8/02
+BUN:23.0 mg/dL eGFR:96.6 mL/min/1.73 m^2 CRE:0.9 mg/dL
+Na:151 mmol/L K:4.8 mmol/L Ca:2.25 mmol/L Mg:1.28 mmol/L
+AST:112 U/L T-BIL:0.54 mg/dL 
+LacticAcid:2.31 mmol/L
+ACBS: 
+8/2 229-197-258-317-323
+8/3 354-384
+OHCA
+Abdomen: Soft, hypoactive BoS
+Levophed(16mg) 3 ml/hr
+Diet order:
+Glucerna 1500kcal
+Goal calorie:2000-2400kcal/day
+protein requirement:95-120g/day
+A:
+Obesity:BMI:27.4.
+Altered nutrition-related laboratory values:hypernatremia.
+P:
+Suggest convert pressent diet to element diet,such as Nup-pep or Peptamen.
+
+<Nurse>
+1. keep ventilator support
+2. arrange EEG on 8/2 and EEG, Brain perfusion on 8/7
+3. montior vital sign,status-post therapeutic hypothermia(2017/7/30-7/31)
+4.family support

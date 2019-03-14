@@ -1,0 +1,40 @@
+<Active Problems>
+1. Hypoxic ischemic encephalopathy, with increased intracranial pressure, complicated with diabetes insipidus, status post therapeutic hypothermia (10/20-10/22)
+2. adrenal insufficiency, r/o panhypopituitarism
+<Inactive Problems>
+1. Lactic acidosis, suspect hypoxia related, resolved
+2. herpes zoster, resolved
+3. hypernatremia, diabetes insipidus and hypertonic saline related, resolved
+<Plan>
+1. continue mannitol 100ml q6h for IICP
+ -> may lower the dose if progression of renal failure
+ -> head elevation 30 degrees + hyperventilation for IICP
+   (goal pCO2 30–35 mmHg) (Stroke 2013;44:870-947)
+2. Informed poor neurological outcome to her family (parents and husband), his husband signed DNR permit (不電不壓除藥)
+ -> informed possible sudden death due to compression to brainstem
+ -> NS consult today for 腦死判定&呼吸器撤除 issues
+ -> plan: obs until next W1 (11/07) and arrange f/u CT on 11/07
+3. correct electrolyte imbalance and control I/O
+ -> PRN ddAVP for DI
+4. keep current NG trickle feeding 5ml/hr, titrate as tolerated
+ -> elemental diet for poor digestion
+    aminofluid 1000ml/day as supportive IVF; goal: 1000kcal/day
+5. solu-cortef 50mg Q12H for adrenal insufficiency
+ -> midodrine 25mg 1# bid, titrate to keep SBP
+ -> add Eltroxin 100mcg 0.5# qd for hypothyroidism
+6. may increase the PEEP for atelectasis if desaturation
+
+RT :
+<Plan>
+1. Ventilator full support
+2. continue mannitol 100ml q6h for IICP  &Resp trigger
+3. Chest care & airway clearance
+
+護理師:
+E1VTM1,cough reflex(-),keep monitor urine output.
+
+[dietitian]
+BH/BW 166/52.3kg,IBW:60.6kg
+diet order:元素飲食 免疫增 300大卡
+a.a fluid 1000ml
+keep current diet

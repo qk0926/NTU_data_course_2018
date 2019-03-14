@@ -1,0 +1,109 @@
+Brief Summary of this week    
+After admission, mepem and targocid was given for wound infection and pneumonia. Wound culutre showed wild type KP and MSSA. Targocid was DC due to no evidence. Right thoracentesis was performed and analysis showed exudate, no bacteria visible and negative for malignant cells. Lab showed lower albumin. Cash albumin was given. Severe hypoglycemia (glucose <10 mg/dL) was noted. D50W infusion was given. Lab showed ACTH 15.6, cortisol 5.13. TSH 0.156, and free T4 0.416. Endocrine department was consulted. Relative adrenal insufficiency, suspect iatrogenic related or central type and low T4 and TSH, suspect steroid related, sick euthyroid syndrome or central type was impressed. Eltroxin and steroid was given. Lab showed insulin <2.00, and C-peptide 3.89 under one touch <60 and ATA 3.32, anti-TPO <3.0, T3<40. Hypoglycemia, suspect poor appetite, sepsis, adrenal insufficiency and tumor related was suspected. He was in coma status, and we contacted with oncologist (Dr陳國興) for buccal cancer. He suggested 1) suggested DNR; 2) may consider radiotherapy but patient was unstable condition and no further chemotherapy. After discussed with his family, they decided to DNR 不電不壓. Hospice was consulted. Coffee ground was noted since 9/9. Nexium was kept. Lab showed increased Crea. Oligouria was noted. We discussed with his family about hemodialysis and they received DNR 不電不壓不洗腎. Under relative stable codition, mepem was downgrade to tazocin. Ventilator was weaning. But under PS PS6, PEEP 5 for 1 hour, dyspnea and high blood pressure was noted.
+
+癌症治療效果追蹤評估 Disease Status:
+Residual tumor / Recurrence / Metastases
+Treatment Response:Not evaluable
+
+抗癌藥品治療副作用 (化療) 無副作用 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+<clinical events on 9/10>
+coma
+suspect coffee ground->NPO
+no fever
+(家屬覺得病人有意識的看著他們並握他們的手)
+
+[Current Abx]
+tazocin 9/8- D6+2, downgrading from Mepem
+oral metronidazole 9/6 D5, for C. difficle 
+
+[Previous Abx]
+tazocin 8/28-8/31
+maxipime and metronidazole 8/31-9/2
+mepem 9/3-9/8 for wound culture: MSSA and KP
+targocid 9/3-9/6 due to no evidence
+
+[lab]
+vit B12 >1000, folic acid 13.4
+ACTH 15.6, cortisol 5.13
+TSH 0.156, free T4 0.416
+ATA 3.32, anti-TPO <3.0, T3<40
+
+[Cultures]
+8/28 B/C: no growth
+8/31 wound culture: MSSA and wild type KP
+8/31 U/C: no growth
+9/2 left ear pus culture: WTKP+MSSA
+9/3 stool culture: no growth
+9/3 sputum culture: Mixed flora 
+9/3 procalcitonin: 12.83 
+9/3 C.difficile toxin A&B test : Positive 
+9/6 pleural effusion culture: No bacteria visible, AFS (-), Negative for malignant cells 
+
+[Inotropic agents]
+Levophed off
+
+[MV/O2]
+9/10 try T-piece
+
+PS PS 8, PEEP 5, FiO2 25%
+-> TV 566, MV 10
+
+9/9 dyspnea and high blood pressure after PS6, PEEP 5 for 1 hour
+
+weaning parameter at 9/9
+VE:15.8  RR:29  VT:544.8
+PIMAX:-34  PEMAX:+32  RSBI:53
+
+[PE]
+consciousness: E1-2VtM4
+Lt pupil dilation, w/o light refelx
+chest: crackle over left, no wheezing
+abdomen: soft, no tenderness
+extremities: warm, no pitting edema
+
+[Studies]
+8/31 chest CT: Right lung nodules and patches. Infection or 
+     inflammation is considered first. R/O lung metastasis.
+     abdomen CT: Probable (not definite) acute pancreatitis
+     neck and head CT: 
+     extensive recurrent tumor with intracranial, intra-
+     orbital and skull base to mandible region.
+     no abnormal adenopathy
+     no spinal metastases
+9/01 brain CT: Extensive recurrent tumor with intracranial, intra-orbital and skull base to mandible region. No intracranial hemorrhage noted.
+
+** survey for hypoglycemia:
+insulin 3.98, IGF-1 35, C-peptide 2.1, bHG 0.134 when one touch 100+
+insulin <2.00, C-peptide 3.89 under one touch <60
+
+[Consultation]
+9/05 endocrine: 
+1.  Relative adrenal insufficiency, suspect iatrogenic related or central type
+2.  Low T4 and TSH, suspect steroid related, sick euthyroid syndrome or central type
+9/05 oncologist (Dr 陳國興): closely monitor consciousness level; suggested DNR, may consider radiotherapy but patient was unstable condition; no further chemotherapy
+9/07 hospice consultation
+ 
+[Intervention]
+9/6 thoracentesis (825cc, yellowish)
+
+[family decision]
+9/9 --DNR不電不壓不洗腎--
+
+Plan 
+1. keep tazocin, fever work-up was done again on 9/5
+2. Monitor consciosness; Keep Keppra
+   Keep D50W (20cc/hr)
+3. Eltroxin (100mcg/tab) 0.5tab QD
+   Slucortef 50mg Q12H for relative adrenal insufficiency
+4. discussed with his family about not re-intubation and they were hesitated
+5. add Fentanyl/Duregesic for pain control
+   PRN Rolikan for non-AG metabolic acidosis
+   Componant therapy for tumor bleeding
+6. keep nexium for suspect coffee ground
+7. Terminal supporitve care
+8. Try T-piece since 2016/9/10

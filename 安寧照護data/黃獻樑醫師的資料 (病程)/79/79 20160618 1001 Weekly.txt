@@ -1,0 +1,86 @@
+Brief Summary of this week    
+This patient was admitted to our CCU due to OHCA with ROSC which suspect VF and SSS related. At arrival, temporary pacemaker was inserted with adequate pacing. Hemodynamic and ventilation has been stablized. Empirical Ceftriaxone for suspect CAP has been administered. CAG was performed on 6/15 and showed RCA ostial stenosis 90 % and PDA stenosis 80 %. POBAS with DES to RCA was performed on 6/16. Only Plavix was given after POBAS due to suspected UGIB status. After NPO and PPI, her tarry stool improved and started NG diet. DAPT has been given since 6/18. Her rhythm returned to normal sinus rhythm since 6/17 after PCI, so permanent pace maker was held. Due to her stable condition, extubation was performed on 6/18. 
+
+Assessment 
+Mild wheezing after extubation this morning
+ -> combivent IH q8h
+Off TPM, sinus rhythm now, 70 bpm
+BP stablized, off dopamine now
+Smooth SLED with UF:3.5kg yesterday
+
+[Physical examination]
+ Consciousness: E4V4M6
+ HEENT: conjunctiva: mild pale, sclera: not icteria
+ Chest: mild diffuse wheezing after extubation
+ Heart: HR~ 80/min under TMP
+ Abdomen: soft. normoactive bowel sound, no local
+          tenderness
+ Extremities: no edema, but small ulcer wounds found
+              at left pedal area, no local tenderness 
+              or local heat 
+ Distal pulsation: unpalpable right DPA, mild cyanosis over bilateral heal region
+ 
+[Abx]
+ Ceftriaxone 6/14-D5 > for suspect CAP
+
+[Culture]
+6/16 S/S: WBC 10-25, Epi <10, GPC in cluster
+     S/C: Acinetobacter baumannii 1+ 
+          (Unasyn S, Cefta I, Tazo R)
+
+[Laboratory examination]
+6/14 22:20
+   WBC/HB/PLT: 16.60K/10.5/260K, 
+   BUN/CRE: 21.3/4.5, Na/K: 134/3.6, Mg: 0.80*(L) 
+   Ca/P: 2.17/3.4
+   CK/CK-MB/TnT: 47/3.32/124.9, pro-BNP: 8595*(H)
+6/15
+   T-CHO 130  mg/dL   
+   TG 107  mg/dL
+   LDL-C 68  mg/dL
+   HDL-C 42  mg/dL
+   HbA1c 5.9  
+   TSH: 5.75, FT4:0.867
+
+[Important image studies]
+   ECG: susp AV block
+   Chest: cardiomegaly, mild hilar infiltation
+   CT-brain: old insult, no ICH
+   Chest: Subpleural consolidation in the dependent 
+          portion of both lungs. 
+          Multifocal consolidation in the left upper lobe. 
+          Subsegmental atelectasis in the left lower lobe. 
+          no pulmonary embolism
+   A+P: No definite focal lesions in the liver, spleen,
+        both adrenal 
+        Gallstones.
+        Right inguinal hematoma. 
+        Cystic lesions in the bilateral adnexa
+2016/6/14 Cardiac echo (preliminary)
+   LVEDD/ESD: 46/28mm, LVEF: 69.7%, LA: 43mm
+   dilated LA. mild MR, mild mAR, mild PR
+   mild-to-moderate TR
+   moderate pulmonary HTn (TRmaxPG: 45.2 mmHg)
+6/17 off TPM and EKG showed junctional rhythm, return to sinus at night time
+
+<Important intervention and newly added medication>
+6/14 TPM support
+6/15 CAG: LM: Patent, LAD: proximal calcified, middle calcified, proximal ISR 40 %, distal stenosis 60 %, LCX: proximal calcified, proximal ISR 40 %, RCA: proximal calcified, middle calcified, distal calcified, ostial stenosis 90 %, PDA stenosis 80 %, PDA ISR 30 %
+     NPO+IVF for UGI bleeding
+6/16 POBAS to RCA with DES
+6/17 try NG diet, tolerate well 
+6/18 passed T-piece -> Extubation
+
+Plan 
+1. Monitoring HR. May consider to remove TPM
+2. Keep maintainence hemodialysis on QW1,3,5. 
+   Try H/D and set DW 59.5kg(Fx60, Ca:3, K:2)
+   (DW 59.5 kg according to LMD HD note) 
+3. keep empirical Ceftiaxone for CAP due to no fever and CXR was relative clear
+-> consider shift to high dose Unasyn to cover AB pneumonia if recurrent fever and increasing productive cough    
+4. Try feeding with full NG diet
+   Keep Plavix (°·) and aspirin after PCI with DES
+5. Control blood sugar 
+6. component therapy as needed
+7. extubation today, close monitor breathing pattern
+   -> combivent IH Q8H for wheezing

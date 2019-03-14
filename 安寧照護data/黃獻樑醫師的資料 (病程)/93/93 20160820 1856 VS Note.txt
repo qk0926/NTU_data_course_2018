@@ -1,0 +1,34 @@
+2016/08/20 16:30 BP:111/55
+2016/08/20 16:30 SpO2:98%(%,L,VCR)
+2016/08/20 16:28 Pain score:0
+no inotropics
+
+[中心靜脈導管(CVC)]: 放置日期:20160803; 經醫師評估仍有導管留置適應症。 
+
+2016/08/20
+Gram's(GS)#4:痰檢體品質不良建議重新送檢 *
+Gram's(GS)#3:No bacteria visible *
+Gram's(GS)#2:Many epithelial cells ( >25 /LPF ) 
+Gram's(GS)#1:Few PMNs ( <10 /LPF ) *
+
+2016/08/20
+ID+DS Urine #1:Yeast-like organism 30000 /ml
+
+2016/08/20
+Sugar(One touch):129 *
+
+2016/08/18
+RBC (S):2-5 /HPF
+WBC (S):>100 /HPF
+Epith (S):0-2 /HPF
+Cast (S):- /LPF
+Crystal (S):- *
+Bacteria:- *
+Mucus(S):- *
+Others (S):Yeast(3+) *
+
+Antimicrobial agent(s): Fluconazole (Diflucan 50 mg/cap) 需要立即開立抗生素的原因 病人背景狀況: 老年 (含65歲以上), 長期依賴呼吸器, 15天內使用過全身性抗微生物製劑, 過去一年內曾住院或待過長期照護機構 leukocytosis, elevated CRP 相關檢驗數據: 身體診察依據, 微生物培養證據: 8/17 U/A: pyuria(WBC> 100), yeast4+ 確定或懷疑的感染部位: 膀胱炎或尿道炎 Other comments 8/17 U/A: pyuria(WBC> 100), yeast4+ 
+
+Plan:
+1. fluconazole for complicated UTI, with yeast, do fungus culture to identify the species.
+2. may consider Port A for long term nutrition support, when infection controlled. discuss with family.

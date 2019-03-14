@@ -1,0 +1,779 @@
+2017/03/17 10:44 
+主訴(Chief Complaint) 
+Informant:his family and medical records
+Abdominal pain, and abdominal distension for 1 day. 
+病史(Brief History) 
+This 67-year-old man had a history of:
+1. Cholangiocarcinoma, pT1N0M0, stage I, at segment 4b of liver, status post lobectomy on 2013/8/21, status post radiofrequency ablation on 2015/04/09, 2015/07/27, 2015/12/4, 2016/03/17, with recurrence in the liver, and peritoneal metastasis
+2. Liver abscess at S4 area, r/o biloma, status post pigtail drainage on 2016/09/08, revision and cleaned on 2016/10/09 (not replaced), revision and changed on 2016/11/08, s/p pigtail insertion on 2016/11/25, s/p pigtail irrigation on 2017/01/01, with Nearly complete resolution of the abscess on MRI 2017/02/02
+3. Liver cirrhosis, Child C
+4. HBV carrier, under Entecavir (20161208 HBV viral load<20)
+5. Hypertension 
+6. Duodenal ulcer
+7. Gall stone, status post cholecystectomy 30 years ago
+8. Hiatal herania without treatment
+9. Esophageal varices, lower to upper esophagus, s/p EVL x5 (2016/07/18)
+10. Gastric varices
+
+    He had regular follow-up at GS, GI and nephrology clinics for cholangiocarcinoma and CKD. Liver abscess, r/o biloma, was diagnosed in 2016/09, and then improved after antibiotics and pigtail drainage. PTCD dysfunction was noted, and he was admitted to GS ward during 2017/02/23 to 2017/03/12. PTCD(III) was inserted on 2017/02/23, and PTCD revision was performed on 2017/03/01. He was then discharged after 2-week antibiotic treatment (Cefepime + Metronidazole).
+    Abdominal pain and abdominal disntension were found on 2017/03/15. The pain was located at upper abdomen. There was no nausea, vomiting, fever, or tarry stool. He was brought to NTUH ER at 2017/03/15 11:58AM. Initial vital signs were TPR 34.5/57/18, BP 139/60, E4V5M6, SPO2: 100％. There was no rebound tenderness. PTCD dysfunction was noted. Blood test showed severe metabolic acidosis, hyperkalemia, high t-bil, high creatinine level. Medical treatment was given for metabolic acidosis and hyperkalemia. General surgeon was consulted, and PTCD revision was suggested. Radiologist was consulted for PTCD revision, but postponed due to coagulopathy (prolonged INR). Hypothermia was persisted, and conscious disturbance, E3M4V1 developed on 2016/03/16 6PM. Mepem was given for occult sepsis empirically. However, hypotension to BP 81/54 mmHg, then 43/33 mmHg was found. Fluid resuscitation, levophed support, and ETT+MV were administered. A presumpitve diagnosis of BTI with septic shock was made. He was then admitted to MICU for further management on 2017/03/16.
+
+【Past History】
+1. Systemic disease: as mentioned previously
+2. Family history: His father had gatric cancer. His mother had HCC, hypertension and DM. 
+3. Allergic History: Skin rash, Augmentin 
+4. Habits: (1) smoking: denied
+           (2) drinking: denied
+           (3) betel nuts: denied
+5. Current medication: 
+(1)NTUH:
+Folic Acid 5 mg/tab 1 tab QD PO 28 days
+B.C. /cap 1 cap QD PO 56 days
+Allegra 60 mg/tab 1 tab QD PO 28 days
+0.5 Baraclude 0.5 mg/tab for CDC Approval 1 tab Q3D PO 21 days
+Prometin 5 mg/tab 1 tab BIDAC30 PO 21 days
+液 Megest Oral Susp 40 mg/1 mL 120 mL/btl 4 mL QD PO 21 days
+Inderal 10 mg/tab 1 tab TID PO 14 days
+自費 Proheparum /tab 1 tab TID PO 14 days
+Nexium 40 mg/tab 1 tab QDAC1HR PO 14 days
+(管4) 10 Stilnox 10 mg/tab 1 tab HS PO 14 days
+Esomeprazole Magnesium (Nexium 40 mg/tab) 1 tab QDAC1HR PO 14 days
+Ursodiol (Genurso 100 mg/tab) 2 tab TID PO 14 days
+Liver Hydrolysate Compound (自費 Proheparum /tab) 1 tab TID PO 14 days
+Propranolol HCl (Inderal 10 mg/tab) 1 tab TID PO 14 days
+Liver Hydrolysate Compound (自費 Proheparum /tab) 1 tab TID PO 14 days
+Tramadol HCl 37.5mg, Acetaminophen 325mg ((管4) Ultracet tab /tab) 1 tab HS PO 14 days
+Fexofenadine HCl (Allegra 60 mg/tab) 1 tab QD PO 14 days
+Prochlorperazine Maleate (Novamin 5 mg/tab) 1 tab TIDPC PO 14 days
+Spironolactone (Aldactone 25 mg/tab) 2 tab TIDPC PO 14 days
+Acetylcysteine (Actein Effervescent Tablet 600 mg/tab) 1 tab BID PO 14 days
+(2)others: denied
+(3)Chinese herb: denied
+6. Past Medical History:
+(1)hospitalization history: 
+入院日期:2017_02_23 出院日期:2017_03_12 診斷:Malignant neoplasm of intrahepatic bile ducts
+入院日期:2016_11_30 出院日期:2016_12_06 診斷:Intrahepatic bile duct carcinoma
+入院日期:2016_10_10 出院日期:2016_10_14 診斷:Intrahepatic bile duct carcinoma
+入院日期:2016_09_09 出院日期:2016_09_21 診斷:Liver abscess
+入院日期:2016_03_16 出院日期:2016_03_23 診斷:Malignant neoplasm of intrahepatic bile ducts
+入院日期:2015_12_03 出院日期:2015_12_05 診斷:Malignant neoplasm of intrahepatic bile ducts
+入院日期:2015_07_26 出院日期:2015_07_29 診斷:Malignant neoplasm of intrahepatic bile ducts
+入院日期:2015_04_08 出院日期:2015_04_11 診斷:Malignant neoplasm of intrahepatic bile ducts
+(2)surgical history: 
+2015_04_09  Radiofrequency ablation
+2015_07_27  Radiofrequency ablation
+2015_12_04  Radiofrequency ablation
+2016_03_17  Radiofrequency ablation
+Cholecystectomy 30 years ago
+7. Travel/Occupational/Contact/Cluster history: denied 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:小學
+職業:退休
+宗教信仰:民間信仰
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:O，RH:不清楚，輸血反應:無
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Fall Risk Assessment
+總分:17
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular:  exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(-), cough(-), chest pain(-), hemoptysis(-), productive cough (-), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(+, for 1 day), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH: 157.4 cm,  BW: 61.4 kg,
+T: 34.5 °C,  P: 78 bpm,  R: 37 /min,
+BP: 171 / 60 mmHg,
+Pain score: 0 ,
+
+Neurological Examination: 
+. Consciousness: coma, E1VtM1
+. Muscle power: not performable
+. Gait: not performable
+
+HEENT: Pupils: 6+/6+
+Sclera: icteric, conjunctiva: pale
+Oral thrush (-), oral ulcer (-), tonsillar enlargement(-)
+Neck: Supple neck, no LAP, Jugular vein engorgement (-), Goiter (-)
+Chest: Inspection: symmetric expansion, visible chest deformity (-),  
+Percussion: bilateral resonant
+Auscultation: breath sound: clear
+Heart: regular heart beat without audible murmur
+Abdomen: oval and soft; bowel sound: hypoactive
+         Tenderness (-); liver and spleen: impalpable
+         RUQ tender(-), Murphy sign(-), Rebound tenderness(-) 
+         Surgical scar
+Back: no knocking tenderness at costovertebral angles
+Extremities: Peripheral pulses weak, pitting edema 1+
+             ROM full & free, no discoloration 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060316 [2222] 3.87          1.30          4.4 Hb與前次結果差  12.4          95.4         
+                                          異過大, 請臨床醫師依臨                             
+                                          床狀況評估後決定是否再檢                                           
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060316 [2222] 33.8          35.5          109           20.0          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060316 [2222] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060316 [2222] 72.0          1.3           0.3           3.9           22.5         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060316 [2222] 0.0           0.0           0             僅供參考         
+群組:Yes
+
+               hsCRP         D-Dimer       FDP           Fibrinogen    NT-pro BNP   
+time/item      (mg/dL)       (μg/mL FEU)   (μg/mL)       (mg/dL)       (pg/mL)      
+1060316 [2222] 1.73          12.42         34.8          129.2         2938         
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1060316 [2222] 25.1          42.9          2.36         
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Cl           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1060316 [2222] 86.2          4.6           138           5.9           104          
+               Ammonia N     T-BIL         AMY           Lipase        Ca           
+time/item      (μmol/L)      (mg/dL)       (U/L)         (U/L)         (mmol/L)     
+1060316 [2222] >450          17.01         209           209           2.05         
+               Mg            P             AST           LacticAcid    CK           
+time/item      (mmol/L)      (mg/dL)       (U/L)         (mmol/L)      (U/L)        
+1060316 [2222] 0.97          4.9           235           9.36          60           
+群組:General BioChemistry
+
+               GGT           ALB           D-BIL         ALT           ALP          
+time/item      (U/L)         (g/dL)        (mg/dL)       (U/L)         (U/L)        
+1060316 [2222] 63            2.1           13.88         104           74           
+               LDH          
+time/item      (U/L)        
+1060316 [2222] 326          
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060316 [2222] 7.584         14.1          302.4         13.4          -8.7         
+群組:
+
+               Troponin-T    eGFR          CK-MB        
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)      
+                              m^2)                      
+1060316 [2222] 26.06         13.6          2.55         
+*********檢驗室:RL***********
+
+群組:Yes
+
+               Blood Ketone               
+time/item      (mmol/L)     
+1060302 [0923] 0.2          
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060226 [2238] 10.36         2.69          8.9           26.1          97.0         
+1060228 [0814] 8.79          2.63          8.8           25.5          97.0         
+1060301 [0954] 7.46          2.78          9.2           26.8          96.4         
+1060312 [0916] 5.62          2.65          9.0           25.6          96.6         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060226 [2238] 33.1          34.1          58            15.1          -            
+1060228 [0814] 33.5          34.5          47            15.2          -            
+1060301 [0954] 33.1          34.3          67            15.2          -            
+1060312 [0916] 34.0          35.2          76            18.8          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060226 [2238] 0.0           0.0           0.0           0.0           0.0          
+1060228 [0814] 0.0           0.0           0.0           0.0           0.0          
+1060301 [0954] 0.0           0.0           0.0           0.0           0.0          
+1060312 [0916] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060226 [2238] 84.3          1.4           0.2           8.8           5.3          
+1060228 [0814] 85.0          2.5           0.1           9.2           3.2          
+1060301 [0954] 84.1          2.3           0.1           7.9           5.6          
+1060312 [0916] 70.7          2.0           0.4           11.6          15.3         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060226 [2238] 0.0           0.0           0             僅供參考         
+1060228 [0814] 0.0           0.0           0             僅供參考         
+1060301 [0954] 0.0           0.0           0             僅供參考         
+1060312 [0916] 0.0           0.0           0             -            
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1060226 [2235] 16.1          38.5          1.50         
+1060228 [0814] 20.5          41.4          1.91         
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Cl           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1060226 [2235] 61.7          3.7           123           4.8           104          
+1060226 [2241]                                                                      
+1060227 [0737]                                                                      
+1060228 [0814] 69.5          4.2           123           4.6           99           
+1060301 [0946] 68.3          4.1           130           4.7           102          
+1060301 [0954]                                                                      
+1060303 [0950]                                                                      
+1060308 [0932]                                                                      
+1060312 [0916] 85.4          4.6           130           5.1           104          
+               Ammonia N     T-BIL         Ca            Mg            P            
+time/item      (μmol/L)      (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)      
+1060226 [2235]               5.01          2.00          0.92          4.1          
+1060226 [2241] 91                                                                   
+1060227 [0737]                                                                      
+1060228 [0814] 50            6.81          2.06                        5.0          
+1060301 [0946]                                                                      
+1060301 [0954] 43                                                                   
+1060303 [0950] 32                                                                   
+1060308 [0932] 38                                                                   
+1060312 [0916] 44            17.75         2.16                                     
+               AST           LacticAcid   
+time/item      (U/L)         (mmol/L)     
+1060226 [2235] 192                        
+1060226 [2241]                            
+1060227 [0737]               1.90         
+1060228 [0814] 142           2.04         
+1060301 [0946]                            
+1060301 [0954]                            
+1060303 [0950]                            
+1060308 [0932]                            
+1060312 [0916] 203                        
+群組:General BioChemistry
+
+               D-BIL         ALT          
+time/item      (mg/dL)       (U/L)        
+1060226 [2235]               126          
+1060228 [0814] 4.77          116          
+1060312 [0916]               97           
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060226 [2241] 7.308         21.1          104.4         10.7          -15.9        
+1060227 [0853] 7.363         22.2          114.1         12.7          -12.9        
+1060228 [0814] 7.313         26.4          98.7          13.5          -12.9        
+1060301 [0946] 7.357         25.8          92.1          14.6          -11.1        
+1060302 [0923] 7.383         29.6          44.2          17.8          -7.6         
+1060306 [1012] 7.470         32.2          39.7          23.6          -0.3         
+1060308 [0932] 7.401         32.4          40.9          20.3          -4.8         
+1060312 [0916] 7.388         26.9          28.9          16.4          -8.9         
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1060226 [2235] 17.5         
+1060228 [0814] 15.1         
+1060301 [0946] 15.5         
+1060312 [0916] 13.6         
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060223 [1143] 4.81          2.84          9.4           28.6          100.7        
+1060303 [0950] 11.50         3.07          10.3          29.9          97.4         
+1060306 [1012] 6.66          2.57          8.5           25.1          97.7         
+1060308 [0932] 8.34          2.73          9.2           26.9          98.5         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1060223 [1143] 33.1          32.9          76            15.2          -            
+1060303 [0950] 33.6          34.4          90            15.7          -            
+1060306 [1012] 33.1          33.9          64            16.8          -            
+1060308 [0932] 33.7          34.2          73            18.1          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060223 [1143] 0.0           0.0           0.0           0.0           0.0          
+1060303 [0950] 0.0           0.0           0.0           0.0           4.0          
+1060306 [1012] 0.0           0.0           0.0           0.0           0.0          
+1060308 [0932] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060223 [1143] 71.6          6.0           0.4           13.3          8.7          
+1060303 [0950] 83.0          1.0           0.0           7.0           5.0          
+1060306 [1012] 81.3          3.0           0.3           7.1           8.3          
+1060308 [0932] 79.8          2.6           0.2           3.1           14.3         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060223 [1143] 0.0           0.0           0             -            
+1060303 [0950] 0.0           0.0           0.0 /100 WBC  WBC 100                    
+1060306 [1012] 0.0           0.0           0             -            
+1060308 [0932] 0.0           0.0           0             -            
+*********檢驗室:OP***********
+
+群組:STOOL
+
+               Stool WBC    
+time/item      (/HPF)       
+1060309 [1523] Not found    
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH            Protein(C)    Glu.(C)       Ketone body  
+                                                                    (U)          
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1060302 [1012] 1.014         5.5           50 ( 1+ )     -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+                                                                     (U)         
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1060302 [1012] 1+            ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1060302 [1012] Yellow        -            
+群組:SEDIMENT
+
+               RBC (S)       WBC (S)       Epith (S)     Cast (S)      Crystal (S)  
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1060302 [1012] 5-10          0-2           0-2           -             -            
+               Bacteria      Mucus(S)      Others (S)   
+time/item      (*)           (*)           (*)          
+1060302 [1012] -             -             -            
+*********檢驗室:BC***********
+
+群組:Anemia BC Profile
+
+               VIT. B12     
+time/item      (pg/mL)      
+1060226 [2254] >1000        
+群組:Others
+
+               Osmolality(B 
+               )            
+time/item      (mOsm/Kg)    
+1060302 [0923] 299          
+群組:General BioChemistry
+
+               D-BIL         Alb           TP            T-BIL         AST          
+time/item      (mg/dL)       (g/dL)        (g/dL)        (mg/dL)       (U/L)        
+1060223 [1143] 1.82          3.1                         2.82          62           
+1060228 [1223]                                                                      
+1060302 [0923]               2.5                                                    
+1060303 [0950] 6.66                                      10.56                      
+1060306 [1012] 6.91                        6.5           10.69         77           
+1060308 [0932] 8.10                                      12.54         112          
+1060308 [1641]               3.0                                                    
+               ALT           UN(U)         UN            CRE(U)        CRE          
+time/item      (U/L)         (mg/dL)       (mg/dL)       (mg/dL)       (mg/dL)      
+1060223 [1143] 35                          40.8                        2.7          
+1060228 [1223]               483.9                       110                        
+1060302 [0923]                             71.5                        3.7          
+1060303 [0950] 180                         75.5                        3.8          
+1060306 [1012] 74                          76.2                        3.9          
+1060308 [0932] 79                          80.9                        4.0          
+1060308 [1641]                                                                      
+               Na(U)         Na            K             Cl            Ca           
+time/item      (mmol/L)      (mmol/L)      (mmol/L)      (mmol/L)      (mmol/L)     
+1060223 [1143]               128           4.9           105           2.05         
+1060228 [1223] 55                                                                   
+1060302 [0923]               132           5.2                                      
+1060303 [0950]               133           5.1                                      
+1060306 [1012]               133           4.2           97            2.27         
+1060308 [0932]               132           4.6           97                         
+1060308 [1641]                                                                      
+               Mg           
+time/item      (mmol/L)     
+1060223 [1143]              
+1060228 [1223]              
+1060302 [0923]              
+1060303 [0950]              
+1060306 [1012] 0.99         
+1060308 [0932]              
+1060308 [1641]              
+群組:DM
+
+               GLU AC       
+time/item      (mg/dL)      
+1060302 [0923] 109          
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1060223 [1143] 25.2         
+1060302 [0923] 17.5         
+1060303 [0950] 17.0         
+1060306 [1012] 16.5         
+1060308 [0932] 16.0         
+*********檢驗室:CT***********
+
+群組:PT
+
+               PT            PT INR       
+time/item      (sec)         ()           
+1060223 [1143] 12.1          1.12         
+*********檢驗室:N1***********
+
+群組:Thyroid Hormone
+
+               RIA:TSH      
+time/item      (μIU/ml)     
+1060226 [2254] 5.58         
+
+*********檢驗室:B2***********
+B2-1060227-7021012   BLOOD
+     ID+DS Blood.#1:       No growth after 5 days
+B2-1060227-7021013   BLOOD
+     ID+DS Blood.#1:       No growth after 5 days
+
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1060226 [2241] 111          
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1060301 [0946] O             Positive     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1060301 [0946] Negative     
+
+*********檢驗室:B1***********
+B1-1060309-9037392   STOOL
+     C.difficile Toxin (RT-PCR):       C.difficile toxin A&B test : Negative
+
+
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060315 [1005] 6.49          2.87          9.6           27.5          95.8         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060315 [1005] 33.4          34.9          135           19.4          -            
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Cl           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1060315 [1005] 83.6          4.5           125           6.6           103          
+               Ammonia N     T-BIL         Ca            AST          
+time/item      (μmol/L)      (mg/dL)       (mmol/L)      (U/L)        
+1060315 [1005] 65            24.85         2.29          302          
+群組:General BioChemistry
+
+               GGT           TP            D-BIL         ALT           ALP          
+time/item      (U/L)         (g/dL)        (mg/dL)       (U/L)         (U/L)        
+1060315 [1005] 126           7.4           19.15         145           116          
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1060315 [1005] 14.0         
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               Alb           UA            P             Mg            TG           
+time/item      (g/dL)        (mg/dL)       (mg/dL)       (mmol/L)      (mg/dL)      
+1060315 [1005] 3.0           6.1           5.3           1.07          44           
+               LDL-C         HDL-C        
+time/item      (mg/dL)       (mg/dL)      
+1060315 [1005] 16            4            
+
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060315 [1321] 6.52          2.95          10.0          28.8          97.6         
+1060316 [1743] 4.93          2.18          7.6           20.8          95.4         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060315 [1321] 33.9          34.7          118           19.5          -            
+1060316 [1743] 34.9          36.5          81            19.9          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060315 [1321] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060315 [1321] 77.9          1.0           0.0           8.6           12.5         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060315 [1321] 0.0           0.0           0.0           -            
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1060315 [1321] 27.0          53.4          2.55         
+1060315 [2015] 20.1          41.2          1.88         
+1060316 [1234] 20.9          39.4          1.96         
+1060316 [1743] 19.3          33.1          1.81         
+群組:General BioChemistry
+
+               GGT           ALT           ALP          
+time/item      (U/L)         (U/L)         (U/L)        
+1060315 [1321] 129           150           118          
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ammonia N    
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)     
+1060315 [1321] 84.7          4.6           127           6.4           51           
+1060315 [2015] 88.1          4.6                         6.8                        
+1060316 [0446]                             128           6.4                        
+1060316 [1234]                                           6.1                        
+1060316 [1743]                                           6.2           225          
+               T-BIL         LacticAcid   
+time/item      (mg/dL)       (mmol/L)     
+1060315 [1321] 28.06         1.89         
+1060315 [2015]               1.84         
+1060316 [0446]                            
+1060316 [1234]                            
+1060316 [1743]                            
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060315 [1321] 7.358         23.4          27.3          13.3          -12.5        
+1060315 [2015] 7.394         22.7          28.6          14.0          -11.2        
+1060316 [0446] 7.404         22.3          35.2          14.1          -10.9        
+群組:Yes
+
+               hsCRP        
+time/item      (mg/dL)      
+1060315 [1321] 3.27         
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1060315 [1321] 13.6         
+1060315 [2015] 13.6         
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1060315 [1827] 85           
+1060315 [2239] 89           
+1060316 [0446] 85           
+1060316 [1026] 120          
+1060316 [1649] 158          
+1060316 [2220] 97           
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1060315 [1446] O             Positive     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1060315 [1446] Negative 
+檢查紀錄(Examination Report) 
+Nil. 
+影像報告(Imaging Report) 
+Chest: AP View (Supine) 醫令: Chest: AP View (Supine) 報告醫師: 葉建德 影像時間: 2017/03/16 20:01 (32001CYM) 發報告時間: 2017/03/16 20:11 cardiomegaly. prominent bilateral lung markings. placement of an endotracheal tube and a central venous line. pigtail catheters in the right upper abdomen. placement of a right Port-A catheter.
+P.T.C.D. revision 醫令: P.T.C.D. revision 報告醫師: 梁博欽 影像時間: 2017/03/01 19:31 (33027B0M) 發報告時間: 2017/03/02 19:11 PTCD Revision showed:
+1.Good position and function of all three pigtail catheters, from right superior and inferior IHD to CBD, and in right liver dome biloma.
+2.Please keep external drainage of all the three pigtail catheters.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳育青 影像時間: 2017/02/26 22:25 (32001CYM) 發報告時間: 2017/02/28 14:56 cardiomegaly. atherosclerosis and calcified aorta. PTCD and abscess drainage pigtail. no definite lung lesion. clips in RUQ abdomen.
+P.T.C.D. 醫令: P.T.C.D. 報告醫師: 梁博欽 影像時間: 2017/02/24 15:13 (33026BZM) 發報告時間: 2017/02/25 23:10 PTCD x 3 was performed:
+1.Hepatic hilar and CHD stricture with isolation and dilatation of bil. IHDs. A biloma at right liver dome, S/P pigtail catheter drainage, but partial obstruction by debris.
+2.PTCD(1) was performed, with 8Fr pigtail catheter from right inferior IHD to CBD. bile with debris was aspirated.
+3.PTCD(2) was performed, with another 8Fr pigtail catheter from right superior IHD to CBD. bile with debris was aspirated.
+4.PTCD(3) was performed, via exchanging with a new 10Fr pigtail catheter in right liver dome biloma, some debris was aspirated.
+5.Please keep external drainage of the all three pigtail catheters.
+6.May consider biliary metallic stenting, if clinically indicated.
+P.T.C.D. 醫令: P.T.C.D. 報告醫師: 梁博欽 影像時間: 2017/02/24 15:13 (33026BZM) 發報告時間: 2017/02/25 23:10 PTCD x 3 was performed:
+1.Hepatic hilar and CHD stricture with isolation and dilatation of bil. IHDs. A biloma at right liver dome, S/P pigtail catheter drainage, but partial obstruction by debris.
+2.PTCD(1) was performed, with 8Fr pigtail catheter from right inferior IHD to CBD. bile with debris was aspirated.
+3.PTCD(2) was performed, with another 8Fr pigtail catheter from right superior IHD to CBD. bile with debris was aspirated.
+4.PTCD(3) was performed, via exchanging with a new 10Fr pigtail catheter in right liver dome biloma, some debris was aspirated.
+5.Please keep external drainage of the all three pigtail catheters.
+6.May consider biliary metallic stenting, if clinically indicated.
+P.T.C.D. 醫令: P.T.C.D. 報告醫師: 梁博欽 影像時間: 2017/02/24 15:13 (33026BZM) 發報告時間: 2017/02/25 23:10 PTCD x 3 was performed:
+1.Hepatic hilar and CHD stricture with isolation and dilatation of bil. IHDs. A biloma at right liver dome, S/P pigtail catheter drainage, but partial obstruction by debris.
+2.PTCD(1) was performed, with 8Fr pigtail catheter from right inferior IHD to CBD. bile with debris was aspirated.
+3.PTCD(2) was performed, with another 8Fr pigtail catheter from right superior IHD to CBD. bile with debris was aspirated.
+4.PTCD(3) was performed, via exchanging with a new 10Fr pigtail catheter in right liver dome biloma, some debris was aspirated.
+5.Please keep external drainage of the all three pigtail catheters.
+6.May consider biliary metallic stenting, if clinically indicated.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 柯維鈞 影像時間: 2017/02/23 11:36 (32001CXM) 發報告時間: 2017/02/26 15:08 Chest PA shows cardiomegaly. calcification of aorta. haziness at both lower lung fields. degenerative change of the T spine. postoperative change of the right upper abdomen with placement of clips. placement of a right pigtail catheter. 
+病理報告(Pathology Report) 
+085/03/27 S9604687
+ S1344372
+Lymph node,site not stated,biopsy,no specific change    
+ S1513428
+Liver,site not stated,unlabeled,radiofrequency ablation,compatible with recurrent cholangiocarcinoma    
+Liver,site not stated,unlabeled,radiofrequency ablation,compatible with recurrent cholangiocarcinoma 
+臆斷(Tentative Diagnosis) 
+1. BTI, s/p PTCD(III) on 2017/02/23, s/p PTCD revision on  2017/03/01, complicated with septic shock (2017/03/16-)
+2. Type 4 respiratory failure, s/p ETT+MV (2017/03/16-)
+3. Acute on chronic kidney disease, with refractory metabolic acidosis and hyperkalemia, s/p CVVH (2017/03/16-)
+(possible CKD cause: hypertension history, recent CT with contrast)
+4. Cholangiocarcinoma, pT1N0M0, stage I, at segment 4b of liver, status post lobectomy on 2013/8/21, status post radiofrequency ablation on 2015/04/09, 2015/07/27, 2015/12/4, 2016/03/17, with recurrence in the liver, and peritoneal metastasis, with decompensating liver failure
+5. UGIB, r/o ulcer bleeding, r/o varices bleeding
+6. Liver abscess at S4 area, r/o biloma, status post pigtail drainage on 2016/09/08, revision and cleaned on 2016/10/09 (not replaced), revision and changed on 2016/11/08, s/p pigtail insertion on 2016/11/25, s/p pigtail irrigation on 2017/01/01, with Nearly complete resolution of the abscess on MRI 2017/02/02
+7. Liver cirrhosis, Child C
+8. HBV carrier (20161208 HBV viral load<20)
+9. Hypertension 
+10. Duodenal ulcer
+11. Gall stone, status post cholecystectomy 30 years ago
+12. Hiatal herania without treatment
+13. Esophageal varices, lower to upper esophagus, s/p EVL x5 (2016/07/18)
+14. Gastric varices 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+1. BTI, s/p PTCD(III) on 2017/02/23, s/p PTCD revision on  2017/03/01, complicated with septic shock (2017/03/16-)
+2. Type 4 respiratory failure, s/p ETT+MV (2017/03/16-)
+3. Acute on chronic kidney disease, with refractory metabolic acidosis and hyperkalemia, s/p CVVH (2017/03/16-)
+(possible CKD cause: hypertension history, recent CT with contrast)
+4. Cholangiocarcinoma, pT1N0M0, stage I, at segment 4b of liver, status post lobectomy on 2013/8/21, status post radiofrequency ablation on 2015/04/09, 2015/07/27, 2015/12/4, 2016/03/17, with recurrence in the liver, and peritoneal metastasis, with decompensating liver failure
+5. UGIB, r/o ulcer bleeding, r/o varices bleeding
+6. Liver abscess at S4 area, r/o biloma, status post pigtail drainage on 2016/09/08, revision and cleaned on 2016/10/09 (not replaced), revision and changed on 2016/11/08, s/p pigtail insertion on 2016/11/25, s/p pigtail irrigation on 2017/01/01, with Nearly complete resolution of the abscess on MRI 2017/02/02
+7. Liver cirrhosis, Child C
+
+S: abdominal pain and abdominal distension for 1 day
+   r/o PTCD dysfunction
+   hypothermia
+O:
+<Antibiotics>
+Mepem     3/16-
+Colistin  3/17-
+Targocid  3/17-
+Eraxis    3/17-
+
+<Culture report>
+2016/11/25 B/C: Pseudomonas aeruginosa (CRPsA)
+2016/11/27 PTCD drainage: Pseudomonas aeruginosa (CRPsA)
+
+<Inotropics>
+Levophed 15->8ml/h
+Pitressin 4->0ml/h
+
+<Ventilator>
+PCV
+
+<Nutrition> 
+D50W+multivitamin
+Vit B1 *3day
+
+<Physical examination>
+E1VtM1
+Pale conjunctiva, icteria sclera
+Jaundice
+Oral ulcer, and oral bleeding
+Damaged teeth
+Breath sound: clear
+Heart sound: RHB, no murmur
+Hypoactive bowel sound
+Oval abdomen. No rebound tenderness.
+Pitting edema 1+.
+
+<Important Lab findings>
+3/15
+1PM 7.358/23.4/27.3/13.3/-12.5
+8PM 7.394/22.7/28.6/14.0/-11.2
+03/16
+5AM  7.404/22.3/35.2/14.1/-10.9
+10PM 7.584/14.1/302.4/13.4/-8.7
+
+Hb 3/15 9.6 -> 10.0 -> 3/16 7.6 -> 4.4
+INR 1.91 -> 3/15 2.55 -> FFP 6U -> 1.88 -> 1.96 -> FFP 4U -> 1.81 -> FFP 4U -> 2.36 FFP 4U
+T-bil 
+1/11 1.16, 2/23 2.82, 2/26 5.01, 2/28 6.81, 3/03 10.56, 3/06 10.69, 3/08 12.54, 3/12 17.75, 3/15 24.85, 3/15 28.06, 3/16 17.01
+Cre 2/23 Cre 2.7, 2/26 3.7, 2/28 4.2, 3/01 4.1, 3/02 3.7, 3/03 3.8, 3/06 3.9, 3/08 4.0, 3/12 4.6, 3/15 4.5, 3/15 4.6, 3/16 4.6
+K > 6.0 despite medical treatment
+
+<Important study findings>
+02/23 PTCD(III)
+PTCD(1), 8Fr, from right inferior IHD to CBD
+PTCD(2), 8Fr, from right superior IHD to CBD
+PTCD(3), 10Fr, in right liver dome biloma
+03/02 Renal echo
+   Kidney size R 8.6, L 9.1 cm
+   Parenchymal renal disease, bilateral
+03/09 Abd echo
+   s/p left hepatectomy and cholecystectomy
+   Right hepatic lesions, multiple, in favor of tumor recurrence
+   Marked splenomegaly
+   Massive ascites, in favor of cancerous peritonitis
+   Fatty infiltration of the pancreas
+
+<Important intervention and newly added medications>
+3/16 ETT+MV
+     CVVH
+
+<Important consultation>
+
+<Important patient's and family's decision>
+
+A: as above
+P:
+1. Mepem, colistin, targocid, Eraxis for BTI with septic shock
+   Pursue all culture results
+2. MV support
+3. CVVH for refractory metabolic acidosis
+4. May arrange PTCD revision after stable hemodynamic status
+   Blood component therapy for correction of coagulopathy
+5. Inform grave prognosis due to multiple organ failure
+6. High dose Nexium infusion (5amp/day)
+   Taper dosage gradually. 
+   Consider SB tube if suspected EVB 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右頸 右手 
+雙腔導管留置：無  
+鼻胃管留置：無  
+氣管管路留置：有 氣管內管  7.5mm 
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：有
+其他導管：PTCD*3
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：配偶 
+出院規劃收案篩檢：高危病患 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+簡榮彥 主治醫師 

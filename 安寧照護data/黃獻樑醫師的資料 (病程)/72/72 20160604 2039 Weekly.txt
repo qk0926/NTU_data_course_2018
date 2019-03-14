@@ -1,0 +1,80 @@
+Brief Summary of this week    
+Palliative and supportive care were given. SBT trial with T-piece was performed on 06/03 however failed with gradual tachycardia and desaturaion. Because of weaningg failure, her family asked for palliative withdrawl. After discuss with er family, palliative extubation would be performed on 06/05. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+Mepem 5/6-5/19 for ESBL E.coli bacteremia and U/C: PsA
+Targocid 5/15-5/29 for U/C: E.faecalis and limb gangenes
+
+[Culture]
+5/05 B/C(PB): ESBL E.coli, TTP 8.8hr
+     B/C(PB): ESBL E.coli, TTP 9.8hr
+     U/C: wt PsA>100000, E.faecalis>100000(S to Ampicillin)
+5/11 R't PCN: ESBL E.coli 3+, Enterococcus faecalis 1+
+5/15 B/C(CVC): no growth
+     B/C(AL): no gowth
+     Fungus B/C:no growth
+     S/S: PMN>25, Epi<10, GNB 3+, S/C: wt Sm 3+
+
+[Ventilator]
+Try T-piece today, however achycardia/tachypnea and desaturation developed after 20 minutes
+---> poor weaning potential was impressed
+ 
+<Weaning parameter> 5/25 Pi/emax: -50/+55 cmH2O 
+                         RR:7 bpm,VE:3.2lpm
+                         VT:457 ml,RSI:15.3
+
+[Inotropic/vasopressor]
+Levophed off (不上調)
+
+[RRT]
+5/5-5/12, 5/13-5/14 CVVH for metabolic acidosis
+hold temporarily, close follow
+5/16 DC diuretics.
+
+[PE]
+E4M6Vt, confused consciousness, obey order sometimes
+Chest: mild crackles, no wheeze
+Heart: tachycardia, no audible murmur
+Abdomen: soft, hypoactive BoS, no tenderness
+Extremities: edema(+), cyanosis and dry gangrene change of all limbs(手:右手腕，左手前臂1/2, 腳:小腿下1/2), odor(+)
+
+[Important study findings]
+5/6 Bedside echo: bil. hydronephrosis, R>L
+5/9 Still bilateral hydronephrosis, liver cyst over S3, S7
+
+[Newly-added medication and interventions]
+5/5 Start CVVH
+5/6 On CVC and DLC, shift Tazocin to Mepem
+5/7 start UF 50ml/hr
+5/8 UF 0 (CVVH easily clotted)
+5/9 Pitressin off, taper levophed
+5/11 Bilateral PCN insertion, drain sent for culture
+5/13 early morning off CVVH, but dropped BP and dyspnea
+     ->resume CVVH
+5/14 hold CVVH, try rasitol 40mg Q6H-->U/O: 440mL/8hr(adequate)
+5/16 DC diuretics.
+5/22 New onset high fever with increase MV, r/o limb gangrene related sepsis, inform family poor prognosis
+5/25 Add Midodrine for hypotension, mild increased O2 demand
+5/28 Off Levophed
+
+[Important consultations]
+5/18 Hospice: 與病人先生及妹妹會談, 他們了解病人病況不穩且預後很難預測. 病人意識及疾病認知程度較難評估, 家屬也不知道如何向病人說明現況, 鼓勵家屬以字卡溝通關懷. 家人過去有因糖尿病而截肢的經驗, 以先生對病患的了解, 尊重不主動截肢的決定. 家屬也明白壞疽可能成為感染源. 說明安寧照顧內涵, 家屬接受安寧共照且希望加強疼痛控制. 肯定家屬對病人的關懷與努力
+
+[Important family's decision]
+5/07 signed DNR(不電不壓), 不上第三線升壓藥
+5/08 explained poor prognosis; informed difficult CVVH (easily clotted) and possible further hypotension ==> could understand
+5/17 inform the possibility of infection due to ischemic limb, her husband hope not to do amputation even if infection
+5/18 Hospice combined care, 升壓藥不再上調
+5/20 Inform weaning plan, family decided 拔管後不再重插
+5/22 Family favor hospice care
+6/3 Family agree with palliative withdrawl of ventilator
+
+Plan 
+1. Morphine pump infusion for symptom control.
+2. End of life care.
+3. Arrange palliative withdrawl on W7, may add Dormicum 
+   for agitation and Buscopan for much secretion after 
+   extubation

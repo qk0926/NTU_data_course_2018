@@ -1,0 +1,95 @@
+Brief Summary of this week    
+The patient was intubated becasue of pneumonia or TRAIL. For infection, Rocephin was upgraded to Imipenam empirically on 2/1. He had persistent fever, so Teicoplanin was added on 2/4. No culture evidences was obtained yet. 
+
+For hypercalcemia and multiple bone lesions, a contrast enchance chest to pelvic CT scan was done on 2/2. It showed bilateral lung emphysema and fibrotic change (which favored post-infection but not pulmonary edema, so that TRAIL was less likely). Bilateral pleural effusion was also seen. The A+P CT showed 1. multiple osteoblastic lesions in the spine and pelvic bones; 2. prominent perigastric lymph nodes. A pigtail was inserted into the left pleural space for effusion drainage on 2/3. The pleural effusion analysis showed transudate. 
+
+The patient had DIC after admission, suspecting sepsis or tumor related. For multiple bone lesions + hypercalcemia + A/G reverse, multiple myeloma was susepcted. However, the serum and urine IFE and proteins electrophoresis did not showed monoclonal gammopathy. But hematological disorder was still highly suspected according to hypercalcemia, hyperuricemia, anemia and thrombocytopenia. Therefore, bone marrow aspiration and biopsy was done on 2/3. The smear showed metastatic tumor nests. No hematological malinancy was seen. We consulted a oncologist, who suggested us to wait the pathology of the bone marrow. Bone biopsy to obtain the tissue for special stain was also advised. 
+
+The patient's DIC was progressing. The left ear had cyanotic change, the skin apperaed Livedo reticularis, and the renal function deteriorated. Clexane was given for thrombolysis, but only 30mg daily because of worrying about upper GI bleeding, which had just happened before. Grave prognosis was informed to the family, and they signed DNR to give up CPCR. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+
+Assessment 
+<Antibiotic>
+Tienam      02/01~  D4   desatuartion, upgrade from Rocephin
+Teicoplanin 02/04~  D1   fever + HoTN under Tienam
+-------------------------------------------------
+Rocephine  01/30~2/1
+
+<culture>
+1/30 B/C*2
+     S/C mixed flora
+     U/C: GPC 1000/ml
+     Flu A/B: neg
+2/03 Legionella (-)
+2/2-2/3 sputum AFS(-)
+
+[PE]
+E3M4Vt, mild agitated
+no neck LAP
+coarse breath sound, basal crackles
+soft abdomen, no tenderness, hypoactive bowel sounds
+ecchymosis over right wrist and forearm
+cyanosis of both feet, very cold
+dorsalis pedis pulsation: trivial
+rashes over bil. lower limbs
+
+
+<importent lab finding>
+1/29 UPEP: IgG 9.54, IgA <26.1, IgM <19, nl kappa/lambda ratio
+1/29 SPEP: IgG 735, IgA 160, IgM <68.2, nl kappa/lambda ratio
+2/01 SOB 4+
+     fT4 1.05, TSH 0.488
+2/02 Procalcitonin 5.952
+     Ferritin 2873, TG 215
+     Haptoglobin <30, fibrinogen 46, D-dimer > 35.2
+2/03 RA(-), C3 99.6, C4 15.4, ANA(-)
+     AFP 2.3, SCC 8.0, PSA 10, fPSA 53.7%
+     Left thoracocentesis: 580ml, Exudate, TNC 26, N:L:E:M&H= 18:71:0:11
+
+<importent study finding>
+2017/01/29 CT of abdomen:
+-Multiple small lytic lesions at TLS spines, with upper end plat destruction of L4, but no definite paravertebral mass, infection or tumor should be D/D.
+-Two small hypodense lesions at S#4-5 junction(1cm) and at S#6(1cm) of liver, cyst or tumor should be D/D, suggest US correlation.
+-Mild bil pleural effusion with bibasilar atelectasis.
+
+2017/01/29 CT of brain:
+No definite metastatic lesion in brain and skull.
+
+2017/2/2 Chest CT
+1. pulmonary emphysema, mild fibrotic changes with possible superimposed infection.
+2. diffuse lytic bone lesion
+
+2017/2/2 A+P CT
+1. Hepatic cysts.
+2. Suspected multiple small infractions in the spleen.
+3. A right adrenal nodule(1cm).
+4. Prominent perigastric lymph nodes.
+
+[Ventilator]
+PSV, PS 10, PEEP 6, FiO2 40%
+--> RR 10, Vt 904, MV 10, SpO2 96%
+
+<family's decision>
+aggressive
+
+[Consultation]
+2/2 hematologist Dr. ³¯¬¥¦X: bone marrow study will be done tomorrow
+2/3 GI: EUS could not be performed in ICU
+2/3 Hema: BMS showed tumor nest, but no hematological problems
+    -> pursue pathology report, consider bone lesion biopsy
+
+Plan 
+1. For infection
+   - Add Teicoplanin because of fever + hypotension
+   - Keep pigtail drainage, consider right thoracocentesis
+   - F/u procalcitonin level 
+2. For bony lesion
+   - Pursue BM biopsy report
+   - Consider perigastric LAP bx or bone bx to obtain the tissue
+   - Consult oncologist
+   - Clexane 30mg QD for DIC + organs damage
+3. For Atrial fibrillation or flutter
+   - Rate control, avoid Cordarone due to Graves' disease

@@ -1,0 +1,83 @@
+Brief Summary of this week    
+After admission, diflucan, mepem and targocid were prescribed for infection control. CVVH was started for electrolyte imbalance. Levophed and dopamine were given for low blood pressure and dopamine was tapered off on 3/13. On 3/14, under relative stable BP and electrolytes, we shifted CVVH to SLED. However after SLED in 3/14 night, intermittent short-run VT with unstable blood pressure was noted in 3/15 morning. Cordarone infusion was given and followed EKG showed sinus rhythm with RBBB. QTc was 516 on 3/15 morning. Cardiac enzymes showed elevated CKMB to 6.05, CK 41, troponin I 0.08. Followed up EKG showed QTc 665 in 3/15 afternoon. We contacted CV man for medication adjustment. They suggest that arrhythmia may related to electrolytes imbalance, infection and medication include difucan, cordaron and dopamine. There is no evidence of acute coronary syndrome currently. We stopped diflucan for the side effect of QTc prolong and no evidence of fungal infection and cordarone and avoid dopamine and medication that would cause QTc prolong. We contacted with nephrologist and dialysis fluid was adjusted. We also follow electrolytes regularly and keep them balance. Followed up QTc gradually declined to 506 on 3/18.
+  For infection control, we keep mepem and targocid. No fever was noted and lab data showed improving leukocytosis and CRP level. Lower blood pressure was noted on 3/16 and improved after albumin supplement and PRBC transfusion. We checked adrenal function on 3/15 which showed normal level. 
+  For gastrointestinal bleeding, we kept PPI. She could tolerate feeding since 3/14. No coffee ground, tarry or bloody stool was noted since 3/15. However, poor digestion was noted on 3/18 so we added laxatives agents and prokinetics agents. Diet was adjusted to 佳易得 and 普寧腎 under dietition's suggestion. Dulcolax was given and stool passage improved. Primperan was also given but short-run VT suspected related to QTc prolong caused by primperan was then noted on 3/25, so we stopped it. Intermittent coffee ground was still noted and improved by rest for 1-2 meals. Much ascites interfering bowel movement was suspected. Ascites taping was considered but albumin supplement and hemodialysis was performed first in afraid of higher bleeding risk caused by factor XII defeciency. Also, lab data showed elevated lactic acid after SLED suspect related to hypoperfusion. Therefore, we started CVVH on 3/23 again. Her body weight gradually decreased. 
+  Meanwhile, fever was noted again on 3/23 morning. We consulted IDman who suggest us to collect acid fast stain, check procalcitonin and shift antibiotics to cravit if fever noted again. Procalcitonin showed elevated. However, though fever was noted noted, progressive leukocytosis was found on 3/26 so we contacted duty IDman again. He suggested to perform fever work up and add empirical cravi and anidulafungin for 3 days if culture later yielded negative.
+
+抗癌藥品治療副作用 (化療) 無副作用
+
+癌症治療效果追蹤評估 Disease Status:
+No evidence of recurrence or metastases
+Treatment Response:Not evaluable 
+
+Problem Assessment Plan 1
+Assessment 
+[NE]
+GCS: E1M5Vt
+CN II: Visual field: threatening test -/-, Light reflex: L/R= trace/trace ; pupil 2.5mm/2.5mm
+CNIII，IV&VI： EOM: OCR +/+
+CN V- Sensory: symmetric to pain 
+CNVII：symmetric nasolabial folds, cornea reflex: +/+
+CNIX&X：cough reflex +
+CNXII: (intubated)
+Muscle power  generally >=3
+DTR：
+  Right: biceps: +, triceps: +, brachioradialis: +, knee: +, ankle: -
+  Left: biceps: +, triceps: +, brachioradialis: +, knee: +, ankle: -
+Plantar response: no response on both sides   
+Sensation: symmetric to pain
+FNF/HNS: could not be performed by order
+[Culture]
+  03/17 S/C: Normal mixed flora
+[Course]
+3/12 
+- Targocid + mepem + diflucan for septic shock, focus on pneumonia
+- CVVH for electrolyte imbalance
+- levophed and dopamine for septic shock 
+- PPI and NPO for GI bleeding
+- FFP and PRBC for low Hb and coagulopathy
+3/14
+- CVVH-> SLED
+- FFP
+3/15
+- short-run VT in morning and recovered to sinus rhythm after cordarone use -> F/U EKG showed QT prolong around 660 -> stop cordarone
+- CV:
+1. VT may related to infection, electrolytes imbalance and medication 
+2. Keep K>4, Mg>1
+3. Avoid dopamine, amiodarone and stop diflucan
+4. Infection control
+5. No evidence of ACS but may have CAD and need follow up in long term
+- Nephro: would adjust dialysis fluid
+3/21 
+- coffee ground in night -> NG decompression
+3/23
+- Hematologist: not need to correct ptt for ascites taping
+- Consider lower BP, elevated lactic acid after H/D which may related to hypoperfusion and ascites -> shift HD to CVVH
+3/24
+-ID man:
+1.H/D, trace urine make U/A and U/C hard to interpretation sputum no bacteria seen CxR right middle lung consolidation drug fever? 2. we will suggest check sputum AFS/TB culture*III check procalcitonin DC teicoplanin for R/O drug fever if persisted fever, suggest shift mepem to cravit iv
+3/25
+- normal procalcitonin
+3/26
+Duty IDman: 
+1.Re-perform septic workup include fungal culture, aspergillosis antigen and streptococcus antigen
+2.Add empirical cravit and anidulafungin ( for 3 days, stop if fungal culture negative)
+
+Plan 
+[DNR不電不壓]
+# Avoid dopamine, cordarone and medication that would cause 
+QT prolong. F/u EKG.
+1. Keep CVVH, NaHCO3 2# TID. May add EPO for anemia related to CKD (criteris: Hb<9)
+2. For low BP:
+   -try taper levophed
+   -Albumin supplement
+   -infection control
+3. For ileus and coffee ground
+   -keep nexium
+   -keep laxatives (avoid primperan for QTc prolong)
+   -record abdominal girth and consider ascites taping if no improvement under CVVH
+4. Concor 1.25mg for heart rate control
+5. Add anidulafungin and cravit; Keep mepem and targocid; Persuit culture result
+6. For seizure: Keppra 1000mg/d, Topamax 200mg/d, arrange EEG
+7. For PD: Madopar 250 0.5tab BID, monitor BP and rigidity
+8. Diet: 佳易得+普寧盛, monitor electrolytes

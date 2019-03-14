@@ -1,0 +1,571 @@
+2015/10/30 04:59 
+主訴(Chief Complaint) 
+Informant:patient's family
+sudden chest pain in the noon. 
+病史(Brief History) 
+This 72-year-old man was admitted to this ICU for coronary artery disease, complicated with out-of-hospital cardiac arrest. 
+
+He has history of diabetes mellitus and hypertension under poor control according to his family. He did not complained about chest pain before. He complained about sudden onset of chest pain during defecation at about 13:00, and he wsa sent to our emergent department for help. At triage, sudden collapse was noted, and CRCP was started. The initial rhythm is pulsless VT, and the first time returning of spontaneous circulation (ROSC) was at 14:03; however, pulseless electrical activity was noted again, and CPCR was started again at 14:07, with second ROSC at 14:15. At 14:17, no pulse was noted again, and CPCR was done, the rhythm at 14:27 was ventricular fibrillation, and DC shock was done, and ECMO was implemented. PEA was noted at 14:29, and then progressing into asystole at 14:31. ECMO support was started at 14:47. Primary percutaneous coronary intervention was done at 16:41. The cath finding is that coronary artery disease, with 3-vessel-disease, complicated with out-of-hospital cardiac arrest, status post ECMO support, status post percutaneous occlusive balloon angioplasty with stenting to right coronary artery and percutaneous occlusive balloon angioplasty to left circumflex. Under critical condition, he was admitted to this ICU for care. 
+
+Family History: diabetes mellitus family history
+Medication Allergy:No  病人自述 2015/10/29
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  病人自述 2015/10/29
+Current Medication:
+NTUH:
+警 Dopamine HCl, Baxter 400 mg/250 mL /bag 400 mg QD cIF 2 days
+警 Dopamine HCl, Baxter 400 mg/250 mL /bag 400 mg QD cIF 2 days
+瓶 Rolikan 7% 250 mL/btl 1 btl STAT IF(CVC) 1 days
+瓶 Rolikan 7% 250 mL/btl 1 btl STAT IF(CVC) 1 days
+警 Nimbex 10 mg/5 mL /amp 10 mg STAT IV 1 days
+Atropine 1 mg/1 mL /amp 1 mg STAT IV 1 days
+警 Dopamine HCl, Baxter 400 mg/250 mL /bag 400 mg QD cIF 1 days
+警針 Cordarone Inj 150 mg/3 mL /amp 150 mg STAT IF 1 days
+警 Vitagen 50% 20 mL/amp 40 mL STAT IV 1 days
+警 Humulin R 1000 U/10 mL /vial 10 U STAT IV 1 days
+Rolikan 16.6 mEq/20 mL /amp 49.8 mEq STAT IV 1 days
+警 Adrenaline 1 mg/1 mL /amp 10 mg STAT IV 1 days
+小瓶 KCl in Water Inj 20 mEq/100 mL /btl (信東 1.49% KCl) 20 mEq STAT IF(CVC) 1 days
+(鈣) Vitacal 5.4 mEq/20 mL /amp 5.4 mEq STAT IF 1 days
+警 Nimbex 10 mg/5 mL /amp 50 mg STAT IV 1 days
+警 Nimbex 10 mg/5 mL /amp 5 mg STAT IV 1 days
+Lasix 40 mg/tab 1 tab QD PO 3 days
+Lasix 40 mg/tab 1 tab QD PO 7 days
+Natrilix SR 1.5 mg/tab 1 tab QD PO 7 days
+Other:
+中草藥: nil
+保健食品: nil
+Past Medical History:
+1. diabetes mellitus
+2. hypertension
+Hospitalization:
+--
+Past Surgical History:
+2015_10_29  VA-ECMO set-up under CPCR
+Travel History: nil
+【Present illness】
+
+
+
+【Past History】
+1. Systemic disease: 
+2. Past Medical History:
+Systemic disease:
+Hospitalization:
+Past surgical history:
+3. Allergy history: nil 
+4. Current Medication:
+5. Lifestyle:
+   Cigarette smoking: 1PPD
+   Alcohol consumption: nil
+   Betelnut chewing: nil
+6. Travel history: nil
+7. Family history: 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:大學
+職業:退休
+宗教信仰:佛教
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:O，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:昏迷
+認知功能:無法評估 
+精神情緒狀態:無法評估  
+安全問題:無  
+睡眠形態:正常  
+
+Nutritional Screen
+攝食情形:普通，攝食50-74%
+排便狀態:異常
+排便異常狀態:無排氣
+BMI:26.76
+
+Fall Risk Assessment
+總分:16
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular:  exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(-), cough(-), chest pain(+), hemoptysis(-), productive cough (-), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH:160 cm   BW:68.5 kg
+T:36.1 P:73 R:32
+BP:100/51 mmHg
+Pain: not applicable currently
+
+Neurological Examination:
+. Consciousness: E2VtM2
+. Muscle power: RUL 2, LUL 2, RLL 2, LLL 2
+. Gait: not applicable
+‧Head-Eye-ENT 
+        grossly normal, conjunctiva: pink, sclera: anicteric
+        Pupil: isocoric,  2mm/ 2mm
+        Light reflex: L/R: trace/trace, EOM: not applicable
+‧Neck
+	Jugular vein engorgement(-)
+	Thyroid goiter(-)
+	Meningismus: Kernig sign(-); Brudzinski sign(-)
+        Carotid bruit(-)
+‧Chest
+	Thoracic cage contour: symmetric, Retraction(-)
+	Vocal fremitus and expansion: symmetric
+	Percussion: resonant
+        Breathing sound: clear
+	Crackles(-) wheezes(-)rhonchi(-) stridor(-)
+‧Heart
+	Heart beat: regular  Murmurs(+, IABP pumping)
+        LV lift(-) RV heave(-)
+	Increased cardiac size by percussion(-)
+	Adventitious sounds (-)
+‧Abdomen
+        Flat & soft
+	Superficial vein engorgement(-) Protruded umbilicus(-)
+	Bowel sound: Normoactive
+	Tenderness(-) Hepato-jugular reflux(-)
+	Liver and spleen: impalpable
+‧Extremities
+        Freely movable(-), pulses symmetric and intact (+,weak), pitting edema(-)	
+‧Back
+        Knocking pain(-)
+‧Skin
+	Abnormal pigmentation(-)
+	Petechiae(-) Purpura(-) Ecchymoses(-) Telangiectasia(-)
+	Rash(-) Plaque(-)
+‧Lymphadenopathy(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:YM***********
+
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1041029 [2016] 1.03          9.6           29            2.88          139.1        
+1041029 [2206] 0.98          11.1          33            3.55          147.0        
+1041029 [2209] 1.01          11.1          33            3.58          152.0        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1041029 [2016] 297           12.7         
+1041029 [2206] 280           12.1         
+1041029 [2209] 288           12.2         
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1041029 [2016] 7.397         24.1          239.8         15.0          -10.1        
+1041029 [2206] 7.461         28.3          207.6         20.3          -3.8         
+1041029 [2209] 7.418         32.5          38.7          21.2          -3.6         
+               SO2          
+time/item      (%)          
+1041029 [2016] 99.8         
+1041029 [2206] 99.8         
+1041029 [2209] 74.9         
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               Mg            CK-MB         %CKMB         Troponin I   
+time/item      (mmol/L)      (U/L)         (%)           (ng/mL)      
+1041029 [2125]               749           uncounted     >80.0        
+1041029 [2216] 0.70                                                   
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041029 [2125] 25.71         3.51          10.6          30.3          86.3         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1041029 [2125] 30.2          35.0          169           13.1          -            
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               T-BIL         AST           UN            CRE           CK           
+time/item      (mg/dL)       (U/L)         (mg/dL)       (mg/dL)       (U/L)        
+1041029 [2125] 0.40          1422          41.1          2.9           6917         
+*********檢驗室:CT***********
+
+群組:PT
+
+               PT            PT INR       
+time/item      (sec)         ()           
+1041029 [2138] 14.5          1.38         
+群組:PTT
+
+               PTT          
+time/item      (sec)        
+1041029 [2138] 30.1         
+群組:Clotting Factor
+
+               Fibrinogen   
+time/item      (mg/dL)      
+1041029 [2138] 365.5        
+*********檢驗室:OP***********
+
+群組:SEDIMENT
+
+               RBC (S)       WBC (S)       Epith (S)     Cast (S)      Crystal (S)  
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1041029 [2125] 5-10          2-5           0-2           Gr(0-2) Cell  -            
+                                                       ular(0-2)                  
+               Bacteria      Mucus(S)      Others (S)   
+time/item      (*)           (*)           (*)          
+1041029 [2125] -             -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH            Protein(C)    Glu.(C)       Ketone body  
+                                                                    (U)          
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1041029 [2125] 1.028         7.0           300 ( 3+ )    >1000 ( 4+ )  1+                         
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+                                                                     (U)         
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1041029 [2125] 3+            ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1041029 [2125] Colorless     -            
+
+*********檢驗室:SB***********
+
+群組:Yes
+
+               C3 Quantitat  C4 Quantitat  Other Body F  RA Factor (N 
+               ion           ion           luid Electro  ephelometry) 
+                                          phoresis                                 
+time/item      (mg/dL)       (mg/dL)       ()            (IU/mL)      
+1041027 [1252]                             Random urine               
+                                           protein ele               
+                                          ctrophoresis               
+                                           shows album               
+                                          in 43.0%, al               
+                                          pha1 globuli               
+                                          ns 10.8%, al               
+                                          pha2 globuli               
+                                          ns 12.8%, be               
+                                          ta globulins               
+                                           8.6%, and g               
+                                          amma globuli               
+                                          ns 24.8% wit               
+                                          hout Bence-J               
+                                          ones protein               
+                                          s.                         
+1041027 [1311] 140.00        28.90                       <9.19        
+*********檢驗室:SE***********
+
+群組:Yes
+
+               Anti-Nuclear 
+                Antibody    
+time/item      (1:N)        
+1041027 [1311] 1:40(-)      
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               Alb           TP(Urine)     CRE(U)       
+time/item      (g/dL)        (mg/dL)       (mg/dL)      
+1041027 [1252]               1373          98           
+1041027 [1311] 1.6                                      
+*********檢驗室:SF***********
+
+群組:Yes
+
+               HBsAg        
+time/item      (IU/mL)      
+1041027 [1311] Negative(0.0 
+               1)           
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041026 [1144] 8.99          4.20          12.7          37.1          88.3         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1041026 [1144] 30.2          34.2          285           13.4          -            
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               Alb           ALT           UN            CRE           UA           
+time/item      (g/dL)        (U/L)         (mg/dL)       (mg/dL)       (mg/dL)      
+1041026 [1144] 1.6           20            44.5          3.4           6.2          
+               TG            T-CHO         LDL-C         HDL-C        
+time/item      (mg/dL)       (mg/dL)       (mg/dL)       (mg/dL)      
+1041026 [1144] 351           330           213           34           
+群組:DM
+
+               HbA1c        
+time/item      (%)          
+1041026 [1144] 7.7          
+*********檢驗室:OP***********
+
+群組:SEDIMENT
+
+               RBC (S)       WBC (S)       Epith (S)     Cast (S)      Crystal (S)  
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1041026 [1129] 10-20         5-10          5-10          Gr(0-2) Hy(0  -            
+                                                       -2)                        
+               Bacteria      Mucus(S)      Others (S)   
+time/item      (*)           (*)           (*)          
+1041026 [1129] -             -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH            Protein(C)    Glu.(C)       Ketone body  
+                                                                    (U)          
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1041026 [1129] 1.020         6.5           600 ( 3+ )    >1000 ( 4+ )  2+                         
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+                                                                     (U)         
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1041026 [1129] 2+            ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1041026 [1129] Yellow        -            
+
+*********檢驗室:YM***********
+
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1041029 [1412] 1.07          13.5          40            5.42          134.9        
+1041029 [1456] 1.15          8.5           25            4.24          153.4        
+1041029 [1517] 0.98          9.9           30            2.83          157.7        
+1041029 [1557] 0.99          10.2          31            2.35          141.1        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1041029 [1412]               19.2         
+1041029 [1456] 441                        
+1041029 [1517] 438                        
+1041029 [1557] 388           14.2         
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1041029 [1412] 7.065         30.2          237.1         8.7           -21.8        
+1041029 [1456] 7.069         62.4          52.8          18.2          -12.2        
+1041029 [1517] 7.322         52.0          27.3          27.1          0.8          
+1041029 [1557] 7.351         29.8          35.0          16.7          -9.2         
+               SO2          
+time/item      (%)          
+1041029 [1412] 99.5         
+1041029 [1456] 71.2         
+1041029 [1517] 45.0         
+1041029 [1557] 65.6         
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1041029 [1430] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1041029 [1430] O             Positive     
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ammonia N    
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)     
+1041029 [1430] 36.4          3.0           137           5.6           @            
+               Mg            AST           LacticAcid    CK            CK-MB        
+time/item      (mmol/L)      (U/L)         (mmol/L)      (U/L)         (U/L)        
+1041029 [1430] 0.87          123           13.28         469           79           
+               %CKMB         Troponin I   
+time/item      (%)           (ng/mL)      
+1041029 [1430] 16.8          2.35         
+群組:Yes
+
+               pro-BNP      
+time/item      (pg/mL)      
+1041029 [1430] 23000        
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1041029 [1430] 10.2          34.4          0.96         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1041029 [1430] 55           
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041029 [1430] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041029 [1430] 45.7          1.0           0.4           4.7           48.2         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041029 [1430] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041029 [1430] 19.20         4.24          12.8          38.7          91.3         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041029 [1430] 30.2          33.1          194           13.2          -            
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1041029 [2137] 226 
+檢查紀錄(Examination Report) 
+Coronary Angiography:
+LM: patent
+LAD: proximal total occlusion
+LCX: proximal to distal multiple lesions, up to 90% stenosis, with collaterals to RCA
+RCA: proximal to distal diffuse stenosis, up to 90%, with collaterals to RCA
+
+Post-Catheterization diagnosis:
+Coronary artery disease, 3-vessel-disease, with out-of-hospital cardiac arrest, status post ECMO support, status post percutaneous occlusive balloon angioplasty with stenting to right coronary artery and percutaneous occlusive balloon angioplasty to left circumflex 
+影像報告(Imaging Report) 
+CT With/Without Contrast-Abdomen 醫令: CT With/Without Contrast-Abdomen 報告醫師: 葉建德 影像時間: 2015/10/29 16:18 (33072B3M) 發報告時間: 2015/10/29 17:04 Abdomen/Pelvis CT without and with contrast enhancement shows: 
+> Bilateral renal cysts.
+> No focal lesions in the liver, spleen, pancreas, adrenals.
+> No abdominal or pelvic lymphadenopathy.
+> Enlarged prostate.
+> Placement of a foley catheter.
+> No ascites. 
+> Atherosclerotic changes in the aorta. 
+> Placement of ECMO cannulas via left femoral vessels.
+CT With/Without Contrast-Chest 醫令: CT With/Without Contrast-Chest 報告醫師: 柯維鈞 影像時間: 2015/10/29 16:18 (33072B2M) 發報告時間: 2015/10/29 17:56 Dynamic CT of the chest without and with contrast enhancement shows: 
+1. diffuse hypodense change at the endocardium of LV wall and papillary muscles. Differential diagnosis includes myocardial infarction and post-cardiac arrest change. Suggest clinical correlation.  A hypodense lesion at the apex (SE7 IM177), suggestive of a LV thrombus.
+2. atherosclerotic change with mural calcification of the aorta and coronary arteries. No obvious acute aortic disease in the thoracic region. No obvious pulmonary thromboembolism.
+3. peribronchial consolidation with hypoattenuation change at both lower lobes. Diffuse ground glass opacities at both lungs. Post-cardiac arrest change is considered first. Suggest clinical correlation and follow-up. 
+4. small bilateral mediastinal lymph nodes. 
+5. bilateral pleural effusion, more on right side.  
+6. degenerative change of the T spine. 
+7. placement of an endotracheal tube and an ECMO catheter. 
+8. please correlate with the imaging findings and report of the other CT study.
+CT With/Without Contrast-Pelvis 醫令: CT With/Without Contrast-Pelvis 報告醫師: 葉建德 影像時間: 2015/10/29 16:18 (33072B5M) 發報告時間: 2015/10/29 17:04 Abdomen/Pelvis CT without and with contrast enhancement shows: 
+> Bilateral renal cysts.
+> No focal lesions in the liver, spleen, pancreas, adrenals.
+> No abdominal or pelvic lymphadenopathy.
+> Enlarged prostate.
+> Placement of a foley catheter.
+> No ascites. 
+> Atherosclerotic changes in the aorta. 
+> Placement of ECMO cannulas via left femoral vessels.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳佾昌 影像時間: 2015/10/29 15:31 (32001CYM) 發報告時間: 2015/10/29 16:32 EXAMINATION: Chest : AP View (Supine)
+FINDINGS:
+Cardiomegaly. Tortuous aorta with calcification. Bilateral lung consolidation. Degenerative change of the T and L spine. Placement of endotracheal tube, central venous catheter(s), ECMO vascular cannula.
+CT Without Contrast-Brain 醫令: CT Without Contrast-Brain 報告醫師: 王郁棻 影像時間: 2015/10/29 16:18 (33070B0M) 發報告時間: 2015/10/29 16:55 CT of brain without contrast enhancement shows: 
+1. prominent sulci, fissures and ventricles. 
+2. confluent hypodensity around bilateral periventricular region, leukoaraiosis is considered. 
+3. old insults in right frontal and parietal lobes. 
+4. there is no definite hyperdense lesion indicating acute intracranial hemorrhage. 
+5. atherosclerotic change of intracranial arteries. 
+6. intact cranial vault. 
+7. right paranasal sinusitis changes. 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1. Coronary artery disease, 3-vessel-disease, with out-of-hospital cardiac arrest, status post ECMO support, status post percutaneous occlusive balloon angioplasty with stenting to right coronary artery and percutaneous occlusive balloon angioplasty to left circumflex
+2. Diabetes mellitus
+3. Hypertension
+4. Nephrotic syndrome
+5. Benign essential hypertension 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+1. Coronary artery disease, 3-vessel-disease, with out-of-hospital cardiac arrest, status post ECMO support, status post percutaneous occlusive balloon angioplasty with stenting to right coronary artery and percutaneous occlusive balloon angioplasty to left circumflex
+2. Diabetes mellitus
+
+S:
+unconsciousness currently due to heavey sedation for ECMO and intubation use.
+Few coffee ground  was noted in the NG
+
+O:
+Current antibioics: Ceftriaxone D2 (10/29~)
+Previous abx: nil
+
+<Mv setting>
+PCV, IP 20, PEEP 10, RR 12, FiO2 80%, Ti 0.9
+=> Vt 580, MV 7-8, SpO2 98~100%
+
+<Physical examination>
+Consciousness: E1M1VT, under Fentanyl, dobagion
+Breath sounds: bilateral basal crackles (R/L:+/+)
+Heart: RHB (HR~60~90/min), under Dopamine and Epinephrine 
+Abdomen: round, shifting dullness(-), no tenderness
+Extremities: cold bilateral foot
+
+<Important Study Findings>
+10/29 cardiac echo: (afternoon)
+      cardiac echo (night)
+
+<Intervention>
+10/29 Coronary Angiography:
+LM: patent
+LAD: proximal total occlusion
+LCX: proximal to distal multiple lesions, up to 90% stenosis, with collaterals to RCA
+RCA: proximal to distal diffuse stenosis, up to 90%, with collaterals to RCA
+
+Post-Catheterization diagnosis:
+CAD, 3VD, with OHCA and ECMO, s/p POBAS to RCA and POBA to LCX
+<family decision>
+
+<Infection survey>
+10/29 B/C (A-line, periperral, CVC)
+
+A:
+1. Coronary artery disease, 3-vessel-disease, with out-of-hospital cardiac arrest, status post ECMO support, status post percutaneous occlusive balloon angioplasty with stenting to right coronary artery and percutaneous occlusive balloon angioplasty to left circumflex
+
+P:
+1. complete heparization, and add on Brilinta first, aspirin will be added back later; give Lipitor
+2. keep ECMO and IABP support
+   keep dopamine and epinephrine for heart support
+4. consider LVAD
+5. Inform poor prognosis
+6. Empirical Ceftriaxone use
+
+Treatment Goal: remove ECMO and IABP, and transfer to general ward 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左頸 左腹股溝 右手 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.5mm 
+胃造廔口：無  
+尿管留置：有 Two way Foley  
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：配偶 兒子 
+出院規劃收案篩檢：高危病患 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+洪啟盛 主治醫師 

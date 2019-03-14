@@ -1,0 +1,262 @@
+2015/09/29 20:58 
+主訴(Chief Complaint) 
+Informant:patient herself
+Yellowish skin for 3 days 
+病史(Brief History) 
+This is a 62-year-old female patient who was relatively healthy before. 
+  The patient had been well until 3 days ago, generalized yellowish discoloration over whole body developed. The associated symptoms included retro-sternal colicky pain, clay color stool for 1 day, back soreness and headache. The pain was intermittent(up to 1 hr at each episode), without precipitating or exacerbating factors and would resolve spontaneously. In addition, poor appetite and weight loss of 8 kg(60->52kg) in 6 months were also noted. 
+  The patient denied fever, diarrhea, hepatitis virus carrier history before. Due to the above symptoms, she was brought to our ED on 2015/09/28.
+  On presentation, her vital signs were stable. Physical exams revealed icteric appearnce over sclerae and whole body surface. Liver function tests revealed cholestasis pattern with direct hyperbilirubinemia. CT exams on 9/28 revealed gastric antrum wall swelling with bile duct, right ureter, and peritoneal involvement. Malignancy was suspected. Under the impression of gastric antrum tumor with bile duct, right ureter obstruction and suspected peritoneal carcinomatosis, she was admitted for further evaluation and management.
+
+
+Family History: Father had DM(+), Denied family history of cancer
+Medication Allergy:
+No  病人自述 2015/09/16
+Medication ADR:unknown
+Allergy to Medical Device and Materials:
+No  病人自述 2015/09/16
+Current Medication:
+NTUH:
+PARAMOL 500 mg/tab 1 tab STAT PO 1 days
+PARAMOL 500 mg/tab 1 tab Q4HPRN PO 2 days
+Acetaminophen (PARAMOL 500 mg/tab) 1 tab QID PO 14 days
+Magnesium Oxide (MgO 250 mg/tab 限住院藥局用) 1 tab QID PO 14 days
+Other:
+中草藥: Nil
+保健食品: Nil
+Past Medical History:
+Hospitalization:
+入院日期:2014_05_12 出院日期:2014_05_14 診斷:Crush hand injury
+入院日期:2015_09_16 出院日期:2015_09_18 診斷:Crush hand injury
+入院日期:2014_09_08 出院日期:2014_09_16 診斷:Crush hand injury
+
+Past Surgical History:
+1. 2014_05_13  left 4th metacarpophalangeal joint arthroplasty stiffness at the extension posture, flexion disability, release
+2. 2015_09_17  
+   (1). Tenolysis of extensor tendon, left ring finger 
+   (2). Realignment of extensor tendon by EIP graft (loop rerouting method) 
+3. 2014_09_09  L4/L5 posterior decompression, instrumentation, and posterolateral fusion with  transforaminal lumbar interbody fusion
+4. Arthroplasty 2014/5/13
+5. Lumbar spondylolithesis: POSTERIOR DECOPRESSION,POSTERIOR instrumentation, TLIF 2014/9/8.
+6. Status-post gastrojejunostomy. 
+
+
+Travel History: Nil 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:小學
+職業:商
+宗教信仰:民間信仰
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:B，RH:不清楚，輸血反應:有,寒顫+起紅疹
+抽煙:沒有
+喝酒:啤酒0-6瓶/day x 30 年
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:警醒
+認知功能:正常 
+精神情緒狀態:異常 焦慮 
+安全問題:無  
+睡眠形態:異常 使用藥物 
+
+Nutritional Screen
+攝食情形:差，攝食50%以下
+排便狀態:正常
+BMI:22.81
+
+Fall Risk Assessment
+總分:1
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(+, 8kg in 6 months), easy-fatigability(+), night sweats(-)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(+, associated with retro-sternal colicky pain),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular:  exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(-), cough(-), chest pain(-), hemoptysis(-), productive cough (-), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH:152 cm   BW:52.7 kg
+T:35.7 P:71 R:19
+BP:121/88 mmHg
+Pain:0
+
+Neurological Examination:
+. Consciousness: clear
+. Muscle power: decreased strength(4) but symmetric
+. Gait: steady
+
+‧Head-Eye-ENT 
+        grossly normal, conjunctivae: pink, sclerae: icteric
+‧Neck
+	Jugular vein engorgement(-)
+	Thyroid goiter(-)
+	Meningismus: Kernig sign(-); Brudzinski sign(-)
+        Carotid bruit(-)
+‧Chest
+        Breathing sound: clear
+	Crackles(-) wheezes(-)rhonchi(-) stridor(-)
+‧Heart
+	Heart beat: regular  Murmurs(-)
+‧Abdomen
+        Flat & soft, yellowish(+)
+	Superficial vein engorgement(-) Protruded umbilicus(-)
+	Bowel sound: Normoactive
+	Tenderness(-) Hepato-jugular reflux(-)
+	Liver and spleen: impalpable
+‧Extremities
+        Freely movable, pulses symmetric and intact, pitting edema(-)	
+‧Back
+        Knocking pain(-)
+‧Skin
+	Abnormal pigmentation(-), poor skin turgor(+)
+	Petechiae(-) Purpura(-), Telangiectasia(-)
+	Rash(-) Plaque(-)
+‧Lymphadenopathy(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1040916 [1228] 3.33          3.02          10.1          28.7          95.0         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1040916 [1228] 33.4          35.2          313           17.6          -            
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               AST           ALT           UN            CRE           Na           
+time/item      (U/L)         (U/L)         (mg/dL)       (mg/dL)       (mmol/L)     
+1040916 [1228] 179           44            9.2           0.6           126          
+               K            
+time/item      (mmol/L)     
+1040916 [1228] 5.2          
+*********檢驗室:CT***********
+
+群組:PT
+
+               PT            PT INR       
+time/item      (sec)         ()           
+1040916 [1228] 10.0          0.94         
+群組:PTT
+
+               PTT          
+time/item      (sec)        
+1040916 [1228] 23.8         
+
+
+*********檢驗室:RL***********
+
+群組:General BioChemistry
+
+               GGT           D-BIL         ALT           ALP           LDH          
+time/item      (U/L)         (mg/dL)       (U/L)         (U/L)         (U/L)        
+1040928 [1523]               5.33          126                         405          
+1040928 [2116] 2804                                      640                        
+群組:Biochemistry
+
+               CRE           Na            K             T-BIL         Lipase       
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)       (U/L)        
+1040928 [1523] 1.0           124           5.1           9.56          78           
+               AST          
+time/item      (U/L)        
+1040928 [1523] 236          
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1040928 [1523] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1040928 [1523] 77.0          0.2           0.4           9.3           13.1         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1040928 [1523] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1040928 [1523] 5.57          2.77          9.3           26.3          94.9         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1040928 [1523] 33.6          35.4          314           16.4          - 
+檢查紀錄(Examination Report) 
+Nil 
+影像報告(Imaging Report) 
+CT With/Without Contrast-Pelvis 醫令: CT With/Without Contrast-Pelvis 報告醫師: 施怡倫 影像時間: 2015/09/28 20:12 (33072B5M) 發報告時間: 2015/09/29 09:50 CT of abdomen and pelvis without and with contrast enhancement shows:
+1. Status post gastrojejunostomy. Suspected wall-thickening at gastric antrum, may consider correlate with endoscopy.
+2. Mild swelling of the pancreatic head. May consider check IgG4 level for possible autoimmune pancreatitis.
+3. Dilated biliary tree. Focal wall-thickening with increased enhancement of the upper and lower CBD and also the gallbladder wall. 
+4. Right hydronephrosis. The obstruction level is at middle ureter.
+5. Nodular infiltration of the omentum, suspected peritoneal carcinomatosis.
+6. Small ascites.
+7. Lumbar spondylosis with post-operative changes.
+CT With/Without Contrast-Abdomen 醫令: CT With/Without Contrast-Abdomen 報告醫師: 施怡倫 影像時間: 2015/09/28 20:12 (33072B3M) 發報告時間: 2015/09/29 09:51 CT of abdomen and pelvis without and with contrast enhancement shows:
+1. Status post gastrojejunostomy. Suspected wall-thickening at gastric antrum, may consider correlate with endoscopy.
+2. Mild swelling of the pancreatic head. May consider check IgG4 level for possible autoimmune pancreatitis.
+3. Dilated biliary tree. Focal wall-thickening with increased enhancement of the upper and lower CBD and also the gallbladder wall. 
+4. Right hydronephrosis. The obstruction level is at middle ureter.
+5. Nodular infiltration of the omentum, suspected peritoneal carcinomatosis.
+6. Small ascites.
+7. Lumbar spondylosis with post-operative changes.
+Spine: Lumbosacral AP, LAT. 醫令: Spine: Lumbosacral AP, LAT. 報告醫師: 吳志宏 影像時間: 2015/08/26 12:38 (000MP090) 發報告時間: 2015/08/29 12:17 EXAMINATION: Spine: Lumbosacral AP, LAT.
+FINDINGS:
+Moderate degenerative change of the spine with marginal spur formation. Grade I spondylolithesis at L4-5 level. Post-operative change with metallic fixation at lower lumbar spine. Radiopaque densities at pelvic cavity, phleboliths or stones are considered.
+Hand: Left 醫令: Hand: Left 報告醫師: 吳志宏 影像時間: 2015/08/26 12:38 (000MP002) 發報告時間: 2015/08/29 12:18 EXAMINATION: Hand: Left
+FINDINGS:
+Status post metallic screw fixation at the metacarpal bases, Previous fracture-subluxation at the metacarpal bones, and around carpometacarpal and the fifth metacarpophalangeal joints; osteoarthritis of interphalangeal joints; recommend clinical correlation.
+Pelvis: for Routine 醫令: Pelvis: for Routine 報告醫師: 吳志宏 影像時間: 2015/08/26 12:38 (32022CTM) 發報告時間: 2015/08/29 12:19 EXAMINATION: Pelvis: for Routine
+FINDINGS:
+Post-operative change with metallic fixation at lower lumbar spine. Radiopaque densities at pelvic cavity, phleboliths or stones are considered. Mild osteoarthritis change at bilateral hip joints. 
+病理報告(Pathology Report) 
+S1435781
+Disc,intervertebral, L4/5,posterior decompression,degeneration 
+臆斷(Tentative Diagnosis) 
+1. Gastric antrum tumor, complicated with bile duct, right ureter obstruction, and suspected peritoneal carcinomatosis
+2. Hand crush injury, left wrist, status post operation 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*
+<Problems>
+1. Gastric antrum tumor, complicated with bile duct, right ureter obstruction, and suspect peritoneal carcinomatosis
+
+<Assessment>
+ - A 62-year-old female patient who was well before.
+ - Weight loss > 10 % in 6 months
+ - Yellowish discolorization with clay color stool for 3 days.
+ - Retrosternal colicky pain and headache for 3 days.
+ - 9/28 CT gastric antrum wall swelling with bile duct, right ureter, and peritoneal involvement
+
+<Plan>
+ - Arrange EGD with biopsy, ERCP with ERBD, and IDUS on 10/1 for gastric antrum tumor and related biliary drainage
+ - Check tumor markers and coagulation profile on 9/30
+ - Explain the therapeutic plan to the patient.
+
+Treatment Goal: Tumor workup and jaundice relief within one week 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：無 
+雙腔導管留置：  
+鼻胃管留置：  
+氣管管路留置： 無
+胃造廔口：  
+尿管留置：   
+膀胱造廔： 
+傷口引流管：
+其他導管：
+日常生活功能分數：100
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：自己 配偶 兒子 
+出院規劃收案篩檢：一般病患 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+鄭祖耀 主治醫師 

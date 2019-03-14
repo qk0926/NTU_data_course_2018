@@ -1,0 +1,34 @@
+# Hypoxic-ischemic encephalopathy with increased intra-cranial pressure
+# Lactic acidosis, suspect tissue hypoxia related, improved
+
+E1VtM1, no light reflex, no cough reflex
+FiO2= 0.25 PEEP 3
+SBP= 100-130 on levophed 4.5 -> 0.5
+Perfusion CT on 10/20: Hypoxic ischemic encephalopathy. Suspected infarct in brain stem. IICP with delayed intracranial arterial flow.
+BW 55.7 -> 55.2
+Poor NG feeding, suspected gastroparesis
+ 
+P:
+As-needed DDAVP according to U/O
+Mannitol Q6H
+Monitor electrolye levels
+Rocephin
+solu-cortef 50mg q12h for adrenal insufficiency
+
+[護理師]
+1.keep monitor urine output
+2.monitor artery blood pressure 
+
+[RT]
+1. Ventilator full support
+2. Chest care airway clearance
+3. Control IICP:continue mannitol 100ml q6h + 3% saline q6h->q12h for IICP
+ -> keep head elevation 30 degrees
+ -> may arrange EEG later as neurologist suggested
+
+[dietitian]
+BH/BW 166/55.2kg,IBW:60.6kg
+energy requirement:1600kcal/day
+protein requirement:66g/day
+diet order;一般750kcal
+may be consider change diet order to 元素管灌配方

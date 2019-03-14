@@ -1,0 +1,383 @@
+2016/06/07 17:22 
+主訴(Chief Complaint) 
+Informant:the patient and her son
+General weakness since 2016/05/27 
+病史(Brief History) 
+This 67 years old female had history of 
+1.Malignant neoplasm of head of pancreas, ductal adenocarcinoma
+2.type 2 DM
+3.CAD
+4.hypertension
+According to the patient and her son, the symptom of general weakness was noted since 2016/05/27. Watery diarrhea with body weight loss was noted for recent a month(>5kg in one month). No fever, abdominal pain, nausea or vomiting was noted. She was sent into our Emergent department for further evaluation. At ER, physical examination showed abdominal mildly distended, normoactive bowel sound. Abdominal echogram showed an anechoic lesion, ~2.8cm at left lobe. Lab showed Urine culture and blood culture yeast, WBC=11.32k(seg=89%). Under the impression of post-operative gastrointestinal infection, she was admitted for further evaluation and management.
+Family History:no systemic disease family Hx
+Medication Allergy:No  舊病歷資料 2016/03/08
+No  親屬描述 2016/03/06
+No  親屬描述 2016/03/02
+No  親屬描述 2016/06/05
+No  舊病歷資料 2016/06/07
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  親屬描述 2016/03/06
+UnClear  親屬描述 2016/03/02
+No  親屬描述 2016/06/05
+No  舊病歷資料 2016/06/07
+No  舊病歷資料 2016/03/08
+Current Medication:
+NTUH:針 Ciproxin inj 200 mg/100 mL /vial 400 mg Q12H IF 5 days
+瓶500 KCl in NS Inj 20 mEq/500 mL /btl (信東 0.298% KCl) 80 mEq QD IF 4 days
+(管4) Ultracet tab /tab 1 tab QID PO 3 days
+Magnesium Sulfate inj 16 mEq/20 mL /amp 32 mEq STAT IF 1 days
+針 Diflucan inj 100 mg/50 mL /vial 200 mg Q12H IF 3 days
+針 Diflucan inj 100 mg/50 mL /vial 800 mg STAT IF 1 days
+液5% KCl Soln 0.67 mEq/mL 25 mL QID PO 2 days
+(管4) Ultracet tab /tab 1 tab QID PO 28 days
+Protase EC /cap 3 cap TID POMEAL 28 days
+液 Megest Oral Susp 40 mg/1 mL 120 mL/btl 3 mL TIDPRN PO 28 days
+Indol Gel 1% 10 g/tube 5 XX QD D 28 days
+Other:
+中草藥:nil
+保健食品:nil
+Past Medical History:
+Hospitalization:入院日期:2016_03_06 出院日期:2016_03_23 診斷:Pancreatic cancer
+
+Past Surgical History:2016_03_07  WASA: Whipples procedure at the splenic artery (standard PD, PJ, Billroth-II); feeding gastro-jejunostomy
+Travel History:nil 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:不識字
+職業:家管
+宗教信仰:道教
+婚姻狀態:已婚
+使用語言:台語 
+口述血型:B，RH:不清楚，輸血反應:無
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:警醒
+認知功能:正常 
+精神情緒狀態:異常 倦怠 焦慮 
+安全問題:有 其他 跌倒
+睡眠形態:正常  
+
+Nutritional Screen
+攝食情形:佳，攝食75%
+排便狀態:異常
+排便異常狀態:腹瀉
+BMI:24.45
+
+Fall Risk Assessment
+總分:14
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+General: fever(-), chill(-), body weight loss(+), lethargy(-),
+poor
+appetite(+)
+Head: dizziness(-), sinus pain(-), trauma(-), headache(-)
+Eyes: chronic itching(-), eye discharge(-) impairment of vision(-),
+diplopia(-)
+Ears: pain(-), otorrhea(-), tinnitus(-), hearing impairment(-)
+Nose: epitaxis(-), rhinorrhea(-), impairment of smell(-)
+Mouth: dental caries(-), oral ulcer(-), gum bleeding(-), sore throat(-)
+Neck: stiffness(-), neck mass(-)
+respiratory tract: chest pain(-), cough(-), sputum(-), hemoptysis(-),
+dyspnea(-)
+Cardiovascular system: chest tightness(+), palpitation(-), orthopne(-)
+paroxysmal nocturnal dyspnea(-)
+Gastrointestinal tract: abdominal pain(-), nausea(-), vomitting(-), melena(-)
+hematemesis(-), clay stool(+)
+Genito-urinary tract: urgency(-), frquency(-), dysuria(-), incontinence(-), tea color
+urine(+)
+Neuromuscular system: fainting spells(-), muscle atrophy(-), sensory
+disturbance(-), neuralgia(-), conscious change(-), convulsion(-) 
+身體檢查(Physical Examination) 
+BH: 152 cm,  BW: 56.5 kg,
+T: 37.1 °C,  P: 128 bpm,  R: 17 /min,
+BP: 121 / 83 mmHg,
+Pain score: 0 ,
+
+Neurological Examination:
+. Consciousness:clear
+. Muscle power:fair
+. Gait:stable
+◆ Physical examination:
+General appearance: E4V5M6; JOMAC: not impaired
+No cardiopulmonary distress
+Skin: No skin rash
+No tinea pedis
+Normal skin turgor
+jaundice,
+HEENT: Isocoric pupils with prompt light reflex, bilateral
+No anemic conjuctiva
+icteric sclera(+)
+No oral ulcer
+No nose septum deviation
+No deformity of ears
+Neck: soft
+No neck stiffness
+No Jugular engorgement
+No thyroid enlargment
+No neck lymphadenopathy
+Heart: regular heart beats without murmurs
+No S3 or S4
+No heave
+No thrills
+Chest: symmetic expansion; no local dullness upon percussion
+No spider angiomata
+No tactile fremitus
+breath sounds clear
+No cracles
+No wheezing
+No rhonchi
+No stridor
+Abdomen: soft, distended, midline surgical scar
+normal active bowel sounds
+liver and spleen impalpable
+diffuse tenderness, especially RUQ
+no rebounding pain
+No Murphy sign
+No shifting dullness
+Back: No scloliosis or kyphosis
+No CV angle knocking pain
+Extremites: freely movable
+No deformity
+No cyanosis
+No vaicos vein
+No pitting edema
+Neurological exam: cranial nerve : intact
+muscle power: Normal
+DTR: bilateral symmetrical
+Barbinski signs: negative, bilateral
+Sensation: OK 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ammonia N    
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)     
+1050603 [2153] 23.5          0.6           128           2.4           38           
+1050604 [0425]                             132           2.1                        
+1050604 [0526]                                                                      
+1050604 [1648]                             130           2.6                        
+1050605 [0417]                             131           2.1                        
+1050605 [1709]                             131           2.5                        
+1050606 [0538]                             132           2.6                        
+1050606 [1721]                             131           2.9                        
+1050607 [0421]                             131           3.1                        
+               Ca            Mg            LacticAcid    CK           
+time/item      (mmol/L)      (mmol/L)      (mmol/L)      (U/L)        
+1050603 [2153] 2.47          0.53          2.36          20           
+1050604 [0425]                                           11           
+1050604 [0526]               0.99                                     
+1050604 [1648]                                                        
+1050605 [0417]               0.51                                     
+1050605 [1709]                                                        
+1050606 [0538]               0.61                                     
+1050606 [1721]                                                        
+1050607 [0421]                                                        
+群組:
+
+               Troponin-T    CK-MB         Mucus(S)     
+time/item      (ng/L)        (ng/mL)       (*)          
+1050603 [2153] 157.8         1.07                       
+1050603 [2209]                             -            
+1050604 [0425] 155.7         0.747                      
+1050606 [0826] 124.1                                    
+群組:STOOL
+
+               Stool WBC    
+time/item      (/HPF)       
+1050604 [0006] Not found    
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1050603 [2209] 10-20         5-10          0-2           -             -            
+               Bacteria      Others(S)    
+time/item      (*)           (*)          
+1050603 [2209] -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1050603 [2209] 1.009         5.5           30 ( 1+ )     -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1050603 [2209] 2+            ≦1.5          -             -             +/-          
+               Color         Turbidity    
+time/item      (*)           (*)          
+1050603 [2209] Light Yellow  -                          
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050603 [2153] 7.523         33.7          53.6          28.0          4.9          
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1050603 [2153] 16           
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050603 [2153] 0.0           0.0           0.0           0.0           0.0          
+1050606 [0538] 0.0           0.0           0.0           0.0           5.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050603 [2153] 89.9          0.7           0.1           2.3           7.0          
+1050606 [0538] 89.0          0.0           0.0           0.0           6.0          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050603 [2153] 0.0           0.0           0             -            
+1050606 [0538] 0.0           0.0           0.0 /100 WBC  WBC 100                    
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050603 [2153] 13.75         3.79          11.1          31.2          82.3         
+1050606 [0538] 11.32         3.25          9.8           27.5          84.6         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050603 [2153] 29.3          35.6          144           14.6          -            
+1050606 [0538] 30.2          35.6          96            15.5          -            
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050603 [2152] 246          
+1050604 [2215] 264          
+1050605 [0417] 226          
+1050605 [1708] 231          
+1050606 [0537] 240          
+1050606 [1720] 255          
+1050607 [0421] 221          
+1050607 [1607] 271          
+*********檢驗室:OP***********
+
+群組:STOOL
+
+               Fatty A      
+time/item      (*)          
+1050604 [1409] Not Found    
+
+*********檢驗室:B1***********
+B1-1050604-3097921   STOOL
+     ID+DS Sal.  SHI#1:       No Salmonella & Shigella
+
+
+*********檢驗室:B3***********
+B3-1050603-3097924   RANDOM URINE
+     ID+DS Urine #1:       Yeast-like organism 2000
+
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050527 [1003] 234          
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               CRE           Na            K             Ca           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1050527 [1006] 0.5           130           5.0           2.39         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1050527 [1006] 19           
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050527 [1006] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050527 [1006] 84.5          0.5           0.2           4.2           10.6         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050527 [1006] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050527 [1006] 6.42          4.19          12.6          34.8          83.1         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050527 [1006] 30.1          36.2          168           14.3          - 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+Abdomen:KUB 醫令: Abdomen:KUB 報告醫師: 吳志宏 影像時間: 2016/06/03 22:37 (32006C0M) 發報告時間: 2016/06/04 07:50 EXAMINATION: Abdomen:KUB
+FINDINGS:
+Post-operative change at upper abdomen and lower lumbar spine. Mild degenerative change of the spine with marginal spur formation. Post-operative change at bilateral hip joints. Radiopaque density at pelvic cavity, phlebolith, stone or vascular calcification is considered.
+Abdomen:Decubitus Left 醫令: Abdomen:Decubitus Left 報告醫師: 吳志宏 影像時間: 2016/06/03 22:32 (32007CXM) 發報告時間: 2016/06/04 07:40 EXAMINATION: Abdomen:Decubitus Left
+FINDINGS:
+Post-operative change at upper abdomen and lower lumbar spine. Moderate degenerative change of the spine with marginal spur formation.
+Hip: Right 醫令: Hip: Right 報告醫師: 陳信嘉 影像時間: 2016/05/27 09:38 (32022CYM) 發報告時間: 2016/05/27 11:53 Radiography of "Hip: Right": status post arthroplasty at right hip joint; recommend clinical correlation.
+Spine: Lumbosacral AP, LAT. 醫令: Spine: Lumbosacral AP, LAT. 報告醫師: 陳佾昌 影像時間: 2016/05/27 09:36 (000MP090) 發報告時間: 2016/05/27 09:58 EXAMINATION: Spine - Lumbosacral AP, LAT. (ROUTINE).
+FINDINGS:
+Lumbar spondylosis with marginal osteophyte formation. Posterior instrumentation/fixation at L4-5. Post operative change with clips at abdomen. Status post total hip replacement, left. Suggest clinical correlation.
+Pelvis: for THR 醫令: Pelvis: for THR 報告醫師: 陳信嘉 影像時間: 2016/05/27 09:37 (32022CUM) 發報告時間: 2016/05/27 09:47 Radiography of "Pelvis: for THR": status post arthroplasty at both hip joints; post-operative changes at the L5-S1 levels; recommend clinical correlation. 
+病理報告(Pathology Report) 
+S1608506
+Pancreas,head, Whipple operation,ductal adenocarcinoma    
+Common bile duct,Whipple operation,carcinoma involvement    
+Lymph node,regional,lymphadenectomy,carcinoma,metastatic (2/12),   
+Lymph node,group 8,lymphadenectomy,carcinoma,metastatic (1/1),   
+Intestine,small,duodenum,,Whipple operation,negative for malignancy    
+Stomach,distal,Whipple operation,negative for malignancy    
+Gallbladder,cholecystectomy,negative for malignancy 
+臆斷(Tentative Diagnosis) 
+1. Intra-abdominal infection with sepsis
+2. Malignant neoplasm of head of pancreas, ductal adenocarcinoma status post Whipples procedure on 2016/03/07
+3. type 2 Diabetes mellitus
+4. Coronary artery disease
+5. Hypertension 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+1. Intra-abdominal infection with sepsis
+2. Malignant neoplasm of head of pancreas, ductal adenocarcinoma status post Whipples procedure on 2016/03/07
+3. type 2 Diabetes mellitus
+4. Coronary artery disease
+5. Hypertension
+S:
+General weakness since 2016/05/27
+O:
+Abdominal distention
+No fever
+A:
+Intra-abdominal infection with sepsis
+P:
+Consult ID man for Abx arrangement
+Monitor vital signs and clinical symptoms
+
+Treatment Goal:
+No fever, no infection signs 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有  左腳、右腳
+雙腔導管留置：無  
+鼻胃管留置：無  
+氣管管路留置：無    
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：40
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：配偶 女兒 
+出院規劃收案篩檢：高危病患 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the intern. 
+醫師姓名 
+田郁文 主治醫師 

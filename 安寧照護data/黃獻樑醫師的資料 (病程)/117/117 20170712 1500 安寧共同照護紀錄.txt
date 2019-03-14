@@ -1,0 +1,29 @@
+[Assessment]
+2017-07-13: a 88 years old man was a case of 1. Acute respiratory failure, type IV, s/p ETT-MV (2017/6/22-), 2. Acute cholesystitis with E. coli and VRE bacteremia and septic shock, s/p PTCCD on 6/20, 3. Acute kidney injury (baseline Cr: 1.0-1.1 in 2017/3/21), AKIN stage III, sepsis related, s/p HD (6/24-),
+4. Left middle cerebral artery occlusion (M1) with acute infarction, Day 1 on 2016/3/17, status post intra-arterial thrombectomy, with recanalization, hemorrhage transformation and residual infarcton at left basal ganglia, with right hemiparesis, 5. Sick sinus syndrome with right bundle branch block, status post pacemaker (DDDR) implantation in 2005, with battery depletion, status post generator replacement(DDD) in 2014/8, 6. Paroxysmal atrial fibrillation, CHADSVASc 2,
+7. Chronic obstructive pulmonary disease with acute exacerbation
+and 8. Multifocal myoclonus, suspect toxic and metabolic encephalopathy related
+
+ECOG:4
+Consciousness: drowsy
+Vital signs:
+2017/07/12 10:00 T:36.3 P:89 R:9
+2017/07/12 10:00 BP:94/51
+2017/07/12 10:00 SpO2:96%(%,L,)
+MV support: CPAP+PS(10)
+
+[訪視摘要]
+會談對象:長子
+1. 緩和醫療意願評估
+長子表示病人病況無進展且持續器官衰竭，家人與醫療團隊討論後決定放手，選擇撤除維生醫療。剛入院時病人意識清醒，常試圖表達，卻因插管而無法溝通，但猜測病人應該是擔心配偶照顧問題，已向病人說明使其放心。病人於85歲就曾向子女表示年歲已夠，無所牽掛，希望能好好的走。此次因突發狀況就醫，目前確定須靠維生醫療，因此會尊重病人過去醫療意願期望能善終。
+2. 善終準備關懷
+近日子女、孫子女均已探視、四道人生，家人已準備病人後事:生前契約，預計明日撤除前會準備臨終更換衣物。
+3. 提供心理支持
+陪伴生命回顧，肯定家人緩和醫療決定適為尊重病人尊嚴，回復自然病程，期望善終。
+
+[plan]
+1. 撤除維生醫療建議請參見倫委會提供之建議，依病人需求評估提供緩和呼吸喘等不適症狀處置，謝謝。
+2. 撤除維生醫療前請確認DNR簽署及末期註記、撤除維生醫療同意書完成。
+3. 請持續提供舒適照顧及心理靈性支持，協助善終及後續照顧準備。
+
+原團隊共同照護成員:陳天華醫師

@@ -1,0 +1,23 @@
+# Follicular c DLBCL, CR3 s/p auto-PBSCT, CR
+# Therapy related MDS, RAEB-2 s/p haplo-SCT, CR
+# Encephalitis, r/o virus or immune mediated
+
+- Persistent marked headache recently. Vomiting, Unsteady gait.
+- Brain MRI: negative.
+
+- CSF clear of malignancy (no leukemia or lymphoma, very clear)
+-> But CSF protein elevated: 68, and IgG high with IgA/IgM suppressed
+-> Immune mediated or virus?
+
+- Urine JC virus > 10^6/ml
+-> If CSF JC also positive?
+
+- Discuss with Neurologist Dr. Hsieh: NCV next week, and
+-> Plasmapheresis double filtration first (both virus and immune mediated encephalitis could be possibly helpful).
+
+-> Check IgG. If IgG low, IVIG 2 g/kg divided into 3 days could be considered.
+-> Pursue extensive CSF virus PCR & CDC result. Add anti-virus medication if any result or not improved sufficiently under plasmapheresis. 
+
+- Her risk of virus encephalitis is high due to prior heavily treatment of her lymphoma and high cummulated Rituximab and steroid dose, as well as the later Haplo transplant (high ATG 6 mg/kg) plus Gr IV GI aGVHD post prolonged and strong steroid and immunosuppressant use.
+
+- Closely monitor neurological signs. Repeat brain image (functional assay) may be possible.

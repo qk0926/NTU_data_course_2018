@@ -1,0 +1,22 @@
+<Doctor>
+1. Status epilepsy, suspect central nervous system infection or brain/leptomenigeal metastasis related, status post endotracheal tube intubation since 2016/6/3
+2. Suspected upper gastrointestinal bleeding
+3. Right breast cancer, invasive ductal carcinoma, triple negative disease, at least stage III in 2015/09
+
+-- Still intermittent seizure
+but improved, 
+=> titrate up Rivotril dose and lower Midazolam infusion rate
+-- Fever subsided after Napoxin test
+[Plan]
+1. DC Cravit for pneumonia after 14days use  
+2. for suspect tumor fever, regularly acetaminophen and add Napoxin 500mg BID *2days (6/19-6/20); consider lower dose Napoxin use if recurrent fever
+3. Keep tapering Dormicum infusion if tolerate
+4. Ventilator support, keep SIMV mode
+5. Infromed poor neurological outcome
+
+<Nurse>
+GCS:E2M1VT，VCR mode：PC/SIMV、FiO2：30%，消化佳，家屬已於6/14簽屬DNR，6/17安寧共照醫師探視，6/21安寧共照謢理師探視，臨終關懷照謢陸續進行中。
+<Pharmacist>
+Shift to oral AED today, increase phenytoin dose for variable bioavailability.
+ 
+<Respiratory therapist>

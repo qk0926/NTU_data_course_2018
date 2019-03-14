@@ -1,0 +1,86 @@
+Brief Summary of this week    
+The patient was intubated becasue of pneumonia or TRAIL. For infection, Rocephin was upgraded to Imipenam empirically on 2/1. He had persistent fever, so Teicoplanin was added on 2/4. No culture evidences was obtained yet. 
+
+For hypercalcemia and multiple bone lesions, a contrast enchance chest to pelvic CT scan was done on 2/2. It showed bilateral lung emphysema and fibrotic change (which favored post-infection but not pulmonary edema, so that TRAIL was less likely). Bilateral pleural effusion was also seen. The A+P CT showed 1. multiple osteoblastic lesions in the spine and pelvic bones; 2. prominent perigastric lymph nodes. A pigtail was inserted into the left pleural space for effusion drainage on 2/3. The pleural effusion analysis showed transudate. 
+
+The patient had DIC after admission, suspecting sepsis or tumor related. For multiple bone lesions + hypercalcemia + A/G reverse, multiple myeloma was susepcted. However, the serum and urine IFE and proteins electrophoresis did not showed monoclonal gammopathy. But hematological disorder was still highly suspected according to hypercalcemia, hyperuricemia, anemia and thrombocytopenia. Therefore, bone marrow aspiration and biopsy was done on 2/3. The smear showed metastatic tumor nests. No hematological malinancy was seen. We consulted a oncologist, who suggested us to wait the pathology of the bone marrow. Bone biopsy to obtain the tissue for special stain was also advised. Therefore, radiological consultation was done for CT-guide bone marrow. The radiologist suggested to do a contrast-enchance spinal MRI to localize the lesions more clearly. The MRI was done on 2/8. 
+
+The patient's DIC was progressing. The left ear had cyanotic change, the skin apperaed Livedo reticularis, and the renal function deteriorated. Clexane was given for thrombolysis, but only 30mg daily because of worrying about upper GI bleeding, which had just happened before. Grave prognosis was informed to the family, and they signed DNR to give up CPCR. Unforturnately, the patient had gastrointestinal bleeding again under Clexane, so it was discontinued. The pathology of the bone marrow biopsy showed metastatis carcinoma eventually, but the primary orign was still unclear. The oncological consultant came to explain the poor condition to the family, including uncontrollable infection and ventilator dependent, which hindered the anti-tumor treatments. Therefore, no further examination was arranged to confirm the primary origin, since the patient was too weak to endure the therapies. Hospice care was preferred. 
+
+Problem Assessment Plan   
+          
+PAP  
+Assessment 
+<Antibiotic>
+Cravit     02/07~  D5   Fever 
+-------------------------------------------------
+Targocid   02/04~02/11 Empirical use
+Tienam     02/01~02/10 desatuartion, upgrade from Rocephin
+Rocephine  01/30~2/1
+
+<culture>
+1/30 B/C(CVC+AL) (-)
+     S/C mixed flora
+     U/C: GPC 1000/ml
+     Flu A/B: neg
+2/03 Legionella (-)
+2/04 B/C (AL+CVC): (-)
+     S/C (-)
+     U/C(-)
+     Aspergillus Ag(-)
+     Cryptococcal Ag(-)
+     Nasal swab: no MRSA
+2/2-2/3 sputum AFS(-)
+
+[PE]
+E2M4Vt, mild agitated
+no neck LAP
+coarse breath sound, basal crackles
+soft abdomen, no tenderness, hypoactive bowel sounds
+ecchymosis over right forearm, both hands, and left ear
+gangrenous change over fingers, toes
+
+<importent lab finding>
+2/02 Procalcitonin 5.952
+     Ferritin 2873, TG 215
+     Haptoglobin <30, fibrinogen 46, D-dimer > 35.2
+2/03 RA(-), C3 99.6, C4 15.4, ANA(-), anti-dsDNA(-)
+     AFP 2.3, SCC 8.0, PSA 10, fPSA 53.7%, CEA 759.8***
+     CA 19-9 > 26000 ***
+     Left thoracocentesis:Exudate, TNC 26,
+     N:L:E:M&H= 18:71:0:11, cytology: negative for malignancy
+     Bone marrow: cancer nests, solid cancer with bone marrow involvement
+2/06 Procalcitonin 2.715
+2/09 Procalcitonin 1.780
+
+[Ventilator]
+PCV, IP 12, PEEP 6, FiO2 40%, f 16, Ti 1.0
+--> RR 16, Vt 400, MV 6.4, SpO2 100%
+
+[Consultation]
+2/2 hematologist Dr. ³¯¬¥¦X: bone marrow study will be done tomorrow
+2/3 GI: EUS could not be performed in ICU
+2/3 Hema: BMS showed tumor nest, but no hematological problems
+    -> pursue pathology report, consider bone lesion biopsy
+2/6 Radiologist: perform bone scan or spinal MRI before biopsy for localization
+2/7 FM: introduce hospice care to the family
+2/8 Oncologist Dr. ·¨³Õ¶v: the primary origin might be the prostate or the GI tract. Suggest PES+CFS, and TRUSP-bx. Besides, the benefit of IHC stain was not much, so there's no need to perform bone biopsy
+2/8 Urologist: It's to risky to perform TRUSP-bx in the current condition.
+2/9 Oncologist: Due to ventilator dependence, antineoplastic therapy is not advised at this time
+
+[family's decision]
+2/6 DNR, consider hospice and withdrawal
+2/7 his daughter still wants to perform bone biopsy
+2/9 resigned DNR ¥þ©Ú, considering withdrawal
+2/11 withdrawal next week
+
+Plan 
+1. Keep Cravit
+2. For metastatic carcinoma
+   - Inform poor prognosis
+   - palliative care, withdrawal next week
+3. For Atrial fibrillation or flutter
+   - Rate control, avoid Cordarone due to Graves' disease
+   - sotalol use
+4. try NG feeding on 2/12
+5. Discuss with the family to reduce the freq. of blood tests

@@ -1,0 +1,47 @@
+<Diagnosis>
+2016-07-11: a 90 yeras old man was a case of: 
+1. Severe anemia, suspected GI bleeding, cause to be determined
+2. Suspected ventilator associated pneumonia
+3. Moderate aortic stenosis, complicated with acute lung edema
+   and respiratory failure status post endotracheal intubation
+   and ventilatory support (2014/03/13-2014/03/19), status post
+   tracheostomy (2014/04/11)
+4. Adrenal insufficiency under Cortisone 
+5. Coronary artery disease, left main and 2-vessels disease
+6. Chronic atrial fibrillation with complete atrioventricular
+   block status post pacemaker (VVIR) implantation, 2010
+7. Old cerebrovascular accident
+8. Vascular parkinsonism
+9. History of epilepsy
+10. Old pulmonary tuberculosis
+11. Microcytic anemia, Thalassemia and history of duodenal
+    ulcer 
+12. Hypertension
+
+<Ventilator setting>
+Mode :  PC/AC
+IP : 16 cmH2O
+PEEP: 6 cmH2O
+Ti : 0.9 sec
+Exh.Vt : 346 ml
+RR set/total : 12/17 bpm
+FiO2 : 30 %
+SpO2 : 98 %
+PIP/MAP : 23/10 cmH2O
+VE total : 5.6 L/min
+
+<Respiratory problem>:
+Difficult weaning due to heart failure and pneumonia and
+ massive GI bleeding and poor muscle power endurance. 
+Home ventilator case, 居家：永愛
+
+<Respiratory Plan>:
+1. Keep ventilator full support.
+2. Prn suction sputum and chest care.
+3. Infection control first.
+
+1.安寧共照舊案,家屬要求續共照
+2.小女兒不捨探視時外出用餐,續關心
+3.主要照護者:外傭,照護二年表示之前病人神智清醒,但近日不清醒,無不適之症狀,肯定照護之用心
+
+與住院醫師交班

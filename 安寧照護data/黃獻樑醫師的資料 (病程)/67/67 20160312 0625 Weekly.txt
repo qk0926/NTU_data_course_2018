@@ -1,0 +1,63 @@
+Brief Summary of this week    
+Double lumen was placed on 3/6 for the high TMP during CVVH. The inotropics was also tapered gradually. The CT on 3/7 showed progression of pneumonia in the right lung, and the ID suggested shifted the Ciproxin to Maxipime for better coverage of MDRAB. Shock occurred later, and anidulafungin and meropenem were prescribed for better coverage. CVVH was held on 3/8 due to profound shock. Yeast related CRBSI was noted on 3/8, and CVC was thus replaced. Daptomycin was also given for VRE bactereia. The yeast was later reported as C. tropicalis. Shock improved on 3/9, and the ID doctor suggested shift meropenem back to cefepime due to previous bone marrow suppression. The family wished to undergo renal hospice, and the hospice team visited them on 3/10. Palliative care was thus arranged. 
+
+Assessment 
+[Current antibiotics]
+Colistin         1/13~ total D59(Tenckhoff: MDRAB)
+Eraxis           3/7~ D5 (B/C: C. tropicalis)
+Cubicin          3/8~ D4 (B/C: VRE)
+Cefepime         3/9~ D3
+Tygacil          3/3~8  (S/C: MDRAB and Proteus)
+Mepem            3/7~9
+
+[Inotropes]
+Dopamine 7ml/hr
+Levophed 3ml/hr
+
+[RRT]
+SLED(11/22-) with albumin supplement
+CVVH(3/4-8) =>hold due to profound shock on 3/8 2AM
+
+[Ventilator]
+PCV IP 16, PEEP 8, FiO2 0.4, Ti 0.9
+->TV 438, MV 7.75, SpO2 98%
+[Diet] NPO, D50W 500ml
+
+B/C(CVP, 3/7): C. tropicalis(TTP 27.6hr)
+B/C(CVP, 3/7): C. tropicalis(TTP 21.1hr)
+B/C(AL, 3/7): VRE(22.1hr)
+B/C(DL, 3/8): VRE(21.1hr)
+S/C(3/7): MDRAB
+Anal swab(3/3): VRE!
+S/C(3/6): MDRAB
+
+[Important study]
+11/17 PD fluid:MDRAB; Blood culture: MDRAB, enterococcus
+      S/C: MDRAB
+1/25 Tenckoff tip/C: MDRAB
+1/26 S/C: MDRAB 1+ Proteus mirabilis 1+
+2/23 left psoas muslce abscess: 
+     AFS:(-); bacterial:(-); fungus:( )
+2/25 omentum abscess:
+     AFS:( ), bacterial:(-), fungus:( )
+01/19 LVEF: 28.9%, LVEDD/ESD: 53/45mm, akin at antero+sept wall
+2/19  CT(A+P): Left psoas abscess. Suspected intraabdominal abscess(smaller than that on 1/31)
+2/23  left psoas hematoma, status post CT-guided aspiration
+2/25  Fluid collection in anterior abdominal omentum, S/P catheter drainage
+3/07  C+A+P CECT: Inflammatory or infectious process of lung; Bilateral pleural effusion; Left rib fractures; Small residual fluid collection (3.6 x 1cm) at anterior lower abdomen
+
+[Important consultation]
+1/29 ID Wang: The MDRAB is sensitive to carbapenem and 
+     colistin. May keep meropenem + colistin. 
+     No need for Tigecycline. 
+2/01 GS Dr. 李志元: low benefit of ileus OP
+2/23 Radiologist: <1ml old blood-like fluid was aspirated from left psoas muscle, r/o hematoma; sent for culture; if aspiration still needed, may consult Dr.梁 for superficial lower abdomen abscess drainage
+3/3 ID Dr盤：Consider shifting Mepem to Tigecycline for suspecting myelosuppression from prolonged use of beta-lactam and adding Ciprofloxacin for covering pseudomonas, which was in risk of resistance to Colistin since prolonged course of Colistin treatment.
+3/07 ID VS盤: shift Ciproxin to Maxipime if deterioration
+3/8 Tigecycline->Cubicin for fear of VRE bacteremia
+Colistin+Mepem for MDRAB
+
+Plan 
+1. Keep strong Abx
+2. Palliative care
+*** DNR 不電不壓 院宣 (已簽署) 家屬選擇不洗腎

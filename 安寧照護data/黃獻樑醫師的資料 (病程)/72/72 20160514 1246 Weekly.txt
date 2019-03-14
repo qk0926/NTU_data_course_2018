@@ -1,0 +1,65 @@
+Brief Summary of this week    
+Her hemodynamics fluctuated initially but improved gradually. But her distal limbs became cyanosis and gangrene change. Pitressin was tapered off from 5/9. The urine culture yielded Pseudomonas and wild type Enterococcus so Ampicillin was added. Under relatively stable hemodynamics, we consulted Radiologist and bilateral PCN was inserted on 5/11. Pus-like content was drained out from right PCN and the culture also yielded ESBL E.coli. CVVH was tapered off once on 5/12, but dyspnea and hypotension developed in the early morning on 5/13 and the lab data showed relative acidosis so CVVH was resumed. 
+
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+[Abx]
+Mepem 5/6- D8  for ESBL E.coli bacteremia
+Ampicillin 5/10- D4  for U/C: Enterococcus
+=================================================
+Tazocin 5/5-5/6
+
+[Culture]
+5/05 B/C(PB): ESBL E.coli, TTP 8.8hr
+     B/C(PB): ESBL E.coli, TTP 9.8hr
+     U/C: wt PsA>100000, E.faecalis>100000(S to Ampicillin)
+5/11 R't PCN: ESBL E.coli 3+, GPC 1+
+ 
+[Ventilator]
+PSV, PS 146, PEEP 8, FiO2 35%
+=> Vt 360-430, MV 9.5, RR 26, SpO2 99%
+
+[Inotropic/vasopressor]
+Levophed 5ml/hr
+Pitressin off
+
+[RRT]
+5/5-5/12, 5/13- CVVH for metabolic acidosis
+
+[PE]
+E4M6Vt, clear consciousness
+Chest: crackles, L>R, no wheeze
+Heart: tachycardia, no audible murmur
+Abdomen: soft, hypoactive BoS, no tenderness
+Extremities: edema(+), cyanosis and gangrene change of all limbs(手到手腕上緣，腳到小腿下1/3-1/2)
+
+[Important study findings]
+5/6 Bedside echo: bil. hydronephrosis, R>L
+5/9 Still bilateral hydronephrosis, liver cyst over S3, S7
+
+[Newly-added medication and interventions]
+5/5 Start CVVH
+5/6 On CVC and DLC, shift Tazocin to Mepem
+5/7 start UF 50ml/hr
+5/8 UF 0 (CVVH easily clotted)
+5/9 Pitressin off, taper levophed
+5/11 Bilateral PCN insertion, drain sent for culture
+5/13 early morning off CVVH, but dropped BP and dyspnea
+     ->resume CVVH
+
+[Important consultations]
+
+[Important family's decision]
+5/7 signed DNR(不電不壓), 不上第三線升壓藥
+5/8 explained poor prognosis; informed difficult CVVH (easily clotted) and possible further hypotension ==> could understand
+
+Plan 
+1. Keep Mepem for ESBL E.coli bacteremia and PsA UTI, and Ampicillin for U/C: Enterococcus faecalis
+2. Keep CVVH for metabolic acidosis and fluid overload. Target Dry BW 50kg
+3. Keep ventilator support 
+4. Keep PCN drainage
+5. Inform grave prognosis
+6. Increased enteral nutrition if feasible

@@ -1,0 +1,79 @@
+85M
+
+[Active problems]
+1. Out-of-hospital cardiac arrest, with pulseless electrical activity, status post cardiopulmonary resuscitation 10 minutes, with return of spontaneous circulation, status post hypothermia therapy
+2. Septic shock, suspect aspiration pmneumonia
+3. Cerebral vascular disease, lacunes in right basal ganglion and left pons
+4. Multiple tiny tree-in-bud nodules in bilateral lungs, suspect pulmonary tuberculosis?
+
+[Inactive problems]
+5. Suspicious cystic lesion in pancreas head, with dilatation of pancreatic duct
+6. Compression fracture of T11
+7. Multiple system atrophy , stage IV (since 2011), with radykinesia, atxia, severe orthostatic hypotension, frequent fainting, and urine incontinence
+8. Diabetes mellitus, type 2
+9. Benigh prostatic hyperplasia
+10. Moderate obstructive sleep apnea
+
+[Brief History]
+09/29 general discomfort with night time sleeping moaning
+ -> more sleepy and decreased appetite with fair urine output
+10/01 PM, LMD visit, fever, Dx as common cold?
+ -> progressive dyspnea with much thicky whitish sputum from mouth; with some biazzare coarse breathing sounds
+10/01 07PM NTUH ER
+ -> progressive dyspnea with drowsy consciousness
+ -> OHCA at triage, PEA
+ -> CPCR 10 mins, ROSC
+ -> ETT-MV, much milk from endo
+* EKG: sinus tachycardia with LVH strain pattern
+* Lab: leukocytosis with left shift, impaired renal function test and elevated lactate level
+* Blood gas: mixed metabolic and respiratory acidosis
+ -> Rx with Tazocin & Levophed
+10/01 CECT: no ICH, pulmonary embolism, neither aortic dissection; but lacunes in right basal ganglion and left pons; multiple tiny tree-in-bud nodules in bilateral lungs; dilatation of pancreatic duct, with suspicious cystic lesion in pancreas head; left adrenal nodule; compression fracture of T11
+
+[Treatment course]
+  After admission, hypothermia therapy was started and the BT was cooled down to 33'C at 1AM on 10/2. Rewarming was started after 24 hours. Sedation was titrated down and oral feeding with D5W was started after the BT returned to 36'C. The patient's consciousness did not recovered, hematuria with decreased urine output were also noted. Urine analysis and cytology were sent. Bedside echo showed no obvious hydronephrosis and non-distended bladder. Some suspicious blood clots were noted around the balloon.
+
+[Antibiotics]
+Tazocin D+3 (10/01-)
+
+Hypothermia since 10/02 1AM, rewarming from 10/03 1AM
+Vital signs stable without inotropic agents
+
+[Ventilator setting]
+PCV, IP: 14, PEEP: 6, FiO2: 35%
+ -> TV: 410, MV: 5.4, SpO2:100%
+
+[Physical examination]
+Cons: E1M1Vt, coma
+Pupil: 2/3 mm, Light reflex: Nil
+BS: bil. clear, no wheezing
+Heart: RHB, no murmur
+BoS: hypoactive
+Limb: no obvious pitting edema
+
+[Important symptoms, signs, physiologic changes and response to management]
+Nil
+
+[Important Study findings]
+2011/03 Brain CT: mild brain atrophy without focal brain lesion; right parietal scalp nodule
+10/01 B+C+A+P CECT: no ICH, PE, aortic dissection; lacunes in right basal ganglion and left pons; multiple tiny tree-in-bud nodules in bilateral lungs; dilatation of pancreatic duct, with suspicious cystic lesion in pancreas head; left adrenal nodule; compression fracture of T11
+10/01 EKG: QTc 486ms
+
+[Important Interventions and Newly Added Medications]
+10/01 Tazocin, Off levophed
+      Start hypothermia
+
+[Important Consultation and Meeting Suggestions]
+
+[Important Family Decisions]
+10/01 Aggressive management
+
+[Plan]
+1. Monitor consciousness after rewarming
+2. Start NG D5W feeding after BT return to 36'C
+3. Check FeNa and FeUN for D/D of AKI
+   Consider Foley irrigation if urinary retension by blood clots
+4. Keep Tazocin, pursue culture
+5. F/U brain EEG and brain perfusion CT (下禮拜二確定有沒有進藥) on D7
+6. Inform family the risk of possible hemodialysis and poor neurological outcome
+7. Gradually resume previous Neuro OPD medication after hypothermia complete

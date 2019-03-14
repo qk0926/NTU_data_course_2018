@@ -1,0 +1,25 @@
+# UTI and pneumonia
+# Septic shock, r/o recurrent CRBSI
+# Recurrent GI Bleeding.
+
+A:
+2016/09/11 05:46 SpO2:99%(%,3L,VCR)
+2016/09/11 05:46 BP:113/60
+2016/09/11 01:22 Pain score:0
+
+
+[中心靜脈導管(CVC)]: 放置日期:20160907; 經醫師評估仍有導管留置適應症。 
+
+
+2016/09/11
+Sugar(One touch):129 *
+
+2016/09/10
+ID+DS Blood.#1:Pseudomonas aeruginosa *
+ID+DS Blood.#2:Enterococcus species *
+ID+DS Blood.#1:Pseudomonas aeruginosa *
+ID+DS Blood.#2:Enterococcus species *
+
+P:
+1. Abx with tazocin
+2. followup hemodynamics, taper NE as tolerable.

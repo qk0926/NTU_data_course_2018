@@ -1,0 +1,14 @@
+<Active problems>
+1. Endotracheal intubation during operation with difficult weaning(2015/08/31-09/16), status post tracheostomy on 2015/9/16 with mechanical ventilation support
+2. Non-small cell lung cancer, adenocarcinoma, EGFR exon 18-21 WT, ALK(-), cT1aN3M1b, stage IV, with brain, liver, bone, LN metastasis, , status post Cisplatin + Alimta (VI, 2015/03/27-07/13), status post Alimta(I) on 2015/8/3.
+3. Increasing intracerebral pressure, brain metastasis related,  status post VP shunt revision on 2015/09/05
+4. Tuberculosis peritonitis, s/p HERZ (2015/09/01-10/24)
+
+<Assessment>
+Bilateral pupil no light reflex
+Dying sign: Cheyne-Stokes(-), death rattle(-), decreased U/O(-), cold extremities(-), desaturation(+/-), hypotension(+/-)
+
+<Plan>
+1. Pursue VRE result(出加護病房前, 10/30, 11/2), 解隔 if negative*3
+2. Pending for hospice ward transfer
+3. Keep current pain control management

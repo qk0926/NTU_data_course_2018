@@ -1,0 +1,51 @@
+Brief Summary of this week    
+Infection with urinary tract focus was treated with Maxipime started on 2017/03/11, pyruria and pus like discharge yeilded postive culture result (Acinetobacter baumannii 3+; Stenotrophomonas maltophilia 3+ ). Maxipime (03/11-03/16)
+Besides, blood pressure was not stable. Symptomatic hypotension was corrected after running levophed pump(Levophed¡@4mg in D5W 100 mL set 4-6ml/hr). 
+Family pysician was consulted for terminal combine care, and withdrawal was discuss. 
+Patient was extubated on 2017/03/16 by family physician. Levophed and antibiotic were both rejected by family consensus. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+[NE] (pre-op E4M6V5, MP 4/4+)
+E2M2VT; MP (R/L) = (<3,<3/<3,<3)
+Light reflex (R/L) = (4+/3+)
+Corneal reflex (R/L) = (+/-)
+
+[Lab data]
+2017/03/13 HB:9.9 g/dL
+2017/03/13 WBC:8.65 K/£gL
+2017/03/13 PLT:404 K/£gL
+2017/03/13 CRE:0.5 mg/dL
+2017/03/13 ALT:100 U/L
+2017/03/13 Na:129 mmol/L
+2017/03/13 K:4.3 mmol/L
+2017/03/13 hsCRP:1.15 mg/dL
+2017/03/13 LacticAcid:0.81 mmol/L
+
+[Culture]
+1. B/C (02/10, 02/12, 02/24, 03/01) = (-), (03/04) = (?)
+2. S/C (02/10) = A. baumannii + C. koseri
+       (02/12) = A. nosocomialis + E. cloacae
+       (02/24) = A. nosocomialis + S. maltophilia
+       (03/01) = A. nosocomialis (wild)
+       (03/05) = A. nosocomialis (2+)
+                 Stenotrophomonas maltophilia 1+
+3. U/C (02/10, 02/12, 02/24, 03/01, 03/04) = (-)
+4. Nasal discharge (02/11) = A. baumannii + E. faecalis + Citrobacter + Prevotella nanceiensis
+5. CSF (¥Ö¤U) (02/14, 02/28) = (-)
+6. CWV (02/11) = (-)
+7. CVC tip (03/03) = (Gram neg. bacillus 2)
+
+[Antibiotics]
+Vancomycin 750 mg Q8H 2017/02/10~03/02
+Tatumcef 2000 mg Q8H 2017/02/10~03/02
+Cefazolin 1000 mg Q8H 2017/02/08~02/09
+Maxipime 2000mg Q12H 2017/03/11~ 2017/03/16
+
+Plan 
+1. Morphine in used.
+2. Terminal care. 
+3. Monitor vital sign.
+4. Off levophed and ceased antibiotics

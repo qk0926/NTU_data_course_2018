@@ -1,0 +1,59 @@
+Brief Summary of this week    
+On 3/2, C+A+P CECT was performed for persistent ileus, which revealed: diffuse dilatation of small bowel and colon, but no obstruction site. After discussion with GI fellow, hypoperfusion(previous shock status) related ileus was impressed, suggested keep adequate blood pressure and observation. Primperan dosage was then added up. Rectal tube was also inserted. Then, much stool(about 6000gm) passage was noted on 3/3, and his abdominal fullness improved.
+Empyema and pneumothorax -> CS Dr.陳 will evaluate his condition for possible surgical intervention. 
+
+
+PAP1
+Assessment 
+[Abx]
+Tienam       (02/03-) for MDRAB empyema
+Colistin IV  (01/10-) for MDRAB
+Colistin IH  (01/15-) for MDRAB pneumonia
+Vancomycin   (2/23-)  for MRSA empyema
+Fosfomycin   (02/13-) combine therapy for MRSA empyema 
+-------------------------------------------------------------
+Eraxis       (02/15 - 03/01) for empyema (culture: Candida glabrata)
+Cravit     (02/09-2/23) for breakthrough fever, S/C Ralstonia
+
+[PE]
+E2-3VTM1, pupil 2+/2+
+redness, gastric juice-like leakage from tracheostomy wound
+bil. coarse breath sounds, persistent crackles over Rt lung
+abdominal fullness, hypoactive bowel souds
+Two chest tubes at the right chest wall, air bubble(+)
+
+[Ventilation]
+PCV, IP 16, PEEP 6, FiO2 35%, f 12/16, Ti 0.9
+
+[Nutrition]
+HD diet, 1.5kca/ml, 1700kcal/d
+
+Plan 
+1. For MDRAB + MRSA + C. glabrata Empyema
+ - Keep Tigecycline for both MDRAB and MRSA
+ - chest tubes drainage for air and pus
+ - wound care
+ - consider pleurodesis if infection improved
+ - consider open thoracotomy if empyema persisted
+2. For ESRD
+ - keep HD QW135, Albumin supplement, set dry weight 73kg
+ - cash EPO
+3. For Ileus
+ - D/C Lactulose PO+R
+ - try elemental diet feeding; keep Primperan; Clamp NG tube(to make sure gastric juice amount)
+
+PAP2
+
+Assessment 
+[Consultation]
+01/12 Rheumatologist: suggested keep infection under control, check anti-CCP, electrophoresis, Plaquenil 1# QD
+01/18 Neurologist: suggested correct all metabolic factor, perform perfusion CT if possible
+01/23 Hospice combine care: for introduction and withdrawl
+01/25 Chest surgeon Dr.陳克誠: VATS decortication ,pneumothorax repair and tracheostomy were indicated and would arrange operation after INR was corrected below 1.5
+02/05 ID: Tigecycline replacing Vancomycin may be considered if refractory shock (MDRAB + MRSA empyema), but contraindicated if bacteremia; replace Vancomycin with Zyvox also suitable
+02/13 Radiologist: NJ will be performed on 2/14 on call
+02/14 ID: ID: C. glabrata perhaps just colonized on the chest tube. If we want to confirm that it was a true pathogen, thoracocentesis was needed. Or we could add Echinocandin in the next fever episode
+02/16 ID: Eraxis is indicated due to newly developed septic shock
+02/21 Consult CS Dr. 陳克誠:
+He will explain to the family and arrange surgery again
+02/22 CS Dr. 陳克誠: surgery will be arranged on 2/25, on call

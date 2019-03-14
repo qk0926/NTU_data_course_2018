@@ -1,0 +1,100 @@
+Brief Summary of this week    
+During this week, we kept chest tube drainage. The pleural fluid still was yellowish-reddish. The pus culture sent on 1/31 grew MDRAB and MRSA again. Tienam was added, combing with colistin and Vancomycine for empyema treatment. 
+
+Midodrine 4tab Q6H was added in order to tapper off levophed. However, the patient's blood pressure still fluctuating under low dose levophed. He had frequent ventricular premature contraction, but cordarone was discontinued because of QTc prolongation. 
+
+
+PAP1
+
+Assessment 
+[Abx]
+Tienam       (02/03-) for MDRAB empyema
+Colistin IV  (01/10-) for MDRAB
+Colistin IH  (01/15-) for MDRAB pneumonia
+Vancomycin   (01/24-) For MRSA empyema and GPC bacteremia
+-----------------------------------------------------
+Unasyn (12/24)
+Zithromax (12/24-26)
+Tamiflu (12/24-12/29)
+Meropenem (12/28-12/28)
+Ceftazidime (12/28-12/30)
+Cravit (12/24-01/05)     Discontinued due to lack of evidence
+Targocid (12/30-01/05)   Discontinued due to lack of evidence
+Diflucan 1/2-01/05 for CRBSI, suspect Candidiasis
+                         Discontinued due to lack of evidence
+Fluconazole (01/06-01/09)
+Meroepnem (12/30-01/09)  Dr.莊祐中 suggested replace with Levofloxacin for persisited fever
+Levofloxacin (01/09-01/12) for still fever under Mepem
+Brosym       (01/12-01/25) MDRAB bacteremia
+ 
+[Cultures]
+01/10 B/C*2: MDRAB (A-line + peripheral)
+01/13 CSF: no bacteria visible
+           Cryptococcal Ag.:Negative  
+           HSV DNA(-),TB PCR(-)
+01/14 S/C:MDRAB (Colistin S); Enterobacter asburiae
+          Candida albicans
+01/22 Pleural effusion: Acinetobacter baumannii;
+                        Staphylococcus aureus(MR)
+01/24 B/C: Enterococcus faecium (CVC)(S:vancomycin)
+01/25 01/26 B/C negative
+01/28 pleural effusion: Acinetobacter baumannii
+                       Staphylococcus aureus 
+01/28 S/C: Ralstonia mannitolilytica 
+           Staphylococcus aureus  
+      B/C(AL+CVC):(-)
+01/31 Right empyema: MDRAB, S. aureus
+
+[PE]
+E4VTM1
+bil. coarse breath sounds
+persistent crackles over RLL
+general edema, especially hands and dependent parts
+
+[Ventilation]
+SIMV, IP 16, Ti 0.8, f 8, PS 12, PEEP 5, FiO2 40%
+-> RR 22, Vt 550, MV 12.7, SpO2 99%
+
+[Nutrition]
+濃度:1.8 卡/cc熱量:2125額外加鹽:鹽5公克(鈉2000毫克) 營養品:普寧勝
+
+[Studies]
+01/06 CT: bialateral pneumonia with fibrosis and severe calcification; Brain CT revealed no hemorrhage
+01/10 no response to Flumazenil test
+01/12 CT: bilateral lower lung lesions; no significant findings in abdomen and pelvis.
+01/13 lumbar puncture: WBC 0, GLU 137; TP 49.3; IgG <0.34
+01/16 Chest X-ray: right side pneumothorax
+01/17 Chest X-ray: well lung expansion under chest tube drainage
+01/17 EEG:severe diffuse cortical dysfunction
+01/18 consult neurologist: may arrange perfusion CT
+01/23 Perfusion CT: No obvious lesions in brain
+01/24 Chest CT: right side empyema and pneumothorax
+01/31 bedside IVC: 1.6cm
+02/03 ECG: VPC bigeminy/trigeminy, QT prolong (QTc~550ms)
+
+[Decisions]
+**家屬簽立DNR,但仍希望積極處理
+
+Plan 
+1. For MDRAB bacteremia, MRSA Empyema
+ - Keep Colistin(IV+IH) for MDRAB infection
+ - Add Tienam on 2/3 for combine treatment
+ - keep Vancomycin for MRSA empyema
+ - Remove the posterior chest tube on Monday
+2. for Afib with PPM 
+ - hold apixaban, keep rytnomorm
+ - hold Cordarone due to QT prolongation
+3. keep HD QW1,3,5
+  - Set DW 70kg, Ca 3, K 3, Na 140
+  - administer albumin for low BP during HD
+  - Add midodrine 4tab Q6H in order to stop levophed
+  - check adrenal function next Monday to survey relative adrenal insufficiency
+
+PAP2
+
+Assessment 
+[Consultation]
+01/12 Rheumatologist: suggested keep infection under control, check anti-CCP, electrophoresis, Plaquenil 1# QD
+01/18 Neurologist: suggested correct all metabolic factor, perform perfusion CT if possible
+01/23 Hospice combine care: for introduction and withdrawl
+01/25 Chest surgeon Dr.陳克誠: VATS decortication ,pneumothorax repair and tracheostomy were indicated and would arrange operation after INR was corrected below 1.5

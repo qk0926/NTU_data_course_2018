@@ -1,0 +1,23 @@
+1. Type 3 respiratory failure, s/p ETT+MV(2015/8/31-9/16), s/p tracheostomy+MV(9/16-)
+2. NSCLC, adenocarcinoma, EGFR exon 18-21 WT, ALK(-), cT1aN3M1b, stage IV, with brain, liver, bone, LN metastasis, s/p left occipital craniotomy and tumor resection on 2015/2/9 at CGMH, s/p WBRT(30Gy/10fr) in 2015/3, s/p Cisplatin + Alimta(VI, 2015/03/27-07/13), s/p Alimta(I) on 2015/8/3.
+3. IICP, brain mets related, s/p VP-shunt in 2015/02, s/p reposition of ventricular catheter on 2015/08/13, s/p VP-shunt revision on 2015/08/31, s/p revision on 2015/09/05.
+4. TB peritonitis(08/10 CT-guide abdominal fluid aspirate culture), s/p laparoscopic cyst drainage on 2015/08/13, s/p laparoscopic adhisiolysis on 2015/08/31, s/p HERZ(2015/09/01-)
+
+
+Rapid shallow breathing was noted during T-piece breathing early during the SBT.
+Difficult weaning.
+CXR showed marked elevation of hemidiaphragms.
+Evaluate the diaphragmatic movements by sonography.
+2015/10/02 PH:7.490   *
+2015/10/02 PCO2:32.6   mmHg
+2015/10/02 PO2:77.3   mmHg
+2015/10/02 HCO3:25.0   mmol/L
+2015/10/02 HCO3:25.0   mmol/L
+2015/10/03 09:04 SpO2:100%(35%,L,VCR)
+2015/10/03 05:06 SpO2:100%(35%,L,VCR)
+2015/10/03 01:11 SpO2:99%(35%,L,VCR)
+2015/10/02 20:35 SpO2:100%(35%,L,VCR)
+2015/10/03 09:04 T:36.9 P:97 R:21
+2015/10/03 05:05 T:36.9 P:100 R:22
+2015/10/03 01:11 T:36.4 P:98 R:16
+2015/10/02 20:33 T:37.2 P:101 R:25

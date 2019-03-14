@@ -1,0 +1,842 @@
+2016/05/04 18:45 
+主訴(Chief Complaint) 
+Informant:from patient and old chart
+Progressive dyspnea with fever for 2 days 
+病史(Brief History) 
+This 30-year-old lady has a high grade right breast intraductal carcinoma, pT2N3aM1, stage IV, ER(-), PR(-), Her-2(3+/3+), status right breast conserving therapy and axillary lymph node dissection on 2012/06/08, status post CE90*4 -> TH *4, leuplin (2012/07/16~2012/11/19), status post Herceptin (2012/12/31~2013/9/30), status post adjuvant RT, with brain, lung, liver mets, status post whole brain RT, status post Xeloda + lapatinib(2015/9/8-2016/02/04).
+
+She received a regular follow-up at the out-patienit clinic of Oncology, radio-oncology, and GYN departments. In Feburary 2016, she was hospitalized due to bone mets and spinal cord compression, which presented with bilateral leg weakness, She then recevied T 5-6 and T12 laminectomy for epidural tumor excision and posterior fixation on 2016/02/04. During hospitalization, wild type Acinetobactor baumanni bacteremia occurred and was treatment with ceftazidime(2016/02/12-2016/02/19) and brosym(2016/02/19-2016/02/25). The subsequent culture resuls were negative so she was discharged on 2016/02/25. 
+
+Due to disease progression, she had received oral chemotherapy with UFUR(2cap, BID) and cyclophosphamide(50mg, QD) since 2016/02/28. She tolerated oral Vinorelbine(30mg, TIW) in 2016/03. She received radiotherapy for T4-T7 and T11-L1 metastases from 2016/03/11 to 2016/03/28. Porta-A implantation was don on 2016/03/29. During treatment above, she had intermittent cough and exertional dyspnea in late March. The CXR noticed multiple lung tumors and right side plerual effusion. Thoractocentasis was done on 2016/03/30. Exertional dyspnea improved then. She received two cycle of Vinorelbine(IF 50mg) on 2016/04/08(I) and 2016/04/15(II). 
+
+However, dyspnea developed again 5 days before admission. She also experienced fever, dysuria, general malaise, and nausea two days later. The appetite decreased and the oral intake decreased; there was no stool passage for 1 week. Her urine output decreased significnatly then. Due to high fever, she came to ED on 2016/04/21. Upon ED arrival, her blood pressure was 122/63mmHg, the pulse rate 178bpm, the temperature 39.7 degree celcius. The CXR showed cardiomegaly and right side pleural effusion. The lab exam showed severe neutropenia(WBC 100/ul) and lactic acidosis. Empirical Maxipime was administered but shock developed later. The Maxipime was changed to Tienam for ESBL coverage. Due to profound shock, she was admitted to ICU for further treatment.
+
+After admission, we escalated empirical antibiotics to Meropenam for neutropenic fever and septic shock. Filgrastim 300 mcg QD was given for neutropenia. Adrenal and thyroid function was normal. Blood culture further yield wild type Pseudomonas aeruginosa but we didn't de-escalate antibiotics due to profound shock. Due to unstable hemodynamics, metabolic acidosis and oliguria, CVVH had started during 4/22~4/24 for renal support. Due to persistent fever, Targocid was given on 4/25. Slow NG feeding also started. Inotropic was stopped since 4/24 and CVVH was hold on 4/25 due to improved metabolic acidosis, and diuretics was titrated to maintain urine output. However, progressive direct type hyperbilirubinemia has been noted since 4/25 and bed-side echo showed no prominent IHD dilatation. According to her liver metastasis history, infiltrative disease was suspected but may also related to her current sepsis condition. On 4/26, hemogram showed neutropenia resolved, so Filgrastim was stopped. However, progressive thrombocytopenia and anemia developed.
+
+On 4/28, we checked weaning parameters and showed adequate data for extubtion. On 4/29, due to increasing BW and right pleural effusion, SLED was performed with UF 2 kgs. Right thoracocentesis was performed and 550ml straw color pleural effusion was drained. Her UOP increased prominently since 4/29 night, so we hold SLED and taper her diuretics. T-piece training was started on 4/30. Extubation was done smoothly on 2016/5/2. Mild fever was noted. Previous back skin wound culture resulted in MRSA, MDRAB and CR-PsA. ID洪健清 suggested Tygacil for cover MDRAB since wound healing is not good. We discontinued Tarogcid since the subsequent culture revealed no GPC. She was transferred to 5W4 ward on 2016/5/4 for furtehr managmenet.
+
+
+Family History: no malignancy history in her family
+Medication Allergy: 
+Iopromide (Ultravist 370 76.9% 200 mL/btl 常備藥) 【Angioedema(血管水腫)】 本院醫事人員確認2012/06/13
+Current Medication:
+-NTUH:
+1.Naposin 250 mg/tab : PO 1 tab BIDPC 21 days 42 tab
+2.Prometin 5 mg/tab : PO 1 tab TIDAC30 21 days 63 tab
+3.(管4) Rivotril 0.5 mg/tab : PO 1 tab HS 21 days 21 tab
+4.SOLAXIN 200 mg/tab : PO 1 tab TIDPC 21 days 63 tab
+-Other: nil
+-中草藥:nil
+-保健食品: nil
+Past Medical History:
+1. High grade right breast intraductal carcinoma, pT2N3aM1, stage IV, ER(-), PR(-), Her-2(3+/3+), status right breast conserving therapy and axillary lymph node dissection on 2012/06/08, status post CE90*4 -> TH *4, leuplin (2012/07/16~2012/11/19), status post Herceptin (2012/12/31~2013/9/30), status post adjuvant RT, with brain, lung, liver mets, status post whole brain RT, status post Xeloda + lapatinib(2015/9/8-2016/02/04), disease progression with bone mets and spinal cord compression, status post T5-6, T12 laminectomy for epidural tumor excision and posterior fixation with transpedicular screws on 2016/02/04, s/p oral chemotherapy with UFUR(2cap, BID) and cyclophosphamide(50mg, QD)(2016/02/28-2016/03/07), s/p oral Vinorelbine(30mg, TIW) in 2016/03/09-3/20, s/p Porta-A implantation on 2016/03/29, s/p Vinorelbine(I) on 2016/04/08(I) and Vinorelbine(II) on 2016/04/15.
+Hospitalization:
+-NTUH:
+入院日期:2015_03_27 出院日期:2015_03_31 診斷:Normal spontaneous delivery with 2° perineal laceration
+Past Surgical History:
+-NTUH:
+2014_10_17 Port-A catheter Removal
+2016_02_04 T5-6, T12 lamienectomy for epidural tumor excision and posterior fixation with transpedicular screws
+Travel History: nil
+Occupation: nil
+Contact: nil
+Cluster: nil 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:高中
+職業:家管
+宗教信仰:無
+婚姻狀態:已婚
+使用語言:國語 
+口述血型:A，RH:不清楚，輸血反應:不清楚
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:警醒
+認知功能:正常 
+精神情緒狀態:異常 倦怠 
+安全問題:有 其他 跌倒
+睡眠形態:正常  
+
+Nutritional Screen
+攝食情形:佳，攝食75%
+排便狀態:正常
+BMI:26.85
+
+Fall Risk Assessment
+總分:4
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular:  exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-), exertional dyspnea(-)
+5.Respiratory: dyspnea(-), cough(-), chest pain(-), hemoptysis(-), productive cough (-), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia(-) 
+身體檢查(Physical Examination) 
+BH: 161 cm,  BW: 69.6 kg,
+T: 38.3 °C,  P: 96 bpm,  R: 21 /min,
+BP: 141 / 94 mmHg,
+Pain score: 0 ,
+
+Neurological Examination:
+. Consciousness:alert
+. Muscle power:5 points of all 4 limbs
+. Gait: no tested due to just discharge from ICU
+
+‧Head-Eye-ENT 
+        grossly normal, conjunctiva: pink, sclera: anicteric
+        Pupil: isocoric,  3mm/ 3mm
+        Light reflex: L/R: +/+, EOM: full and free
+‧Neck
+	Jugular vein engorgement(-)
+	goiter(-)
+	Carotid bruit(-)
+‧Chest
+	Thoracic cage contour: symmetric
+	Vocal fremitus and expansion: symmetric
+	Percussion: resonant
+        Breathing sound: clear
+	Crackles(-) wheezes(-)rhonchi(-) stridor(-)
+‧Heart
+	Heart beat: regular  Murmurs(-)
+        LV lift(-) RV heave(-)
+	Increased cardiac size by percussion(-)
+	Adventitious sounds (-)
+‧Abdomen
+        Flat & soft
+	Superficial vein engorgement(-) Protruded umbilicus(-)
+	Bowel sound: Normoactive
+	Tenderness(-)Liver and spleen: impalpable
+‧Extremities
+        Freely movable, pulses symmetric and intact, pitting edema(-)	
+‧Back
+        Knocking pain(-)
+        poor healing of previous surgical wound
+‧Skin
+	Abnormal pigmentation(-)
+	Petechiae(-) Purpura(-) Ecchymoses(-) Telangiectasia(-)
+	Rash(-) Plaque(-)
+‧Lymphadenopathy(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050422 [0423] 80           
+1050422 [1008] 133          
+1050422 [1657] 143          
+1050422 [2211] 144          
+1050423 [0409] 143          
+1050423 [1037] 142          
+1050423 [1727] 129          
+1050423 [2211] 130          
+1050424 [0419] 116          
+1050424 [1018] 122          
+1050424 [1703] 111          
+1050424 [2211] 127          
+1050425 [0420] 110          
+1050426 [0416] 109          
+1050427 [0413] 128          
+1050428 [0428] 123          
+1050429 [0415] 138          
+1050430 [0442] 98           
+1050501 [0427] 110          
+1050502 [0443] 134          
+1050503 [0439] 109          
+1050504 [0420] 111          
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050422 [0419] 0.14          2.49          7.2           20.9          83.9         
+1050423 [0402] 0.11          2.69          7.8           22.2          82.5         
+1050424 [0416] 0.39          3.35          9.7           27.6          82.4         
+1050427 [0417] 12.84         2.90          8.4           23.9          82.4         
+1050428 [1637] 12.22         2.64          7.6           21.5          81.4         
+1050429 [0411] 10.68         2.40          7.0           19.7          82.1         
+1050430 [0417] 12.13         3.01          8.6           24.8          82.4         
+1050501 [0417] 12.74         2.95          8.5           24.2          82.0         
+1050502 [0440] 18.14         2.90          8.3           24.2          83.4         
+1050503 [0436] 18.35         2.85          8.1           24.0          84.2         
+1050504 [0417] 20.28         3.22          9.5           27.6          85.7         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050422 [0419] 28.9          34.4          142           18.1          -            
+1050423 [0402] 29.0          35.1          99            17.8          -            
+1050424 [0416] 29.0          35.1          68            17.6          -            
+1050427 [0417] 29.0          35.1          16            18.9          -            
+1050428 [1637] 28.8          35.3          19            18.7          -            
+1050429 [0411] 29.2          35.5          31            18.7          -            
+1050430 [0417] 28.6          34.7          25            17.8          -            
+1050501 [0417] 28.8          35.1          38            17.7          -            
+1050502 [0440] 28.6          34.3          79            17.8          -            
+1050503 [0436] 28.4          33.8          116           17.9          -            
+1050504 [0417] 29.5          34.4          126           17.9          -            
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Cl           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1050421 [2124] 18.3          1.1           133           3.1           102          
+1050421 [2159]                                                                      
+1050421 [2251]                                                                      
+1050422 [0419]                             135           3.6           102          
+1050422 [1006] 14.4          0.6           132           3.5           100          
+1050422 [1651]                             134           3.6           103          
+1050422 [2207]                             135           3.4           104          
+1050423 [0402] 11.5          0.4           133           3.6           103          
+1050423 [1038]                             134           3.3           103          
+1050423 [1722]                             135           3.2           103          
+1050423 [2203]                             135           3.3           102          
+1050424 [0416] 10.5          0.4           135           3.8           103          
+1050424 [1012]                             134           3.4           103          
+1050424 [1654]                             136           3.9           103          
+1050424 [2202]                             135           3.5           103          
+1050425 [0420] 10.9          0.4           136           3.2           103          
+1050425 [1602]                                                                      
+1050425 [1910]                                           3.3                        
+1050426 [0418] 23.2          0.7           134           3.1           102          
+1050427 [0417] 30.8          1.0           133           3.1                        
+1050428 [0424] 41.0          1.1           135           2.8                        
+1050428 [1245]                                                                      
+1050429 [0411] 49.9          1.0           135           2.8                        
+1050430 [0417]                             136                                      
+1050430 [0725]                                           3.3                        
+1050501 [0417]                             137           2.9                        
+1050502 [0440] 34.0          0.5                         3.5                        
+1050502 [1641]                                           3.5                        
+1050503 [0436] 35.7                                                                 
+1050504 [0417] 30.5          0.4           136           3.2                        
+1050504 [0633]                                                                      
+               T-BIL         Lipase        Ca            Mg            P            
+time/item      (mg/dL)       (U/L)         (mmol/L)      (mmol/L)      (mg/dL)      
+1050421 [2124] 2.27          3             1.66          0.58          1.9          
+1050421 [2159]                                                                      
+1050421 [2251]                                                                      
+1050422 [0419]                             1.94          1.03                       
+1050422 [1006]                             2.01                                     
+1050422 [1651]                             2.05                                     
+1050422 [2207]                             2.03                                     
+1050423 [0402]                             2.08          0.71          <1.0         
+1050423 [1038]                             2.11                        <1.0         
+1050423 [1722]                             2.10                        1.2          
+1050423 [2203]                             2.07                                     
+1050424 [0416] 5.30                        2.14          0.77          2.4          
+1050424 [1012]                             2.13                                     
+1050424 [1654]                             2.06                                     
+1050424 [2202]                             2.12                                     
+1050425 [0420] 8.43                        2.13          0.60          <1.0         
+1050425 [1602]                                                                      
+1050425 [1910]                                           1.04                       
+1050426 [0418] 10.50                                                   <1.0         
+1050427 [0417] 13.97                                                   1.6          
+1050428 [0424] 14.03                                                   2.7          
+1050428 [1245]                                           0.60                       
+1050429 [0411] 13.56                                                                
+1050430 [0417] 14.20                                     0.76                       
+1050430 [0725]                                                                      
+1050501 [0417]                             1.77          0.84                       
+1050502 [0440] 12.91                       1.87          0.75                       
+1050502 [1641]                             1.90          0.93                       
+1050503 [0436] 11.34                       1.87                                     
+1050504 [0417] 8.09                                                                 
+1050504 [0633]                                           0.79                       
+               AST           LacticAcid    CK            Troponin I    Na(U)        
+time/item      (U/L)         (mmol/L)      (U/L)         (ng/mL)       (mmol/L)     
+1050421 [2124]               9.09          269                                      
+1050421 [2159]                                                         11           
+1050421 [2251]                                           0.773                      
+1050422 [0419]               8.26                                                   
+1050422 [1006]                                                                      
+1050422 [1651]               6.09                                                   
+1050422 [2207]                                                                      
+1050423 [0402]               6.01                                                   
+1050423 [1038]                                                                      
+1050423 [1722]                                                                      
+1050423 [2203]                                                                      
+1050424 [0416]               4.93                                                   
+1050424 [1012]                                                                      
+1050424 [1654]                                                                      
+1050424 [2202]                                                                      
+1050425 [0420] 38            4.59                                                   
+1050425 [1602]               5.28                                                   
+1050425 [1910]                                                                      
+1050426 [0418]               5.44                                                   
+1050427 [0417]               5.03                                                   
+1050428 [0424]               2.35          29                                       
+1050428 [1245]                                                                      
+1050429 [0411]               1.56                                                   
+1050430 [0417]                                                                      
+1050430 [0725]                                                                      
+1050501 [0417]               1.21                                                   
+1050502 [0440]                                                                      
+1050502 [1641]                                                                      
+1050503 [0436]                                                                      
+1050504 [0417] 59                                                                   
+1050504 [0633]                                                                      
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1050426 [0418] 16.7          55.3          1.59         
+1050428 [0424] 14.5          45.8          1.38         
+1050501 [0417] 12.9                        1.22         
+1050503 [0436] 14.7                        1.40         
+1050504 [0417] 13.1          38.4          1.24         
+群組:General BioChemistry
+
+               GGT           UA            ALB           D-BIL         ALT          
+time/item      (U/L)         (mg/dL)       (g/dL)        (mg/dL)       (U/L)        
+1050421 [2124]                             2.6           1.67          19           
+1050421 [2159] 218                                                                  
+1050424 [0416]                             2.5           3.93          185          
+1050424 [0753] 134                                                                  
+1050425 [0420]                                                         88           
+1050427 [0417]                             2.4                                      
+1050427 [0918] 109                                       8.57                       
+1050430 [0417]                             2.9                         32           
+1050502 [0440]               4.1                         8.20          49           
+1050504 [0417] 129                                                     32           
+               ALP          
+time/item      (U/L)        
+1050421 [2124]              
+1050421 [2159] 219          
+1050424 [0416]              
+1050424 [0753] 173          
+1050425 [0420]              
+1050427 [0417]              
+1050427 [0918] 261          
+1050430 [0417]              
+1050502 [0440]              
+1050504 [0417] 575          
+群組:Yes
+
+               hsCRP         D-Dimer       Fibrinogen    NT-pro BNP   
+time/item      (mg/dL)       (μg/mL FEU)   (mg/dL)       (pg/mL)      
+1050421 [2124] 22.70                                     >35000       
+1050425 [1910] 16.78                                                  
+1050427 [0950]               15.93         397.4                      
+1050501 [0417] 9.17                                                   
+群組:
+
+               BUN(U)        CRE(U)        CK-MB        
+time/item      (mg/dL)       (mg/dL)       (ng/mL)      
+1050421 [2159] 139.0         20                         
+1050421 [2251]                             6.80         
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050502 [0440] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050502 [0440] 91.7          0.0           0.2           6.0           2.1          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050502 [0440] 0.0           0.0           0             僅供參考         
+*********檢驗室:YM***********
+
+群組:
+
+               Free Ca(急重症自  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                     
+time/item      (mmol/L)      (mmol/L)      (mmol/L)     
+1050421 [2157] 1.04          3.21          134.4        
+1050422 [0228] 1.15          3.38          133.9        
+1050422 [0421] 1.15          3.36          134.8        
+1050422 [1659] 1.18          3.41          132.3        
+1050422 [2208] 1.08          3.50          133.6        
+1050423 [0406] 1.26          3.50          133.2        
+1050423 [1034] 1.23          3.16          137.2        
+1050423 [1729] 1.32          3.10          133.6        
+1050423 [2208] 1.17          3.46          134.0        
+1050424 [0421] 1.26          3.79          134.6        
+1050424 [1015] 1.27          3.43          134.2        
+1050424 [1702] 1.24          3.92          134.0        
+1050424 [2209] 1.25          3.60          133.6        
+1050425 [0426] 1.28          3.27          134.9        
+1050425 [1623] 1.23          3.45          134.0        
+1050426 [0430] 1.21          3.07          133.5        
+1050427 [0423] 1.13          3.08          132.0        
+1050428 [0431] 1.05          2.87          134.4        
+1050429 [0454] 1.18          4.09          137.7        
+1050430 [0439] 1.12          3.32          134.5        
+1050501 [0428] 1.05          3.00          135.4        
+1050502 [0441] 1.07          3.58          134.4        
+1050503 [0436] 1.09          3.35          136.8        
+1050504 [0420] 1.13          3.27          135.3        
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050421 [2157] 7.380         19.9          122.6         11.9          -13.5        
+1050422 [0228] 7.388         21.7          162.1         13.2          -12.1        
+1050422 [0421] 7.384         21.7          184.3         13.1          -12.2        
+1050422 [1659] 7.447         25.8          133.7         18.0          -6.3         
+1050422 [2208] 7.422         25.6          124.2         16.8          -7.9         
+1050423 [0406] 7.443         24.8          134.4         17.2          -7.2         
+1050423 [1034] 7.441         25.3          106.4         17.4          -7.1         
+1050423 [1729] 7.439         32.6          95.0          22.3          -2.1         
+1050423 [2208] 7.429         26.3          98.8          17.6          -7.0         
+1050424 [0421] 7.453         25.4          117.6         18.0          -6.2         
+1050424 [1015] 7.443         26.4          79.8          18.2          -6.1         
+1050424 [1702] 7.427         27.8          136.1         18.5          -6.1         
+1050424 [2209] 7.420         28.2          133.1         18.5          -6.2         
+1050425 [0426] 7.432         28.5          153.7         19.1          -5.4         
+1050425 [1623] 7.444         25.9          110.3         17.9          -6.4         
+1050426 [0430] 7.430         25.7          111.5         17.2          -7.4         
+1050427 [0423] 7.465         23.6          150.5         17.1          -6.9         
+1050428 [0431] 7.478         26.4          138.0         19.8          -4.0         
+1050429 [0454] 7.425         29.6          144.9         19.6          -5.0         
+1050430 [0439] 7.484         30.7          129.8         23.3          -0.4         
+1050501 [0428] 7.484         33.7          127.4         25.5          1.8          
+1050502 [0441] 7.511         30.7          138.8         24.8          1.6          
+1050503 [0436] 7.470         33.2          96.6          24.3          0.4          
+1050504 [0420] 7.498         27.9          106.5         21.8          -1.7         
+               SO2          
+time/item      (%)          
+1050421 [2157] 98.8         
+1050422 [0228] 99.5         
+1050422 [0421] 99.6         
+1050422 [1659] 99.2         
+1050422 [2208] 99.0         
+1050423 [0406] 99.2         
+1050423 [1034] 98.5         
+1050423 [1729] 97.7         
+1050423 [2208] 98.0         
+1050424 [0421] 98.9         
+1050424 [1015] 96.4         
+1050424 [1702] 99.2         
+1050424 [2209] 99.1         
+1050425 [0426] 99.5         
+1050425 [1623] 98.6         
+1050426 [0430] 98.6         
+1050427 [0423] 99.5         
+1050428 [0431] 99.4         
+1050429 [0454] 99.3         
+1050430 [0439] 99.2         
+1050501 [0428] 99.2         
+1050502 [0441] 99.4         
+1050503 [0436] 98.0         
+1050504 [0420] 98.7         
+
+*********檢驗室:B3***********
+B3-1050428-8009974   SKIN PUS
+     ID+DS Common #1:       Pseudomonas aeruginosa 3+
+     ID+DS Common #2:       Acinetobacter baumannii 3+
+     ID+DS Common #3:       Staphylococcus aureus 3+
+B3-1050424-4026668   RANDOM URINE
+     ID+DS Urine #1:       No aerobic  pathogen
+B3-1050424-4026666   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Few PMNs ( <10 /LPF )
+     Gram's(GS)#2:       Few epithelial cells ( < 10 /LPF )
+     Gram's(GS)#3:       No bacteria visible
+     ID+DS Sputum Culture #1:       Normal mixed flora
+     Gram's(GS)#4:       痰檢體品質不良建議重新送檢
+B3-1050425-5052876   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Few PMNs ( <10 /LPF )
+     Gram's(GS)#2:       Few epithelial cells ( < 10 /LPF )
+     Gram's(GS)#3:       No bacteria visible
+     ID+DS Sputum Culture #1:       Sphingomonas  paucimobilis 1+
+     Gram's(GS)#4:       痰檢體品質不良建議重新送檢
+B3-1050422-2092157   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Moderate PMNs ( 10-25 /LPF )
+     Gram's(GS)#2:       Few epithelial cells ( < 10 /LPF )
+     Gram's(GS)#3:       No bacteria visible
+     ID+DS Sputum Culture #1:       Normal mixed flora
+B3-1050502-2073445   RANDOM URINE
+     ID+DS Urine #1:       Yeast-like organism 70000
+B3-1050502-2073443   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Moderate PMNs ( 10-25 /LPF )
+     Gram's(GS)#2:       Few epithelial cells ( < 10 /LPF )
+     Gram's(GS)#3:       Gram (-) rods 1+
+
+
+*********檢驗室:B2***********
+B2-1050424-4026663   BLOOD
+     ID+DS Blood.#1:       No growth after 5 days
+B2-1050424-4026665   BLOOD
+     ID+DS Blood.#1:       No growth after 5 days
+
+*********檢驗室:OP***********
+
+群組:SEDIMENT
+
+               RBC (S)       WBC (S)       Epith (S)     Cast (S)      Crystal (S)  
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1050424 [1655] 20-35         2-5           0-2           Hy(0-2)       -            
+1050502 [1114] 10-20         75-100        0-2           -             -            
+               Bacteria      Mucus(S)      Others (S)   
+time/item      (*)           (*)           (*)          
+1050424 [1655] +             -             -            
+1050502 [1114] 2+            -             Yeast(3+)    
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH            Protein(C)    Glu.(C)       Ketone body  
+                                                                    (U)          
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1050424 [1655] 1.031         6.0           200 ( 2+ )    50 ( +/- )    +/-          
+1050502 [1114] 1.019         6.0           50 ( 1+ )     -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+                                                                     (U)         
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1050424 [1655] 3+            6.0           4+            -             -            
+1050502 [1114] 2+            ≦1.5          2+            -             3+           
+               Color         Turbidity    
+time/item      (*)           (*)          
+1050424 [1655] Dark Orange   2+           
+1050502 [1114] Dark Yellow   +            
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050425 [0420] 1.19          3.06          8.9           25.6          83.7         
+1050426 [0418] 5.16          2.89          8.5           24.0          83.0         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1050425 [0420] 29.1          34.8          33            18.2          -            
+1050426 [0418] 29.4          35.4          28            18.7          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050425 [0420] (+)           2.0           3.0           7.0           17.0         
+1050426 [0418] 4.0           1.0           0.0           7.0           26.0         
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050425 [0420] 8.0           0.0           2.0           53.0          8.0          
+1050426 [0418] 39.0          0.0           1.0           18.0          3.0          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050425 [0420] 0.0           0.0           1.0 /100 WBC  WBC 100                    
+1050426 [0418] 1.0           0.0           1.0 /100 WBC  WBC 100                    
+*********檢驗室:B5***********
+
+群組:
+
+               CRE screenin  VRE screenin 
+               g             g            
+time/item      ()            ()           
+1050421 [2124] No Carbapene  No VRE       
+               m-resistant                
+               Enterobacter               
+               iaceae                     
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1050429 [0411] A             Positive     
+1050503 [0747] A             Positive     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1050429 [0411] Negative     
+1050503 [0747] Negative     
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               LDH          
+time/item      (U/L)        
+1050502 [0440] 502          
+群組:Others
+
+               Procalcitoni 
+               n            
+time/item      (ng/mL)      
+1050502 [0440] 1.251        
+
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               T-BIL         UN           
+time/item      (mg/dL)       (mg/dL)      
+1050407 [1443] 1.28          14.1         
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050407 [1443] 4.24          3.61          10.4          31.0          85.9         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050407 [1443] 28.8          33.5          395           19.5          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050407 [1443] 0.0           0.0           1.0           4.0           2.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050407 [1443] 42.0          2.0           1.0           15.0          31.0         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050407 [1443] 2.0           0.0           0.0 /100 WBC  WBC 100                    
+群組:Biochemistry
+
+               CRE           AST          
+time/item      (mg/dL)       (U/L)        
+1050407 [1443] 0.4           119          
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1050407 [1443] 25           
+*********檢驗室:CY***********
+
+群組:Yes
+
+               Pleural Effu  Specimen Ade 
+               sion Cytolog  quacy        
+               y                          
+time/item      (*)           (*)          
+1050330 [1601] Positive for  Satisfactory 
+                malignant c   for evaluat 
+               ells          ion          
+
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               BUN           CRE           Na            K             LacticAcid   
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1050421 [0611] 14.8          1.2           134           3.2                        
+1050421 [0907]                                                         12.71        
+1050421 [1641]                                           3.6           9.12         
+               CK            Troponin I   
+time/item      (U/L)         (ng/mL)      
+1050421 [0611] 115           0.015        
+1050421 [0907]                            
+1050421 [1641]                            
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1050421 [0907] 17.1          47.4          1.60         
+1050421 [1641] 18.5                        1.76         
+群組:
+
+               CK-MB         Mucus(S)     
+time/item      (ng/mL)       (*)          
+1050421 [0611] <0.300                     
+1050421 [1433]               +            
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1050421 [1433] 2-5           10-20         10-20         Gr(5-10)      -            
+               Bacteria      Others(S)    
+time/item      (*)           (*)          
+1050421 [1433] 3+            -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1050421 [1433] 1.025         5.5           300 ( 3+ )    30 ( +/- )    +/-          
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1050421 [1433] +/-           4.0           1+            -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1050421 [1433] Dark Yellow   2+           
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050421 [0611] 7.438         20.0          39.9          13.6          -10.8        
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1050421 [0611] 16           
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050421 [0611] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050421 [0611] 3.0           0.0           2.0           0.0           5.0          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050421 [0611] 0.0           0.0           0.0 /10 WBC   WBC 10X10    
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050421 [0611] 0.10          2.76          7.7           23.2          84.1         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050421 [0611] 27.9          33.2          326           19.0          -            
+*********檢驗室:BC***********
+
+群組:Hormones
+
+               Free T4(CIA)  hsTSH(CIA)    Cortisol DL   ACTH                       
+time/item      (ng/dL)       (μIU/mL)      (μg/dL)       (pg/mL)      
+1050421 [1641] 1.48          8.60          33.3          12.3         
+
+*********檢驗室:B3***********
+B3-1050421-1070901   RANDOM URINE
+     ID+DS Urine #1:       No aerobic  pathogen
+
+
+*********檢驗室:B2***********
+B2-1050421-1070896   BLOOD
+     ID+DS Blood.#1:       Pseudomonas aeruginosa
+B2-1050421-1070902   BLOOD
+     ID+DS Blood.#1:       Pseudomonas aeruginosa
+
+*********檢驗室:YM***********
+
+群組:
+
+               Free Ca(急重症自  K+(急重症自行檢驗)   Na(急重症自行檢驗)   Suger(急重症自行檢  LacticAcid(急 
+               行檢驗)                                      驗)            重症自行檢驗)      
+time/item      (mmol/L)      (mmol/L)      (mmol/L)      (mg/dL)       (mmol/L)     
+1050421 [0859] 1.08          2.81          133.7         101           11.3         
+1050421 [1635] 1.07          3.61          134.6                       7.6          
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050421 [0859] 7.316         25.3          47.9          13.0          -13.4        
+1050421 [1635] 7.326         25.0          33.4          13.2          -13.1        
+               SO2          
+time/item      (%)          
+1050421 [0859] 81.0         
+1050421 [1635] 61.5         
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1050421 [0907] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1050421 [0907] A             Positive     
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050421 [2156] 192 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 張晉誠 影像時間: 2016/05/02 10:14 (32001CYM) 發報告時間: 2016/05/02 17:06 status post endotracheal intubation and nasogastric tube insertion. placement of right jugular central venous line and Port-A catheter at the left upper chest. metallic fixation at the thoracolumbar spine. enlarged heart shadow. ill-defined opacities at the both lung fields. suggest clinical correlation.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 簡寧 影像時間: 2016/04/30 10:46 (32001CYM) 發報告時間: 2016/05/03 11:20 cardiomegaly. increased infiltration in the bilateral lung fields. Placement of an endotracheal tube, a nasogastric tube, and a central venous line. status post posterior fixation in the thoracolumbar spines.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 簡寧 影像時間: 2016/04/28 09:55 (32001CYM) 發報告時間: 2016/05/03 11:23 cardiomegaly. increased infiltration in the bilateral lung fields. right pleural effusion. Placement of an endotracheal tube, a nasogastric tube, and a central venous line. post-operative changes from posterior fixation.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 王郁棻 影像時間: 2016/04/26 08:57 (32001CYM) 發報告時間: 2016/04/26 17:20 chest X ray shows: s/p endotracheal tube placement. s/p central venous catheter placement. s/p operative change at thoracolumbar spine. pathologic compression fracture at T12. s/p Port-A catheter placement. patchy consolidation and nodular opacities of both lungs.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 李怡範 影像時間: 2016/04/24 10:25 (32001CYM) 發報告時間: 2016/04/26 13:30 cardiomegaly. tortuous aorta with calcification. mediastinum widening. bilateral lung opacities. lines and tubes. obscured bilateral costophrenic angles. s/p fixation of the T-L spine.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳佾昌 影像時間: 2016/04/21 13:33 (32001CYM) 發報告時間: 2016/04/21 15:12 Chart No: 5840410
+Accession No: T0160063362
+EXAMINATION: Chest - AP View (Supine).
+FINDINGS:
+Cardiomegaly. Bilateral lung consolidation. Postoperative changes of spine. Placement of central venous catheter(s), portacath. Suggest clinical correlation. Compression fracture of spine.
+Abdomen:KUB 醫令: Abdomen:KUB 報告醫師: 葉建德 影像時間: 2016/04/21 05:42 (32006C0M) 發報告時間: 2016/04/21 16:54 non-specific bowel gas pattern. no abnormal calcifications. postoperative changes of the spine.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 葉建德 影像時間: 2016/04/21 18:03 (32001CYM) 發報告時間: 2016/04/21 19:43 Cardiomegaly. Bilateral lung consolidation. Postoperative changes of spine. Placement of central venous catheter(s), portacath. Suggest clinical correlation. Compression fracture of spine.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 葉建德 影像時間: 2016/04/21 05:42 (32001CXM) 發報告時間: 2016/04/21 16:44 cardiomegaly. ill-defined opacities in bilateral lungs. placement of a left Port-A catheter. postoperative changes of the spine. 
+病理報告(Pathology Report) 
+S1221189
+Breast,right,partial mastectomy,invasive ductal carcinoma grade II,   
+Lymph node,axillary, sentinel 1, right,lymphadenectomy,carcinoma,metastati (1/1),   
+Lymph node,axillary, sentinel 2, right,lymphadenectomy,carcinoma,metastatic (1/1),   
+Lymph node,axillary, labeled as non-sentinel, right,lymphadenectomy,carcinoma,metastatic (4/5),   
+Lymph node,axillary, level I, right,lymphadenectomy,carcinoma,metastatic (8/12),   
+Lymph node,axillary, level II, right,lymphadenectomy,carcinoma,metastatic (2/2),   
+Lymph node,axillary, sentinel 3, right,lymphadenectomy,no evidence of metastasis (1/1),   
+Lymph node,axillary, sentinel 4, right,lymphadenectomy,no evidence of metastasis (1/1),   
+ S1223468
+Breast,3-6-9 o'clock section margin, status post partial mastectomy, right,partial mastectomy,ductal carcinoma in situ high grade, residual,   
+ S1605102
+Epidura,T5, 6, 12,laminectomy and excision,carcinoma,metastatic 
+臆斷(Tentative Diagnosis) 
+1. High grade right breast intraductal carcinoma, pT2N3aM0, stage IIIb, PR(-), Her-2(3+/3+), status right breast conserving therapy and axillary lymph node dissection on 2012/06/08, status post CE90*4 -> TH *4, leuplin (2012/07/16~2012/11/19), status post Herceptin (2012/12/31~2013/9/30), status post adjuvant RT, with brain, lung, liver mets(July 2015), status post whole brain RT(30Gy/10Fx, 2015/8/17-2015/8/28), status post Xeloda + lapatinib(2015/9/8-2016/02/4), disease progression with bone mets and spinal cord compression, status post T5-6, T12 laminectomy for epidural tumor excision and posterior fixation with transpedicular screws on 2016/02/04, s/p oral chemotherapy with UFUR(2cap, BID) and cyclophosphamide(50mg, QD)(2016/02/26-2016/03/18), s/p oral Vinorelbine(30mg, TIW) in 2016/03/19-3/29, s/p Porta-A implantation on 2016/03/29, s/p Vinorelbine(I) on 2016/04/08(I) and Vinorelbine(II) on 2016/04/15, complicated with neutropenic fever
+
+2. Pseudomonas bacteremia with septic shock, neutropenic fever, lactic acidosis and acute kidney injury, operation wound infection or intra-abdominal infection related
+3. Acute respiratory failure, type IV, status post endotracheal intubation with mechanical ventilation (2016/4/22~2016/5/2)
+4. Suspected back surgical wound infection with abscess formation (psu culture: CR-PsA, MDRAB, MRSA)
+5. Acute kidney injury, AKIN stage 3, pre-renal type, under CVVH(2016/04/21-2016/4/25) and H/D (2016/4/29)
+6. Hyperbilirubinemia, tumor infiltration and sepsis related, r/o abscess
+7. Urinary tract infection with funguria 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+1. breast cancer, extensive metastasis, under palliative chemotherapy
+2. neutropenic fever with septic shock, improved
+3. Direct type hyperbilirubinemia, etiology?
+S:
+improved condition
+O:
+vital sign:
+T: 38.3 °C,  P: 96 bpm,  R: 21 /min,
+BP: 141 / 94 mmHg,
+Lab:
+WBC:20280
+Hb:9.5
+PLT:126
+TBI:8
+ALP:575
+
+B/C (CVC): GNB(28.3hr)
+Back skin pus: CR-PsA 3+ (S: Ceftazidime), MRSA 3+, MDRAB 3+
+
+A:
+improved septic shock but still low grade fever
+poor wound healing with possible abscess formation should be considered
+etiology of hyperbilirubinemia was not clarified
+=>arrange CT for
+1.evalution spinal wound condition
+2.Liver tumor status
+3.brain tumor status
+P:
+. keep antibiotics and pursue culture data
+. arrange CT for evaluation current tumor status and infection focus
+. supportive treatment
+. rehabilitation due to long term bedridden
+Treatment Goal:
+ADL increase>10 points 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左手 cath
+雙腔導管留置：無  
+鼻胃管留置：無  
+氣管管路留置：無    
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：na
+日常生活功能分數：40
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：配偶 媽媽 
+出院規劃收案篩檢：高危病患 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the intern. 
+醫師姓名 
+盧彥伸 主治醫師 

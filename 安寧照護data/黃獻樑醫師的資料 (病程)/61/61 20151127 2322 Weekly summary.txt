@@ -1,0 +1,32 @@
+This is a 46-year-old woman with
+1.Vomite, suspect acute graft versus host disease of the stomach or Cytomegalovirus gastritis, status post biopsy to the esophageal ulcers and random stomach tissue
+2.Therapy-related myelodysplastic syndrome (t-MDS), FAB: Refractory anemia with excess blast (RAEB)/WHO: RAEB-2; clonal cytogenetic aberration with -5, del(5)(q13q31),-7,-19,+mar, WPSS score 6, very high risk;- status post Vidaza (2015/6/16-2015/6/21)- status post reduced intensity conditioning (Flu5 + Bu2 + Cy1 + ATG, 2015/7/27-8/3) and allogeneic haploidentical bone marrow and peripheral blood stem cell transplantation (D0=2015/8/4, 7/10 matched, F -> F, O+ -> O+, D0 BMSC: CD34+ 1.02 x 10^6 cells/KgBW, CD3+ 1.79 x 10^7 cells/kgBW), with acute graft versus host disease, S0-1L0-1G4, Glucksberg grade IV, IBMTR index D, under Tacrolimus and methylprednisolone
+3.Cytomegalovirus gastroenteritis with pan-ileocolonopathy
+4.Possible invasive fungal unfection, suspect aspergillosis, status post liposomal Amphotericin and voriconazole treatment
+5.Reflux esophagitis, LA grade A
+6.Gall bladder stone and sludge, and gall bladder polyp
+7.Diabetes mellitus under steroid use
+8.Chronic hepatitis B under sibovovir 
+9.Distal phalangeal fracture, extraarticular, left great toe, non-displaced
+Admitted for vomiting and headache/abdominal pain, suspect GVHD, CMV disease, or other infection.
+
+After admission, PES showed esophageal ulcer and gastritis. Anti-CMV therapy was given empirically for serum CMV viral load 2100cp/mL. IVIG was given for decreased serum IgG level. Pathology of the esophageal ulcer showed mild inflammatory cell infiltration and focal dyskeratosis, no viral inclusion identified; stomach random biopsy showed chronic gastritis with focal intestinal metaplasia, no Helicobacter bacillus or evidence of aGVHD seen, negative for CMV immunostain. Oral medications were shifted to IV form for severe intake-induced esophageal ulceration pain, and strict NPO except Sebovovir was started. TPN supplement was given for prolonged NPO. Pain control with Tramal, Morphine, Vena, and Anxicam were given. Cefuroxime was given for wild type Kp UTI. Despite headache, fall with hip hitten (no fracture noticed on hip flain film), and suspect seizure episode developed on 11/24 early morning. MRI showed mild brain atropy without focal lesion noticed, and EEG formal report pending. CSF study was performed on 2015/11/28 and specimen sent for routine, BCS, immune, culture, morphology, surface antigen, virus identification and rt-PCR, and CDC bulletin of unknown etiology meningoencephalitis. Low pressure headache developed and hydration given.
+
+A:
+2015/11/27 17:44 T:36.5 P:98 R:18
+2015/11/27 17:39 BP:121/79
+2015/11/27 17:44 Pain score:0
+
+Cefuroxime D2 (11/26-)
+Afebrile, improved dysuria and cystitis pain
+Still on and off abdominal pain, esp. epigastralgia
+Occasional vomiting with small amount of clear liquid
+Occipital headache on and off as baseline
+Bilateral temporal headache (susp. low pressure headache) after lumbar puncture
+
+P:
+.Persue EEG report
+.Consider adjust anti-CMV therapy according to serum CMV viral load
+.NPO except anti-HBV drug, consider Sucralfate if persisted esophageal pain under NPO; TPN support for prolonged NPO
+.Supportive care, give adequate pain control
+.Check CBC/DC QOD, BCS BIW at least, CMV level QW14, tacrolimus level QW1

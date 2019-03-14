@@ -1,0 +1,369 @@
+2015/12/18 00:52 
+主訴(Chief Complaint) 
+Informant:family and medical record
+Fever off-and-on for 6+ days 
+病史(Brief History) 
+This 66-year-old female had past history of 
+(1)nasopharyngeal carcinoma, cT3N1M0, stage III, s/p weekly Cisplatin base concurrent chemoradiotherapy (7000cgy/33fx, 2010/1/25-2010/3/12), local recurrent, s/p parapharyngeal tumor excision, oral form Endoxon (2011/3/25-2011/6/2), local recurrent with intra-cranial invasion, status post PF protocol (I, 2012/4/30), CF protocol (III, 2012/5/21-2012/7/3), UFUR (2012/7/20-2012/8/31) with progress disease, s/p phyxol+ cisplatin (V, 2012/9/4-2012/12/18), with disease progression, s/p VinOrelbine+cisplatin (II, 2013/1/10-2013/2/6), Xeloda (2013/3/5-2015/9), s/p ACF (C2D1=2015/12/2)
+(2) Diabetes mellitus, under medical control
+(3) HBV carrier, under Lamivudine. 
+(4) Hypertension, under medical control
+
+She was just discharged from Oncology ward for chemotherapy on 12/05. The MRI on 2015/10/19 showed recurrent tumor with intracranial invasion and lymphadenopathy, with progression of intracranial portion. She had fever off-and-on up to 38.5C since 6+ days ago. Intermittent headache and dizziness with nausea/vomiting episode were noted since then. Cough with sputum was also found. She was sent to 慈濟ER on 12/12 at first, where the CXR and brain CT (showed no obvious abnormality) was done. She was took to our ER on 12/12 noon for second opinion, and only hyponatremia with leukocytosis was found. Oral medication for dizziness was prescribed then. However, progressive fluctuated delirium episode (語無倫次) was noted by her family, and she felt shortness of breath since last night, so she came to our ER today. The vital signs at triage were T/P/R=36.6/134/24, BP=197/91, SpO2=98%. The physical examination showed no specific findings and bilateral symmetric muscle power. The CXR revealed mild increasing infiltration. The laboratory data revealed high sugar level (=672mg/dL), high Ketone level (=4.6mmol/L), compensate metabolic acidosis with respiratory alkalosis (pH/CO2/O2/HCO3/BE = 7.469 / 21.4 / 74.8/ 15.7 /-8.2), fair white blood cell count (WBC= 7k/uL, Band=8.7%, Seg=77%). The urine analysis showed no pyuria. Under the impression of acute delirium which suspected diabetic ketoacidosis related and ruled out CNS infection, she was admitted to our ward for further management.
+
+Family History: denied cancer history, her parent had DM
+Medication Allergy:No  病人自述 2013/02/16
+No  病人自述 2013/02/06
+No  病人自述 2013/02/15
+No  親屬描述 2013/05/08
+No  病人自述 2013/07/27
+No  病人自述 2013/07/25
+No  病人自述 2010/01/11
+No  病人自述 2015/11/03
+No  親屬描述 2015/12/17
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  病人自述 2013/02/16
+No  病人自述 2013/02/06
+No  病人自述 2013/02/15
+No  親屬描述 2013/05/08
+No  病人自述 2013/07/27
+No  病人自述 2013/07/25
+No  親屬描述 2015/12/17
+No  病人自述 2015/11/03
+Current Medication:
+NTUH:Diphenhydramine HCl 30 mg/1 mL /amp 30 mg STAT IF 1 days
+Soonmelt for IV Inj (based on amoxicillin content) 500 mg/vial 1000 mg Q8H IV 2 days
+Soonmelt for IV Inj (based on amoxicillin content) 500 mg/vial 1000 mg STAT IV 1 days
+PCN Test (Penicillin G Skin Test) 1000 U/1 mL 2 mL/vial 0.1 mL ONCE ID 1 days
+警 Humulin R 1000 U/10 mL /vial 12 U STAT IV 1 days
+警 Humulin R 1000 U/10 mL /vial 100 U QD cIF 2 days
+B.C. /cap 1 cap QD PO 7 days
+Novamin 5 mg/tab 1 tab TIDPC PO 7 days
+Diphenidol SC 25 mg/tab 1 tab TID PO 7 days
+Vidisic Eye Gel 2 mg/1 g 10 g/tube 1 gtt HS OU 28 days
+Artelac Eye Drops 0.32% 10 mL/btl 1 gtt QID OU 28 days
+Losartan Potassium (可 COZAAR 50 mg/tab) 1 tab QD PO 12 days
+Other:denied
+中草藥:denied
+保健食品:denied
+Past Medical History/Hospitalization/Past Surgical History
+入院日期:2015_12_02 出院日期:2015_12_05 診斷:Malignant neoplasm of nasopharynx
+入院日期:2015_11_03 出院日期:2015_11_06 診斷:Malignant neoplasm of nasopharynx
+(1)nasopharyngeal carcinoma, cT3N1M0, stage III, s/p weekly Cisplatin base concurrent chemoradiotherapy (7000cgy/33fx, 2010/1/25-2010/3/12), local recurrent, s/p parapharyngeal tumor excision, oral form Endoxon (2011/3/25-2011/6/2), local recurrent with intra-cranial invasion, status post PF protocol (I, 2012/4/30), CF protocol (III, 2012/5/21-2012/7/3), UFUR (2012/7/20-2012/8/31) with progress disease, s/p phyxol+ cisplatin (V, 2012/9/4-2012/12/18), with disease progression, s/p VinOrelbine+cisplatin (II, 2013/1/10-2013/2/6), Xeloda (2013/3/5-2015/9), s/p ACF (C2D1=2015/12/2)
+(2) Diabetes mellitus, under medical control
+(3) HBV carrier, under Lamivudine. 
+(4) Hypertension, under medical control
+
+Travel History:denied
+Occupation: retired
+Contact/Cluster: denied
+
+Alcohol/Betel nuts/Smoking: denied 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:國中
+職業:退休
+宗教信仰:無
+婚姻狀態:喪偶
+使用語言:國語 台語 
+口述血型:O，RH:不清楚，輸血反應:不清楚
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:躁動不安
+認知功能:無法評估 
+精神情緒狀態:無法評估  
+安全問題:有 其他 管路安全及預防跌倒
+睡眠形態:異常 其他 E3M3-4V1-2
+
+Nutritional Screen
+攝食情形:
+排便狀態:正常
+BMI:24.47
+
+Fall Risk Assessment
+總分:10
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache and dizziness(+, intermittent, for 5+ days), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular:  exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(+ since last night), cough(+ for 1 week), chest pain(-), hemoptysis(-), productive cough (+ for 1 week), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(+ lower back pain for 1+ week)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH:153 cm   BW:53.6 kg
+T:36.7 P:155 R:12
+BP:129/93 mmHg
+Pain:
+
+Neurological Examination:
+. Consciousness:E3M4V1
+. Muscle power:four limbs all > 3/5, couldn't obey orders
+. Gait: not perform
+
+‧Head-Eye-ENT 
+        grossly normal, conjunctiva: not pale, sclera: anicteric
+        Pupil: isocoric,  3mm/ 3mm,  Light reflex: L/R: +/+
+‧Neck
+	Jugular vein engorgement(-)
+	Thyroid goiter(-)
+	Meningismus: Kernig sign and Brudzinski sign couldn't check due to poor consciousness
+‧Chest
+        Breath sound: coarse Crackles(-) wheezes(-)rhonchi(-) stridor(-)
+‧Heart
+	Heart beat: regular,  Murmurs(-)
+‧Abdomen
+        Flat soft, Tenderness(-), rebound tenderness(-), Murphy's sign(-)
+‧Extremities
+        Pitting edema (-) ; Cyanosis (-)
+‧Skin
+	Abnormal pigmentation(-)Petechiae(-)Purpura(-)Ecchymoses(-)Telangiectasia(-)Rash(-) Plaque(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1041217 [1456] 7.436         28.5          88.0          19.3          -5.1         
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1041202 [1648] 393          
+1041202 [1832] 336          
+1041203 [0454] 325          
+1041203 [1102] 285          
+1041203 [1710] 424          
+1041203 [2055] 398          
+1041204 [0448] 182          
+1041204 [1200] 418          
+1041204 [1647] 525          
+1041204 [2055] 340          
+1041205 [0509] 125          
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041202 [0945] 7.24          3.33          10.0          29.2          87.7         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041202 [0945] 30.0          34.2          310           13.2          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041202 [0945] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041202 [0945] 74.0          0.7           0.3           5.4           19.6         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041202 [0945] 0.0           0.0           0             -            
+群組:General BioChemistry
+
+               ALB           ALT           ALP           LDH          
+time/item      (g/dL)        (U/L)         (U/L)         (U/L)        
+1041202 [0945] 3.9           13            90            224          
+群組:Biochemistry
+
+               BUN           CRE           Na            K             T-BIL        
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)      
+1041202 [0945] 17.7          1.7           133           5.3           0.51         
+               Ca           
+time/item      (mmol/L)     
+1041202 [0945] 2.32         
+
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041214 [1120] 13.36         3.53          10.3          29.8          84.4         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1041214 [1120] 29.2          34.6          341           14.0          -            
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               CRE          
+time/item      (mg/dL)      
+1041214 [1120] 1.7          
+
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1041217 [1502] 481          
+*********檢驗室:RL***********
+
+群組:
+
+               Mucus(S)      Glucose(seru 
+                             m for ED)    
+time/item      (*)           (mg/dL)      
+1041217 [1044]               672          
+1041217 [1318] -                          
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1041217 [1318] 0-2           2-5           2-5           -             -            
+               Others(S)     Bacteria     
+time/item      (*)           (*)          
+1041217 [1318] -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1041217 [1318] 1.026         5.0           10 ( +/- )    >1000 ( 4+ )  1+                         
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1041217 [1318] -             ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1041217 [1318] Colorless     -            
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1041217 [1044] 7.469         21.4          74.8          15.7          -8.2         
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ammonia N    
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)     
+1041217 [1044] 22.8          1.3           124           3.8           21           
+               T-BIL         Lipase        Ca            Troponin I   
+time/item      (mg/dL)       (U/L)         (mmol/L)      (ng/mL)      
+1041217 [1044] 0.86          9             2.47          0.015        
+群組:Yes
+
+               Blood Ketone  D-Dimer       pro-BNP                    
+time/item      (mmol/L)      (μg/mL FEU)   (pg/mL)      
+1041217 [1044]               0.37          1170         
+1041217 [1239] 4.6                                      
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041217 [1044] 0.0           0.0           0.0           0.0           8.7          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041217 [1044] 77.7          0.0           0.0           7.8           5.8          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041217 [1044] 0.0           0.0           0.0           -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041217 [1044] 7.00          3.59          10.4          29.8          83.0         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041217 [1044] 29.0          34.9          315           13.7          -            
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1041217 [1239] 10.0          25.4          0.94         
+*********檢驗室:RL***********
+
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1041212 [1245] 12           
+群組:Biochemistry
+
+               CRE           Na            K            
+time/item      (mg/dL)       (mmol/L)      (mmol/L)     
+1041212 [1245] 1.12          127           4.1          
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041212 [1245] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041212 [1245] 89.0          0.0           0.0           5.0           6.0          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041212 [1245] 0.0           0.0           0.0 /100 WBC  WBC 100                    
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041212 [1245] 10.99         3.61          10.8          31.0          85.9         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041212 [1245] 29.9          34.8          315           13.6          - 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 簡寧 影像時間: 2015/12/17 10:56 (32001CYM) 發報告時間: 2015/12/17 14:18 cardiomegaly. increased infiltration in the bilateral lung fields. ill-defined opacity in the left lower lung field. bilateral sharp costophrenic angles. degenerative spondylosis at the thoracic spine. 
+病理報告(Pathology Report) 
+S1105695
+Soft tissue,parapharyngeal, left,excision,carcinoma,metastatic    
+Soft tissue,parapharyngeal, upper margin, left,excision,no evidence of malignancy    
+ S1246486
+Ear,external auditory canal, left,biopsy,non-keratinizing carcinoma    
+ S1229925
+Ear,left,punch biopsy,non-keratinizing carcinoma 
+臆斷(Tentative Diagnosis) 
+Acute delirium, suspected diabetic ketoacidosis related, ruled out CNS infection 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*Acute delirium, suspected diabetic ketoacidosis related, ruled out CNS infection
+S:Fever off-and-on for 6+ days
+O:T:36.7 P:155 R:12 BP:129/93 mmHg
+E3M4V1
+sugar = 672mg/dL ->481->453->
+Ketone =4.6mmol/L
+WBC= 7k/uL, Band=8.7%, Seg=77%, CRP=22.53mg/dL
+pH/CO2/O2/HCO3/BE=7.469/21.4/74.8/15.7/-8.2
+Na/K/Cl=131/3.5/91->135/4.0/96
+
+progressive dyspnea noted after admission, the follow-up arterial gas data reveal mixed acidosis (pH/CO2/O2/HCO3/BE=7.242/56.7/114.2/24.6/-3.0). Due to poor consciousness with CO2 retention, after discussion with her family, she underwent intubation on 12/17 night.
+
+A+P:
+1. Insulin pump use and hydration, monitor ABG/Na/K/Cl
+2. r/o CNS infection, Maxipime high dose use
+3. Arrange brain CT and lumbar puncture
+
+Treatment Goal: Fever subsided in 7 days. 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：無  
+雙腔導管留置：無  
+鼻胃管留置：無  
+氣管管路留置：無    
+胃造廔口：無  
+尿管留置：有 Two way Foley 16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：20
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：自己 兒子 女兒 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 其他，需註明原因 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+黃建華 主治醫師 

@@ -1,0 +1,63 @@
+Brief Summary of this week    
+After admission, diflucan, mepem and targocid were prescribed for infection control. CVVH was started for electrolyte imbalance. Levophed and dopamine were given for low blood pressure and dopamine was tapered off on 3/13. On 3/14, under relative stable BP and electrolytes, we shifted CVVH to SLED. However after SLED in 3/14 night, intermittent short-run VT with unstable blood pressure was noted in 3/15 morning. Cordarone infusion was given and followed EKG showed sinus rhythm with RBBB. QTc was 516 on 3/15 morning. Cardiac enzymes showed elevated CKMB to 6.05, CK 41, troponin I 0.08. Followed up EKG showed QTc 665 in 3/15 afternoon. We contacted CV man for medication adjustment. They suggest that arrythmia may related to electrolytes imbalance, infection and medication include difucan, cordaron and dopamine. There is no evidence of acute coronary syndrome currently. We stopped diflucan for the side effect of QTc prolong and no evidence of fungal infection and cordarone and avoid dopamine and medication that would cause QTc prolong. We contacted with nephrologist and dialysis fluid was adjusted. We also follow electrolytes regularly and keep them balance. Followed up QTc gradually declined to 506 on 3/18.
+  For infection control, we keep mepem and targocid. No fever was noted and lab data showed improving leukocytosis and CRP level. Lower blood pressure was noted on 3/16 and improved after albumin supplement and PRBC transfusion. We checked adrenal function on 3/15 which showed normal level. 
+  For gastrointestinal bleeding, we kept PPI. She could tolerate feeding since 3/14. No coffee ground, tarry or bloody stool was noted since 3/15. However, poor digestion was noted on 3/18 so we added laxatives agents and prokinetics agents. The digestion improves.
+抗癌藥品治療副作用 (化療) 無副作用
+
+癌症治療效果追蹤評估 Disease Status:
+Residual tumor / Recurrence / Metastases
+Treatment Response:Not evaluable 
+
+Problem Assessment Plan 1
+Assessment 
+[NE]
+GCS: E1M5Vt
+CN II: Visual field: threatening test -/-, Light reflex: L/R= trace/trace ; pupil 2.5mm/2.5mm
+CNIII，IV&VI： EOM: OCR +/+
+CN V- Sensory: symmetric to pain 
+CNVII：symmetric nasolabial folds, cornea reflex: +/+
+CNIX&X：cough reflex(+)
+CNXII: (intubated)
+Muscle power  generally 2-3
+DTR：
+  Right: biceps: +, triceps: +, brachioradialis: +, knee: +, ankle: -
+  Left: biceps: +, triceps: +, brachioradialis: +, knee: +, ankle: -
+Plantar response: no response on both sides   
+Sensation: symmetric to pain
+FNF/HNS: could not be performed by order
+[Culture]
+  03/19 S/C: Normal mixed flora
+[Course]
+3/12 
+- Targocid + mepem + diflucan for septic shock, focus on pneumonia
+- CVVH for electrolyte imbalance
+- levophed and dopamine for septic shock 
+- PPI and NPO for GI bleeding
+- FFP and PRBC for low Hb and coagulopathy
+3/14
+- CVVH-> SLED
+- FFP
+3/15
+- short-run VT in morning and recovered to sinus rhythm after cordarone use -> F/U EKG showed QT prolong around 660 -> stop cordarone
+- CV:
+1. VT may related to infection, electrolytes imbalance and medication 
+2. Keep K>4, Mg>1
+3. Avoid dopamine, amiodarone and stop diflucan
+4. Infection control
+5. No evidence of ACS but may have CAD and need follow up in long term
+- Nephro: would adjust dialysis fluid
+
+Plan 
+1. Keep SLED (qw1,3,5)
+2. For low BP:
+   -Add midodrine and try taper levophed
+   -High dose albumin supplement
+   -PRBC transfusion to keep Hb>10
+3. Avoid dopamine, cordarone and medication that would cause QT prolong. F/u EKG.
+4. Concor 1.25mg for heart rate control
+5. Keep mepem and targocid. Check S/C, B/C.
+   Consider bronchoscopy.
+6. Blood transfusion as needed 
+7. For seizure: Keppra 1000mg/d, Topamax 200mg/d, arrange EEG
+8. Primperan and dulcolax for ileus
+[DNR不電不壓]

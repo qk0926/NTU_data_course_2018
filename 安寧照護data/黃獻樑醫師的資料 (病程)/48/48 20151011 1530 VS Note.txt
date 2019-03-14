@@ -1,0 +1,28 @@
+Rapid shallow breathing was noted during T-piece breathing early during the SBT.
+Under ECPAP with fixed daily duration, but might be interrupted by treating infection..
+Fever, treated with antibiotics.
+2015/10/10 LacticAcid:2.52   mmol/L
+2015/10/10 WBC:13.45   K/£gL
+2015/10/10 HB:8.9   g/dL
+2015/10/10 PLT:276   K/£gL
+2015/10/10 PH:7.477   *
+2015/10/10 PCO2:32.2   mmHg
+2015/10/10 PO2:88.6   mmHg
+2015/10/10 HCO3:24.1   mmol/L
+
+2015/10/11 13:08 T:37.2 P:114 R:38
+2015/10/11 08:31 T:37.8 P:116 R:40
+2015/10/11 05:20 T:36.8 P:117 R:32
+2015/10/11 00:48 T:37.2 P:112 R:32
+2015/10/10 20:13 T:36.5 P:111 R:39
+2015/10/10 16:45 T:36.5 P:102 R:37
+2015/10/10 15:00 T:37.3 P:112 R:30
+2015/10/10 14:00 T:38.1 P:115 R:30
+2015/10/11 13:09 SpO2:100%(40%,L,Cannula)
+2015/10/11 08:31 SpO2:100%(40%,L,)
+2015/10/11 05:20 SpO2:100%(35%,L,VCR)
+2015/10/11 00:49 SpO2:100%(35%,L,VCR)
+2015/10/10 20:13 SpO2:100%(40%,L,)
+2015/10/10 16:45 SpO2:100%(40%,L,)
+2015/10/10 12:15 SpO2:100%(35%,L,VCR)
+2015/10/10 08:33 SpO2:100%(40%,L,)

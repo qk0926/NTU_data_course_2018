@@ -1,0 +1,19 @@
+This is a 60-year-old man with
+<Diagnosis>
+1. Coronary artery diseases, left main 80%stenosis and 3 vessel 
+   disease
+2. Congestive heart failure , NYHA III(EF:14.8%)
+3. Type 2 diabetes mellitus
+4. Essential hypertension
+
+<Assessment>
+2016/10/20 Extubation for withdraw
+1.
+2016/10/21 11:00 T:36.7 P:111 R:12
+2016/10/21 11:00 BP:108/68
+2016/10/21 11:00 SpO2:99%(%,L,)
+
+
+1.家人表示病人舒適就好,安寧緩和入住同意書給,建議同時排一般病床
+2.後事已備,院宣,提供助念團電話
+3.肯定家人之陪伴,太太表示簽撤除同意書時,病人有微笑３０分鐘,家人表示很欣慰,提醒臨終陪伴技巧

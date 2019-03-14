@@ -1,0 +1,51 @@
+The 100 y old woman
+
+<Diagnosis>
+1.New onset of fever, suspect nosocomial pneumonia with parapneumonic effusion
+2.Streptococcus bovis bacteremia [B/C x II], susp IE
+3.Right lung pneumonia with parapneumonic effusion
+4.Pyuria, suspect UTI, Enterobacter cloacae, Klebsiella pneumoniae and Enterococcus faecium 
+5.Acute on CKD
+6.History of respiratory failure status post tracheostomy since 2004/01 and on long-term ventilator support
+7.Congestive heart failure
+8.Anemia in chronic disease
+9.Sinus pause with escape junctional rhythm, status post permanent pacemaker (DDD) placement about 10+ years ago
+10.Old intracerebral hemorrhage over right parieto-occipital area in bed-ridden status
+11.Hyperthyroidism on medical control
+12.Hypertension
+13.Peripheral arterial occlusive disease status post left above-knee amputation in 2003
+14.Gallstone at the cystic duct
+15.Suspected right pelvic teratoma
+16.Suspect UGI bleeding 
+
+<Resp. problem>
+History of respiratory failure status post tracheostomy since 2004/01 and on long-term ventilator support
+
+<Assessment> 
+2016/10/26 10:49 GCS:E1M1VT
+2016/10/26 10:49 BP:106/49
+2016/10/26 10:49 T:36.3 P:77 R:18
+2016/10/26 01:18 Pain score:0
+
+Acceptable resp. pattern under home ventilator support
+
+
+<Plan>
+1.NG feeding 330ml/day on 10/22.NG feeding with bag about 100ml po qd and increase amount gradually.
+2.Seziure s/p Aleviatin
+3.Hyperthyroidism s/p Newmazole
+4.Taper Inhalation dose q12h of Siruta and Combivent on 10/25.
+5.Home ventilator with O2 4L/min-> Try O2 3L/min as needed.
+6.Constipation->Give Dulcolax 2# supp q8h since 10/24. Add Lactulose 20ml tid since 10/25.
+7.MV support [Home ventilator already use]
+8.DNR同意書(只有不電不壓]. Reconsult hospice combined care for preparing dying. [給高風險哀傷家屬輔導,做心理建設]
+9.Give Rasitol(20) 1/2 ivp qd if I/O positive over 500ml/day.
+
+會談:二女兒
+1.女兒表示不捨,但是以病人舒適為主,也確定不洗腎,覺得是因利尿劑給太多,所以傷身,引導身體之變化,利尿劑協助病人舒適,家人可以接受,肯定家人之努力。
+
+2.女兒表示近日10/3姑姑過世,10/18已出殯,享年96歲,因未婚所以女兒協助處理後事,過程也圓滿,提醒有時親友也會相繼過世,一起相聚,家人後事也都有準備.
+
+3.引導尊重病人的選擇,肯定家人的照護
+
+I agree with the assessment

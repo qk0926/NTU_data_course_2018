@@ -1,0 +1,7 @@
+<Active problems>
+1. In-hospital cardiac arrest, (initial rhythm: asystole), status post cardiopulmonary cerebral resuscitation for 3minutes, with return of spontaneous circulation, status post endotracheal tube intubation(2016/1/19~2016/1/22)
+2. Bilateral pleural effusion, suspect malignany pleural effusion with superimposed pneumonia
+3. Non small cell lung cancer, adenocarcinoma, EGFR wild type, with right supraclavicular lymphadenopathy, cT1bN3M0, stage IIIB, status post Alimta + Cisplatin (I) (2014/10/07)/renal insufficiency, status post Alimta + Carboplatin (IV) (2014/11/06-2015/01/16), status post Alimta (IX) (2015/02/06-2015/08/28) ; with bone metastasis, status post Alimta+Carboplatin (IV+III) (2015/10/02-2015/12/02), status post radiotherapy (2015/11/9-2015/11/20); with progressive disease, status post Paclitaxel (II)(2016/01/09)
+
+<Treatment course>
+After ICU admission, therapeutic hypothermia was not initiate due to clear consciousness. Tazocin was kept as empiric antibiotic. We perform pigtail insertion on left chest(1/20) and thoracocentesis on the right chest(1/21). The weaning process was smooth and extubation was performed smoothly on 1/22. His respiratory pattern remained smooth till now.

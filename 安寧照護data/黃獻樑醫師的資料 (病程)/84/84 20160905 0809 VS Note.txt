@@ -1,0 +1,17 @@
+Inform the family about the probability of recurrent respiratory failure due to poor airway hygiene and and clearance function.
+Post-tapping pneumothorax persisted.
+Consider thoracentesis for the air and effusion as clinical condition indicates.
+2016/09/05 04:37 SpO2:100%(40%,10L,Mask)
+2016/09/05 00:56 SpO2:95%(60%,10L,Mask)
+2016/09/04 20:19 SpO2:100%(40%,10L,Mask)
+2016/09/04 16:16 SpO2:97%(40%,10L,Mask)
+2016/09/05 04:36 T:36.3 P:89 R:24
+2016/09/05 00:56 T:36.8 P:100 R:29
+2016/09/04 20:19 T:36.6 P:100 R:26
+2016/09/04 16:15 T:36.9 P:73 R:27
+2016/09/04 11:40 T:36.3 P:70 R:29
+2016/09/04 08:49 T:36.1 P:88 R:22
+2016/09/05 04:37 BP:129/97
+2016/09/05 00:56 BP:145/78
+2016/09/04 20:19 BP:146/88
+2016/09/04 16:16 BP:132/57

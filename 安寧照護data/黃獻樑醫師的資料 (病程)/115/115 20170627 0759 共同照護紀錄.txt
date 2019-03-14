@@ -1,0 +1,37 @@
+[Doctor]
+1. Meningococcus meningitis, complicated with septic shock, 
+   lactic acidosis, conscious disturbance, and type IV 
+   respiratory failure, s/p ETT-MV (2017/6/11-), s/p CVVH 
+   (2017/6/11-2017/6/12)
+2. Ventilator associated pneumonia and ARDS, S/C: Neisseria 
+   meningitidis, Burkholderia cenocepacia
+
+Plan:
+1. For meningococcus meningitis and VAP
+ - Keep meropenem and Targocid; add Sevatrim and Colistin
+ - Pursue culture report
+ - Keep adequate sedation for better ventilator synchrony
+ - Monitor skin condition and wound care
+ - Keep ice blanket use
+ - Family refused invasive treatment
+ - Contact the social worker
+
+2. For SLE
+ - Keep Solumedrol 10mg Q12H; further immunotherapy after 
+   infection under control
+ - Keep Plaquenil
+
+[Pharmacist]
+1. Creatinine elevation, adjust ABX dose for renal function deterioated.
+
+[Respiratory  Plan]
+keep ventilator full support and iNO therapy by order
+
+
+[Nurse]
+1.oral ET tube with ventilator set PCV mode,keep chest percussion,suction prn.
+2.keep monitor consciousness.
+3.依醫囑感染控制，抗生素使用。
+4.鼻胃管存，反抽消化佳，keep feeding pump 900kcal/day。
+5.sedation中GCS:E2VTM1。
+[dietitian]

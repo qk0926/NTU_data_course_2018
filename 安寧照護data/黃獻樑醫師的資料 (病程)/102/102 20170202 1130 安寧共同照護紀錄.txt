@@ -1,0 +1,45 @@
+1. Right side lobar pneumonia (right upper lobe and right lower lobe), under antibiotic treatment
+2. Hypoxia respiratory failure, post BIPAP support (2017/1/17-01/24), post intubation (2017/01/24-)
+3. Non-small cell lung carcinoma, adenocarcinoma, left upper lobe, cT2aNoM1, stage IV, with bone metastasis, status post Afatinib (2015/10/12-),s/p palliative R/T to bone metastases(2016/5-2016/8), disease progression, under Cisplatin and Alimta C1D1 on 2017/01/04
+
+[Assessment]
+ECOG:4
+Consciousness:coma
+Vital signs:
+2017/02/02 08:03 T:36.6 P:126 R:15
+2017/02/02 08:03 BP:92/53
+2017/02/02 08:03 SpO2:93%(%,L,)
+#refractory hypoxic and hypercapnic respiratroy failure:
+keep Fentanyl/Dormicun and add Nimbex infusion
+
+[訪視摘要]
+會談對象:子女、配偶
+1. 病情認知調適評估
+訪視時醫療團隊住院醫師正與家屬討論病情及治療計畫，家屬表達撤除維生醫療意願。家屬了解病人經插管急救後病況仍無起色，了解目前處置是維生而非治癒性治療，選擇尊重病人過去意願，不希望再延長病人痛苦，因此決定撤除維生醫療。配偶較顯不捨，但經子女說明亦可了解病況經維生醫療仍持續惡化中。肯定過去治療歷程及家屬緩和醫療決策，強調撤除維生醫療及緩和照顧並非加速病人死亡，而是回復自然病程。
+2. 善終準備
+家屬表示已備妥後事及臨終更換衣物，預計臨終地點在醫院，重要親屬均已前來探視。鼓勵持續陪伴及引導四道人生。
+
+[Plan]
+1. 說明撤除維生醫療之目標並非立即導致死亡，撤除後病人依自然病程進入死亡。
+2. 說明照護之目標在於舒適與尊嚴。
+3. 確認即將撤除之項目為呼吸器及呼吸管路。
+4. 說明撤除維生醫療措施後病人可能症狀及緩解症狀藥物使用。
+5. 完成相關文件簽署:重新簽署DNR、撤除維生醫療同意書、說明撤除維生醫療家庭會議紀錄。
+6. 撤除維生醫療建議：
+-停止重症照護常規：包括抽血檢驗、影像學檢查、抗生素、血液透析、輸血
+-撤除維生醫療前措施:
+  a.暫停餵食、減少人工輸液
+  b.預防拔管後哮鳴: Solucortef 100 mg IV stat
+  c.預防死前喉鳴: Buscopan 20 mg IV stat 
+  d.疼痛與呼吸窘迫: Morphine 0.05-0.1mg/kg IV/SC stat, 
+    then 05-0.1mg/Kg/h IVA p.r.n.
+-撤除後維生醫療後措施:
+  a.疼痛、呼吸窘迫，給予適當止痛及鎮靜劑:
+     Morphine 0.05-0.1mg/kg IV/SC stat
+    then 0.05-0.1mg/Kg/h p.r.n.、Midazolam (0.05- 0.2 mg/kg) IV或SC stat，then 0.05-0.1 mg/kg/h p.r.n
+- 適當的給予家屬陪伴病人的空間及時間、哀傷輔導，引導四道人生。
+
+
+原團隊共同照護成員:邱賢菁護理師，醫師
+
+安寧共照N2謝慧貞

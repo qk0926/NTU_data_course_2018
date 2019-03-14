@@ -1,0 +1,80 @@
+Brief Summary of this week    
+[Please refer to "treatment course" for history before 6/30]
+After discussion, family signed DNR and favored not to receive emergent angiography if massive GI bleeding recurred. The hemodynamics was gradually improved with levophed tapered off and lower pitressin dose. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+No gross bloody stool
+Mildly decrease Hb level
+Prominent scrotal edema and hernia component;
+Keep tapering inotropic agnets;
+S/C: Elizabethkingia meningosepticum 1+ 
+          Stenotrophomonas maltophilia 1+
+but currently no signs of aggravation of infection
+=> keep current antibiotics
+<Antibiotics>
+Mepem    6/28- D5, for S/C PsA and GIBleeding suspected IAI
+Targocid 6/27- D6, for S/C MRSA
+Tazocin  6/23- D10, empirically for pneumonia
+
+<Respiration>
+PCV mode
+IP=16, PEEP=10, FiO2=35%
+-> TV=239, RR:16, MV:5.12, SpO2=100%
+
+<Physical examination>
+Consciousness: drowsiness, E4VtM5
+HEENT: grossly general edema, improved
+Chest: diffuse bilateral crackles 
+Heart: regularly heart beats, RUSB III/VI murmur
+Abdomen: hard and distended, right inguinal herina without local tenderness but not reducible
+Extremities: diffusely pitting edema, less
+
+<Inotropic agent>
+Pitressin 4->2ml/hr
+
+<Nutrition>
+NPO with PPN use
+
+<Culture report>
+6/23 B/C:neg 
+6/24 S/C:MRSA
+6/25 B/C:neg X 3
+     S/C PsA(WT)
+     S/S: GNB3+(intracellular),GPB1+
+6/29 S/C: Elizabethkingia meningosepticum 1+ 
+          Stenotrophomonas maltophilia 1+   
+
+<Important study findings>
+6/25 ACTH/Cortisol: 35.3/42.5, FT4/TSH:0.822/0.395
+6/28 CT: r/o colon cancer, proximal T-colon. Advise correlate with colonoscopy. Enlarged prostate. 
+Right inguinal hernia. Bilateral lower lung consolidation and pleural effusion.
+
+<Imporant consultation>
+6/27 GI: for CFS, scheduled on 6/28 PM oncall
+6/28 Radiologist: no obvious active bleeding, not suitable for TAE (TAE done with high risk of ischemic bowel), intussusception cannot be treated, suggest OP
+6/28 GS(VS梁): OP could be arranged if the family would known risk and try
+6/30 Hospice
+
+<Important patient's and family's decisions>
+6/25 口頭 DNR不電不壓
+6/28 Family decieded not to receive surgery. If clinical condition deteriorated, wish palliative care
+6/29 Family refuse surgery, consider no intervention if recurrent massive GI bleeding, also no hemodialysis if poor condition
+7/1  Family agree not to arrange TAE if massive GI bleeding
+Plan 
+1. Mepem for PsA pneumonia and possible IAI
+   (S/C PsA, Tazocin MIC 8)
+   Targocid for S/C MRSA
+2. Solucortef 150mg/day for suspect relative adrenal insufficiency 
+3. Ventilator support, monitor respiratory pattern
+-> Keep higher PEEP for lung edema
+4. Keep inotropic agent for shock, monitor hemodynamic, urine output, and renal function
+5. IV PPI use, hold plavix since 6/25
+-> monitor hemogram, beware of recurrent massive GI bleeding
+6. Consult hospice for palliative care.
+7. Informed poor condition and grave prognosis
+-> Suspect colon cancer, Poor heart-lung function, Sepsis, shock
+-> family confirmed DNR, will discuss about whether no aggresive management if recurrent massive GI bleeding
+8. Furosemide 20mg Q8H for fluid overload(both pulmonary and peripheral edema, increased BW)

@@ -1,0 +1,121 @@
+[Active]
+1. Japanese viencephalitis with respiratory failure, status post intubation and mechanical ventilation since 2017/07/08; status post Solu-Medrol pulse (750mg/day)(2017/07/11-17) and IVIg (2g/kg)(2017/07/13-17)
+[Inactive]
+2. Stress-induced cardiomyopathy, improved
+3. Leukopenia, suspected viral infection related or Tazocin related, improved
+4. Pneumonia, on Tazocin and then Maxipime (7/13-26), resolved
+
+[Treatment course]
+    On admission, he was E1VTM1, only OCR (+). Solu-Medrol pulse (750mg/day)(2017/07/11-17) and IVIg (2g/kg)(2017/07/13-17) were given. Oral prednisolone was given and tapered slowly. His neurological condition remained stationary. OCR became undectable but light reflex seemed to become trace. Following brain CT on 7/17 showed hypodensity at bilateral thalamus, medial temporal lobes and midbrain, a 0.7cm ICH at right thalamus, compatible with Japanese encephalitis. The repeated data sent to CDC showed positive IgM and negative IgG of Japanese encephalitis in both serum and CSF. Japanese encephalitis was comfirmed.
+    Pneumonia got controlled with Maxipime. However, d-dimer and FDP increased with slightly lowering fibrinogen. DIC was suspected, though no definite cause was found. 
+    EEG on 7/20 showed continuous generalized of diffuse slow waves at 3-6 Hz, 10-50uV, scattered triphasic sharp waves. Moderate to severe diffuse cortical dysfunction.
+    He developed polyuria and negative I/O, resulting in weight loss from 61 to 56 kg during ICU stay. Na level gradually declined. Either cerebral salt wasting or central DI was partly compatible. In the following week, his weight and I/O stablized. D-dimer remained around 8-11. EEg on 7/26 showed nearly continuous diffuse or generalized slow waves at 2-5 Hz, 40-100 uV.
+    Fever developed on 7/31, and subsided on 8/1. Procalcitonin was low. Family meeting was arranged on 8/2 and they decided to have witdrawal on 8/9. Fever was noted once again on 8/4, and subsided after antipyretics use. Lab data followed showed elevated ALT level. HBV and HCV checked on 8/4 showed negative finding. Hospice was consulted for further plans. We will keep observing and current plans.
+
+[Brief Summary]
+7/13 - To NTUH Taipei. E1VTM1, only OCR (+)
+     - IVIg 0.4g/kg/day
+     - Solu-medrol 250mg Q8H
+7/14 - Stationary
+7/17 - CT: Hypodensity at bilateral thalamus, medial temporal lobes and midbrain, a 0.7cm ICH at right thalamus, compatible with Japanese encephalitis
+     - Alb 2.2, no peripheral edema
+       D-dimer 7.34, fibrinogen 191
+     - CSF: TP 128.5, alb 61, LDH 127
+            RBC 3000, WBC 48 (all L)
+     - Predonine 6# BID (1 mg/kg) (7/17-)
+7/18 - Stationary
+     - CDC for JE (collected on 7/17): IgM (+), IgG (-)
+     - Fibrinogen 155, d-dimer 9.9, INR 0.98, Plt 282K, alb 2.2, ALT 135
+       => DIC-like data, suspected from liver disease
+7/20 - Taper Predonine 5# BID
+7/21 - Pupil 3/4.5
+       light reflex trace/-
+     - I/O 2512/4100(-1588)
+       BW 61.5 -> 56.8 kg
+       Na 142->135   Hb 35~32   Urine gravity 1.014
+       No diluted urine, hemoconcentration or hypernatremia
+     - d-dimer 12, FDP 34.7 DIC seemed to develop
+       Procalcitonin 0.07
+     - EEG on 7/20: Continuous generalized of diffuse slow waves at 3-6 Hz, 10-50uV, scattered triphasic sharp waves. Moderate to severe diffuse cortical dysfunction
+7/22 - BW 56.1 kg. I/O -208.
+       => Give salt 5g in diet. Reduce IV fluid
+     - Pupil 3 trace/4.5 trace
+7/23 - Stationary
+       Na 136
+       Hb 9.1, check stool OB
+       D-dimer 8.42
+7/24 - Occasional slight nystagmus
+     - 7/20 S/C: Acinetobacter nosocomialis 1+ (wild type)
+     - BW 54 kg, balnced I/O 
+       => Feed more
+7/25 - Stationary
+     - 7/20 S/C: CRKP few
+7/26 - EEG: nearly continuous diffuse or generalized slow waves at 2-5 Hz, 40-100 uV
+7/27 - OCR more easily demonstrated than before
+7/28 - Stationary
+7/29 - Stationary
+7/31 - Fever, low procalcitonin
+       Hb 8.7 => pRBC 1U
+       7/29 S/C: Acinetobacter nosocomialis 1+ 
+8/1  - fever, subsided 
+8/2  - family meeting and hospice care discussion
+       the family decided witdrawal
+8/3  - 家屬決定拔管日期: 8/9 10:00AM
+8/4  - Fever once. 
+8/5  - No fever. WBC 3.38K, ALT 239
+
+[Study]
+{CSF}
+7/08 WBC 254(L:N=68:32), RBC 48, TP 64, glu 64, LDH 23 
+     India ink(-), AFS(-), TB PCR(-)
+7/10 WBC 95 (L94N1), RBC 38, TP 94
+     Cytology(-), HSV DNA(-)
+     JVE IgM: undertermined; IgG: (-)
+7/17 WBC 48 (L48), RBC 3000, TP 128.5
+     JVE: IgM: positive; IgG: neg
+
+[NE]
+E1M1Vt
+Pupil: 3/3, L/R trace/trace
+EOM: disconjugated alignment, left eye lateral deviation
+with eyes roving, OCR(+/+)
+corneal reflex -/-
+cough(-)
+No trigger of respiration
+flaccid limbs, all MP=0 to pain
+
+{EEG}
+7/20: Continuous generalized of diffuse slow waves at 3-6 Hz, 10-50uV, scattered triphasic sharp waves. Moderate to severe diffuse cortical dysfunction
+7/26: This EEG reveals moderate to severe diffuse cortical dysfunction. Comparing with previous EEG on 2017/7/20, the frequency was slower
+
+{Serum}
+HIV(-), Syphilis RPR(-)
+Autoimmune: ANA/anti-dsDNA/RF/anti-ENA(-), C3(mild low)/C4 WNL
+Endocrine: T4 0.71, TSH 0.3670 
+Paraneoplastic/ antineuronal surface antibody: both negative
+CDC 7/10 JVE: IgM: undertermined; IgG: neg; 
+              PCR: possibly positive
+    7/17 JVE: IgM: positive; IgG: neg
+HBV(-) HCV(-)
+
+[Plan]
+1. Japanese encephalitis with brain edema:
+ - IVIg 2g/kg in 5 days (7/13-17)
+ - Solu-Medrol 100 mg Q8H --> 250 mg Q8H (7/12-17)
+ - Predonine tapering
+   2# QOD (8/2- )
+ - Keep other supportive care
+
+2. Pneumonia
+ - Tazocin and then Maxipime (7/13-26) for 14 days
+ - Monitor fever curve
+
+3. Elevated d-dimers, stable, cause?
+ - Monitor for signs of VTE or PE
+
+4. Hypoalbuminemia: 
+ - Alb supplement (7/20-22)
+
+5. DNR(除藥)已簽
+   家屬決定拔管日期: 8/9 10:00AM
+   Hospice combine care

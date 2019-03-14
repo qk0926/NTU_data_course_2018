@@ -1,0 +1,416 @@
+Admission Note 
+2016/06/25 02:32 
+主訴(Chief Complaint) 
+Informant:patient's family and medical record
+Progressive dyspnea in recent days 
+病史(Brief History) 
+This 90-year-olod male with
+1. Moderate aortic stenosis, complicated with acute lung edema and respiratory failure status post endotracheal intubation and ventilatory support (2014/03/13-2014/03/19), status post tracheostomy (2014/04/11)
+2. Adrenal insufficiency under Cortisone
+3. Coronary artery disease, left main+ 2-vessels disease
+4. Chronic atrial fibrillation with complete atrioventricular block status post pacemaker (VVIR) implantation, 2010
+5. Old cerebrovascular accident
+6. Vascular parkinsonism
+7. History of epilepsy
+8. Old pulmonary tuberculosis
+9. Microcytic anemia, Thalassemia and history of duodenal ulcer 
+10. Hypertension
+
+He became bed ridden since May 2014 with home O2 support. He was admitted to our hospital due to severe AS. The CAG showed LM-2VD, severe AS and mild AR on 2014/3/12. He was intubated due to post CAG pulmonary edema. However, progressive hypercapnic respiratory failure was noted and he was re-intubated. The tracheostomy was done on 2014/4/11. He had one episode of pneumpnia and became ventilator dependant since 2014/10/21. He became home ventilator dependant since then.
+His last admission was in Dec. 2015 due to pneumonia and upper GI bleeding. His clinical condition remained stable after discharge with home ventilator support. 
+     This tine, urine anount decrease with 4 limbs edema were noted in recent 2 days. Besides,  he had progressive dyspnea even under home ventilater support. The sputum amount also increased. Since that, he was brought o our ED. The initial vital signs were BP: 97/49mmHg, HR: 80/min, 
+RR: 20/min, BT: 37℃ and SpO2: 100％. Hemogram showed severe Hb: 4.1, WBC:18.48k, MCV:63.2 and PLT:407. Lab showed hyponatremia, Na:118, K:6.8 Cr:0.9 and Pro-BNP:9565. VBG were PH:7.406 CO2:30.4, O2:62 and HCO3:19.4. U/A was clean. The Ammonia level was 14 and LA was 2.18. CXR showed left side pleural effusion and bilateral pulmonary edema. Tazocin was administered empirically. Brain CT was done for conscious change and revealed brain atrophy, leudoaraiosis, and old infarct. Dopamine was administered support for suspected heart failure and AS. However, BP dropped was noted on 2016/6/24. Levophed was added. He was transferred to MICU for further management. 
+
+Family History: denied systemic or malignant history
+
+Medication Allergy:No  
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  
+Current Medication:
+NTUH:
+OPD CV高憲立 
+Aldactone 25 mg/tab	1 tab	QDPC	PO
+HARNALIDGE D 0.2 mg/tab	2 tab	QD	LZ
+75 Plavix 75 mg/tab	1 tab	QD	PO
+Sennapur 12.5 mg/tab	2 tab	HS	PO
+Gasmin 40 mg/tab	1 tab	TIDPC	PO
+Sinemet 25/100 /tab	1 tab	BID	PO
+Cortisone 25 mg/tab	1 tab	QDPC	PO
+Actein Effervescent Tablet 600 mg/tab	1 tab	BID	PO
+
+Other: nil
+中草藥: nil
+保健食品:nil
+Past Medical History:
+1. Moderate aortic stenosis, complicated with acute lung edema and respiratory failure status post endotracheal intubation and ventilatory support (2014/03/13-2014/03/19), status post tracheostomy (2014/04/11)
+2. Adrenal insufficiency under Cortisone
+3. Coronary artery disease, left main+ 2-vessels disease
+4. Chronic atrial fibrillation with complete atrioventricular block status post pacemaker (VVIR) implantation, 2010
+5. Old cerebrovascular accident
+6. Vascular parkinsonism
+7. History of epilepsy
+8. Old pulmonary tuberculosis
+9. Microcytic anemia, Thalassemia and history of duodenal ulcer 
+10. Hypertension
+Hospitalization:
+入院日期:2015_12_18 出院日期:2016_01_01 診斷:Patients requiring long-term use of a respirator due to respiratory failure use respirator 6 hours per day continue 30 days
+入院日期:2014_10_24 出院日期:2014_11_04 診斷:Fever
+入院日期:2014_08_17 出院日期:2014_10_21 診斷:Pneumonia
+
+Past Surgical History: 2014_04_11 Tracheostomy by dissection
+TOCC: lived at home, no contact or cluster history 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:大學
+職業:退休
+宗教信仰:佛教
+婚姻狀態:喪偶
+使用語言:國語 台語 
+口述血型:O，RH:不清楚，輸血反應:無
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:混淆
+認知功能:異常 時間障礙 地點障礙 記憶力障礙 計算能力障礙
+精神情緒狀態:異常 倦怠 其他 混淆
+安全問題:有 其他 預防跌倒及管路安全
+睡眠形態:異常 淺、易醒 日夜顛倒 
+
+Nutritional Screen
+攝食情形:
+排便狀態:異常
+排便異常狀態:其他
+其他排便異常狀態:班內未解便
+BMI:24.02
+
+Fall Risk Assessment
+總分:17
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)
+2.Skin: petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular: exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(+, in recent days), cough(+, in recent days), chest pain(-), hemoptysis(+, in recent days), productive cough(+), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(+), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(+), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(+)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH: 160 cm,  BW: 61.5 kg,
+T: 36.6 °C,  P: 82 bpm,  R: 20 /min,
+BP: 124 / 54 mmHg,
+Pain score: 0 ,
+
+Neurological Examination: 
+. Consciousness: clear, E4VtM6 
+. Muscle power: full
+. Gait: unable to walk
+
+‧Head-Eye-ENT: pale conjunctiva
+‧Neck Tracheostomy (+)
+Jugular vein engorgement(+)
+Thyroid goiter(-)
+Meningismus: Kernig sign(-); Brudzinski sign(-)
+Carotid bruit(-)
+‧Chest Symmetric expansion
+Bilateral coarse breath sounds, no stridor, no rhonchi
+‧Hear Irregular beat, grade 2 systolic murmur at LLSB
+‧Abdomen
+Soft but distended
+Bowel sound: normactive
+no tenderness
+Liver and spleen: impalpable
+‧Skin Abnormal pigmentation(-)
+Petechiae(-) Purpura(-) Ecchymoses(-) Telangiectasia(-)
+Rash(-) Plaque(-)
+‧Lymphadenopathy(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050625 [0113] 7.434         31.6          164.0         21.3          -3.2         
+               SO2          
+time/item      (%)          
+1050625 [0113] 99.5         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1050625 [0113] 1.14          5.3           16            4.20          124.1        
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               Na            K             Ca            Mg            P            
+time/item      (mmol/L)      (mmol/L)      (mmol/L)      (mmol/L)      (mg/dL)      
+1050625 [0058] 126           4.3           2.09          1.19          4.3          
+               AST          
+time/item      (U/L)        
+1050625 [0058] 38           
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050625 [0058] 18.01         3.22          6.9           22.8          70.8         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050625 [0058] 21.4          30.3          343           24.5          -            
+群組:General BioChemistry
+
+               LDH          
+time/item      (U/L)        
+1050625 [0058] 174          
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               Retic.        Retic.No.     IRF          
+time/item      (%)           (10^4/μL)     (%)          
+1050625 [0058] 3.47          11.21         20.1 (僅供參考)  
+
+
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050624 [0937] 7.398         37.1          38.8          23.1          -2.0         
+1050624 [2107] 7.399         36.6          54.2          22.8          -2.3         
+               SO2          
+time/item      (%)          
+1050624 [0937] 73.4         
+1050624 [2107] 87.9         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1050624 [0937] 1.18          8.7           26            5.44          126.5        
+1050624 [2107] 1.21          8.9           27            4.62          127.4        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1050624 [0937] 143           1.5          
+1050624 [2107] 144           1.1          
+*********檢驗室:RL***********
+
+群組:
+
+               Troponin-T    Mucus(S)     
+time/item      (ng/L)        (*)          
+1050623 [1650] 238.7                      
+1050623 [1701]               -            
+1050623 [2353] 213.0                      
+1050624 [2108] 203.1                      
+群組:General BioChemistry
+
+               Acid Fast     ALB           ALT          
+time/item      (*)           (g/dL)        (U/L)        
+1050623 [1650]                             54           
+1050624 [1008]               3.4                        
+1050624 [1044] Negative/300                             
+                OPF                                     
+1050624 [2108]               3.3                        
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ammonia N    
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)     
+1050623 [1650]               0.9           118           6.2           14           
+1050623 [2353]                                           5.3                        
+1050624 [1008] 78.1          0.8           121           5.2                        
+1050624 [2108]                                           4.6           22           
+1050624 [2114]                                                                      
+               Ca            LacticAcid   
+time/item      (mmol/L)      (mmol/L)     
+1050623 [1650] 2.04          2.18         
+1050623 [2353]                            
+1050624 [1008]                            
+1050624 [2108]                            
+1050624 [2114]               1.11         
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050623 [1650] 0.0           0.0           0.0           0.0           0.0          
+1050624 [2108] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050623 [1650] 93.2          0.0           0.1           3.5           3.2          
+1050624 [2108] 93.6          0.1           0.0           1.8           4.5          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050623 [1650] 0.0           0.0           0             -            
+1050624 [2108] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050623 [1650] 18.48         2.31          4.1           14.6          63.2         
+1050623 [2353] 19.66         2.75          5.5           18.8          68.4         
+1050624 [2108] 15.63         2.98          6.0           20.8          69.8         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050623 [1650] 17.7          28.1          407           21.5          -            
+1050623 [2353] 20.0          29.3          346           25.0          -            
+1050624 [2108] 20.1          28.8          361           24.6          -            
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1050623 [1701] 2-5           0-2           0-2           -             -            
+               Bacteria      Others(S)    
+time/item      (*)           (*)          
+1050623 [1701] -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1050623 [1701] 1.012         5.0           -             -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1050623 [1701] -             ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1050623 [1701] Yellow        -            
+群組:Yes
+
+               NT-pro BNP   
+time/item      (pg/mL)      
+1050623 [1742] 9565         
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050623 [1650] 7.409         30.4          62.0          19.4          -5.5         
+1050623 [2353] 7.361         39.2          38.6          22.4          -3.3         
+群組:STAIN
+
+               Gram's(GS)#1  Gram's(GS)#2  Gram's(GS)#3  Gram's(GS)#4  Gram's(GS)#5                                                                       
+time/item      (*)           (*)           (*)           (*)           (*)          
+1050624 [1044] Many PMNs(>=  Many epithel  G(+)cocci 1+  G(-)Bacilli   G(+)Bacilli  
+               25/LPF)       ial cells(>=                              2+            3+           
+                             25/LPF)                                                
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050623 [1643] 121          
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1050623 [1722] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1050623 [1722] O             Positive     
+
+*********檢驗室:B3***********
+B3-1050624-4068194   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Many PMNs ( >25 /LPF )
+     Gram's(GS)#2:       Few epithelial cells ( < 10 /LPF )
+     Gram's(GS)#3:       Gram (+) cocci 1+ 
+檢查紀錄(Examination Report) 
+Nil 
+影像報告(Imaging Report) 
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳雅芳 影像時間: 2016/06/24 21:15 (32001CYM) 發報告時間: 2016/06/24 21:36 EXAMINATION: Chest : AP View (Supine).
+FINDINGS:
+S/p tracheostomy s/p nasogastic tube insertion. S/p central venous line insertion from right neck. S/p pacemaker insertion from left. Cardiomegaly with tortuous aorta. Atherosclerotic calcification of aortic wall. Bilateral lung consolidations.
+CT Without Contrast-Brain 醫令: CT Without Contrast-Brain 報告醫師: 游治維 影像時間: 2016/06/23 17:46 (33070B0M) 發報告時間: 2016/06/23 20:23 EXAMINATION: CT scan without iodine contrast of brain
+FINDINGS: 
+- Cortical atrophic change with prominent sulci, fissures, and ventricles diffusely.
+- Decreased density over bil. periventricular white matters symmetrically, leukoaraiosis is likely.
+- Small hypodense foci at left periventricular white matter and right basal ganglion. Old infarct at the left cerebellum.
+- No evidence of intracranial hemorrhage.
+- Intact cranial vault and visible facial bones.
+- Clear bilateral paranasal sinuses.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 游治維 影像時間: 2016/06/23 17:07 (32001CYM) 發報告時間: 2016/06/23 21:58 status post pacemaker implantation; status post tracheostomy; status post placement of nasogastric tube; increased transverse cardisc distance; aortic wall calcification; increased infiltration(s) in both lungs; massive left pleural effusion; recommend clinical correlation and follow up. 
+病理報告(Pathology Report) 
+Nil 
+臆斷(Tentative Diagnosis) 
+1. Severe anemia, suspected GI bleeding, cause to be determined
+2. Suspected ventilator associated pneumonia
+3. Moderate aortic stenosis, complicated with acute lung edema and respiratory failure status post endotracheal intubation and ventilatory support (2014/03/13-2014/03/19), status post tracheostomy (2014/04/11)
+4. Adrenal insufficiency under Cortisone 
+5. Coronary artery disease, left main and 2-vessels disease
+6. Chronic atrial fibrillation with complete atrioventricular block status post pacemaker (VVIR) implantation, 2010
+7. Old cerebrovascular accident
+8. Vascular parkinsonism
+9. History of epilepsy
+10. Old pulmonary tuberculosis
+11. Microcytic anemia, Thalassemia and history of duodenal ulcer 
+12. Hypertension 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*1. Severe anemia, suspected GI bleeding, cause to be determined
+2. Suspected ventilator associated pneumonia
+3. Moderate aortic stenosis, complicated with acute lung edema and respiratory failure status post endotracheal intubation and ventilatory support (2014/03/13-2014/03/19), status post tracheostomy (2014/04/11)
+4. Adrenal insufficiency under Cortisone 
+5. Coronary artery disease, left main and 2-vessels disease
+
+-- This time
+baseline: bedridden, able to talk, home ventilator(+)
+2016/06/23 Urine decrease for 2days, 4 Limb edema 
+           and dyspnea (home ventilater use)
+           Conscious change this noon.
+           Increased sputum for days, no melena noted
+           Lab: Hb: 4.1, WBC:18.48k, MCV:63.2, PLT:407
+               Na:118, K:6.8 Cr:0.9, Pro-BNP:9565
+               VBG: PH:7.406 CO2:30.4, O2:62. HCO3:19.4
+               U/A: clean Ammonia:14 LA:2.18 
+               CXR: left side pleural effusion, 
+                    bilateral pulmonary edema 
+          Anti: Tazocin use
+          Brain CT for conscious change: 
+          Brain atrophy and leudoaraiosis.
+          Lacunes and old infarct.
+          Dopamine support for suspected heart failure& AS 
+2016/6/24 BP dropped, add Levophed
+          MICU admission
+
+P: 
+1. Keep Tazocin and pursue culture report
+2. Shift oral Cortisone to stress dose steroid; pursue ACTH and cortisol level
+3. Keep ventilator support and start weaning after clinical condition improved
+4. Start diuretic with rasitol 1amp Q8H; monitor urine output 
+5. Monitor hemogram and stool pattern; check reticulocyte index and iron profile; keep PPI first; hold plavix
+6. Arrange bedside echo and performed toracocentesis if possible
+
+Treatment Goal:
+Stablized his clinical condition in one week 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右鎖骨下 CVC
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 其他氣管管路 Bivona 8.0mm 
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：無
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：女兒 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+黃俊凱 主治醫師 
+ 

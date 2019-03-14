@@ -1,0 +1,77 @@
+Brief Summary of this week <4C1 RCC 9/24->
+After she was transfered to RCC ward, we adjusted the ventilator setting to PCSIMV mode and started protocolized weaning. However, tachypnea and abdominal paradoxical movement was noted. No desaturation or tachycardia was noted. We consulted ID specialist fot steroid use for suspected TB meningitis which was not indicated at this moment. We consulted NS doctor for conscious disturbance who suggested kept HERZ first due to the chronic hydrocephalus seldom cause conscious disturbance like  her clincial condition. The cancer progression was more likely. We informed the grave prognosis to her family. Fever was noted on 9/26 and the ceftazidime was administered on 9/26.
+
+Problem Assessment Plan 1
+Assessment 
+[Antibiotics]
+HERZ D26 (09/01-) for TB peritonitis
+Ceftazidime (9/26-) D1 for susepcted VAP? (S/C AB)
+
+Mepem (08/15-09/03)
+Vancomycin (08/15-08/22)
+Rocephin (08/10-08/15)
+-> 9/22 S/C: AB 1+(WT)
+
+[Ventilator]
+9/25 T-P 4hr QD 
+PC/SIMV-PS 
+IP:16 PS:8 PEEP:5 RR:2 FiO2:35
+Vt(spont/cont): 250-300/400, MV:7-8, RR:30, SpO2:100%
+
+-- 9/25 Tolerated T-P 2hr BID
+   Though tachypnea,RR 30-40 (baseline 25-30)
+   Intermittent abdomianl paradoxical movement 
+-- Still stupor consciousness
+-- Intermittent low grade fever, favor TB related
+   => Fever 38'c on 9/26, empiric Ceftazidime use
+
+[Weaning]
+2015/9/10 
+Weaning parameter :Pi max: -30 /Pe max:+30 /RR :44    
+                   VT :170 /VE :7.5 /RSI : 259 
+2015/9/13 T-piece 10 mins: tachypnea(RR 35-40 bpm)
+         -> VC/SIMV(10)+PS for rest.
+2015/9/16 Tracheostomy.
+2015/9/21 Try T-piece 50 mins: tolerable, mild SOB.
+2015/9/22 Try T-piece 90 mins: improved, mild SOB.
+2015/9/23 T-piece 25 mins: obvious paradoxical movement, RR>40 bpm.
+2015/9/25 T-P 2hr QD => RR: 35-45, paradoxical movement
+But no desaturation, no tachycardia
+=> Extended to T-P 2hr BID: tolerated
+2015/9/26 T-P 4hr QD
+
+[Diet] DM diet 1500Kcal/1500cc/day
+
+[Important studies]
+09/09 EEG: moderate diffuse cortical dysfunction with emphasis on the right side.
+
+[Image]
+09/03 Brain CT: s/p VP shunt placement with its tip in right frontal cranial fossa; hydrocephalus; old insults. 
+
+[Culture]
+08/10 Abdominal fluid accumulation aspirate culture: TB
+08/31 U/C: yeast 2000
+09/06 U/C: yeast 50000
+09/22 S/C: AB1+(WT)
+
+[Important intervention or newly added medication]
+08/10 CT-guide abdominal fluid accumulation drainage(75-80ml)
+09/01 HERZ (No steroid use due to suspected bacteria infection and V-P shunt(+))
+09/16 Tracheostomy
+
+[Important consultation]
+2015/9/25 ID: No need for steroid use for suspected TB meningitis at this time point
+2015/9/25 NS: no need for further brain image at this point, the hydrocephalus was less likely the cause of conscious change. The underline cancer progression was impressed. VP shunt revision also not indicated for TB infection.
+2015/9/25 Dr.¦ó»F°ò: chemotherapy was not suitbale for her
+
+[Important family decision]
+
+Plan
+1. Keep HERZ for TB peritonitis, watch out for side effects.
+   Pursue CSF TB culture result(9/5)
+2. Weaning gradually, under PC/SIMV-PS; 
+   Proceed to TP 4hrs QD on 9/26; monitor RR pattern closely
+3. Empiric ceftazidime for VAP (9/22 S/C AB(WT))
+4. DM diet 1500Kcal/1500cc
+   Monitor digestion and stool character
+5. Inform poor prognosis and neurological outcome.

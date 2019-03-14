@@ -1,0 +1,260 @@
+2016/03/02 14:33 
+主訴(Chief Complaint) 
+Informant:patient's daughter in law
+Purulent sputum and dyspnea for days 
+病史(Brief History) 
+[Present illness]
+  This 88-year-old man has medical history of 
+1. Dementia
+2. Right femor fracture, status post operation on 2016/1/20
+3. Status post subtotal gastrectomy?? unknown cause many years ago
+4. Cataract, status post operation
+
+He was ADL dependent at home but could walk with assitance until that he fellw down and suffered from right femur fracuture on 2016/1/19. He received ORIF at NTUH on 1/20. He was bedridden and lived in nursing house since then.
+
+Purulent sputum was noted at nursing house these days and dyspnea, increasing O2 demand developed gradually. They denied aspiration or fever. He was sent to 華揚 hospital where pneumonia was diagnosed by CXR. he was then transferred to NTUH by families' request. He was sent to our ER on 2/26 where initial vital signs were T/P/R: 37.2/112/20, BP:142/76, SpO2:99%. EKG revealed sinus tachycardia with biphasic T wave over V1-V3 leads. Blood tests showed leukocytosis(WBC:16K/mcl), negative influenza rapid test. CXR revealed RLL pneumonia patch. Under the impression of HCAP, Tazocin was given empirically and he was admitted for further care.
+
+[Past history]
+Family History: not contributory
+Smoke: +, quit for years, alcohol: sometimes, betalnut: denied
+Medication Allergy:No  親屬描述 2016/01/20
+No  親屬描述 2016/01/19
+No  親屬描述 2016/02/27
+No  親屬描述 2016/03/02
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  親屬描述 2016/01/20
+No  親屬描述 2016/01/19
+No  親屬描述 2016/02/27
+No  親屬描述 2016/03/02
+Current Medication:
+NTUH:TAZOCIN (based on piperacillin content) 2000 mg/vial 3000 mg Q6H IF 4 days
+Other: denied 
+中草藥: denied 
+保健食品: denied
+Past Medical History:
+Hospitalization:入院日期:2016_01_19 出院日期:2016_01_29 診斷:Displaced intertrochanteric fracture of right femur, initial encounter for closed fracture
+
+Past Surgical History:2016_01_20  ORIF with Compression hip screw (華威), 135 degree, 4_Holes, 4 screws, and antirotation 7.0 cannulated screw X1
+cataract, s/p OP. s/p subtotal gastrectomy? 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:小學
+職業:無
+宗教信仰:無
+婚姻狀態:已婚
+使用語言:客家語 
+口述血型:O，RH:不清楚，輸血反應:
+抽煙:沒有，已戒煙:6年
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:混淆
+認知功能:異常 人物障礙 時間障礙 地點障礙 記憶力障礙 計算能力障礙
+精神情緒狀態:異常 焦慮 淡漠 
+安全問題:有 其他 fall down
+睡眠形態:正常  
+
+Nutritional Screen
+攝食情形:佳，攝食75%
+排便狀態:正常
+BMI:18.37
+
+Fall Risk Assessment
+總分:13
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1. Systemic: no weight loss, no easy-fatigability, no night sweats, fair appetite.
+2. Skin: no petechiae, no purpurae, no skin rash, no itching.
+3. HEENT: no headache, no dizziness, no blurred vision, no strabismus, no otalgia, no otorrhea, no hearing impairment, no tinnitus, no vertigo, no nasal stuffiness, no nasal discharge, no epistaxis, no gum bleeding, no throat discomfort, no oral ulcer.
+4. Cardiovascular: no exertional chest tightness, no nocturnal dyspnea, no orthopnea, no syncope, no palpitation, no intermittent claudication
+5. Respiratory: no dyspnea, Productive cough with yellowsih sputum for days, no chest pain, no hemoptysis, no pleuritic chest pain
+6. Gastrointestinal: no anorexia, no nausea, no vomiting, no dysphagia, no heartburn, no acid regurgitation, no abdominal fullness, no midnight pain, no constipation, no diarrhea, no melena, no change of bowel habit, no small caliber of stool, no tenesmus, no flatulence
+7. Urogenital: no flank pain, no hematuria, no urinary frequency, no urgency, no dysuria, no hesitancy, no nocturia, no polyuria, no oliguria 
+8. Musculoskeletal: no pain, no weakness of limbs, no myalgia, no weakness, no back pain
+9. Metabolic: no heat intolerance, no cold intolerance, no thirsty
+10. Nervous: no numbness, no paresis/plegia 
+身體檢查(Physical Examination) 
+BH:165 cm   BW:50 kg
+T:36 P:87 R:18
+BP:115/49 mmHg
+Pain:0
+
+Neurological Examination:
+. Consciousness: drowsy, E3V1M4-5
+. Muscle power: > 3
+. Gait: not performed
+
+‧General apperance
+‧Head-Eye-ENT
+  Conjunctiva: pink
+  Sclera: anicteric
+‧Neck
+  No jugular vein engorgement
+  No thyroid goiter
+  No Kernig sign; No Brudzinski sign
+  No carotid bruit
+‧Chest
+  Thoracic cage contour: normal, symmetric
+  Vocal fremitus and expansion: symmetric
+  Percussion: resonant
+  Decreased BS at RLL   
+  No wheezes, rhonchi, or stridor
+‧Heart
+  No LV lift, no RV heave
+  Heart beat: regular
+  Murmurs: no murmur
+‧Abdomen
+  Flat & soft
+  No distension of abdomen
+  No shifting dullness
+  No superficial vein engorgement
+  No protruded umbilicus
+  Bowel sound: hypo-active
+  No abdomen tenderness. No hepato-jugular reflux
+‧Skin	
+  No petechiae, purpura, ecchymoses, or tenlagiectasia
+  No rash
+  No wound
+‧Extremities
+  No edema
+‧Lymphadenopathy
+  No palpable lymph node 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:VF***********
+
+群組:Yes
+
+               Influenza A+ 
+               B Rapid Scre 
+               ening Test   
+time/item      (*)          
+1050227 [1921] Negative     
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               BUN           CRE           Na            K             CK           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (U/L)        
+1050226 [2157] 29.7          0.6           147           4.9           184          
+1050227 [1939]                                                                      
+1050228 [1042]               0.8           148           3.6                        
+               Troponin I   
+time/item      (ng/mL)      
+1050226 [2157] 0.155        
+1050227 [1939] 0.108        
+1050228 [1042]              
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050226 [2157] 7.375         45.1          30.1          26.6          1.1          
+1050227 [1939] 7.439         38.6          61.1          26.4          2.0          
+群組:
+
+               CK-MB        
+time/item      (ng/mL)      
+1050226 [2157] 2.84         
+群組:Yes
+
+               hsCRP         NT-pro BNP   
+time/item      (mg/dL)       (pg/mL)      
+1050226 [2157]               1563         
+1050228 [1042] 18.65                      
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1050226 [2157] 15           
+1050228 [1042] 24           
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050226 [2157] 0.0           0.0           0.0           0.0           0.0          
+1050228 [1042] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050226 [2157] 89.4          0.1           0.1           3.9           6.5          
+1050228 [1042] 87.0          0.0           0.0           2.0           11.0         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050226 [2157] 0.0           0.0           0             -            
+1050228 [1042] 0.0           0.0           0.0 /100 WBC  WBC 100                    
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050226 [2157] 16.27         4.37          13.0          39.9          91.3         
+1050228 [1042] 14.04         3.53          10.2          32.5          92.1         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050226 [2157] 29.7          32.6          351           16.4          -            
+1050228 [1042] 28.9          31.4          370           15.8          -            
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050226 [2150] 125 
+檢查紀錄(Examination Report) 
+EKG: ST, 115bpm, biphasic T at V1-V3 leads 
+影像報告(Imaging Report) 
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 施怡倫 影像時間: 2016/02/27 19:22 (32001CYM) 發報告時間: 2016/02/27 20:00 EXAMINATION: Chest : AP View (Supine)
+FINDINGS:
+Normal heart size with calcified aorta. Bilateral lung consolidation.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 施怡倫 影像時間: 2016/02/26 22:01 (32001CYM) 發報告時間: 2016/02/27 11:42 EXAMINATION: Chest : AP View (Supine)
+FINDINGS:
+Normal heart size with calcified aorta. Patchy consolidation over bilateral lungs, more on the right side. Right pleural effusion. 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1. Health-care acquired pneumonia
+2. Dementia
+3. Right femor fracture, status post operation on 2016/1/20
+4. Status post subtotal gastrectomy?? unknown cause many years ago
+5. Cataract, status post operation 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*
+S: Productive cough, dyspnea for days
+O:
+[PE]
+HEENT: pink conjunctiva
+Heart: RHB, no murmurs
+Chest: Decreased BS over RLL, no wheezing
+Abdomen: Soft, hypoactive BoS
+Extremity: no edema
+
+[Lab]
+WBC:16K > 13K
+
+[CXR]
+RLL patch, in progression
+
+A:
+1. Keep Tazocin and recheck S/C. Intensive chest care and mucolytic therapy
+2. Inform the risk of respiratory failure. The families decided DNR for all
+
+Treatment Goal: Treat pneumonia 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有  右腳
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：無    
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：安養/療養院 
+預期出院後主要照顧者：兒子 媳婦 
+出院規劃收案篩檢：高危病患 需轉介後續照護機構 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+柯博升 主治醫師 

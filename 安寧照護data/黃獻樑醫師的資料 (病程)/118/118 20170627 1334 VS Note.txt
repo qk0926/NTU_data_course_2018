@@ -1,0 +1,42 @@
+This 67 y/o man
+#. Type 1 respiratory failure on NRM
+#. Pneumonia
+#. Lung squamous cell carcinoma, right upper lobe,T2aN2M0, stage IIIA, s/p curative
+radiotherapy for right upper lobe lung tumor & right hilar/mediastinal lymphadenopathies (2016/12/28-2017/02/06), s/p navelbine(D1,D8)+cisplatin(D8) (C1D1=2017/02/17, C1D8=2017/02/24, C2D1=2017/03/09, C2D8=2017/03/16, C3D1=2017/03/31, C3D8=2017/04/09)
+#. Idiopathic pulmonary fibrosis, under nintedanib (OFEV)
+#. Coronary artery disease, one-vessel-disease
+
+DNR(+)
+Baseline home oxygen therapy
+
+Visiting our ER on 6/26 due to de-saturation and shortness of breath found at home since 6/25
+Upon arrival, he had respiratory distress, de-saturation, SpO2 65% under ambient air, tachypnea, tachycardia, and low grade fever, BT 37.6¡¦C
+
+Rhinorrhea several days before but no sore throat or high fever
+TOCC(-)
+Empiric antibiotic therapy of piperacillin/tazobactam and levofloxacin(6/26-)
+NRM was applied and oxygenation stabilized. 
+(6/26) Chest HRCT: RUL lung cancer, much smaller. Idiopathic pulmonary fibrosis. Pulmonary infection/inflammation.
+
+(6/26) S/S PMN>25/HPF, Epi>25/HPF, S/C normal mixed flora
+(6/26) Sputum PJP result pending
+(6/27) S/S PMN>25, Epi 10-25, G(-) cocco-bacilli
+OPD medication: Spiriva(LAMA) and Striverdi(LABA)(highly selective long activing beta 2 agonist); prednisolone 10mg qd
+
+Now consciousness awake and aware
+BT 36.2'C, PR 110/min, RR 38/min, SpO2 93% under NRM 15L/min
+No paradoxical motion of respiration
+Crackles over bilateral lung field
+Nomoactive bowel sounds
+
+Small amount oral intake, denied obvious choking
+
+Plan
+. DNR(+) 
+. Keep NRM 15L/min
+. Watch out choking 
+. Keep empiric antibiotic therapy of Tazocin and Cravit
+. Keep SoluMedrol 20mg q8h(6/26-)
+. Keep contact isolation, MDRAB identified in 2016/11, further exam 
+. Keep aspirin
+. Check stool OB

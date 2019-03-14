@@ -1,0 +1,37 @@
+# Septic and cardiogenic shock
+# fungemia, CRBSI or intra-abdominal bacterial translocation related, complicated with septic shock
+# Tracheostomy bleeding, chronic granulation tissue related
+# Seizure, sepsis and electrolyte imbalance related
+# Recurrent vantilator associated pneumonia
+# urinary tract infection, catheter related, urine culture: candida albicans
+# Suspected colon cancer, with lower GI bleeding, complicated with hypovolemic shock
+# Recurrent right pleural effusion
+# Moderate aortic stenosis, complicated with acute lung edema and respiratory failure status post endotracheal intubation and ventilatory support (2014/03/13-2014/03/19), status post tracheostomy (2014/04/11)
+# Adrenal insufficiency under Cortisone
+# Coronary artery disease, left main+ 2-vessels disease
+# Chronic atrial fibrillation with complete atrioventricular block status post pacemaker (VVIR) implantation, 2010
+# Old cerebrovascular accident
+# Vascular parkinsonism
+
+E2VtM4
+FiO2=0.5
+Shock on high dose levophed
+CXR: massive right pleural eefusion
+
+Mepem + Colistin + Targocid + Micafungin
+Inform family the critical condition
+Old age, multiple comorbidities and poor consciousness, discuss with family about treatment goal
+
+[Pharmacist]
+Keep TPN as nutrition support, add trace element today.
+
+[護理師]
+on氣切套管8.0Fr. low pressure tube with ventilator use，FiO2：35%，SpO2：92~97％，痰液量中黃紅稠，NG tube存續NPO除藥外因try D5W 100ml q6h po時又開始解tarry stool，現TPN run 55ml/hr；foley tube存尿量中色黃；右胸pig-tail fix 16cm存  drainage 200~300黃清液 QD；目前生命徵象穩定。keep observations vital signs. 
+
+ [RT]
+<Plan>
+<Plan>
+1. Keep MV full support.
+2. Keep infection control
+3. Prepare ward transfer if condition stable 
+[dietitian]

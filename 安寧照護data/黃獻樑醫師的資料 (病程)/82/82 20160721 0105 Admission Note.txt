@@ -1,0 +1,402 @@
+2016/07/21 01:05 
+主訴(Chief Complaint) 
+Informant:patient and previous medical records
+General weakness and poor appetite for one month. 
+病史(Brief History) 
+[Present illness]
+  This is a 73-year-old man with a history of hypertension; type 2 diabetes mellitus; end-stage renal disease, associated with diabetic nephropathy, under peritoneal dialysis since 2008; peripheral artery occlusive disease(PAOD) of bilateral lower extremeties, status post percutaneous transluminal angioplasty(PTA) for 3 times in 2016, with right foot gangrene and recurrent cellulitis; coronary artery disease; and gastric ulcer found on the panendoscopy in 2016/01. He was ambulatory until late 2015, when intermittent claudication progressively developed, possible associated with PAOD, and has been almost bed-ridden since around 2016/03 due to the painful gangrene of right foot. He was just hospitalized to our cardiology ward during 2016/07/08-07/10 for the third PTA procedure.
+  In the recent one month, he complained of insidious-onset general weakness and malaise, accompanied with intermittent nausea sensation and poor appetite. There were no new episodes of fever, shortness breath, chest tightness, abdominal pain, or tarry stool. The urinary symptom was non-contributory as he has no urine output shortly after receiving regular peritoneal dialysis. The dialysate effluent was clean and not turbid. The right foot gangrene with recurrent cellulitis still fluctuated off and on, so he just underwent local debridement on 2016/07/18 at our plastic surgery clinic with further treatment of oral antibiotic(Cephlexin) and wound dressing changing instead of aggressive amputation. On the serial blood test at our clinic, persistently hypoalbuminemia was present since early 2016, around 2.0g/dl; along with newly-developed hypocalcemia in the recent one month since late 2016/06. Reviewing his recent medical history, he just received Prolia(Denosumab) injection to correct osteoporosis during the orthopedic clinic visit on 2016/06/20. Denosumab-related hypocalcemia was thus highly suspected. He reportedly felt better after albumin and calcium supplement during last admission, but the discomfort soon recurred after discharge. Therefore, he visited our emergency department(ED) on 2016/07/19. At triage, the blood pressure was 125/58mmHg, the pulse rate 136/min, the respiratory rate 20/min, the temperature 36.8'C, and the SpO2 96% while breathing ambient air.
+The physical examinations was remarkable for tachycardia on auscultation and bilateral lower legs pitting edema. The laboratory study revealed mild leukocytosis(WBC:10.15K/uL, seg:84.2%), anemia(Hb:6.5g/dl, while the baseline around 8-9g/dl), and hypocalcemia(Ca:1.7mmol/L, corrected). The dialysate effluent analysis was unremarkable(TNC:5). The EKG showed sinus tachycardia, which was stationary compared with previous exams since 2016/01. The abdomen radiograph showed no evidence of free air and increased bowel gas in the abdomen. The chest radiograph showed no active lung lesions. Albumin and calcium supplement were given accordingly, along with blood transfusion(pRBC 2U) to correct anemia. He was subsequently admitted to our nephrology ward on 2016/07/20 for further management.
+
+[Past history]
+1. Peripheral artery occlusive disease of bilateral lower extremeties, status post
+percutaneous transluminal angioplasty(PTA) to right superior femoral artery on
+2016/03/18, status post PTA to right anterior tibial artery and right posterior tibial artery on 2016/04/06, status post PTA to right anterior tibial artery and right superficial femoral
+artery, anterior tibial artery, posterior tibial artery and left common iliac artery on
+2016/07/08
+2. Right foot ganrene, with recurrent cellulitis
+3. Coronary artery disease
+4. End-stage renal disease, associated with diabetic nephropathy, under peritoneal dialysis since 2008/09/17
+5. Type 2 diabetes mellitus, with nephropathy and retinopathy, HbA1c 5.3% on 2016/05/23
+6. Hypertension, without medical control
+7. Gastric ulcer and gastroesophageal reflux disease since 2016/01
+
+[Surgical history]
+1. Left femoral intertrochanteric fracture, status post open reduction internal fixation(ORIF) on 2016/04/12
+2. Lung tumor, status post wedge resection at the age of 50s
+
+[Family history]
+1. No known malignancy among family members
+
+[Allergy history]
+Medication Allergy:No 親屬描述 2016/07/20
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No 親屬描述 2016/07/20
+
+
+[Current medication]
+1. For PAOD and recurrent cellulitis:
+ - Cephalexin 250 mg/cap 1 cap Q12H
+ - Pletaal 100 mg/tab 1 tab BIDAC30
+ - Plavix 75 mg/tab 1 tab QD
+2. Others:
+ - Ultracet 1 tab Q6H
+ - Protase EC /cap 1 cap BID POMEAL
+ - Alpraline 0.5 mg/tab 1 tab PRN
+3. For gastric ulcer:
+ - Takepron OD 30 mg/tab 1 tab QDAC
+4. For ESRD:
+ - Recormon 2000 IU/0.3 mL /syrg 2000 IU Q3D
+ - Dianeal LC 2.5% 5 L/bag (5202)/ Dianeal LC 1.5% 5 L/bag (4826)
+ - Radi-K 595 mg/tab (2.54 mEq of K) 3 tab TIDPC
+ - Onealfa (VIT.D3) 1 mcg/tab 1 tab QW
+ - B.C. /cap 1 cap QDAlpraline 0.5 mg/tab 1 tab PRN PO 28 days
+5. For DM:
+ - NovoMIX FlexPen 300 U/3 mL /pen 4-5U BIDAC
+ - Trajenta F.C. 5 mg/tab 1 tab QD 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:高中
+職業:退休
+宗教信仰:無
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:B，RH:不清楚，輸血反應:無
+抽煙:沒有，已戒煙:20年
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:警醒
+認知功能:正常 
+精神情緒狀態:異常 倦怠 焦慮 
+安全問題:有  跌倒
+睡眠形態:異常 淺、易醒 
+
+Nutritional Screen
+攝食情形:差，攝食50%以下
+排便狀態:正常
+BMI:20.17
+
+Fall Risk Assessment
+總分:11
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+.Systemic: weight loss(-), easy-fatigability(+), night sweats(-)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular:  exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(-), cough(-), chest pain(-), hemoptysis(-), productive cough (-), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(+), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH: 170 cm,  BW: 58.3 kg,
+T: 36.8 °C,  P: 132 bpm,  R: 19 /min,
+BP: 132 / 70 mmHg,
+Pain score: 0 ,
+
+HEENT: grossly normal
+ Eyes: Conjunctivae: pale; Sclerae: anicteric
+       Pupils: isocoric; Light reflexes: R/L: +/+; Extraocular movement: full and free
+Neck: supple; no jugular vein engorgement; no palpable lymph node; no goiter; no carotid bruit
+Chest: symmetric expansion; clear breath sounds; no crackle; no wheezing; no rhonchus; no stridor
+Heart: regular heart beats; tachycardia; no murmur
+Abdomen: flat; normoactive bowel sounds; soft; no tenderness; no rebound tenderness
+         no Murphy's sign; liver/spleen: impalpable
+Back: no knocking tenderness at costovertebral angles
+Extremities: freely movable; 1+ pitting edema at bilateral lower legs
+             gangrene change at right foot; pedal pulses: R/L, -/- (but warm)
+Skin: Abnormal pigmentation(-), skin rash(-),Petechiae(-) Purpura(-) Ecchymoses(-) Telangiectasia(-) Dry skin turgor
+
+[ Neurological examination ]
+Consciousness: alert
+Glasgow Coma Scale: E4M6V5
+Muscle power: Right: upper limb: 5; lower limb: 5
+              Left: upper limb: 5; lower limb: 5
+Gait: mostly bed-ridden
+Swallowing function: no dysphagia
+Suspicious cog-wheel rigidity of bilateral upper limbs 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050708 [1709] 122          
+1050708 [2055] 202          
+1050709 [0544] 212          
+1050709 [1646] 197          
+1050709 [2127] 201          
+1050710 [0559] 198          
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050708 [0859] 7.82          2.82          7.8           23.8          84.4         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1050708 [0859] 27.7          32.8          375           14.8          -            
+*********檢驗室:BC***********
+
+群組:DM
+
+               GLU AC       
+time/item      (mg/dL)      
+1050708 [0859] 115          
+群組:General BioChemistry
+
+               AST           UN            CRE           UA            Na           
+time/item      (U/L)         (mg/dL)       (mg/dL)       (mg/dL)       (mmol/L)     
+1050708 [0859] 20            41.0          6.6           5.7           134          
+               K             TG            T-CHO         LDL-C        
+time/item      (mmol/L)      (mg/dL)       (mg/dL)       (mg/dL)      
+1050708 [0859] 2.9           95            107           62           
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1050708 [0903] B             Positive     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1050708 [0903] Negative     
+*********檢驗室:RL***********
+
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050708 [1936] 7.464         32.4          38.3          23.5          -0.6         
+群組:General BioChemistry
+
+               ALB          
+time/item      (g/dL)       
+1050708 [1936] 1.6          
+群組:Biochemistry
+
+               Cl            Ca            Mg            P            
+time/item      (mmol/L)      (mmol/L)      (mmol/L)      (mg/dL)      
+1050708 [1936] 92            1.16          0.59          2.8          
+
+*********檢驗室:BC***********
+
+群組:DM
+
+               GLU AC       
+time/item      (mg/dL)      
+1050718 [1702] 87           
+群組:General BioChemistry
+
+               Alb           TP            AST           ALT           ALP          
+time/item      (g/dL)        (g/dL)        (U/L)         (U/L)         (U/L)        
+1050718 [1702] 2.0           6.0           18            13            151          
+               UN            CRE           K             Ca            P            
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)      
+1050718 [1702] 37.6          6.5           3.2           1.28          2.2          
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1050718 [1702] 9.0          
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050718 [1702] 9.31          2.21          6.3           19.2          86.9         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1050718 [1702] 28.5          32.8          338           17.1          -            
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1050704 [1020] B             Positive     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1050704 [1020] Negative     
+
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050719 [2126] 161          
+1050720 [1559] 225          
+*********檢驗室:RL***********
+
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050719 [2126] 7.450         37.3          27.8          26.2          1.9          
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ca           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1050719 [2126] 39.9          6.7           133           3.5           1.33         
+1050720 [0530]                                                         1.38         
+               Mg            P            
+time/item      (mmol/L)      (mg/dL)      
+1050719 [2126] 0.69          2.7          
+1050720 [0530]                            
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1050719 [2126] 13           
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1050719 [2126] 8.7          
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050719 [2126] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050719 [2126] 84.2          1.0           0.2           6.2           8.4          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050719 [2126] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050719 [2126] 10.15         2.28          6.5           20.1          88.2         
+1050720 [0530] 9.29          2.59          7.7           23.4          90.3         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050719 [2126] 28.5          32.3          281           17.2          -            
+1050720 [0530] 29.7          32.9          230           16.4          -            
+*********檢驗室:OP***********
+
+群組:Punctate Exam.
+
+               Sp. Gr.(A)    Rivalta's(A)  Total nuclea  RBC count     Sediment-Eos               
+                                          r cell count                in           
+                                          (TNC)                                    
+time/item      (*)           (*)           (/μL)         (/μL)         (%)          
+1050719 [2312] 1.007         -             5             0             0            
+               Sediment-Lym  Sediment-M&H  Sediment-Neu  Sediment-Not                                           
+                                                       e            
+time/item      (%)           (%)           (%)           (*)          
+1050719 [2312] 80            20            0             N/A          
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1050719 [2126] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1050719 [2126] B             Positive 
+檢查紀錄(Examination Report) 
+nil. 
+影像報告(Imaging Report) 
+Abdomen:Standing 醫令: Abdomen:Standing 報告醫師: 陳邦斌 影像時間: 2016/07/20 09:41 (32007CZM) 發報告時間: 2016/07/20 09:51 blurring of bilateral psoas shadows. no evidence of free air. increased bowel gas in the abdomen. retention of some contrast media in the bowel loops. calcification(s) in the pancreas. scoliosis of the spine. thoracolumbar spondylosis with marginal spur formation at multiple levels. atherosclerotic change of the abdominal aorta and its bifurcation. retention of drainage tube(s) in the pelvic cavity.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳若瑀 影像時間: 2016/07/19 21:50 (32001CYM) 發報告時間: 2016/07/20 10:51 normal heart size. aortic wall calcification. post-operative change at bilateral upper lung zones with mild fibrotic change.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 李怡範 影像時間: 2016/07/08 09:03 (32001CXM) 發報告時間: 2016/07/08 10:29 normal heart size. atherosclerotic calcification of aorta. post-operative change at the right upper lung field. fibrotic change at left upper lung field. 
+病理報告(Pathology Report) 
+nil. 
+臆斷(Tentative Diagnosis) 
+1. Hypocalcemia, possibly associated with Denosumab injection
+2. Anemia, associated with end-stage renal disease and gastric ulcer
+3. Peripheral artery occlusive disease of bilateral lower extremeties, status post
+percutaneous transluminal angioplasty(PTA) on 2016/03/18, 2016/04/06, and 2016/07/08
+4. Right foot ganrene, with recurrent cellulitis, post debridement on 2016/07/18
+5. End-stage renal disease, associated with diabetic nephropathy, under peritoneal dialysis since 2008/09/17
+6. Coronary artery disease
+7. Type 2 diabetes mellitus, with nephropathy and retinopathy, HbA1c 5.3% on 2016/05/23
+8. Hypertension
+9. Gastric ulcer and gastroesophageal reflux disease
+10. Sinus tachycardia, etiology undetermined 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+* A 73-year-old man with ESRD on PD for 8 years and with PAOD presented with a one-month history of general malaise and poor appetite, found to have hypoalbuminemia and hypocalcemia after Denosumab injection in late June, 2016, admitted for further management.
+
+[Subjective]
+Fair vitality but still poor appetite.
+
+[Objective]
+* Clear consciousness
+  afebrile, accpetable BP, RR, tachycardia around 130bpm
+* Physical examinatiions:
+  Tachycardia, no audible murmur
+  Clear breath sounds bilaterally
+  Soft but extended abdomen, no tenderness
+  Extremities no pitting edema, relatively dry skin turgor
+  Right foot gangrene
+* Lab:
+  WBC/Hb/Plt(07/19): 10.15K/6.5/281K(seg:84.2%)
+            (07/20): 9.29K/7.7/230K (after pRBC 2U)
+  Na/K/Ca/Mg(07/19): 133/3.7/1.33/0.69
+  Ca: 1.33mmol/L --> Vitacal 10.8mEq --> 1.38mmol/L
+  Dialysate analysis: TNC:5
+* Image:
+  Chest radiograph(07/19): No definite lung lesions.
+
+[Assessment]
+1. Hypocalcemia, possibly associated with Denosumab injection
+2. Anemia, associated with end-stage renal disease and gastric ulcer
+3. Right foot ganrene, with recurrent cellulitis, post debridement on 2016/07/18
+4. Sinus tachycardia, etiology undetermined
+
+[Plan]
+1. Keep albumin supplement and calcium supplement, with Vitacal 10.8mEq IF QD combined with oral calcium and Onealfa(vit D3) tablets. Consider switching Dianeal from Ca 2.5mEq/L to Ca 3.5mEq/L if indicated. Closely monitor possible symptoms and signs of hypocalcemia.
+2. Perform anemia work-up(iron profile, stool occult blood) and give blood transfusion if needed.
+3. Administer empirical antibiotic with Unasyn(2016/07/21- )for recurrent right foot cellulitis.
+4. Put on Herbesser for rate control of persistent sinus tachycardia.
+
+Treatnent goal:
+Symptomatic relief.
+Correct electrolytes imbalence. 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右手 
+雙腔導管留置：  
+鼻胃管留置：  
+氣管管路留置：    
+胃造廔口：  
+尿管留置：   
+膀胱造廔： 
+傷口引流管：
+其他導管：左腹PD管路
+日常生活功能分數：50
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：自己 配偶 兒子 
+出院規劃收案篩檢：高危病患 帶有管路 單位自訂條件 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident.
+Infetion control
+Correct hypocalcemia and anemia.
+Keep I/O negative 
+醫師姓名 
+姜至剛 主治醫師 

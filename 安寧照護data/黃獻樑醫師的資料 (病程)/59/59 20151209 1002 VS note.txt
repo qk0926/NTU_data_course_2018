@@ -1,0 +1,31 @@
+This 79-year-old woman without any systemic disease suffered from abdominal pain accompanied with vomiting and diarrhea after dinner since 12/8 night. Abdminal pain over epigastric area without peritoneal sign or radiation to back. Vomiting with cld sweating and chillness were noted. The vomitus were food debris. Diarrhea was noted and mainly loose stool, no melena or bloody stool were noted. Mild non-productive cough was noted recently. No fever or others discomfort were noted. Then she visited NTUH ED for help. Undetectable blood pressure and hypothermia were noted at triage. Arterial blood gas at ED showed metabolic acidosis. Blood test revealed hyperlactemia(7.57), leukocytosis(10k) and mild elevated Troponin I. C+A+P CT revealed right renal cyst, bilateral basal lung inflammation and mild gall bladder wall thickening with peripheral fluid accumulation. Cardioogist was consulted at ED to rule out acute coronary syndrome, myocardial injury secondary to septic shock was favored by coardiologist. Consciousness change and dyspnea developed while received treatment at ED. Intubation was done and she was admitted to ICU for further evaluation and management.
+
+Active problems
+1. Septic shock rule out Intra-abdominal infection, refractory.
+2. Bilateral lung infilration rule out pneumonia, rule out lung edema status post intubation and mechanical ventilation support(12/09- )
+3. Elevated Troponin I favored myocardial injury secondary to septic shock
+
+
+2015/12/09 08:55 GCS:E4M5VT
+2015/12/09 08:09 SpO2:96%(70%,L,VCR)
+2015/12/09 08:09 BP:97/72
+2015/12/09 08:09 T:34.8 P:125 R:22
+
+cTrI elevation, CV man suggest startr IF heparin.
+
+2015/12/09 CT With/Without Contrast-Chest (V1)
+GGOs at bilateral lungs. GGNs at the right lung. Atherosclerotic change of the aorta and coronary arteries. Less enhancement at the ventricular septum and and cardiac apex, r/o AMI. Stenosis of the celiac trunk. Suspected edematous change or adenomyomatosis of gallbladder.
+
+WBC 15370. 
+Under 3 vasopressors.
+CxR bil lung edema, due to AKI or NSTEMI.
+
+Please
+1. Continue IV Invanz.
+2. Consult GS for suspect acute cholecystitis.
+3. Albumin replacement and correct metabolic acidosis.
+4. Vasopressors support.
+5. Contine IF Heparine, dual antiplatelets.
+6. Inform family adverse prognosis.
+7. Adjust PEEP. iNO stand by.
+8. F/u EKG and cTrI.

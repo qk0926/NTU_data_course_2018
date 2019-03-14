@@ -1,0 +1,279 @@
+2015/11/14 17:06 
+主訴(Chief Complaint) 
+Informant:the patient and the her family
+Progressive dyspnea for 1 month 
+病史(Brief History) 
+This 76-year-old woman has a past history of
+1. NSCLC, RUL, adenocarcinoma, pT1bN2Mx, stage IIIA, EGFR: L858R, 
+-s/p VAST RUL lobectomy and RLL wedge resection on 2010/6/16 
+-s/p Paraplatin +Navelbine (IV) (2010/07-2010/10)
+-s/p Tarceva (2010/09~2012/7/5) 
+-s/p Alimta (2012/08/30~2013/5/2) "EGFR: L858R --> Clinical trial"
+-s/p RT Cyberknife to left occipital nodule (1900Gy) (2013/08/30)
+-s/p Taxotere (IV) (2013/11/07-2014/01)
+-s/p Gemzar (IV) (2014/02/20-2014/06/05) --> PD with new brain mets, enlarged lung primary 
+-s/p WBRT+C1 (3000 Gy/12Fx) (2014/07/28 - 2014/08/08)
+-s/p Paclitaxel (VI) (2014/07/03 - 2014/12/24, PD over lung)
+-s/p Navelbine (2014/12/25- 2015/04/16)
+-s/p cash Tarceva (2015/5/14-2015/07/09)
+-s/p Navelbine (2015/07/09-2015/08/24)
+-s/p salvage SRS (2015/08/24-2015/09/08) for progressive brain metastases
+She denied other systemic disease such as HTN or DM. She was heavily treated for her lung cancer. However, after salvage SRS (2015/08/24-2015/09/08) for progressive brain metastases, her general performance declined gradually; thus anti-cancer treatment was held since then. Besides, general weakness, poor appetite, progressive dyspnea, mild cough were noted for 1 month. Dysphagia after radiotherapy was reported and she could only took liquid diet later with intermittent choking. BW loss of 10 Kgs was also noted in the past half year. This week, progressive dyspnea on exertion was noted in the past week. She came to receive scheduled CT scan on 11/13. Desaturation was noted at CT room (SpO2 around 80 under ambient air according to her son). She was referred to our ER. There was no fever, chest pain, abdominal pain or dysuria. 
+At ER, her conscious level was E4V5M6. Vital signs showed T/P/R: T/P/: 36.6/87/22, BP: 120/84, SpO2: 100%. CXR showed bilateral infiltrates and pleural effusion. Reviewing her CT scan on 11/13, moderate pericardial effusion with the thickness around 2cm; suspected LUL partial atelectasis; mild left pleural effusion were noted while her right lung tumor was in stable condition. ECG showed normal sinus rhythm without low voltage. Physical examination showed no engorged jugular veins neither distant heart sounds. Lab data shwoed Hb/WBC/PLT: 11.1/8990/262K, S: 84, ALT: 44, Cr: 0.7, Na/K: 143/5.0. During ER stay, one fever episode was noted in the morning on 11/14. Empirical antibiotics with Unasyn was given for suspected pneuomonia. Under the impression of lung cancer with pneumonia, she was admitted for further care.
+
+Family History: older brother and sister had lung cancer
+Medication Allergy: denied
+Medication ADR: unknown
+Allergy to Medical Device and Materials: denied 
+Current Medication:
+NTUH:
+Combivent UDV Inh Soln 2.5 mL/amp 1 amp STAT IH 1 days
+Unasyn (based on ampicillin content) 1000 mg/vial 1000 mg Q6H IV 2 days
+PCN Test (Penicillin G Skin Test) 1000 U/1 mL 2 mL/vial 0.1 mL ONCE ID 1 days
+Unasyn (based on ampicillin content) 1000 mg/vial 1000 mg STAT IV 1 days
+液 Megest Oral Susp 40 mg/1 mL 120 mL/btl 4 mL QD PO 21 days
+Other:
+Inderol 5mg/tab 3# QD
+Vit B12 2# QD
+中草藥: denied
+保健食品: denied
+Smoking/alcohol/betel nut: denied
+Past Medical History: as listed above
+Hospitalization: many years ago for operation and chemotherapy
+
+Past Surgical History: s/p VAST RUL lobectomy and RLL wedge resection on 2010/6/16 
+Travel History: denied 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:小學
+職業:退休
+宗教信仰:民間信仰
+婚姻狀態:已婚
+使用語言:台語 
+口述血型:B，RH:RH+，輸血反應:無
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:警醒
+認知功能:正常 
+精神情緒狀態:異常 焦慮 
+安全問題:有  跌倒
+睡眠形態:異常 淺、易醒 
+
+Nutritional Screen
+攝食情形:普通，攝食50-74%
+排便狀態:正常
+BMI:18.18
+
+Fall Risk Assessment
+總分:7
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1. Systemic: weight loss(+), easy-fatigability(+), night sweats(-)
+2. Skin: petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4. Cardiovascular: exertional dyspnea(+), nocturnal dyspnea(-), orthopnea(+), syncope(-), palpitation(-), intermittent claudication(-)
+5. Respiratory: dyspnea(+), cough(+), chest pain(-), hemoptysis(-), productive cough (+), pleuritic chest pain(-)
+6. Gastrointestinal: anorexia(+), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7. Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8. Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9. Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10. Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH:152 cm   BW:42 kg
+T:36.7 P:105 R:24
+BP:147/103 mmHg
+Pain:0
+
+Neurological Examination:
+. Consciousness: clear
+. Muscle power: full
+. Gait: unsteady, need assistance
+
+‧General appearance: fair, ECOG: 3, Karnofsky performance score: 40% 
+‧Consciousness E4M6V5
+‧Head-Eye-ENT
+        Conjunctiva: pink; Sclera: anicteric; 
+        Pupil: isocoric(3mm/3mm); reflex (+/+)
+‧Neck
+	Jugular vein engorgement(+/-); Lymphadenopathy (-); Thyroid goiter(-)
+	Meningismus: Kernig sign(-); Brudzinski sign(-); Carotid bruit(-)
+‧Chest
+	Thoracic cage contour:
+	Vocal fremitus and expansion: symmetric
+	Percussion: normo-resonant
+	Auscultation: bulateral crackles(+) wheezes(-) rhonchi(-) stridor(-)
+‧Heart
+	Point of maximal impulse:
+	LV lift(-) RV heave(-)
+	Increased cardiac size by percussion(-)
+	Heart beat: regular
+	Adventitious sounds (-); Murmurs(-)
+‧Abdomen
+        Flat & soft
+	Superficial vein engorgement(-) Protruded umbilicus(-)
+	Bowel sound: normo-active
+	Tenderness(-) Hepato-jugular reflux(-)
+	Liver and spleen: impalpable
+‧Extremities: 
+        Freely movable, pitting edema (-), pulsations: symmetric, dry skin turgor
+‧Skin
+	Abnormal pigmentation(-) Petechiae(-) Purpura(-) Ecchymoses(-)       
+        Telangiectasia(-) Rash(-) Plaque(-) Wound(-) Ulceration(-) Crust(-)
+‧Inguinal lymphadenopathy(-); Axillary lymphadenopathy (-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               CRE          
+time/item      (mg/dL)      
+1041029 [1254] 0.6          
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041028 [1016] 6.65          3.80          10.8          34.7          91.3         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1041028 [1016] 28.4          31.1          304           17.4          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041028 [1016] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041028 [1016] 78.0          0.3           0.2           9.0           12.5         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041028 [1016] 0.0           0.0           0             -            
+
+*********檢驗室:RL***********
+
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1041113 [2053] 10.0          24.5          0.94         
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1041113 [2053] 7.348         60.0          82.8          33.3          7.4          
+群組:Biochemistry
+
+               CRE           Na            K             LacticAcid    Troponin I   
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)      (ng/mL)      
+1041113 [2053] 0.7           143           5.0           2.19          0.034        
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1041113 [2053] 44           
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041113 [2053] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041113 [2053] 84.0          0.0           0.1           8.1           7.8          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041113 [2053] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041113 [2053] 8.99          3.85          11.1          37.1          96.4         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041113 [2053] 28.8          29.9          262           17.9          -            
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1041113 [2053] 165 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 簡寧 影像時間: 2015/10/21 10:40 (32001CXM) 發報告時間: 2015/10/28 13:42 normal heart size. increased infiltration in the right lung with lower lung fields atelectasis. right pleural effusion. degenerative spondylosis at the thoracic spine. placement of a right port A catheter. 
+病理報告(Pathology Report) 
+092/10/17 S0320117
+Uterus,cervix,excision,endocervical polyp    
+ S1018543
+Lung,right upper lobe,CT-guide biopsy,adenocarcinoma    
+ S1019537
+Lung,upper lobe, right,lobectomy,adenocarcinoma    
+Lung,lower lobe, right,wedge resection,no evidence of malignancy    
+Lymph node,group 3A,lymphadenectomy,carcinoma,metastatic (3/3),   
+Lymph node,group 10,lymphadenectomy,carcinoma,metastatic (1/1),   
+Lymph node,group 3,lymphadenectomy,no evidence of malignancy (0/1),   
+Lymph node,group 7,lymphadenectomy,no evidence of malignancy (0/1),   
+Lymph node,group 9,lymphadenectomy,no evidence of malignancy (0/4),   
+Lymph node,group 11,lymphadenectomy,no evidence of malignancy (0/1),   
+ S1230308
+Lung,side not stated,CT-guided biopsy,adenocarcinoma    
+ T1200389 
+臆斷(Tentative Diagnosis) 
+1. Suspected pneumonia, under Unasyn (2015/11/14-)
+2. Progressive dyspnea on exertion, suspected pneumonia related, r/o pericardial effusion related, r/o progressive lung cancer related
+3. Non-small cell lung cancer, RUL, adenocarcinoma, pT1bN2Mx, stage IIIA, EGFR: L858R, s/p VAST RUL lobectomy and RLL wedge resection on 2010/6/16, s/p chemotherapy, s/p radiation to brain metastasis, with disease in progression 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*Fever and dyspnea
+
+S: progressive DOE, poor appetite, general malaise, dysphagia, chronic cough with mild sputum for about 2 months
+
+O:
+Vital signs: no fever at admission, mild tachycardia, mild tachypnea, SpO2: 98% under N/C 3L/min
+Neck: no obvious jugular vein engorgement
+Heart: RHB, no distant heart sound
+Chest: right side decreased breath sounds, right side crackles
+Abdomen: soft, no tenderness
+Ext: no pitting edema
+Lab: Hb/WBC/PLT: 11.1/8990/262K, S: 84, VBG: 7.348/60/33.3, LA: 2.19, ALT: 44, Cr: 0.7, Na/K: 143/5.0
+EKG: NSR
+CXR: bilateral infiltrates and pleural effusion
+Chest CT: formal report pending, moderate pericardial effusion with the thickness around 2cm; suspected LUL partial atelectasis; mild left pleural effusion were noted while her right lung tumor was in stable condition
+
+A:
+1. Suspected pneumonia, under Unasyn (2015/11/14-)
+2. Progressive dyspnea on exertion, suspected pneumonia related, r/o pericardial effusion related, r/o progressive lung cancer related
+3. Non-small cell lung cancer, RUL, adenocarcinoma, pT1bN2Mx, stage IIIA, EGFR: L858R, s/p VAST RUL lobectomy and RLL wedge resection on 2010/6/16, s/p chemotherapy, s/p radiation to brain metastasis, with disease in progression
+
+P:
+1. Keep Unasyn use; complete fever work-up; monitor fever curve; pleuracentesis if indicated
+2. Might consider heart echo for pleural effusion seen on chest CT
+3. Consider NG insertion for better nutrition support
+4. Observe respiratory condition
+5. Persue CT report
+
+Treatment Goal: keep infection control 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)： 右鎖骨下 
+雙腔導管留置：無  
+鼻胃管留置：無  
+氣管管路留置：無    
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：50
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：自己 配偶 媳婦 
+出院規劃收案篩檢：高危病患 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+郭律成 主治醫師 

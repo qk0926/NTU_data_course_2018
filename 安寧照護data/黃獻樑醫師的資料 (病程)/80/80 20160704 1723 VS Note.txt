@@ -1,0 +1,38 @@
+Phx:
+1. Suspect NSTEMI or secondary myocardial injury, patent coronary artery
+2. Dementia
+3. BPH
+4. Hyperlipidemia
+5. HTN
+6. CKD, stage 3
+7. Old CVA 20 years ago, without any sequelae
+
+Current Problem:
+1. IHCA, s/p ETT+MV, suspected sputum impaction or pneumonia in progression related
+2. RLL pneumonia with respiratory failure under ventilator
+3. Left pneumothorax s/p chest tube decompression, removed on 2016/6/29, with left lateral chest wall subcutaneous emphysema
+
+Still Comatose
+Poor perfusion and EEG result according to exam
+fever flared up, intermittent shortness of breath and wheezing
+CXR blunted right CP angle
+
+2016/07/04 16:50 GCS:E1M1VT
+2016/07/04 16:22 T:35.9 P:103 R:15
+2016/07/04 16:22 SpO2:100%(35%,L,VCR)
+2016/07/04 16:22 BP:112/75
+2016/07/04
+Gram's(GS)#1:Moderate PMNs ( 10-25 /LPF ) *
+Gram's(GS)#2:Few epithelial cells ( < 10 /LPF ) 
+Gram's(GS)#3:No bacteria visible *
+2016/07/04
+ID+DS Blood.#1:No growth after 5 days *
+ID+DS Blood.#1:No growth after 5 days *
+
+bedside echo: minimal right pleural effusion
+
+
+Plan:
+1. Repeat sputum smear/culture; add Ciprofloxacin
+2. Keep supportive care and discuss with family for further care plain and probable life sustaining device withdraw
+3. Consult family/hospice specialist tomorrow

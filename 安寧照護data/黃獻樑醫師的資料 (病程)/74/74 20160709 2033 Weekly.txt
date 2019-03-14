@@ -1,0 +1,160 @@
+Brief Summary of this week    
+A new episode of fever developed since 6/29, we then discontinue Doripenam and administered ceftazidime and metronidazole empirically. Her fever subsided gradually on 7/2. At the meanwhile, her conciousness became clear without drowsiness. 
+
+We then had this patient tried SBT via T-piece on 7/2. Her weaning parameters barely passed, but poor cough ability was noted(Her weakness was likely due to her spinal compression). She was clear and wished to extubate. However, we informed her high risk of failure suggested tracheostomy. The patient and her husband refused tracheostomy and preferred ETT + MV and try 
+
+Fever relpased on 7/4. She became drowsy while she was frebile. 
+We performed septic work-up, discontinued ceftazidime and metronidazoe, and initiated cravit + mepem empirically. Her fever subsided after one day of treatment and she became clear again. There was no definite infection focus during this episode. 
+
+Contrast spine MRI was done on 7/4, which showed suspect diffuse arachnoiditis at thoracolumbar levels. CNS infection could not be ruled out, but her families refused lumbar puncture. 
+
+For further improved her respiration-work, we'd performed paracentesis on 7/4 and 7/6, with 2500 ml ascites each time. However, she started to have tachycardia from 90 ppm to 145 ppm. The possible reason was insufficient effective volume, due to thrid space shift. Thus we aplied abumin supplement and slight hydration. Her tachycardia responsed poorly to hydration on 7/6. 
+
+Nevertheless, fever developed again on 7/7 and a new infection was impressed. She became drowsy again. We'd checked her serum ammonia level and renal funciton and both werew within normalevels. We re-performed septic work-up and DC mepem to rule out carbapenam related drug-fever. Later, repeat wound culture yielded MDRAB, so we prescribed Colistin for suspect wound infection. Targocid and Cravit was discontinued due to poor evidence. However, her consciousness kept deteriorating. Pupil dilation to 6.0/6.0 mm was noted on 7/9. Light reflex was positive bilaterally. 
+
+
+PAP1
+
+Assessment 
+[Antibiotics]
+Cravit      7/03-  D7  Empirically, fever & hypotension
+Vancomycin  7/03-  D7  CD colitis
+Targocid    6/21-  D19 Wound culture=MRSA
+
+[Inactive Abx]
+Meropenem   7/03-7/09  Empirically, fever & hypotension
+Metronidazole 6/30-7/5 for Bacteroides fragilis infection
+Doripenem   6/25~6/30
+Ceftazidime 6/30-7/03   Proteus w'd infection
+Colistin    6/21-7/03  fever with w'd MDRAB+PsA 
+Teicoplanin 6/21-7/03  fever with w'd MRSA
+
+[Nutrition]
+¤¸¯À diet, 1200kcal/day
+
+[Ventilation]
+PSV, PS=8, PEEP=6, FiO2=0.4
+7/1 WP: VE:4.4, RR:22, VT:200, pimax:-30, pemax:+18, RSBI:110
+
+[Inotropic]
+Levophed 3 ml/hr, CVP:6
+
+[RRT]
+nil
+
+Drowsy consciousness, E3VTM2, r/o sepsis related
+Sinus tachycardia and hypotension, r/o sepsis or insufficient intravascular volume related
+
+[PE]
+Con's: clear conscious with E4VtM6
+Chest bilateral crackles, no dyspnea 
+Heart: RHB w/o murmur
+Abdomen: soft and severe abdominal distention, massive 
+         ascites related
+limbs pitting edema
+
+<Culture report>
+04/21 B/C (PB): wild type PsA [TTP: 10.8hr]
+      B/C (Port-A): wild type PsA [TTP: 10.7hr]
+04/25 S/S: negative (poor quality)
+      S/C: Sphingomonas paucimobilis 1+ 
+04/28 Back skin pus: CR-PsA 3+ (S: Ceftazidime), MRSA 3+, MDRAB 3+
+05/02 S/S: GNB 1+
+      U/A: WBC 75-100, epi 0-2, bacteria 2+, yeasts 3+
+      B/C(CVC):PsA (28.3hr) wild type
+05/08 B/C: PsA(16.8hr), S to carbapenam
+05/11 B/C: PsA in port-A(4.6hr!!)
+      B/C: PsA in peripheral(26.1hr)
+06/07 U/C: K.p + Acinetobacter
+      B/C: E.coli + Enterococcus durans (Peripheral + CVC)
+      CVC tip: only 1 GNB
+06/10 Abscess: Staphylococcus haemolyticus (few)
+06/20 Wound culture:
+      Blood culture:
+      Sputum: GPC in cluster 2+, yeast 2+
+      U/A: WBC:0-5, Bac:1+
+06/20 Pericardial effusion: atypical cell(+), cytology: 
+      metastatic adenocarcinoma(+) 
+06/21 Wound pus: Proteus mirabilis 3+      
+                 Pseudomonas aeruginosa 3+      
+                 Staphylococcus aureus 3+ (MRSA)  
+06/22  Ascites culture: negative
+06/22  Procalcitonin: 1.75
+06/24  S/C: GNB 3+, GPC 1+
+       Wound Pus: PsA, B/C: neg
+
+Plan 
+1. Administered Colitin for suspect wound MDRAB infx.
+   -DC targocid due to no more evidence of MRSA
+   -DC Cravit prolonged use with breakthrough fever.
+   -Pursue ascites routine and culture.
+   -Keep oral vancomycin to a 10 days course(-7/12)
+2. Keep PS/PEEP:8/6 mmHg
+   -- with hold weaning due to tachycardia and fever
+3. Gentle hydration and consider albumin supplement
+4. Keep wet-dressing to the spine OP wound, bosmin gause 
+   packing due to active oozings. Component therapy as 
+   needed.
+5. If infection is under control, her conscoiusness 
+   resumed and she passed SBT, consider extubate.
+   (Inform her families the risk first)
+6. DC MXL to rule out opioid overdose.
+
+
+PAP2
+
+Assessment 
+[Important Consultation]
+05/09 Interventionist => For CT guide procedure
+05/13 Anesthesiologist=> Port A removal
+05/31 Neurologist     => Progressive bilateral lower leg weakness => suggest SSEP at first, and suggested MRI later
+P.S. MRI was not suggested due to recent spinal implant.
+06/05 Plastic surgeon => Debridement could only be performed with neurosurgeon's aid
+06/06 Neurosurgeon => Operation would be performed only if Plastic surgeon wanted to debride
+06/08 Interventionist=> for CT guide drainage and Pigtail insertion
+06/20 pericardiocentesis due to cardiac tamponade
+06/22 Bed-side debridement from PS doctor
+      abdominal paracentesis with 3000ml ascites
+7/1 oncologist Yen-Sheng Lu(¿c«Û¦ù)
+    suggested tracheostomy could improved quality of life, 
+    unless her families prefer direct DNR or further more, 
+    removal of life-sustaining machine.
+7/3 ID: PO vancomycin for CD colitis
+
+[Image]
+7/7 Increased right side pleural effusion
+
+[Important interventions or newly added medications]
+06/23 remove back pigtail
+06/27 PP window creation
+
+[Oncology treatment]
+Detailed treatment please refer to previous note.
+
+[Families decision]
+the pateint, her husband and her mother declined tracheostomy.
+They prefer re-intubation if failed to extubate.
+
+PAP3
+
+Assessment 
+7/02 Fails in SBT
+     CD toxin(+)
+     Fever subsides
+7/03 CO2 retension, and PSV->PCV
+     Hold ascites tapping for hypotension
+     Hypoglycemia and hypotension, s/p NS 500 ml and pRBC2U
+     On Levophed and vancomycin PO
+     On meropenem
+7/04 Change colistin to Mepem + Cravit
+     Paracenteiss
+     Keep PSV
+     Consciousness drowsy
+     Spine MRI
+     Brain CT: metastases with hydrocephalus
+7/05 Cons improved
+     Family meeting
+7/07 Fever to 38.3 again. Do septic work-up.
+7/08 DC Mepem to rule out drug fever
+7/09 Add colistin according to Wound culture MDRAB
+     DC targocid and cravit as ID specialist suggestion.

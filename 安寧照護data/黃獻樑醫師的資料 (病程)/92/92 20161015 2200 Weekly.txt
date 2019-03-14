@@ -1,0 +1,63 @@
+Brief Summary of this week    
+The patient was admitted to CCU on 2016/10/08 due to OHCA. After admission, therapeutic hypothermia was once performed for unconsciousness, but stopped due to acute kidney injury and the need of CVVH. Seizure was also noted and Keppra was administered. Tazocin was given for fever. Keppra and CVVH were stopped, after the condition improved. CVC was also removed by CVS. Since no recovery of consciousness, CVS紀乃新 stated it was impossible of this patient to do CABG, and the surgeon has discussed with the patient's family(wife, daughters) about withdrawing the mechanical life support system. The patient's service was switched from CVS to CV on 2016/10/14. 
+   After transferring service, the patient's consciousness was still remained E4VtM4. Seizure with facial twitching, eye blinking and nystagmaus as noted at noon, 2016/10/15, Keppra was administered(1000mg loading, 500mg Q12H), and Anxicam was also given. However, frequent seizure sttack was still noted, so the dosage of Keppra was increased to 1000mg Q12H and Rivotril 1# Q8H was also given. The settign of ventilator was tried to weaning, but Cheyne-stoke respiration under PSV mode, with tachycardia and EKG revealed ST depression was noted. Respiratory failure and death were highly expected if withdraw the mechanical ventilator. EEG and brain perfusion CT were arranged on 2016/10/17 to evaluate the patient's condition. 
+  After discussion with the patient's wife, she stated that although all of the patient's family still not well prepared with withdrawing the mechanical life support system, but they could not support long-term care due to poor economy condition. The issue of withdrawing the mechanical life support system would be discussed after the EEG and brain perfusion CT were done. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+[Today's event]
+- partial seizure, eye blinking with vertical nystygmus this noon, less frequency than yesterday
+
+[ABx]
+Tazocin 10/10-, D6 (empirical use; though fever on 10/12, but antibiotics was not changed)
+
+[PE]
+Consciousness: E4VTM3-4
+Breath sound: bilateral coarse, wheezes(-), crackles(-)
+Abdomen: soft and flat
+Extremities: no pitting edema
+
+[Ventilator settings]
+PCV, IP 12, PEEP 5, FiO2 35%, RR 8 --> 15, TV 426, SpO2 100
+*Cheyne-stoke respiration under PSV mode, with tachycardia and EKG revealed ST depression
+
+[Inotropics]
+nil
+
+[other important medication]
+Keppra 10/14-, 500mg Q12H
+-> 10/15 1000mg Q12H for frequent seizure
+
+[Lines]
+A line, endotracheal tube, peripheral IV catheter
+
+[Important event]
+10/08 OHCA, transfer to NTUH
+      → E1M1(Under sedation) → Hypothermia
+        EKG=Bifascicular block
+      ==>  CVVH for lactic acidosis, 
+           off sedation and hypothermia
+10/10 Fever → Unasyn shift to Tazocin
+10/12 Fever again → workup
+10/14 Frequent partial seizure, eye blinking with vertical nystygmus --> add Keppra, Rivotril, Anxicam
+10/15 less frequency of seizure
+
+[Family's decision]
+10/12 no chest compression and DC shock 
+      CVS did not discuss with his family about treacheostomy creation and inotropic use
+      Family were hesitated about withdraw with endotracheal tube or trying to weaning.
+10/14 太太表示星期日要拔管，但其實家人還沒有全部都有心理準備
+       但絕不接受氣切，因為經濟不許可長期照護
+10/15 同意做完EEG及perfusion CT再行評估是否withdraw
+
+Plan 
+1. Discontinue Tazocin use if no evidence of active infection
+2. Increase dosage of Keppra for seizure
+   Add Rivotril for myoclonus-> prn use for EEG workup on 10/17
+3. Arrange brain perfusion CT and EEG to evaluate the patient's consciousness on 10/17
+4. Try weaning the mechanical ventilator
+   --> Cheyne-stoke respiration under PSV mode, with tachycardia and EKG revealed ST depression
+5. discuss with family about further decision (withdrawal?)
+   may consult hospice

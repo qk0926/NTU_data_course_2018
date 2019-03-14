@@ -1,0 +1,20 @@
+# Hypoxic-ischemic encephalopathy with increased intra-cranial pressure
+# Lactic acidosis, suspect tissue hypoxia related, improved
+
+E1VtM1, no light reflex, no cough reflex
+FiO2= 0.25 PEEP 3
+SBP= 100-130, off levophed
+2016/10/26 CT:
+Loss of gray-white matter differentiation especially the deep part. congestion fo vessels. severe brain edema with compression of brainstem. 
+severe HIE is compatible with loss of autoregulation. suspected brain death. 
+
+BW 55.1 -> 55.4
+Poor NG feeding, suspected gastroparesis
+PaCO2 around 30
+CXR: lower lung atelectasis
+ 
+P:
+Mannitol Q6H, monitor I/O
+Albumin supplement
+PaCO2 target 28-33
+Solu-cortef 50mg q12h for adrenal insufficiency

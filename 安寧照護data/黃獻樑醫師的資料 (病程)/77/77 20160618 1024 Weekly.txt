@@ -1,0 +1,208 @@
+Brief Summary of this week    
+6/12-6/18
+Breakthrough fever in the morning and afternoon was noticed on 6/11. Repeated septic workup was done and Vancomycin was added. Dormicum pump for seizure control was given and uptitrated. Peristent fever was noticed on 6/12, and ice blanket use was given. Intermittent focal seizure was still noticed on 6/13, and Dormicum pump was kept. Neurologist suggested tapering Depakine, and titrating up Topamax and adding Rivotril. Oncologist explained to the family and suggested DNR and explained the limited effect of IT chemotherapy. Low procalcitonin level was found and improved RLL collapse was found on followup CXR. Family agreed with IT and oral chemotherapy on 6/14. Intra-thecal chemotherapy with MTX was given on 6/14 as C1D1. Cash albumin + diuretics were given. DNR除藥不電不壓不重插 was signed. Weaning process was kept. Depakine was discontinued and Rivotril was kept. Oral chemotherapy Xeloda started since 6/15. Intermittent seizure, non-sustained was still noticed. Fever without other vital sign change was still noticed and ice blanket was used. Hospice was consulted for combined care and for family's gradual acceptance. On 6/18, Dormicum pump was down titrated. Intermittent self limited seizure was noticed. Followup CXR showed no RLL collapse. Improved fever curve under ice blanket and regular paramol was noticed. Septic workup was repeated. Further weaning process and 2nd IT chemotherapy would be kept. 
+ 
+
+PAP1
+
+Assessment 
+Intra-thecal chemotherapy MTX(12mg)(I) 2016/06/14
+Oral chemotherapy Xeloda(500mg) 2# BID 2016/06/15
+
+<Antibiotics> 
+Cravit 6/7- D12 for S/C ESBL Ecoli
+-----
+Vancomycin 6/11-6/17 empiric use 
+(6/15 Vancomycin level:24, titrate dose 750Q8H to 500Q8H) DC for no CSF culture result
+Metronidazole 6/4-6/7  for aspiration pna coverage
+Vancomycin    6/4-6/7  for possible CNS infection GPC coverage
+Cefepime      6/3-6/7  for CNS infection and PNA
+
+<AEDs>
+Rivotril 1#(6/13-)->2#(6/15)->3#->4#(6/16)->5#(6/17) Q6H
+Topamax 1->2#(6/13) BID 6/7-
+Keppra 1500mg Q12H 5/31-
+Phenytoin 100mg Q8H 5/31-
+Midazolam pump 6/11-
+---------------------------
+Depakine 400mg 6/13 DC
+
+<Respiration>
+SIMV f6->4, IP 14->12, PS 12->10 FiO2 30%
+-> TV 275 MV 7.55 SpO2 100%
+
+<Physical examination>
+BW: 53.8->52.7k->52.2g
+Consciousness: unclear, E3VtM2, spontaneous eye open without contact. can not obey order.
+HEENT:grossly normal
+Chest: right breast mass with erosin and discharge, extended to left breast; also bilateral axillary area
+Bilateral lower lung crackles
+Heart: RHB, no murmur
+Abdomen: soft, no tendenress; normactive BS
+Extremities: bilateral arm pitting edema
+             Intermittent muscle twitch, more at right side
+
+<Nutrition> 
+濃度:2 卡/cc熱量:1750 營養品:調整配方
+
+<Culture report>
+6/2 B/C(PB):negative x2 
+6/3 B/Cx2: negative F/Cx2
+    S/C: ESBL E.coli
+    U/C: yeast
+6/4 CSF/C: neg, No anaerobic pathogen 
+    CSF AFS:neg
+    Cytology: Positive for malignant cells, metastatic 
+    carcinoma!
+    S/C ESBL E.coli
+    U/C Yeast-like organism 5000 
+6/8 Bronchial washing study: ESBL E.coli
+    AFS:negative
+    Negative for malignant cells 
+    Candida albicans 
+6/11 B/C(AL) B/C(CVC), F/C(CVC)
+     S/S: good Q, GNB 2+, 
+     ***S/C: Sphingomonas 1+
+     U/A: WBC 2-5/HPF, U/C: yeast
+6/12 CSF AFS:negative
+         culture:No aerobic pathogen
+6/18 B/C(AL, CVC), S/C, U/C
+
+Plan 
+1. Keep Cravit for 14days and DC Vancomycin 
+-> Keep regularly paramol for suspect tumor fever
+-> repeat septic work-up on 6/18
+
+2. Keep strong AED and and Dormicum pump infusion with titration, monitor neurological sign and seizure
+-> Titrate Rivotril, taper Midazolam if possible
+
+3. Ventilator support, SIMV mode, weaning gradaully
+-> be ware of lung collapse 
+-> diuretic to dry lung, Rasitol 20mg Q8H with albumin(6/14-6/16)
+
+5. Infromed poor neurological outcome
+-> DNR was signed, agree no re-intubation
+-> consult hospice for combined care 
+-> Family consider 拔管不重插
+
+6. For tumor treatment:  
+=> IT chemotherapy on 6/14 then QW2
+=> monitor if acute adverse effect
+=> Oral chemotherapy Xeloda since 6/15
+
+PAP2
+
+Assessment 
+<Important study findings>
+6/4 CSF: WBC 54, L/N 32/22, Glu 42, TP 67.8
+    Cytology: Postive, carcinoma
+6/7 Brain MRI: Leptomeningeal carcinomatosis, in progression. Brain metastases.
+6/8 Bronchoscopy
+ 1. Injected mucosa over L2C, favored suction trauma.
+ 2. Moderate amount of sticky sputum over left side bronchial trees.
+ 3. Moderate amount of purulent sputum over right side bronchial trees.
+-> Bronchial washing to RML for cytology; bacterial, TB & fungal culture.
+6/10 OP: Ommaya implantation
+OP finding: Clear CSF was drained out after ventriculotomy and the ventricle was small. The open pressure was around 10 cmH2O. The catheter was 6.8 cm in length
+
+<Imporant consultation>
+6/3 Onco: consider IT, give cash G-CSF, consult neuro
+6/3 Neuro: did CSF study, empirical antibiotic,adjust AED, consider brain image
+6/4 NeuroCR程: add Vancomycin, change anxicam to dormicum pump, add Topamax 1# QD if DC NPO, followup EEG
+6/5 Onco: IT not suitable for acute infection status
+6/7 Onco張: suggested Omaya insertion with IT chemo
+    Neuro鄭: suggested Brain MRI, add Topamax for still intermittent left facial focal seizure noticed, treat underlying problems, followup EEG if improved focal seizure noticed.
+6/8 NS: for Omaya insertion, explain to family on 6/9 and surgery on 6/10 oncall
+    Onco張: IT chemo after Omaya
+6/10Onco張: suggest Omaya drainage CSF first and relieve pressure and do CSF, consider oral chemo
+6/11Onoc張: suggested could start IT chemo on 6/12
+6/13Onco張: poor condition and prognosis explained to the family. suggested DNR, Chemo IT just for symptoms and effects was limited. Suggested IT after infection controlled.
+6/13 Neuro CR鄭: taper Depakine, uptitrate Rivotril, Topamax, treat underlying, poor prognosis 
+6/14 Onco張: IT chemo MTX + oral chemo Xeloda can be kept.
+6/17 Hospice: for letting family gradual acceptance
+
+<Important patient's and family's decisions>
+6/3 agree cash G-CSF and PPI
+    agree CVC, CSF study, brain MRI, thoracocentasis, permit signed
+    agree IT
+    favor no defibrillation or cardiac massage if sudden cardiac arrest
+6/4 family concerned about AEDs+BZD use.
+6/6 family want discuss with oncologist for further plan
+    hesitate about tracheostomy and omaya implantation and further chemotherapy, afraid of long term care
+6/7 Family agreed with Omaya insertion and IT chemotherapy
+6/8 Family agreed wuth bronchoscope, and Omaya insertion
+6/11Family wanna discuss with Oncologist about IT chemo effect and response
+6/14Family agreed with IT chemo MTX and oral chemo Xeloda, DNR signed. Cash albumin
+6/16 Agree consult hospice for combined care, hope further transfer to hospice ward if no recovery of consciousness
+6/17 Brother considered 拔管不重插
+
+PAP3
+
+Assessment 
+6/2 2PM consiousness disturbance+involuntary movement
+    3PM TVSH brain CT:no definite lesion
+    5PM NTUH empirical Abx, EEG, titirate AED
+6/3 consult onco,neuro
+    prepare CSF study-> status epilepsy, desaturation
+    ETT+MV
+    Admitted to MICU
+6/4 LP: CSF study, Anxicam pump change to Dormicum pump.
+    Desaturation, adjust ETT location
+    tolerate water, resume feeding on 6/5
+    ANC 4960, DC G-CSF
+6/5 Off Dormicum pump, no seizure noted
+    Keep Depakine, phenytoin and Keppra
+    Titrate up feeding amount
+6/6 Keep Alb with Rasitol for low alb and mild edema and BW
+    Levophed off.
+    Swith to SIMV
+6/7 Low PSV => RLL collapse, shift to high PS
+    Add Topamax 1# BID
+    Change to Cravit for ESBL Ecoli
+    Brain MRI: Leptomeningeal carcinomatosis, in 
+    progression. Brain metastases.
+    Onco suggested Omaya with IT Chemo
+    Family agree Omaya
+6/8 PCV for collapsed RLL/RML => Bronchoscopy study
+    NS consulted for Omaya insertion
+6/9 CXR: still collapsed right lung. 
+    Intermittent PRN Dormicum given for intermittent focal seizure.
+6/10CXR: improved right lung collapse
+    Scheduled op for Omaya insertion.
+    Open pressure 10cmH2O
+6/11Breakthrough fever morning and afternoon
+    Repeated septic workup and add Vancomycin
+    Dormicum pump for seizure control
+6/12 Peristent fever, ice blanket use
+6/13 Intermittent focal seizure, keep Dormicum pump
+     Neuro suggested taper Depakine, Titrate up Topamax, add Rivotril
+     Oncologist explained to the family. Suggested DNR. Limited effect of chemo IT.
+     Low procalcitonin level
+     Improved CXR RLL collapse
+6/14 Family agreed with IT chemo and oral chemo
+     IT Chemotherapy D1 MTX 
+     Cash albumin + diuretics
+     DNR signed
+     Keep weaning process
+     DC Depakine and keep Rivotril
+     Off ice blanket and monitor fever curve
+6/15 Uptitrate Rivotril dose and Adjust Dormicum dose.
+     Start Oral chemotherapy Xeloda
+6/16 UPtitrate Rivotrial and keep Dormicum + PRN
+     Mild elevated BT
+     -> regularly paramol for suspect tumor fever
+     Intermittent twitch suspected seizure or myoclonus
+     Followup CXR improved RLL collpase
+     -> switch to SIMV     
+     Keep supportive care.
+6/17 Uptitrate Rivotril, taper Dormicum pump
+     Intermittent seizure, non-sustained.
+     Fever without other vital sign change, 
+     use ice blanket.
+     Consult hospice for gradual acceptance
+     DC Vancomycin for CSF culture neg
+     Taper ventilator setting
+6/18 Taper down Dormicum pump. Intermittent self limited seizure.
+     Followup CXR no RLL collapse. 
+     Improved fever curve under ice blanket and regular paramol. 
+     Repeat septic workup.

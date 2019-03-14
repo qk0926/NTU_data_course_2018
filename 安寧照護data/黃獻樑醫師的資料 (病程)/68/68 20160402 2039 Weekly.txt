@@ -1,0 +1,158 @@
+Brief Summary of this week    
+[4C1 2016/03/18-]
+After transferred to RCC, tachypnea (RR>35), tachycardia and desaturation (SpO2:88% under FiO2:35%) with accessory muscle use was noticed at night. Therefore, ventilator was shifted back to PC/AC and increase FiO2 to 50%. And the condition improving after sedation drugs use. The chest tube was removed due to poor drainaged amount on 2016/03/22. The patient's family (his smallest son) still hestated about withdraw and couldn't contact other brothers and sisters. Therefore, we keep antibiotics treatment and weaning program as possible. But intermittent tachypnea with decline saturation were noticed, therefore, we hold weaning and shifted to PCV mode. And we also contact social worker for the patient's family support problem. The son(smallest) preferred withdraw of ventilator but the thrid daughter preferred RCW transfer. 
+
+PAP1
+
+Assessment 
+RCC (3/18-) D16
+
+<Abx> 
+Nil now
+------------------------------------------------------------
+Cefepime (3/12-4/1) for lung pneumonia with empyema(KP; S/C:KP, PSA)
+IH Amikacin (3/15-24) -> S/C: PsA, CT: bronchiectasis
+Ceftazidime (3/7-3/12) -> Empyema C: KP and S/C of PsA
+Tazocin  (2/26-3/7) --> HCAP and empyema
+Metronidazole (3/5-3/7) ->better coverage of anerobic pathogen
+
+<Culture report>
+3/3  pleural effusions/C:wild KP
+3/4  S/C:wild PSA, wild KP
+3/15 S/C:wild PSA
+         AB(R to Gentamicin)
+
+<Nutrition>  
+纖維配方, 濃度:1 卡/cc熱量:1500 營養品:健力體
+
+<Ventilator Setting>
+PCV, IP 14, RR 10, PEEP 6, Ti 0.9, FiO2 35%
+-> Vt: 388, Mv: 6.4, SpO2: 97-99%
+
+<Physical examination>
+Conscoiusness: clear
+HEENT: pink conjunctiva, anicteric sclera
+Chest: coarse breath sounds, no wheezes
+Heart: RHB without audible murmur
+Abdomen: soft, normoactive bowel sounds
+Extremities: no pitting edema
+
+<Important Lab findings>
+03/03 AM, VBG 7.250/61.7/61.6/27.3/-0.2 --> BiPAP
+03/03 CXR: right pleural effusion
+03/03 Pleural effusion: Glu <10, TP 4.5, LDH 9614, TNC 22152, N 100 (c/w empyema)
+03/04 Chest CT: chest tube not in pleural space
+03/19 tachypnea with desaturation -> shift back to PCV
+
+<Important image and study findings>
+
+<Important intervention and newly added medications>
+03/03 Respiratory acidosis --> on BiPAP
+03/03 Desaturation --> ETT+MV (原本考慮不插管,但經說明手術治療膿胸可能改善,決定插管); right thoracentesis (turbid pleural effusion) --> change to chest tube
+03/04 Transfer to 3A2 MICU; chest tube revision and drained 400mL pus
+--> CS: not indicated for decortication now, suggest keep chest tube drainage
+03/05 Add Anegyn for better coverage of anaerobic pathogen
+03/06 PCV-> PSV
+03/07 Shift Abx to Tatumcef for empyema culture of wild type KP and S/C of wild type PsA
+03/08 PS 8, RR 35 in the evening
+03/09 SBT borderline
+03/09 WP: -48/+60, RSBI 136 (Vt 242, MV 8.0) 
+03/09 TP 1h, accessory muscle use and RR 30-35
+03/10 Urokinase(I); left thoracocentesis (poor gliding of left lung)
+03/11 Urokinase(II)
+
+<Important consultation>
+03/04 CS: for empyema; arrange chest CECT
+--> favor medical treatment first due to mild improvement of CXR; consider VATS if poor improvement
+03/07 CS 曾穎凡/徐紹勛: VATS and Urokinase are probably not needed for the current condition
+
+<Important patient's and family's decision>
+02/26 DNR 全拒
+03/03 決定接受手術，故同意插管
+03/09 兒子決定拔管不重插
+3/31
+the patient's third daughter come and still hestate about withdraw decision after well discussed with the patient's smallest son
+-> well explaint the possible choice plan (according attending VS suggestion): 
+1. consider long term care (consider tracheostomy or not) then transfer to RCW
+2. consider withdraw then extubation
+4/1 小兒子:prefer withdraw
+    三女兒:prefer RCW transfer
+
+Plan 
+1. DC cefepime 
+2. keep PCV support, hold weaning(走withdraw?, may consult hospice, 三女兒意見不同), Combivant; PPI prophylaxic use
+3. add ultracet for pain control
+4. Keep 健力體 (higher protein, moderate sugar) and close monitor CO2 (hypoglycemia using 益肺佳)
+5. 拔管不重插, key person: his smallest son, 之前有聯絡外科醫師表示暫不需要開刀,而病人目前並不符合拔管的條件,如果要拔管是要討論撤除維生醫療(病人有可能因此離開) -> 家屬表示理解暫先維持目前的治療
+6. 4/1 小兒子:prefer withdraw
+    三女兒:prefer RCW transfer
+7. consider family meeting, consult倫委會
+
+PAP2
+
+Assessment 
+[Important study findings]
+3/03 Pleural effusion: Glu <10, TP 4.5, LDH 9614, 
+     TNC 22152, N 100 (c/w empyema)
+3/04 Chest CT: chest tube not in pleural space
+3/04 Pleural effusion: TNC 111674 (L:N=1:99), 
+     LDH=16970, Glucose<10
+3/06 Alb=1.8
+3/10 Bedside echo: right empyema, left massive 
+     pleural effusion with consolidation
+3/10 Left pleural effusion: RBC 5000, TNC 89, 
+     L:N:M+H 53:41:6, LDH 88 (serum 177) (transudate)
+
+[Important consultation]
+3/04 CS: for empyema; arrange chest CECT
+     -> favor medical treatment first due to mild
+     improvement of CXR; consider VATS if poor improvement
+3/07 CS 曾穎凡/徐紹勛: VATS and Urokinase are probably
+     not needed for the current condition
+
+[Important family’s decision]
+02/26 DNR 全拒
+03/03 決定接受手術，故同意插管
+03/09 兒子決定拔管不重插
+03/27 家屬想找社工討論撤除與不急救同意書之法律責任歸屬問題
+
+PAP3
+
+Assessment 
+3/03 Respiratory acidosis --> on BiPAP
+3/03 Desaturation --> ETT+MV 
+     (原本考慮不插管,但經說明手術治療膿胸可能改善,決定插管); 
+     right thoracentesis (turbid pleural effusion) 
+     --> change to chest tube
+3/04 Transfer to 3A2 MICU;
+     chest tube revision and drained 400mL pus
+     --> CS: not indicated for decortication now, 
+     suggest keep chest tube drainage
+3/05 Add Anegyn for better coverage of anaerobic pathogen
+3/06 PCV-> PSV
+3/07 Shift Abx to Tatumcef for empyema culture of 
+     wild type KP and S/C of wild type PsA
+3/08 PS 8, RR 35 in the evening
+3/09 SBT borderline
+3/09 WP: -48/+60, RSBI 136 (Vt 242, MV 8.0) 
+     TP 1h, accessory muscle use and RR 30-35
+3/10 Urokinase(I); left thoracocentesis 
+     (poor gliding of left lung)
+3/11 Urokinase(II)
+3/12 Chest tube connection to negative pressure 10;
+     shift Tatumcef to Maxipime for increasing lung 
+     infiltrates
+3/14 Off Chest tube connection to negative pressure
+3/15 Add IH amikacin
+3/16-17 TP 1h ok
+3/17 Low tidal volume and tachypnea. PS 10->14 
+     Hold extubation
+3/18 Transferred to RCC
+3/19 Intermittent tachypnea s/p 0.5 amp Anxicam
+     alpraline 0.5#Q12H
+3/21 DC alpraline for poor consciousness
+     Give withdrawal permit to his son 
+3/22 Remove chest tube
+3/23 Add Ultracet for pain control
+3/24 Waiting for withdrawal permit. DC IH Amikacin
+3/28 Social worker visited

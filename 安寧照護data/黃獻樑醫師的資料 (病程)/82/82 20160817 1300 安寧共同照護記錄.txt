@@ -1,0 +1,48 @@
+[Assessment]
+ECOG:4
+Consciousness:confuse
+Vital signs:
+2016/08/17 09:07 T:36.3 P:114 R:27
+2016/08/17 09:07 BP:134/79
+2016/08/17 09:07 SpO2:100%(35%,L,VCR)
+2016/08/17 10:03 Pain score:0
+ESRD ,under peritoneal dialysis
+Extremeties:PAOD of bilateral lower extremeties.
+Right foot ganrene with recurrent cellulitis s/p debridement on 2016/07/18
+
+< Ventilator settings >
+Mode      PSV
+VT        370      ml 
+RR        -/30     bpm     
+FiO2      35       %
+PS/PEEP   12/6     cmH2O
+VE total  13.0     L
+
+8/9 Weaning profile:
+Pimax:  -40   cmH2O   Pemax  : +50   cmH2O
+RR   :  35    bpm     VT     : 282   ml 
+VE   :  9.9   L/min   RSI    : 124
+
+[訪視摘要]
+會談對象:配偶
+#病情認知調適/情緒支持
+訪視時配偶陪伴，協助病人肢體被動運動。陪伴配偶生命回顧，其表達病人過去是個好父親，對孩子全心全意付出，兒子因此都很孝順。描述病人慢性病纏身，過去努力配合各項治療，也讓病人接受最好的治療，但血管阻塞問題造成肢體壞疽，多處傷口體無完膚。病人曾表達感到很痛苦不如及早結束生命，家人雖不捨，但也不希望繼續如此沒有生活品質及尊嚴的活著，因此與醫療團隊討論後決定撤除呼吸器。
+予陪伴、傾聽並同理其不捨，肯定末期緩和醫療決策，說明緩和照護。
+
+[Plan]
+1. 請完成兩位專科醫師末期判定及電腦末期註記。
+2. 請協助重新簽署DNR同意書為全部不施行。
+3. 建議保留撤除維生醫療家庭會議紀錄。
+4. 請確認即將撤除之項目:呼吸器及呼吸管路 (腹膜透析?)，並提供撤除維生醫療說明:
+1) 說明撤除維生醫療之目標並非立即導致死亡，撤除後病人依自然病程進入死亡。
+2) 說明照護之目標在於舒適與尊嚴
+3) 說明撤除維生醫療後病人可能症狀及處置。       
+4) 討論停止重症照護常規：抽血檢驗、影像學檢查、抗生素等
+5. 已提供本院撤除維生醫療建議照護指引
+6. 請協助適當的給予家屬陪伴病人的空間及時間、哀傷輔導
+7. Please contact us if any problems (tel: 63274)
+
+
+原團隊共同照護成員:護理師 宋欣儒，醫師 劉孟樽
+
+安寧共照N2謝慧貞

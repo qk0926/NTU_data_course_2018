@@ -1,0 +1,281 @@
+2015/09/03 18:43 
+主訴(Chief Complaint) 
+Informant:patient's company members
+Dizziness and consciousness disturbance since 8/25 
+病史(Brief History) 
+[Present illness]
+  This 46-year-old woman, previously healthy, has been a caregiver(看護) from Indonesia for about two years. She has been monogamous with her husband and denied intravenous drug use. She has been generally well and the latest health examination on 8/21 showed all negative results.
+  She started to experience dizziness since 8/25 and some medications were prescribed with no effect. Hypersomnia and fever were noted by her employer and she was taken to 松山 Hospital\.  However, consciousness disturbance worsened that it was difficult to wake her up, and she was admitted to ER at 博仁 Hospital. On arrival at ER, GCS:E3MV1, T/P/R:38.7/121/18 BP: 175/101 mmHg were recorded. Blood tests showed leukocytosis.A diagnosis of CNS infection was made and vancomycin and ceftriaxone administered. Non-contrast brain CT on 9/1 showed diffuse brain swelling, especially at the cerebral cortex. One small hypodense nodule was noted at the right frontal subcortical white matter. Lumbar puncture was performed on the same day, which showed an opening pressure: 20cm H2O, pleocytosis(WBC:200, Lym:79.6%, Neu 17.9) and low level of glucose: 12 mg/dL. Blood test showed hepatitis(AST:94, ALT:104) and abdominal sonography disclosed 1. suspect chronic parenchymal liver disease, 2. Gall sludge, 3. Mild right hydronephrosis. We added Acyclovir for virus coverage. On 9/2, the brain MRI, which showed gyral swelling and increased T2 SI on FLAIR are also noted around right Sylvian fissure, with one ovoid T2 high SI nodule 1.2 x 0.7cm at the right frontal subcortical white matter, may be early encephalitis. The results were negative for HBV, HCV, VDRL but postive for anti-HIV(ELISA) test. She was  transferred to our hospital.
+
+[Past history]
+HIV summary
+. Risk factors: IDU(-), homosexual/bisexual(-), multi sexual partner(-)
+. Co-infection: HBV(-), HCV(-), Syphilis(-)
+. Current status: pending
+. No HAART before 
+Family History: no related FH
+Medication Allergy:UnClear  病人自述 2015/09/03
+Medication ADR:unknown
+Allergy to Medical Device and Materials:UnClear  病人自述 2015/09/03
+Current Medication:
+NTUH: denied 
+Other: denied 
+中草藥: denied
+保健食品: denied 
+社會心理相關評估(Psychosocial Assessment) 
+Psychological History and Evaluation
+意識狀態:嗜睡
+認知功能:無法評估 
+精神情緒狀態:異常 倦怠 
+安全問題:有 其他 跌倒
+睡眠形態:正常  
+
+Nutritional Screen
+攝食情形:差，攝食50%以下
+排便狀態:正常
+BMI: 
+系統性回顧(Review of System) 
+1. Systemic: no weight loss,easy-fatigability, no night sweats, poor appetite.
+2. Skin: no petechiae, no purpurae, no skin rash, no itching.
+3. HEENT: headache and dizziness since 8/25, no blurred vision, no strabismus, no otalgia, no otorrhea, no hearing impairment, no tinnitus, no vertigo, no nasal stuffiness, no nasal discharge, no epistaxis, no gum bleeding, no throat discomfort, no oral ulcer.
+4. Cardiovascular: no exertional chest tightness, no nocturnal dyspnea, no orthopnea, no syncope, no palpitation, no intermittent claudication
+5. Respiratory: no dyspnea, no cough, no chest pain, no hemoptysis, no pleuritic chest pain
+6. Gastrointestinal: no anorexia, no nausea, no vomiting, no dysphagia, no heartburn, no acid regurgitation, no abdominal fullness, no midnight pain, no constipation, no diarrhea, no melena, no change of bowel habit, no small caliber of stool, no tenesmus, no flatulence
+7. Urogenital: no flank pain, no hematuria, no urinary frequency, no urgency, no dysuria, no hesitancy, no nocturia, no polyuria, no oliguria 
+8. Musculoskeletal: no pain, no weakness of limbs, no myalgia, no weakness, no back pain
+9. Metabolic: no heat intolerance, no cold intolerance, no thirsty
+10. Nervous: no numbness, plegia at bilateral lower legs 
+身體檢查(Physical Examination) 
+T:36.9 P:117 R:22
+BP:155/80 mmHg
+Pain:
+
+Neurological Examination:
+. Consciousness: Drowsy but responsive, GCS: E3V5M6
+. Language: comprehension: ok, talking: slowly
+. CN1: not checked. 
+  CN2: at least not blind at both eye. Threathen test(+/+)
+  CN346: impaired right gaze at right eye and left gaze and left eye; left mild ptosis, pupil(5/5),LF(+/+)
+  CN5: not checked
+  CN7: cornea reflex(+)
+  CN8: Symmetric hearing
+  CN9,10 Gag reflex(+)
+  CN11: not checked
+  CN12: tongue protrude to the left
+
+. Motor Inspection: Muscle wasting(-), fasciculation(-); 
+Muscle tone: spasticity(-), rigidity(-)
+Muscle power
+Upper limbs
+Right: shoulder 3  elbow flexion/extension 4/4   wrist flexion/extension 4/4  grasp 4+
+Left:  shoulder 4   elbow flexion/extension 4/4   wrist flexion/extension 4/4  grasp 4+
+Lower limbs
+Right: Hip flexion 3 knee flexion/extension 3/3 ankle dorsiflextion/plantarflextion 3/3 big toe 4
+Left : Hip flexion 1 knee flexion/extension 1/1 ankle dorsiflextion/plantarflextion 1/1 big toe 2
+
+DTR：not checked
+
+Sensation modality: not checked
+Gait: not performed 
+
+‧Head-Eye-ENT
+  Conjunctiva: pink
+  Sclera: anicteric
+‧Neck
+  No jugular vein engorgement
+  No thyroid goiter
+  No Kernig sign; No Brudzinski sign
+  No carotid bruit
+  Stiff neck, meningeal signs: +/-
+‧Chest
+  Thoracic cage contour: normal, symmetric
+  Vocal fremitus and expansion: symmetric
+  Percussion: resonant
+  Bilateral clear BS
+  No wheezes, rhonchi, or stridor
+‧Heart
+  No LV lift, no RV heave
+  Heart beat: regular tachycardia 110bpm
+  Murmurs: no murmur
+‧Abdomen
+  Flat & soft
+  No distension of abdomen
+  No shifting dullness
+  No superficial vein engorgement
+  No protruded umbilicus
+  Bowel sound: normo-active
+  No abdomen tenderness. 
+‧Skin	
+  No petechiae, purpura, ecchymoses, or tenlagiectasia
+  No rash
+  No wound
+‧Extremities
+  No edema
+‧Lymphadenopathy
+  No palpable lymph node 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               D-BIL         Alb           TP            T-BIL         AST          
+time/item      (mg/dL)       (g/dL)        (g/dL)        (mg/dL)       (U/L)        
+1040903 [1050] 0.12          3.7           7.2           0.50          32           
+               ALT           ALP           GGT           LDH           UN           
+time/item      (U/L)         (U/L)         (U/L)         (U/L)         (mg/dL)      
+1040903 [1050] 52            58            147           292           18.6         
+               CRE           UA            Na            K             Cl           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1040903 [1050] 0.5           4.3           140           3.3           97           
+               Ca            P             Mg           
+time/item      (mmol/L)      (mg/dL)       (mmol/L)     
+1040903 [1050] 2.20          2.6           0.74         
+群組:DM
+
+               GLU AC       
+time/item      (mg/dL)      
+1040903 [1050] 153          
+*********檢驗室:CT***********
+
+群組:PT
+
+               PT            PT INR       
+time/item      (sec)         ()           
+1040903 [1050] 10.9          1.03         
+群組:PTT
+
+               PTT          
+time/item      (sec)        
+1040903 [1050] 25.1         
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1040903 [1050] 16.43         4.47          12.0          36.1          80.8         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1040903 [1050] 26.8          33.2          321           14.7          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1040903 [1050] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1040903 [1050] 92.6          0.0           0.0           1.1           6.3          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1040903 [1050] 0.0           0.0           0             -            
+*********檢驗室:SA***********
+
+群組:Yes
+
+               S.T.S. (VDRL 
+               /RPR Test)   
+time/item      (*)          
+1040903 [1050] Non-Reactive               
+*********檢驗室:VH***********
+
+群組:Yes
+
+               HIV Viral Lo 
+               ad           
+time/item      (cp/mL)      
+1040903 [1050] D.C. 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+nil 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1. Positive anti-HIV ELISA test
+2. Meningoencephalitis
+3. Hypokalemia, suspect poor intake related 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*
+S: dizziness, headache then consciousness disturbance since 8/25
+O:
+
+[PE]
+NE: Drowsy, GCS:E3V5M6
+CN1: not checked. 
+  CN2: at least not blind at both eye. Threathen test(+/+)
+  CN346: impaired right gaze at right eye and left gaze and left eye; left mild ptosis, pupil(5/5),LF(+/+)
+  CN5: not checked
+  CN7: cornea reflex(+)
+  CN8: Symmetric hearing
+  CN9,10 Gag reflex(+)
+  CN11: not checked
+  CN12: tongue protrude to the left
+PE: 
+HEENT: stiff neck, equivocal meningeal signs
+Chest: bil. clear BS
+Heart: RHB, no murmurs
+Abdomen: soft and flat, no tenderness
+Extremity: no rashes or skin lesions. no edema
+
+Lab
+WBC:16430, Seg:92%, AST/ALT:32/52, Cre:0.5, K: 3.3, Mg:0.72
+
+Study
+UCG(9/3):
+LVEDd/s:41/29, IVS/PW:10/10, LA:31, EF:56%, mild MR
+CXR(9/3):
+increased bilateral infiltration, borderline cardiomegaly(AP view)
+
+A: 
+Suspect HIV infection by anti-HIV ELISA screening
+2. Meningoencephalitis by brain MRI and CSF study, cause to be determined
+3. Hypokalemia, suspect poor intake related
+
+P:
+1. Pursue western blot and viral load, CD4 count
+2. Chekck atypical pathogen
+3. CSF analysis, including TB PCR, CMV, EBV, HSV viral load, toxoplasma PCR
+4. Initiate Anti- TB medication after first steroid dose
+5. NG feeding. Correct electrolyte
+6. Contact with her sister and families for critical condition
+
+Treatment Goal: Treat encephalitis 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左手 右足
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：無    
+胃造廔口：無  
+尿管留置：有  16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：其他，需註明 返印尼
+預期出院後主要照顧者：其他 家屬
+出院規劃收案篩檢：高危病患 單位自訂條件 功能量表未滿60分 HIV(+) 
+主治醫師評論(VS Comments) 
+1. repeat lumbar puncture
+ and obtain CSF specimens for TB and cryptococcal studies
+2. Start anti-TB therapy after administration of steroids
+3. Confirmation of HIV infection 
+醫師姓名 
+洪健清 主治醫師 
+ 
+
+ 
+ 生命徵象留置導管檢驗檢查影核醫抗生素病理照會 
+
+是否刪除圖形?  
+  
+   
+  
+ 
+錯誤回報 版本：     
+   National Taiwan University Hospital
+All Right(s) Reserved. 
+   
+ 
+        
+

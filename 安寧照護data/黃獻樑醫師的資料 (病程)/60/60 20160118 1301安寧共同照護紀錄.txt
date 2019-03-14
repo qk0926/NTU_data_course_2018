@@ -1,0 +1,48 @@
+This 66 year-old female with diagnosis:
+1. Bacterial Meningitis , KP
+2. Acute cerebral infarction , Rt MCA massive and left , with herniation; herniation improved
+3.Hypercapnic respiratory failure status post endotracheal tube intubation with mechanical ventilator support(12/17~)
+4. nasopharyngeal carcinoma teminal stage
+
+<Assessment>
+2016/01/18 08:27 GCS:E2M2VT
+2016/01/18 08:27 T:36.5 P:84 R:10
+2016/01/18 08:00 BP:155/78
+2016/01/18 08:33 Pain score:0
+2016/01/18 10:37 SpO2:100%(30%,L,VCR)
+ventilator setting:
+MODE:PC/AC
+IP/TI:20/0.9
+VT: 457-580 ml
+RR: 10/10 bpm
+FIO2: 30 %
+PS/PEEP:-/5 cmH2O
+weak cough power
+
+<會談內容>會談對象:女兒
+1.預計於1/19執行撤除呼吸器及呼吸管路，病人兒女均會前來。
+2.說明撤除呼吸器及呼吸管路後照護目標在於舒適與尊嚴。
+3.說明撤除呼吸器及呼吸管路後病人可能出現症狀及處置。       
+4.經原團隊評估於撤除維生醫療後安排轉安寧病房續照護。
+5.簡介安寧病房資源及團隊成員。
+6.同理不捨，予以情緒支持，鼓勵家屬把握與病人相處的時光，引導四道人生(道謝、道愛、道歉、道別)。
+
+<Plan>
+1.請完成末期註記
+2.確認即將撤除之項目：呼吸器及呼吸管路
+3.撤除維生醫療措施建議:
+#撤除前6小時
+  a.停止餵食、減少人工輸液 (最大量每小時0.9% NaCl 25mL).
+  b.預防拔管後哮鳴: Solucortef 100 mg IV stat.
+  c. 呼吸器設定: 逐步調降呼吸器支持，依呼吸喘程度予Morphine.
+#撤除前30分鐘
+  a.預防死前喉鳴: Buscopan 20 mg IV stat
+  b.預防拔管後哮鳴: Solucortef 100 mg IV stat 
+  c.疼痛與呼吸窘迫: Morphine 0.05-0.1mg/kg IV/SC stat, 
+    then 05-0.1mg/Kg/h IV p.r.n.
+#撤除後
+  a.給予適當鎮靜劑:視病人狀況予Midazolam (0.05-0.2 mg/kg) IV或 SC stat，then 0.05-0.1 mg/kg/h IV p.r.n(或Propofol 20-50 mg IV stat, then 20-60mg/h IV p.r.n.)
+#疼痛與呼吸窘迫
+Morphine 0.05-0.1mg/kg IV/SC stat then 0.05-0.1mg/Kg/h IV p.r.n.
+4.適當的給予家屬陪伴病人的空間及時間、哀傷輔導。
+                                          安寧共照N2謝慧貞

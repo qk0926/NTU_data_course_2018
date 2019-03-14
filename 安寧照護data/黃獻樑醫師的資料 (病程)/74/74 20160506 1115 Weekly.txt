@@ -1,0 +1,102 @@
+Brief Summary of this week    
+After transfering to general ward, low grade fever was still noted. Antibiotics(ceftazidime + Tigecycline + fluconazole) was kept for infection control. Computer tomography from Hhad to pelvis was performed for evaluation on 5/5. Small brain new metastasis was found and liver tumor was stationary. Further management was discussed with attending and he suggested control infection first.
+Paraspinal fat stranding was noted and abscess formation was suspected. Neurosurgeon VS³¯´¯ªª was consulted for further evaluation and he suggested confirming abscess formation with radiologist first. Further intervention will be discussed later. 
+
+PAP1
+
+Assessment 
+<Antibiotics>
+Tygacil (5/2~) D4 --> for back surgical wound infection with abscess formation, coverage of MDRAB
+Tatumcef (4/30~) D6 --> intermittent low grade fever, skin pus culture of PsA resistant to Carbapenem
+Diflucan (5/2~) D4--> for funguria and still low grade fever
+-----------------------------------------------------------------
+Targocid (4/25~5/3)  Empirically for fever
+Mepem (4/21-4/30) Thearpeutic for PsA bacteremia and FN
+Maxipime   4/21     Empirical for FN
+Tienam	   4/21	  Empirical for FN and profound shock
+
+Vinorelbine (C2D1=4/15)
+
+
+<Culture report>
+04/21 B/C (PB): wild type PsA [TTP: 10.8hr]
+      B/C (Port-A): wild type PsA [TTP: 10.7hr]
+      S/C: normal mixed flora
+      U/C: negative
+      Anal swab: no VRE, no CRE
+04/24 U/C: negative (U/A: RBC 20-35, WBC 2-5, epi 0-2)
+      B/C (A-line & CVC): negative*2
+04/25 S/S: negative (poor quality)
+      S/C: Sphingomonas paucimobilis 1+ 
+04/28 Back skin pus: CR-PsA 3+ (S: Ceftazidime), MRSA 3+, MDRAB 3+
+05/02 S/S: GNB 1+
+      U/A: WBC 75-100, epi 0-2, bacteria 2+, yeasts 3+
+      B/C(CVC):GNB (28.3hr)
+05/03 Tip cx of CVC:
+      Tip cx of DL:
+
+<Important study findings>
+04/21 Pro-BNP>35000
+04/22 WBC: 100/ul, lactic acid 9, BUN/Cr: 18/1.1 
+      -> FENa 0.5% , pro-BNP >35000  
+      hsTSH(CIA):8.60 £gIU/mL / Free T4(CIA):1.48 ng/dL
+      Cortisol DL:33.3 £gg/dL / ACTH:12.3 pg/mL
+      LacticAcid(mmol/L) 12.71>11.3>7.6>9.12>9.09>8.26>6.09 
+04/23 P: < 0.1-->(s/p K3PO4 1bag) 1.2
+      Lactic acid 6.01
+04/24 Lactic acid 4.93, still aguria, albumin 2.4
+04/25 WBC 1.19, Mono 53%, Band 17%, Meta 7%, 
+      T-BIL(mg/dL) 8.43
+      LacticAcid(mmol/L) 4.59 -> 5.29
+      ABG(stop CVVH 8hr): 7.44/25.9/110/17.9/-6.4
+04/26  T-BIL(mg/dL) 10.5
+       LacticAcid(mmol/L) 5.44
+04/27 T-BIL 13.97  mg/dL
+      D-BIL 8.57  mg/dL 
+      ALP 261  U/L 
+      GGT 109  
+      HB 8.4, PLT 16, WBC 12.84
+      Bed-side echo showed no obvious IHD dilatation
+04/28 T-BIL 14.03  
+      Pi/Pemax:-30/+60 cmH2O  RR: 26 bpm, 
+      VE: 8.55 L/min  VT: 329 ml  RSI: 79, SpO2:98->92 %
+04/29 T-bil=13.5, BUN=49.9, CRE=1.0
+04/30 Hb=8.6, PLT=25K, Alb=2.9, T-bil=14.2
+05/02 Procalcitonin=1.251, LDH=502, T-bil=12.91, ALT=49, BUN=34
+
+still lower grade fever after transferring to general ward
+no discomfort during fever
+1.tumor fever due to progressed tumor size of liver??
+2.back wound infection due to elevated procalcitonin level
+
+Plan 
+. keep current Abx
+. Monitor liver function; informed her family of possible liver failure due to tumor infiltrations
+. consult NS for abscess formation=>ask radiologist first
+. further management for tumor will be discussed after stable condition
+
+PAP2
+
+Assessment 
+<Important Intervention and newly added medications>
+04/22 ICU admission; Mepem; ETT+MV; CVVH via DLC
+      Filgrastim 300 mcg QD for neutropenia
+04/23 Potassium phosphate 44meq IF (AM), 44meq IF(Night)
+04/25 Hold CVVH due to improved acidosis
+04/25 Add Targocid due to persistent fever under Mempem
+      Start slow NG feeding
+04/26 DC G-CSF, nadir passed
+04/28 Add Primperan for poor digestion
+04/29 H/D (UF=2kg) once for fluid overload
+      Right thoracentesis 550mL
+05/01 Shift Mepem to Tatumcef
+05/02 Extubation at 12:30; add Tigecycline and Diflucan for still low grade fever; taper Rasitol to 10mg QD
+
+<Important consultation>
+04/27 GI Fellow: for hyperbilirubinemia --> favor tumor or sepsis related
+05/02 NS VS³¯´¯ªª: keep antibiotics; consider CT scan for poor wound healing
+05/02 ID VS¬x°·²M: add Tigecycline to cover MDRAB
+05/03 ID VS ¬x°·²M: May DC Targocid if no evidence of MRSA bacteremia
+
+<Important family¡¦s decision>
+04/22 Agreed with invasive procedure if indicated, including CVVH, DLC, intubation; favored aggressive resuscitation if circulatory collapse

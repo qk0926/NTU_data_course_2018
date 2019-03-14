@@ -1,0 +1,101 @@
+<Active problems>
+1. IHCA (initial rhythm: asystole), s/p CPCR 3 minutes on 2016/1/19, with ROSC, s/p ETT+MV(2016/1/19~2016/1/22); repeated OHCA(initial rhythm: asystole), s/p CPCR for 6 minutes on 2016/1/27, with ROSC, s/p therapeutic hypothermia(2016/1/28-1/29)
+2. PEA, cause undetermined, suspected aspiration or consciousness change first
+3. Seizure
+4. Shock, supsected autonomic dysfunction or infection
+5. Bilateral pleural effusion, suspect malignany pleural effusion with superimposed pneumonia
+6. NSCLC, adenocarcinoma, EGFR wild type, with right supraclavicular lymphadenopathy, cT1bN3M0, stage IIIB, s/p Alimta + Cisplatin (I) (2014/10/07)/renal insufficiency, s/p Alimta + Carboplatin (IV) (2014/11/06-2015/01/16), s/p Alimta (IX) (2015/02/06-2015/08/28) ; with bone metastasis, status post Alimta+Carboplatin (IV+III) (2015/10/02-2015/12/02), status post radiotherapy (2015/11/9-2015/11/20); with progressive disease, status post Paclitaxel (II)(2016/01/09), complicated with SVC syndrome
+
+<Inactive problems>
+1. Diabetes mellitus
+2. Hypertension
+3. s/p neck mass excision for work-up on 2014/10/9
+
+<3C2 treatment course>
+  After he was admitted, ice blanket was performed for ketp BT around 36 degree C. The GCS level was around E1VTM1 to E3VTM4, then we removed the ice blanket on 1/29 7:30. ECG was then performed, and it reorted moderate to severe diffuse cortical dysfunction. Month angle twitching and for limbs convulsion was noted since 1/28 night, and keppra loading was then administered. Under the impression of seizure attack, we consulted neurologist, and Keppra infusion with Rivotril was suggested. Bradycarida developed since 1/29, with fluctation BP, so low dose Dopamine was added for support. 
+
+Follow-up EEG was arranged on 2016/02/01, it reported no significant changes nor epileptiform discharge. However, intermittent right facial twitching was noted since 2016/02/02. We contacted with neurologist, and they suggested to increase Rivotril dose to 1# Q6H. Seizure was subsided after then.
+
+<Assessment>
+[Current antibiotics]
+Tazocin (1/27-2/6) D10 empirical for aspiration pneumonia
+
+Previous antibiotics
+Meropenem (1/31-2/1) susp septic shock
+Tazocin (1/17-1/26) empirically for HCAP
+
+[Mv setting]
+PSV PS 12, PEEP:6, FiO2:30%
+-> VT 250, Mv: 5, SpO2 95%
+
+[Physical examination]
+consciousness: comatose, E1VtM1
+HEENT: pupil (R/L) 2.0/2.5, bilateral light reflex (trace)
+       Doll eye's sign (-). Cough reflex(+), 
+       intermittent right facial twitching
+Heart: regular heart beats (70-90/min)
+Chest: bilateral mild coarse breath sound
+Abdomen: soft, flat, normoactive bowel sound, 
+         no guarding
+Extremities: left arm edema 4+
+
+[Cultures]
+1/19 S/C: wide type K.p *2
+1/27 B/C*2
+     S/C: mixed flora
+     U/C: neg
+1/28 left femoral CVC tip tx:
+1/31 S/S: PMN>25, epi<10, GNB 1+
+     S/C: Burkholderia cepacia complex
+     B/C (AL, CVC)
+     U/C: neg
+     cryptococcal Ag: 
+
+//Endocrine or others//
+1/19  ACTH/cortisol: 26.4/32.1
+1/31  ACTH/cortisol: 11.9/12.6
+      TSH/fT4: 2.57/0.829
+
+[Import]
+1/17 Brain CT: Mild brain atrophy. Leukoaraiosis.
+1/18 Whole body CT: 
+     RUL lung cancer with diffuse bone, liver metastasis.
+     Moderate bilateral pleural effusions. 
+     Post- R/T change of the retropharyngeal space.
+1/20 Pleural effusion:
+     TP 3.9, LDH 796, TG 116, Glu 114
+     TNC 233, suspicious atypical cells
+     Gram stain: PMN<20, No bacteria
+1/21 Pleural effusion(733ml)
+     TP <3.0, LDH 303, TG <10, Glu 81
+1/28 brain CT: no ICH
+1/29 EEG: moderate to severe diffuse cortical dysfunction
+2/01 EEG: moderate to severe diffuse cortical dysfunction. No epileptiform discharge is seen.
+
+[consultation]
+1/17 Oncologist: 
+     1. Suspect pneumonia with suspected increased bilateral
+        pleural effusion, to exclude cancer progression
+     2. Altered consciousness, r/o sepsis related first
+1/29 Neuro: 
+     1. Please increase Keppra to 1000mg q12h.
+     2. Please add Rivotril(0.5) 1# q8h.
+     3. Please follow-up awake EEG on next W1. 
+02/01 Neuro CR­S:
+     intermittent right facial twitching -> suspect seizure
+     suggest increase Rivotril dose 1# Q6H
+
+[Family's decisions]
+1/21    agreed with re-intubation
+1/27-28 agreed for therapeutic hypothermia, 
+        chest tube if indicated, ­n¿n·¥
+1/28    Left upper limb swelling, SVC syndrome related, 
+        Inform family the indication of Clexane use and 
+        risk of bleeding, Family agree
+2/3 family consented to RCC transfer
+
+<Plan>
+1. Complete 10-day course of Tazocin
+2. For seizure, keep Keppra and rivotril (1# Q6H) for seizure
+3. Consider resuming clexane carefully for SVC syndrome if hemosputum subsides. Beware of re-bleeding.   
+4. Informed family about poor prognosis and vegetative possibility. Family consented to RCC transfer (probably on 02/06)

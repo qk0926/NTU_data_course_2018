@@ -1,0 +1,451 @@
+Admission Note 
+2016/08/26 18:54 
+主訴(Chief Complaint) 
+Informant:patient's daughter
+Fever on-and-off was noted since 2016/08/23. 
+病史(Brief History) 
+This 100-year-old woman had the histories of 
+#.Klebsiella pneumoniae and Escherichia coli bacteremia and urinary tract infection, 2016/07~08
+#.History of respiratory failure status post tracheostomy since 2004/01 and on long-term ventilator support
+#.Congestive heart failure with bilateral pleural effusions
+#.Anemia in chronic disease
+#.Sinus pause with escape junctional rhythm, status post permanent pacemaker (DDD) placement about 10+ years ago
+#.Old intracerebral hemorrhage over right parieto-occipital area in bed-ridden status
+#.Hyperthyroidism on medical control 
+#.Hypertension
+#.Peripheral arterial occlusive disease status post left above-knee amputation in 2003
+#.Gallstone at the cystic duct
+#.Suspected right pelvic teratoma
+  She was hospitalized at our hospital during 2016/07/21~08/11 for Klebsiella pneumoniae and Escherichia coli bacteremia and urinary tract infection. After discharge, she had poor digestion for one week (feeding 5 meals per day to 3~4 meals per day). Hematuria was noted and shifted to 3-way Foley and irrigation for days. Urine output decrease with tea-colored urine was noted for 2~3 days. Therefore, peak fever (to a temperature 38~39℃) since 8/23 and she was brought to nephrologist’s outpatient department for help. Oral Ceflour was prescribed for suspect pneumonia and urinary tract infection. Followed laboratory data showed no leukocytosis, but elevated renal function (cre=1.2mg/dL) and pyuria(urine analysis WBC>100/HPF) were noted. Her symptoms ensued, and she was brought to our emergency department (ED) on 8/25.
+  Upon arrival at triage of our ED, her vital signs were as followed: Temperature: 39℃, Pulse Rate: 75/min, Respiratory Rate: 20/min, Blood Pressure: 189/93 mmHg, SPO2: 87％ and lip cyanotic was noted, Ambu bagging was provided and shifted to ventilator(FiO2 70%) use then. Chest-ray image revealed consolidation and pleural effusion in the right lung. Laboratory data showed leukocytosis (WBC=19.51K/uL, Seg70.6% and acute on kidney injury (cre=1.3mg/dL). Urine analysis data showed pyuria (RBC35-50/HPF and WBC20-35/HPF). Empirical antibiotic as Brosym was prescribed for pneumonia and urinary tract infection. Ventilator FiO2 was tapered to 40% use gradually. Rasitol was prescribed once for decreasing urine output and poor response. Blood culture yielded Gram positive coccus. Under the impression of pneumonia, urinary tract infection and bacteremia, Gram positive coccus, she was admitted to our ward for further treatment. 
+PAST HISTORY 
+1. Medical history
+-Systemic disease: 
+#.Klebsiella pneumoniae and Escherichia coli bacteremia and urinary tract infection, 2016/07~08
+#.History of respiratory failure status post tracheostomy since 2004/01 and on long-term ventilator support
+#.Congestive heart failure with bilateral pleural effusions
+#.Anemia in chronic disease
+#.Sinus pause with escape junctional rhythm, status post permanent pacemaker (DDD) placement about 10+ years ago
+#.Old intracerebral hemorrhage over right parieto-occipital area in bed-ridden status
+#.Hyperthyroidism on medical control 
+#.Hypertension
+#.Peripheral arterial occlusive disease status post left above-knee amputation in 2003
+#.Gallstone at the cystic duct
+#.Suspected right pelvic teratoma
+-Hospitalization: 
+入院日期:2016_07_21 出院日期:2016_08_11 診斷:Urinary tract infection
+入院日期:2015_07_02 出院日期:2015_08_06 診斷:Patients requiring long-term use of a respirator due to respiratory failure use respirator 6 hours per day continue 30 days
+-Surgical history: 
+(1)Peripheral arterial occlusive disease status post left above-knee amputation in 2003
+(2)History of respiratory failure status post tracheostomy in 2004/01
+(3)Sinus pause with escape junctional rhythm, status post permanent pacemaker (DDD) placement about 10+ years ago
+2. Fever (+), TOCC: Travel: denied, Occupation: no, Cluster: nil, Contact: nil
+3. Personal history:
+-History of smoking: no
+-History of alcohol drinking: no 
+-Betel nut chewing: no
+-History of allergy to drugs: no, 家屬親述 on 2016/08/26; 
+-Medicine ADR: (+) medical record, 
+Ciprofloxacin Lactate (針 Ciproxin inj 200 mg/100 mL /vial) suspected Ciproxin-cholestasis 院內發生 發生日期:2010/07/26
+-Herbal medication: no / alternative supplement: no
+4. Family history: no history of malignancy in the family
+5. Current medication: 
+(1)NTUH emergency room
+08/25 10:38 Combivent UDV Inh Soln 2.5 mL/amp 1 amp Q6H IH  
+08/25 10:38 Siruta Inh Soln 200 mg/1 mL 3 mL/amp 1 amp Q6H IH  
+08/25 09:26 Primperan Inj 10 mg/2 mL /amp 10 mg Q12H IV for 2 分  
+08/25 08:39 袋 Saline (NK) inj 0.9% 500 mL/bag (常備藥) 500 mL QD IF for 360 分  
+08/25 08:37 Brosym (based on cefoperazone content) 500 mg/vial 1000 mg Q12H IV  
+08/25 08:37 PARAMOL 500 mg/tab 1 tab Q6HPRN PO ,if BT>38'C  
+08/25 09:30 自備 160 Diovan FC 160 mg/tab 0.5 tab QD PO  
+08/25 09:30 自備 Aleviatin 100 mg/tab 1 tab BIDPC PO  
+08/25 09:30 自備 Inderal 10 mg/tab 0.5 tab BID PO  
+(2)NTUH 2016/08/11 出院用藥
+Ipratropium Bromide, 0.5mg Salbutamol (Sulfate)【Combivent UDV Inh Soln 2.5 mL/amp】1 amp  IH  Q8H   出院藥天數13天  
+Acetylcysteine【Actein Effervescent Tablet 600 mg/tab】1 tab  PO  BID   出院藥天數13天  
+Lansoprazole【Takepron OD 30 mg/tab】1 tab  LZ  QDAC   出院藥天數13天  自費
+Metoclopramide HCl【Prometin 5 mg/tab】1 tab  PO  BIDAC30   出院藥天數13天  
+Antibiotics-Resistant Lactic Acid Bacteriae【自費 Biofermin-R Powder 6 mg/1 g /pack】1 pack  PO  TIDPC   出院藥天數13天  自費
+Valsartan【160 Diovan FC 160 mg/tab】0.5 tab  PO  QD   出院藥天數13天  
+Furosemide【Lasix 40 mg/tab】1 tab  PO  BID   出院藥天數13天  
+Spironolactone【Aldactone 25 mg/tab】1 tab  PO  BID   出院藥天數13天  
+自備藥【Inderal 10 mg/tab】0.5 tab  PO  BID   出院藥天數 天  
+自備藥【500 Lactulose Liquid 600 mg/1 mL 500 mL/btl】10 mL  PO  BID   出院藥天數 天  
+自備藥【Aleviatin 100 mg/tab】1 tab  PO  BIDPC   出院藥天數 天  
+自備藥【Newmazole 10 mg/tab】0.5 tab  PO  QOD   出院藥天數 天  
+(3)NTUH outpatient department - 2016/08/23 
+Ceflour 250 mg/tab 1 tab Q12H PO 7 14 tab  08-23 
+Aldactone 25 mg/tab 1 tab BID PO 7 14 tab  08-23 
+160 Diovan FC 160 mg/tab 0.5 tab QD PO 7 4 tab  08-23 
+PARAMOL 500 mg/tab 1 tab QID PO 7 28 tab  08-23 
+Takepron OD 30 mg/tab 1 tab QDAC LZ 7 7 tab  08-23 
+自費 Biofermin-R Powder 6 mg/1 g /pack 1 pack TIDPC PO 7 21 pack  08-23 
+Prometin 5 mg/tab 1 tab BIDAC30 PO 7 14 tab  08-23 
+Combivent UDV Inh Soln 2.5 mL/amp 1 amp Q8H IH 7 21 amp  08-23 
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 7 14 tab  08-23 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:不識字
+職業:家管
+宗教信仰:民間信仰
+婚姻狀態:喪偶
+使用語言:台語 
+口述血型:O，RH:不清楚，輸血反應:不清楚
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:木僵
+認知功能:無法評估 
+精神情緒狀態:無法評估  
+安全問題:有 其他 防跌
+睡眠形態:異常  無法評估
+
+Nutritional Screen
+攝食情形:差，攝食50%以下
+排便狀態:異常
+排便異常狀態:其他
+其他排便異常狀態:Lactulose use
+BMI:24.33
+
+Fall Risk Assessment
+總分:14
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1. Systemic: fever(+) since 8/23, subsided now, weight loss(-), easy-fatigibility(-), 
+   dizziness(-), night sweats(-)
+2. Skin: petechiae(-), purpura(-), skin rash(-), pruritus(-)
+3. HEENT: blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), 
+   hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-),
+   epistaxis(-), gum bleeding(-), sore throat(-), oral ulcer(-)
+4. Cardiovascular: exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-), 
+   syncope(-), palpitation(-), intermittent claudication(-)
+5. Respiratory: dyspnea(-), cough(+) seldom, sputum showed yellow-white and sticky, 
+   chest pain(-), hemoptysis(-), 
+6. GI: poor digestion(+) via NG feeding, nausea(-), vomiting(-), dysphagia(-), heart burn(-), 
+   acid regurgitation(-), abdominal fullness(-), hunger pain(-), midnight pain(-), 
+   constipation(+) for a long time, need 浣腸 use prn, diarrhea(-), melena(-), 
+   change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7. Urogenital: flank pain(-), hematuria(+) 1 week ago, subsided now, urinary frequency(-), urgency(-), dysuria(-), hesitancy(-), small stream of urine(-), impotance(-), nocturia(-), polyuria(-), oliguria(+) urine 60~100ml per day for 2~3 days
+8. Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-)
+9. Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10. Nervous: numbness(-), paresis/plegia(+) left side 
+身體檢查(Physical Examination) 
+BH: 156 cm,  BW: 59.2 kg,  BMI:24.33
+T: 36.7 °C,  P: 104 bpm,  R: 19 /min,
+BP: 122 / 76 mmHg,
+SpO2 97% under ventiletor use, 
+Pain score: 0 ,
+
+‧General appearance: acute ill-looking; 
+                     consciousness: unclear; GCS: E1VTM1
+‧Head-Eye-ENT: grossly normal, conjunctiva: pink, sclera: anicteric
+                Pupil: isocoric, 5.0 mm/ irregular, Light reflex: L/R: +/-,
+                Nasogastric tube(+) for feeding and poor digestion, 
+‧Neck:	Jugular vein engorgement(-), Thyroid goiter(-), Carotid bruit(-)  
+        Tracheostomy (+) with ventilator use, wound clear, 
+‧Chest:	Thoracic cage contour: symmetric
+	Vocal fremitus and expansion: symmetric
+	Breath sound: coarse over bilateral lobes, decrease over right side
+‧Heart:	Heart beat: regular, Murmurs(-)
+‧Abdomen: Ovoid and soft, 
+           Superficial vein engorgement(-), Protruded umbilicus(-), 
+           Bowel sound: hypoactive over four quadrants 
+           No stool passage for 2 days, 
+	   Tenderness(-), rebound tenderness(-), Murphy's sign(-)
+ 	   Liver and spleen: impalpable     
+           Foley(+) urine showed tea-colored
+‧Extremities: Clubbing fingers (-), Pitting edema (+), bilateral hip, Cyanosis (-), 
+               Left side below knee amputation(+)
+‧Back: Flank knocking tenderness(-)
+‧Skin: Abnormal pigmentation(-), Petechiae(-), Purpura(-), 
+        Ecchymoses(+) bilateral hands, Rash(-), 
+        Sacrum pressure (+) grade 2, about 4x3cm, [as picture]
+‧Lymphadenopathy(-)
+‧Peripheral pulsation:
+	carotid	brachihial radial femoral dorsalis pedis posterior tibial
+  Left	++	++	   ++	  ++	  ++	   ++     +       +   
+  Right	++	++	   ++	  ++	  ++	   ++     +       +
+‧Neurological examination:
+  Consciousness: coherent and oriented,  E4 M6 V5
+  Muscle power(R/L): upper limbs: 0/0,  lower limbs: 0/Left:below knee amputation
+  Gait: cannot be assessed/ bedridden, due to chronic disease status 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:B3***********
+B3-1050824-3025574   RANDOM URINE
+     ID+DS Urine #1:       Multiple colonial morphotypes present;possible contamination
+
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050824 [1102] 5.74          2.09          7.1           20.7          99.0         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1050824 [1102] 34.0          34.3          78            15.2          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050824 [1102] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050824 [1102] 81.5          0.5           0.2           8.2           9.6          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050824 [1102] 0.0           0.0           0             -            
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               Alb           TP            UN            CRE           Na           
+time/item      (g/dL)        (g/dL)        (mg/dL)       (mg/dL)       (mmol/L)     
+1050824 [1102] 3.0           6.8           72.6          1.2           135          
+               K            
+time/item      (mmol/L)     
+1050824 [1102] 3.3          
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1050824 [1102] 43.9         
+*********檢驗室:OP***********
+
+群組:SEDIMENT
+
+               RBC (S)       WBC (S)       Epith (S)     Cast (S)      Crystal (S)  
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1050824 [1140] >100          >100          2-5           -             -            
+               Bacteria      Mucus(S)      Others (S)   
+time/item      (*)           (*)           (*)          
+1050824 [1140] 3+            -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH            Protein(C)    Glu.(C)       Ketone body  
+                                                                    (U)          
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1050824 [1140] 1.009         6.0           70 ( 1+ )     -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+                                                                     (U)         
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1050824 [1140] 3+            ≦1.5          -             -             3+           
+               Color         Turbidity    
+time/item      (*)           (*)          
+1050824 [1140] Yellow        +            
+*********檢驗室:RL***********
+
+群組:Yes
+
+               hsCRP        
+time/item      (mg/dL)      
+1050824 [1102] 10.49        
+
+
+*********檢驗室:B3***********
+B3-1050825-5059435   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Few PMNs ( <10 /LPF )
+     Gram's(GS)#2:       Few epithelial cells ( < 10 /LPF )
+     Gram's(GS)#3:       Gram (-) rods 2+
+     ID+DS Sputum Culture #1:       Mixed flora
+     Gram's(GS)#4:       Gram (+) cocci 1+
+     Gram's(GS)#5:       痰檢體品質不良建議重新送檢
+
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050825 [0841] 184          
+*********檢驗室:RL***********
+
+群組:
+
+               eGFR          Mucus(S)     
+time/item      (mL/min/1.73  (*)          
+                m^2)                      
+1050825 [0839] 40.0                       
+1050825 [0850]               -            
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1050825 [0850] 35-50         20-35         2-5           -             -            
+               Bacteria      Others(S)    
+time/item      (*)           (*)          
+1050825 [0850] 3+            -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1050825 [0850] 1.004         5.5           30 ( 1+ )     -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1050825 [0850] 2+            ≦1.5          -             -             3+           
+               Color         Turbidity    
+time/item      (*)           (*)          
+1050825 [0850] Light Yellow  +                          
+群組:General BioChemistry
+
+               ALB           ALT          
+time/item      (g/dL)        (U/L)        
+1050825 [0839] 3.3           8            
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ca           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1050825 [0839] 72.6          1.3           130           3.7           2.03         
+               Mg            LacticAcid   
+time/item      (mmol/L)      (mmol/L)     
+1050825 [0839] 1.23          5.20         
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1050825 [0839] 12.4          32.6          1.13         
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050825 [0839] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050825 [0839] 70.6          0.3           0.2           7.4           21.5         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050825 [0839] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050825 [0839] 19.51         2.37          7.9           24.1          101.7        
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050825 [0839] 33.3          32.8          119           15.3          -            
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1050825 [0839] Positive     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1050825 [0839] O             Positive     
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050825 [0831] 7.269         52.1          28.4          24.1          -3.1         
+               SO2          
+time/item      (%)          
+1050825 [0831] 44.4         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1050825 [0831] 1.16          9.9           30            3.76          132.7        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1050825 [0831] 205           5.1 
+檢查紀錄(Examination Report) 
+Nil 
+影像報告(Imaging Report) 
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 簡寧 影像時間: 2016/08/25 08:47 (32001CYM) 發報告時間: 2016/08/25 14:21 obscured hear shadow atherosclerosis with wall calcification of the aorta. consolidation in the right lung. right pleural effusion. degenerative spondylosis at the thoracic spine. placement of a tracheostomy tube and a NG tube. placement of a cardiac pacemaker.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 李文正 影像時間: 2016/08/03 09:43 (32001CYM) 發報告時間: 2016/08/25 17:19 Line(s)/tube(s) present. Bilateral lung opacities. Clinical correlation and follow up suggested.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳育青 影像時間: 2016/07/29 16:25 (32001CYM) 發報告時間: 2016/07/29 18:02 a tracheostomy tube. a nasogastric tube. an intracardiac device. normal heart size. atherosclerosis and calcified aorta. bilateral consolidation and/or pleural effusion.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 黃新傑 影像時間: 2016/07/25 09:43 (32001CYM) 發報告時間: 2016/07/28 15:00 Bilateral lung increased pulmonary infiltrates with patchy, ill-defined haziness or opacities. 
+病理報告(Pathology Report) 
+Nil 
+臆斷(Tentative Diagnosis) 
+#.Bacteremia, Gram positive coccus
+#.Right lung pneumonia with parapneumonic effusion
+#.Pyuria, suspect urinary tract infection
+#.Acute on chronic kidney disease
+
+[Past history]
+#.Klebsiella pneumoniae and Escherichia coli bacteremia and urinary tract infection, 2016/07~08
+#.History of respiratory failure status post tracheostomy since 2004/01 and on long-term ventilator support
+#.Congestive heart failure with bilateral pleural effusions
+#.Anemia in chronic disease
+#.Sinus pause with escape junctional rhythm, status post permanent pacemaker (DDD) placement about 10+ years ago
+#.Old intracerebral hemorrhage over right parieto-occipital area in bed-ridden status
+#.Hyperthyroidism on medical control 
+#.Hypertension
+#.Peripheral arterial occlusive disease status post left above-knee amputation in 2003
+#.Gallstone at the cystic duct
+#.Suspected right pelvic teratoma 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+#.Bacteremia, Gram positive coccus
+#.Right lung pneumonia with parapneumonic effusion
+#.Pyuria, suspect urinary tract infection
+#.Acute on chronic kidney disease
+
+S+O:
+Consciousness: unclear; GCS: E1VTM1
+Pupil: isocoric, 5.0 mm/ irregular, 
+Light reflex: L/R: +/-,
+Nasogastric tube(+) for feeding and poor digestion, 
+Tracheostomy (+) with ventilator use, wound clear, 
+Chest expansion: symmetric, 
+Breath sound: coarse over bilateral lobes, 
+decrease over right side, 
+Sputum white and sticky, 
+Abdominal ovoid and soft, 
+Bowel sounds hypoactive over four quadrants,  
+No stool passage for 2 days, 
+Foley(+) urine showed tea-colored, 
+Pitting edema(+) bilateral hip,
+Left side below knee amputation(+)
+Ecchymoses(+) bilateral hands, 
+Sacrum pressure (+) grade 2, about 4x3cm, 
+Muscle power(R/L): upper limbs: 0/0,  
+lower limbs: 0/Left:below knee amputation
+ 
+Plan:
+1.Keep on Abx use with Brosym [8/25~Day2]
+2.NG diet 500kcal/500ml + salt 5 gm/day.
+3.Keep on Primperan ivp qd for ileus.
+4.Give Dulcolax 2# supp stat + Lactulose 10ml po bid for constipation.
+5.HTN s/p Diovan
+6.Sinus tachycardia s/p Inderal(0.5) 1/2# bid
+7.Seziure s/p Aleviatin
+8.Hyperthyroidism s/p Newmazole
+9.Inhalation Rx with Siruta
+10.Add Lasix 10mg ivp q12h + Lasix 10mg ivp q8hprn if I/O positive > 300ml q8h
+
+Treatment goal: infection control
+(body temperature < 38 degree) 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右手 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 其他氣管管路 Biovona 8.0mm 
+胃造廔口：無  
+尿管留置：有 Three way Foley 22Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：女兒 外勞 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the nurse practitioner. 
+醫師姓名 
+蔡宏斌 主治醫師 
+ 

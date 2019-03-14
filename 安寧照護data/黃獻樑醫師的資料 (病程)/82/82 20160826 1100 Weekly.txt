@@ -1,0 +1,38 @@
+Brief Summary of this week    
+The patient's mental status improved after admission, thus family meeting was arrnaged and we resumed peritoneal dialysis since 8/25. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+S:
+productive cough
+O:
+vital signs: 
+T: 36.5C,  P: 104 bpm,  R: 30 /min, BP: 136 / 60 mmHg,
+PE: 
+breath sound: crackle over bil. lung field
+heart sound: no murmur, RHB
+abdomen: no distention, soft, no tenderness
+extremities: dry gangrene over right foot, no peripheral erythema 
+lab data:
+Na 133  mmol/L, K 3.5  mmol/L
+venous gas: PH 7.422, PCO2 40.4  mmHg, PO2 48.9  mmHg   
+            HCO3 26.6  mmol/L, BaseExcess 1.9  mmol/L 
+WBC 7.73  K/£gL, HB 8.3  g/dL, PLT 247  K/£gL 
+hsCRP 2.86  mg/dL 
+
+A:
+1. nosocomial pneumonia or CMV pneumonitis
+2. Hypocalcemia, suspected Denosumab injection related
+3. Right foot ganrene, associated with PAOD, with recurrent cellulitis, status post debridement on 2016/07/18
+4. End-stage renal disease, associated with diabetic nephropathy, under peritoneal dialysis since 2008/09/17
+5. Type 2 diabetes mellitus, with nephropathy and retinopathy, HbA1c 5.3% on 2016/05/23, currently under Novomix BIDAC 4U and trajenta
+6. Hypertension
+7. Sinus tachycardia, etiology undetermined
+
+Plan 
+1. keep chest care and actein
+2. keep P/D and NG diet    
+3. psychosocial support and discuss about the following management with the family members
+4. add regular morphine for bedsore pain

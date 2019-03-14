@@ -1,0 +1,25 @@
+Dr:
+E1M1Vt
+CxR(1/15): right pneumothroax
+Levophed 1ml/hr
+FiO2 improved to 40%
+MDRAB pneumonia and bacteremia
+RA factor: 336 IU/mL
+
+Plan:
+Keep CMS +Brosym
+Palliative care was considered since his family did not want a ventilator-dependent patient
+Still consider right tubal thoracotomy
+
+[Pharmacist]
+
+
+[護理師]
+意識昏迷，呼吸偶淺快費力，keep PCV mode with ventilator use,右側胸管存，引流順暢，密切監測呼吸型態及SpO2變化,NG反抽消化佳，feeding pump run 33mL/hr (濃度:1.5 卡/cc 熱量:1200 營養品:佳易得),持續監測消化情形。
+
+[RT]
+ventilator day: 23 (2016/12/26-)
+<SETTING> PC/AC IP:12 RR:16 Ti:0.75 PEEP:5 FiO2:35
+E1M1VT under sedation s/p EEG
+oxygenation improve s/p chest tube insertion
+chest tube: 800ml purulent

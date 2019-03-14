@@ -1,0 +1,326 @@
+2015/11/13 22:40 
+主訴(Chief Complaint) 
+Informant:the patient and the past medical record.
+Intermittent fever up to 39"C for about two months. 
+病史(Brief History) 
+This is a 70-year-old man with the medical history of
+1. Non-Hodgkin lymphoma, diffuse large B cell lymphoma, stage IIE, status post R-CHOP
+(IV) in 2012, complete remission, but recurrence in 2014, status post oral Endoxan and
+Dorison (2015/2/12-2/16, 2015/4/2-4/6)status post Rituximab-Bendamustin(I)(C1D1=2015/6/2
+)), status post Rituximab-Bendamustin(II)(C2D1=2015/7/23)
+2. Chronic kidney disease
+3. Bronchiectasis
+4. Duodenal ulcer
+5. Gouty arthritis
+     According to the patient’s statement and medical record, The patient had increased sputum amount several months before April 2012. The patient denied fever/chills, dyspnea, or chest tightness during this period of time. He received a body check-up in 2012 and the chest X-ray showed a radiopaque mass at left lower lung. He underwent a chest CT on 2012/5/3 which showed bronchitis and bronchiolitis changes of bilateral lungs and a lung mass over left lower lung. The bronchoscopic biopsy was performed and the pathology showed degenerative bronchial epithelial cells. He received CT-guided biopsy on 2012/05/30 and the pathology report proved to be diffuse large B cell lymphoma. 
+     He completed chemotherapy with R-CHOP (VI) and was in complete remission. He received regular OPD follow. However, he found bilateral mandibular masses since in the summer in 201 but masses usually resolved spontaneously. He also stated that masses were sometimes painful sensation. After few episodes of recurrence, the left mandibular mass became permanent with tenderness. He received PET scan on 2014/11/17 which revealed new intense hot areas at bilateral submandibular glands (R＞L), new mild spots at bilateral upper jugular node and more intense hypermetabolism at right retrotracheal to paratracheal, and subcarinal nodes. He received core needle biopsy to the left level IB lesion on 2015/1/9. The pathology report revealed malignant lymphoma involvement (B cell type) (IHC shows CK-, CD79a+, CD3-, EBV- and CD20+). The whole body CT in 2015/1 showed No obvious brain or skull tumor. No obvious neck mass or abdominal or pelvic lymphadenopathies. He received oral Endoxan 50mg BID and Dorison 4mg BID from 2015/2/12 to 2015/2/16. He complained of mild oral ulcer, puffy face and Herpes zoster. He received Endoxan 50mg QD and Dorison 4mg QD from 2015/4/2 to 2015/4/6. But the left submandibular lympathopathies persisted. The following PET scan on 2015/5/18 showed mildly progressive changes of prior FDG-avid nodes at bilateral supraclavicular and mediastinal nodes, persistent at left submandibular node but regression at right submandibular node. Because the patient could not tolerate Endoxan and steroid, he was suggested receiving intravenous chemotherapy. On 2015/6/2, he was admitted for scheduled Rituximab-Bentamustine. He received Rituximab (375mg/m2) on 2015/6/2 and Bendamustin (150 mg/day) from 2015/6/3 to 2015/6/4. There was a little abdominal discomfort which he can't clearly described and bilateral blisters over thigh and legs noted after chemotherapy.
+     He was admitted for 2nd cycle of Rituximab+ Bendamustine(C2D0=2015/7/23). After admission, Rituximab was given on (C2D0=2015/7/23),Bendamustin(cash) were given on D2 and D3(2015/7/24~2015/7/25) There was no specific discomfort noted after target therapy and chemotherapy. We consulted dermatologist for bilateral blisters over thigh and legs with itching sensation complained by patient. Bulloud pemphigoid and dermatitis herpetiformis were suggested;therefore, we checked anti-BMZ Ab, anti-ICS Ab and arranged dermatology's OPD for biopsy. Under stable condition, patient was discharged on 2015/7/26 and we arranged OPD follow up.
+     This time, intermittent fever up to nearly 39"C was noted during these two months, especially in the morning. Besides, chills, cough with whititsh sputum, mild dyspnea, body weight loss (52.5kg on 2015/07/26 and 45.6kg on 2015/11/13), poor appetite and general malaise were also noted during this period. He went to our ER once on 2015/09/17 for help due to chills, and fever up to 39.8"C was noted. Blood culture and urine culture both showed negative findings. After antibiotics: Maxipime and anti-viral medication: Valtrex use, fever was then subsidede. He was then regularly followed up at our OPD, but intermittent fever was still noted. Chest X-ray followed on 11/12 showed increased infiltrationts at bilateral lower lung fields. Tuberculosis infection or tumor fever were highly suspected. After discussing with the patient, admitted for further survey and treatment was suggested to the patient, and he approved. So he was admitted today. He also mentioned that he had left tongue ulcer painful for 3 monthsand was followed up at our ENT OPD. Scheduled left tongue ulcer biopsy would be arranged today, but due to suspect tuberculosis infection, scheduled left tongue ulcer biopsy arranged today was then hold. If acid fast stain and TB PCR showed negative, then we may consult the ENT doctor for left tongue ulcer biopsy.
+
+Family History: His wife was diagnosed of lung cancer and was dead.
+Medication Allergy:Allopurinol (Synorid 100 mg/tab)  病人自述 2015/11/13
+UnClear  病人自述 2015/01/21
+Allopurinol (Synorid 100 mg/tab) 【Skin Rash(皮膚疹)】 病人自述 2014/06/06
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  病人自述 2015/11/13
+No  病人自述 2015/01/21
+Current Medication:
+NTUH:Feburic 80 mg/tab 0.5 tab QOD PO 28 days
+Nexium 40 mg/tab 1 tab QDAC1HR PO 28 days
+Predonine 5 mg/tab 2 tab QD PO 28 days
+Feburic 80 mg/tab 0.5 tab QOD PO 28 days
+Norvasc 5 mg/tab 1 tab QD PO 28 days
+Other:
+中草藥:nil
+保健食品:nil
+Past Medical History:
+Hospitalization:入院日期:2015_07_23 出院日期:2015_07_26 診斷:Lymphoma
+入院日期:2015_06_02 出院日期:2015_06_06 診斷:Lymphoma
+入院日期:2015_01_21 出院日期:2015_01_25 診斷:Other lymphomas, unspecified, extranodal solid organ sites
+
+Past Surgical History:
+Travel History:無, 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:大學
+職業:退休
+宗教信仰:民間信仰
+婚姻狀態:喪偶
+使用語言:國語 台語 
+口述血型:A，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有，已戒煙:40年
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:警醒
+認知功能:正常 
+精神情緒狀態:異常 焦慮 
+安全問題:有 其他 防跌
+睡眠形態:正常  
+
+Nutritional Screen
+攝食情形:普通，攝食50-74%
+排便狀態:正常
+BMI:19.08
+
+Fall Risk Assessment
+總分:5
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(+, 52.5kg on 2015/07/26 and 45.6kg on 2015/11/13), easy-fatigability(+, in recent two months), night sweats(-)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(+, in recent two months), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(+, in recent two months)
+4.Cardiovascular: exertional chest tightness(-), dyspnea(+, intermittent dyspnea was noted in recent two months), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(+, intermittent dyspnea was noted in recent two months), cough(+, in recent two months), chest pain(-), hemoptysis(-), productive cough (-), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH:154.6 cm   BW:45.6 kg
+T:36.3 P:85 R:22
+BP:133/83 mmHg
+Pain:0
+
+Neurological Examination:
+. Consciousness: clear, E4V5M6
+. Muscle power: all 4-
+. Gait: normal
+‧Head-Eye-ENT 
+        grossly normal, conjunctiva: *pale, sclera: anicteric
+        Pupil: isocoric,  3mm/ 3mm
+        Light reflex: L/R: +/+, EOM: full and free
+        *Left tongue ulcer, painful for 3 months
+‧Neck
+	Jugular vein engorgement(-)
+	Thyroid goiter(-)
+	Meningismus: Kernig sign(-); Brudzinski sign(-)
+        Carotid bruit(-)
+‧Chest
+	Thoracic cage contour: symmetric
+	Vocal fremitus and expansion: symmetric
+	Percussion: resonant
+        Breath sound: *bilateral coarse breath sound
+‧Heart
+	Heart beat: regular,  Murmurs(-)
+        LV lift(-) RV heave(-)
+	Increased cardiac size by percussion(-)
+	Adventitious sounds (-)
+‧Abdomen
+        Flat & soft
+	Superficial vein engorgement(-) Protruded umbilicus(-)
+	Bowel sound: Normoactive
+	Tenderness(-), rebound tenderness(-)
+	Liver and spleen: impalpable
+        Murphy's sign(-)
+‧Extremities
+        Freely movable
+        Pitting edema (-) ; Cyanosis (-)
+        Peripheral pulsation( Right side/ Left side ):
+            Brachial artery (++/++), Radial artery(++/++),
+            Femoral artery(++/++), Dorsalis pedis artery(++/++).
+‧Back
+        Flank knocking tenderness(-)
+‧Skin
+	Abnormal pigmentation(-)
+	Petechiae(-) Purpura(-) Ecchymoses(-) Telangiectasia(-)
+	Rash(-) Plaque(-)
+        Wound(-) Ulceration(-) Crust(-)
+‧Lymphadenopathy(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041113 [1236] 1.68          3.31          9.6           28.9          87.3         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1041113 [1236] 29.0          33.2          123           14.8          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041113 [1236] 0.0           0.0           0.0           6.0           10.0         
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041113 [1236] 75.0          1.0           0.0           5.0           3.0          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041113 [1236] 0.0           0.0           0.0 /100 WBC  WBC 100                    
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               Alb           T-BIL         AST           ALT           ALP          
+time/item      (g/dL)        (mg/dL)       (U/L)         (U/L)         (U/L)        
+1041113 [1236] 3.2           0.81          38            15            47           
+               LDH           UN            CRE           UA            Na           
+time/item      (U/L)         (mg/dL)       (mg/dL)       (mg/dL)       (mmol/L)     
+1041113 [1236] 531           45.3          2.4           4.7           133          
+               K             Ca            Mg           
+time/item      (mmol/L)      (mmol/L)      (mmol/L)     
+1041113 [1236] 4.0           2.09          0.69         
+
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041111 [1555] 1.39          3.26          9.6           29.0          89.0         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1041111 [1555] 29.4          33.1          115           14.6          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041111 [1555] 0.0           0.0           0.0           1.0           8.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041111 [1555] 81.0          0.0           0.0           5.0           5.0          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041111 [1555] 0.0           0.0           1.0 /100 WBC  WBC 100                    
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               AST           ALT           LDH           CRE           UA           
+time/item      (U/L)         (U/L)         (U/L)         (mg/dL)       (mg/dL)      
+1041111 [1555] 30            14            456           2.4           4.1          
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041028 [1720] 2.19          3.52          10.5          32.0          90.9         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1041028 [1720] 29.8          32.8          114           15.1          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041028 [1720] 0.0           0.0           0.0           0.0           8.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041028 [1720] 79.0          0.0           1.0           5.0           7.0          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041028 [1720] 0.0           0.0           0.0 /100 WBC  WBC 100                    
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               AST           ALT           LDH           CRE           UA           
+time/item      (U/L)         (U/L)         (U/L)         (mg/dL)       (mg/dL)      
+1041028 [1720] 26            15            432           2.2           3.9 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 陳雅芳 影像時間: 2015/11/12 16:48 (32001CXM) 發報告時間: 2015/11/12 16:58 EXAMINATION: Chest : PA View (Standing)
+FINDINGS:
+Fibrotic changes at upper lungs. Increased infiltrationts at both lower lung fields. Normal heart size. Sharp costophrenic angles. 
+病理報告(Pathology Report) 
+083/02/04 S9401603
+088/01/22 S9901176
+Intestine,large,sigmoid and rectum,colonoscopic biopsy,tubular adenoma    
+092/10/28 S0320899
+Parotid gland,right,deep lobe,parotidectomy,benign lymphoepithelial lesion    
+095/05/05 S0611841
+Nasopharynx,punch biopsy,reactive lymphoid hyperplasia    
+095/05/03 S0611111
+Nasopharynx,biopsy,atypical crashed cells (see description),   
+ S1135086
+Stomach,antrum/body,endoscopic biopsy,foveolar hyperplasia without Helicobacter infection,   
+098/06/01 S0918009
+Intestine,large,colon,rectum,endoscopic biopsy,mucosal tag    
+Intestine,large,colon,ascending,endoscopic polypectomy,tubulovillous adenoma    
+ S1220725
+Bone marrow,iliac crest,core biopsy,focal small lymphocyte aggregate (see description),   
+ S1219798
+Lung,lower lobe, left,CT-guided biopsy,malignant lymphoma B cell (see comment),   
+ S1218555
+Lung,bronchus, LB10,EBUS-guided transbronchial biopsy,no evidence of malignancy    
+ S1350360
+Stomach,angle,endoscopic biopsy,chronic gastritis without evidence of Helicobacter infection,   
+ S1502997
+Bone marrow,site not stated,core biopsy,hypocellular marrow with mild intertitial lymphocytosis    
+ S1501145
+Soft tissue,neck, left side,core needle biopsy,malignant lymphoma involvement    
+ S1533347
+Skin,forearm,right,biopsy,subepidermal vesicle (see description), 
+臆斷(Tentative Diagnosis) 
+1. Intermittent fever in recent two months, r/o tuberculosis infection, r/o tumor fever.
+2. Non-Hodgkin lymphoma, diffuse large B cell lymphoma, stage IIE, status post R-CHOP
+(IV) in 2012, complete remission, but recurrence in 2014, status post oral Endoxan and
+Dorison (2015/2/12-2/16, 2015/4/2-4/6)status post Rituximab-Bendamustin(I)(C1D1=2015/6/2
+)), status post Rituximab-Bendamustin(II)(C2D1=2015/7/23)
+3. Left tongue ulcer painful for 3 months, cause? 
+4. Chronic kidney disease
+5. Bronchiectasis
+6. Duodenal ulcer
+7. Gouty arthritis 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+Treatment Goal:
+* 71y/o M with underlying disease of:
+1. Non-Hodgkin lymphoma, diffuse large B cell lymphoma, stage IIE, status post R-CHOP
+(IV) in 2012, complete remission, but recurrence in 2014, status post oral Endoxan and
+Dorison (2015/2/12-2/16, 2015/4/2-4/6)status post Rituximab-Bendamustin(I)(C1D1=2015/6/2
+)), status post Rituximab-Bendamustin(II)(C2D1=2015/7/23)
+2. Left tongue ulcer painful for 3 months, cause? 
+3. Chronic kidney disease
+4. Bronchiectasis
+5. Duodenal ulcer
+6. Gouty arthritis
+, presented with intermittent fever up to 39"C for about two months.
+
+S: Intermittent fever up to 39"C for about two months.
+
+O: 
+General appearance: chronically ill
+Consciousness: clear and well orientated, E4V5M6
+Vital signs:
+BH:154.6 cm   BW:45.6 kg
+T:36.3 P:85 R:22
+BP:133/83 mmHg
+Pain:0
+HEENT: sclera: anicteric
+       conjunctiva: *pale
+Chest and lungs: *bilateral coarse breath sound
+Abdomen: soft, normoactive nowel sound, no tenderness, muscle guarding or rebound tenderness
+
+A:
+1. Intermittent fever in recent two months, r/o tuberculosis infection, r/o tumor fever.
+2. Non-Hodgkin lymphoma, diffuse large B cell lymphoma, stage IIE, status post R-CHOP
+(IV) in 2012, complete remission, but recurrence in 2014, status post oral Endoxan and
+Dorison (2015/2/12-2/16, 2015/4/2-4/6)status post Rituximab-Bendamustin(I)(C1D1=2015/6/2
+)), status post Rituximab-Bendamustin(II)(C2D1=2015/7/23)
+3. Left tongue ulcer painful for 3 months, cause? 
+4. Chronic kidney disease
+5. Bronchiectasis
+6. Duodenal ulcer
+7. Gouty arthritis
+
+P:
+1. Pending for acid fast stain x 3, sputum culture and TB PCR.
+2. Hold scheduled left tongue ulcer biopsy due to tuberculosis infection was suspected. If acid fast stain and TB PCR showed negative, then may consult the ENT doctor for left tongue ulcer biopsy. 
+3. Keep symptomatic medication. 
+出院規劃(Discharge Planning) 
+管路留置狀況:無
+日常生活功能分數：100
+預期出院後居住場所：獨居 
+預期出院後主要照顧者：自己 
+出院規劃收案篩檢：高危病患 慢性病控制不良 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident.
+I discussed with chest specialist, TB is not likely. However, we should figure out the nature of pulmonary disease. 
+醫師姓名 
+徐思淳 主治醫師 

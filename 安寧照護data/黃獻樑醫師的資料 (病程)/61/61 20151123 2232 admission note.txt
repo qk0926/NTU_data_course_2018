@@ -1,0 +1,1557 @@
+       
+ 
+                        M
+E
+N
+U  
+病房作業系統
+病房主功能
+病房首頁
+照會查詢
+印表設定
+交班作業
+假日出院
+標籤設定與列印 
+ 
+ 
+ 
+ 
+黃獻樑
+    
+ 
+ 
+   
+   
+   ● 
+ 院區： 登入者：黃獻樑(01XX83) 
+       
+        
+ 
+ 
+  
+ 
+ 
+略過巡覽連結切換 展開 切換 
+ 
+03A2_07_01_賴淑芬 
+ 
+12D_06_01_賴淑芬 
+ 
+12D_09_01_賴淑芬 
+ 
+13C_05_01_賴淑芬 
+ 
+05PW_07_01_賴淑芬 
+ 
+12D_11_01_賴淑芬 
+ 
+12D_11_01_賴淑芬 
+ 
+12C_10_02_賴淑芬 
+ 
+12D_18_01_賴淑芬 
+ 
+向上捲動 向下捲動   賴淑芬(F,1969/11/02,47y10m) 5758383 入: 2015/11/23 床: T0-03A2-07-01 等:加護病床 已出院 重:202 重大傷病    
+跌、隔、巴、DNR  
+      5758383 
+      目前沒有更多的表單可新增            
+
+    Progress Note Weekly Summary On Service Off Service Procedure Note Blank Note Antibiotic Pharmacy Note Admission Note OP Summary   顯示刪除紀錄 篩選    
+  Admission Note     
+ Data  
+         
+ 
+ 
+ 時間  類別   
+  15T01891536  1  2016-12-31 13:33:00  12-31  3562629  True  blank  Treatment Course   暫  
+  15T01891536  2  2016-01-07 16:52:00  01-07  3632610  True  blank  Palliative extubati..  V  V  
+  15T01891536  1  2016-01-07 16:52:00  01-07  3632610  False  blank  Palliative extubati..  R  R  
+  15T01891536  1  2016-01-07 11:45:00  01-07  3630315  True  blank  呼吸治療紀錄  O  O  
+  15T01891536  2  2016-01-07 09:56:00  01-07  3628804  True  progress  Progress  V  V  
+  15T01891536  1  2016-01-07 09:56:00  01-07  3628804  False  progress  Progress  R  R  
+  15T01891536  2  2016-01-06 22:22:00  01-06  3627196  True  progress  Progress  V  V  
+  15T01891536  1  2016-01-06 22:22:00  01-06  3627196  False  progress  Progress  R  R  
+  15T01891536  2  2016-01-06 16:08:00  01-06  3625627  True  progress  Progress  V  V  
+  15T01891536  1  2016-01-06 16:08:00  01-06  3625627  False  progress  Progress  R  R  
+  15T01891536  2  2016-01-06 14:48:00  01-06  3624985  True  blank  安寧共照紀錄  V  V  
+  15T01891536  1  2016-01-06 14:48:00  01-06  3624985  False  blank  安寧共照紀錄  R  R  
+  15T01891536  1  2016-01-06 10:56:00  01-06  3622936  True  blank  呼吸治療紀錄  O  O  
+  15T01891536  1  2016-01-06 08:35:00  01-06  3621552  True  blank  VS Note  V  V  
+  15T01891536  2  2016-01-05 23:56:00  01-05  3620984  True  progress  Progress  V  V  
+  15T01891536  1  2016-01-05 23:56:00  01-05  3620984  False  progress  Progress  R  R  
+  15T01891536  2  2016-01-05 19:33:00  01-05  3620166  True  progress  Progress  V  V  
+  15T01891536  1  2016-01-05 19:33:00  01-05  3620166  False  progress  Progress  R  R  
+  15T01891536  3  2016-01-05 18:55:00  01-05  3620030  True  blank  安寧共照紀錄  V  V  
+  15T01891536  2  2016-01-05 18:55:00  01-05  3620030  False  blank  安寧共照紀錄  R  R  
+  15T01891536  1  2016-01-05 18:55:00  01-05  3620030  False  blank  安寧共照紀錄  R  R  
+  15T01891536  1  2016-01-05 10:18:00  01-05  3615941  True  blank  呼吸治療紀錄  O  O  
+  15T01891536  1  2016-01-05 10:14:00  01-05  3615896  True  blank  VS Note  V  V  
+  15T01891536  2  2016-01-04 23:52:00  01-04  3614460  True  progress  Progress  V  V  
+  15T01891536  1  2016-01-04 23:52:00  01-04  3614460  False  progress  Progress  R  R  
+  15T01891536  1  2016-01-04 16:48:00  01-04  3612488  True  blank  呼吸治療紀錄  O  O  
+  15T01891536  1  2016-01-04 14:50:00  01-04  3611331  True  procedure  Double lumen  V  V  
+  15T01891536  2  2016-01-04 14:27:00  01-04  3611081  True  progress  Progress  V  V  
+  15T01891536  1  2016-01-04 14:27:00  01-04  3611081  False  progress  Progress  R  R  
+  15T01891536  1  2016-01-04 08:49:00  01-04  3607647  True  blank  VS Note  V  V  
+  15T01891536  2  2016-01-04 01:45:00  01-04  3607050  True  progress  Progress  V  V  
+  15T01891536  1  2016-01-04 01:45:00  01-04  3607050  False  progress  Progress  R  R  
+  15T01891536  2  2016-01-03 13:11:00  01-03  3604874  True  progress  Progress  V  V  
+  15T01891536  1  2016-01-03 13:11:00  01-03  3604874  False  progress  Progress  R  R  
+  15T01891536  2  2016-01-02 17:38:00  01-02  3602518  True  progress  Progress  V  V  
+  15T01891536  1  2016-01-02 17:38:00  01-02  3602518  False  progress  Progress  R  R  
+  15T01891536  2  2016-01-02 01:25:00  01-02  3600009  True  progress  Progress  V  V  
+  15T01891536  1  2016-01-02 01:25:00  01-02  3600009  False  progress  Progress  R  R  
+  15T01891536  2  2016-01-01 21:38:00  01-01  3599533  True  blank  On-Service Note  V  V  
+  15T01891536  1  2016-01-01 21:38:00  01-01  3599533  False  blank  On-Service Note  R  R  
+  15T01891536  1  2016-01-01 10:52:00  01-01  3597256  True  blank  VS Note  V  V  
+  15T01891536  2  2016-01-01 01:00:00  01-01  3596158  True  progress  Progress  V  V  
+  15T01891536  1  2016-01-01 01:00:00  01-01  3596158  False  progress  Progress  R  R  
+  15T01891536  1  2015-12-31 14:38:00  12-31  3593519  True  blank  VS Note  V  V  
+  15T01891536  2  2015-12-31 14:18:00  12-31  3593300  True  offservice  Off-Service  V  V  
+  15T01891536  1  2015-12-31 14:18:00  12-31  3593300  False  offservice  Off-Service  R  R  
+  15T01891536  1  2015-12-31 13:22:00  12-31  3592783  True  blank  營養師紀錄  O  O  
+  15T01891536  1  2015-12-31 12:18:11  12-31  31098527  True  antibiotic  Tigecycline  V  V  
+  15T01891536  1  2015-12-31 12:17:11  12-31  31098496  True  antibiotic  Tigecycline  V  V  
+  15T01891536  1  2015-12-31 10:45:00  12-31  3591105  True  blank  呼吸治療紀錄  O  O  
+  15T01891536  3  2015-12-30 23:52:00  12-30  3589147  true  progress  Progress  V  V  
+  15T01891536  2  2015-12-30 23:52:00  12-30  3589147  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-30 23:52:00  12-30  3589147  false  progress  Progress  R  R  
+  15T01891536  2  2015-12-30 16:51:00  12-30  3587488  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-30 16:51:00  12-30  3587488  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-30 15:50:00  12-30  3587099  true  procedure  Double lumen  V  V  
+  15T01891536  1  2015-12-30 14:52:00  12-30  3586402  true  blank  呼吸治療紀錄  O  O  
+  15T01891536  1  2015-12-30 13:15:00  12-30  3585922  true  procedure  Central Venous Cath..  V  V  
+  15T01891536  1  2015-12-30 09:43:00  12-30  3583149  true  blank  VS Note  V  V  
+  15T01891536  2  2015-12-29 21:14:00  12-29  3581854  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-29 21:14:00  12-29  3581854  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-29 16:00:00  12-29  3580466  true  blank  呼吸治療紀錄  O  O  
+  15T01891536  1  2015-12-29 13:31:00  12-29  3579162  true  blank  VS Note  V  V  
+  15T01891536  2  2015-12-29 12:35:00  12-29  3578829  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-29 12:35:00  12-29  3578829  false  progress  Progress  R  R  
+  15T01891536  2  2015-12-28 23:44:00  12-28  3575654  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-28 23:44:00  12-28  3575654  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-28 14:30:00  12-28  3572590  true  blank  呼吸治療紀錄  O  O  
+  15T01891536  2  2015-12-28 11:58:00  12-28  3571428  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-28 11:58:00  12-28  3571428  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-28 08:37:00  12-28  3569048  true  blank  VS Note  V  V  
+  15T01891536  2  2015-12-27 18:33:00  12-27  3567500  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-27 18:33:00  12-27  3567500  false  progress  Progress  R  R  
+  15T01891536  2  2015-12-27 16:59:00  12-27  3567131  true  blank  Hema VS Note  V  V  
+  15T01891536  1  2015-12-27 16:59:00  12-27  3567131  false  blank  Hema VS Note  V  V  
+  15T01891536  2  2015-12-26 23:00:00  12-26  3564061  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-26 23:00:00  12-26  3564061  false  progress  Progress  R  R  
+  15T01891536  2  2015-12-26 14:09:00  12-26  3562723  true  weekly  Weekly  V  V  
+  15T01891536  1  2015-12-26 14:09:00  12-26  3562723  false  weekly  Weekly  R  R  
+  15T01891536  1  2015-12-26 10:35:00  12-26  3561871  true  blank  VS Note  V  V  
+  15T01891536  2  2015-12-26 04:10:00  12-26  3561105  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-26 04:10:00  12-26  3561105  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-25 15:21:00  12-25  3558711  true  blank  呼吸治療紀錄  O  O  
+  15T01891536  3  2015-12-25 13:41:00  12-25  3557785  true  progress  Progress  V  V  
+  15T01891536  2  2015-12-25 13:41:00  12-25  3557785  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-25 13:41:00  12-25  3557785  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-25 13:25:00  12-25  3557764  true  procedure  Central Venous Cath..  V  V  
+  15T01891536  1  2015-12-25 10:00:00  12-25  3555555  true  blank  VS Note  V  V  
+  15T01891536  1  2015-12-24 22:40:00  12-24  3554032  true  progress  Progress   暫  
+  15T01891536  2  2015-12-24 17:08:00  12-24  3552905  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-24 17:08:00  12-24  3552905  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-24 16:33:00  12-24  3552638  true  blank  Pharmacy note  P  藥  
+  15T01891536  1  2015-12-24 11:59:00  12-24  3550550  true  blank  呼吸治療紀錄  O  O  
+  15T01891536  2  2015-12-23 23:26:00  12-23  3547549  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-23 23:26:00  12-23  3547549  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-23 16:10:00  12-23  3546079  true  blank  呼吸治療紀錄  O  O  
+  15T01891536  1  2015-12-23 11:21:00  12-23  3544048  true  procedure  CFS  V  V  
+  15T01891536  1  2015-12-23 11:01:00  12-23  3544036  true  procedure  EGD  V  V  
+  15T01891536  2  2015-12-23 10:26:00  12-23  3542932  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-23 10:26:00  12-23  3542932  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-23 09:37:00  12-23  3542292  true  blank  VS Note  V  V  
+  15T01891536  2  2015-12-22 22:43:00  12-22  3541181  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-22 22:43:00  12-22  3541181  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-22 16:55:00  12-22  3539961  true  blank  營養師紀錄  O  O  
+  15T01891536  2  2015-12-22 12:11:00  12-22  3537850  true  blank  呼吸治療紀錄  O  O  
+  15T01891536  1  2015-12-22 12:11:00  12-22  3537850  false  blank  呼吸治療紀錄  O  O  
+  15T01891536  2  2015-12-22 10:58:00  12-22  3536924  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-22 10:58:00  12-22  3536924  false  progress  Progress  R  R  
+  15T01891536  2  2015-12-22 09:46:00  12-22  3536096  true  blank  VS Note  V  V  
+  15T01891536  1  2015-12-22 09:46:00  12-22  3536096  false  blank  VS Note  V  V  
+  15T01891536  1  2015-12-22 00:00:00  12-22  2015-T0-103214|01  true  opsummary  OP Summary  V  V  
+  15T01891536  2  2015-12-21 22:02:00  12-21  3534607  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-21 22:02:00  12-21  3534607  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-21 16:29:00  12-21  3533157  true  blank  呼吸治療紀錄  O  O  
+  15T01891536  1  2015-12-21 16:00:00  12-21  3533192  true  procedure  broncoscopy  V  V  
+  15T01891536  1  2015-12-21 15:47:18  12-21  30949060  true  antibiotic  Metronidazole  R  R  
+  15T01891536  1  2015-12-21 15:45:52  12-21  30949022  true  antibiotic  Metronidazole  R  R  
+  15T01891536  1  2015-12-21 15:29:05  12-21  30948667  true  antibiotic  Foscarnet Sodium  V  V  
+  15T01891536  2  2015-12-21 11:06:00  12-21  3530140  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-21 11:06:00  12-21  3530140  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-21 08:38:00  12-21  3528378  true  blank  VS Note  V  V  
+  15T01891536  3  2015-12-20 23:04:00  12-20  3527650  true  progress  Progress  V  V  
+  15T01891536  2  2015-12-20 23:04:00  12-20  3527650  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-20 23:04:00  12-20  3527650  false  progress  Progress  R  R  
+  15T01891536  2  2015-12-20 00:06:00  12-20  3523783  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-20 00:06:00  12-20  3523783  false  progress  Progress  R  R  
+  15T01891536  2  2015-12-19 12:04:00  12-19  3521976  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-19 12:04:00  12-19  3521976  false  progress  Progress  R  R  
+  15T01891536  3  2015-12-18 22:47:00  12-18  3520085  true  progress  Progress  V  V  
+  15T01891536  2  2015-12-18 22:47:00  12-18  3520085  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-18 22:47:00  12-18  3520085  false  progress  Progress  R  R  
+  15T01891536  2  2015-12-18 18:30:00  12-18  3519326  true  blank  CPR Note  V  V  
+  15T01891536  1  2015-12-18 18:30:00  12-18  3519326  false  blank  CPR Note  R  R  
+  15T01891536  1  2015-12-18 16:40:00  12-18  3518346  true  procedure  Endotracheal tube  V  V  
+  15T01891536  1  2015-12-18 16:15:00  12-18  3518468  true  blank  呼吸治療紀錄  O  O  
+  15T01891536  1  2015-12-18 16:04:00  12-18  3518348  true  procedure  bronchoscopy  V  V  
+  15T01891536  2  2015-12-18 12:51:00  12-18  3516554  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-18 12:51:00  12-18  3516554  false  progress  Progress  R  R  
+  15T01891536  2  2015-12-18 09:51:00  12-18  3514475  true  blank  VS Note  V  V  
+  15T01891536  1  2015-12-18 09:51:00  12-18  3514475  false  blank  VS Note  V  V  
+  15T01891536  2  2015-12-18 00:42:00  12-18  3513286  true  onservice  On-Service  V  V  
+  15T01891536  1  2015-12-18 00:42:00  12-18  3513286  false  onservice  On-Service  R  R  
+  15T01891536  3  2015-12-17 21:47:00  12-17  3512927  true  offservice  Off-Service  V  V  
+  15T01891536  2  2015-12-17 21:47:00  12-17  3512927  false  offservice  Off-Service  R  R  
+  15T01891536  2  2015-12-17 21:46:58  12-17  30900159  true  antibiotic  Levofloxacin Hemihy..  R  R  
+  15T01891536  1  2015-12-17 21:46:58  12-17  30900159  false  antibiotic  Levofloxacin Hemihy..  R  R  
+  15T01891536  1  2015-12-17 21:46:58  12-17  30900158  true  antibiotic  Levofloxacin Hemihy..  R  R  
+  15T01891536  4  2015-12-17 21:07:00  12-17  3512805  true  blank  Duty note  V  V  
+  15T01891536  3  2015-12-17 21:07:00  12-17  3512805  false  blank  Duty note  R  R  
+  15T01891536  1  2015-12-17 21:07:00  12-17  3512805  false  blank  Duty note  V  V  
+  15T01891536  1  2015-12-17 21:00:00  12-17  3513398  true  procedure  Endotracheal tube  V  V  
+  15T01891536  1  2015-12-17 21:00:00  12-17  3512950  true  blank  呼吸治療紀錄  O  O  
+  15T01891536  5  2015-12-17 19:57:00  12-17  3513306  true  progress  Progress  V  V  
+  15T01891536  4  2015-12-17 19:57:00  12-17  3513306  false  progress  Progress  R  R  
+  15T01891536  3  2015-12-17 19:57:00  12-17  3513306  false  progress  Progress  R  R  
+  15T01891536  2  2015-12-17 19:57:00  12-17  3513306  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-17 19:57:00  12-17  3513306  false  progress  Progress  R  R  
+  15T01891536  2  2015-12-17 17:11:19  12-17  30897842  true  antibiotic  Co-trimoxazole  V  V  
+  15T01891536  1  2015-12-17 17:11:19  12-17  30897842  false  antibiotic  Co-trimoxazole  R  R  
+  15T01891536  2  2015-12-17 16:59:00  12-17  3511953  true  blank  ID note  V  V  
+  15T01891536  1  2015-12-17 16:59:00  12-17  3511953  false  blank  ID note  R  R  
+  15T01891536  1  2015-12-17 15:11:55  12-17  30895331  true  antibiotic  Voriconazole  V  V  
+  15T01891536  2  2015-12-17 11:51:11  12-17  30891467  true  antibiotic  Vancomycin HCl  V  V  
+  15T01891536  1  2015-12-17 11:51:11  12-17  30891467  false  antibiotic  Vancomycin HCl  R  R  
+  15T01891536  3  2015-12-16 18:18:00  12-16  3506910  true  onservice  On-Service  V  V  
+  15T01891536  2  2015-12-16 18:18:00  12-16  3506910  false  onservice  On-Service  R  R  
+  15T01891536  1  2015-12-16 18:18:00  12-16  3506910  false  onservice  On-Service  R  R  
+  15T01891536  2  2015-12-16 10:20:00  12-16  3501965  true  offservice  Off-Service  V  V  
+  15T01891536  1  2015-12-16 10:20:00  12-16  3501965  false  offservice  Off-Service  R  R  
+  15T01891536  1  2015-12-16 09:14:00  12-16  3501211  true  blank  VS Note  V  V  
+  15T01891536  2  2015-12-15 21:42:00  12-15  3500108  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-15 21:42:00  12-15  3500108  false  progress  Progress  R  R  
+  15T01891536  2  2015-12-15 10:23:53  12-15  30856330  true  antibiotic  Vancomycin HCl  V  V  
+  15T01891536  1  2015-12-15 10:23:53  12-15  30856330  false  antibiotic  Vancomycin HCl  R  R  
+  15T01891536  2  2015-12-15 10:09:00  12-15  3495442  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-15 10:09:00  12-15  3495442  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-15 09:14:00  12-15  3494840  true  blank  VS Note  V  V  
+  15T01891536  2  2015-12-14 20:17:00  12-14  3493364  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-14 20:17:00  12-14  3493364  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-14 15:22:00  12-14  3491497  true  blank  營養師紀錄  O  O  
+  15T01891536  2  2015-12-14 10:18:00  12-14  3488327  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-14 10:18:00  12-14  3488327  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-14 08:03:00  12-14  3487276  true  blank  VS Note  V  V  
+  15T01891536  2  2015-12-13 17:12:00  12-13  3485453  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-13 17:12:00  12-13  3485453  false  progress  Progress  R  R  
+  15T01891536  2  2015-12-13 06:27:09  12-13  30825942  true  antibiotic  Ceftazidime Pentahy..  V  V  
+  15T01891536  1  2015-12-13 06:27:09  12-13  30825942  false  antibiotic  Ceftazidime Pentahy..  R  R  
+  15T01891536  2  2015-12-12 23:17:00  12-12  3482862  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-12 23:17:00  12-12  3482862  false  progress  Progress  R  R  
+  15T01891536  2  2015-12-12 16:21:00  12-12  3482147  true  onservice  On-Service  V  V  
+  15T01891536  1  2015-12-12 16:21:00  12-12  3482147  false  onservice  On-Service  R  R  
+  15T01891536  1  2015-12-12 14:00:00  12-12  3481712  true  procedure  Central Venous Cath..  V  V  
+  15T01891536  2  2015-12-12 09:47:41  12-12  30818438  true  antibiotic  Piperacillin 2000 m..  V  V  
+  15T01891536  1  2015-12-12 09:47:41  12-12  30818438  false  antibiotic  Piperacillin 2000 m..  R  R  
+  15T01891536  2  2015-12-12 06:05:00  12-12  3479824  true  offservice  Off-Service  V  V  
+  15T01891536  1  2015-12-12 06:05:00  12-12  3479824  false  offservice  Off-Service  R  R  
+  15T01891536  3  2015-12-12 04:29:00  12-12  3479772  true  blank  Duty note  V  V  
+  15T01891536  2  2015-12-12 04:29:00  12-12  3479772  false  blank  Duty note  R  R  
+  15T01891536  1  2015-12-12 04:29:00  12-12  3479772  false  blank  Duty note  R  R  
+  15T01891536  2  2015-12-11 22:07:00  12-11  3479304  true  blank  Duty note  V  V  
+  15T01891536  1  2015-12-11 22:07:00  12-11  3479304  false  blank  Duty note  R  R  
+  15T01891536  2  2015-12-11 21:58:53  12-11  30815166  true  antibiotic  Cefmetazole Sodium  V  V  
+  15T01891536  1  2015-12-11 21:58:53  12-11  30815166  false  antibiotic  Cefmetazole Sodium  R  R  
+  15T01891536  1  2015-12-11 16:36:00  12-11  3478045  true  weekly  Weekly  V  V  
+  15T01891536  3  2015-12-10 17:00:00  12-10  3471232  true  progress  Progress  V  V  
+  15T01891536  2  2015-12-10 17:00:00  12-10  3471232  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-10 17:00:00  12-10  3471232  false  progress  Progress  R  R  
+  15T01891536  5  2015-12-10 01:27:00  12-10  3466094  true  progress  Progress  V  V  
+  15T01891536  2  2015-12-10 01:27:00  12-10  3466094  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-10 01:27:00  12-10  3466094  false  progress  Progress  R  R  
+  15T01891536  6  2015-12-09 18:27:00  12-09  3466094  false  progress  Progress  V  V  
+  15T01891536  4  2015-12-09 18:27:00  12-09  3466094  false  progress  Progress  R  R  
+  15T01891536  3  2015-12-09 18:27:00  12-09  3466094  false  progress  Progress  R  R  
+  15T01891536  2  2015-12-09 00:28:00  12-09  3459680  true  blank  VS Note  V  V  
+  15T01891536  1  2015-12-09 00:28:00  12-09  3459680  false  blank  VS Note  V  V  
+  15T01891536  3  2015-12-08 21:31:00  12-08  3459270  true  progress  Progress  V  V  
+  15T01891536  2  2015-12-08 21:31:00  12-08  3459270  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-08 21:31:00  12-08  3459270  false  progress  Progress  R  R  
+  15T01891536  3  2015-12-07 18:05:00  12-07  3453400  true  progress  Progress  V  V  
+  15T01891536  2  2015-12-07 18:05:00  12-07  3453400  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-07 18:05:00  12-07  3453400  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-06 23:22:00  12-06  3655969  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-05 23:22:00  12-05  3655971  true  progress  Progress  V  V  
+  15T01891536  1  2015-12-04 23:07:00  12-04  3438563  true  blank  VS Note  V  V  
+  15T01891536  1  2015-12-04 15:49:00  12-04  3436614  true  weekly  Weekly  V  V  
+  15T01891536  3  2015-12-03 11:31:00  12-03  3427775  true  progress  Progress  V  V  
+  15T01891536  2  2015-12-03 11:31:00  12-03  3427775  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-03 11:31:00  12-03  3427775  false  progress  Progress  R  R  
+  15T01891536  3  2015-12-02 17:39:00  12-02  3425607  true  progress  Progress  V  V  
+  15T01891536  2  2015-12-02 17:39:00  12-02  3425607  false  progress  Progress  R  R  
+  15T01891536  1  2015-12-02 17:39:00  12-02  3425607  false  progress  Progress  R  R  
+  15T01891536  3  2015-12-01 23:27:00  12-01  3418783  true  onservice  On-Service  V  V  
+  15T01891536  2  2015-12-01 23:27:00  12-01  3418783  false  onservice  On-Service  R  R  
+  15T01891536  1  2015-12-01 23:27:00  12-01  3418783  false  onservice  On-Service  R  R  
+  15T01891536  3  2015-11-30 15:31:00  11-30  3409725  true  blank  Off-Service Note  V  V  
+  15T01891536  2  2015-11-30 15:31:00  11-30  3409725  false  blank  Off-Service Note  R  R  
+  15T01891536  1  2015-11-30 15:31:00  11-30  3409725  false  blank  Weekly Summary  R  R  
+  15T01891536  1  2015-11-29 17:20:00  11-29  3404383  true  blank  值班主治醫師迴診  V  V  
+  15T01891536  13  2015-11-28 21:09:00  11-28  3400724  true  blank  VS Liu Note  V  V  
+  15T01891536  12  2015-11-28 21:09:00  11-28  3400724  false  blank  VS Liu Note  V  V  
+  15T01891536  11  2015-11-28 21:09:00  11-28  3400724  false  blank  VS Liu Note  V  V  
+  15T01891536  10  2015-11-28 21:09:00  11-28  3400724  false  blank  VS Liu Note  V  V  
+  15T01891536  9  2015-11-28 21:09:00  11-28  3400724  false  blank  VS Liu Note  V  V  
+  15T01891536  8  2015-11-28 21:09:00  11-28  3400724  false  blank  VS Liu Note  V  V  
+  15T01891536  7  2015-11-28 21:09:00  11-28  3400724  false  blank  VS Liu Note  V  V  
+  15T01891536  6  2015-11-28 21:09:00  11-28  3400724  false  blank  VS Liu Note  V  V  
+  15T01891536  5  2015-11-28 21:09:00  11-28  3400724  false  blank  VS Liu Note  V  V  
+  15T01891536  4  2015-11-28 21:09:00  11-28  3400724  false  blank  VS Liu Note  V  V  
+  15T01891536  3  2015-11-28 21:09:00  11-28  3400724  false  blank  VS Liu Note  V  V  
+  15T01891536  2  2015-11-28 21:09:00  11-28  3400724  false  blank  VS Liu Note  V  V  
+  15T01891536  1  2015-11-28 21:09:00  11-28  3400724  false  blank  VS Liu Note  V  V  
+  15T01891536  1  2015-11-28 18:04:00  11-28  3400507  true  procedure  Central Venous Cath..  V  V  
+  15T01891536  2  2015-11-28 18:01:00  11-28  3400353  true  blank  DTR  V  V  
+  15T01891536  1  2015-11-28 18:01:00  11-28  3400353  false  blank  DTR  R  R  
+  15T01891536  2  2015-11-27 23:22:00  11-27  3397699  true  blank  Weekly Summary  V  V  
+  15T01891536  1  2015-11-27 23:22:00  11-27  3397699  false  blank  Weekly Summary  R  R  
+  15T01891536  1  2015-11-27 10:57:00  11-27  3394443  true  procedure  CSF study, lumbar p..  V  V  
+  15T01891536  2  2015-11-26 23:33:00  11-26  3390866  true  progress  Progress  V  V  
+  15T01891536  1  2015-11-26 23:33:00  11-26  3390866  false  progress  Progress  R  R  
+  15T01891536  2  2015-11-26 11:05:21  11-26  30582188  true  antibiotic  Cefuroxime Sodium  V  V  
+  15T01891536  1  2015-11-26 11:05:21  11-26  30582188  false  antibiotic  Cefuroxime Sodium  R  R  
+  15T01891536  4  2015-11-25 17:04:00  11-25  3383258  true  progress  Progress  V  V  
+  15T01891536  3  2015-11-25 17:04:00  11-25  3383258  false  progress  Progress  V  V  
+  15T01891536  2  2015-11-25 17:04:00  11-25  3383258  false  progress  Progress  V  V  
+  15T01891536  1  2015-11-25 17:04:00  11-25  3383258  false  progress  Progress  R  R  
+  15T01891536  3  2015-11-24 22:20:00  11-24  3377867  true  progress  Progress  V  V  
+  15T01891536  2  2015-11-24 22:20:00  11-24  3377867  false  progress  Progress  R  R  
+  15T01891536  1  2015-11-24 22:20:00  11-24  3377867  false  progress  Progress  R  R  
+  15T01891536  1  2015-11-24 10:49:01  11-24  30549517  true  antibiotic  Foscarnet Sodium  V  V  
+  15T01891536  2  2015-11-23 00:00:00  11-23  1  true  admission  Admission Note  V  V  
+  15T01891536  1  2015-11-23 00:00:00  11-23  1  false  admission  Admission Note  R  R  
+  15T01891536  -1  2015-11-23 00:00:00  11-23  1  false  admission  Admission Note  N  N  
+ 
+
+    
+ 
+ 
+
+    
+   
+
+ 
+ 
+ 
+請選擇刪除理由: 必填!  
+非需要之問題項目 
+ 
+   
+修改問題內容:  
+  
+   
+          西元 年 月 日 時 分   
+ 
+Subjective  Objective  
+    
+Purpose of Admission  
+  
+Assessment of Catheterization
+ 
+    
+Brief Summary of yesterday  
+  
+載入圖形中...    
+ 
+ Problem Assessment Plan   
+          PAP 1PAP 2PAP 3PAP 4PAP 5PAP 6PAP 7PAP 8PAP 9PAP10  Assessment 
+ 載入圖形中... 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+  
+ VS Comment
+ 
+      
+記錄者
+ 
+ 
+覆核者  
+    
+ 
+簡訊通知撰寫者 此紀錄為教學病歷  
+   
+ 
+  
+        西元 年 月 日 時 分   
+ 
+Diagnosis And History  
+  
+Purpose of Admission  
+  
+ Problem Assessment Plan   
+          PAP 1PAP 2PAP 3PAP 4PAP 5PAP 6PAP 7PAP 8PAP 9PAP10  Assessment 
+ 載入圖形中... 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+  
+ On-Service Physical Exam and Assessment
+ 
+    
+ 
+Current Medication
+ 
+  
+VS Comment
+ 
+      
+記錄者
+ 
+ 
+覆核者  
+    
+ 
+簡訊通知撰寫者 此紀錄為教學病歷  
+   
+ 
+  
+        西元 年 月 日 時 分   
+ 
+Diagnosis  
+  
+Brief Summary  
+  
+Purpose of Admission  
+  
+Problem Assessment Plan   
+          PAP 1PAP 2PAP 3PAP 4PAP 5PAP 6PAP 7PAP 8PAP 9PAP10  Assessment 
+ 載入圖形中... 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+  
+Current Medication
+ 
+  
+VS Comment  
+      
+記錄者
+ 
+ 
+覆核者  
+    
+ 
+簡訊通知撰寫者 此紀錄為教學病歷  
+   
+ 
+  
+        西元 年 月 日 時 分   
+ 
+Diagnosis  
+  
+Brief Summary of this week    
+  
+Purpose of Admission  
+  
+Problem Assessment Plan   
+          PAP 1PAP 2PAP 3PAP 4PAP 5PAP 6PAP 7PAP 8PAP 9PAP10  Assessment 
+ 載入圖形中... 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+   Assessment 
+ 
+   
+Plan 
+  
+Current Medication
+ 
+  
+VS Comment
+ 
+      
+記錄者
+ 
+ 
+覆核者  
+    
+ 
+簡訊通知撰寫者 此紀錄為教學病歷  
+   
+ 
+  
+ 侵入性處置評估及記錄  
+主治醫師：   
+處置名稱：      
+一.處置前評估 Pre-procedure assessment  
+病人狀況： 穩定 不穩定   
+記錄時間：  
+   
+ 
+二.Time-out  
+項目  病人  術式  部位  文件  設備  植入物  抗生素  
+執行  正確
+錯誤
+NA
+ 正確
+錯誤
+NA
+ 左側(L)
+右側(R)
+雙側
+不分側
+ 正確
+錯誤
+NA
+ 正確
+錯誤
+NA
+ 正確
+錯誤
+NA
+ 正確
+錯誤
+NA
+ 
+未執行原因    
+*不適用者請選NA。
+ 
+若非Portal登錄者本人，請輸入帳號及密碼帳號:  密碼:    
+
+記錄時間：   
+   
+ 
+ 
+三.處置過程紀錄  
+ 
+   
+ 
+執行時間：   
+    
+ 
+ 
+四.處置後評估紀錄 Post-procedure assessment  
+1.病人狀況： 穩定 不穩定   
+2.疼痛指數： 分 
+3.執行後照X-Ray： 無 有 不需要  
+記錄時間：  
+   
+ 
+  
+ 
+ 
+         西元 年 月 日 時 分   
+ 
+　標題   
+  
+內容  
+  
+載入圖形中...    
+ 
+記錄者
+ 
+ 
+覆核者  
+    
+ 
+簡訊通知撰寫者 此紀錄為教學病歷  
+   
+ 
+  
+       請點選 
+紀錄日期：
+
+ 文件編號：  版次：   
+紀錄者   
+ 
+ 
+若無需轉發通知，請直接按下確認;若需轉發通知，請修改員工編號後，再按確認     
+           
+ 
+ 
+
+Admission Note 
+2015/11/23 22:32 
+主訴(Chief Complaint) 
+Informant:Patient and previous medical record
+Vomiting up to 10 times for 1 day 
+病史(Brief History) 
+This 45-year-old woman was admitted to our hospital for scheduled haploidentical hematopoietic stem cell transplant. She had a history of
+1. Therapy-related myelodysplastic syndrome (t-MDS), FAB: Refractory anemia with excess blast (RAEB)/WHO: RAEB-2; clonal cytogenetic aberration with -5, del(5)(q13q31),-7,-19,+mar, WPSS score 6, very high risk;- status post Vidaza (2015/6/16-2015/6/21)- status post reduced intensity conditioning (Flu5 + Bu2 + Cy1 + ATG, 2015/7/27-8/3) and allogeneic haploidentical bone marrow and peripheral blood stem cell transplantation (D0=2015/8/4, 7/10 matched, F -> F, O+ -> O+, D0 BMSC: CD34+ 1.02 x 10^6 cells/KgBW, CD3+ 1.79 x 10^7 cells/kgBW)
+2. Acute GVHD, S0-1L0-1G4, Glucksberg grade IV, IBMTR index D, under Tacrolimus and methylprednisolone, resolved
+3. CMV gastroenteritis with pan-ileocolonopathy, resolved
+4. Possible invasive fungal unfection, suspect aspergillosis, under liposomal Amphotericin and voriconazole
+5. Reflux esophagitis, LA grade A
+6. GB stone and sludge, and GB polyp
+7. Diabetes mellitus
+8. Chronic hepatitis B under sibovovir 
+9. Distal phalangeal fracture, extraarticular, left great toe, non-displaced
+
+She was diagnosed with follicular lymphoma in 2011/11 with an initial manifestation of an enlarging mass on the right neck since 2011/04. After workup, the final diagnosis was follicular lymphoma, intermediate cell size, CD10-, BCL6+, BCL2-, Ann Arbor stage IIIAS, FLIPI score 3. After multiple chemotherapy regimens with R-CHOP(4), R-ESHAP(2), R-ICE(3), R-bendamustine(1), R-BOMES(4), complete remission lasted for about one year since 2013/6. However, her disease relapsed with diffuse large B cell transformation in 2014/5. Then she received R-BEAM conditioning regimen and then auto-PBSCT (D0=2014/10/16) with complete remission afterwards.
+(Please refer previous records for detailed course of FL/DLBCL treatment)
+Unfortunately, progressive pancytopenia was noted during OPD follow-up. Bone marrow smear on 2015/4/22 showed MDS, RAEB-2 (WHO classification), biopsy showed erythroid hyperplasia in hypercellular marrow, and flow showed no B-cell lymphoma but was compatible with secondary MDS/AML. She gradually became transfusion dependent. She received one cycle of Vidaza treatment during 2015/6/16-6/21. Pre-HSCT evaluation was arranged during 2015/7/13-16, and no absolute contraindication for HSCT was noted.
+She received HSCT infusion from 2015/08/04(D0= 2015/08/04;[D0: BMSCT: CD34+ 1.02*10^6/kg]; D1: PBSCT: CD34+ 2.47*10^6/kg]). There was no immediate adverse effect during infusion but fever developed on 8/5. High fever and diarrhea persisted and the meropenam was continued for suspect Campylobactar infectious diarrhea. High fever persisted but diarrhea stopped. On 8/11, due to newly developed dry cough amd persistent fever, an head, neck, and chest CT was performed on 8/11, which revealed a mass lesion over LLL with halo sign. An invasive mold infection is very likely so voriconazole was addede. Micafungin was discontinued. The Cyclosporin was maintained at same dosage due to possible hyperacute GVHD. Because of persistent fever and skin rash, skin biopsy was taken for differentiating hyperacute GVHD or septic emboli. Low dose hydrocortisone was administered for therapeutic trial on 8/12. The fever subsided so hydrocortisone was adminsitered regularly with dose of 200mg/day from 8/12. Dry cough persisted and visual halucination developed on 8/12; ambisome was administered. ID specilist suggested keep voriconazole until 8/16 and ckeck its serum level on 8/17 due to better effect on aspergillosis. Athough her cough improved significantly but the visual hallucination and psychosis worsen in the following three days. The voriconazole was discontinued eariler on 8/15. The tourgh leve was obtained 11hour later, whihc reported as 1.7(lower limit of normal level) on 8/20.
+Because of persistent fever and skin rash, skin biopsy was taken for differentiating hyperacute GVHD or septic emboli on 8/12. The pathology report suggested grade I GVHD later. The cyclosporin was maintained at same dosage due to possible hyperacute GVHD in concurrent use of voriconazole. Low dose hydrocortisone was administered for therapeutic trial on 8/12. The fever subsided so hydrocortisone was adminsitered regularly with dose of 200mg/day from 8/12. 
+The GCSF was increased from 5mcg/kg to 10mcg/kg on 8/13. The WBC count increased to 440/dl on 8/14 so GCSF was decreased to 5mcg/kg/day. The ANC increased to 1378/dl on 8/15 so GCSF was discontinued then. The fever and skin rahs subsided under hydrocortisone, but hyperbilirubinemia(5mg/dl) developed during the dose was decreased to 50mg QD. Therefore, the hydrocortisone was increased to q6h(200mg/day) again on 8/17 and changed to solumedrol 40mg/day on 8/18. The hyperbilirubinemia decreased to 2.34mg/dl on 8/21 and the skin rash regressed completely. However, newly developed epigastric discomfort was noticed with some loose stool developed. Liquid diet was continued and TPN was continued for nutrition support. 
+Meropenam was discontinued on 8/19 for complete 14-day-course. A new fever developed on 8/20 so cravit was added empirically. However, the procalcitonine level was low(0.632ng/ml). Her stool pus cell was 5-10 /HPF with positive O.B 1+ on 8/21. She was transfered to general ward on 8/21.
+After transfer to general ward, platelet transfusion 12U was given on 8/21. Diarrhea improved. Stool culture showed persistent Campylobacter jejuni colonization. ID specialist was consulted, and Cravit was kept. Hyperbilirubinemia and skin rash were improved. Sevatrim T 80 mg/day was given for PJP prophylaxis. Progressive epigastralgia and tarry stool were found on 8/23 morning. High dose PPI and component therapy were given. Steroid was titrated to 60mg/day. Painless EGD showed (1)Reflux esophagitis, LA grade A, (2)Superficial gastritis, antrum and body, s/p biopsy, (3)Duodenitis, bulb to 2nd portion. Pathology revealed chronic gastritis with lymphoplasma cell infiltrate in the lamina propria. There was no CMV inclusion body, or Helicobacter bacilli. Severe vomiting and severe abdominal pain were developed. Opioid analgesics were stopped. Steroid was titrated to 120 mg/day. Cyclosporin and Mycophenolate Sodium were stopped. Tacrolimus(cash) infusion was started with 0.03 mg/kg/day. Vomiting improved, but recurrent diarrhea was reported with stool amount > 1000 ml/day. Abdominal sonography showed ileo-colonopathy. Stool pus cell was 20-35 /LPF, and stool OB was 4+. Stool culture still showed Campylobacter jejuni. Cravit was changed to Tygacil for persistent diarrhea. CMV viral load was 2300 cp/ml on 8/31. AKI with less urine output was noted, so gancyclovis instead of foscarnet was added today. Solu-medrol was tapered to 30mg Q8H. The follow up CMV level on 9/3 was down to 1930, on 9/7 was 3930. Colonoscopy was done on 9/2 with biopsy for differential diagnosis CMV colitis or GVHD GI involvement. Port A culture showed Corynebacterium species, and vancomycin lock therapy was started on 9/6. Pathology showed GVHD with prodominent CMV colitis. Therefore, we tapered immunosupressant agents(downgrade steroid and FK 506). There was no fever, and stool became shaped gradually. The patient had improved appetite. Foscarnet and cytotec were added, and CMV viral load improved. Cytotec was stopped on 9/25.Cytotec was shifted to Valganciclovir for further treatment. Under relative stable condition, she was discharge and received out-patient department for follow-up.
+This time, vomiting upto 10 times with epigastric fullness developed on 2015/11/19, followed by general weakness, soreness, right chest throbbing pain, and right subclavical port-A tenderness on the next day. She came to our ER and stable vital sign was noticed. There was no diarrhea or constipation. She also reported poor sleep in recent days. CXR showed suspect a nodule in the left lower lung field. KUB showed clear bilateral psoas shadows, unremarkable small bowel gas pattern. NPO with symptomatic treatment was given. Hematologist was consulted, and replied suspect aGVHD of stomach or CMV infection. Cash PPI was given under hematologist's advise. Lab showed hypokalemia and hypomagnesemia, and potassium and magnesium supplement were given. PLT 24U was transfused for invasive procedure need. PES on 2015/11/23 showed multiple linear esophageal ulcers were noted over middle to low esophagus, and hyperemic patches were noted over gastric antrum. Biopsy to the esophageal ulcer and random biopsy to the antrum was performed and specimen sent for pathology. She was then admitted to general ward for further treatment.
+
+【Past History】
+(1) Past medical history: HBV
+(2) Past surgical history: 
+2011/11/10 Selective neck dissection, right level II
+2014_05_28 laparotomy lymph node biopsy
+(3) Hospitalization history:
+入院日期:2015_07_27 出院日期:2015_10_02 診斷:Bone marrow transplant
+入院日期:2015_07_13 出院日期:2015_07_16 診斷:Lymphoma
+入院日期:2015_06_15 出院日期:2015_06_22 診斷:Bone marrow transplant
+入院日期:2014_10_09 出院日期:2014_11_04 診斷:Lymphoma
+入院日期:2014_09_03 出院日期:2014_09_09 診斷:Lymphoma
+入院日期:2014_08_26 出院日期: 診斷:Lymphoma
+入院日期:2014_08_07 出院日期:2014_08_13 診斷:Lymphoma
+入院日期:2014_07_19 出院日期:2014_07_25 診斷:Lymphoma
+入院日期:2014_06_30 出院日期:2014_07_08 診斷:Lymphoma
+入院日期:2014_05_27 出院日期:2014_05_31 診斷:Lymphoma
+(4) Allergy/ADR: 
+Prochlorperazine Mesylate (針 Novamin Inj 5 mg/1 mL /amp) 【心悸】 病人自述 2015/06/15
+Milrinone Lactate (Primacor 10 mg/10 mL /amp) 【心悸】 病人自述 2015/06/15
+Metoclopramide HCl (Primperan Inj 10 mg/2 mL /amp) 【palpitation】 病人自述 2015/07/13
+Prochlorperazine Mesylate (針 Novamin Inj 5 mg/1 mL /amp) 【palpitation】 病人自述 2015/07/13
+BD prefilled N.S 【自訴有異味】 病人自述 2014/10/13
+Primperan  病人自述 2014/07/19
+Novamin 【心跳加快】 親屬描述 2014/08/07
+Allergy to Medical Device and Materials: 3M膠帶
+(5) Cigarette smoking: denied, 
+Alcohol: denied, 
+Betel nut: denied
+(6) Blood type: O
+
+【Current Medication】
+針 Pantoloc Inj 40 mg/vial 40 mg QD IV 5 days
+PARAMOL 500 mg/tab 1 tab Q6HPRN PO 3 days
+(管4) Ultracet tab /tab 1 tab QID PO 3 days
+Diphenhydramine HCl 30 mg/1 mL /amp 30 mg STAT IF 1 days
+栓 Bisacodyl Supp 10 mg/pill 2 pill STAT R 1 days
+HARNALIDGE D 0.2 mg/tab 2 tab STAT LZ 1 days
+(管4) Anxicam 2 mg/1 mL /amp 1 mg STAT IV 1 days
+Sebivo FC 600 mg/tab for CDC Approval 1 tab QD PO 28 days
+Feburic 80 mg/tab 1/2 tab QD PO 8 days
+MgO 250 mg/tab 1 tab TID PO 8 days
+(管4) 10 Stilnox 10 mg/tab 1 tab HS PO 8 days
+Predonine 5 mg/tab 1 tab QOD PO 8 days
+0.5 PROgraf 0.5 mg/cap 1 cap QAM PO 8 days
+1 PROgraf 1 mg/cap 1 cap BID PO 8 days
+中草藥:denied
+保健食品:L-glutamine, chicken essence
+
+【Family History】
+no known family history of hematological diseases 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:高中
+職業:家管
+宗教信仰:無
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:O，RH:不清楚，輸血反應:無
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:警醒
+認知功能:正常 
+精神情緒狀態:異常 倦怠 焦慮 情緒低落 
+安全問題:有 其他 跌倒
+睡眠形態:異常 入睡困難 失眠 淺、易醒 日夜顛倒 使用藥物 
+
+Nutritional Screen
+攝食情形:
+排便狀態:正常
+BMI:21.02
+
+Fall Risk Assessment
+總分:13
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+(■:positive, □:negative) 
+1.Systemic: □fever, □chills, □night sweats, ■fatigue, □somnolence, □insomnia, □weight change, □decreased appetite, □consciousness disturbance, ■diffuse arthralgias/myalgias, □heat/cold intolerance, □thirsty, □general edema
+2.Head/Eyes: ■headache, □dizziness, □vertigo, □photophobia, □diplopia, □visual field defect, □blurred vision, □ocular pain, □eye redness, □dry eye, □excess tearing, □alopecia, □head trauma, □cataracts, □glaucoma 
+4.Ears/Nose: □hearing impairment, □tinnitus, □otalgia, □otorrhea, □nasal congestion, □rhinorrhea, □epistaxis, □anosmia
+5.Mouth/Throat: □oral ulcer, □gum bleeding, □dry mouth, □dental problems, □sore throat, □dysphagia, □odynophagia, □hoarseness 
+6.Cardiovascular/Respiratory: □cough, □sputum, □hemoptysis, □wheezes, □dyspnea:at rest/exertional, □chest tightness/pain: with diaphoresis, □orthopnea, □paroxysmal nocturnal dyspnea, □syncope, □palpitation, □intermittent claudication
+7.Gastrointestinal: □anorexia, □nausea, ■vomiting, □hematemesis, □heartburn/acid regurgitation, □belching, □hiccup, □abdominal pain, ■abdominal distention, □diarrhea, □constipation, □tarry stool, □clay-colored stool, □change of bowel habit, □tenesmus, □flatulence 
+8.Genito-urinary: □urinary frequency, □urgency, □dysuria, □incontinence, □nocturia, □polyuria, □oliguria, ■small stream of urine, ■hesitancy, □cloudy urine, □hematuria, □flank pain, □impotence, □abnormal sexual exposure
+9.Skin/Hemagological: □rash, □pruritus, □dryness, □jaundice, □color changes, □moles, □plaque, □ulcers, □hair loss, □hirsutism, □telangiectasia, ■petechiae: bilateral legs, ■ecchymoses, □purpura
+11.Musculoskeletal: ■arthralgia, □myalgia, □back pain, ■bone pain: left 1st toe, □joint stiffness, □cramps, □fractures
+12.Neurological: □numbness, □paresis/plegia, □convulsion, □paresthesia, □allodynia, □resting tremor, □gait disturbance
+13.Psychiatric: ■insomnia, □memory loss, □anxiety, □panic, □hallucination, □delusion, □depression, □suicidality 
+身體檢查(Physical Examination) 
+BH:155 cm   BW:50.5 kg
+T:36.2 P:112 R:18
+BP:122/80 mmHg
+Pain:0
+
+Neurological Examination:
+. Consciousness: oriented, drowsy due to just finish IVG PES
+. Muscle power: no focal deficit
+. Gait: no ataxia
+
+1. General appearance: tired
+2. Consciousness: clear, Activity: fair
+3. HEENT: gross anomaly(-); Conjunctiva: pale; Sclera: anicteric; 
+Pupils: isocoric 3mm/3mm, Light reflex: +/+, prompt; cloudy lens
+Throat: injected(-); ulcer(-); no thrush; Neck: supple, LAP(-), goiter(-)
+4. Chest: symmetric expansion, no retraction
+breath sounds: wheezes(-), rhonchi(-), rales(-)
+5. Heart: RHB, PMI at 5ICS of LMCL, no heave or thrill
+6. Abdomen: flat, surgical scars: midline, above umbilicus
+normoactive bowel sound; soft, tenderness(-), rebound tenderness(-); liver/spleen: impalpable
+7. Extremity: freely movable, cyanosis(-), pitting edema(-); mild tenderness of left 1st toe
+8. Skin: rash(-), jaundice(-), petechiae(+): bilateral lower legs, 
+ecchymosis(+): small ecchymoses at left lower leg and right dorsal foot; also over port-A of right subclavical area
+9. No erythema or swelling over port-A, no tenderness 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041116 [0915] 3.56          2.48          8.8           25.7          103.6        
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041116 [0915] 35.5          34.2          80            17.3          -            
+群組:Biochemistry
+
+               BUN           CRE          
+time/item      (mg/dL)       (mg/dL)      
+1041116 [0915] 12.3          1.5          
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               Retic.        Retic.No.     IRF          
+time/item      (%)           (10^4/μL)     (%)          
+1041116 [0915] 3.24          8.00          19.3 （僅供參考）  
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041116 [0915] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041116 [0915] 55.5          0.3           0.3           16.5          27.4         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041116 [0915] 0.0           0.0           0             -            
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               D-BIL         Alb           TP            T-BIL         AST          
+time/item      (mg/dL)       (g/dL)        (g/dL)        (mg/dL)       (U/L)        
+1041116 [0915] 0.22          4.2           6.1           0.92          48           
+               ALT           ALP           GGT           LDH           UA           
+time/item      (U/L)         (U/L)         (U/L)         (U/L)         (mg/dL)      
+1041116 [0915] 47            60            99            190           2.4          
+               CK            Na            K             Cl            Ca           
+time/item      (U/L)         (mmol/L)      (mmol/L)      (mmol/L)      (mmol/L)     
+1041116 [0915] 27            141           3.6           103           2.31         
+               P             Mg           
+time/item      (mg/dL)       (mmol/L)     
+1041116 [0915] 3.9           0.72         
+群組:DM
+
+               HbA1c        
+time/item      (%)          
+1041116 [0915] 6.0          
+群組:TDM
+
+               FK-506       
+time/item      (ng/mL)      
+1041116 [0915] 2.9          
+*********檢驗室:CT***********
+
+群組:PT
+
+               PT            PT INR       
+time/item      (sec)         ()           
+1041116 [0915] 9.6           0.90         
+群組:PTT
+
+               PTT          
+time/item      (sec)        
+1041116 [0915] 26.4         
+*********檢驗室:OP***********
+
+群組:SEDIMENT
+
+               RBC (S)       WBC (S)       Epith (S)     Cast (S)      Crystal (S)  
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1041116 [0912] 0-2           20-35         0-2           -             -            
+               Bacteria      Mucus(S)      Others (S)   
+time/item      (*)           (*)           (*)          
+1041116 [0912] 4+            -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH            Protein(C)    Glu.(C)       Ketone body  
+                                                                    (U)          
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1041116 [0912] 1.016         6.0           30 ( 1+ )     -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+                                                                     (U)         
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1041116 [0912] -             ≦1.5          -             1+            +/-          
+               Color         Turbidity    
+time/item      (*)           (*)          
+1041116 [0912] Yellow        +            
+*********檢驗室:VH***********
+
+群組:
+
+               CMV viral lo 
+               ad           
+time/item      (cp/mL)      
+1041116 [0915] 817          
+
+*********檢驗室:MY***********
+MY-1041116-6088816   BLOOD
+     Aspergillus Ag#1:       Negative
+
+*********檢驗室:SB***********
+
+群組:Yes
+
+               IgA           IgG           IgM          
+time/item      (mg/dL)       (mg/dL)       (mg/dL)      
+1041116 [0915] <26.00        686.00        25.60        
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041109 [0904] 4.67          2.37          8.5           24.4          103.0        
+               MCH           MCHC          PLT           RDW-CV        Retic.       
+time/item      (pg)          (g/dL)        (k/μL)        (%)           (%)          
+1041109 [0904] 35.9          34.8          52            19.2          2.20         
+               PS            Retic.No.     IRF          
+time/item      ()            (10^4/μL)     (%)          
+1041109 [0904] -             5.21          33.5 （僅供參考）  
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041109 [0904] 0.0           0.0           1.0           0.0           1.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041109 [0904] 64.4          0.0           0.9           20.2          12.5         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041109 [0904] 0.0           0.0           0.0           -            
+*********檢驗室:G3***********
+
+群組:Yes
+
+               Post-BMT STR               
+time/item      (*)          
+1041109 [0904] STR結果與捐髓者一致  
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               D-BIL         Alb           TP            T-BIL         AST          
+time/item      (mg/dL)       (g/dL)        (g/dL)        (mg/dL)       (U/L)        
+1041109 [0904] 0.21          4.0           5.6           0.86          28           
+               ALT           ALP           GGT           LDH           UN           
+time/item      (U/L)         (U/L)         (U/L)         (U/L)         (mg/dL)      
+1041109 [0904] 27            79            145           224           15.7         
+               CRE           UA            CK            Na            K            
+time/item      (mg/dL)       (mg/dL)       (U/L)         (mmol/L)      (mmol/L)     
+1041109 [0904] 1.7           8.1           25            139           4.0          
+               Cl            Ca            P             Mg           
+time/item      (mmol/L)      (mmol/L)      (mg/dL)       (mmol/L)     
+1041109 [0904] 101           2.25          3.5           0.67         
+群組:DM
+
+               HbA1c        
+time/item      (%)          
+1041109 [0904] 6.2          
+群組:TDM
+
+               FK-506       
+time/item      (ng/mL)      
+1041109 [0904] 3.0          
+*********檢驗室:CT***********
+
+群組:PT
+
+               PT            PT INR       
+time/item      (sec)         ()           
+1041109 [0904] 9.9           0.93         
+群組:PTT
+
+               PTT          
+time/item      (sec)        
+1041109 [0904] 26.6         
+*********檢驗室:OP***********
+
+群組:SEDIMENT
+
+               RBC (S)       WBC (S)       Epith (S)     Cast (S)      Crystal (S)  
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1041109 [0910] 0-2           75-100        0-2           -             -            
+               Bacteria      Mucus(S)      Others (S)   
+time/item      (*)           (*)           (*)          
+1041109 [0910] 4+            -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH            Protein(C)    Glu.(C)       Ketone body  
+                                                                    (U)          
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1041109 [0910] 1.012         6.5           20 ( +/- )    -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+                                                                     (U)         
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1041109 [0910] -             ≦1.5          -             -             2+           
+               Color         Turbidity    
+time/item      (*)           (*)          
+1041109 [0910] Yellow        +            
+*********檢驗室:VH***********
+
+群組:
+
+               CMV viral lo 
+               ad           
+time/item      (cp/mL)      
+1041109 [0904] <150         
+
+*********檢驗室:MY***********
+MY-1041109-9063607   BLOOD
+     Aspergillus Ag#1:       Negative
+
+*********檢驗室:SB***********
+
+群組:Yes
+
+               IgA           IgG           IgM          
+time/item      (mg/dL)       (mg/dL)       (mg/dL)      
+1041109 [0904] <26.00        614.00        20.80        
+*********檢驗室:RL***********
+
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1041106 [0844] 7.405         40.2          27.5          25.4          0.4          
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041106 [0844] 3.57          2.58          9.1           26.0          100.8        
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041106 [0844] 35.3          35.0          59            19.3          -            
+群組:General BioChemistry
+
+               GGT           ALB           D-BIL         ALT           ALP          
+time/item      (U/L)         (g/dL)        (mg/dL)       (U/L)         (U/L)        
+1041106 [0844] 213           4.0           0.27          34            75           
+               LDH          
+time/item      (U/L)        
+1041106 [0844] 229          
+群組:Biochemistry
+
+               GLU           BUN           CRE           Na            K            
+time/item      (mg/dL)       (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)     
+1041106 [0844] 114           17.7          1.9           138           3.6          
+               Cl            T-BIL         Ca            AST           LacticAcid   
+time/item      (mmol/L)      (mg/dL)       (mmol/L)      (U/L)         (mmol/L)     
+1041106 [0844] 100           1.28          2.29          24            1.66         
+               CK           
+time/item      (U/L)        
+1041106 [0844] 17           
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041106 [0844] 0.0           0.0           1.0           0.0           6.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041106 [0844] 43.0          0.0           0.0           16.0          33.0         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041106 [0844] 1.0           0.0           0.0 /100 WBC  WBC 100                    
+群組:Yes
+
+               C-Reactive P 
+               rotein       
+time/item      (mg/dL)      
+1041106 [0844] 1.45         
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041102 [0840] 1.65          2.66          9.1           26.6          100.0        
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1041102 [0840] 34.2          34.2          67            19.5          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041102 [0840] 0.0           0.0           0.0           1.0           1.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041102 [0840] 27.0          0.0           2.0           10.0          59.0         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041102 [0840] 0.0           0.0           0.0 /100 WBC  WBC 100                    
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               D-BIL         Alb           TP            T-BIL         AST          
+time/item      (mg/dL)       (g/dL)        (g/dL)        (mg/dL)       (U/L)        
+1041102 [0840] 0.28          4.4           6.1           1.20          35           
+               ALT           ALP           GGT           LDH           UN           
+time/item      (U/L)         (U/L)         (U/L)         (U/L)         (mg/dL)      
+1041102 [0840] 67            103           373           224           18.9         
+               CRE           UA            CK            Na            K            
+time/item      (mg/dL)       (mg/dL)       (U/L)         (mmol/L)      (mmol/L)     
+1041102 [0840] 1.7           5.6           29            138           3.8          
+               Cl            Ca            P             Mg           
+time/item      (mmol/L)      (mmol/L)      (mg/dL)       (mmol/L)     
+1041102 [0840] 100           2.34          3.8           0.68         
+群組:DM
+
+               GLU 2hr PC    HbA1c        
+time/item      (mg/dL)       (%)          
+1041102 [0840] 122           6.4          
+群組:TDM
+
+               FK-506       
+time/item      (ng/mL)      
+1041102 [0840] 5.2          
+*********檢驗室:CT***********
+
+群組:PT
+
+               PT            PT INR       
+time/item      (sec)         ()           
+1041102 [0840] 10.1          0.95         
+群組:PTT
+
+               PTT          
+time/item      (sec)        
+1041102 [0840] 24.2         
+*********檢驗室:OP***********
+
+群組:SEDIMENT
+
+               RBC (S)       WBC (S)       Epith (S)     Cast (S)      Crystal (S)  
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1041102 [0841] 0-2           75-100        2-5           Hy(0-2) Cell  -            
+                                                       ular(0-2)                  
+               Bacteria      Mucus(S)      Others (S)   
+time/item      (*)           (*)           (*)          
+1041102 [0841] 4+            -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH            Protein(C)    Glu.(C)       Ketone body  
+                                                                    (U)          
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1041102 [0841] 1.016         6.0           30 ( 1+ )     -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+                                                                     (U)         
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1041102 [0841] -             ≦1.5          -             2+            3+           
+               Color         Turbidity    
+time/item      (*)           (*)          
+1041102 [0841] Yellow        +            
+*********檢驗室:VH***********
+
+群組:
+
+               CMV viral lo 
+               ad           
+time/item      (cp/mL)      
+1041102 [0840] 152          
+
+*********檢驗室:MY***********
+MY-1041102-2040234   BLOOD
+     Aspergillus Ag#1:       Negative
+
+*********檢驗室:SB***********
+
+群組:Yes
+
+               IgA           IgG           IgM          
+time/item      (mg/dL)       (mg/dL)       (mg/dL)      
+1041102 [0840] <26.00        763.00        18.20        
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041026 [0826] 3.28          2.77          9.6           27.2          98.2         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1041026 [0826] 34.7          35.3          79 Rechecked  20.7          -                          
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041026 [0826] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041026 [0826] 71.2          0.7           0.7           4.1           23.3         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041026 [0826] 0.0           0.0           0             -            
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               D-BIL         Alb           TP            T-BIL         AST          
+time/item      (mg/dL)       (g/dL)        (g/dL)        (mg/dL)       (U/L)        
+1041026 [0826] 0.27          4.3           6.1           1.28          37           
+               ALT           ALP           GGT           LDH           UN           
+time/item      (U/L)         (U/L)         (U/L)         (U/L)         (mg/dL)      
+1041026 [0826] 58            89            111           224           19.4         
+               CRE           UA            CK            Na            K            
+time/item      (mg/dL)       (mg/dL)       (U/L)         (mmol/L)      (mmol/L)     
+1041026 [0826] 1.1           5.1           23            141           3.9          
+               Cl            Ca            P             Mg           
+time/item      (mmol/L)      (mmol/L)      (mg/dL)       (mmol/L)     
+1041026 [0826] 99            2.39          3.6           0.73         
+群組:DM
+
+               HbA1c        
+time/item      (%)          
+1041026 [0826] 6.7          
+群組:TDM
+
+               FK-506       
+time/item      (ng/mL)      
+1041026 [0826] 2.6          
+*********檢驗室:CT***********
+
+群組:PT
+
+               PT            PT INR       
+time/item      (sec)         ()           
+1041026 [0826] 10.2          0.96         
+群組:PTT
+
+               PTT          
+time/item      (sec)        
+1041026 [0826] 24.7         
+*********檢驗室:OP***********
+
+群組:SEDIMENT
+
+               RBC (S)       WBC (S)       Epith (S)     Cast (S)      Crystal (S)  
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1041026 [0851] 0-2           >100          0-2           -             -            
+               Bacteria      Mucus(S)      Others (S)   
+time/item      (*)           (*)           (*)          
+1041026 [0851] 4+            -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH            Protein(C)    Glu.(C)       Ketone body  
+                                                                    (U)          
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1041026 [0851] 1.016         6.0           30 ( 1+ )     -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+                                                                     (U)         
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1041026 [0851] -             ≦1.5          -             -             3+           
+               Color         Turbidity    
+time/item      (*)           (*)          
+1041026 [0851] Yellow        +            
+*********檢驗室:VH***********
+
+群組:
+
+               CMV viral lo 
+               ad           
+time/item      (cp/mL)      
+1041026 [0826] 2890         
+
+*********檢驗室:RL***********
+
+群組:General BioChemistry
+
+               GGT           ALB           D-BIL         ALT           ALP          
+time/item      (U/L)         (g/dL)        (mg/dL)       (U/L)         (U/L)        
+1041120 [1441] 69            4.1           0.22          40            46           
+1041121 [2140]                                           26                         
+               LDH          
+time/item      (U/L)        
+1041120 [1441] 212          
+1041121 [2140]              
+群組:Biochemistry
+
+               BUN           CRE           Na            K             T-BIL        
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)      
+1041120 [1441] 15.7          1.4           135           3.3           0.96         
+1041121 [2140]               1.1           132           3.0                        
+1041121 [2141]                                                                      
+1041123 [0437]                                           3.1                        
+               Lipase        Ca            Mg            AST           LacticAcid   
+time/item      (U/L)         (mmol/L)      (mmol/L)      (U/L)         (mmol/L)     
+1041120 [1441] 8                                         47            1.03         
+1041121 [2140]               2.05          0.60          28                         
+1041121 [2141]                                                         1.59         
+1041123 [0437]                             0.66                                     
+               CK            CK-MB         %CKMB         Troponin I   
+time/item      (U/L)         (U/L)         (%)           (ng/mL)      
+1041120 [1441]                                           <0.012       
+1041121 [2140] 55            21            38.2          <0.012       
+1041121 [2141]                                                        
+1041123 [0437]                                                        
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1041120 [1441] 9.8           28.0          0.92         
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1041120 [1441] 7.464         37.1          62.6          26.9          2.9          
+1041121 [2140] 7.434         37.5          90.9          25.3          0.8          
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041120 [1441] 0.0           0.0           0.0           0.0           0.0          
+1041121 [2140] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041120 [1441] 50.6          0.2           0.2           16.6          32.4         
+1041121 [2140] 61.9          0.2           0.2           16.6          21.1         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041120 [1441] 0.0           0.0           0             -            
+1041121 [2140] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041120 [1441] 5.98          2.48          8.9           25.0          100.8        
+1041121 [2140] 8.55          2.23          8.1           22.4          100.4        
+1041123 [0437] 6.47          2.15          7.7           21.6          100.5        
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041120 [1441] 35.9          35.6          70            16.7          -            
+1041121 [2140] 36.3          36.2          55            16.4          -            
+1041123 [0437] 35.8          35.6          110           16.1          -            
+群組:Yes
+
+               C-Reactive P 
+               rotein       
+time/item      (mg/dL)      
+1041121 [2141] 4.93         
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1041121 [2134] 94 
+檢查紀錄(Examination Report) 
+國 立 臺 灣 大 學 醫 學 院 附 設 醫 院
+病歷號: 5758383              National Taiwan University  Hospital
+                           胃鏡檢查過程紀錄暨報告
+姓　名: 賴淑芬
+生　日: 19691102              (綜診部內視鏡中心)
+                                                                          第 1  頁
+   檢查單號:  T0159104482         年齡: 47              保險身分:   
+   檢查日期:  20151123            性別: F               流水序號:  G077209
+ Examination time :Start time :  09:09:32         End time :  09:12:39
+ Clinical Diagnosis :
+   epigastric dyscomfort
+ Indication :   Epigastralgia and/or abdominal fullness
+ Instrument :   GIF-Q260                          .22
+ Pre-medication :  Buscopan
+ Anesthesia :      Intravenous general anasthesia
+ Medicine history : post BMT
+ Endoscopic Findings
+   Esophagus :
+     Multiple linear esophageal ulcers were noted over middle to low esophagus s/p 
+     biopsy(B)
+   Stomach :
+     hyperemic patches were noted over antrum. Random biopsy*3 were performed at 
+     antrum
+   Duodenum :
+     no ulcer or deformality was noted
+ Endoscopic Diagnosis 
+   Esophagus :
+     1.Esophageal ulcer, multiple, linear, s/p biopsy(B)
+   Stomach :
+     1.Gastritis, antrum s/p biopsy(A)
+   Duodenum :
+     Negative
+ HP Test :
+   Not done
+ Complication :
+   Nil
+ Suggestion :
+   Negative
+ Specimens :
+   2 bottles
+   助理:  周鈺筑護士
+ 檢查者:                          /王志賢主治醫師          / 王秀伯主治醫師 
+影像報告(Imaging Report) 
+Abdomen:KUB 醫令: Abdomen:KUB 報告醫師: 陳若瑀 影像時間: 2015/11/22 08:52 (32006C0M) 發報告時間: 2015/11/22 12:19 EXAMINATION: Abdomen:KUB
+FINDINGS:
+Unremarkable bowel gas pattern. Clear bilateral psoas shadows.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 陳育青 影像時間: 2015/11/20 15:17 (32001CXM) 發報告時間: 2015/11/20 16:00 EXAMINATION: Chest : PA View (Standing)
+FINDINGS:
+A port-A-cath. Normal heart size. Suspect a nodule in the left lower lung field.
+Abdomen:KUB 醫令: Abdomen:KUB 報告醫師: 陳邦斌 影像時間: 2015/11/20 15:17 (32006C0M) 發報告時間: 2015/11/20 15:43 clear bilateral psoas shadows. no definite radiopaque stones. unremarkable small bowel gas pattern. no evidence of destructive bony lesion at the spine. multiple injection granulomas in bilateral buttock areas. some phleboliths in the pelvic cavity. degenerative change at bilateral sacroiliac joints.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳世杰 影像時間: 2015/09/13 11:01 (32001CYM) 發報告時間: 2015/10/31 21:39 Chest AP view (supine) shows stationary in compare to previous the nearest one similar study, suggest correlated with clinical manifestation.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳世杰 影像時間: 2015/09/09 13:00 (32001CYM) 發報告時間: 2015/10/31 21:54 Chest AP view (supine) shows stationary in compare to previous the nearest one similar study, suggest correlated with clinical manifestation.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳世杰 影像時間: 2015/09/04 11:35 (32001CYM) 發報告時間: 2015/10/31 19:26 Chest AP view (supine) shows stationary in compare to previous the nearest one similar study, suggest correlated with clinical manifestation. 
+病理報告(Pathology Report) 
+S1142085
+Bone marrow,iliac crest,core biopsy,subcortical hypocellular marrow with no morphological evidence of lymphoma involve,   
+ S1140495
+Lymph node,cervical,right,excision,malignant lymphoma B cell,favor follicular,   
+ S1220998
+Soft tissue,para-aortic space, left,CT-guided biopsy,atypical lymphoid cells (see comment),   
+ S1221173
+Bone marrow,iliac crest,core biopsy,focal lymphocyte aggregate (see description),   
+ S1232667
+Bone marrow,iliac crest,core biopsy,no morphological evidence of lymphoma involvement    
+ L1201167
+ S1244022
+Bone marrow,iliac crest,core biopsy,no morphological evidence of lymphoma involvement    
+ S1515334
+Bone marrow,site not stated,core biopsy,erythroid hyperplasia in hypercellular marrow    
+ L1500375
+ S1532252
+Skin,site not specified,biopsy,interface  dermatitis (see description),   
+ S1534236
+Stomach,antrum and body,endoscopic biopsy,chronic gastritis without Helicobacter infection,   
+ S1535692
+Intestine,large,cecum,colonoscopic biopsy,ulcer with CMV infection,   
+Intestine,large,colon,ascending,colonoscopic biopsy,ulcer with CMV infection,   
+Intestine,large,colon,sigmoid,colonoscopic biopsy,ulcer with CMV infection,   
+Intestine,large,colon,descending,colonoscopic biopsy,ulcer with CMV infection,   
+Intestine,large,colon,sigmoid,colonoscopic biopsy,erosion with CMV infection,   
+Intestine,large,rectum,colonoscopic biopsy,erosion with CMV infection,   
+ S1422460
+Bone marrow,site not stated,core biopsy,hypocellular marrow without morphological evidence of lymphoma involvement,   
+ S1420757
+Lymph node,pre-caval,open biopsy,diffuse large B cell lymphoma    
+ T1400400 
+臆斷(Tentative Diagnosis) 
+1.Vomite, suspect acute graft versus host disease of the stomach or Cytomegalovirus gastritis, status post biopsy to the esophageal ulcers and random stomach tissue
+2.Therapy-related myelodysplastic syndrome (t-MDS), FAB: Refractory anemia with excess blast (RAEB)/WHO: RAEB-2; clonal cytogenetic aberration with -5, del(5)(q13q31),-7,-19,+mar, WPSS score 6, very high risk;- status post Vidaza (2015/6/16-2015/6/21)- status post reduced intensity conditioning (Flu5 + Bu2 + Cy1 + ATG, 2015/7/27-8/3) and allogeneic haploidentical bone marrow and peripheral blood stem cell transplantation (D0=2015/8/4, 7/10 matched, F -> F, O+ -> O+, D0 BMSC: CD34+ 1.02 x 10^6 cells/KgBW, CD3+ 1.79 x 10^7 cells/kgBW), with acute graft versus host disease, S0-1L0-1G4, Glucksberg grade IV, IBMTR index D, under Tacrolimus and methylprednisolone
+3.Cytomegalovirus gastroenteritis with pan-ileocolonopathy
+4.Possible invasive fungal unfection, suspect aspergillosis, status post liposomal Amphotericin and voriconazole treatment
+5.Reflux esophagitis, LA grade A
+6.Gall bladder stone and sludge, and gall bladder polyp
+7.Diabetes mellitus under steroid use
+8.Chronic hepatitis B under sibovovir 
+9.Distal phalangeal fracture, extraarticular, left great toe, non-displaced 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+* 46F with follicular lymphoma with diffuse large B cell transformation, s/p multiple cycles of chemotherapy and auto-PBSC, with t-MDS, s/p Vidaza and HSCT (D0=2015/8/4), with aGVHD, CMV gastroenteritis, LLL aspergillosis, presented with repeated vomiting and general soreness
+S:
+Vomiting upto 10 times for 1 day
+O:
+Vital signs stable, afebrile, drowsy due to just finished IVG PES
+Pale conjunctiva, anicteric sclera
+Bilateral clear breathing sound
+No abdominal tenderness or rebound tenderness, normoactive bowel sound
+No pitting edema
+Lab
+ Anemia (borderline macrocytic), thrombocytopenia s/p PLT 24U
+ Fair liver and renal function
+ Hypokalemia (K 3.1mmol/L), hypomagnesemia (0.66mmol/L) s/p correction
+ Elevated CRP (4.93mg/dL), lactic acid within normal limit
+ Cardiac enzymes within normal limit
+CXR: LLL nodule
+KUB: non-specific bowel gas
+PES: multiple linear esophageal ulcers were noted over middle to low esophagus, and hyperemic patches were noted over gastric antrum
+A:
+Suspect aGVHD of stomach, or CMV gastritis
+P:
+1.Persue stomach biopsy result and CMV viral load, treat underlying etiology after definite diagnosis gain
+2.NPO with IVF supplement, keep IV PPI
+3.Keep OPD Tacrolimus, Prednisolone, Sibovovir
+4.Supportive care first, correct electrolyte, component therapy as needed
+
+Treatment Goal:
+Complete work-up, supportive care, vomite resolve 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左手 右手 
+雙腔導管留置：無  
+鼻胃管留置：無  
+氣管管路留置：無    
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：NIL
+日常生活功能分數：80
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：自己 配偶 
+出院規劃收案篩檢：高危病患 慢性病控制不良 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+姚明 主治醫師 
+ 

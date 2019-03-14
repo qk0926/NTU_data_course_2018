@@ -1,0 +1,345 @@
+Admission Note 
+2017/01/27 03:45 
+主訴(Chief Complaint) 
+Informant:sister and medical record
+fever for 3 days 
+病史(Brief History) 
+<Present illness>
+This is a 50 year-old woman with multiple myeloma, under dorison and Pomalidomide (clinical trial) control.
+This time, fever was found in 3 days ago. She visited LMD for help and no specific lesion was found. Cough, rhinorrhea, diarrhea, abdominal pain , chest pain or myalgia was all not noted. Then, she visited 屏東. However, fever was not improved. Neck pain with consciousness drowsy was noted in 01/26 morning. She visited 屏東基督教H. at first. Infection was impressed and she was transferred to our hospital due to chronic disease. In NTUH emergency department, initial GCS was E2V2M5 and vomit twice was noted. Initial lab data showed bandemia (WBC: 2.55k, band:18%) and CSF examination result hinted meningitis (WBC: 409, RBC: 229,corrected WBC: 499.8; Glu: <10 ). Increased intrcranial pressure was also found in open pressure (>60cmH2O). Empirical high dose Ceftriazone was prescribed. However, during observation in ER, sudden onset of consciousness loss with cardiac arrest was found. Initial rhythm showed asystole. After resuscitation for 2 minutes, ROSC was achieved. Brain +chest +abdominal+pelvic CT only showed LLL consolidation. Therefore, for post-resuscitation care, the patient was admitted to ICU for further care.
+
+<Past history >
+family History:denied
+Medication Allergy:No  病人自述 2010/04/28
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  親屬描述 2017/01/27
+Current Medication:
+NTUH:Diphenhydramine HCl 30 mg/1 mL /amp 30 mg STAT IF 1 days
+Rocephin 500 mg/vial 2000 mg Q12H IV 2 days
+Rocephin 500 mg/vial 2000 mg STAT IV 1 days
+栓 Voren Supp 12.5 mg/pill 1 pill STAT R 1 days
+Vancomycin inj 500 mg/vial 1000 mg Q8H IF 2 days
+Vancomycin inj 500 mg/vial 1000 mg STAT IF 1 days
+警 Adrenaline 1 mg/1 mL /amp 0.5 mg STAT IV 1 days
+警 Easydopa Inj 400 mg/250 mL /bag 400 mg QD cIF(CVC) 2 days
+警 Easydopa Inj 400 mg/250 mL /bag 400 mg QD cIF 1 days
+警 Adrenaline 1 mg/1 mL /amp 1 mg STAT IV 1 days
+0.5 Baraclude 0.5 mg/tab for CDC Approval 1 tab QDAC2HR PO 28 days
+Dorison 4 mg/tab 5 tab QW PO 28 days
+<試> Pomalidomide-AMN-001 4 mg/1 cap 21 cap/btl 1 cap QD PO 21 days
+Other:nil
+中草藥:nil
+保健食品:nil
+Past Medical History:multiple myeloma
+Hospitalization:multiple myeloma
+Past Surgical History:denied
+TOCC: 屏東/業務員/denied/denied
+
+【Present illness】
+
+
+
+【Past History】
+1. Systemic disease: 
+2. Past Medical History:
+Systemic disease:
+Hospitalization:
+Past surgical history:
+3. Allergy history: nil 
+4. Current Medication:
+5. Lifestyle:
+   Cigarette smoking: 1PPD
+   Alcohol consumption: nil
+   Betelnut chewing: nil
+6. Travel history: nil
+7. Family history: 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:碩士
+職業:商
+宗教信仰:民間信仰
+婚姻狀態:未婚
+使用語言:國語 
+口述血型:B，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Fall Risk Assessment
+總分:12
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-)
+3.HEENT: headache(-),dizziness(-)
+4.Cardiovascular:  exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-)5.Respiratory: dyspnea(-), cough(-), chest pain(-)
+6.Gastrointestinal: nausea(-), vomiting(+), dysphagia(-),constipation(-), diarrhea
+7.Urogenital: flank pain(-)
+8.Musculoskeletal: bone pain(-), myalgia(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH: 159 cm,  BW: 56.4 kg,
+T: 36.5 °C,  P: 101 bpm,  R: 27 /min,
+BP: 127 / 59 mmHg,
+Pain score:  ,
+
+Neurological Examination: 
+. Consciousness: coma
+. Muscle power: nil
+. Gait: nil
+
+‧Consciousness E1M1VT
+‧Head-Eye-ENT 
+        grossly normal, conjunctiva: pink, sclera: anicteric
+‧Neck
+	Jugular vein engorgement(-)
+	Thyroid goiter(-)
+‧Chest
+        Breathing sound: clear
+	Crackles(-) wheezes(-)rhonchi(-) stridor(-)
+‧Heart
+	Heart beat: regular  Murmurs(-)
+‧Abdomen
+        Flat & soft
+	Bowel sound: Normoactive
+‧Extremities
+        Freely movable, pulses symmetric and intact, pitting edema(-)	
+‧Back
+        Knocking pain(-)
+‧Skin
+	Petechiae(-) Purpura(-) Ecchymoses(-) 	Rash(-) 
+‧Lymphadenopathy(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060126 [1745] 2.55          4.32          13.2          39.3          91.0         
+1060127 [0054] 2.05          3.31          10.1          30.1          90.9         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060126 [1745] 30.6          33.6          121           15.1          -            
+1060127 [0054] 30.5          33.6          103           15.2          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060126 [1745] 0.0           0.0           0.0           0.0           18.0         
+1060127 [0054] 0.0           0.0           0.0           0.0           1.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060126 [1745] 43.0          0.0           1.0           14.0          22.0         
+1060127 [0054] 30.0          0.0           0.0           20.0          49.0         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060126 [1745] 2.0           0.0           0.0 /100 WBC  WBC 100                    
+1060127 [0054] 0.0           0.0           0.0 /100 WBC  WBC 100                    
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1060126 [1745] 10.8          23.5          1.00         
+1060127 [0054] 12.0          30.6          1.09         
+群組:Biochemistry
+
+               TP(CSF)       BUN           CRE           Na            K            
+time/item      (mg/dL)       (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)     
+1060126 [1745]               11.1          0.6           138           4.0          
+1060126 [2250] 422.7                                                                
+1060127 [0054]               9.3           0.8           134           3.7          
+               Cl            Ammonia N     T-BIL         Ca            Mg           
+time/item      (mmol/L)      (μmol/L)      (mg/dL)       (mmol/L)      (mmol/L)     
+1060126 [1745]               15            0.49          2.23                       
+1060126 [2250]                                                                      
+1060127 [0054] 104           13                          1.93          0.83         
+               AST           LacticAcid    CK           
+time/item      (U/L)         (mmol/L)      (U/L)        
+1060126 [1745] 22            5.03                       
+1060126 [2250]                                          
+1060127 [0054]               3.74          34           
+群組:General BioChemistry
+
+               Glucose(CSF)  ALB           ALT                        
+time/item      (mg/dL)       (g/dL)        (U/L)        
+1060126 [1745]                             36           
+1060126 [2250] <10                                      
+1060127 [0054]               3.3           28           
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060126 [1745] 7.306         46.1          12.1          23.2          -3.4         
+群組:Punctate Exam.
+
+               Tube No.      RBC           WBC           L/N           Sampling Tim 
+                                                                    e            
+time/item      (*)           (x10/9 /μl)   (x11/9 /μl)   (*)           (*)          
+1060126 [2250] 1             229           409           6%/94%        N/A          
+               Received Tim 
+               e            
+time/item      (*)          
+1060126 [2250] 20170126     
+群組:Yes
+
+               NT-pro BNP   
+time/item      (pg/mL)      
+1060127 [0054] 2053         
+群組:STAIN
+
+               Gram's(GS)#1  India Ink     Gram's(GS)#2  Gram's(GS)#3  Gram's(GS)#4                                                         
+time/item      (*)           (*)           (*)           (*)           (*)          
+1060126 [1806] Many PMNs(>=                Many epithel  G(+)cocci 1+  G(+)Bacilli  
+               25/LPF)                     ial cells(>=                              3+           
+                                          25/LPF)                                  
+1060126 [2250]               Not Found     No bact. vis                             
+                                          ible                                     
+               Gram's(GS)#5               
+time/item      (*)          
+1060126 [1806] G(-)Bacilli  
+               3+           
+1060126 [2250]              
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1060126 [1800] 1.026         6.5           100 ( 2+ )    >1000 ( 4+ )  2+                         
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1060126 [1800] +/-           ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1060126 [1800] Yellow        -            
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1060126 [1800] 5-10          2-5           2-5           -             -            
+               Bacteria      Others(S)    
+time/item      (*)           (*)          
+1060126 [1800] -             -            
+群組:
+
+               Troponin-T    eGFR          CK-MB         Mucus(S)     
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)       (*)          
+                              m^2)                                    
+1060126 [1745]               112.5                                    
+1060126 [1800]                                           -            
+1060127 [0054] 43.16         80.7          1.10                       
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060127 [0018] 7.330         32.9          16.6          17.5          -8.7         
+               SO2          
+time/item      (%)          
+1060127 [0018] 21.1         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1060127 [0018] 1.19          10.7          32            3.81          136.2        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1060127 [0018] 147           3.2          
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1060126 [1744] 146          
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1060127 [0103] B             Positive     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1060127 [0103] Negative 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+Chest: AP View (Supine) 醫令: Chest: AP View (Supine) 報告醫師: 陳若瑀 影像時間: 2017/01/26 18:17 (32001CYM) 發報告時間: 2017/01/26 18:34 cardiomegaly. prominent lung markings and mild haziness at both lungs. spinal spondylosis with spur formation.
+CT Without Contrast-Brain 醫令: CT Without Contrast-Brain 報告醫師: 陳若瑀 影像時間: 2017/01/26 18:34 (33070B0M) 發報告時間: 2017/01/26 20:11 CT of the brain without IV contrast enhancement shows:
+- symmetric fissures, sulci and ventricles.
+- no definite acute intracranial hemorrhage. No obvious acute infarction or space occupying lesion.
+- no definite fracture line of visible bony structure. 
+病理報告(Pathology Report) 
+S1002860
+Bone marrow,iliac crest, status post auto-peripheral blood stem cells transplantation,core biopsy,plasma cell myeloma    
+098/04/29 S0913222
+Bone marrow,iliac crest,core biopsy,plasma cell myeloma    
+098/07/17 S0923919
+Bone marrow,iliac crest,core biopsy,plasma cell myeloma    
+098/10/24 S0937135
+Bone marrow,iliac crest,core biopsy,plasma cell myeloma    
+ S1309106
+Bone marrow,iliac crest,core biopsy,myeloma involvement (see description),   
+ L1300238
+ S1609805
+Bone marrow,site not stated,core biopsy,plasma cell myeloma 
+臆斷(Tentative Diagnosis) 
+1. In-hospital-cardiac-arrest, achieved return of spontaneous circulation after 2 minutes resuscitation, post endotracheal intubation with mechanical ventilator support since 01/27
+2. meningitis
+3. septic shock
+4. multiple myeloma,under dorison and Pomalidomide 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+1. In-hospital-cardiac-arrest, achieved return of spontaneous circulation after 2 minutes resuscitation, post endotracheal intubation with mechanical ventilator support since 01/27
+2. meningitis
+3. septic shock
+4. multiple myeloma,under dorison and Pomalidomide
+A:
+coma, no sedative medication was used
+under hypothermia therapy, diuretic phase(+)
+PE: clear breathing sound, no petechiae or skin rash
+
+[Ventilator]
+PC/AC Pi 16, PEEP 6, FiO2 50%
+
+[Inotropic]
+levophed (16mg) :10ml/hr
+
+[Nutrition]
+NPO with D5W
+
+[Antibiotic]
+Vancomycin 01/27-
+rocephin (2000mg) 01/26-
+Acyclovir 01/27-
+
+[Important lab]
+CSF study (01/26):
+WBC 409  (corrected WBC: 499.8)
+RBC 229  
+
+[family decision]aggresive
+
+P:
+1. started hypothermia, keep close monitor fluid status (diabetic insipidius under hypothermia) and electrolyte
+2. keep strong antibiotic, pending for culture result
+3. titrate inotropic agent if feasible
+4. informed familes about critical condition, risk during hypothermia and also high mortality rate of meningitis
+5. contact hematologist in morning for necessary of MM medication adjustment 
+
+Treatment Goal:off ventilator, off inotropic agent 
+出院規劃(Discharge Planning) 
+nil 
+主治醫師評論(VS Comments) 
+I agree with the assessment made by the resident. 
+醫師姓名 
+黃建華 主治醫師 
+ 

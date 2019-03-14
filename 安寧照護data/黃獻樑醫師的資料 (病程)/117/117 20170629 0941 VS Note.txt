@@ -1,0 +1,17 @@
+# Acute respiratory failure, type IV, s/p ETT-MV (6/22-)
+# Acute cholesystitis with E. coli and VRE bacteremia and septic shock, s/p PTCCD on 6/20
+# Acute kidney injury (baseline Cr: 1.0-1.1 in 2017/3/21), AKIN stage III, sepsis related, s/p HD (6/24-)
+# Rhabdomyolysis
+# UGI bleeding
+# Left middle cerebral artery occlusion (M1) with acute infarction, Day 1 on 2016/3/17, with right hemiparesis
+# Sick sinus syndrome, status post pacemaker (DDDR) implantation in 2005
+# Paroxysmal atrial fibrillation, CHADSVASc 2
+# Hepatitis virus B carrier
+# Chronic obstructive pulmonary disease with acute exacerbation
+
+E4VtM5
+FiO2= 0.35
+No vasopressor
+iHD 6/24-, target BW 63-64
+Tazocin + Daptomycin
+PSV, decrease PS level

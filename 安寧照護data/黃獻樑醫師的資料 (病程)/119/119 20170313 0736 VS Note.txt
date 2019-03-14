@@ -1,0 +1,15 @@
+1.Empyema , MDRAB and MRSA associated
+2.Pneumothorax with persistant air leak
+
+Airway access: Tracheostomy
+Weaning parameter: not checked
+SBT: not checked
+Weaning program: nil
+Weaning process: ventilator dependent
+
+Comatous consciousness
+DNR (+)
+
+. Keep I/O
+. Pending CS decision for operation
+. Consider pleurodesis later if no surgical indication

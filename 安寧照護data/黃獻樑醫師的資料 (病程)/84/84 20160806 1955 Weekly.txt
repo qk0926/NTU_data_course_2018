@@ -1,0 +1,59 @@
+Brief Summary of this week    
+After transferred to 3A2 ICU on 8/3, Mepem was kept for the Ertapenem-resistent K.p.. MV setting was switched from PCV to PSV on 8/3. However, due to collapse over lower lungs, MV setting was switched from PSV to VC+SIMV on 8/5. Minimal ascites and bilateral pleural effusion were noted but IVC showed dynamic collapse, which indicated insufficient intravascular volume so that self-paid albumin was given during 8/5-7. After tapering down Fentanyl, his consciousness recovered with eye tracing with contact since 8/5. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+[Abx]
+Mepem (8/1-) D+6 for Ertapenem-R K.p.
+----------------------------------------------------
+Cravit (7/29-8/4) empirical, discontinue due to no evidecne of atypical pathogen infection
+Tazocin (7/29-8/1)
+
+[Cultures]
+7/30 S/C: KP 1+, MRSA 1+
+8/04 Pneumococcus Ag: Negative
+     Urine Legionella Ag(-)
+     Chlamydiae Antigen (-)
+     Aspergillus Ag (-)
+     Cryptococcal Ag (-)
+     PJP PCR (-)
+
+[Infusion]
+Fentanyl 2¡÷1¡÷0.5
+
+[MV/O2]
+VC+SIMV f 4, Vt 500, PS 10, Esen 15, PEEP 8, 30% 
+--> Vt 230, MV 5.3, f 19, 99%
+
+[PE]
+Consciousness: E4M4Vt, with eye tracing with contact
+Heart: systolic murmur at RUSB
+BS: bilateral rhonchi
+Abdomen: BoS normoactive, soft
+Extremities: warm, pitting edema (+)
+
+[Studies]
+8/01 Right pleural effusion 520mL, serosaginuous, TP <3.0, LDH 344, glucose 111, RBC 11000, TNC 494, L:N:M+H 48:28:2, eos 22%
+8/02 NECT chest: diffuse bilateral pulmonary ground glass opacities and consolidation; bilateral pleural effusion; status post TAVI and pacemaker placement
+8/05 bed-side echo: minimal to moderate pleural effusion, bilateral; consolidation over parts of bilateral lower lungs; IVC 1.1cm with dynamic collapse
+8/05 EEG:
+8/05 Brain perfusion: 
+A. The dynamic flow study: 
+* Mild to moderate hypoperfusion to bilateral cerebral hemisperes. 
+* Increased flow to the paranasal region, which could be secondary to decreased brain perfusion/edema. 
+B. The transaxial,coronal and sagittal images (SPECT) showed: 
+* Symmetric moderate hypoperfusion to bilateral cerebral hemispheres, worst at left temporal and right frontal lobes; mild hypoperfusion to left basal ganglion, and right thalamus; preserved perfusion to right basal ganglion, left thalamus, and upper brainstem.
+
+[Consultation]
+[Family decision]
+[Intervention]
+
+Plan 
+1. Post resuscitation care; wait for EEG report.
+2. Keep Mepem for CRKp pneumonia. 
+3. Monitor pleural effusion amount; repeat thoracocentesis if much amount or atelectasis (to rule out empyema)
+-- 8/01 Right pleural effusion 520mL: exudate, lymphocyte predominant
+4. Give Albumin supplement for 3 days for inappropriate intravascular volumn. Keep Lasix and Aldactone use.
+5. Diet water restriction.

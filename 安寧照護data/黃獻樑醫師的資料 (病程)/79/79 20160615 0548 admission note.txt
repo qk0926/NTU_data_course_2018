@@ -1,0 +1,425 @@
+2016/06/15 05:48 
+主訴(Chief Complaint) 
+Informant: patient's son
+bradycardia with dizziness found at around 16:00 and sudden collapse at 21:50 on 2016/6/14 
+病史(Brief History) 
+【Present Illness】
+This is an 86-year-old female with the medical history of
+1. Coronary artery disease, triple vessel disease, status post percutaneous occlusive balloon angioplasty with stenting to left anterior descending artery, left circumflex artery and right coronary artery, with insignificant in-stent re-stenosis of left anterior descending artery and left circumflex artery, and PD-PL bification to PLA proximal 70% stenosis of right coronary artery, status post percutaneous occlusive balloon angioplasty with stenting to right coronary artery on 2011/10/4
+2. End stage renal disease, under maintenance hemodialysis on QW2,4,6 (2015/3/24-)
+3. Type 2 diabetes mellitus
+4. Congestive heart failure NYHA functional class III
+5. Diabetes mellitus, type 2, with nephropathy
+6. Hypertension
+7. Dyslipidemia
+8. Peripheral arterial occlusive disease
+9. Chronic obstructive pulmonary disease
+11. Old cerebrovascular disease
+
+The patient received regular follow at CV and nephrology OPD in NTUH for years. Her drug compliance was good and her daily activity of life is dependent. She sometimes suffered from intermittent chest tightness while exertion. This time, she received maintenance hemodialysis at local clinic as usual in the morning on 2016/6/14. However, she suffered from dizziness at home at around 16:00. She did not feel chest pain, radiation back pain or cold sweating. His son found that her heart rate was irregular and the rate was around 42/min. Her blood pressure was around 140/70mmHg and the one touch sugar was around 200 mg/dl. She took a rest and took dinner as usual. 
+
+However, she suffered from sudden collapse at around 21:50 on 2016/6/14. Her son called EMT and he started chest compression at around 21:50. According to the EMT record, total 10 minutes of chest compression and one DC shock were performed. She was brought to the emergency department of NTUH. Endotracheal intubation was performed. Chest compression was given for 2 minutes at NTUH. Return to spontaneous circulation was recorded at 22:03. The ECG showed suspected atrio-ventricular block. Premix dopamine was given for bradycardia. Her consciousness recovered to baseline in the emergency department. The patient did not have fever or choking, vomiting before the episode. Empirical Ceftriaxone was prescribed. The brain CT showed no evidence of intracranial hemorrhage. Under the impression of out-of-hospital cardial arrest, suspected atrioventricular block, sick-sinus syndrome, she was transferred to CCU for further management. 
+
+【Past Medical History】
+1. Medical history: 
+   1. Coronary artery disease, triple vessel disease, status post percutaneous occlusive balloon angioplasty with stenting to left anterior descending artery, left circumflex artery and right coronary artery, with insignificant in-stent re-stenosis of left anterior descending artery and left circumflex artery, and PD-PL bification to PLA proximal 70% stenosis of right coronary artery, status post percutaneous occlusive balloon angioplasty with stenting to right coronary artery on 2011/10/4
+   2. End stage renal disease, under maintenance hemodialysis on QW2,4,6 (2015/3/24-)
+   3. Type 2 diabetes mellitus
+   4. Congestive heart failure NYHA functional class III
+   5. Diabetes mellitus, type 2, with nephropathy
+   6. Hypertension
+   7. Dyslipidemia
+   8. Peripheral arterial occlusive disease
+   9. Chronic obstructive pulmonary disease
+   10. Old cerebrovascular disease
+2. Allergy: 
+   No  親友描述  2016/6/14
+   Medication ADR: unknown
+   Allergy to Medical Device and Materials: unknown
+3. Surgical history:  
+   2015_04_09  Permcath implantation via right internal jugular vein
+   2015_04_22  Arteriovenous fistula creation, Left radiocephalic
+   2015_06_30  PTA for radial artery and cephalic vein
+   2015_10_13  PTA to left radial artery with 2.5 mm balloon and left cephalic vein with   
+               4 and 5mm balloon
+
+4. TOCC:  
+   T:travel history：nil
+   O:occupation    ：retired
+   C:contact       ：nil
+   C:cluster       ：nil
+5. Medications:
+   NTUH:
+   ED
+   警 Easydopa Inj 400 mg/250 mL /bag 400 mg QD cIF 1 days
+   Atropine 1 mg/1 mL /amp 0.5 mg STAT IV 1 days
+   Rocephin 500 mg/vial 1000 mg STAT IV 1 days
+   Rocephin 500 mg/vial 1000 mg Q12H IV 2 days
+   OPD (CV and nephrology)
+   Edarbi 40 mg/tab 1 tab HS PO 28 days
+   Cordarone 200 mg/tab 1 tab QD PO 28 days
+   Norvasc 5 mg/tab 1 tab QD PO 28 days
+   Sigmart 5 mg/tab 1 tab BID PO 28 days
+   75 Plavix 75 mg/tab 1 tab QD PO 56 days
+   Lipitor 20 mg/tab 0.5 tab HS PO 28 days
+   (管4) Eurodin 2 mg/tab 1 tab HS PO 28 days
+   警 NovoMIX FlexPen 300 U/3 mL /pen 15 U BID SC 28 days
+   Bokey EM cap 100 mg/cap 1 cap QD PO 28 days
+   Sennapur 12.5 mg/tab 2 tab HS PO 28 days
+   Other: denied
+   中草藥: denied
+   保健食品: denied
+6. Hospitalization:
+   入院日期:2015_09_11 出院日期:2015_09_17 診斷:Chronic renal failure
+   入院日期:2015_03_24 出院日期:2015_04_11 診斷:Urinary tract infection  
+   入院日期:2015_02_13 出院日期:2015_02_26 診斷:Congestive heart failure 
+   入院日期:2014_08_30 出院日期:2014_09_12 診斷:Acute edema of lung, unspecified
+
+【Personal and Family History】
+1. Financial status: stable.
+2. Support system: good.
+3. Life style:
+   (1) Smoking: heavy smoker for more than 50 years, quitted
+   (2) Alcohol consumption: social drinker, quitted
+   (3) Betel nut chewing: denied.
+4.  Family history: no family history of CAD
+5.  Blood type: unclear 
+6.  Marital status: Married. 
+社會心理相關評估(Psychosocial Assessment) 
+Fall Risk Assessment
+總分:17
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+系統性回顧(Review of System) (■:positive, □:negative)
+1.Systemic: □fever, □chills, □easy-fatigability, □consciousness disturbance
+            □weight change, □night sweats, □heat/cold intolerance, □thirsty
+            □diffuse arthralgias/myalgias, □insomnia
+2.Skin: □rash, □pruritis, □dryness, □ulcers, □color changes, □moles, □plaque
+        □hair loss, □hirsutism, □telangiectasia □petechiae, □purpura
+3.Head: □headache, ■dizziness (in the afternoon on 2015/6/14, associated with bradycardia)
+        □vertigo, □alopecia, □head trauma 
+4.Eyes: □ocular pain, □diplopia, □vision loss, □blurred vision, □redness, 
+        □photophobia, □excess tearing 
+        □poor visual acuity, □cataracts, □glaucoma
+5.Ears/Nose: □otalgia, □otorrhea, □hearing impairment, □tinnitus, 
+             □sinus pain, □nasal congestion, □rhinorrhea, □epistaxis, □anosmia
+6.Mouth/Throat: □oral ulcer, □gum bleeding, ■dental problems
+                □sore throat, □dysphagia, □odynophagia, □hoarseness
+7.Cardio-Respiratory: □cough, □sputum, □dyspnea:at rest/exertional (denied), 
+                      □pleuritic pain, □tachypnea, □hemoptysis, ■chest tightness (intermittent),
+                      □orthopnea, □paroxysmal nocturnal dyspnea, ■syncope (at around 21:50 on 6/14),
+                      □palpitation, □intermittent claudication
+8.Gastrointestinal: □anorexia, □nausea, □vomiting:bilious/feculent, □hematemesis  
+                    □heartburn, □acid regurgitation, □belching, □hiccup
+                    □abdominal pain:______, □hunger pain, 
+                    □diarrhea, □constipation, □melena, □clay-colored stool
+                    □change of bowel habit, □tenesmus, □flatulence
+9.Genito-urinary: □urinary frequency, □urgency, □dysuria, □hesitancy,
+                  □incontinence, □nocturia, □polyuria, □oliguria 
+                  □small stream of urine, □cloudy urine, □hematuria,
+                  □flank pain, □impotence, □abnormal sexual exposure
+10.Musculoskeletal: □bone pain, □arthralgia, □myalgia, □back pain
+                    □joint stiffness, □cramps, □fractures
+11.Neurological: □numbness, □paresis/plegia, □convulsion, □paresthesia, □ataxia, 
+                 □resting tremor, □gait disturbance,  
+12.Psychiatric: □insomnia, □memory loss, □anxiety, □panic, □confusion
+                □hallucination, □delusion, □suicidality 
+身體檢查(Physical Examination) 
+BH: 158 cm,  BW: 61.6 kg,
+T: 37.1 °C,  P: 81 bpm,  R: 13 /min,
+BP: 103 / 59 mmHg,
+Pain score:1  ,
+
+Neurological Examination:
+. Consciousness: clear, E4M6VT
+. Muscle power: RUL/LUL/RLL/LLL: all >4
+. Gait: could not measure due to high risk of fall
+
+‧Head-Eye-ENT
+      Conjunctiva: pink; Sclera: anicteric; 
+      Pupil: isocoric(2.5mm/2.5mm); reflex (+/+)
+‧Neck
+      Jugular vein engorgement(-); Lymphadenopathy (-); goiter(-)
+      Meningismus: Kernig sign(-); Brudzinski sign(-); Carotid bruit(-)
+‧Chest
+      Thoracic cage contour: symmetric, 
+      Vocal fremitus and expansion: symmetric
+      bilateral coarse with basal crackles
+‧Heart
+      Heart beat: irregular (around 80/min)
+‧Abdomen
+      Flat & soft. no rebound tenderness, no muscle guarding
+      Superficial vein engorgement(-) Protruded umbilicus(-)
+      Bowel sound: normo-active
+      Tenderness(-) Hepato-jugular reflux(-)
+      Liver and spleen: impalpable
+      Liver span: 10 cm
+‧Extremities: 
+      pitting edema (-)
+      Left forearm AVF, thrill (+), bruit (+)
+‧Skin
+      Abnormal pigmentation(-) Petechiae(-) Purpura(-) Ecchymoses(-)       
+      Telangiectasia(-) Rash(-) Plaque(-) Wound(-) Ulceration(+ at left pedal area) Crust(-)
+‧lymphadenopathy: neck(-), axilla(-), epitrochlear(-), inguinal(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050615 [0002] 7.604         19.3          410.3         19.3          -2.5         
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050615 [0004] 235          
+
+
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1050614 [2224] Positive     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1050614 [2224] O             Positive     
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050614 [2213] 287          
+*********檢驗室:RL***********
+
+群組:
+
+               Troponin-T    CK-MB        
+time/item      (ng/L)        (ng/mL)      
+1050614 [2220] 124.9         3.32         
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ammonia N    
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)     
+1050614 [2220] 21.3          4.5           134           3.6           34           
+               T-BIL         Lipase        Ca            Mg            P            
+time/item      (mg/dL)       (U/L)         (mmol/L)      (mmol/L)      (mg/dL)      
+1050614 [2220] 0.34          30            2.17          0.80          3.4          
+               LacticAcid    CK           
+time/item      (mmol/L)      (U/L)        
+1050614 [2220] 6.01          47           
+群組:Yes
+
+               NT-pro BNP   
+time/item      (pg/mL)      
+1050614 [2220] 8595         
+群組:General BioChemistry
+
+               ALB           ALT          
+time/item      (g/dL)        (U/L)        
+1050614 [2220] 3.4           25           
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1050614 [2220] 10.4          34.3          0.94         
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050614 [2220] 0.0           0.0           0.0           0.0           3.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050614 [2220] 35.0          2.0           1.0           3.0           56.0         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050614 [2220] 0.0           0.0           0.0 /100 WBC  WBC 100                    
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050614 [2220] 16.60         3.38          10.5          34.6          102.4        
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050614 [2220] 31.1          30.3          200           15.9          - 
+檢查紀錄(Examination Report) 
+6/15  Cardiac echo
+LVEDD/ESD: 46/28mm, LVEF: 69.7%, LA: 43mm
+‧The left ventricle is grossly normal in size and shape.
+‧The LV systolic function is normal
+‧The left atrium is dilated.
+‧Mitral regurgitation, mild
+‧Tricuspid regurgitation, mild-moderate
+‧Aortic regurgitation, mild
+‧Pulmonary hypertension, moderate (TRmaxPG: 45.2 mmHg)
+‧Pulmonic regurgitation, mild
+‧There is no pericardial effusion. 
+影像報告(Imaging Report) 
+2016/6/14   CT With/Without Contrast-brain, chest, abdomen and pelvis (preliminary)
+- Old insults in the right periventricular white matter and right frontal lobe. Lacunes in the bilateral basal ganglions.
+- Normal sized sulci, ventricles and fissures.
+- Intact cranial vault and skull base.
+- Bilateral chronic paranasal sinusitis.
+- Placement of an endotracheal tube, a nasogastric tube and a Foley catheter.
+- Several hypodense lesions in the right thyroid gland.
+- Atherosclerotic calcification of the aorta and coronary arteries. 
+- Subpleural consolidation in the dependent portion of both lungs. Multifocal consolidation in the left upper lobe. Subsegmental atelectasis in the left lower lobe. 
+- No definite pulmonary embolism. No aortic dissection.
+- Small mediastinal lymph nodes. 
+- No definite focal lesions in the liver, spleen,both adrenal glands and kidneys. 
+- Atrophic change of the pancreas.
+- Gallstones.
+- No definite paraaortic lymphadenopathy. 
+- Right inguinal hematoma. 
+- Cystic lesions in the bilateral adnexa, recommend ultrasound correlation. The one at the right adnexa had focal calcification spot.
+- Compression fracture in the T10, L1 and L2 vertebra. Degenerative change of the thoracolumbar spine with marginal spur formation. 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1. Out-of-hospital cardiac arrest, suspect atrioventricular block or sick-sinus syndrome related, status post cardiopulmonary resusitation for about 12 minutes, with return to spontaneous circulation, status post endotracheal intubation and mechanical ventilation (2016/6/14)
+2. Coronary artery disease, triple vessel disease, status post percutaneous occlusive balloon angioplasty with stenting to left anterior descending artery, left circumflex artery and right coronary artery, with insignificant in-stent re-stenosis of left anterior descending artery and left circumflex artery, and PD-PL bification to PLA proximal 70% stenosis of right coronary artery, status post percutaneous occlusive balloon angioplasty with stenting to right coronary artery on 2011/10/4
+3. End stage renal disease, under maintenance hemodialysis on QW2,4,6 (2015/3/24-)
+4. Type 2 diabetes mellitus
+5. Congestive heart failure NYHA functional class III
+6. Diabetes mellitus, type 2, with nephropathy
+7. Hypertension
+8. Dyslipidemia
+9. Peripheral arterial occlusive disease
+10. Chronic obstructive pulmonary disease
+11. Old cerebrovascular disease 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+1. Out-of-hospital cardiac arrest, suspect atrioventricular block or sick-sinus syndrome related, status post cardiopulmonary resusitation for about 12 minutes, with return to spontaneous circulation, status post endotracheal intubation and mechanical ventilation (2016/6/14)
+2. Coronary artery disease, triple vessel disease, status post percutaneous occlusive balloon angioplasty with stenting to left anterior descending artery, left circumflex artery and right coronary artery, with insignificant in-stent re-stenosis of left anterior descending artery and left circumflex artery, and PD-PL bification to PLA proximal 70% stenosis of right coronary artery, status post percutaneous occlusive balloon angioplasty with stenting to right coronary artery on 2011/10/4
+3. End stage renal disease, under maintenance hemodialysis on QW2,4,6 (2015/3/24-)
+4. Type 2 diabetes mellitus
+5. Congestive heart failure NYHA functional class III
+6. Diabetes mellitus, type 2, with nephropathy
+7. Hypertension
+8. Dyslipidemia
+9. Peripheral arterial occlusive disease
+10. Chronic obstructive pulmonary disease
+11. Old cerebrovascular disease
+
+A: ex-smoker, received regular HD at local clinic QW246
+   Sometimes suffered from intermittent chest tightness at home
+   On 2016/6/14, received maintenance hemodialysis in the morning
+   Felt dizziness at around 16:00 at home
+   no fever, no chest pain, no dyspnea or radiation pain, no choking
+   Bradycardia was found ~40/min, irregular heart beats
+   Sudden collapse at around 21:50
+   Call EMT, start CPCR at home
+   CPCR 10 mins, s/p DC shock once at ambulance
+   Extra 2 mins CPCR at NTUH ED, ROSC on 22:03
+   Consciousness recovered
+
+   [Physical examination]
+   Consciousness: E4M6VT
+   HEENT: conjunctiva: mild pale, sclera: not icteria
+   Chest: bilateral coarse, basal crackles, no wheezing
+   Heart: HR~ 80/min under TCP
+   Abdomen: soft. normoactive bowel sound, no local
+            tenderness
+   Extremities: no edema, but small ulcer wounds found
+                at left pedal area, no local tenderness 
+                or local heat  
+
+   [Laboratory examination]
+   6/14 22:20
+   WBC/HB/PLT: 16.60K/10.5/260K, 
+   BUN/CRE: 21.3/4.5, Na/K: 134/3.6, Mg: 0.80*(L) 
+   Ca/P: 2.17/3.4
+   CK/CK-MB/TnT: 47/3.32/124.9, pro-BNP: 8595*(H)
+
+   [Important image studies]
+   ECG: susp AV block
+   Chest: cardiomegaly, mild hilar infiltation
+   CT-brain: old insult, no ICH
+   Chest: Subpleural consolidation in the dependent 
+          portion of both lungs. 
+          Multifocal consolidation in the left upper lobe. 
+          Subsegmental atelectasis in the left lower lobe. 
+          no pulmonary embolism
+   A+P: No definite focal lesions in the liver, spleen,
+        both adrenal 
+        Gallstones.
+        Right inguinal hematoma. 
+        Cystic lesions in the bilateral adnexa
+   2016/6/14 Cardiac echo (preliminary)
+   LVEDD/ESD: 46/28mm, LVEF: 69.7%, LA: 43mm
+   dilated LA. mild MR, mild mAR, mild PR
+   mild-to-moderate TR
+   moderate pulmonary HTn (TRmaxPG: 45.2 mmHg)
+
+   2015/9/1  24hr Holter
+   1. Basically sinus rhythm, HR 54 ~ 110 bpm, average 76 bpm.
+   2. Occasional ventricular ectopies (177 beats, 0.2%) with 169 single PVCs.
+   3. Occasional supraventricular ectopies (57 beats, 0.1%) with 2 atrial
+      runs (longest 8 beats, fastest 130 bpm), 5 atrial pairs, 36 single PACs.
+   4. No long pause.
+   5. No significant ST-T change
+
+Impression
+1. Out-of-hospital cardiac arrest, suspect atrioventricular block or sick-sinus syndrome related, status post cardiopulmonary resusitation for about 12 minutes, with return to spontaneous circulation, status post endotracheal intubation and mechanical ventilation (2016/6/14)
+2. Coronary artery disease, triple vessel disease, status post percutaneous occlusive balloon angioplasty with stenting to left anterior descending artery, left circumflex artery and right coronary artery, with insignificant in-stent re-stenosis of left anterior descending artery and left circumflex artery, and PD-PL bification to PLA proximal 70% stenosis of right coronary artery, status post percutaneous occlusive balloon angioplasty with stenting to right coronary artery on 2011/10/4
+3. End stage renal disease, under maintenance hemodialysis on QW2,4,6 (2015/3/24-)
+4. Type 2 diabetes mellitus
+5. Congestive heart failure NYHA functional class III
+6. Diabetes mellitus, type 2, with nephropathy
+7. Hypertension
+8. Dyslipidemia
+9. Peripheral arterial occlusive disease
+10. Chronic obstructive pulmonary disease
+11. Old cerebrovascular disease
+
+Plans
+1. On temporatory pacemaker for AV block
+   Discontinue Amiodarone first and also check thyroid
+   function. Correct electrolyte imbalance
+   Arrange EP study first
+   Discuss with CV Dr Lin about further managment
+2. Keep maintainence hemodialysis. Inform the family to 
+   bring the dialysis summary at local clinic
+3. Empirical Ceftiaxone. Complete septic workup
+4. No need for hypothermia since consciousness recovered 
+   at ED
+5. Give IV PPI and keep NPO with IVF due to NG coffee-
+   ground (suspect ET-tube related). 
+   Keep Plavix and hold Aspirin due to UGI bleeding
+   Consider resume feeding
+6. Control blood sugar and blood pressure
+7. Taper the ventilator gradually. Try CPAP/PS
+
+Treatment Goal:
+1. Find out the etiology of bradycardia
+2. Extubation
+3. Control BP. SBP<150mmHg 
+4. Avoid intradialytic hypotension 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右頸 左右足踝
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.0mm 
+胃造廔口：無  
+尿管留置：有  16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：左手Av shunt
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：兒子 女兒 外勞 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+葉志凡 主治醫師 

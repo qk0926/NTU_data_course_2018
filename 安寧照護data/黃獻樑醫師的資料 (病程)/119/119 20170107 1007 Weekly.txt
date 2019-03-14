@@ -1,0 +1,69 @@
+Brief Summary of this week    
+Please refer to Summary and treatment course 
+
+Assessment 
+[Abx]
+Meroepnem (12/30-)
+Fluconazole (01/06)-
+-----------------------------------------------------
+Unasyn (12/24)
+Zithromax (12/24-26)
+Tamiflu (12/24-12/29)
+Meropenem (12/28-12/28)
+Ceftazidime (12/28-12/30)
+Cravit (12/24-01/05)     Discontinued due to lack of evidence
+Targocid (12/30-01/05)   Discontinued due to lack of evidence
+Diflucan 1/2-01/05 for CRBSI, suspect Candidiasis
+                         Discontinued due to lack of evidence
+ 
+[Cultures]
+12/26 S/S (poor Q): GPC in chains 3+
+Flu rapid test -, Legionella Ag -, sputum Chlamydiae Ag -, Mycoplasma IgM -
+12/28 B/C: No growth
+      B/C: No growth (CVC)
+      B/C: No growth (Port-A)
+      S/C: G(-) rods 1+
+      U/C: neg.
+12/30 BAL: Ralstonia mannitolilytica (few); Candida albicans 
+12/30 bronchial wash:Aspergillus Ag NEGATIVE  
+01/03 CVC tip culture:neg.
+
+[O2]
+PC/AC frequency 20, IP 16, PEEP 12 FiO2 65%
+RR 20 TV 505 MV 10.8
+
+[Infusion]
+Levophed 10->8 ->3-> off (1/1)-> 2(1/2)-> 8(01/03)->10 (01/04) -> off (01/05)
+
+[Studies]
+12/24 CT:Bilateral pneumonia.
+12/30 BAL: 1.Few whitish sputum over right lower lung. 2. Much purulent sputum over LUD.
+12/30 Brain CT: atrophy
+1/1 CXR: bil lobar opacities, pleural effusion, lung edema
+Alb=1.7 g/dL
+1/4 Alb=2.6
+01/05 FEUN 40%
+01/06 CT: bialateral pneumonia with fibrosis and severe calcification; Brain CT revealed no hemorrhage
+
+[Consultation]
+[Family decision]
+01/02 agreed albumin infusion for correction of hypoalbuminemia and hypotension
+01/04 Verbally expressed DNR (¤£À£¤£¹q), considering for HD
+01/06 Signed permits for hemodialysis.
+      Hesitated with tracheostomy, cannot decide on DNR
+      (May requested family meeting again)
+
+Plan 
+1. for pneumonia, sepsis
+ - Keep Meroepnem and Fluconazole
+ - Repeated chest CT revealed bialteral fibrosis with calcification refractory to antibiotic treatment, inform poor prognosis.
+ - administered steroid for ARDS and/or organizing pneumonia(keep solu-medrol 20mg Q8H)
+ - Watch out worsening renal function: prerenal pattern, sepsis, hypotension, CVP 6
+  => inform family possibility of RRT 
+ - keep albumin supplement
+ - adjust enteral feeding as tolerated
+2. for Afib with PPM 
+ - hold apixaban due to current sinus rhythm 
+ - Sinus rhythm, DC cordarone, keep rytnomorm
+3. For conscious prolonged disturbances
+ - consider lumbar puncture

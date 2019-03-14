@@ -1,0 +1,75 @@
+Brief Summary of this week    
+<4B2 2016/10/03->
+Continuous PPI infusion, Mepem + colistin + teicoplanin + micafungin, and Levophed was continued. Tarry stool persisted, and we had him NPO with aminofluid 1000 ml/day. Air leak was noted, therefore the Bivona was changed to low-pressure on 10/04. However, during the changing process, several old blood clots were evacuated from the tracheostomy opening. Bronchoscopy was prepared stand-by for airway inspection, but the scope could not pass through the airway due to blood clots. Meanwhile, his SBP dropped to 70-80 mmHg, which then recovered gradually after suction. The dose of Levophed was uptitrated to 23 ml/hr temporarily. The bronchoscopic study showed no active bleeder but excessive dynamic airway collapse. Critical condition was addressed to his daughter again, and she finally re-signed DNR permit (不電, 不壓, 不上二線以上升壓藥, 不洗腎, 不做心導管) on 10/04. Ophthalmologist was consulted on 10/05 for Candidiasis, showing no endophthalmitis. The MIC of the blood fungal culture showed the C. albicans was sensitive to micafungin and we continued micafungin. Blood fungal culture was repeated every 3 days. We gradually tapered the dose of Levophed and it was discontinued on 10/06. Aminofluid was changed to TPN for better nutrition support. Tarry stool aggravated on 10/06 (460 g), and component therapy was administered to keep Hb >8 and Plt >100k. Teicoplanin was discontinued on 10/07 after a 7-day course. Colistin was discontinued on 10/07 for clearance of MDRAB and decreasing urine output. Progressive abnormal liver function was noted, mixed type (d/t-bil 2.5/3.75, AST/ALT 574/265, ALP/GGT 389/994). Bedside echo showed no obvious biliary tree dilatation or stone. TPN was changed to cyclic TPN to prevent cholestasis. Keppra was discontinued. We had him try water since 10/08 and then administered trickle feeding 500 ml/day with pump to avoid mucosal atrophy. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+[Abx]
+meropenem    10/03-D6  r/o Tienam-related seizure
+                       S/C: MDRAB + S.m
+micafungin   10/03-D6  B/C: C. albicans (Pending 10/06 repeat Cx)
+                            R-azoles/S-echinocandin
+-----------------------------------
+colistin     09/30-10/07  S/C: MDRAB + S.m
+teicoplanin  10/01-10/07  Empirical for CRBSI
+before 2016/09 -> see other note
+Levofloxacin 9/20-9/26	suspected UTI
+Fluconazole  9/22-10/03	U/C: C. albican > 100,000
+Ceftazidime  9/26-9/29	S/C: MDRAB
+Tigecycline  9/26-9/29	S/C: MDRAB
+Tienam       9/29-10/03	S/C: MDRAB + S.m
+
+[Culture]
+09/21 S/C: MDRAB 3+, S.m 2+ (R to Cravit)
+      U/C: C. albicans 70,000
+09/28 Urethral discharge: MDRAB 2+, C. albicans 1+
+10/01 B/C(CVC) + F/C(CVC): C. albicans
+      (No PB B/C to prove CRBSI)
+      MIC fluconazole >256, voriconazole >8, posaconazole >8
+          anidulafungin .03, micafungin .015, caspofungin <=.008
+          amphoB 0.5, flucytosine <=.06
+
+[Ventilator]
+PCV IP 16, PEEP 8, FiO2 35%->30%, RR 16
+-> RR 25, Vt 290ml, MV 7.1, SpO2 99%, P/F 350
+   no airleak during left decubitus position
+
+[Nutrition] 10/06 alb 2.8 (supplement 10/07-09, 10-12)
+try water 100ml q6h
+TPN 1008 ml + multivitamin & trace element + Lipofundin 20% 250ml 
+-> change to cyclic TPN to prevent cholestasis
+
+[Important patient's and family's decisions]
+兩個女兒一個兒子，大女兒在美國，二兒子在大陸
+媳婦也會來照顧，family有line群組會交班
+06/25 口頭 DNR不電不壓
+06/28 Family decieded not to receive surgery. If clinical condition deteriorated, wish palliative care
+07/01 Family agree not to arrange TAE if massive GI bleeding
+07/03 如之後有大出血，升壓劑用到家屬來。同意抽胸水。希望能讓病人講話
+08/03 re-confirm DNR status
+10/03 consider no H/D and only one kinds of inotropics
+10/04 DNR re-signed by daughter (不電, 不壓, 不上二線以上升壓藥, 不洗腎, 不做心導管)
+
+Plan 
+1. keep meropenem + micafungin 
+  -> repeat F/C every 3 days (next time 10/09)
+  -> goal: ward transfer next week
+2. continue Rt pigtail drainage
+3. keep Pantoloc 80mg cIF for history of GI bleeding
+  -> consider somatostatin if massive bleeding
+     or lower the dose if stable
+  -> component threapy if indicated, keep Plt>100k if bleeding
+  -> TPN for nutrition support, f/u electrolytes closely
+4. taper steroid gradually to physiological dose.
+   Now Solu-cortef 50mg q12h (10/07-)
+5. informed family about poor outcome again
+  -> re-signed DNR by his daughter (不電, 不壓, 不上二線以上升壓藥, 不洗腎, 不做心導管)
+6. DC diuretics to prevent prerenal azotemia
+   cotinue alb supplemnt (10/7-9, 10/10-12)
+   closely f/u renal function, set dry weight 64 kg
+7. try water, may try trickle feeding 500ml/day with pump to avoid mucosal atrophy later if tolerated
+8. obtain hepatitis profile again for abnormal liver function
+   change to cyclic TPN to avoid cholestasis
+   beware drug-related hepatotoxicity, DC Keppra

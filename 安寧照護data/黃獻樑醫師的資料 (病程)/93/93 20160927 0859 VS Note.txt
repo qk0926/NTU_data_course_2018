@@ -1,0 +1,19 @@
+# New shock, suspect sepsis, complicated UTI related.
+# Urinary retention with fluid overload
+# UTI and pneumonia
+# Recurrent GI Bleeding with anemia and thrombocytopenia
+# peri-tracheostomy bleeding, prooved with Endoscopy.
+
+2016/09/27 04:19 SpO2:99%(%,3L,VCR)
+2016/09/27 04:14 GCS:E4M5VT
+2016/09/27 04:14 BP:100/43
+
+2016/09/26
+ID+DS Blood.#1:No growth after 5 days *
+ID+DS Blood.#1:No growth after 5 days *
+
+Blood culture: neg. X II
+keep current Abx
+CXR: right pleural effusion
+may keep lower BW.
+thoracocentesis if needed.

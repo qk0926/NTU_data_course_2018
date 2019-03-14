@@ -1,0 +1,38 @@
+[Active Problem]
+1. Hypoxemic Respiratory failure, community-acquired pneumonia related, mechanical ventilation (2016/12/26-), status post prone position (2016/12/26-12/27, 2017/01/02-01/04), status post tracheostomy on 2017/01/31
+2. Right side empyema, status post video-assisted thoracoscopic surgery (VATs) decortication on 2017/01/31 and 2017/02/25, status post right thoracotomy and open window creation on 2017/03/22, s/p right decortication on 2017/07/03
+3. Acute kidney injury, prerenal type, complicated with uremic bleeding, status post sustain low efficiency dialysis (2017/04/05-) 
+4. Right hemothorax with hypovolemic shock, improved
+5. Acute decompensated heart failure with fluid overload
+6. Serratia marcescens bacteremia, focus to be determined
+7. Right side pneumothorax, suspect barotrauma or empyema-related, status post tubal thoracostomy on 2017/01/16
+8. Sick sinus syndrome, paroxysmal atrial fibrillation, status post permanent pacemaker insertion (2015/08/21, DDDR, Medtronic)
+9. Relative adrenal insufficiency,under cortison 0.5# bid
+10.Anemia,s/p PRBC transfusion
+11.Sacral pressue sore s/p bedside debridment on 2017/7
+12.Right calf pressure sore, Grade III, 7 cm x 3 cm
+
+[Assessment]
+2017/07/24 09:55 T:36.4 P:120 R:16
+2017/07/24 09:55 BP:63/43
+2017/07/24 09:57 SpO2:100%(40%,L,)
+2017/07/24 11:45 Pain score:0
+ECOG:4
+DNR(+)除插管，拒抗生素
+
+[目前用藥]
+Morphine 1 tab PO Q8H 
+Combivent 1 amp IH Q8H 
+Cortisone  0.5 tab PO BID 
+
+[會談摘要]會談對象:太太、兒子
+提醒及肯定家屬陪伴付出，現階段有新的一波感染，或許是病人讓家屬免於做拔管的決定。先觀察這一波感染，若又回穩再回頭考慮當時家庭會議討論的選項(家屬傾向拔管)。說明安寧緩和照顧，引導下家屬可了解調整呼吸器也無法避免最後病人血氧變差，初衷是希望病人舒服，故接受不再上調呼吸器，使用藥物幫助舒適，如嗎啡或鎮靜藥物等。
+
+[Plan]
+1.keep current treatment as your expertise.
+2.持續關心家屬需求，予心理支持。
+3.如有任何問題，請電聯東址共照辦公室63274
+
+已與原團隊主責醫師連朕緯交班
+
+安寧共照護理師 N2周思婷 GSM 22781

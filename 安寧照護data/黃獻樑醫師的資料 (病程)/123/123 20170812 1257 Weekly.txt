@@ -1,0 +1,64 @@
+Brief Summary of this week    
+After admission, we kept hypothermic therapy, and BT 33 degree was achieved around 0200. Tachycardia was refractory to adenosine, and resolved after herbessor use. TTM related tremor was noted at first and resolved after NM blocker use. Shock was noted at 07/31, and Rocephin was upgraded to Mexipime. His blood pressure was fluctuated under inotropic agent. We repeated brain CT on 08/01, for suspected ICH-related coma, and CT showed hypoxic-ischemic encephalopathy with diffuse brain edema, herniation, and hydrocephalus, therefore mannitol was added. His lab data showed secondary adrenal insufficiency, although family refused previous exposure to steroid or Chinese herb. We increased his steroid on 08/02, and blood pressure imporved a little. EEG on 08/02 showed severe diffuse cortical dysfunction. The lab data on 08/04 showed ketone 2.6, AG 13.4, Na 163, Cl 130; suspected to br dehydration-related mild DKA. Thus, insulin pump was started. His AG close in the afternoon, so we switched insulin to fraction. We tapered insulin gradually, for better control of blood glucose. EEG and brain perfusion SPECT were performed on 08/07. EEG showed profound cortical dysfunction, and brain perfusion SPECT result was compatible with brain death. Family meeting was arranged on 08/10, and family needed to have some time to discuss about their plan of future care. His urine output became much on 08/11, suspected to be central DI, therefore dDAVP was added. Patient's response to dDAVP was good. 
+
+
+Assessment 
+[Today's event]
+Poor digestion
+Much urine output yesterday
+-Suspect central DI, added dDAVP; with good response
+
+[Abx]
+Maxipime	07/31-08/13	empirical
+==========
+Rocephin	07/30-31	empirical
+
+[culture]
+7/30 B/C: -*2, S/C: -, U/C: -
+8/01 PCT: 3.495
+
+[PE]
+no light reflex, no doll eye sign
+conjuctiva: not pale 
+chest: no crackle, no wheezing
+heart: RHB
+abdomen: soft, no tenderness
+extremities: warm
+
+[ventilator]
+PCV IP 12, PEEP 6, RR 10, FiO2 25%
+-> MV 3.8, TV 386
+
+[lab]
+7/30 urine drug all negative
+7/31 HBV (-), HCV (-)
+7/31 free T4 1.32, TSH 0.579, cortisol 9.66, ACTH <5
+8/01 ferritin 2081, iron 18, TIBC 253
+8/03 HbA1c 10.4
+
+[Studies]
+07/30 Whole body CT:
+Under an endotracheal tube, atelectasis of bilateral lungs at dependent portion, no definite traumatic focus
+08/01 brain CT: Hypoxic-ischemic encephalopathy with diffuse brain edema, herniation, and hydrocephalus.
+08/02 EEG: severe diffuse cortical dysfunction
+08/03 UCG: LVEDd/s: 46/30, IVS/PW: 13/12, EF: 66.1%, E/A:0.76
+08/07 Brain perfusion SPECT: c/w brain death
+08/07 EEG: barely discernable brain activities, profound diffuse cortical dysfunction
+
+[Consultation]
+Dr ²ø§Ó©ú: unfavor of Brugada
+
+Plan 
+1.For OHCA
+  - Brain perfusion: brain death
+  - Await family decision
+2.For adrenal insufficiency
+  - Taper solu-cortef to 50mg Q12H 
+  - Switch steroid to oral form if feeding ok
+3.For DM
+  - NG pump feeding, still poor digestion
+  - Keep prokinetics
+4.For much UOP, suspect central DI
+  - Pending for survey
+  - Keep dDAVP
+  - keep I/O balance

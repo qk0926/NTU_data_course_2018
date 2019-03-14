@@ -1,0 +1,330 @@
+ 2017/02/23 07:06
+主訴(Chief Complaint) 
+Informant:family and medical records
+Consciousness change with dyspnea since 2017/02/21 
+病史(Brief History) 
+This 64 years old female who is a nursing-home resident, has medical history of 
+1.NSCLC, adenocarcinoma, EGFR exon 21 L858R mutation, cT2a(3)N0M1b stage IV, with brain metastasis, s/p craniotomy for tumor excision(brain tumor pathology: pleomorphic carcinoma, TTF1+, vimentin+), now on afatinib therapy (since 2016/02/18), with PR(2016/05/02, 2016/11/15 CT); with deteriorated neurologic status
+
+According to the patient's statement, she had sudden onset left sided weakness and fell down on 2015/10/7. She could not recognized whether the weakness went first or falling down went first. She was sent to our ER, where CT scan showed two brain tumor with perifocal hemorrhage. Mannitol and solu-medrol was prescribed. MRI was performed and showed two tumor over right brain, suspected metastatic tumor. Whole body CT scan was performed and revealed bilateral lung tumor. She was then admitted to our ward on 2015/10/17 Right occipital craniotomy and Right fronto-parietal craniotomy for tumor excision was done on 2015/10/23. Right upper limb weakness was noted after the surgery, but her muscle power improved gradually. The pathology report of CT-guide Biopsy revealed adenocarcinoma, and the pathology report of the operation showed consistent with a metastatic pleomorphic carcinoma of pulmonary origin. She was discharged on 11/04 with oncology OPD follow up. WBRT and target therapy were suggested and she receive regular treatment in OPD. 
+She was bedridden and could produce oriented speech as baseline performance. This time,  progressed consciousness change for 1 week was told by nursing home. On 2017/02/21 morning, dyspnea was noted. After contact with the patient's son, she was transferred to NTUH ER. On arrival to ER, vital sign showed T/P/R:37.6/154/32, SpO2=92%, BP=154/92, GCS:E2M1V1. Later BP decrease to 92/75 was noted and shock was impressed. Endotracheal tube intubation with fluid challenge, inotropic agents levophed were administered. CXR showed diffused increased infiltration. Lab data showed leukocytosis(WBC:15.72k, Band:27.6%, Seg:63.8%), ALT=335, protein uria(2+), pyuria, bacteriuria. Empirical antibiotics Tazocin was administered. Chest CT showed LUL lung cancer, stable. 
+suspicious pulmonary infection, more prominent. Brain CT showed progression of tumor with some hemorrhage and leptomeningeal seeding. DNR was discussed with family and they agreed on DNR(除插管&ventilation). Hospice was consulted and combined care will be arranged. She was admitted to our ward for further care. 
+
+Family History: husband died of lung cancer
+Medication Allergy:No  舊病歷資料 2017/02/22
+No  病人自述 2015/10/16
+No  病人自述 2015/10/17
+No  親屬描述 2015/10/23
+No  病人自述 2015/10/24
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  舊病歷資料 2017/02/22
+No  病人自述 2015/10/16
+No  病人自述 2015/10/17
+No  親屬描述 2015/10/23
+No  病人自述 2015/10/24
+Current Medication:
+NTUH:警 Relaxin 500 mg/vial 不計價常備藥 50 mg STAT IV 1 days
+TAZOCIN (based on piperacillin content) 2000 mg/vial 3000 mg Q6H IF 2 days
+PCN Test (Penicillin G Skin Test) 1000 U/1 mL 2 mL/vial 0.1 mL ONCE ID 1 days
+TAZOCIN (based on piperacillin content) 2000 mg/vial 3000 mg STAT IF 1 days
+PARAMOL 500 mg/tab 1 tab STAT PO 1 days
+PARAMOL 500 mg/tab 1 tab Q6HPRN PO 2 days
+Zithromax 250 mg/tab 2 tab QD PO 3 days
+Zithromax 250 mg/tab 2 tab STAT PO 1 days
+Taita No.3 500 mL/btl 1500 mL QD IF 2 days
+警 Levophed 4 mg/4 mL /amp 8 mg QD cIF 2 days
+40 Giotrif 40 mg/tab 1 tab QODAC PO 14 days
+MgO 250 mg/tab 1 tab TID PO 14 days
+Other:
+中草藥:nil
+保健食品:nil
+Past Medical History:
+Hospitalization:入院日期:2015_10_17 出院日期:2015_11_04 診斷:Brain metastasis
+
+Past Surgical History:2015_10_23  1. Right occipital craniotomy for tumor excision
+2. Right fronto-parietal craniotomy for tumor excision
+Travel History:nil 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:大學
+職業:退休
+宗教信仰:基督教
+婚姻狀態:喪偶
+使用語言:國語 台語 
+口述血型:A，RH:不清楚，輸血反應:
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability-), night sweats(-)
+2.Skin: petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular: exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(+), cough(+), chest pain(-), hemoptysis(-), productive cough (+), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-), unsteady gait (-) 
+身體檢查(Physical Examination) 
+BH: 163 cm,  BW: 51 kg,
+T: 36.4 °C,  P: 120 bpm,  R: 16 /min,
+BP: 143 / 69 mmHg,
+Pain score: 0 ,
+
+General appearance: drowsy
+HEENT: grossly normal 
+   Eyes: conjunctiva: not pale,    sclera: not icteric
+   Pupil Isocoric,   light reflex (R/L): +/+, prompt
+   Neck: supple, JVE (-), LAP (-)
+Chest: symmetric expansion, rhonchi(+), crackles(+), wheezing(+)
+Heart: RHB, no obvious murmur audible
+Abdomen: soft and flat, No tenderness
+Bowel sounds: normal active, Liver / Spleen: Not palpable
+Extremities: freely movable, pitting edema (-), cyanosis (-), petechiae (-), rash (-)
+Peripheral pulses: symmetrically intact, moderate
+
+神經學檢查(Neurological Examination)
+Consciousness:
+   GCS= E2  M1  Vt
+Cranial nn.:
+   I. olfaction =not performed 
+   II.III. light reflex:+/+
+   III, IV, VI (EOM)= not performed
+   V. not performed
+      corneal reflex =intact
+   VII. facial movement =intact, no facial palsy
+   VIII. hearing = no response to sound
+   IX, X. uvular movement =not performed
+          gag reflex =intact
+   XI. head turning =not performed
+       shoulder shrugging =not performed
+   XII. tongue protusion =not performed
+Motor:
+   muscle power:
+      right/left shoulder =5/5
+      right/left elbow =5/5
+      right/left wrist =5/5
+      right/left hip =5/5
+      right/left knee =5/5
+      right/left ankle =5/5
+   deep tendon reflex:
+      right/left biceps =2+/2+
+      right/left triceps =2+/2+
+      right/left brachioradialis =2+/2+
+      right/left knee jerk =2+/2+
+      right/left ankle jerk =2+/2+
+Sensory: not performed
+Coordination:
+   finger-nose-finger = not performed
+   rapid alternating movement = not performed
+Gait: not performed 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060221 [1459] 15.72         4.41          13.5          40.5          91.8         
+1060222 [0435] 22.41         3.89          11.9          35.9          92.3         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060221 [1459] 30.6          33.3          313           13.3          -            
+1060222 [0435] 30.6          33.1          272           13.7          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060221 [1459] 0.0           0.0           0.0           0.0           27.6         
+1060222 [0435] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060221 [1459] 63.8          0.0           0.0           2.9           5.7          
+1060222 [0435] 95.4          0.0           0.1           2.3           2.2          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060221 [1459] 0.0           0.0           0.0           -            
+1060222 [0435] 0.0           0.0           0             -            
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1060221 [1459] 10.0          24.4          0.93         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1060221 [1500] 335          
+1060222 [0435] 282          
+群組:Biochemistry
+
+               CRE           Na            K             Ammonia N     T-BIL        
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)      (mg/dL)      
+1060221 [1459]                                           28                         
+1060221 [1500] 0.2           130           4.3                         0.87         
+1060222 [0435]                                                                      
+               Lipase        LacticAcid   
+time/item      (U/L)         (mmol/L)     
+1060221 [1459]               2.87         
+1060221 [1500] 44                         
+1060222 [0435]               1.38         
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1060221 [1515] 1.021         6.5           100 ( 2+ )    300 ( 3+ )    -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1060221 [1515] 1+            2.0           -             1+            2+           
+               Color         Turbidity    
+time/item      (*)           (*)          
+1060221 [1515] Yellow        +            
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1060221 [1515] 2-5           50-75         0-2           Gr(0-2)       Amo-PO4(3+)  
+               Bacteria      Others(S)    
+time/item      (*)           (*)          
+1060221 [1515] 4+            -            
+群組:
+
+               Troponin-T    eGFR          Mucus(S)     
+time/item      (ng/L)        (mL/min/1.73  (*)          
+                              m^2)                      
+1060221 [1459] 22.52                                    
+1060221 [1500]               377.7                      
+1060221 [1515]                             -            
+1060222 [0435] 21.95                                    
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060221 [1451] 7.519         34.5          76.0          28.4          5.3          
+1060222 [0432] 7.500         34.2          88.2          26.9          3.5          
+               SO2          
+time/item      (%)          
+1060221 [1451] 96.5         
+1060222 [0432] 97.6         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1060221 [1451] 1.12          14.1          42            3.92          126.7        
+1060222 [0432] 1.24          12.6          38            3.73          134.5        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1060221 [1451] 224           2.6          
+1060222 [0432] 139           1.6          
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1060221 [1456] 203          
+
+*********檢驗室:B3***********
+B3-1060221-1032138   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Many PMNs ( >25 /LPF )
+     Gram's(GS)#2:       Many epithelial cells ( >25 /LPF )
+     Gram's(GS)#3:       Gram (+) rods,  Gram (-) rods 3+
+     ID+DS Sputum Culture #1:       Mixed flora
+     Gram's(GS)#4:       Gram (+) cocci in chains 3+
+     Gram's(GS)#5:       痰檢體品質不良建議重新送檢
+
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1060221 [1459] A             Positive     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1060221 [1459] Negative 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+CT With/Without Contrast-Brain 醫令: CT With/Without Contrast-Brain 報告醫師: 李崇維 影像時間: 2017/02/21 16:37 (33072B0M) 發報告時間: 2017/02/21 17:15 CT scan of the brain without and with contrast enhancement shows:
+1. Multiple heterogeneous enhancing lesions in pons, left midbrain, bilateral cerebellum, bilateral basal ganglia, bilateral cerebrum. They are enlarged and some show high-density change before contrast injection, suggesting tumor bleeding. The larger lesions are in right cerebellum, left perisylvian region, and right high posterior frontal lobe. Perifocal edema is noted. There is compression of brainstem. 
+2. Mild hematoventricle.
+3. Leptomeningeal enhancement in posterior fossa.
+CT With/Without Contrast-Chest 醫令: CT With/Without Contrast-Chest 報告醫師: 黃昱森 影像時間: 2017/02/21 16:37 (33072B2M) 發報告時間: 2017/02/21 17:23 EXAMINATION: CT scan of chest, with/without iodine contrast enhancement. 
+FINDINGS: 
+(This study is read and compared with prior CT on 2016-11-15)
+1. Lungs and pleura: A 1.9cm spiculated nodule at LUL abutting the mediastinal pleura, about 1.9cm stable. Pleural thickening and fibrotic change at right apical lung. peribronchial multiple tiny nodules and patchy consolidations at bilateral lungs, predominantly lower, with small left pleural effusion, suspicious infection.
+2. Lymph nodes: no definite lymphadenopathy in the mediastinum or bilateral axillae. 
+3. Mediastinum: atherosclerosis with wall calcifications at the aorta. 
+4. Bone: thoracic spondylosis. 
+5. Other soft tissue: small osteosclerotic lesion at L2 vertebra, non-aggressive. 
+(please correlate with reports of other body parts).
+Chest: AP View (Supine) 醫令: Chest: AP View (Supine) 報告醫師: 陳佾昌 影像時間: 2017/02/21 15:17 (32001CYM) 發報告時間: 2017/02/21 16:00 Chart No: 5681959
+Accession No: T0172234695
+EXAMINATION: Chest - AP View (Supine).
+FINDINGS:
+Bilateral lung consolidation. Placement of endotracheal tube, nasoenteric tube. Suggest clinical correlation.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 陳信銘 影像時間: 2016/12/13 09:54 (32001CXM) 發報告時間: 2017/02/08 13:30 Chest radiograph shows normal heart size and no definite active lung lesion.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 陳佾昌 影像時間: 2016/06/14 09:36 (32001CXM) 發報告時間: 2017/02/03 10:07 Chart No: 5681959
+Accession No: T0160253520
+EXAMINATION: Chest - PA View (Standing).
+FINDINGS:
+Normal heart size. Bilateral increased interstitial infiltration. This study is reassigned to current radiologist on 2017/02/03. 
+病理報告(Pathology Report) 
+S1542269
+Lung,upper lobe, left,CT-guide biopsy,adenocarcinoma    
+ S1543073
+Brain,tumor,craniotomy and excision,pleomorphic carcinoma,metastatic    
+Brain,peritumor,craniotomy and excision,pleomorphic carcinoma,metastatic 
+臆斷(Tentative Diagnosis) 
+1. NSCLC, adenocarcinoma, EGFR exon 21 L858R mutation, cT2a(3)N0M1b stage IV, with brain metastasis, s/p craniotomy for tumor excision(brain tumor pathology: pleomorphic carcinoma, TTF1+, vimentin+), now on afatinib therapy (since 2016/02/18), with PR(2016/05/02, 2016/11/15 CT); with deteriorated neurologic status
+2. Pneumonia, with septic shock and respiratory failure, s/p ET+MV 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*
+1. NSCLC, adenocarcinoma, EGFR exon 21 L858R mutation, cT2a(3)N0M1b stage IV, with brain metastasis, s/p craniotomy for tumor excision(brain tumor pathology: pleomorphic carcinoma, TTF1+, vimentin+), now on afatinib therapy (since 2016/02/18), with PR(2016/05/02, 2016/11/15 CT); with deteriorated neurologic status
+2. Pneumonia, with septic shock and respiratory failure, s/p ET+MV
+
+P: 
+1. NSCLC, multiple brain metastases, with consciousness change
+2. Pneumonia, with septic shock and respiratory failure, s/p ET+MV
+A:
+Vital sign:T/P/R:36.4/120/16 BP:143/69
+PE:breath sound:rhonchi(+), crackles(+), wheezing(+)
+Lab:leukocytosis(WBC:15.72k, Band:27.6%, Seg:63.8%), ALT=335, protein uria(2+), pyuria, bacteriuria
+Image:Brain CT showed progression of tumor with some hemorrhage and leptomeningeal seeding
+P:
+1. Monitor vital sign, GCS
+2. Palliative care
+3. Infection control with empirical Abx
+Treatment Goal:
+1. Palliative care 
+2. BT<38oC. RR<20 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左手 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.0mm 
+胃造廔口：無  
+尿管留置：有  16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：無
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：兒子 妹妹 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the intern. 
+醫師姓名 
+郭律廷 主治醫師 

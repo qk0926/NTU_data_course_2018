@@ -1,0 +1,33 @@
+1. IHCA with ROSC s/p endotracheal intubation with mechanical ventilation since 01/27 and hypothermia therapy 
+2. Listeria meningitis, with IICP and septic shock, suspect brainstem failure
+3. Multiple myeloma, under dorison and Pomalidomide
+
+[Assessment]
+ECOG:4
+Consciousness:coma
+Vital signs:
+2017/02/07 14:00 T:35.9 P:47 R:8
+2017/02/07 14:00 BP:148/89
+2017/02/07 14:00 SpO2:94%(%,L,)
+No brain stem reflex,cough reflex(-) 
+Ventilator: no trigger, dependent on ventilator PC/AC mode
+
+[訪視摘要]
+會談對象:姐姐
+1. 疾病認知及調適/後續醫療照顧想法
+姐姐表示病人過去多發性骨髓瘤治療控制得還不錯，沒想到突發此次狀況。病人單身，也十分獨立，自己在竹北生活，雖然可能知道自己疾病有一天會走向死亡，但過去較避談病末或病危議題，盡量以正面思考，從沒和家人討論過關於後續的醫療想法，姊姊因此感到決策困難。
+姐姐表示目前想法是等待今日執行的腦部檢查報告，若報告不理想，也許就考慮朝向安寧緩和照顧，但也需要再還弟弟討論。
+2. 安寧緩和照護意涵說明
+姊姊表示對安寧緩和照顧完全不理解，提出相關問題，均予以回覆。包括現階段可接受之緩和照護方式、DNR簽署、DNR意涵及撤除維生醫療說明，引導思考維生醫療及各項醫療處置對病人生活品質意義之倫理思辨。姊姊表示理解，後續若有相關照護需求會再持續與醫療團隊討論。
+
+[Plan]
+1. Please provide psychospiritual support to family.
+同理家屬不捨及決策困難心情，同理疾病急性調適壓力，肯定緩和醫療決策為緩解病人痛苦及回復病人自然病程之決策。
+2. Treat current condition as your expertise
+3. Please keep discussing with the family about treatment plans.
+4. Thanks for your consultation. Please contact us if any problems (tel: 63274)
+
+
+原團隊共同照護成員:郭忠虎醫師，陳郁芬護理師
+
+安寧共照N2謝慧貞

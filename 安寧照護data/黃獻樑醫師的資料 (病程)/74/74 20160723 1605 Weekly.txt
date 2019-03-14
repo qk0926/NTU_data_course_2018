@@ -1,0 +1,96 @@
+Brief Summary of this week    
+We discontinued colistin and administered Cravit due to deteriorated renal function and prolonged fever. After we changed antibiotics, her fever subsided gradually. However, she remained comatose during this week. Due to terminal status and grave prognosis, we discussed withdraw with her families. They considered about it but still hesitated. 
+
+We performed paracentesis occasionally to relieve abdominal tension. We consulted hospice team to educate her children about the concept 
+of death. We consulted social worker for possible pension.
+Àù¯gªvÀø®ÄªG°lÂÜµû¦ô Disease Status:
+Residual tumor / Recurrence / Metastases
+Treatment Response:Evaluable
+PD (Progressive Disease) 
+
+
+Assessment 
+Still poor consciousness with relative stalbe vital signs.
+Now under symptomatic treatment with palliative care.
+
+[Antibiotics]
+Cravit      7/17-    D7 Coverage for PsA
+Targocid    7/15-    D9 emperical use
+
+[Inactive Abx]
+Colistin    7/09-17  S/C and W/C=MDRAB
+Diflucan    7/12-16  Empirical for fever
+Vancomycin  7/03-12  CD colitis
+Targocid    6/21-7/07 Wound culture=MRSA
+Cravit      7/03-7/09 Empirically, fever & hypotension
+Meropenem   7/03-7/09  Empirically, fever & hypotension
+Metronidazole 6/30-7/5 for Bacteroides fragilis infection
+Doripenem   6/25~6/30
+Ceftazidime 6/30-7/03   Proteus w'd infection
+Colistin    6/21-7/03  fever with w'd MDRAB+PsA 
+Teicoplanin 6/21-7/03  fever with w'd MRSA
+
+[Nutrition]
+¤¸¯À diet, 600kcal/day
+
+[Ventilation]
+CPAP, PS=14, PEEP=6, FiO2=0.25, Esen=15%
+->TV=350-400, MV=7.5-8.0
+
+[Inotropic]
+Levophed=6
+
+[RRT]
+nil
+
+[PE]
+Con's: E1VtM1
+Chest bilateral crackles, no dyspnea 
+Heart: RHB w/o murmur
+Abdomen: soft and severe abdominal distention, massive 
+         ascites related
+limbs pitting edema
+
+<Culture report>
+04/21 B/C (PB): wild type PsA [TTP: 10.8hr]
+      B/C (Port-A): wild type PsA [TTP: 10.7hr]
+04/25 S/S: negative (poor quality)
+      S/C: Sphingomonas paucimobilis 1+ 
+04/28 Back skin pus: CR-PsA 3+ (S: Ceftazidime), MRSA 3+, MDRAB 3+
+05/02 S/S: GNB 1+
+      U/A: WBC 75-100, epi 0-2, bacteria 2+, yeasts 3+
+      B/C(CVC):PsA (28.3hr) wild type
+05/08 B/C: PsA(16.8hr), S to carbapenam
+05/11 B/C: PsA in port-A(4.6hr!!)
+      B/C: PsA in peripheral(26.1hr)
+06/07 U/C: K.p + Acinetobacter
+      B/C: E.coli + Enterococcus durans (Peripheral + CVC)
+      CVC tip: only 1 GNB
+06/10 Abscess: Staphylococcus haemolyticus (few)
+06/20 Wound culture:
+      Blood culture:
+      Sputum: GPC in cluster 2+, yeast 2+
+      U/A: WBC:0-5, Bac:1+
+06/20 Pericardial effusion: atypical cell(+), cytology: 
+      metastatic adenocarcinoma(+) 
+06/21 Wound pus: Proteus mirabilis 3+      
+                 Pseudomonas aeruginosa 3+      
+                 Staphylococcus aureus 3+ (MRSA)  
+06/22  Ascites culture: negative
+06/22  Procalcitonin: 1.75
+06/24  S/C: GNB 3+, GPC 1+
+       Wound Pus: PsA, B/C: neg
+07/07  Wound Pus: MDARAB
+       S/C: MDRAB 1+
+07/12  Stool C. difficile toxin: pending
+07/15  S/C: Burkholderia cepacia complex 2+, 
+            Ralstonia species 2+ (Both S to Cravit)
+
+Plan 
+1. Keep current regimen to a 10 days course,
+   Then DC antibiotics if no more infection evidence.
+2. Hospice and palliative treatment.
+3. Keep wet-dressing to the spine OP wound, bosmin gause 
+   packing due to active oozings. 
+4. Paracentesis PRN
+5. May transfer to RCC for long-term care.

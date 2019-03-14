@@ -1,0 +1,27 @@
+# UTI and pneumonia
+# Septic shock, r/o recurrent CRBSI
+# Recurrent GI Bleeding.
+
+.
+2016/09/13 09:27 Pain score:0
+2016/09/13 08:32 BP:115/57
+2016/09/13 08:31 SpO2:100%(%,3L,VCR)
+2016/09/13
+ID+DS Common #1:Pseudomonas aeruginosa confluent CFU
+ID+DS Common #2:Enterococcus faecium 25 CFU
+
+2016/09/13
+Sugar(One touch):122 *
+
+2016/09/12
+ALT:309 U/L
+UN:55.0 mg/dL
+CRE:0.7 mg/dL
+eGFR:112.6 mL/min/1.73 m^2
+Na:162 mmol/L
+K:3.1 mmol/L
+hsCRP:9.71 mg/dL
+
+Plan
+1. check urine Na to d/d hyponatremia
+2. Abx treatment

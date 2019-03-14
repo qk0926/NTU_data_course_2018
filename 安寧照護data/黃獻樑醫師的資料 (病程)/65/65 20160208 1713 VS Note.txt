@@ -1,0 +1,19 @@
+1. IHCA, repeated OHCA(initial rhythm: asystole), s/p CPCR 
+2. PEA, cause undetermined
+3. Bilateral pleural effusion
+3. NSCLC, adenocarcinoma
+
+Right pig-tail insertion for pleural effusion drainage
+Try SBT as feasible.
+Pending family's decision on extubation and reintubation.
+2016/02/08 PH:7.393   *
+2016/02/08 PCO2:50.5   mmHg
+2016/02/08 PO2:43.7   mmHg
+2016/02/08 HCO3:31.0   mmol/L
+2016/02/08 PH:7.376   *
+2016/02/08 PCO2:54.0   mmHg
+2016/02/08 PO2:67.4   mmHg
+2016/02/08 HCO3:32.0   mmol/L
+2016/02/08 WBC:8.07   K/£gL
+2016/02/08 HB:8.4   g/dL
+2016/02/08 PLT:179   K/£gL

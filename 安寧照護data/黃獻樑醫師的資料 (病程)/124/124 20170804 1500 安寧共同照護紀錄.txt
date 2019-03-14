@@ -1,0 +1,35 @@
+1. Fever, suspect UTI or atypical pneumonia
+2. Acute decompensated heart failure (2017/06/28 EF:28%), with pulmonary congestion and mixed respiratory failure, s/p ETT+MV(2017/07/22-)
+3. Acute on chronic kidney disease (baseline Cre: 2.1-2.5 mg/dL), KDIGO 2, suspect cardiorenal syndrome s/p RRT(07/27-)
+4. Paroxysmal atrial fibrillation
+5. Asthma
+6. Type 2 diabetes mellitus (2017/6/15 HbA1C:7.3%)
+7. History of coronary artery disease, 2-vessel-disease, status post percutaneous angioplasty to left circumflex in 2007/09, under Plavix
+
+[Assesment]
+ECOG:4
+Consciousness:drowsy
+Vital signs:
+2017/08/04 14:00 T:36.5 P:71 R:23
+2017/08/04 14:00 BP:108/70 under Dobutamine¡BLevophed infusion
+2017/08/04 14:00 SpO2:93%(%,L,)
+# ACKD
+- under SLED QW1, 3, 5
+# infection control
+- Keep Mepem, Targocid and Diflucan
+# respiratory failure
+ETT with MV support (PCV mode)
+
+[³XµøºK­n]
+·|½Í¹ï¶H:¥D­n·ÓÅUªÌ-¥~¶Ä
+·|«È®É¶¡³Xµø¥¼¹J®aÄÝ¡A¥~¶Ä³­¦ñ¡Aªí¥Ü®×¤k¦h©ó¤W¤È©Î±ß¶¡·|«È®É¶¡³Xµø¡C
+¯f¤H»P®]¤l(¤p¨à¤lªº¨à¤l)¤Î¥~¶Ä¦P¦í¡A¥~¶Ä·ÓÅU7¦~¦h¡Aªí¥Ü¯f¤H¸g±`·Q©À¡A¬°µÛ¥¢Áp3¦~¦hªºªø¤k©M¨â­Ó¨à¤l¶Ë¤ß¡A·|¦V¥~¶Ä¶É¶D~°t°¸¹L¥@40´X¦~¡A¤@¤H¼¾¾i5­Ó¤l¤k¦¨ªø¡A¤£²M·¡¬°¦ó¤l¤k¥¢¥hÁpÃ´¡A¦P¦íªº®]¤l¦b¤u§@¥H¥~ªð®aªº®É¶¡¤]«Ü¤Ö»P¯f¤H¤¬°Ê¡C
+¥­¤é¤é±`¥Í¬¡·ÓÅU¤ÎÂå°|¦^¶E³£¥Ñ¥~¶Ä³­¦ñ¨ó§U¡A´y­z¤µ¦~¶}©l¸û¬°µê®z¡B¨BºA¤£Ã­¡F±`·P¯Ý´e¡A¶¡·²¨Ï¥Î®ñ®ð¡F©]¶¡¤]¸g±`©Ê¥¢¯v¡A¦ý¤S¤£´±ªA¥Î¦w¯vÃÄ¡C
+¥~¶Ä¹ï¯f¤Hª¬ªp²M·¡¤F¸Ñ¥B¯à´£¨Ñ±¡·P¤ä«ù¡C
+
+[Plan]
+1. «ùÄò¦w¹ç¦@·Ó¡A¹w­p¤U©P¦A¦w±Æ³Xµø»P®aÄÝ·|½Í¤F¸Ñ¬ÛÃö·ÓÅU»Ý¨D¡C
+2. ½Ð¨ó§U«ùÄòµû¦ô¯f¤H«áÄò¾ãÅé¾¹©x°IºÜ¯fªp¤Î¥»¤H¡B®aÄÝÂåÀø·NÄ@¡A«ùÄò°Q½×«áÄò·ÓÅU­pµe¡C
+3. ­Y¦³½w©M·ÓÅU°ÝÃD¥iÁpÃ´¦@·Ó¤p²Õ¡AÁÂÁÂ¡C
+
+­ì¹Î¶¤¦@¦P·ÓÅ@¦¨­û:±i¶v³ÇÂå®v¡A¼B’LªåÅ@²z®v

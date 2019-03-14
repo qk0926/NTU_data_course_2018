@@ -1,0 +1,447 @@
+2015/09/22 22:19 
+主訴(Chief Complaint) 
+Informant:the patient's family and medical record
+hemoptysis and shortness of breath since about a week ago 
+病史(Brief History) 
+Present illness:
+A 81-year-old man with old pulmonary tuberculosis, history of hypercapnic respiratory failure s/p ETT+MV (2012/02/04-02/29), chronic destructive lung disease under BiPAP support during sleep for three years, and chronic necrotizing pulmonary aspergillosis, was brought to our ER due to hemopytsis since about a week ago. He had regular follow-up at Dr. 鄭之勛's OPD clinic in recent years. Cachexia and limited oral intake was noted. He also took digoxin, propafenone, and coumadin for permanent atrial fibrillation as prescribed by CV VS陳盈憲. The patient suffered from hemoptysis since 9/16, and progressive shortness of breath, generalized weakness also developed. Coumadin was held by his daughter since 9/19, but hemoptysis persisted. Much sputum was also found, and he was brought to our ER on 9/20. On arrival, his vital signs were TPR: 36.4/80/26, BP 162/67mmHg, SpO2 49% under ambient air. PE showed clear consciousness, mild pale conjunctiva, bilateral coarse breathing sounds with much crackles. CXR revealed right destroyed lung and pleural calcification, and increased infiltration over left lung field. Much sputum was found, and Unasyn was given empirically for CAP. BiPAP support was also used. Transamin was administered for hemoptysis. 9/21 Chest CT revealed consolidation and partial collapse of right lung, with heterogeneous density, r/o infectious process or even necrotic change; cavitation at RUL, slightly enlarged (9.5cm) compared to 2015/02/23 CT, with some necrotic mass like lesions inside; small nodular enhancing lesions in the lower part of the cavity, suspect vascular lesion such as aneurysm or pseudoaneurysm; ill-defined patchy opacities and tiny ill-defined centrilobular nodules at left lung, increased in the dependent part. His consciousness became disoriented and drowsy since 9/22 morning, and following blood gas analysis revealed CO2 retention (17:30 ABG pH=7.222, PCO2=115.5, PO2=24.5, HCO3=47.9). Due to hypercapnic and hypoxic respiratory failure, intubation was done, and he was transferred to 6E1 for further care.
+
+Family History: nil
+Medication Allergy: nil
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  病人自述 2015/02/13
+Current Medication:
+NTUH:
+新 針 Transamin Inj 250 mg/5 mL /amp 1000 mg Q8H IF 4 days
+Atrovent Neb Soln 250 mcg/1 mL 2 mL/amp 1 amp Q6H IH 4 days
+Bricanyl Neb Soln 2.5 mg/1 mL 2 mL/amp 1 amp Q6H IH 4 days
+Siruta Inh Soln 200 mg/1 mL 3 mL/amp 1 amp Q6H IH 4 days
+Unasyn (based on ampicillin content) 1000 mg/vial 1000 mg Q6H IV 4 days
+PARAMOL 500 mg/tab 1 tab STAT PO 1 days
+PARAMOL 500 mg/tab 1 tab Q6HPRN PO 2 days
+Regrow SR 60 mg/tab 1 tab BID PO 3 days
+Regrow SR 60 mg/tab 1 tab STAT PO 1 days
+Vfend 200 mg/tab 1 tab BIDAC PO 3 days
+Vfend 200 mg/tab 1 tab STAT PO 1 days
+Atrovent Neb Soln 250 mcg/1 mL 2 mL/amp 1 amp STAT IH 1 days
+TAZOCIN (based on piperacillin content) 2000 mg/vial 3000 mg STAT IF 1 days
+警 Relaxin 500 mg/vial 不計價常備藥 50 mg STAT IV 1 days
+TAZOCIN (based on piperacillin content) 2000 mg/vial 3000 mg Q6H IF 2 days
+HARNALIDGE D 0.2 mg/tab 1 tab HS LZ 28 days
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 28 days
+Lasix 40 mg/tab 1 tab QD PO 28 days
+Lanoxin 0.25 mg/tab 0.5 tab QD PO 28 days
+Rytmonorm 150 mg/tab 1 tab BIDPC PO 28 days
+1 Coumadin 1 mg/tab 0.5 tab HS PO 28 days
+Other: nil
+中草藥: nil
+保健食品: nil
+Past Medical History:
+Hospitalization:
+入院日期:2015_02_13 出院日期:2015_03_01 診斷:Patients requiring long-term use of a respirator due to respiratory failure use respirator 6 hours per day continue 30 days
+Past Surgical History:
+s/p subtotal gastrectomy 30+ years ago
+s/p appendectomy 30+ years ago
+Travel History: nil
+Vaccination History: nil 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:小學
+職業:無
+宗教信仰:佛教
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:A，RH:RH+，輸血反應:沒輸過血
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:混淆
+認知功能:無法評估 
+精神情緒狀態:異常 躁動 
+安全問題:有 其他 預防跌倒、管路安全
+睡眠形態:異常 使用藥物 Fentanyl cIF
+
+Nutritional Screen
+攝食情形:普通，攝食50-74%
+排便狀態:異常
+排便異常狀態:其他
+其他排便異常狀態:班內暫未解便
+BMI:13.16
+
+Fall Risk Assessment
+總分:7
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+‧General/Constitutional:
+Fever(-), weight change(-), general weakness(-)
+‧Head/Neck:
+Headaches(-), dizziness(-), vertigo(-), lightheadedness(-), injury(-)
+Vision(good), double vision(-), strabismus(-), ocular pain(-)
+Otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-)
+Epistaxis(+), congestion(-), discharge(-)
+Caries(-), dentures(-), gum bleeding(-), sore throat(-), oral ulcer(-)
+Neck stiffness(-), neck pain(-), tenderness(-), masses(-)
+‧Cardiovascular:
+Chest tightness/pain(-), palpitations(-), syncope(-), dyspnea on exertion(-), orthopnea(-), paroxysmal nocturnal dyspnea(-), edema(-), cyanosis(-), claudication(-), varicosities(-)
+‧Respiratory:
+Chest pain(-), shortness of breath(+), cough(+), hemoptysis(+), wheezing(-), night sweats(-)
+‧Gastrointestinal:
+Appetite(poor), dysphagia(-), abdominal pain(-), flatulence(-), heartburn(-), nausea(-), vomiting(-), hematemesis(-), jaundice(-), constipation(-), diarrhea(-), stools [normal], recent changes in bowel habits(-)
+‧Genitourinary:
+Flank pain(-), hematuria(-), urgency(-), frequency(-), dysuria(-), nocturia(-), polyuria(-), oliguria(-), retention(-), incontinence(-)
+‧Hematologic/Endocrine
+Bleeding tendency(-), previous transfusions and reactions(-), lymph node enlargement or tenderness(-)
+Thirsty(-), polydipsia(-), polyuria(-), hormone therapy(-), growth and development(normal)
+Goiter(-), Intolerance to heat or cold(-)
+‧Musculoskeletal/Nervous:
+Pain(-), swelling(-), redness or heat of muscles or joints(-), limitation of motion(-), muscular weakness(-), atrophy(-), cramps(-)
+Numbness(-), paresis/plegia(-)
+‧Skin/Breast:
+Rash(-), itching(-), pigmentation(-), changes in hair growth or loss(-), nail changes(-)
+Breast lumps(-), tenderness(-), swelling(-), nipple discharge(-) 
+身體檢查(Physical Examination) 
+BH:175 cm   BW:40.3 kg
+T:37.4 P:116 R:19
+BP:138/69 mmHg
+Pain:2
+
+Neurological Examination:
+. Consciousness: E4M5Vt
+. Muscle power: upper limb 4+, lower limb 4+
+. Gait: can't evaluate
+
+‧Head-Eye-ENT
+Conjunctiva: mild pale, sclera: anicteric
+‧Neck
+Jugular vein engorgement(-), thyroid goiter(-)
+‧Chest
+Vocal fremitus and expansion: symmetric, percussion: resonant
+coarse crackles in bilateral lung fields, no wheezing, no stridor
+‧Heart
+Point of maximal impulse: left MCL/5th intercostal space, LV lift(-), RV heave(-)
+Increased cardiac size by percussion(-), heart beat: regular, adventitious sounds(-), murmurs(-)
+‧Abdomen
+Flat & soft, Bowel sound: normoactive, tenderness(-), rebound tenderness(-), psoas sign(-), obturator sign(-)
+Liver and spleen: impalpable, shifting dullness(-), hepatojugular reflux(-)
+‧Skin
+Wound(-), hyperpigmentation(-), petechiae(-), purpura(-), ecchymosis(-), telangiectasia(-), rash(-)
+‧Lymphadenopathy(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:YM***********
+
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1040922 [1806] 1.15          12.0          36            4.14          132.2        
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1040922 [1806] 7.328         68.7          112.1         36.4          10.2         
+               SO2          
+time/item      (%)          
+1040922 [1806] 97.7         
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Cl           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1040922 [1813] 14.3          0.6           134           4.1           91           
+1040922 [1837]                                                                      
+               Ammonia N     T-BIL         Ca            P             AST          
+time/item      (μmol/L)      (mg/dL)       (mmol/L)      (mg/dL)       (U/L)        
+1040922 [1813]               1.01          2.14          2.6           24           
+1040922 [1837] 45                                                                   
+               LacticAcid   
+time/item      (mmol/L)     
+1040922 [1813]              
+1040922 [1837] 2.15         
+群組:Yes
+
+               C-Reactive P 
+               rotein       
+time/item      (mg/dL)      
+1040922 [1813] 13.58        
+群組:General BioChemistry
+
+               UA            ALB           ALT           ALP          
+time/item      (mg/dL)       (g/dL)        (U/L)         (U/L)        
+1040922 [1813] 2.1           3.0           14            66           
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1040922 [1813] 12.48         4.25          10.0          31.6          74.4         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1040922 [1813] 23.5          31.6          221           17.0          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1040922 [1813] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1040922 [1813] 91.1          0.0           0.1           5.1           3.7          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1040922 [1813] 0.0           0.0           0             -            
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               TP           
+time/item      (g/dL)       
+1040922 [1837] 6.8          
+
+
+*********檢驗室:YM***********
+
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1040920 [2059] 1.17          15.1          45            4.39          137.1        
+1040921 [0413] 1.20          12.9          39            4.03          136.7        
+1040922 [1624] 1.22          12.9          39            4.60          130.9        
+1040922 [1730] 1.11          11.5          35            4.04          123.2        
+1040922 [1742] 1.31          12.6          38            4.59          140.0        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1040920 [2059] 255           3.6          
+1040921 [0413] 139           1.3          
+1040922 [1624] 211                        
+1040922 [1730] 203                        
+1040922 [1742] 176                        
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1040920 [2059] 7.317         73.7          44.4          38.1          11.7         
+1040921 [0413] 7.375         65.4          54.5          38.6          13.1         
+1040922 [1624] 7.258         101.6         51.5          45.9          18.5         
+1040922 [1730] 7.222         115.5         24.7          47.9          19.9         
+1040922 [1742] 7.223         106.3         27.5          44.2          16.3         
+               SO2          
+time/item      (%)          
+1040920 [2059] 73.5         
+1040921 [0413] 85.6         
+1040922 [1624] 76.7         
+1040922 [1730] 29.1         
+1040922 [1742] 35.6         
+
+*********檢驗室:MY***********
+MY-1040921-1092686   BLOOD
+     Aspergillus Ag#1:       Positive
+
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1040920 [2104] 260          
+1040922 [1812] 130          
+*********檢驗室:RL***********
+
+群組:General BioChemistry
+
+               Acid Fast     ALT          
+time/item      (*)           (U/L)        
+1040920 [2104]               21           
+1040921 [0146] Negative/300               
+                OPF                       
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1040920 [2104] 0.0           0.0           0.0           0.0           0.0          
+1040922 [1702] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1040920 [2104] 62.7          2.5           0.2           11.3          23.3         
+1040922 [1702] 91.8          0.0           0.0           4.3           3.9          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1040920 [2104] 0.0           0.0           0             -            
+1040922 [1702] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1040920 [2104] 8.03          4.63          10.8          34.2          73.9         
+1040922 [1702] 13.96         4.43          10.4          33.4          75.4         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1040920 [2104] 23.3          31.6          246           16.9          -            
+1040922 [1702] 23.5          31.1          229           16.9          -            
+群組:Biochemistry
+
+               CRE           Na            K             LacticAcid    CK           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)      (U/L)        
+1040920 [2104] 1.2           133           4.0                         47           
+1040922 [1702]                                           2.36                       
+               CK-MB         %CKMB         Troponin I   
+time/item      (U/L)         (%)           (ng/mL)      
+1040920 [2104] 15            31.9          0.025        
+1040922 [1702]                                          
+群組:STAIN
+
+               Gram's(GS)#1  Gram's(GS)#2  Gram's(GS)#3  Gram's(GS)#4  Gram's(GS)#5                                                                       
+time/item      (*)           (*)           (*)           (*)           (*)          
+1040920 [2104] Moderate PMN  Moderate epi  G(+)cocci 3+  G(-)Bacilli   G(-)cocci 1+ 
+               s(10-25/LPF)  thelial cell                              1+                                                     
+                             s(10-25/LPF)                                                         
+群組:
+
+               Mucus(S)     
+time/item      (*)          
+1040921 [1221] -            
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1040921 [1221] 2-5           0-2           0-2           -             -            
+               Others(S)     Bacteria     
+time/item      (*)           (*)          
+1040921 [1221] -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1040921 [1221] 1.031         6.0           30 ( 1+ )     300 ( 3+ )    -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1040921 [1221] -             ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1040921 [1221] Light Yellow  -                          
+群組:Yes
+
+               pro-BNP      
+time/item      (pg/mL)      
+1040920 [2104] 501          
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1040920 [2104] 11.0          28.6          1.04         
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1040921 [2125] 7.351         61.7          48.2          34.4          8.6          
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1040920 [2108] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1040920 [2108] A             Positive     
+
+*********檢驗室:B3***********
+B3-1040921-0087705   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Many PMNs ( >25 /LPF )
+     Gram's(GS)#2:       Moderate epithelial cells ( 10-25 /LPF )
+     Gram's(GS)#3:       Gram (-) rods 1+
+     Gram's(GS)#4:       Gram (+) rods 1+
+
+
+*********檢驗室:B4***********
+B4-1040921-1099197   SPUTUM (EXPECTORATED)
+     AF Stain(AF) #1:       Acid fast bacilli - negative 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 張晉誠 影像時間: 2015/09/22 17:18 (32001CYM) 發報告時間: 2015/09/22 18:14 rotation of patient position. status post endotracheal intubation and nasogastric tube insertion. normal heart size. widening of mediastinum. ill-defined opacities at the both lung fields. pleural plaques at the right lower lung. right pleural effusion. degenerative change of spine.
+CT With/Without Contrast-Chest 醫令: CT With/Without Contrast-Chest 報告醫師: 陳若瑀 影像時間: 2015/09/21 11:42 (33072B2M) 發報告時間: 2015/09/21 13:19 CLINICAL INFORMATION: 
+Chronic bronchitis and BPH.
+Previous CAP with respiratory failure, weaned from MV, now under home BiPAP for 9 hours every day. (9-10 AM, 1-3 PM, 9 PM-4 AM)
+Productive cough condition stationary, with no change of SOB.
+However, weight loss is apparent. No fever.
+2015/6/5 condition improved. No fever.
+2015/8/28 condition stationary. No fever noted. Fair mood. BW about 47-48 Kg.
+
+CT of the chest without and with contrast enhancement is read and compared with prior study dated 2015-02-23. This CT study shows:
+- suboptimal study due to motion artifact. 
+- consolidation and partial collapse of right lung, with heterogeneous density, r/o infectious process or even necrotic change. 
+- cavitation at RUL, slightly enlarged (9.5cm, SE7 IM33), with some necrotic mass like lesions inside. Small nodular enhancing lesions in the lower part of the cavity (SE5 IM30, SE7 IM33), vascular lesion such as aneurysm or pseudoaneurysm cannot be excluded. Suggest clinical correlation and follow up. 
+- ill-defined patchy opacities and tiny ill-defined centrilobular nodules at left lung, increased in the dependent part. 
+- mild fibrotic change at both lungs. Mucus impaction in some dilated bronchi. 
+- right pleural thickening with calcifications. 
+- a borderline sized lymph node at right upper paratracheal region and some other small lymph nodes in mediastinum. Suggest follow up. 
+- atherosclerotic change of aorta and coronary arteries with calcified plaques. 
+- ascites in the abdomen. 
+- no definite lesion in the bilateral adrenals. 
+- spinal spondylosis with spur formation.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 李怡範 影像時間: 2015/09/20 21:04 (32001CYM) 發報告時間: 2015/09/20 22:14 Supine chest AP shows cardiomegaly. mediastinum widening. right pleural effusion. right lung atelectasis with right deviation of mediastinum. calcified plaque superimposed on right middle lung field. left lung diffuse nodular opacities. suggest clinical correlation and follow up.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 張允中 影像時間: 2015/08/28 08:40 (32001CXM) 發報告時間: 2015/09/07 14:41 Chest PA/AP shows: cardiomegaly and diffuse right pleural thickening and some prominent calcified right pleural plaques. There is ill-defined hazy opacity of the right lung with obscured right hilar shadow and lung parenchyma. Some tiny nodules and fibrotic change at left upper lung field and fibrotic band at the left basal lung. Left apical pleural thickening and calcification. degenerative change and scoliosis of the T and L spine. Stationary as compared to prior study. 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1. Community acquired pneumonia with respiratory failure status post endotracheal tube intubation + mechanical ventilation (2015/09/22~ )
+2. Chrnoic obstructive lung disease under bilevel positive airway pressure ventilation support
+3. Old pulmonary tuberculosis with right destructed lung
+4. Chronic necrotizing pulmonary aspergillosis status post Voriconazole treatment for 6 months (2015/03/04~ )
+5. Permanent atrial fibrillation
+6. Benign prostate hyperplasia 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+Cons: E4M5Vt
+TPR: 38/104/25, BP: 103/57mmHg
+coarse breathing sounds, much sputum, hemoptysis +
+
+9/22 CXR: increased infiltration in LLL, supsect aspiration
+
+ABG: pH=7.328, PCO2=68.7, PO2=112.1, HCO3=36.4, BE=10.2
+WBC=12480, Hb=10.0, Plt=221, Seg=91.1%, Lym=3.7%, CRP=13.58
+Lactate=2.15, BUN=14.3, Cre=0.6, Na=134, K=4.1, Cl=91
+T-bil=1.01, AST/ALT=24/14, Alb=3.0, Ca=2.14 (corrected=2.34)
+
+A:
+1. community acquired pneumonia with hypercapnic and hypoxic respiratory failure s/p ETT+MV
+2. chornic necrotizing pulmonary aspergillosis
+3. chronic destructive lung disease
+
+P:
+1. ventilator support, f/u ABG, CXR
+2. keep Tazocin use, persue culture result
+3. Transamin and component therapy for hemoptysis
+4. aggressive chest care and sputum suction
+5. monitor I/O and BW, adequate NG feeding
+6. inform his family the posibility about weaning failure and the need of tracheostomy for long-term care
+
+Treatment Goal:
+1. control infection
+2. weaning ventilator /tracheostomy for long-term care 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：無  
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有   7.0mm 
+胃造廔口：無  
+尿管留置：有  14Fr. 
+膀胱造廔： 
+傷口引流管：
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：配偶 女兒 
+出院規劃收案篩檢：高危病患 單位自訂條件 功能量表未滿60分 
+醫師姓名 
+李佩玲 主治醫師 

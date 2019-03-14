@@ -1,0 +1,395 @@
+2017/01/30 14:02 
+主訴(Chief Complaint) 
+Informant:the patient's daughter and son
+progressive lower back pain for around a month 
+病史(Brief History) 
+This 76-year-old male patient has the underlying diseases of 
+1. Grave's disease with opthalmopathy, s/p operation on 2016/03
+2. Idiopathic thrombocytopenic purpura
+3. Urinary bladder cancer history, s/p OP and intrabladder chemotherapy in early 2000
+   According to the patient's daughter and son, he suffered from progressive lower back pain for around a month. The pain character was soreness, locating over diffuse low back. The symptoms gradually progressed, and eventually to the extent that he could not stand up by himself from sitting position, and would require assisstance in climbing stairs or walking. Accompanied symptoms including mild bilateral leg numbness, poor appetite, body weight loss, urinary and fecal incontinence, and general malaise. He denied dyspnea, radiating pain, frequent choking events, nor trauma history. There was no fever noticed at home. Due to the above progressive back pain symptoms, the patient came to our emergency department for help on 2017/01/29.
+   Upon ER visit, vital signs at triage were BP: 153/79 mmHg; PR: 108/min; SpO2: 93%; Respirations: 18/min; BT: 36.3 C. Physical examination showed no CV angle knocking tenderness;
+right lower leg muscle power 4+, and intact bilateral upper limbs muscle power. Lumbosacral spine AP+lat view showed suspicious multiple small lytic lesions at LS spines. lumbar spondylosis with decreased disc height between L5/S1. Upper End plate sclerosis of L4 vertebra. CT of abdomen and pelvis arranged on 1/29 revealed multiple small lytic lesions at TLS spines, with upper end plat destruction of L4, but no definite paravertebral mass, infection or tumor should be D/D; Two small hypodense lesions at S#4-5 junction(1cm) and at S#6(1cm) of liver, cyst or tumor should be D/D. Intial lab showed severe thrombocytopenia with PLT 8K, leukocytosis, elevated CRP, elevated UA and LDH, and hypercalcemia(3.68mmol/L). Component therapy with platelet infusion was given for thrombocytopenia. Normal saline hydration, calcitonin, Zometa were given for hypercalcemia treatment. Rasburicase was given on 1/29 for hyperuricemia. Follow up data showed UA within normal range, and plasma calcium decreased to 2.86mmol/L on 1/30 morning.
+   On 1/30 early morning, however, the patient had spiking fever peak up to 39.6'C. Septic work-up was done, without specific infection focus. Urinalysis showed hematuria. Empirical Rocephin was given since 1/30. Also, the patient's conscious became drowsy with GCS drop from E4V5M6(at triage) to E1M4V2. Hypercalcemia-related conscious disturbance was suspected. The patient was admitted to our GM ward on 1/30 for further evaluation and managment.
+
+
+* Past medical history
+1.Grave's disease with ophthalmopathy, Thyroid eye disease with proptosis, muscle restriction , both eyes, status post right inferior rectus detachment and correction of lower lid retraction, right eye and left medial rectus detachment on 2016/03/21
+2.Idiopathic thrombocytopenic purpura
+3.urinary bladder cancer history in early 2000, s/p OP
+
+* Admission history
+入院日期:2016_03_20 出院日期:2016_03_22 診斷:Graves’ ophthalmopathy
+入院日期:2015_12_13 出院日期:2015_12_14 診斷:Graves’ ophthalmopathy
+
+* Surgical history: 
+2016_03_21  RIR detachment and correction of lower lid retraction(od ) and LMR detachment
+
+* Medication
+Current Medication:
+NTUH:
+Keto 30 mg/1 mL /amp 30 mg STAT IF 1 days
+Solu-Cortef 100 mg/vial 100 mg STAT IV 1 days
+Diphenhydramine HCl 30 mg/1 mL /amp 30 mg STAT IF 1 days
+(管4) Ultracet tab /tab 1 tab TID PO 3 days
+SOLAXIN 200 mg/tab 1 tab TIDPC PO 3 days
+SOLAXIN 200 mg/tab 1 tab STAT PO 1 days
+(管4) Ultracet tab /tab 1 tab STAT PO 1 days
+Miacalcic Inj 100 IU/1 mL /amp 200 IU BID IF 2 days
+Miacalcic Inj 100 IU/1 mL /amp 200 IU STAT IF 1 days
+Zometa 4 mg/vial 4 mg ONCE IF 1 days
+Fasturtec 1.5 mg/vial 9 mg ONCE IF 1 days
+(管4) 針 Tramal Inj 100 mg/2 mL /amp 100 mg STAT IF 1 days
+Rocephin 500 mg/vial 1000 mg STAT IV 1 days
+針 Asparin (based on aspirin content) 0.5 g/vial 0.5 g STAT IF 1 days
+Rocephin 500 mg/vial 1000 mg Q12H IV 2 days
+Newmazole 10 mg/tab 0.5 tab QOD PO 28 days
+
+中藥: denied
+保健食品: denied
+
+* Family history
+CAD or other CV-related diseases: denied
+Diabetes mellitus: denied
+daughter with hyperthyroidism
+
+* Recent travel/contact/cluster history
+Denied
+
+* Allergy
+Medication Allergy: No  家屬主述 2017/01/10
+
+* Personal history
+Alcohol: denied
+Betel nut: denied
+Smoking: 1 PPD for 50+ yrs
+Occupation: nil 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:大學
+職業:公
+宗教信仰:基督教
+婚姻狀態:已婚
+使用語言:國語 台語 英語 
+口述血型:O，RH:不清楚，輸血反應:無
+抽煙:有，煙齡:40年，0.5包/天
+
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:嗜睡
+認知功能:無法評估 
+精神情緒狀態:異常 倦怠 
+安全問題:有 其他 fall down
+睡眠形態:正常  
+
+Nutritional Screen
+攝食情形:差，攝食50%以下
+排便狀態:正常
+BMI:21.55
+
+Fall Risk Assessment
+總分:11
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(+, duration? Kg?), easy-fatigability(+), night sweats(-)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-)
+3.HEENT: headache(-), dizziness(+, mild), blurred vision(-), strabismus(-), ocular pain(-), 
+  otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), 
+  nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-), oral ulcer(-)
+4.Cardiovascular: exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-), 
+  syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(-), cough(+, chronic due to heavy smoker), chest pain(-),
+  hemoptysis(-), productive cough (+, thick whitish), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(+, recent one month), nausea(-), vomiting(-), dysphagia(-), 
+  heartburn(-),acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), 
+  constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-),
+  tenesmus(-),flatulence(-)
+7.Urogenital: flank pain(+, severe low back pain), hematuria(-), urinary frequency(-), urgency
+ (-), dysuria (-), hesitancy(-), small stream of urine(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(+), back pain(+)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH: 162.5 cm,  BW: 56.9 kg,
+T: 39.2 °C,  P: 106 bpm,  R: 24 /min,
+BP: 156 / 76 mmHg,
+Pain score: 0 ,
+
+Neurological Examination: 
+. Consciousness: drowsy and a bit confused, E3V2-3M6
+. Muscle power: 
+  Right Upper:5 Left Upper:5 Right Lower:4+ Left Lower:5
+. Gait: could not perform
+
+‧Head-Eye-ENT 
+        grossly normal, conjunctiva: pink, sclera: anicteric
+        Pupil: isocoric,  3mm/ 3mm
+        Light reflex: L/R: +/+, EOM: could not perform due to confusion
+        No mucosal ecchymosis nor petichiae
+‧Neck
+	Jugular vein engorgement(-)
+	Thyroid goiter(-)
+	Meningismus: Kernig sign(-); Brudzinski sign(-)
+‧Chest
+	Thoracic cage contour: symmetric
+        Breathing sound: bil. lung coarse breathing sounds, no wheezing or stridor
+‧Heart
+	Heart beat: regular; No audible murmurs
+‧Abdomen
+        Flat & soft
+	Superficial vein engorgement(-) Protruded umbilicus(-)
+	Bowel sound: Normoactive
+	Liver and spleen: impalpable
+‧Extremities
+        Freely movable, pulses symmetric and intact, dry skin turgor, pitting edema(-)	
+‧Back
+        Knocking pain(-), spinal tendernss(-)
+‧Skin
+	Abnormal pigmentation(-)
+	Petechiae(-) Purpura(-) Ecchymoses(-) Telangiectasia(-)
+	Rash(-) Plaque(-)
+‧Lymphadenopathy(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060129 [0748] 10.58         3.84          11.8          34.2          89.1         
+1060129 [1430] 10.35         3.27          10.2          29.4          89.9         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060129 [0748] 30.7          34.5          8 (Manual ch  13.6          -            
+                                          ecked)                                   
+1060129 [1430] 31.2          34.7          88            13.8          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060129 [0748] 0.0           (+)           2.0           2.0           4.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060129 [0748] 63.0          8.0           1.0           3.0           16.0         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060129 [0748] 1.0           0.0           7.0 /100 WBC  WBC 100                    
+群組:General BioChemistry
+
+               UA            ALB           ALT           LDH          
+time/item      (mg/dL)       (g/dL)        (U/L)         (U/L)        
+1060129 [0748]                             37                         
+1060129 [1430]               3.8                         956          
+1060130 [0418] <1.5                                                   
+群組:Biochemistry
+
+               CRE           Na            K             Ca            P            
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)      (mg/dL)      
+1060129 [0748] 1.3           137           3.5                                      
+1060129 [1430]                                           3.68          4.4          
+1060130 [0418]                                           2.86                       
+               CK           
+time/item      (U/L)        
+1060129 [0748] 223          
+1060129 [1430]              
+1060130 [0418]              
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060129 [0748] 7.438         39.4          66.1          26.9          2.5          
+群組:Yes
+
+               hsCRP        
+time/item      (mg/dL)      
+1060129 [1430] 4.02         
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1060130 [0626] 1.017         5.5           100 ( 2+ )    -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1060130 [0626] 3+            ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1060130 [0626] Light Orange  2+                         
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1060130 [0626] >100          0-2           0-2           Gr(0-2)       -            
+               Bacteria      Others(S)    
+time/item      (*)           (*)          
+1060130 [0626] -             -            
+群組:
+
+               Troponin-T    eGFR          CK-MB         Mucus(S)     
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)       (*)          
+                              m^2)                                    
+1060129 [0748] 62.59         57.0          4.01                       
+1060130 [0626]                                           -            
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               UA           
+time/item      (mg/dL)      
+1060129 [1430] 15.0         
+*********檢驗室:VF***********
+
+群組:Yes
+
+               Influenza A+ 
+               B Rapid Scre 
+               ening Test   
+time/item      ()           
+1060130 [0534] Negative     
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1060129 [0750] 107          
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1060129 [0906] O             Positive     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1060129 [0906] Negative 
+檢查紀錄(Examination Report) 
+Nil 
+影像報告(Imaging Report) 
+Chest: PA View (Standing) 影像時間: 2017/01/29 08:08 發報告時間: 2017/01/29 21:53 
+small fibronodular lesions at bil upper lungs. no definite pleural effusion. normal heart size. mild torturous aorta.
+
+Spine: Lumbo-sacral spine (AP & lateral) 影像時間: 2017/01/29 08:09 發報告時間: 2017/01/29 21:54 
+Suspicious multiple small lytic lesions at LS spines. lumbar spondylosis with decreased disc height between L5/S1. Upper End plate sclerosis of L4 vertebra.
+
+CT Without Contrast-Abdomen 影像時間: 2017/01/29 10:07 發報告時間: 2017/01/29 11:23 
+Abdomen,Pelvis CT without enhancement showed
+1.Two small hypodense lesions at S#4-5 junction(1cm) and at S#6(1cm) of liver, cyst or tumor should be D/D, suggest US correlation.
+2.Several tiny calcifications through pancreatic head, body to tail, no abnormal dilatation of P-duct.
+3.No definite lesion in GB, spleen, both kidneys and adrenal glands. 
+4.No definite paraaortic LAP. no definite ascites.
+5.Mild prostate enlargement with multiple calcifications.
+6.well distension of urinary bladder with smooth wall.
+7.no definite inguinal or iliac LAP.
+8.Mild bil pleural effusion with bibasilar atelectasis.
+9.Multiple small lytic lesions at TLS spines, with upper end plat destruction of L4, but no definite paravertebral mass, infection or tumor should be D/D. 
+病理報告(Pathology Report) 
+Nil 
+臆斷(Tentative Diagnosis) 
+1. Multiple small lytic lesions at TLS spines, with upper end plat destruction of L4, r/o infection or tumor
+2. Two small hypodense lesions at S#4-5 junction(1cm) and at S#6(1cm) of liver, r/o cyst or tumor
+3. Fever, focus? under empirical Rocephin since 1/30
+4. Acute onset conscious disturbance, suspect hypercalcemia-related, r/o Diphenhydramine before transfusion? or high fever-related
+5. Hypercalcemia
+6. Hematuria
+7. Idiopathic thrombocytopenic purpura
+8. Grave's disease with ophthalmopathy, Thyroid eye disease with proptosis, muscle restriction , both eyes, status post right inferior rectus detachment and correction of lower lid retraction, right eye and left medial rectus detachment on 2016/03/21
+9. urinary bladder cancer history in early 2000, s/p OP 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*
+1. Multiple small lytic lesions at TLS spines, with upper end plat destruction of L4, r/o infection or tumor
+2. Two small hypodense lesions at S#4-5 junction(1cm) and at S#6(1cm) of liver, r/o cyst or tumor
+3. Fever, focus? under empirical Rocephin since 1/30
+4. Acute onset conscious disturbance, suspect hypercalcemia-related, r/o Diphenhydramine before transfusion? or high fever-related
+5. Hypercalcemia
+6. Hematuria
+7. Idiopathic thrombocytopenic purpura
+8. Grave's disease with ophthalmopathy, Thyroid eye disease with proptosis, muscle restriction , both eyes, status post right inferior rectus detachment and correction of lower lid retraction, right eye and left medial rectus detachment on 2016/03/21
+9. urinary bladder cancer history in early 2000, s/p OP
+
+---Subjective---
+Confused and mild drowsy, could obey orders
+ 
+---Objective---
+<Physical examination>
+GCS: E3V2-3M6
+HEENT: grossly normal, Light reflex L/R +/+; no prominent ecchymosis nor petichiae
+CHEST: symmetric expansion, bilateral lung coarse BS, no wheezing
+HEART: RHB, no audible murmur
+ABDOMEN: soft without tenderness, normoactive bowel sounds
+EXTREMITIES: no pitting edema noted, dry skin turgor
+BACK: no CV angle knocking pain
+
+<Laboratory study>
+01/29
+WBC 10.58 k/μL
+Hb  11.8  g/dL
+Plt 8 k/μL
+Ca  3.68mmol/L
+
+
+<Image>
+01/29 CT of abdomen+Pelvis: 
+1.Multiple small lytic lesions at TLS spines, with upper end plat destruction of L4, but no definite paravertebral mass, infection or tumor should be D/D.
+2.Two small hypodense lesions at S#4-5 junction(1cm) and at S#6(1cm) of liver, cyst or tumor should be D/D, suggest US correlation.
+3.Mild bil pleural effusion with bibasilar atelectasis.
+
+---Assessment+Plan---
+1. Multiple small lytic lesions at TLS spines, with upper end plat destruction of L4, r/o infection or tumor
+ => bone marrow study or CT-guided lesion biopsy should be
+    considered after 2/3
+2. Two small hypodense lesions at S#4-5 junction(1cm) and at S#6(1cm) of liver, r/o cyst or tumor
+ => abdominal ultrasonography may be arranged after 2/3
+3. Fever, focus? under empirical Rocephin since 1/30
+ => keep empirical abx, trace septic work-up results for
+    infection source
+4. Acute onset conscious disturbance, suspect hypercalcemia-related, r/o Diphenhydramine before transfusion? or high fever-related
+ => keep close monitoring, may consider brain CT if
+    persisted or worsening consciousness
+5. Hypercalcemia
+ => Pending parathyroid function results
+ => keep normal saline hydration, calcitonin, and +-Zometa
+ => close follow up electrolytes profile at least before
+    calcium back to normal
+6. Hematuria
+ => may send urine cytology*3 sets 
+7. Idiopathic thrombocytopenic purpura
+ => component therapy as indicated 
+8. Grave's disease with ophthalmopathy, Thyroid eye disease with proptosis, muscle restriction , both eyes, status post right inferior rectus detachment and correction of lower lid retraction, right eye and left medial rectus detachment on 2016/03/21
+9. urinary bladder cancer history in early 2000, s/p OP
+
+Treatment Goal: Fever subsided in one week
+                normalization of hypercalcemia 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左手 右手 
+雙腔導管留置：無  
+鼻胃管留置：無  
+氣管管路留置：無    
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：10
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：自己 配偶 兒子 
+出院規劃收案篩檢：高危病患 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+1.work-up the spine and liver lesion; biopsy if indicated
+2.arrange brain CT with noncontrast immediately (MRI later if indicated)
+3.F/U lab on 1/31
+4.titrate calcitonin dose by Ca++ level
+5.work-up fever cause and keep rocephine
+6/F/U urine cytology for possible recurrence of bladder cancer
+7.monitor ITP status
+8.NG feeding if indicated
+(I have explained to his family in 1/30 night) 
+醫師姓名 
+柯博升 主治醫師 

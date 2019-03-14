@@ -1,0 +1,45 @@
+35 y/o M
+@Terminal disease diagnosis: Vestibular schwannoma, s/p op, with vegetative state, s/p tracheostomy with MV support
+@照會主要目的: 
+hospice introduction, hospice combine care, psychospiritual support, withdrawal
+@Vital signs: BP:133/99 T:36.1 P:92 R:20
+@Consciousness: E2M2VT
+@ECOG: 4
+@Active physical Problems: dyspnea, impaired congnition
+@Dying signs: present, including hypotension and respiratory failure
+@Current medication for symptom relief: nil
+@目前DNR狀態: 家屬已簽同意書 
+@末期註記(+)
+@Main caregiver: 看護
+@Main decision maker: 媽媽
+@Other key persons: nil
+@Awareness: 病人知病知末,家屬知病知末
+@Patient's acceptance: 意識不清無法判斷
+@Family's acceptance: 慢性調適
+@預計死亡地點: 在院死亡
+@後事: 已準備大部分
+@會談對象: 媽媽
+@會談內容: 媽媽表示經VS杜醫師說明病人已無法回復，且病人先前意識清楚時，明確表示不願意當植物人的想法，在此次開刀並進行氣切後，與家人共同決定要撤除維生醫療，故解釋撤除維生醫療的條件、步驟與預期的結果，並表示會搭配藥物(如嗎啡)緩和病人可能的不適，媽媽表示了解。媽媽另提及拔管後就要關閉氣切孔，但解釋會待病人往生再執行床邊縫合。媽媽表示病人先前已授權家人為其後事做決定，已與禮儀公司洽談往生事宜，明天待哥哥見過病人最後一面後，就準備來執行撤除維生醫療，提醒可請家屬於撤管後半小時內陪伴，讓病人往生時得到大家的祝福，另提醒雖然病人無法回應，仍可多給予言語支持與身體接觸，媽媽表示認同。討論撤管後若維持一段有生命徵象的時間，家屬拒絕灌食、輸液、抽痰或供氧，不欲再延長病人痛苦的時間。
+@共照項目:
+1. 疼痛治療藥物建議:無
+2. 其他症狀處置建議:有
+3. 心理社會問題照護:
+-病人:支持與傾聽
+-家屬:支持與傾聽
+4. 靈性宗教需求照護:
+-病人:宗教儀式實行/後事交代/協助心願達成
+-家屬:生命意義的討論/後事交代/協助心願達成
+5. 協助病情認知:
+-病人:病情與預後
+-家屬:病情與預後
+
+Dx: Vestibular schwannoma, s/p op, with vegetative state, s/p tracheostomy with MV support
+
+Suggestions:
+1.Please complete the 生命末期病人撤除維生醫療查核及程序(該表單已夾存病歷首頁) before performing withdrawal tomorrow.
+2.Introduce hospice care to the family; inform imminent grave outcome after withdrawal; educate dying preparation; encourage the family to accompany the patient during withdrawal.
+3.Provide psychospiritual support to the patient and the family; bereavement to the family
+4.Discuss with the family about terminal condition: DNR, optimal medication for symptom control (eg. morphine), but refused NG feeding, IV fluid support, sputum suction or O2 supply.
+5.We will arrange combined care.
+
+Thanks for your consultation. Please contact us if any problems. (東址共照辦公室63274)

@@ -1,0 +1,62 @@
+P: 
+1. Respiratory failure, suspect of pneumonia related, s/p mechanical ventilation (2015/11/26-2015/12/01, 2015/12/06-)
+2. CRBSI, Klebsiella pneumoniae.
+3. ESRD, s/p kidney transplant in 2005, with CKD stage 5
+4. ACKD 
+5. Acute decompensated heart failure
+6. SLE with kidney, lung, and CNS involvement
+7. Gastro-esophageal reflux disease, LA grade B, with superficial gastritis, gastric erosion
+8. Diabetes mellitus
+9. Hypertension
+
+2015/12/06
+ETT:7.0 fix:24 
+PC/AC
+IP /Ti:14/0.9
+RR: 12/14-16
+PIP/MAP: 27/15
+VE: 5.3 l/min
+VT: 483 ml
+FiO2: 50 %
+PEEP: 12
+Cst/Raw:26/12
+Pst:26
+
+2015/12/08
+BUN:146.6 mg/dL
+CRE:7.2 mg/dL
+Na:142 mmol/L
+K:5.3 mmol/L
+Ca:1.87 mmol/L
+Mg:1.09 mmol/L
+P:7.8 mg/dL
+AST:41 U/L
+
+Plan:
+1. Keep ventilator support
+2. Monitor urine output and electrolyte
+3. Keep Abx used
+
+
+
+
+
+
+[Assessment] 
+DNR(+), 末期註記(+)
+Vital signs: under ETT + MV
+Consciousness: Alert
+ECOG: 4
+會談對象: 姊妹
+1.Main caregiver: 看護 / 家屬
+2.Main decision maker: 自己 / 家屬
+3.Awareness: 知病知末
+4.Acceptance: 慢性調適
+5.Propriety: 有準備
+6.Timelessness: 留一口氣回家裡 (住基隆)
+
+P:/ 父親
+
+1.回顧疾病治療歷程,有失智,今天6月出院後病人說話就斷續,住安養機構,之前與父親同住,因病人未婚多姐妹支持,肯定家人陪伴。
+
+2.父親不捨:心情矛盾,續關心,有關後續治療,家人表示順其自然,因病人很清醒,暫不撤除,不洗腎

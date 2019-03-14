@@ -1,0 +1,16 @@
+Inform the family about the probability of recurrent respiratory failure due to poor airway hygiene and and clearance function.
+Post-tapping pneumothorax persisted. Pigtail inserted.
+Hypercapnia.
+CXR on 2016/9/8 showed stationary lung condition with suboptimal reexpansion of left lung.
+2016/09/07 PH:7.305 *
+2016/09/07 PCO2:87.9 mmHg
+2016/09/07 PO2:40.2 mmHg
+2016/09/07 HCO3:44.1 mmol/L
+2016/09/09 06:00 SpO2:100%(40%,10L,Mask)
+2016/09/09 04:57 SpO2:100%(40%,L,VCR)
+2016/09/09 00:58 SpO2:99%(40%,L,)
+2016/09/08 20:09 SpO2:100%(40%,L,)
+2016/09/09 04:57 T:36.2 P:70 R:22
+2016/09/09 00:58 T:36.2 P:70 R:22
+2016/09/08 20:19 T:36.3 P:70 R:22
+2016/09/08 17:15 T:36 P:70 R:26

@@ -1,0 +1,659 @@
+Admission Note 
+2016/09/03 06:50 
+主訴(Chief Complaint) 
+Informant:the family and past medical records
+oral tumor bleeding and fever were noted on 2016/8/28 
+病史(Brief History) 
+[Present illness]
+    This 57-year-old man is a patient with
+1. Left buccal, squamous cell carcinoma, pT4bN2cM0, stage IVb, status post wide excision and neck dissection and anterolateral thigh flap reconstruction on 2016/03/29; with rapidly extensive recurrence, status post induction chemotherapy with TPF (III)(C1D1=2016/05/11, C2D1=2016/05/31, C3D1=2016/06/23), progressive disease status post IA-MPA(I-II) on 2016/07/26 and 2016/08/16
+2. Tumor related carvenous sinus syndrome with left eye visual loss
+3. Fever, suspected tumor fever or microaspiration pneumonia
+4. Paroxysmal atrial fibrillation, CHADS2vasc:0
+    He has been followed up at Dr.陳國興,s clinic for above diseases. The brain MRI on 2016/8/22 showed advanced recurrent tumor with intracranial invasion and left ICA encasement, the tumor at oral region is smaller, while other portion remains the same, clusters of small lymph nodes at right level II. 
+    This time, oral tumor bleeding with mild fever was noted on 2016/8/28. Cough with brown sputum was also noted but the family denied of dyspnea, vomiting, diarrhea at first, dysuria. He was then brought to our ER on 2016/8/28.
+    At ER, initial vital signs showed E4V5M6, TPR:37.7/120/20 with BP:132/65mmHg and SpO2:99% under room air. Lab data showed Hb:8.7g/dl, MCV(fL):83.3, WBC:3.56K/mm with band:22%, seg:60%, CRP:14.69mg/dL, platelet:67K/μL, Na:129mmol/L, K:4.3mmol/L, Alb:?g/dL, Cre:0.3mg/dl, INR:0.92, aPTT:26.6sec, one touch sugar:?, U/A:?. CXR revealed no pneumonia patches. Dentalogist was consulted and gauze packing, transamin, componant thearpy were administerred for oral tumor bleeding. It seemed improvement. Septic workup was performed and Tazocin was administerred since 2016/8/28 for potential oral wound infection. However, fever seemed persistence and hypotension was noted since 2016/8/31. Septic workup was performed again on 2016/8/31 which showed U/A:WBC:2-5, bacteria(+), U/C:(-), Wound culture:wild KP 2+, GPC2+. CXR on 2016/8/31 still showed no pneumonia patches. N+C+A+P CT was performed on 2016/8/31 and showed extensive recurrent tumor with intracranial, intra-orbital and skull base to mandible region, probable acute pancreatitis, Right lung nodules and patches. Infection or inflammation is considered first but lung metastasis could not be excluded. F/U lipase on 2016/8/31 was 11. CVC insertion with Levophed was administerred since 2016/8/31. Tazocin was changed to Maxipime and Metronidazole. Levophed was tappered after. However, fever persisted and progressive conscious drowsiness was noted on 2016/9/2 morning. Chills/seizure was noted on 2016/9/2 night and Anxican was given. However, after Anxican use, air hunger was noted with desaturation and AfRVR s/p intubation with mechanical ventilator, Cordarone. EKG showed sinus tachycardia after and Cordarone was discontinued. Lab showed no obvious electrolyte imbalence, normal ammonia. One touch, ACTH/cortisol, TSH/fT4, lumbar puncture, EEG were not checked. Brain CT was performed on 2016/9/3 but showed no obvious hypodense brain lesions nor ICH. He was then admitted to 3A2 for further care. Besides, diarrhea has been noted since 2016/9/1.
+[Brief History]
+1.Past history: 
+   Systemic disease:as above 
+   Admission history: 
+入院日期:2016_07_15 出院日期: 診斷:Malignant neoplasm of cheek mucosa
+入院日期:2016_08_09 出院日期: 診斷:Malignant neoplasm of cheek mucosa
+入院日期:2016_08_09 出院日期:2016_08_23 診斷:Malignant neoplasm of cheek mucosa
+入院日期:2016_07_19 出院日期:2016_07_29 診斷:Malignant neoplasm of cheek mucosa
+入院日期:2016_06_23 出院日期:2016_06_27 診斷:Malignant neoplasm of cheek mucosa
+入院日期:2016_05_31 出院日期:2016_06_04 診斷:Malignant neoplasm of cheek mucosa
+入院日期:2016_05_10 出院日期:2016_05_15 診斷:Malignant neoplasm of cheek mucosa
+入院日期:2016_03_27 出院日期:2016_04_23 診斷:Buccal mucosa squamous cell carcinoma
+入院日期:2016_03_15 出院日期:2016_03_19 診斷:Buccal cancer
+   Surgical history: 
+2016_03_29  
+ 1.left modified radical neck dissection(levelI-V)with preservation of IJV
+ 2.wide excision of tumor
+ 3.partial mandibulectomy with disarticulation(from 33 distal to left condyle)
+ 4.complicated odontectomy of 48
+ 5.complicated extraction of 16,17,24,25,27,34,46,47
+ 6.tracheostomy
+ 7.inter-maxillary fixation with arch bars
+ 8.Plate reconstruction at left mandible defect (Mondeo brand)   
+2.Allergies: Iopromide (Ultravist 300 62.3% 100 mL/vial 常備藥) 【Skin Rash(皮膚疹)】 本院醫事人員確認 發生日期:2016-07-26
+3.Alcohol/Betel/Cigarette/Substance:(+, alocoholism, beer >100ml/day for 20 years, quit for 0.5yr; )/(+, intermittent, quit for 0.5 yr)/(+, 1/3 PPD for 20 years, quit for 0.5 yr)/(-)
+4.Current medications:
+   NTUH: 
+Maxipime 500 mg/vial 2000 mg Q8H IV 4 days
+Metronidazole 500 mg/100 mL /bag 500 mg Q6H IF 4 days
+40 Giotrif 40 mg/tab 1 tab QD AC PO 3 days
+(管2) 50 Fentanyl Transdermal Patch 50 mcg/1 hr /pce (PPCD) 1 pce Q3D D 4 days
+新 針 Transamin Inj 250 mg/5 mL /amp 1000 mg Q8H IF 4 days
+Musco 30 mg/tab 1 tab TID PO 4 days
+Primperan Inj 10 mg/2 mL /amp 10 mg Q12H IV 3 days
+Imolex 2 mg/cap 2 cap QDPRN PO 2 days
+Taita No.3 500 mL/btl 500 mL QD IF 2 days
+Plasbumin-25 12.5 g/50 mL 25% /vial 25 g STAT IF 1 days
+Rolikan 16.6 mEq/20 mL /amp 66.4 mEq STAT IV 1 days
+(管4) Anxicam 2 mg/1 mL /amp 2 mg STAT IF 1 days
+警 Nimbex 10 mg/5 mL /amp 10 mg STAT IV 1 days
+警針 Cordarone Inj 150 mg/3 mL /amp 150 mg STAT IF 1 days
+警針 Cordarone Inj 150 mg/3 mL /amp 900 mg STAT IF 1 days
+   Other:Nil
+   Chinese herb:Nil
+   Health food:Nil
+5.Family history:his brother has gastric cancer, his mother and father have stroke
+6.TOCC:  
+ T:travel history：nil
+ O:occupation    ：retired 
+ C:contact       ：his wife has common cold recently
+ C:cluster       ：nil 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:小學
+職業:退休
+宗教信仰:道教
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:O，RH:不清楚，輸血反應:無
+抽煙:沒有，已戒煙:10月
+喝酒:沒有，已戒酒:10月
+檳榔:沒有，已戒檳榔:10月
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:半昏迷
+認知功能:無法評估 
+精神情緒狀態:無法評估  
+安全問題:有 其他 跌倒
+睡眠形態:異常 其他 麻醉未醒
+
+Nutritional Screen
+攝食情形:
+排便狀態:異常
+排便異常狀態:無排氣
+其他排便異常狀態:bloody stool
+BMI:24.92
+
+Fall Risk Assessment
+總分:16
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+系統性回顧(Review of System) (■means that the finding is positive)
+1.Systemic: weight loss□, night sweats□, fever■(since 2016/8/28) 
+2.HEENT: headache□, dizziness□, vertigo□, ocular pain□, blurred vision□, strabismus□, dry eye□, otalgia□, otorrhea□, hearing impairment□, tinnitus□, nasal stuffiness□, nasal discharge□, epistaxis□, gum bleeding□, sore throat□, oral ulcer□, dry mouth□, dysphagia□
+3.Cardiovascular: exertional chest tightness□, exertional dyspnea□, paroxysmal nocturnal dyspnea□, orthopnea□, syncope□, palpitation□, intermittent claudication□
+4.Respiratory: dry cough□, productive cough□, hemoptysis■(since 2016/8/28), chest pain□, pleuritic chest pain□
+5.Gastrointestinal: anorexia□, nausea□, vomiting□, acid regurgitation□, abdominal fullness□, abdominal pain□, constipation□, diarrhea■(since 2016/9/1?), melena□, change of bowel habit□, small caliber of stool□, tenesmus□, flatulence□
+6.Urogenital: flank pain□, urinary frequency□, urgency□, nocturia□, dysuria□, incontinence□, small stream of urine□, hesitancy□, hematuria□, foamy urine□, polyuria□, oliguria□, impotence□
+7.Musculoskeletal: bone pain□, arthralgia□, myalgia□, back pain□, weakness□
+8.Metabolic: heat intolerance□, cold intolerance□, thirsty□
+9.Nervous: numbness□, paresis/plegia□
+10.Skin: petechiae□, purpurae□, skin rash□, itching□, spider angioma□ 
+身體檢查(Physical Examination) 
+BH: 167 cm,  BW: 58 kg,
+TPR/BP:pending
+Pain score:0/10
+
+
+[Physical Examination]
+‧General：ill-looking
+‧Consciousness：E3VtM4
+‧Muscle power：withdrae
+‧Gait：not perform
+‧Head-Eye-ENT
+    Conjunctivae: not pale, sclera: anicteric
+    Throat injection (-), tonsil enlarge (-), oral ulcer or thrush (-)
+    Pupil:right-pin point, LR(+/-), left-dilated, LR(-)
+‧Neck
+    Supple, no stiffness 
+    Meningismus: Kernig sign(-); Brudzinski sign(-); modified Brudzinski sign(-)
+    Lymphadenopathy(-)
+    Thyroid goiter(-)
+    Jugular vein engorgement(-)
+    Carotid bruit(-)
+‧Chest
+    Thoracic cage contour：symmetric,  no deformity nor distension 
+                           no increased anterior-posterior (AP) diameter
+    Vocal fremitus and expansion: symmetric
+    Percussion: symmetric and normal(not dull or hyper-resonant)
+    Ausculation: Stridor(-)Rhonchi(-)Wheezes(-)Crackles(-)
+‧Heart
+    LV lift(-) RV heave(-)
+    Increased cardiac size by percussion(-)
+    Heart beat: regular heart beats, adventitious sounds (-)murmurs(-)
+‧Abdomen/back
+    Flat & soft, Tenderness(-)Rebound pain(-), CV angle knocking tenderness(-) 
+    Liver and spleen: impalpable
+      Liver span:10 cm
+    Superficial vein engorgement(-) Protruded umbilicus(-)
+    Bowel sound: normoactive
+‧Skin
+    Abnormal pigmentation(-)
+      Petechiae(-) Purpura(-) Ecchymoses(-) Spider angioma(-)
+    Rash(-) Plaque(-)
+    Wound(-) Ulceration(-) Crust(-)
+‧Extremities:
+    Pitting edema(-), Deformity(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050811 [0751] 9.02          3.34          8.9           27.5          82.3         
+1050815 [1027] 12.74         3.31          9.0           27.9          84.3         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1050811 [0751] 26.6          32.4          191           17.7          -            
+1050815 [1027] 27.2          32.3          293           19.4          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050811 [0751] 0.0           0.0           0.0           0.0           0.0          
+1050815 [1027] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050811 [0751] 89.7          0.0           0.0           2.4           7.9          
+1050815 [1027] 89.3          0.0           0.1           2.6           8.0          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050811 [0751] 0.0           0.0           0             -            
+1050815 [1027] 0.0           0.0           0             -            
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               Alb           T-BIL         ALT           ALP           GGT          
+time/item      (g/dL)        (mg/dL)       (U/L)         (U/L)         (U/L)        
+1050811 [0751]               0.72          18                          93           
+1050815 [1027]               0.49          18            93                         
+1050815 [1118] 3.3                                                                  
+               UN            CRE           Na            K             Ca           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1050811 [0751] 18.2          0.5           137           4.2                        
+1050815 [1027] 23.4          0.6           134           4.2           2.00         
+1050815 [1118]                                                                      
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1050811 [0751] 182.2        
+1050815 [1027] 147.6        
+*********檢驗室:CT***********
+
+群組:PT
+
+               PT            PT INR       
+time/item      (sec)         ()           
+1050815 [1027] 10.2          0.94         
+群組:PTT
+
+               PTT          
+time/item      (sec)        
+1050815 [1027] 24.0         
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050810 [0551] 108          
+1050810 [1716] 134          
+1050811 [0644] 96           
+1050811 [1634] 136          
+1050812 [0623] 114          
+1050813 [0515] 97           
+1050814 [0509] 90           
+1050815 [0506] 96           
+*********檢驗室:OP***********
+
+群組:STOOL
+
+               Stool O.B.(E 
+               IA)          
+time/item      (ng/mL)      
+1050816 [0028] Negative(<50 
+               )            
+
+
+*********檢驗室:RL***********
+
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050831 [1328] 7.472         28.4          66.3          20.9          -3.0         
+1050903 [0020] 7.433         23.6          97.1          15.9          -8.6         
+群組:Biochemistry
+
+               CRE           Na            K             Ammonia N     T-BIL        
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)      (mg/dL)      
+1050828 [1346] 0.3           129           4.3                                      
+1050831 [1328]                                                         0.97         
+1050831 [1444]                                                                      
+1050901 [0851]               128           4.6                                      
+1050903 [0147]                                           28                         
+               Lipase        Ca            Mg            P             LacticAcid   
+time/item      (U/L)         (mmol/L)      (mmol/L)      (mg/dL)       (mmol/L)     
+1050828 [1346]                                                                      
+1050831 [1328]                                                         1.88         
+1050831 [1444] 11                                                                   
+1050901 [0851]               1.81          0.69                        3.57         
+1050903 [0147]               1.82          0.89          3.0           0.78         
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050828 [1346] 3.56          3.06          8.7           25.5          83.3         
+1050829 [0132] 4.75          3.28          9.3           27.3          83.2         
+1050831 [0417] 2.37          3.57          10.1          29.7          83.2         
+1050831 [1328] 2.31          2.80          7.8           23.1          82.5         
+1050831 [2351] 6.74          3.91          11.1          33.0          84.4         
+1050901 [0851] 11.29         4.04          11.4          33.9          83.9         
+1050903 [0147] 2.58          3.57          10.2          30.3          84.9         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050828 [1346] 28.4          34.1          67 (Manual c  20.8          -            
+                                          hecked)                                  
+1050829 [0132] 28.4          34.1          93            19.7          -            
+1050831 [0417] 28.3          34.0          42            20.2          -            
+1050831 [1328] 27.9          33.8          90            20.2          -            
+1050831 [2351] 28.4          33.6          92            18.8          -            
+1050901 [0851] 28.2          33.6          70            18.9          -            
+1050903 [0147] 28.6          33.7          17 (Manual c  19.9          -            
+                                          hecked)                                  
+群組:STOOL
+
+               Occult Blood               
+time/item      (*)          
+1050831 [2247] 2+           
+群組:General BioChemistry
+
+               Acid Fast     GGT           ALB           D-BIL         ALT          
+time/item      (*)           (U/L)         (g/dL)        (mg/dL)       (U/L)        
+1050828 [1346]                                                         26           
+1050830 [1022] Negative/300                                                         
+                OPF                                                                 
+1050831 [1444]               109                         0.52                       
+1050901 [0851]                             2.0                                      
+群組:STAIN
+
+               Gram's(GS)#1  Gram's(GS)#2  Gram's(GS)#3  Gram's(GS)#4  Gram's(GS)#5                                                                       
+time/item      (*)           (*)           (*)           (*)           (*)          
+1050830 [1022] Many PMNs(>=  Many epithel  G(+)cocci 2+  G(+)Bacilli   G(+)cocci 2+ 
+               25/LPF)       ial cells(>=                              2+                                       
+                             25/LPF)                                                
+群組:
+
+               eGFR          Mucus(S)     
+time/item      (mL/min/1.73  (*)          
+                m^2)                      
+1050828 [1346] 328.5                      
+1050831 [1310]               -            
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1050831 [1310] 0-2           2-5           0-2           -             Amo-urate(+)               
+               Bacteria      Others(S)    
+time/item      (*)           (*)          
+1050831 [1310] +             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1050831 [1310] 1.011         5.5           30 ( 1+ )     -             +/-          
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1050831 [1310] -             ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1050831 [1310] Yellow        -            
+群組:Yes
+
+               hsCRP         NT-pro BNP   
+time/item      (mg/dL)       (pg/mL)      
+1050828 [1346] 14.69                      
+1050831 [0417] 28.79                      
+1050901 [0851]               12904        
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050828 [1346] 0.0           0.0           0.0           1.0           22.0         
+1050831 [0417] 0.0           0.0           0.0           0.0           0.0          
+1050901 [0851] 0.0           0.0           1.0           3.0           11.0         
+1050903 [0147] 0.0           0.0           0.0           0.0           29.0         
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050828 [1346] 60.0          0.0           0.0           5.0           11.0         
+1050831 [0417] 75.5          0.4           0.4           3.0           20.7         
+1050901 [0851] 82.0          0.0           0.0           1.0           2.0          
+1050903 [0147] 58.0          1.0           0.0           3.0           9.0          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050828 [1346] 1.0           0.0           0.0 /100 WBC  WBC 100                    
+1050831 [0417] 0.0           0.0           0             -            
+1050901 [0851] 0.0           0.0           0.0 /100 WBC  WBC 100                    
+1050903 [0147] 0.0           0.0           0.0 /100 WBC  WBC 100                    
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1050828 [1346] 10.0          26.6          0.92         
+1050901 [0851] 12.8          34.1          1.19         
+
+*********檢驗室:B3***********
+B3-1050831-0045950   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Moderate PMNs ( 10-25 /LPF )
+     Gram's(GS)#2:       Moderate epithelial cells ( 10-25 /LPF )
+     Gram's(GS)#3:       Gram (-) rods 3+
+     Gram's(GS)#4:       Gram (+) cocci in cluster 3+
+     Gram's(GS)#5:       痰檢體品質不良建議重新送檢
+B3-1050831-1071590   RANDOM URINE
+     ID+DS Urine #1:       No aerobic  pathogen
+
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1050828 [1347] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1050828 [1347] O             Positive     
+
+*********檢驗室:B2***********
+B2-1050828-8012275   BLOOD
+     ID+DS Blood.#1:       No growth after 5 days
+
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050903 [0138] 7.274         34.8          65.3          16.3          -10.8        
+               SO2          
+time/item      (%)          
+1050903 [0138] 89.8         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1050903 [0138] 1.22          10.9          33            4.33          135.9        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1050903 [0138] 28            0.7          
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050806 [2114] 88           
+*********檢驗室:RL***********
+
+群組:General BioChemistry
+
+               GGT           D-BIL         ALT           ALP           LDH          
+time/item      (U/L)         (mg/dL)       (U/L)         (U/L)         (U/L)        
+1050806 [2107]                             25                                       
+1050807 [1312] 130           0.45                        105           128          
+群組:Biochemistry
+
+               CRE           Na            K             T-BIL         Ca           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)       (mmol/L)     
+1050806 [2107] 0.6           118           10.0          1.42                       
+1050807 [0416]               126           4.0                                      
+1050807 [1312]                                           1.33          2.08         
+               AST           LacticAcid   
+time/item      (U/L)         (mmol/L)     
+1050806 [2107]               0.92         
+1050807 [0416]                            
+1050807 [1312] 17                         
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050806 [2107] 0.0           0.0           0.0           0.0           4.0          
+1050807 [0416] 0.0           0.0           1.0           1.0           18.0         
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050806 [2107] 55.0          1.0           1.0           11.0          27.0         
+1050807 [0416] 47.0          0.0           1.0           9.0           23.0         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050806 [2107] 1.0           0.0           0.0 /100 WBC  WBC 100                    
+1050807 [0416] 0.0           0.0           0.0 /100 WBC  WBC 100                    
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050806 [2107] 3.56 WBC與前次結  3.46          9.2           27.8          80.3         
+               果差異過大, 請臨床醫師                                                         
+               依臨床狀況評估後決定是否                                                         
+               再檢                                                                   
+1050807 [0416] 2.82          3.32          8.8           26.6          80.1         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050806 [2107] 26.6          33.1          129           16.5          - Rechecked  
+1050807 [0416] 26.5          33.1          112           16.4          -            
+群組:
+
+               eGFR          Mucus(S)     
+time/item      (mL/min/1.73  (*)          
+                m^2)                      
+1050806 [2107] 147.6                      
+1050806 [2150]               -            
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1050806 [2150] 0-2           2-5           0-2           -             -            
+               Bacteria      Others(S)    
+time/item      (*)           (*)          
+1050806 [2150] -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1050806 [2150] 1.019         5.5           -             -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1050806 [2150] -             2.0           -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1050806 [2150] Yellow        -            
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050806 [2107] 7.461         33.9          54.6          24.4          0.3          
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1050806 [2107] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1050806 [2107] O             Positive     
+
+*********檢驗室:B3***********
+B3-1050806-6093525   RANDOM URINE
+     ID+DS Urine #1:       No aerobic  pathogen
+
+
+*********檢驗室:B2***********
+B2-1050806-6093517   BLOOD
+     ID+DS Blood.#1:       No growth after 5 days
+B2-1050806-6093518   BLOOD
+     ID+DS Blood.#1:       No growth after 5 days 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+CT With/Without Contrast-Pelvis 醫令: CT With/Without Contrast-Pelvis 報告醫師: 陳育青 影像時間: 2016/08/31 14:13 (33072B5M) 發報告時間: 2016/08/31 14:35 History: oral bleeding, fever
+
+Abdomen and pelvis CT with/without contrast enhancement shows
+1. Several hepatic cysts. 
+2. Unremarkable kidneys, adrenal glands, spleen, 
+3. Gallbladder and common hepatic duct wall edema. Fat stranding at the paraduodenal, peripancreatic regions, and along the right anterior pararenal space. Probable (not definite) acute pancreatitis, suggest correlate with symptoms/signs. 
+4. Placement of a nasogastric tube, a Foley catheter. 
+5. Collapsed urinary bladder. 
+6. Unremarkable prostate. 
+7. Unremarkable appendix. 
+8. No definite abdominal nor pelvic lymphadenopathy. 
+9. Suspect ankylosing spondylitis.
+CT With/Without Contrast-Chest 醫令: CT With/Without Contrast-Chest 報告醫師: 李怡範 影像時間: 2016/08/31 14:13 (33072B2M) 發報告時間: 2016/08/31 20:09 History: oral bleeding, fever
+CT of the chest without and with contrast enhancement shows: 
+- small bilateral pleural effusion with interlobular septal thickening and subsegmental atelectasis of bilateral basal lungs. Multiple peribronchovascular ill-defined nodular or patchy opacities at RUL, RML, RLL and lingular segment of LUL, probably increased as compared with prior CXR from 2016/8/6 to 2016/8/31. Infection or inflammation is considered first. R/O lung metastasis. 
+- relatively enlarged lymph node(s) at bilateral mediastinum and subcarina. Suggest clinical correlation and follow up. 
+- degenerative change of the T and L spine. 
+- placement of a nasogastric tube.
+- post-operative change at the left neck. Please refer to detailed report and imaging of other body part(s).
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 李文正 影像時間: 2016/08/31 08:15 (32001CYM) 發報告時間: 2016/08/31 11:39 Nasogastric tube present. Prominent bilateral lung markings. Heart size normal. Tortuous aorta.
+CT With/Without Contrast-Head and Neck(Skull Base to Clavicle) 醫令: CT With/Without Contrast-Head and Neck(Skull Base to Clavicle) 報告醫師: 廖漢文 影像時間: 2016/08/31 14:13 (33072B1M) 發報告時間: 2016/08/31 14:52 CT scan of head and neck without and with enhancement showed 
+1. No definite abnormal density or enhancement shown in the visible brain.
+2. Extensive mass lesion in left mandible, buccal, face, and lower temporal region. It destroyed the left maxillary sinus,pterygoid plate,and invasion in the oro- and nasopharynx, posterior orbital and possible cavernous sinus. Measured at least 14 cm in height.   No abnormally enlarged lymph nodes at bilateral neck.NG in place. 
+3. No definite obvious change in the major salivary glands. The mucosa in the aerodigestive track was in normal appearance. 
+4. Cervical spondylosis
+CT With/Without Contrast-Abdomen 醫令: CT With/Without Contrast-Abdomen 報告醫師: 陳育青 影像時間: 2016/08/31 14:13 (33072B3M) 發報告時間: 2016/08/31 14:35 History: oral bleeding, fever
+
+Abdomen and pelvis CT with/without contrast enhancement shows
+1. Several hepatic cysts. 
+2. Unremarkable kidneys, adrenal glands, spleen, 
+3. Gallbladder and common hepatic duct wall edema. Fat stranding at the paraduodenal, peripancreatic regions, and along the right anterior pararenal space. Probable (not definite) acute pancreatitis, suggest correlate with symptoms/signs. 
+4. Placement of a nasogastric tube, a Foley catheter. 
+5. Collapsed urinary bladder. 
+6. Unremarkable prostate. 
+7. Unremarkable appendix. 
+8. No definite abdominal nor pelvic lymphadenopathy. 
+9. Suspect ankylosing spondylitis.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 李怡範 影像時間: 2016/08/28 13:47 (32001CXM) 發報告時間: 2016/08/28 20:20 placement of a nasogastric tube. post-operative change at the left neck. normal heart size. atherosclerotic calcification of aorta no definite abnormality of bilateral lung parenchyma.
+MRI With/Without Contrast--Brain 醫令: MRI With/Without Contrast--Brain 報告醫師: 王郁棻 影像時間: 2016/08/22 07:56 (33085BYM) 發報告時間: 2016/08/22 09:51 MRI of brain with/without contrast enhancement shows: 
+1. post operative change of left oral cavity and mandible. 
+2. there is a large mass lesion involves left masticator, parotid, carotid spaces, maxillary sinus, hard palate, nasal cavity, pterygopalatine fossa, pteygoid plate, foramen ovale,  cavernous sinus, superior orbital fissure, optic canal, left lateral orbital wall, dural of left temporal fossa, sphenoid sinus and clivus, the petrous and cavernous ICA are encased;  as compared with prior image in 2016-7-19, the tumor at left oral cavity region is smaller in size, while tumor in other portions are relatively stationary in size. 
+3. clusters of small lymph nodes at right level II. 
+4. devernation change of left hemitongue. 
+5. no evidence of abnormal diffusion restriction. 
+6. mild mucosal thickening at left paranasal sinuses; left mastoid effusion. 
+7. soft tissue edema at left face.
+COMMON CAROTID ARTERY，one side 醫令: COMMON CAROTID ARTERY，one side 報告醫師: 林彥亨 影像時間: 2016/08/16 09:59 (33041BZM) 發報告時間: 2016/08/16 11:31 History: recurrent left buccal cancer
+
+Procedure: IA catheter insertion. 
+Puncture site: Right transfemoral approach after sterilization with 5Fr. DAV. 
+Angiographic findings:
+> Large, irregular mass with prominent stain is shown at left suprahyoid neck.
+> The IA catheter was inserted into left ECA. 
+
+Complications:
+> None immediate complication is noted.
+經造影導管灌注治療（天） 醫令: 經造影導管灌注治療（天） 報告醫師: 林彥亨 影像時間: 2016/08/16 09:59 (39019B0M) 發報告時間: 2016/08/16 11:31 History: recurrent left buccal cancer
+
+Procedure: IA catheter insertion. 
+Puncture site: Right transfemoral approach after sterilization with 5Fr. DAV. 
+Angiographic findings:
+> Large, irregular mass with prominent stain is shown at left suprahyoid neck.
+> The IA catheter was inserted into left ECA. 
+
+Complications:
+> None immediate complication is noted.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 葉建德 影像時間: 2016/08/06 20:44 (32001CXM) 發報告時間: 2016/08/06 21:26 normal heart size. no definite focal lung opacity. degenerative changes of the T and L spine. 
+病理報告(Pathology Report) 
+S1612115
+Oral cavity,buccal muocsa, left,wide excision,squamous cell carcinoma,well-differentiated    
+Oral cavity,gingiva, lower, left,wide excision,squamous cell carcinoma,invasive    
+Oral cavity,floor of mouth, left,wide excision,squamous cell carcinoma,invasive    
+Bone,mandible, left,segmental mandibulectomy,squamous cell carcinoma,invasive    
+Skeletal muscle,medial pterygoid, left,wide excision,squamous cell carcinoma,invasive    
+Salivary gland,submandibular, left,modified radical neck dissection,squamous cell carcinoma,invasive    
+Lymph node,neck, left,modified radical neck dissection,squamous cell carcinoma,metastatic (01/49)    
+Skeletal muscle,sternocleidomastoideus, left,modified radical neck dissection,no evidence of malignancy    
+ S1608127
+Oral cavity,buccal mucosa, left,incisional biopsy,squamous cell carcinoma well-differentiated, 
+臆斷(Tentative Diagnosis) 
+1.Respiratory failure, type II, suspect pneumonia and conscious drowsiness related, s/p ETT+MVV(2016/9/3-)
+2.Fever, suspect pneumonia, wound infection and tumor fever related
+3.Conscious drowsiness, suspect hypoglycemia, sepsis and potential stroke
+4.Hypotension, suspect hypovolemia, r/o autonomic dysfunction? adrenal insufficiency?
+5.Metabolic acidosis, suspect non-AG type, nature to be determined
+6.Thrombocytopenia, nature to be determined
+7.Left buccal, squamous cell carcinoma, pT4bN2cM0, stage IVb, status post wide excision and neck dissection and anterolateral thigh flap reconstruction on 2016/03/29; with rapidly extensive recurrence, status post induction chemotherapy with TPF (III)(C1D1=2016/05/11, C2D1=2016/05/31, C3D1=2016/06/23), progressive disease status post IA-MPA(I-II) on 2016/07/26 and 2016/08/16
+8.Tumor related carvenous sinus syndrome with left eye visual loss
+9.Previous fever, suspected tumor fever or microaspiration pneumonia
+10.Paroxysmal atrial fibrillation, CHADS2vasc:0 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+1.Respiratory failure, type II, suspect pneumonia and conscious drowsiness related, s/p ETT+MVV(2016/9/3-)
+2.Fever, suspect pneumonia, wound infection and tumor fever related
+3.Conscious drowsiness, suspect hypoglycemia, sepsis and potential stroke
+4.Hypotension, suspect hypovolemia, r/o autonomic dysfunction? adrenal insufficiency?
+5.Metabolic acidosis, suspect non-AG type, nature to be determined
+6.Thrombocytopenia, nature to be determined
+7.Left buccal, squamous cell carcinoma, pT4bN2cM0, stage IVb, status post wide excision and neck dissection and anterolateral thigh flap reconstruction on 2016/03/29; with rapidly extensive recurrence, status post induction chemotherapy with TPF (III)(C1D1=2016/05/11, C2D1=2016/05/31, C3D1=2016/06/23), progressive disease status post IA-MPA(I-II) on 2016/07/26 and 2016/08/16
+8.Tumor related carvenous sinus syndrome with left eye visual loss
+9.Previous fever, suspected tumor fever or microaspiration pneumonia
+10.Paroxysmal atrial fibrillation, CHADS2vasc:0
+
+Treatment Goal:infection control, extubation
+A:as above
+P:
+1.Weaning ventilator if consicousness improving
+2.Change Abx to Targocid and Mepem, pursue cultures(W/C:GPC), check stool cultures
+3.Consider EEG, lumbar puncture, check ACTH/Cortisol, TSH/fT4, electrolyte, one touch
+4.Titrate Levophed, hydration, consider Midodrine if autonomic dysfunctional is likey, pending ACTH/cortisol
+5.Calculate serum AG, rolikan if non-AG type is favored
+6.check DIC profiles first for thrombocytopenia, componant therapy
+7.Inform potential stroke, shock, and tumor bleeding risk 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)： 右手 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.5mm 
+胃造廔口：無  
+尿管留置：有  16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：配偶 女兒 
+出院規劃收案篩檢：高危病患 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+簡榮彥 主治醫師 
+ 

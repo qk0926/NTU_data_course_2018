@@ -1,0 +1,57 @@
+Brief Summary of this week    
+This week, his conscious level downed to E1M2Vt. Brain stem reflex (corneal reflex, doll eye) were diminished. Family meeting was arranged due to poor prognosis. Decision of palliative care by disease nature course without withdrawl of life support devices and observation for 1 week was made. If there is no improvement or progression, tracheostomy will be considered. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+[Vital sign]
+2017/02/24 09:00 T:38.6 P:123 R:27
+2017/02/24 09:00 BP:140/93
+2017/02/24 09:00 SpO2:96%(%,L,)
+
+[Neurological examination] (pre-op E4M6V5, MP 4/4+)
+GCS:E1M2VT, pulpil R/L : 2.0+/2.5+
+Muscle power: RUL/LUL/RLL/LLL : can not be examined
+Cornea reflex : -
+Doll eye reflex : -
+Cough reflex: trace
+
+[Lab data]
+    02/10 -> 02/11 -> 02/12 -> 02/13 -> 02/16 -> 02/19 -> 02/21 
+WBC: 9.57 -> 6.48  -> 9.87 ->   9.17 -> 8.28  -> 6.01  -> 5.4
+    02/22 -> 02/23
+   -> 6.76 -> 6.81 
+
+HB:  11.0 -> 9.8 -> 12.1
+CRP:                  1.74
+Procalcitonin:                0.4150 
+
+2017/02/23 Na:136 mmol/L
+2017/02/23 K:4.1 mmol/L
+2017/02/23 Mg:0.85 mmol/L
+2017/02/23 CK:90 U/L
+
+2017/02/24  ABG:
+PH:7.456      PCO2:32.1      PO2:170.8 mmHg
+HCO3:22.9     BaseExcess:-1.3 
+
+
+[Culture]
+B/C (02/10, 02/12): -
+S/C (02/12): Enterobacter cloacae; Acinetobacter nosocomialis 
+U/C (02/10, 02/12):- 
+Nasal discharge culture(02/11): Acinetobacter baumannii 2+; Citrobacter koseri 2+; #3 Enterococcus faecalis 2+  
+CWV drain culture(02/11): -
+
+[Active antibiotics]
+Vancomycin 750 mg Q8H 2017/02/10~
+Fortum 2000 mg Q8H 2017/02/10~
+
+[Inactive anti]
+Cefazolin 1000 mg Q8H 2017/02/08~02/09
+
+Plan 
+.Keep Depakine and Mannitol + solu-medrol
+.Closely monitor consciousness level, GCS, muscle power and vital sign
+.Inform poor prognosis gradually, the family accepted the tracheostomy and the decision of not withdrawl and follow disease nature course

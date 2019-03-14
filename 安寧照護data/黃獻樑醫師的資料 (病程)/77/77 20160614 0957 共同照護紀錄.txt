@@ -1,0 +1,34 @@
+<Doctor>
+1. Status epilepsy, suspect central nervous system infection or brain/leptomenigeal metastasis related, status post endotracheal tube intubation since 2016/6/3
+2. Suspected upper gastrointestinal bleeding
+3. Right breast cancer
+
+unclear, involuntary movement improved after increased dormicum infusion
+-> neurologist suggest taper Depakine and increased dormicum infusion
+[Plan]
+. Informed poor prognosis, keep dormicum pump use
+. MV support
+. Cravit + Vancomycin for fever
+. Keep I/O mild negative
+. Ommaya reservoir, pending IT after family discussed with oncologist -> oncologist suggested DNR due to terminal disease, limited IT effect.
+
+<Nurse>
+GCS:E1M2VT,ventilator support,偶有臉部seizure情形,抗seizure藥物使用,重力袋feeding,消化佳,持續觀察意識及seizure情形,完成DNR簽署:不電擊及不壓胸只給急救藥物使用，同理家屬哀傷情緒且給予心理支持，視家屬的需求提供彈性會客時間。
+
+
+<Pharmacist>
+Phenytoin level 10.41 mcg/ml, alb 2.6 g/dL, corrected level 16.8 mcg/ml. Keep current phenytoin dose. Taper Depakine.
+ 
+<Respiratory therapist>
+<Ventilator setting> Day 12
+TYPE        PB840(708)
+MODE        PC/AC
+Pinsp       18  cmH20
+Ti          0.9  sec.
+RR set/total 12/22-25 bpm 
+VT exp.     531-552 ml
+FiO2/SpO2   30%/100%
+PEEP        8  cmH20
+PIP/MAP     28/14 cmH20
+VE          6.63  L/min
+Cst/Raw     41/16

@@ -1,0 +1,61 @@
+# Septic and cardiogenic shock
+# fungemia, CRBSI or intra-abdominal bacterial translocation related, complicated with septic shock
+# Tracheostomy bleeding, chronic granulation tissue related
+# Seizure, sepsis and electrolyte imbalance related
+# Recurrent vantilator associated pneumonia
+# urinary tract infection, catheter related, urine culture: candida albicans
+# Suspected colon cancer, with lower GI bleeding, complicated with hypovolemic shock
+# Recurrent right pleural effusion
+# Moderate aortic stenosis, complicated with acute lung edema and respiratory failure status post endotracheal intubation and ventilatory support (2014/03/13-2014/03/19), status post tracheostomy (2014/04/11)
+# Adrenal insufficiency under Cortisone
+# Coronary artery disease, left main+ 2-vessels disease
+# Chronic atrial fibrillation with complete atrioventricular block status post pacemaker (VVIR) implantation, 2010
+# Old cerebrovascular accident
+# Vascular parkinsonism
+
+
+2016/10/20 09:36 Pain score:0
+2016/10/20 09:02 T:36.4 P:80 R:18
+2016/10/20 08:59 SpO2:98%(40%,L,VCR)
+2016/10/20 08:59 BP:111/51
+2016/10/20
+Blood Culture#1:No growth after 14 days *
+
+2016/10/20
+BUN:113.0 mg/dL
+CRE:1.1 mg/dL
+eGFR:66.8 mL/min/1.73 m^2
+Na:153 mmol/L
+K:4.0 mmol/L
+
+2016/10/20
+WBC:6.75 K/£gL
+RBC:3.19 M/£gL
+HB:8.7 g/dL
+HCT:28.2 %
+MCV:88.4 fL
+MCH:27.3 pg
+MCHC:30.9 g/dL
+PLT:129 K/£gL
+RDW-CV:17.6 %
+PS:- 
+
+2016/10/20
+Blast:0.0 %
+Promyl.:0.0 %
+Myelo.:0.0 %
+Meta:0.0 %
+Band:0.0 %
+Seg:87.9 %
+Eos.:0.4 %
+Baso.:0.0 %
+Mono.:2.8 %
+Lym.:8.9 %
+Aty.Lym.:0.0 %
+PlasmaCell:0.0 %
+Normobl.:0 
+PS:¶È¨Ñ°Ñ¦Ò
+
+
+may try low dose dopamine.
+follow up cons.

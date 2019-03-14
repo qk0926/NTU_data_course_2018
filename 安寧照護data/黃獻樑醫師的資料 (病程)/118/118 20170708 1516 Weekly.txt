@@ -1,0 +1,88 @@
+Brief Summary of this week    
+In 7/2~8, tappering the Nimbex sedation, the IP pressure and FiO2 were all failed due to dyssynchronization to the ventilator along with desaturation. The empirical Sevatrim, Cravit were discontinued on 7/3 as no evidence and the Tamiflu was completed on 7/3. The systemic steroid was tappered gradually. Furthermore, hypotension and thrombocytopenia developed since 7/6. The empirical Tazocin was shifted to Tienam and Targocid since 7/6. The right IJV CVC was changed to the left IJV. Diarrhea was noted and stool Clostridium toxin was positive. Thus, Flagyl was added since 7/7. Hypotension persisted after hydration 1L along with low serum cortisol level. Thus, levophed was added since 7/6 and the systemic steroid was shifted to Solu-Cortef 50 mg Q6H on 7/7. Poor prognosis of weaning off the ventilator and an option of terminal was informed. Hospice combine care was initiated. We will keep the current antibiotics treatment and monitor the fever and respiratory status. 
+
+
+Assessment 
+# Plt 55K => Plt 12U
+
+[Abx]
+Tienam     7/6~ D3    Empirical for new sepsis
+Targocid   7/6~ D3    Empirical for new sepsis
+Flagyl     7/7~ D2    For C.d. related diarrhea
+==============================================================
+Tazocin    6/26-7/6   DC for new sepsis and thrombocytopenia
+Cravit     6/26-7/3   Empirical for HAP
+Sevatrim   6/27-7/3   Empirical for GGO in immunocompromised
+Tamiflu    6/28-7/2
+
+[Cx]
+6/26 Pneumococcal : neg
+     Chlamydiae : neg
+     Mycoloasma : neg
+     Legionella : neg
+     s/c: good quality
+     U/C: WBC 0-2, neg
+     S/AFS: neg *1
+     B/C(PB/PB): neg/neg
+6/27 s/c: moderate quality: Normal mixed flora 
+6/28 s/c: moderate quality: Normal mixed flora 
+     u/c: WBC 10-20
+6/29 B/C(AL/PB): neg/neg
+     S/C:
+     U/C:
+7/6  B/C(AL/CVC):
+     S/C:
+     B/FC:
+     U/C:
+7/6  C.difficile toxin A&B test : Positive ****
+7/7  CVC tip/C:
+
+[Inotropic agents]
+Levophed 16 mg /250 ml => 5 mcg/m
+
+[Respiration]
+PCV, IP/Ti/PEEP/f/FiO2: 24/0.95/6/18/60%
+=> RR/Vt/MV/SpO2: 18/702/12.6/94%
+
+iNO 6/29~6/30, off now
+
+[Nutrition]
+Element diet 900 kcal/ 900 ml/d, 25 ml/h
+
+[PE]
+Cons: coma, E1VtM1 (with strong sedation)
+Pupils: 1.5/1.5 mm, +/+
+HEENT: pale conjunctiva, anicteric sclera, a NG tube, an ETT, a left IJV CVC.
+Chest: bilateral coarse breathing sound.
+Heart: regular tachycardia.
+Abdomen: soft, flat, hypoactive bowel sound, no guarding.
+Extremities: no edema.
+Foley.
+
+[Important studys]
+6/26 HRCT  increased ground-glass nodule or airspace 
+        consolidation in bilateral lung,
+6/28 TSH/free T4:1.09/1.22
+
+[Family decesion]
+7/01 DNR ¤£¹q¤£À£
+
+Plan 
+1. For septic shock, suspected VAP or CRBSI
+- Keep empirical Targocid and Tienam.
+- Keep Solu-cortef 50 mg Q6H for relative adrenal insufficiency
+- Taper ventilation demand.
+- Pursue culture.
+- Monitor fever and CXR.
+2. For IPF, suspected AE with respiratory failure/ relative adrenal insufficiency
+- Keep OFEV.
+- Keep Solu-Cortef 50 mg Q6H.
+- Monitor respiration and ABG.
+3. For ileus, improved.
+- Increase element diet feeding gradually.
+4. For C. difficile related diarrhea
+- Keep Flagyl.
+- Monitor diarrhea status.
+5. For thrombocytopenia, r/o Tazocin related
+- Component therapy as indicated.
+- Monitor platelet count and transfusion as needed

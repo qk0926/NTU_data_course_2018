@@ -1,0 +1,74 @@
+This 88-year-old man with:
+1. Hypoxemic respiratory failure, pneumonia and empyema related, s/p ETT-MV (2016/03/03-)
+2. Empyema, right, s/p chest tube drainage (2016/03/03-)
+3. Bronchiectasis-chronic obstructive pulmonary disease overlap syndrome (2016/03/04 CT)
+4. Dementia
+5. Right hip fracture, s/p open reduction internal fixation (2016/01/20)
+6. Status post subtotal gastrectomy (details not avaliable)
+7. Cataract, status post operation
+
+[Treatment course] [15B 2016/03/02~04]
+After admission, we kept empiric Tazocin. Sputum culture grew mixed flora. We tapered O2 therapy from mask to cannula due to fair SpO2. No fever was noted but CXR revealed RLL consolidation and pleural effusion in progression. Blood gas showed acute respiratory acidosis and BiPAP was applied due to "Do not intubate" decision. Bedside echo showed massive complicated right pleural effusion and thoracentesis yielded purulent content. Analysis favored empyema and chest tube was inserted. However, poor drainage function was noted despite acceptable position by CXR. We consulted CS and surgical intervention was decided after informing high surgical risk due to elder age and poor performance status. Desaturation developed at night, so he received intubation on 2016/3/3.(原本考慮不插管，但經說明手術治療膿胸可能改善，決定插管). He was transferred to ICU on the next day.
+
+[3A2 2016/03/04~3/18]
+After transferred to 3A2 on 2016/03/04, CT showed the right chest tube not in pleural space. We removed the chest tube and created a path for a new 28Fr chest tube. Upon entry, about 500mL of pus was drained. It was sent for analysis. The result was compatible with empyema. The Gram stain was negative. Chest surgeon was contacted again and medical treatment first due to mild improvement of CXR; consider VATS if poor improvement was told. On 2016/3/7, empyema culture yielded KP, and sputum culture yielded PsA. We de-escalated to ceftazidime. On 2016/3/8-9, he tried PS 8 during the daytime. Dyspnea and tachypnea (RR 35) were noted after 6-8 hours. On 2016/3/9-10, SBT with T-piece 1 hour was performed, resulting in dyspnea and tachypnea (RR 35). On 2016/3/9, weaning parameter failed as well (RSI 136). Echo on 2016/3/10 showed right empyema, left pleural effusion and left atelectasis. Left thoracocentesis 380mL was performed. The result was transudate, so albumin and Lasix were administered. Heart echo showed preserved EF (60-70%) and NT-proBNP was not high (770). As for the right empyema, intrapleural urokinase (IPUK) 120000IU retention 4 hours were performed on 2016/3/10-11. The breathing pattern was still poor, so PS 14, PEEP 8 was used for rest during the weekend. On 2016/3/14, weaning parameter was poor (RSBI 136). SBT failed. We added IH amikacin for better infection control (esp. PsA) due to bronchiectasis and COPD overlap syndrome. He tolerated SBT on 2016/3/16-17. However, dyspnea and rapid shallow (Vt 150, RR 35) was noted at 2016/3/17 night even under PS 10, PEEP 6. The PS level was up titrated. We informed poor weaning potential to the family. They agreed our strategy of continued training (因為預計拔管不重插). He was transferred to RCC on 2016/3/18.
+
+[4C1 2016/03/18~]
+After transferred to RCC, tachypnea (RR>35), tachycardia and desaturation (SpO2:88% under FiO2:35%) with accessory muscle use was noticed at night. Therefore, ventilator was shifted back to PC/AC and increase FiO2 to 50%. And the condition improving after sendation drugs use. 
+
+[Assessment]
+Under Cefepime D8 (3/12~) + inhalation Amikacin
+
+No fever
+alert conscious, but can't obey order
+rapid shallow respiratory pattern
+chest tube (+): mild yellowish fluid was draianged
+fail weaning parameter
+
+smallest son came this morning: 表示病人已獨居30幾年,太太和7個孩子都住在台北,這次住院都是小兒子來探視病人而已,其他家屬並未前來,病人小兒子對之前15B和3A2醫師說法不一有所疑問(一下說要開刀一下又說不用,最近又說可以拔管了但又沒拔?)->給予解釋病人目前狀況,3A2醫師之前有聯絡外科醫師表示暫不需要開刀,而病人目前並不符合拔管的條件,如果要拔管是要討論撤除維生醫療(病人有可能因此離開) -> 家屬表示理解暫先維持目前的治療 
+
+[MV setting]
+PSV PS:12, PEEP: 8->6, FiO2:40%, Ti:0.9
+-> Vt: 450-500, Mv: 6.8, SpO2: 100%
+ 
+[Important Study findings]
+03/03 AM, VBG 7.250/61.7/61.6/27.3/-0.2 --> BiPAP
+03/03 CXR: right pleural effusion
+03/03 Pleural effusion: Glu <10, TP 4.5, LDH 9614, TNC 22152, N 100 (c/w empyema)
+03/04 Chest CT: chest tube not in pleural space
+03/04 Pleural effusion: TNC 111674 (L:N=1:99), LDH=16970, Glucose<10
+03/06 Alb=1.8
+03/19 tachypnea with desaturation -> shift back to PCV
+
+[Important Intervention and Newly Added Medications]
+03/03 Respiratory acidosis --> on BiPAP
+03/03 Desaturation --> ETT+MV (原本考慮不插管,但經說明手術治療膿胸可能改善,決定插管); right thoracentesis (turbid pleural effusion) --> change to chest tube
+03/04 Transfer to 3A2 MICU; chest tube revision and drained 400mL pus
+--> CS: not indicated for decortication now, suggest keep chest tube drainage
+03/05 Add Anegyn for better coverage of anaerobic pathogen
+03/06 PCV-> PSV
+03/07 Shift Abx to Tatumcef for empyema culture of wild type KP and S/C of wild type PsA
+03/08 PS 8, RR 35 in the evening
+03/09 SBT borderline
+03/09 WP: -48/+60, RSBI 136 (Vt 242, MV 8.0) 
+03/09 TP 1h, accessory muscle use and RR 30-35
+03/10 Urokinase(I); left thoracocentesis (poor gliding of left lung)
+03/11 Urokinase(II)
+
+[Important Consultation]
+03/04 CS: for empyema; arrange chest CECT
+--> favor medical treatment first due to mild improvement of CXR; consider VATS if poor improvement
+03/07 CS 曾穎凡/徐紹勛: VATS and Urokinase are probably not needed for the current condition
+
+[Important Family’s Decisions]
+02/26 DNR 全拒
+03/03 決定接受手術，故同意插管
+03/09 兒子決定拔管不重插
+
+[Plans]
+1. Keep cefepime and IH amikacin use for pneumonia and empyema
+2. shift back to CPAP support, noticed the hemodynamic status
+3. adequate pain control but noticed the conscious level
+4. keep rehab as possible
+5. Keep 健力體 (higher protein, moderate sugar) and close monitor CO2 (hypoglycemia using 益肺佳)
+6. 拔管不重插, key person: his 2nd son

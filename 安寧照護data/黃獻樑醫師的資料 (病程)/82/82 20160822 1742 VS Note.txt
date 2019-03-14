@@ -1,0 +1,32 @@
+P:
+1. Acute hypoxic respiratory failure, status post endotracheal intubation with mechanical ventilation(2016/7/22-8/20), suspected nosocomial pneumonia or CMV pneumonitis
+2. septic and cardiogenic shock, improved
+3. Acute decompensated heart failure with cardiogenic shock and pulmonary edema, favored severe sepsis related
+4. Septic shock, suspect gangrene with cellulitis over right foot related, suspect left femoral prosthesis infection related, improved
+5. Hypocalcemia, suspected Denosumab injection related, improving
+5. Peripheral artery occlusive disease of bilateral lower extremeties, status post percutaneous transluminal angioplasty(PTA) on 2016/03/18, 2016/04/06, and 2016/07/08
+6. Coronary artery disease, one-vessel disease(LAD stenosis 60 %)
+7. Right foot ganrene, associated with PAOD, with recurrent cellulitis, post debridement on 2016/07/18
+8. End-stage renal disease, associated with diabetic nephropathy, under peritoneal dialysis since 2008/09/17
+9. Left femoral intertrochanteric fracture, s/p open reduction internal fixation on 2016/4/12
+10. Type 2 diabetes mellitus, with nephropathy and retinopathy, HbA1c 5.3% on 2016/05/23, currently under Novomix BIDAC 4U and trajenta
+10. Hypertension
+11. History of gastric ulcer and gastroesophageal reflux disease
+12. Sinus tachycardia, etiology undetermined
+13. Deep vein thrombosis, left common femoral vein, no warfarin because of severe INR prolongation
+14. Pneumoperitoneum, suspected microperforation or peritoneal dialysis related
+
+A:
+consciousness: drowsy, hard to communicate
+2016/08/22 13:23 BP:134/98
+2016/08/22 13:22 T:36.5 P:110 R:30
+2016/08/22 12:19 SpO2:100%(40%,10L,)
+2016/08/20 WBC:7.73 K/£gL
+2016/08/20 HB:8.3 g/dL
+2016/08/17 Total nuclear cell count(TNC):4 /£gL
+
+P:
+tapper PD amount to 1/2 for 3 days then tapper again.
+decrease NG feeding to avoid edema
+may DC antibiotics after discussion with family
+psychosocial support of family

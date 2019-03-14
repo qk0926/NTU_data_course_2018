@@ -1,0 +1,81 @@
+Brief Summary of this week    
+This week, his vital signs remained stable. Urine culture revealed Candida albicans and Diflucan was added on 2016/08/18. However, followed CXR on 2016/08/22 revealed mild increased RLL patch. Mild drowsiness was also noted. Thus, septic workup was repeated, and Tazocin was administered since 2016/08/23. Foley was removed on 2016/08/24, and the urine output was acceptable. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+NPO except drugs, TPN Nutriflex 1000 ml QD
+
+<Antibiotics>
+Tazocin 8/23-, D4 (8/23: cons' sleepy, 8/22 CXR: RLL patch)
+Diflucan(PO) 8/18-, D9 (U/A: pyuria, yeast 4+)
+--------------------------------------------------
+Mepem 8/5-8/20 (B/C*2: Burkholderia cepacia complex)
+Vancomycin 8/3-8/10 
+Tazocin 8/2-8/5
+Levofloxacin 7/16 ~ D14
+             for S/C: Stenotrophomonas maltophilia
+Diflucan 7/15 ~ 7/25 for U/C: Candida albican 
+Targocid 7/9 - 7/18
+Mepem    6/28- 7/15, for S/C PsA and GI Bleeding suspected IAI
+Targocid 6/27-7/4, for S/C MRSA
+Tazocin  6/23-6/28, empirically for pneumonia
+
+<Culture report>
+6/23 B/C:neg 
+6/24 S/C:MRSA
+6/25 B/C:neg X 3
+     S/C:PsA(WT)
+     S/S:GNB3+(intracellular),GPB1+
+6/29 S/C:Elizabethkingia meningosepticum 1+ 
+               Stenotrophomonas maltophilia 1+   
+07/09 U/C: yeast-like pathogen > 100000 ***
+      uretheral pus: candida albican
+07/16 S/C:Stenotrophomonas maltophilia 2+
+8/2 B/C(CVC): Staphylococcus epidermidis (TTP: 19.30 hrs)
+    fungus/C(CVC): Staphylococcus epidermidis, 
+                   Burkholderia cepacia complex  (TTP: 17.1 hrs)
+    B/C(peripheral): Burkholderia cepacia complex 
+8/3 CVC tip culture: no growth
+8/19 U/C: Candida albicans >100,000 
+8/23 B/C(*2, peripheral): pending
+     B/C(CVC):不回血 
+     fungal B/C: pending
+     U/C: Yeast-like organism 40000 
+
+<Respiration>
+shift to Home Ventilator
+PC/AC mode, I/E: 25/5, RR: 10, O2: 3L, Ti:1.0 s
+
+<Lab >
+8/18 U/A: WBC > 100/HPF, yeast 4+
+
+KUB (7/26): distended stomach and colon
+CXR (8/8): increased bilateral lung markings, susp. lung edema
+    (8/22): increased RLL infiltrate, r/o aspiration pneumonia
+
+<Family Decision>
+1. DNR (不電不壓不TAE,除藥到家屬來)
+   --> 已向小女兒說明有時狀況緊急,並無法等待,等待一天實屬不太可能
+2. Hesitated about panendoscopy and colonscopy
+   preferred medicaine treatment
+
+Plan 
+1. keep Tazocin, and oral form Diflucan
+   monitor clinical conditions and vital signs
+   consider stopping Cortisone 1# Q12H if relative stable hemodynamics 
+2. f/u blood test QW1,4 (next time: 8/29)
+3. High dose Pantoloc 
+   Transamin IF use
+   component therapy!
+4. NPO except drug 
+   NG decompression + Primperan + Bisacodyl R
+   TPN use
+5. Family decision: DNR (不電不壓不TAE,除藥到家屬來,大約要一天...)(大姊、二哥、小妹)
+   Hospice combined care.
+   as the family refused panendoscopy exam, we closely monitor GI bleeding condition and kept high dose PPI
+6. change tracheostomy today due to rupture of cuff of BIOVONA
+    --> possible cause: (1) cuff打太飽-->壓力測起來ok
+                        (2) 產品瑕疵--> 但其他病人均無此狀況
+                        (3) 病人欲講話,喉嚨用力使cuff破裂 -->??

@@ -1,0 +1,86 @@
+Brief Summary of this week    
+After transfer to 15B, we have discussed with family (daighter and son) about the poor prognosis.  We have achieved consensusNo more inotropic use. 2. If fever or septic shock recured, do not add more antibiotic or repeat fever workup. 3. Keep hemodialysis until hemodynamic unstable. Keep albumin infusion. 4. Keep decreased dose of NG feeding due to peripheral edema and lung edema. 5. Complete antibiotic s as scheduled. 6. Keep ventilator use. 
+
+
+PAP1
+
+Assessment 
+[Abx]
+Colistin       05/03-  for XDRAB
+Mepem          04/30-  for Burkholderia and possible 
+                       recurrent serretia bacteremia
+Diflucan       05/01-05/02
+               05/03-  for previous wound culture
+Daptomycin     05/02-  for B/C VRE
+-------------------------------------------------------
+Tigecycline    (04/13-)  for MDRAB
+
+[Culture]
+3/12 S/C: Burkholderia (CAZ-S), Serratia (CAZ-S)
+3/14 chest tube/C: MDRAB, Serratia (CAZ-S)
+3/16 B/C(DLC) tip: Serratia (CAZ-S)
+3/22 PEs - AFS neg
+         - Serratia marcescens 1+
+         - Burkholderia cenocepacia 2+
+3/29 wound fungus culture: Candida albicans 
+3/29 wound: Serratia marcescens 2+, Serratia marcescens 2+ 
+3/30 skin pus: Serratia marcescens 3+ 
+3/31 wound: Serratia marcescens 2+
+4/5 S/C Burkholderia cenocepacia 2+ 
+        Serratia marcescens 1+ 
+4/8 Wound: MDRAB 2+ yeast 2+
+    S/C: mixed flora
+    S/C: AB 3+ 
+4/11 S/C: Acinetobacter baumannii 2+ (MDRAB, *R to Colistin*)
+     CVC B/C: Serratia marcescens TTP 105.72h
+     PB B/C: Serratia marcescens TTP 107.89h
+4/17 CVC B/C: Serratia marcescens TTP 41.3h
+     PB B/C: Serratia marcescens TTP 41.61h
+4/21 W/C: MDRAB 1+, Yeast 1+, Staphylococcus haemolyticus 1+ 
+4/22 CVC B/C: Serratia marcescens TTP 28.93h
+     PB B/C: Serratia marcescens TTP 15.79h
+     DLC B/C: Serratia marcescens TTP 36.09h
+5/01 SURGICAL WOUND right thoracotomy: XDRAB
+     S/C: Candida albicans; XDRAB 1+; Burkholderia cenocepacia 1+; Elizabethkingia miricola 1+
+     DLC tip: -
+     B/C: -
+5/02, 5/03 AFS(-)
+5/03 surgical wound: XDRAB 1+
+5/04 G/S: PMN 10-25/Epi<10
+
+[Inotropic agent]
+off levophed on 5/5
+
+[Respiration]
+PCV, IP:14, PEEP 8, FiO2 40%, RR 12 
+=> Vt 260-300, MV 7, SpO2:100%
+
+[RRT]
+DW adjusting
+4/05 SLED 2hr K3 Ca 3 on 4/5
+4/06SLED 3hr K3 Ca 3 on 4/6 => no IDH; 
+4/07 SLED 4hr K3 Ca3 UF:1.5kg (´£«e1h²×¤î¬~µÇ due to HoTN)
+4/15 SLED 3hr K3 Ca3 UF:0kg 
+4/18 SLED 4hr K3 Ca3 UF:1kg
+4/20 SLED 4hr K3 Ca3 UF:1kg
+4/22 SLED 4hr K3 Ca3 UF:1kg
+-----------------------------------
+5/2  SLED 4hr        UF:1kg
+5/4  SLED 4hr K3     UF:1kg
+5/6  SLED 4hr K3     UF:1kg
+
+[Nutrition]
+HD diet, 1700kcal/d(1.5kcal/ml)
+
+Plan 
+1. New onset sepsis, empyema and CRBSI associated
+- Keep colistin for XDRAB
+  Mepem (extended infusion) for Burkholderia and possible
+recurrent serretia bacteremia
+  Daptomycin for VRE bacteremia and possible CRBSI
+  Diflucan for new sepsis
+- gradually complete Abx treatment course and no more add newly Abx was decided by family
+ 
+2.Acute on chronic kidney injury, suspect sepsis associated
+- Resume dialysis since 5/2, QW246; still anuria with lfuid overload
+-check labs on 5/13

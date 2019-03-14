@@ -1,0 +1,10 @@
+CAD-3VD, PAOD
+OHCA s/p CPCR 21min
+repeat PCI to LCx, LM-LAD 
+no hypothermia tx post-CPR
+cons still in coma, E3M1Vt
+hemodynamics: stable, no vasopressor now
+on CPAP+PS12, PEEP 6, FiO2 35%
+=>
+arrange EEG, close obs cons status
+consider perfusion CT

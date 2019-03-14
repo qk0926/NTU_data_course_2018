@@ -1,0 +1,24 @@
+Dietitian record 唐怡伶營養師
+S:
+Digestion is normal.
+O:
+HT:170 BW:56.2 BMI:19.55
+5/19 AST/ALT:439/581
+5/20 BUN:54.1 Cr:1.2 Na:153 K:4.0 T-bil:23.5 ammonia:44
+
+BiPAP nighttime and daytime PRN use
+
+Goal calorie:1400-1700kcal/day
+protein requirement:65g/day
+
+Actual energy intake:1750kcal/day
+Actual protein intake:69g/day
+
+飲食種類 管灌飲食
+5/14      調整配方 1250kcal/day(1.5kcal/cc)
+5/15~5/19 調整配方 1750kcal/day(2kcal/cc)
+5/19~     調整配方 1750kcal/day(1.5kcal/cc)
+
+P:
+Keep pressent diet.
+Nurse:維持營養師的建易熱量!/N2劉雅君

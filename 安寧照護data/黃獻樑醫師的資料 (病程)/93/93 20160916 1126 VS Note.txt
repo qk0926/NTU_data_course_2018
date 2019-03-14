@@ -1,0 +1,35 @@
+# UTI and pneumonia
+# Septic shock, r/o recurrent CRBSI
+# Recurrent GI Bleeding.
+FeNa < 1%.
+suspect unadequate effective volume
+check CXR and body weight.
+
+2016/09/16 09:02 BP:100/48
+2016/09/16 09:01 SpO2:98%(%,1L,VCR)
+2016/09/16 09:01 T:36.3 P:80 R:26
+2016/09/16
+D-BIL:0.30 mg/dL
+Alb:2.4 g/dL
+T-BIL:0.67 mg/dL
+AST:70 U/L
+ALT:192 U/L
+ALP:138 U/L
+GGT:230 U/L
+UN:44.5 mg/dL
+CRE:0.6 mg/dL
+eGFR:134.5 mL/min/1.73 m^2
+Na:159 mmol/L
+K:4.1 mmol/L
+
+2016/09/16
+HB:6.6 g/dL
+WBC:7.00 k/£gL
+RBC:2.50 M/£gL
+HCT:21.0 %
+MCV:84.0 fL
+MCH:26.4 pg
+MCHC:31.4 g/dL
+PLT:180 k/£gL
+RDW-CV:17.9 %
+PS:-

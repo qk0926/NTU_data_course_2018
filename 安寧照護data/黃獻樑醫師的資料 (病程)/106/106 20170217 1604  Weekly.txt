@@ -1,0 +1,44 @@
+Brief Summary of this week    
+During this week, high fever up to 40'C was noted and kept antibiotics using was suggested. On 2017/02/12, mild nasal bloody discharge was noted and the discharge culture revealed Acinetobacter baumannii and Citrobacter koseri. The septic work was performed and the sputum culture on 2017/02/10 revealed Acinetobacter baumannii. The following sputum culture showed Acinectobacter nosocomialis and Enterobacter cloacae. The blood culture, sputum culture and urine culture were fllowed on 2017/02/12. On 2017/02/14, nasal discharge was improved and intermittent high fever still persisted. The following CT on 2017/02/14 revealed residual pontine hemorrhage; No brain edema. Aspiration of post-auricular fluid accumulation. On 2017/02/15, tapered off Levophed was performed, fever was still noted. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+[Vital sign]
+T:36.8 P:89 R:7
+BP:125/72
+I/O:0/500(-500)(24hr)
+SpO2:100%(%,L,)
+
+[Neurological examination] (pre-op E4M6V5, MP 4/4+)
+GCS:E1M4VT, pulpil R/L : 2.5+/3.0+
+Muscle power: RUL/LUL/RLL/LLL : can not be examined
+
+[Lab data]
+    02/10 -> 02/11 -> 02/12 -> 02/13 -> 02/16 -> 02/17  
+WBC: 9.57 -> 6.48  -> 9.87 -> 9.17   -> 8.28  -> 7.40
+HB:  11.0 -> 9.8                              -> 10.1
+CRP:                  1.74
+Procalcitonin:                0.4150 
+
+K:2.9   Na:135 
+
+[Culture]
+B/C (02/10, 02/12): -
+S/C (02/12): Enterobacter cloacae; Acinetobacter nosocomialis 
+U/C (02/10, 02/12):- 
+Nasal discharge culture(02/11): Acinetobacter baumannii 2+; Citrobacter koseri 2+; #3 Enterococcus faecalis 2+  
+CWV drain culture(02/11): -
+
+[Active antibiotics]
+Vancomycin 750 mg Q8H 2017/02/10~
+Fortum 2000 mg Q8H 2017/02/10~
+
+[Inactive anti]
+Cefazolin 1000 mg Q8H 2017/02/08~02/09
+
+Plan 
+1.Keep Depakine and Mannitol + solu-medrol
+2.Closely monitor consciousness level, GCS, muscle power and vital sign
+3.Inform poor prognosis gradually

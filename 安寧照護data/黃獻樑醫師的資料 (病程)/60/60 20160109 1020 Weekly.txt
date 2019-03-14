@@ -1,0 +1,90 @@
+Brief Summary of this week    
+During this week, due to the culture result of yeast in the urine. We added fluconazole for it. Focal seizure was noted, and the phenytoin level was inadequate, so we ajudsted the dosage.
+We discuss with her family about the further plan, and they basicly agreed with withdrawl. 
+
+Assessment 
+BW: 53.6 -> ... -> 54 -> 53.5 -> 53.7
+
+<Chest>
+Ventilator: PCV; iP 20; PEEP 5; FiO2 30%
+
+CXR
+[12/29] increased lung markings in bilateral lung field
+[01/06] Mild increased lung markings
+
+ABG
+[12/31] PH:7.44; PCO2:30.6; PO2:132; HCO3:21.0; BE:-3.4
+[01/04] PH:7.46; PCO2:32.4; PO2:180; HCO3:23.3; BE:-0.8
+[01/07] PH:7.47; PCO2:28.2; PO2:127.0; HCO3:21.0; BE:-2.8
+
+<CV>
+ECG
+[12/17] Sinus tachycardia
+
+<GI>
+Diet: NG diet: 1 卡/cc 熱量:1750 (葡勝納嚴選)
+Digest: well
+Stool: fair
+
+Lab
+[01/07] T-BIL:0.26 mg/dL; AST:39 U/L
+
+
+<Nephro>
+[01/04] CRE:1.0
+[01/07] BUN:45.3 mg/dL; CRE:1.2 mg/dL
+        K:3.6 mmol/L; Mg:0.86 mmol/L
+
+<Hema>
+[01/04] WBC:3.39 K/μL; HB:9.0 g/dL; PLT:504 K/μL
+[12/31] WBC:4.77 K/μL; HB:9.1 g/dL; PLT:448 K/μL
+[01/07] WBC:4.15 K/μL; HB:8.7 g/dL; PLT:479 K/μL
+
+
+<ID> Diflucan D4
+
+Culture
+[12/17] CSF: Klebsiella pneumoniae enriched
+[12/18] S/C: Klebsiella pneumonia + Escherichia coli (ESBL)
+[12/21] S/C: Candida albicans
+[01/04] U/A: WBC 35-50; RBC> 100
+[01/06] U/C: Candida glabrata >100,000 
+
+<Endocrine>
+2016/01/08 Sugar(One touch):222 *
+
+<Onco>
+NPC; terminal stage
+--> Contact CR吳: terminal stage of cancer, agreed with 
+
+<Neuro> Phenytoin
+[12/25] Phenytoin level= 9.76
+[01/07] Phenytoin:6.07 μg/mL
+        --> Shift to Aleviatin 350 mg/ day,
+            as pharmacist's suggestion (Bridge with keppra)
+
+CT
+[01/04] 
+Large areas of cerebral infarctions, right MCA, ACA and left ACA.
+Diffuse irregular narrowing of intracranial vessels
+Recurrent tumor at left infratemporoal fossa to middle cranial fossa 
+--> contact Neuro R程: suggested tapering mannitol
+
+EEG
+[12/18] This EEG reveals moderate to severe diffuse cortical dysfunction with emphasis in the right hemisphere. Epileptogenecity in the left fronto-temporal region is also noticed
+
+CT
+[12/24] 1. large territory infarcts in bilateral cerebral hemispheres, more on right side, with brain herniation.
+2. left infratemporoal fossa to middle cranial fossa tumor.
+[01/04] pending
+
+<Important family decision>
+Her daughter agreed with withdrawl program, but they hoped to perform this program on 1/20
+
+Plan 
+1. tapering mannitol gradually till off
+2. Keep ventilator support
+3. Adjusted Aleviatin dosage to 350 mg/day, may f/u drug level next monday
+4. Keep diflucan oral use
+5. Send the fungal culture for MIC
+6. Families hope to perform withdral program on 1/20, pending there informed consent.

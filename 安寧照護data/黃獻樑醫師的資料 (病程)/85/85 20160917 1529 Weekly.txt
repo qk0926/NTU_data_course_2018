@@ -1,0 +1,108 @@
+Brief Summary of this week    
+As treatment course ~9/17
+
+癌症治療效果追蹤評估 Disease Status:
+Residual tumor / Recurrence / Metastases
+Treatment Response:Not evaluable
+
+抗癌藥品治療副作用 (化療) 無副作用 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+<clinical events on 9/17>
+less uirne output
+fever
+
+[Current Abx]
+fortum  9/16-, downgrading form tazocin
+oral metronidazole 9/6 D9, for C. difficle
+
+[Previous Abx]
+tazocin 8/28-8/31
+maxipime and metronidazole 8/31-9/2
+mepem 9/3-9/8 for wound culture: MSSA and KP
+targocid 9/3-9/6 due to no evidence
+tazocin 9/8-9/16
+
+[lab]
+vit B12 >1000, folic acid 13.4
+ACTH 15.6, cortisol 5.13
+TSH 0.156, free T4 0.416
+
+[Cultures]
+8/28 B/C: no growth
+8/31 wound culture: SA and wild type KP
+8/31 U/C: no growth
+9/2 left ear pus culture: WTKP+MSSA
+9/3 stool culture: no growth
+9/3 sputum culture: Mixed flora 
+9/3 procalcitonin: 12.83 
+9/3 C.difficile toxin A&B test : Positive
+9/5 left neck wound: No anaerobic pathogen 
+9/5 left ear wound: No anaerobic pathogen  
+9/6 pleural effusion culture: No bacteria visible, AFS (-)
+
+[Inotropic agents]
+Levophed off
+
+[MV/O2]
+AC/PC IP 14, PEEP 5, RR 10, FiO2 30%
+-> TV 662, MV 11.6
+
+weaning parameter at 9/9
+VE:15.8  RR:29  VT:544.8
+PIMAX:-34  PEMAX:+32  RSBI:53
+leakage volume:420
+
+[PE]
+consciousness: E1-2VtM4
+Lt pupil dilation, w/o light refelx
+chest: crackle over left, no wheezing
+abdomen: soft, no tenderness
+extremities: warm, no pitting edema
+
+[Studies]
+8/31 chest CT: Right lung nodules and patches. Infection or 
+     inflammation is considered first. R/O lung metastasis.
+     abdomen CT: Probable (not definite) acute pancreatitis
+     neck and head CT: 
+     extensive recurrent tumor with intracranial, intra-
+     orbital and skull base to mandible region.
+     no abnormal adenopathy
+     no spinal metastases
+9/01 brain CT: Extensive recurrent tumor with intracranial, intra-orbital and skull base to mandible region. No intracranial hemorrhage noted.
+
+** survey for hypoglycemia:
+insulin 3.98, IGF-1 35, C-peptide 2.1, bHG 0.134 when one touch 100+
+insulin <2.00, C-peptide 3.89 under one touch <60
+
+[Consultation]
+9/05 endocrine: 
+1.  Relative adrenal insufficiency, suspect iatrogenic related or central type
+2.  Low T4 and TSH, suspect steroid related, sick euthyroid syndrome or central type
+9/05 oncologist (Dr 陳國興): closely monitor consciousness level; suggested DNR, may consider radiotherapy but patient was unstable condition; no further chemotherapy
+9/07 hospice consultation
+ 
+[Intervention]
+9/6 thoracentesis (825cc, yellowish)
+
+[family decision]
+9/9 --DNR不電不壓不洗腎--
+9/13 招開安寧拔管家庭會議，家屬一致同意安寧拔管，但是希望中秋節後再拔
+9/14 family wanted to receive palliative extubation on 9/19
+9/15 家屬表示若病人於9/19前死亡則順其自然，家屬到醫院車程約30分鐘，危急時希望先給levophed，等家屬來
+
+Plan 
+--DNR不電不壓--院宣
+1. family wanted to receive palliative extubation on 9/19; consider 安寧拔管 if no obvious improvement
+2. terminal palliative care; 院宣
+3. keep ceftazidime
+4. Monitor consciosness; Keep Keppra
+   Keep D50W (20cc/hr)
+5. Eltroxin (100mcg/tab) 0.5tab QD
+   keep cortisone 1 tab bid for relative adrenal insufficiency
+6. Componant therapy for tumor bleeding
+7. keep nexium for suspected coffee ground
+8. rasitol prn for less urine output

@@ -1,0 +1,441 @@
+ 
+2017/01/17 12:54 
+主訴(Chief Complaint) 
+Informant:patient and medical record
+Dyspnea for 2 days 
+病史(Brief History) 
+This 71-year-old man is a patient of (1). 1.Non-small cell lung carcinoma, adenocarcinoma, left upper lobe, EGFR mutation(L858R), cT2aNoM1, stage IV, with bone metastasis under Afatinib(2015/10/12~) status post palliative radiotherapy to right scapular bony lesion(2250cGy/5 fractions, 2016/05/05~2016/05/11), palliative radiotherapy to left 8th rib and pedicle tumor (25Gy/5 fractions, 2016/8/8~2016/8/12), palliative radiotherapy to T7-T8 spine(20Gy/5 fractions, 2016/8/8~2016/8/12), (2). Benign prostate hyperplasia.
+       Initially, dry cough, poor appetite and abdominal discomfort since Aug. 2015. He came to Taipei City Hospital RenAi Branch for help. Elevated CEA and LUL lung tumor was noted by CXR. He then came to our hospital for second opinion. Elevated serum CEA was noted on 2015/9/11(Serum CEA: 1249.38 ng/ml). Nodular opacity at the left upper lung was found by CXR on 2015/9/14. Bronchoscope revealed a concentric hypoechoic peribronchial lesion, 2cm from the orifice on 2016/9/14. Brain MRI on 2015/9/14 indicated no definite metastatic lesion in brain and skull. Chest and abdomen CT scan on 2015/9/15 showed (1). Lung cancer, LUL, tentative staging T2aN0Mx, (2). Bilateral multiple hepatic cysts, (3). Multiple small gallbladder stones, (4). Compression fracture at L1. 
+      CT-guided LUL lung tumor biopsy was performed on 2015/9/17 revealed adenocarcinoma, TTF-1(+), p40(-) and ALK(-), EGFR mutation(c.2573T>G, p.L858R). Bone scan on 2015/9/18 revealed active bone lesions at right spine of scapula, and posterior aspect of right 5th rib. Chest MRI on 2015/10/2 disclosed bone metastasis at the right scapular spine and acromion root, the right fifth posterior rib, the left eighth proximal rib and the T7 posterior element; a spiculated mass lesion at the left upper lung zone; small amount of left pleural effusion. Afatinib was given since 2015/10/12. Following CT scan on 2016/4/16 revealed enlarged LUL mass.
+       Palliative radiotherapy to right scapular bony lesion(2250cGy/5 fractions) was done from 2016/5/5 to 2016/5/11. Palliative radiotherapy to left 8th rib and pedicle tumor (25Gy/5 fractions) was given from 2106/8/8 to 2016/8/12. Palliative radiotherapy to T7-T8 spine (20Gy/5 fractions, 2016/8/8~2016/8/12) was performed from 2016/8/8 to 2016/8/12. The followed CT scan on 2016/10/3 indicated LUL cancer with bone metastases, stable; right axillary lymphadenopathy. Bone scan on 2016/10/20 showed bone metastases at axial skeletons, mostly in progression, regressive change at right scapula. Therefore, the patient was admitted to NTUH in 2016/11 for CT-guide biopsy, but the patient failed to meet the criteria of AZD6094+AZD9291, and he refused Iressa + Selumetinib trial enrollment. Therefore, the patient received Cisplatin and Alimta on 2017/01/04 instead.
+       This time, the patient suffered from dyspnea since 01/16 at home. The patient stated that the symptoms was present with gradual onset, and he had productive cough accompanying his dyspnea. His sputum was whitish to yellowish. Dyspnea was excerbated by exertion, and thus he was sent to our ER on 01/17 morning. He denied recent travel history (abroad and to rural area), and contact history. After sent to ER, chest X-ray revealed right side lobar pneumonia with upper and lower lobe changes. Due to desaturation, we provided patient with non-rebreathing mask to keep his SpO2. Also, for survey, the patient received thoracocentesis for left chest and drained 1000mL of dark red exudate. Afterward, the patient started to receive antibiotic treatment with Tazocin and Levofloxacin, and was admitted to MICU for intensive monitoring and antibiotic treatment.
+
+[Past medical history]
+1. Systemic diseases: CAD(-); HTN(-); DM(-); HBV(-);BPH(+)
+2. Diet or drugs allergy: no any drugs or diet allergy
+3. Surgery history: No
+4. Current medication: NTUH:
+(1)Tramal Retard 100 mg/tab 1# PO BID
+(2)Alpraline 0.5 mg/tab 1# PO HS
+(3)Regrow SR 60 mg/tab 1# PO BID
+(4)Stilnox 10 mg/tab 1# PO HS
+(5)Giotrif 40 mg/tab 1# PO QDAC
+(6)Detrusitol SR 4 mg/cap 1# PO HS
+Other: No
+中草藥:No
+保健食品:褐藻
+5. Blood type: O
+[Personal and family history]
+1. Occupation: No
+2. Financial status: Well-fixed
+3. Traveling history: No any traveling in recent months
+4. Habits or addictions: No
+5. Marital status: Married
+6. Alcohol(+): Social; Betel nut chewing(-); Smoking(-);
+7. Family history: father and elder brother died of lung cancer
+8. Hospitalization:入院日期:2015_10_01 出院日期:2015_10_05 診斷:Lung cancer, non-small cell
+入院日期:2015_09_14 出院日期:2015_09_19 診斷:Lung tumor
+
+Travel history: recent to 新竹關西 within one months
+Contact history: denied
+Cluster history: denied 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:國中
+職業:自由業
+宗教信仰:民間信仰
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:O，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Fall Risk Assessment
+總分:4
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: fever(-), weight loss(-), general malaise(-), night sweats(-)
+2.Skin: skin rash(-), petechiae(-), purpurae(-), itching(-)
+3.HEENT: headache(-), dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal congestion(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-), oral ulcers(-)
+4.Cardiovascular: chest tightness(-), exertional dyspnea(-), orthopnea(-), syncope(-), palpitations(-), intermittent claudication(-)
+5.Respiratory: dyspnea(-), cough(-), sputum(-), chest pain(-), hemoptysis(-), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal pain(-), abdominal fullness(-), hunger pain(-), midnight pain(-), early satiety(-), constipation(-), diarrhea(-), melena(-), tarry stool(-), small caliber stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirst(-), tremors(-)
+10.Nervous: dysarthria(-), weakness(-), numbness(-), paresis/plegia(-) 
+身體檢查(Physical Examination) 
+BH: 166 cm,  BW: 61 kg,
+T: 36.8 °C,  P: 85 bpm,  R: 29 /min,
+BP: 97 / 69 mmHg,
+Pain score:  ,
+
+Neurological Examination: 
+. Consciousness: clear 
+. Muscle power: did not approach
+. Gait: did not approach
+
+Consciousness E4  M6  V5
+Head-Eye-ENT 
+  Grossly normal, conjunctiva: pink, sclera: anicteric
+  Pupils: isocoric, 3mm/ 3mm
+  Light reflex: L/R: +/+, EOM: full and free
+Neck
+  Jugular vein engorgement(-)
+  Thyroid goiter(-)
+  Meningismus: Kernig sign(-); Brudzinski sign(-)
+  Carotid bruits(-)
+  Lymphadenopathy(-)
+Chest
+  Thoracic cage contour: symmetric
+  Vocal fremitus and expansion: symmetric
+  Percussion: resonant
+  Breath sounds: clear, crackles(+. right lung), wheezing(-), rhonchi(-), stridor(-)
+Heart
+  Heart beats: regular, no audible murmurs
+  LV lift(-) RV heave(-)
+  Increased cardiac size by percussion(-)
+  Adventitious sounds (-)
+Abdomen
+  Flat, soft
+  Superficial vein engorgement(-) Protruded umbilicus(-)
+  Bowel sound: Normoactive
+  Tenderness(-) Hepato-jugular reflux(-)
+  Liver and spleen: not palpable
+Extremities
+  Freely movable, pulses symmetric and intact, pitting edema(-)	
+Back
+  Knocking pain(-)
+Skin
+  Abnormal pigmentation(-)
+  Petechiae(-) Purpura(-) Ecchymoses(-) Telangiectasia(-)
+  Rash(-) Plaque(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060104 [0740] 10.11         4.21          12.2          37.0          87.9         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1060104 [0740] 29.0          33.0          248           14.5          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060104 [0740] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060104 [0740] 87.7          0.3           0.0           7.0           5.0          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060104 [0740] 0.0           0.0           0             -            
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               ALT           UN            CRE           Na            K            
+time/item      (U/L)         (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)     
+1060104 [0740] 16            21.5          0.7           135           4.8          
+               Ca           
+time/item      (mmol/L)     
+1060104 [0740] 2.07         
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1060104 [0740] 117.8        
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1051224 [0831] 11.67         4.48          13.4          39.7          88.6         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1051224 [0831] 29.9          33.8          320           14.1          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1051224 [0831] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1051224 [0831] 83.7          0.1           0.1           7.4           8.7          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1051224 [0831] 0.0           0.0           0             -            
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               ALT           UN            CRE          
+time/item      (U/L)         (mg/dL)       (mg/dL)      
+1051224 [0831] 15            19.6          0.6          
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1051224 [0831] 140.8        
+
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060117 [0705] 5.21          4.23          12.9          37.0          87.5         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060117 [0705] 30.5          34.9          88 ? slight   15.2          -            
+                                          PLT clumps                               
+群組:Punctate Exam.
+
+               Sp. gr.       Rivalta's Te  Total nuclea  RBC count     Sediment-Eos 
+                             st            r cell count                in           
+                                          (TNC)                                    
+time/item      (*)           (*)           (/μL)         (/μL)         (%)          
+1060117 [0724] 1.023         +             232           126000        N/A          
+               Sediment-Lym  Sediment-M&H  Sediment-Neu  Sediment-Not                                           
+                                                       e            
+time/item      (%)           (%)           (%)           (*)          
+1060117 [0724] N/A           N/A           N/A           Suspected ce 
+                                                       lls (+); Pen 
+                                                       ding for pat 
+                                                       hologist rev 
+                                                       iew          
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060117 [0705] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060117 [0705] 89.6          0.0           0.2           2.3           7.9          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060117 [0705] 0.0           0.0           0             -            
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1060117 [0706] 11.1          32.1          1.01         
+群組:General BioChemistry
+
+               TP            ALB           ALT           LDH          
+time/item      (g/dL)        (g/dL)        (U/L)         (U/L)        
+1060117 [0705]                             23                         
+1060117 [0724] 3.4                                       513          
+1060117 [1010]               2.6                                      
+群組:Biochemistry
+
+               CRE           Na            K             Ca            Mg           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)      (mmol/L)     
+1060117 [0705] 0.6           130           4.8                                      
+1060117 [1010]                                           1.92          0.86         
+               CK           
+time/item      (U/L)        
+1060117 [0705] 61           
+1060117 [1010]              
+群組:Yes
+
+               NT-pro BNP   
+time/item      (pg/mL)      
+1060117 [0705] 183.8        
+群組:
+
+               Troponin-T    eGFR          CK-MB        
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)      
+                              m^2)                      
+1060117 [0705] 24.86         140.8         1.94         
+1060117 [1010] 26.87                                    
+*********檢驗室:BC***********
+
+群組:DM
+
+               GLU AC       
+time/item      (mg/dL)      
+1060117 [0724] 95           
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060117 [0657] 7.407         34.8          24.6          22.1          -2.8         
+1060117 [1124] 7.491         26.5          85.4          20.4          -3.2         
+               SO2          
+time/item      (%)          
+1060117 [0657] 45.4         
+1060117 [1124] 97.4         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1060117 [0657] 1.10          12.9          39            4.81          132.1        
+1060117 [1124] 1.10          10.0          30            3.92          129.9        
+               Suger(急重症自行檢 
+               驗)           
+time/item      (mg/dL)      
+1060117 [0657] 118          
+1060117 [1124]              
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1060117 [0704] 114          
+1060117 [1130] 120          
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1060117 [0705] O             Positive     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1060117 [0705] Negative 
+檢查紀錄(Examination Report) 
+NIL 
+影像報告(Imaging Report) 
+CT Without Contrast-Chest 醫令: CT Without Contrast-Chest 報告醫師: 陳信銘 影像時間: 2017/01/17 09:55 (33070B2M) 發報告時間: 2017/01/17 10:21 INDICATION: Follow up. 
+
+TECHNIQUE: CT of the chest without intravenous contrast. 
+COMPARISON: 2017/1/3.
+FINDINGS: 
+- Lung/airway: 
+  -- An irregular mass in LUL(about 42mm), stable.
+  -- Multifocal airspace opacities and septal thickening in right lung.
+  -- Partial atelectasis of left lung. 
+
+- Pleura: left pleural effusion with thickening. 
+- Mediastinum: right axillary lymphadenopathy. Small mediastinal lymph nodes. 
+- Heart/great vessel: calcification of the aorta. 
+- Bone: spondylosis with marginal spur formation. Compression fracture at L1. Bone metastases. 
+- Other: hypodense lesions in liver and kidneys, cysts are favored. Mild dilatation of IHDs. Hepatic and adrenal metastases.
+Chest: AP View (Supine) 醫令: Chest: AP View (Supine) 報告醫師: 吳志宏 影像時間: 2017/01/17 07:38 (32001CYM) 發報告時間: 2017/01/17 11:23 EXAMINATION: Chest: AP View (Supine)
+FINDINGS:
+Bilateral lung opacities. Mild cardiomegaly. Left pleural effusion. Moderate degenerative change of the spine with marginal spur formation.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 簡寧 影像時間: 2017/01/04 08:13 (32001CXM) 發報告時間: 2017/01/11 10:57 cardiomegaly. mediastinum widening. subsegmental atelectasis in the llf with massive left pleural effusion, increased compared with prior study.
+CT With/Without Contrast-Brain 醫令: CT With/Without Contrast-Brain 報告醫師: 廖漢文 影像時間: 2017/01/03 18:27 (33072B0M) 發報告時間: 2017/01/04 09:56 CT scan of head without and with enhancement showed 
+1. no definite abnormal density or abnormal enhancement.
+2. The CSF spaces were normal in size and shape.
+3.No definite abnormality was shown in visible skull base and cranium bone.
+CT With/Without Contrast-Chest 醫令: CT With/Without Contrast-Chest 報告醫師: 陳佾昌 影像時間: 2017/01/03 18:27 (33072B2M) 發報告時間: 2017/01/05 09:26 INDICATION: Follow up. 
+
+TECHNIQUE: CT of the chest without/with intravenous contrast. 
+COMPARISON: 2016/10/03.
+FINDINGS: 
+- Lung/airway: 
+  -- An irregular mass in LUL (about 47mm), larger. 
+  -- New patchy GGOs in right lung, suggest follow up. 
+  -- Partial atelectasis of left lung. 
+  -- Other minor or non-specific lung parenchymal change. 
+- Pleura: left pleural effusion with thickening. 
+- Mediastinum: right axillary lymphadenopathy. Small mediastinal lymph nodes. 
+- Heart/great vessel: calcification of the aorta. 
+- Bone: spondylosis with marginal spur formation. Compression fracture at L1. Bone metastases. 
+- Other: hypodense lesions in liver and kidneys, cysts are favored. Mild dilatation of IHDs. Hepatic and adrenal metastases. 
+(Please correlate with the report of other body parts.)
+
+(GGO: ground glass opacity; IHD: intrahepatic duct; LUL: left upper lobe.)
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 陳信銘 影像時間: 2016/12/24 08:11 (32001CXM) 發報告時間: 2016/12/26 13:05 Chest PA view shows normal heart size, a tumor with subsegmental atelectasis in LUL with left pleural effusion.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 張允中 影像時間: 2016/12/19 15:03 (32001CXM) 發報告時間: 2016/12/22 10:39 Chest PA/AP shows normal heart size. ill defined focalopacity at the left upper lung field and peribronchial infiltration and opacity at the left lower lung field. left pleural effusion. some ill defined sclerotic bone change at the ribs and right shoulder region. Suggest chest CT and bone scan correlation. Suggest clinical correlation and follow up. 
+病理報告(Pathology Report) 
+S1537708
+Lung,upper lobe,left,computed tomography-guided biopsy,adenocarcinoma    
+ M1501087
+Lung,Lung, Paraffin block, For EGFR gene mutation,see description    
+ S1647376
+Lung,upper lobe, left, status post Afatinib treatment,computed tomography-guided biopsy,adenocarcinoma residual,   
+ T1600727
+ T1600740 
+臆斷(Tentative Diagnosis) 
+1. Right side lobar pneumonia (right upper lobe and right lower lobe), under antibiotic treatment
+2. Non-small cell lung carcinoma, adenocarcinoma, left upper lobe, cT2aNoM1, stage IV, with bone metastasis, status post Afatinib, under Cisplatin and Alimta C1D1 on 2017/01/04 
+3. Benign prostate hyperplasia 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+Treatment Goal: Finish antibiotic treatment for lobar pneumonia
+
+
+S: dyspnea at home, improving after arriving at ER
+O: vital signs: stable
+   Physical examination: Right side crackles, rashes over his body
+   Image: right upper and right lower lung lobar pneumonia
+          Left side with tumor progression
+   Lab data: ABG within normal limits under NRM support
+
+A: Right side lobar pneumonia, lung cancer
+P:
+1. keep antibiotic treatment with Tazocin and Levofloxacin
+2. Keep OPD medication
+3. closely monitor clinical conditions and vital signs.
+4. check CBC/DC/BCS/thryoid function/cortisol axis/ABG
+5. check mycoplasma/legionella/pneumococcal antigen
+6. check Acid fast stain
+7. closely monitor his vital signs
+8. intubate the patient if CO2 retention/consious change/progression of respiratory failure
+
+
+[Oncology Summary]
+[Initial presentations]
+2015/08~Dry cough and poor appetite
+[Definite diagnosis and disease extent]
+~Taipei City Hospital RenAi Branch~
+2015/08 Elevated CEA
+2015/08 CXR(PA view): LUL tumor
+~NTUH~
+2015/09/11 Serum CEA: 1249.38 ng/ml
+2015/09/14 CXR(PA view): Nodular opacity at the left upper lung
+2015/09/14 Bronchoscope: A concentric hypoechoic peribronchial lesion, 2cm from the orifice.
+2015/09/14 Brain MRI: No definite metastatic lesion in brain and skull
+2015/09/15 Chest and abdomen CT scan: (1). Lung cancer, LUL, tentative staging T2aN0Mx, (2). Bilateral multiple hepatic cysts, (3). Multiple small gallbladder stones, (4). Compression fracture at L1
+2015/09/17 CT-guided LUL lung tumor biopsy 
+--Pathology: Adenocarcinoma, TTF-1(+), p40(-) and ALK(-), EGFR: c.2573T>G, p.L858R
+2015/09/18 Bone scan: Active bone lesions at right spine of scapula, and posterior aspect of right 5th rib
+2015/10/02 Chest MRI: Bone metastasis at the right scapular spine and acromion root, the right fifth posterior rib, the left eighth proximal rib and the T7 posterior element; a spiculated mass lesion at the left upper lung zone; small amount of left pleural effusion.
+※Non-small cell lung carcinoma, adenocarcinoma, left upper lobe, EGFR mutation, cT2aNoM1, stage IV, with bone metastasis
+[Treatment plans and effects]
+2015/10/12~Afatinib 40mg/tab 1# PO QDAC
+＊Effects: 2016/01/12 Brain and chest CT scan: Smaller LUL lung cancer and no definite metastatic lesion in brain and skull
+2016/04/06 CT scan: Lungs/large airways: Spiculated mass in LUL (2.8cm), compatible with smaller lung cancer, slightly enlarged
+2016/05/05~2016/05/11 Palliative radiotherapy to right scapular bony lesion(2250cGy/5 fractions)
+2016/07/12 CT scan: LUL lung cancer with bone metastasis, enlarged
+2016/08/08~2016/08/12 Palliative radiotherapy to left 8th rib and pedicle tumor (25Gy/5 fractions)
+2016/08/08~2016/08/12 Palliative radiotherapy to T7-T8 spine (20Gy/5 fractions, 2016/8/8~2016/8/12)
+2016/10/03 CT scan: LUL cancer with bone metastases, stable; right axillary lymphadenopathy.
+2016/10/20 Bone scan: Bone metastases at axial skeletons, mostly in progression, regressive change at right scapula 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左手 右手 
+雙腔導管留置：無  
+鼻胃管留置：無  
+氣管管路留置：無    
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：Nil
+日常生活功能分數：35
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：自己 配偶 
+出院規劃收案篩檢：高危病患 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the note in the record of admission. 
+醫師姓名 
+錢穎群 主治醫師 
+ 

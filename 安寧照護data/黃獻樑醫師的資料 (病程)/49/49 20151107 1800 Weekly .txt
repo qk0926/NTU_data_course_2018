@@ -1,0 +1,69 @@
+Brief Summary of this week    
+Family meeting with Dr.鄭 was held on 11/01, and poor prognosis had been informed. Her family decided not to receive renal replacement therapy. Fever curve gradually decreased under antibiotic treatment, and her blood pressure became more stable, so Levophed was gradually tapered. Oliguria and general edema were noted, so TPN was discontinued (D50W 500ml given instead). Rasitol 20mg Q6H was administered since 11/04. Cash-albumin supplement was also given. Her urine output increased dramatically, and general edema improved. FiO2 was tapered to 60% as well. Her consciousness improved to E4M5Vt. We'll keep supportive care, and if her condition was stable, transferral to RCC is considered. 
+
+Problem Assessment Plan 1
+Assessment 
+Mepem D15 (10/24-), pleural effusion: ESBL Kp
+Daptomycin D15 (10/24-), VRE sepsis
+Micafungin D13 (10/26-), Ascites: C. tropicalis
+--------------------------------
+Tazocin 10/9-10/12, 10/23-10/24
+Claforan 10/12-10/23
+Targocid 10/23-10/24
+Diflucan 10/25
+
+[Ventilator settings]
+PCV, IP 20, PEEP 12, RR 20, FiO2 60 %
+=> Vt: 320, ftot 29, MV 11.6, SpO2 99%
+
+Diet: NPO + D50W 500ml
+
+[Physical examination]
+Cons: E2M54T
+BS: diffuse crackles, prominent over the right side
+Heart: RHB, no audible murmur
+BoS: hypoactive BoS
+Extremity: grade II pitting edema
+
+[Important Study findings]
+9/28 Abdominal CT: Status post gastrojejunostomy; Suspected gastric lesion, may consider correlate with endoscopy; Mild swelling of the pancreatic head, may consider check IgG4 level; Wall-thickening of CBD with dilated biliary tree; Right hydronephrosis; Nodular infiltration of the omentum, suspected peritoneal carcinomatosis
+10/1 ERCP: one 1.5cm polypoid leison was noted at anastomosis site s/p biopsy => polypoid gastritis
+     Only orifice of anturm to pylorus can be seen but scope 
+     can't pass through it
+10/19 EUS-FNA: Gastric wall thickness cytology: suspicious adenocarcinoma; biopsy: only clot fibrin
+      Ascites cytology: adenocarcinoma, metastatic
+10/23 Abd. CT: Suspected wall-thickening at gastric antrum. Mild swelling of the pancreatic head; dilatation of biliary tree. Placement of a CBD stent; Mild right hydronephrosis. Placement of a right ureteral stent; Nodular infiltration of the omentum, suspected peritoneal carcinomatosis; New bilateral pleural effusion, more on left side. Ascites, Pericardial effusion.
+10/23 L’t thoracentesis: green color => highly suspected bile leak induced peritonitis and pleural effusion
+
+[Important Interventions and Newly Added Medications]
+10/2 PTCD for obstructive jaundice
+10/7 Antegrade biliary stent => 10/12 stent revision
+10/8 Right DBJ insertion for right hydronephrosis
+10/22 Remove PTCD due to fair internal stent function
+10/24 ETT + MV, right femoral CVC insertion
+10/25 Pigtail, left for pleural effusion
+10/26 try iNO for ARDS (1PM)
+10/29 off iNO
+11/04 Shift PTN to D50W, Rasitol 20mg Q6H
+11/06 rasitol 20mg BID
+
+[Important Consultation and Meeting Suggestions]
+10/24 GI鄭: 1) Stabilized hemodynamic status first, arrange PTCD placement after vital sign stabilized(Scheduled on 10/26) 2) NPO with IV nutrition support
+10/27 FM for hospice combined care
+
+[Important Family Decisions]
+10/24 Family: agreed on cash PPI and PTCD
+10/26 Family signed DNR 除藥院宣, 兩種升壓藥
+11/02 Family re-signed DNR, 不洗腎
+11/04 discussed with her family, and they agreed Levophed upper limit 20ml/hr
+11/06 Still hoped vasopressor if needed
+
+Plan 
+@ DNR 除藥院宣, 1種or2種升壓藥?
+1. Keep Mepem, Daptomycin and Micafungin
+2. Palliative nutrition use
+3. If breakthrough fever, shift Mepem to Cravit
+   (Pleural effusion culture: S.M.)
+4. Family still hoped to keep current management
+5. Fentanyl infusion for symptom relief
+6. consider RCC transfer

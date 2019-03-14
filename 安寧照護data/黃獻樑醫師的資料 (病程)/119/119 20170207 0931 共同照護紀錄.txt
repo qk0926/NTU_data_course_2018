@@ -1,0 +1,25 @@
+suspected right BP fistula
+fever under iced blanket
+Empyema culture: MDRAB(3+) and MRSA(2+)
+BP improved after CRRT
+
+Plan:
+1.Tienam+CMS and Zyvox
+2.Monitor chest tube function
+
+Pharmacist:
+CVVH use, adjust dose of medications accordingly.
+
+Nurse:
+1.CVVH use,脫水量 keep 250 mL/hr,Levophed 2.5 mL/hr cIF,觀察生命 徵象變化與抽血指數.
+2.右胸 chest tube 持續引流,air存,膿胸性狀引流,抗生素師施打,keep Q2H chest perrcusion and suction 促進痰液排出.
+
+RT:ETT: 12/26-
+<SETTING> PC/AC IP:16 RR:16 Ti:0.9 PEEP:6 FiO2:45
+chest tube airleak: 50-100ml
+fever
+2T, cough reflex: trace
+BP:114/40 under Levophed
+<RESPIRATORY PLAN>
+1. MV keep support and taper FiO2
+2. consult RCC if stable

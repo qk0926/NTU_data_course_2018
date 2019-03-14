@@ -1,0 +1,38 @@
+Dx:
+1. Shock R/O pneumonia
+2. Suspect acute decompensated heart failure, with pulmonary congestion and mixed respiratory failure, s/p ETT+MV(2017/7/22-)
+3. ACKD, KDIGO stage 2, suspect UTI or sepsis or cardiorenal syndrome
+4. Hyponatremia, suspect poor intake and fluid overload related, improving
+5. Non-sustained VT
+6. R/O ischemic stroke 
+
+<Dr>
+1. Continue Abx with Cravit
+2. Keep Midorin
+3. Continue low-dose Dopamine and keep Rasitol
+4. Keep Amiodarone 1# qd
+5. H/D once a week
+6. Consult RCC
+
+<Nurse>
+1. Ventilator with PCV mode support
+2. Monitor vital sign 
+3. Monitor urine output and body weight
+
+<Respiratory therapist>
+2017/8/09 weaning parameters
+          TV: 258 ml
+          RR: 29 BPM
+          VE: 7.5 L/MIN
+          RSI:112
+          PiMAX: -50 cmH2O
+          PeMAX: +50 cmH2O
+2017/8/10 failed SBT. labored breathe developed.
+prolonged intubation with mechanical ventilation.
+poor heart reserve.
+no attempted weaning.
+RCC transfer later.
+
+<Pharmacist>
+1.keep Cravit with HD dose.
+2.Keep low-dose dopamine and monitor urine output.

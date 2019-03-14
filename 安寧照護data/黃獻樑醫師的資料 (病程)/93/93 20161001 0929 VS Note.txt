@@ -1,0 +1,33 @@
+# New shock, suspect sepsis, complicated UTI related.
+# Urinary retention with fluid overload
+# UTI and pneumonia
+# Recurrent GI Bleeding with anemia and thrombocytopenia
+# peri-tracheostomy bleeding, prooved with Endoscopy.
+
+
+2016/10/01 09:20 BP:108/48
+2016/10/01 09:19 T:36.6 P:90 R:25
+2016/10/01 04:46 SpO2:100%(%,5L,VCR)
+2016/10/01
+Na:136 mmol/L
+K:2.6 mmol/L
+LacticAcid:3.03 mmol/L
+
+2016/10/01
+Blast:0.0 %
+Promyl.:0.0 %
+Myelo.:0.0 %
+Meta:0.0 %
+Band:0.0 %
+Seg:96.4 %
+Eos.:0.0 %
+Baso.:0.1 %
+Mono.:2.0 %
+Lym.:1.5 %
+Aty.Lym.:0.0 %
+PlasmaCell:0.0 %
+Normobl.:0 
+PS:¶È¨Ñ°Ñ¦Ò 
+
+Still hypokalemia
+aggressive supplmene.t

@@ -1,0 +1,8 @@
+Airway access: Endotracheal tube
+Weaning parameter: 8/9 Pi/Pe -50/+50, RSI 112 VT 258 RR 29
+SBT Screening: 8/10, failed after 35mins for dyspnea
+Weaning program: SBT trial
+Weaning process: T-P 1 hour BID
+
+. Daily SBT 
+. Pending family decision for if reintubation

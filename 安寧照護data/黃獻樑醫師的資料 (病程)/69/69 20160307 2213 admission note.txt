@@ -1,0 +1,270 @@
+2016/03/07 22:13 
+主訴(Chief Complaint) 
+Informant:Medical record
+Fever with productive cough for 4-5 days. Influenza A pneumonia with respiratory failure was diagnosed at 博仁醫院 and hypoxia became more and more severe in recent days (transfer from 博仁 with ECMO use). 
+病史(Brief History) 
+This 61 year old man lives alone and has history of type 2 diabetes mellitus. This time, he suffered from fever for about 4-5 days. It accompanied with cough with sputum production and intermittent consciousness disturbance. The symptoms became more and more prominent gradually. Therefor, he went to 永和耕莘醫院. Pneumonia with sepsis was diagnosed there. Because low blood pressure was noted, he was transferred to 博仁綜合醫院. 
+
+    At 博仁醫院 ER, Leukopenia (3/2 WBC: 730, Seg: 57.5%, Lym: 32.9%) with bilateral pulmonary infiltration were noted. Under the impression of community acquired pneumonia with suspected septic shock, he was admitted to the general ward of 博仁醫院 on 3/2 for further treatment and care. After admission, empirical Abx with Tazocin and oral Levofloxacin (500mg QD) were prescribed for severe CAP with septic shock. The influenza repid test was negative. However, for the clinical suspicion of influenza or legionella, the specimens for servey of legionella and influenza were sent to the CDC. Intravenous dopamine was also given. Oral Tamiflu was added for suspected influenza viral infection since 3/3, and later, Influenza virus type A RNA PCR was positive from the CDC report. The chest CT on 3/3 showed consolidation with air-bronchogram at all 5 lobes of bilateral lungs (R't > L't)> Besides, honey-combing was also noted, with air cysts, bronchiectasis and interlobular septal thickening. Acute on chronic pneumonitits was favored. Underlying interstitial lung disesase such as usual intestitial pneumonia (UIP) / idiopathic pulmonary fibrosis (IPF) or nonspecific interstitial pneumonia (NSIP) cannot be excluded. Because of severe dyspnea and hypoxic respiratory failure, intubation was done on 2016/3/3. Due to high fever, oral Levofloxacin was switched to IF Ciprofloxacin . On 3/7, because hypoxia was still noted under FiO2 100% (SpO2 around 85-90%), ECMO was inserted at 博仁醫院 and the patient was transferred to our 3C1 ICU on 3/7 for further care and treatment. 
+
+Family History: No contributory
+Medication Allergy:UnClear  親屬描述 2016/03/07
+Medication ADR:unknown
+Allergy to Medical Device and Materials:UnClear  親屬描述 2016/03/07
+Current Medication: See above
+NTUH: Nil
+Other: Unclear
+中草藥: Unclear
+保健食品: Unclear
+Past Medical History: See above
+Hospitalization: Unclear
+Past Surgical History: Unclear
+Travel History:Unclear 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:高中
+職業:自由業
+宗教信仰:佛教
+婚姻狀態:離婚
+使用語言:國語 台語 
+口述血型:，RH:，輸血反應:
+抽煙:有，煙齡:30年，10支/天
+
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:麻醉未醒
+認知功能:無法評估 
+精神情緒狀態:無法評估  
+安全問題:有 其他 管路安全及危險性跌倒
+睡眠形態:異常 使用藥物 
+
+Nutritional Screen
+攝食情形:
+排便狀態:異常
+排便異常狀態:其他
+其他排便異常狀態:尚未解便
+BMI:26.86
+
+Fall Risk Assessment
+總分:10
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1. Systemic: weight loss(-), easy-fatigability(-), night sweats(-)
+2. Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3. HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4. Cardiovascular:  exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5. Respiratory: dyspnea(+), cough(+), chest pain(-), hemoptysis(-), productive cough (+), pleuritic chest pain(-)
+6. Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7. Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8. Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9. Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH:167 cm   BW:74.9 kg
+T:37.1 P:107 R:25
+BP:158/72 mmHg
+Pain:0
+
+Neurological Examination:
+. Consciousness: Drowsy due to sedation for ECMO use.
+. Muscle power: can't evaluate
+. Gait: can't evaluate
+
+‧Head-Eye-ENT 
+grossly normal, conjunctiva: not pale, sclera: anicteric
+Pupil: isocoric, 3mm/ 3mm
+Light reflex: L/R: +/+, EOM: full and free
+
+‧Neck
+Jugular vein engorgement(-)
+Thyroid goiter(-)
+Meningismus: Kernig sign(-); Brudzinski sign(-)
+Carotid bruit(-)
+
+‧Chest
+Thoracic cage contour: symmetric
+Vocal fremitus and expansion: symmetric
+Percussion: resonant
+Breathing sound: clear
+Crackles(+) wheezes(-)rhonchi(-) stridor(-)
+
+‧Heart
+Heart beat: regular, Murmurs(-)
+LV lift(-) RV heave(-)
+Increased cardiac size by percussion(-)
+Adventitious sounds (-)
+
+‧Abdomen
+Flat & soft
+Superficial vein engorgement(-) Protruded umbilicus(-)
+Bowel sound: Normoactive
+Tenderness(-), rebound tenderness(-)
+Liver and spleen: impalpable
+Murphy's sign(-)
+
+‧Extremities
+Freely movable
+Pitting edema (-) ; Cyanosis (-)
+Peripheral pulsation( Right side/ Left side ):
+Brachial artery (++/++), Radial artery(++/++),
+Femoral artery(++/++), Dorsalis pedis artery(++/++).
+
+‧Back
+Flank knocking tenderness(-)
+
+‧Skin
+Abnormal pigmentation(-)
+Petechiae(-) Purpura(-) Ecchymoses(-) Telangiectasia(-)
+Rash(-) Plaque(-)
+Wound(-) Ulceration(-) Crust(-)
+
+‧Lymphadenopathy(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:YM***********
+
+群組:
+
+               Free Ca(急重症自  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                     
+time/item      (mmol/L)      (mmol/L)      (mmol/L)     
+1050307 [1701] 1.14          2.33          157.0        
+1050307 [1704] 1.14          2.41          156.2        
+1050307 [1726] 1.06          2.24          145.8        
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050307 [1701] 7.449         29.4          270.6         20.6          -3.7         
+1050307 [1704] 7.409         40.2          38.7          25.6          0.7          
+1050307 [1726] 7.488         32.6          62.8          25.0          1.3          
+               SO2          
+time/item      (%)          
+1050307 [1701] 99.9         
+1050307 [1704] 73.6         
+1050307 [1726] 93.6         
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050307 [1728] 88           
+*********檢驗室:RL***********
+
+群組:General BioChemistry
+
+               UA            ALB           ALT           LDH          
+time/item      (mg/dL)       (g/dL)        (U/L)         (U/L)        
+1050307 [1734] 1.5           2.5           9             599          
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050307 [1734] 18.62         4.07          12.6          36.1          88.7         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050307 [1734] 31.0          34.9          61            15.3          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050307 [1734] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050307 [1734] 95.5          0.0           0.1           0.3           4.1          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050307 [1734] 0.0           0.0           0             僅供參考         
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Cl           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1050307 [1734] 19.1          0.7           159           2.5           120          
+               Ammonia N     T-BIL         Ca            Mg            P            
+time/item      (μmol/L)      (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)      
+1050307 [1734] 50            3.58          1.92          0.99          <1.0         
+               AST           LacticAcid    CK            Troponin I   
+time/item      (U/L)         (mmol/L)      (U/L)         (ng/mL)      
+1050307 [1734] 34            4.59          54            0.028        
+群組:
+
+               CK-MB        
+time/item      (ng/mL)      
+1050307 [1734] 0.833        
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1050307 [1734] 13.4          37.3          1.27         
+群組:Yes
+
+               hsCRP         D-Dimer       FDP           Fibrinogen   
+time/item      (mg/dL)       (μg/mL FEU)   (μg/mL)       (mg/dL)      
+1050307 [1734] 20.35         25.33         113.7         361.3        
+*********檢驗室:OP***********
+
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1050307 [1748] 10-20         0-2           0-2           -             -            
+               Bacteria      Mucus(S)      Others(S)    
+time/item      (*)           (*)           (*)          
+1050307 [1748] +             -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1050307 [1748] 1.014         6.0           20 ( +/- )    -             1+           
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    Color        
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1050307 [1748] 2+            ≦1.5          -             -             Yellow       
+               Turbidity    
+time/item      (*)          
+1050307 [1748] -            
+群組:
+
+               WBC (C)      
+time/item      (*)          
+1050307 [1748] - 
+檢查紀錄(Examination Report) 
+Nil 
+影像報告(Imaging Report) 
+Nil 
+病理報告(Pathology Report) 
+Nil 
+臆斷(Tentative Diagnosis) 
+1. Community acquired pneumonia (3/3 Influenza virus type A RNA PCR: positive) with acute hypoxic respiratory failure and septic shock, status post ETT+MV (2016/3/3-), complicated with acute respiratory distress syndrome(ARDS), status post V-V ECMO (2016/3/7-).
+2. Hypokalemia. 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+1. Keep mechanical ventilation and V-V ECMO support.
+2. Give NIH Tamiflu (high dose) 2# Q12H x 5 days. Keep Tazocin use.
+3. Give Fetanyl, Anxicam, and Nimbex for ECMO use.
+4. Closely monitor patient's vital signs, I/O, Lactic acid, DIC profile, and CBC. Give blood transfusion if indicated.
+5. Pursue blood culture and sputum culture reuslt.
+5. Inform patient's family about the critical condition of the patient.
+
+Treatment Goal:Hypoxia improved. V-V ECMO was weaned smoothly and then mechanical ventilation. 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左腹股溝 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.5mm 
+胃造廔口：無  
+尿管留置：有 Two way Foley 16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：葉克膜導管
+日常生活功能分數：0
+預期出院後居住場所：獨居 
+預期出院後主要照顧者：自己 
+出院規劃收案篩檢：高危病患 獨居老人 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment made by the resident. 
+醫師姓名 
+黃俊凱 主治醫師 

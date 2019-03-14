@@ -1,0 +1,4 @@
+CXR: RUL pneumonia patch
+S/C this time: pending
+Keep MV support for days and F/U CXR
+Start SBT

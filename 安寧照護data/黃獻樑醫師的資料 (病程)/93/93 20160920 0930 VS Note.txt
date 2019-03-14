@@ -1,0 +1,29 @@
+# Urinary retention with fluid overload
+# UTI and pneumonia
+# Recurrent GI Bleeding with anemia and thrombocytopenia
+
+2016/09/20 08:25 Pain score:0
+2016/09/20 08:17 SpO2:99%(%,5L,VCR)
+2016/09/20 08:17 BP:95/44
+2016/09/20 05:43 GCS:E4M5VT
+2016/09/19 21:04 T:36 P:80 R:17
+2016/09/19
+O.B.(C):-   *
+Sp. Gr.(C):1.014   *
+pH:5.0   *
+Protein(C):20 ( +/- )   mg/dL
+Glu.(C):-   mg/dL
+Ketone body (U):-   *
+Urobil.(C):¡Ø1.5   mg/dL
+Bil.(C):-   *
+Nitrite(C):-   *
+WBC esterase (U):3+   *
+Color:Yellow   *
+Turbidity:+   *
+2016/09/20
+NT-pro BNP:4513   pg/mL
+
+Plan:
+Please keep I/O balance, guided with BW.
+Watch out BP, no tachycardia at present.
+new sepsis, foci: urosepsis. (complicated UTI)

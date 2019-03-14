@@ -1,0 +1,18 @@
+. CRKP, PsA pneumonia
+. MDRAB bacteremia
+. Community acquired pneumonia (3/3: Influenza virus type A RNA PCR: positive) with acute hypoxic respiratory failure and septic shock, status post ETT+MV (2016/3/3-), complicated with acute respiratory distress syndrome(ARDS), status post V-V ECMO (2016/3/7-)
+. Diabetes mellitus, type 2
+
+CXR: bilateral lower lung dense consolidation
+Still high ECMO dependent with fluctuated O2
+Full ECMO support, MV FiO2 100%
+NO inotropic
+Low grade fever
+
+. Keep Solucorted 100 mg QD
+. Keep strong abx (Colistin, Mepem, Anidulafugin), prolong colistin use for S/C CRKP and PsA
+. keep I/O balance
+. Inform grave prognosis
+. Component therapy as needed
+. Aggrasive chest care
+. Contact hospice if family agreed

@@ -1,0 +1,37 @@
+1. Hypercapnic respiratory failure, suspect hospital acquired pneumonia related, status post ETT+MV (2016/06/25-)
+2. Out-of-hospital cardiac arrest, acute coronary syndrome with atrioventricular block related, status post cardiopulmonary resusitation for about 12 minutes, with return to spontaneous circulation, status post endotracheal intubation and mechanical ventilation (2016/6/14-2016/6/18)
+3. Sick sinus syndrome, status post Biotronik, MRI compatible DDDR (2016/6/22)
+4. Coronary artery disease, triple vessel disease, status post percutaneous occlusive balloon angioplasty with stenting to left anterior descending artery, left circumflex artery and right coronary artery, with insignificant in-stent re-stenosis of left anterior descending artery and left circumflex artery, and PD-PL bification to PLA proximal 70% stenosis of right coronary artery, status post percutaneous occlusive balloon angioplasty with stenting to right coronary artery on 2011/10/4, with ACS and cardiac arrest, s/p POBAS to RCA on 2016/6/15
+5. End stage renal disease, under maintenance hemodialysis on QW1,3,5 (2015/3/24-)
+6. Type 2 diabetes mellitus
+7. Congestive heart failure NYHA functional class III
+8. Hypertension
+9. Dyslipidemia
+10. Peripheral arterial occlusive disease
+11. Chronic obstructive pulmonary disease
+12. Old cerebrovascular disease 
+13. Suspect UGI bleeding
+14. Suspect rhabdomyolysis due to statin use
+
+[ventilator setting]
+PSV
+PS:10
+PEEP:6
+FiO2:30
+
+2016/07/05 12:00 T:36.0 P:89 R:21
+2016/07/05 12:00 BP:115/38
+2016/07/05 12:00 SpO2:99%(%,L,)
+
+病人眼睛可對焦，對於問話可點頭及搖頭
+主要會談對象:大兒子(排行第四)、小兒子(排行第六)
+
+1.撤除維生醫療:目前已簽署「末期病人終止或撤除維生醫療同意書」及DNR(於今日新增拒絕洗腎)，給予原團隊建議步驟以供參考，包含先與呼吸治療師合作調整呼吸器設定，擬拔管後觀察病人情形調整止喘及鎮靜藥物使用。住院醫師與病人小兒子討論後，暫訂明日下午撤除管路。
+
+2.家人不捨:兩位兒子於會談過程幾度落淚，不捨病人那麼辛苦，也擔心自己的決定是錯的(包含當初決定要插管、目前要撤除)，表示這過程「很煎熬」，予傾聽並同理其感受，肯定家人尊重病人之選擇,同理不捨,非自己決定病人生命長短,肯定小兒子對母親的愛。
+
+3.家庭關係之修復:小兒子提到二兒子(排行第五)與病人的相處過程，住院期間也從未探視病人，覺得對他很失望，予以傾聽，提醒聯絡二兒子，讓他知道病人的狀況及目前的醫療決策，求過程更圓滿。
+
+4.後事準備:院宣，衣服已帶來醫院；大兒子及小兒子表示已做好心理準備:撤除維生醫療後病程會進展很快，若還有一小段生存期則考慮轉至一般病房或安寧病房，已協助候床。
+
+以上已與原團隊住院醫師交班。

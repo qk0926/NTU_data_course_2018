@@ -1,0 +1,93 @@
+Brief Summary of this week    
+This month, TP 1hr passed on 7/1 with borderline tachypnea. PTCCD was removed on 7/3 due to dysfunction. Hospice doctor visted the family on 7/3 for hospice combine care and explanation of renal hospice, family currently wish keep HD. On the other hand , hematochezia 400-600ml was noted on 7/4 morning.  Component therapy and guaze packing was applied immediately. CTA was negative for bleeder and bleeding stopped in the afternoon. Radiologist suggest hold angiography because low chance of positive finding. We have informed family the difficulty of management of lower GI bleeding (persistent bleeding, no active bleeder at CTA, and difficulty to tolerate bowel prepare for colonoscopy). After discussion, we contacted GS doctor to explain the benefit and risk for  analscope and possible surgery. However, multiple comorbidity, grave prognosis, and possible re-bleeding due to poor renal function was also explained by GS doctor. Family has discussed with each other and decided not to receive anal scope and surgery. Under persistent gauze packing and decreased BUN level, bleeding stopped on 7/8.
+
+On the other hand, fever was noted again on 7/4. Mepem was empirically started. The fever ckurve gradually improved. 
+
+
+Assessment 
+[Today event]
+-TP failed desaturation
+-No more active bleeding after remove gauze
+-Try feeding tomorrow
+
+[Abx]
+Mepem        7/4-   Empirical for VAP
+--------------------------------------
+Cubicin      6/24-7/6  for VRE bacteremia
+Ceftazidime  6/29-7/3  For S/C: BCC and B/C: E. coli
+Targocid 6/23-6/24
+Tazocin 6/20-29  for E. coli bacteremia
+
+[Culture]
+6/20 S/C: mixed flora
+     U/C: neg
+     B/C: E. coli x2
+     bile culture: Escherichia coli 1+, VRE 1+
+6/20 flu rapid test: neg
+     PTCD drain:No anaerobic pathogen 
+6/22 B/C: VRE x2
+6/23 S/C:Normal mixed flora 
+     CVC tip:No aerobic pathogen 
+6/24 stool WBC: not found, culture:neg
+     C. difficile toxin A&B test: Negative 
+6/26 S/C: Burkholderia cenocepacia few 
+     B/C(AL/PB): Neg*2
+[PE]
+Cons: drowsy but arousable
+Chest: bilateral coarse, dependent part crackles
+Abdomen: distended, RUQ tenderness(-), rebound tenderness(-), Murphy signs(-)
+Heart: regular heart beat
+Ext: generalized edema 2+
+
+[Vasopressor] 
+Nil
+
+[Ventilator Setting]
+PSV
+PS/PEEP: 10/8, FiO2: 35%
+-> SpO2 98%, TV 440, MV 5.6
+--------------------------------
+6/23 TP 1hr: passed
+6/27 TP 1hr: passed
+6/28 TP 40 mins: SOB
+6/30 TP 40 mins: SOB
+7/02 TP 1hr: mild respiratory distress
+7/06 Tp fail
+
+[Feeding]
+NPO
+
+[Study]
+2016/4/7 UCG: EF 60.9%, LVIDD/LVIDS: 52/35, IVSD/LVPWD: 1.2/1.0, LA: 38, AR/MR/TR/PR: ++
+2016/5/4 PFT: FEV1/FVC: 63.4%, FEV1: 62.3%, FVC 68.2% 
+6/20 chest CT: Mild bronchitis in bilateral lower lobes.
+6/20 A+P CT: Distal common bile duct stone with biliary tree dilatation. Gallbladder stones with acute cholecystitis
+6/21 on BiPAP for impending respiratory failure
+6/20 PTCCD
+6/26 brain CT: leukoaraiosis and old insult. 
+6/26 EEG: moderate diffuse cortical dysfunction
+6/29 bedside echo: minimal ascites, not distended GB
+7/03 remove PTCCD 
+     bedside echo : minimal pleural effusion , high risk to tapping 
+7/04 A+P CT: No active bleeder found
+
+[Important consultation]
+6/26 Neuro: multifocal myoclonus, suspect toxic/metabolic encephalopathy-related 
+
+[Important patient's and family's decision]
+6/22 DNR 不電不壓要洗腎
+
+Plan 
+2. Hematochezia
+3. Acute kidney injury (baseline Cr: 1.0-1.1 in 2017/3/21), AKIN stage III, sepsis related, s/p HD (6/24-)
+-Keep Mepem empirical for VAP
+- try feeding if no bleeding, and increase if tolerated
+-Keep regular HD QW 135, set DW 62kg with adjustment
+-Keep Midodrine and albumin for IDH
+-Keep Hb >9 or even >10
+-Intensive repletion of Hb and albumin
+
+4. For pAf
+-Keep Betaloc 
+-add warfarin later (NOAC not suitable due to reanl failure)
+-Inform embolic risks

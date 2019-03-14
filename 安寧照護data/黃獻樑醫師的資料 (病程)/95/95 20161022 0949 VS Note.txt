@@ -1,0 +1,14 @@
+# Hypoxic-ischemic encephalopathy with increased intra-cranial pressure
+# Lactic acidosis, suspect tissue hypoxia related
+
+E1VtM1, no light reflex, no cough reflex
+FiO2= 0.25 PEEP 3
+SBP= 110 on levophed
+Perfusion CT on 10/20: Hypoxic ischemic encephalopathy. Suspected infarct in brain stem. IICP with delayed intracranial arterial flow.
+ 
+P:
+As needed DDAVP according to U/O
+Mannitol Q6H
+Monitor electrolye levels
+Rocephin
+F/U blood osmolality

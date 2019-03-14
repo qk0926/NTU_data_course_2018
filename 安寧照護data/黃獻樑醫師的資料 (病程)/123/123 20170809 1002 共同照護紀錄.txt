@@ -1,0 +1,53 @@
+Dx:
+1. Out-patient cardiac arrest, suspect arrhythmia or other cause related, status post CPCR for 11 mins with ROSC, status-post endotracheal intubation and mechanical ventilation(2017/7/30-), status-post therapeutic hypothermia (2017/7/30-7/31)
+2. Metabolic acidosis, r/o ketoacidosis
+3. Susp atrial flutter with rapid ventricular response
+4. Susp. adrenal insufficiency, secondary?
+5. Type 2 diabetes, without control
+
+<Dr>
+1. Abx with Maxipime
+2. Pursue formal EEG result
+3. Poor neurological prognosis
+4. Arrange family meeting
+
+<Nurse>
+1. Keep ventilator support
+2. Monitor vital sign and neurogical change 
+3. Poor digestion, keep feeding pump use  
+4. Family support
+
+<Dietitian>
+S:
+Feeding pump use.
+O:
+HT:173 IBW:65.8 BW:82.3 BMI:27.5 ABW:78
+2017/08/08
+BUN:33.4 mg/dL eGFR:190.3 mL/min/1.73 m^2 CRE:0.5 mg/dL
+AST:21 U/L T-BIL:0.45 mg/dL
+Na:146 mmol/L K:3.9 mmol/L
+F/U Brain CT:
+Hypoxic-ischemic encephalopathy with diffuse brain edema, herniation, and hydrocephalus.
+Diet order:
+8/1  Osmolite 1500kcal
+8/2 Glucerna 1500kcal
+8/3 Nu-pep 600kcal
+Goal calorie:2000-2400kcal/day
+protein requirement:95-120g/day
+Actual energy intake:480-571kcal/day
+Actual protein intake:24-29g/day
+A:
+Obesity.
+Altered GI function:gastric empty is delay.
+P:
+Keep pressent diet.
+
+<Pharmacist> 
+keep current medical treatment.
+
+<Respiratory therapist>
+2T.
+stationary in general condition.
+no spontaneous respiration noted.
+keep full vent support.
+tracheostomy?

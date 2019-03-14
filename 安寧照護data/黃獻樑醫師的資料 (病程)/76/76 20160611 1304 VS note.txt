@@ -1,0 +1,16 @@
+Assessment:
+Fever was noted. Sputum culture on 6/4 showed Pseudomonas aeruginosa. Tatumcef was given. Hepatitis survey showed negative. On 6/6 try weaning failed because of no drive. On 6/7 CXR showed normal. On 6/8 fever subsided but occured again on/6/10.
+ 
+2016/06/11 12:00 T:36.4 P:59 R:9
+2016/06/11 12:00 BP:146/70
+2016/06/11 12:00 GCS:E1M2VT
+
+Plan:
+1.Keep SBP<160mmHg
+2.Keep I/O balance with N/S
+3.Tatumcef was given.
+4.Give Voren if fever
+5.After explaining to the family, consider tracheostomy.
+6.Remove ICP monitor on 6/11 
+7.Follow up CT on 6/12
+8.Plan to discharge on next Monday

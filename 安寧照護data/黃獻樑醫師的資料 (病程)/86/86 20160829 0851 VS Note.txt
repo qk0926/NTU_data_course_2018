@@ -1,0 +1,58 @@
+1. pneuomonia with respiratory failure s/p intubation
+2. shock status, susp septic origin, on inotropic 
+3. CNS lymphoma s/p R/T, midline shift to left with susp right uncal herniation, chronic? 
+4. seizure
+5. borderline ST elevation over inferior leads, MI? 
+6. VRE isolation 
+
+fever and productive cough for days
+visited ER where hypercapnic respiratory failure was noted
+intubation was performed on 8/22 morning
+low dose of inotropic use=>off
+occasional bradycardia without hypotension=>IICP?
+disaggrement between family about further plan 
+family considering referral back to VGH
+
+2016/08/29 06:24 SpO2:99%(25%,L,VCR)
+2016/08/29 06:24 BP:119/53
+2016/08/29 06:23 T:36.4 P:86 R:16
+
+BUN:39.8 mg/dL
+CRE:0.5 mg/dL
+eGFR:167.6 mL/min/1.73 m^2
+K:4.3 mmol/L
+T-BIL:0.22 mg/dL
+AST:21 U/L
+Ammonia N:17 £gmol/L
+Na:141 mmol/L
+Mg:0.91 mmol/L
+
+2016/08/29
+hsCRP:0.57 mg/dL
+
+2016/08/29
+WBC:5.14 K/£gL
+RBC:3.03 M/£gL
+HB:10.0 g/dL
+HCT:30.8 %
+MCV:101.7 fL
+MCH:33.0 pg
+MCHC:32.5 g/dL
+PLT:155 K/£gL
+RDW-CV:16.6 %
+PS:- 
+2016/08/29
+Troponin-T:141.0 ng/L
+
+one episode of bradycardia on the weekend --> brain CT
+
+CXR: increased RUL infiltration
+2016/08/26 CT With/Without Contrast-Brain (V1)
+Diffuse brain swelling, hydrocephalus, masses at right basal ganglia-thalamus to brainstem. Recurrent tumors and CSF seeding are considered.
+
+poor prognosis and high risk for sudden cardiac arrest were informed
+
+Plan: 
+1. keep Rocephin for 10 days
+2. consult NS and radio-oncologist
+3. inform his son of his possibility of sudden death

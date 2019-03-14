@@ -1,0 +1,78 @@
+Brief Summary of this week    
+Followed thyroid and adrenal functions on 10/24 were both below normal range, and Solu-cortef 50 mg q12h was begun on 10/24. Her BP was more stable after Solu-cortef and we tapered the dose of Levophed. Neurologist was consulted on 10/25 and they suggested we arrange EEG and SSEP for prediction of prognosis. CT was arranged on 10/26 for brain edema follow-up, revealing severe brain edema with compression of brainstem. EEG and SSEP on 10/26 showed absence of cortical activities and of response at brachial SEP, neck SEP and cortical SEP from bilateral median nerves. Possible sudden death and poor neurologic outcome were informed to her husband again. Midodrine 25 mg 1# bid was added on 10/28 for hypotension. Levophed was gradually tapered and then discontinued on 10/28. Her heart rate was decreasing from ~100 to ~60 bpm, and we will follow her thyroid function next W1. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+HIE D11
+
+[Abx] Abx free now
+Acyclovir   (10/22-10/26)    Suspect VZV over Lt thigh
+Ceftriaxone (10/20-10/26)    Empirical
+
+[ventilator] 
+PCV FiO2 25% IP 14 PEEP 3 RR 13->12
+-> RR 12, Vt 422, MV 5
+
+[Inotropes] Levophed 16mg/250ml off
+midodrine 2.5mg BID
+
+[Important study findings]
+10/19 urine drug screening: all negative
+      fT4/TSH 1.05/0.476, cortisol/ACTH 43.4/293 -- both WNL
+      brain CT: Diffuse brain edema and hypodensity at bilateral basal ganglia, r/o hypoxic-ischemic encephalopathy.
+10/20 brain perfusion CT: Hypoxic ischemic encephalopathy. Suspected infarct in brain stem. IICP with delayed intracranial arterial flow.
+      blood Osm: 326mOsm/Kg, UOsm: 138 mOsm/Kg, c/w diabetes insipidus
+10/24 fT4/TSH 0.716/1.41, cortisol/ACTH 1.93/7.55 -- both L
+10/26 brain CT: severe brain edema with compression of brainstem
+      EEG: no discernible cortical activities, c/w HIE
+      SSEP: absence of response at brachial SEP, neck SEP and cortical SEP from bil median/tibial nerves
+10/31 fT4/TSH
+
+[Important intervention and newly added medications]
+10/19 Local clinic: 雷射除毛,電波拉皮,超音波溶脂手術 under IVGA
+          ETT+MV for airway protection
+          NTUH: Mannitol for IICP and HIE
+10/20 Hypothermia
+10/20 AM7:30 Esophageal temperature monitor reinsertion, GCS E1VtM4, pupil 2.5/2.5mm, LR slur/slur
+10/20 AM9:00 E1VtM1, pupil dilated, LR -/-
+10/20 3% saline 100ml q6h run 30min for IICP
+10/21 AM 7:30 start rewarm, BT at target in the afternoon
+10/22 complete maintenance stage of hypothermia
+
+[Nutrition] 10/24 alb 3.7 g/dL  (supp. 10/28-30)
+NG, 成人元素配方, 1卡/cc, 熱量:300, 免疫增 for poor digestion
+aminofluid 1000ml/day
+
+[Important consultation]
+10/19 Neuro: hypoxemic-encephalopathy, rule out propofol sedative effect. Arrange EEG.
+10/20 Neuro: Highly suspected HIE related IICP, try mannitol and hypothermia.
+10/20 NS: OP not indicated. Suggest medical treatment for IICP.
+10/20 NS (formal): arrange CT perfusion scan; decompressive craniectomy would provide minimal help in terms of recovery of con's given loss of brainstem reflex now; may add saline 3% 100ml (drip 30min) q6h for worsening IICP
+10/25 Neuro: (1) EEG & SSEP may help predict the prognosis (2)
+      monitor GCS, pupil size and light reflex (3) keep head
+      elevation, pCO2 < 30, keep mannitol
+
+[Important patient's and family's decisions]
+10/20 DNR 不電不壓除藥
+10/21 院宣
+
+Plan 
+1. continue mannitol 100ml q6h for IICP
+ -> may lower the dose if progression of renal failure
+ -> keep head elevation 30 degrees + hyperventilation for IICP
+   (goal pCO2 30–35 mmHg) (Stroke 2013;44:870-947)
+2. Informed poor neurological outcome to her family (parents and husband), his husband signed DNR permit (不電不壓除藥)
+ -> informed possible sudden death due to compression to brainstem
+3. correct electrolyte imbalance and control I/O
+ -> PRN ddAVP for DI
+4. keep current NG trickle feeding 5ml/hr, titrate as tolerated
+ -> elemental diet for poor digestion
+    aminofluid 1000ml/day as supportive IVF; goal: 1000kcal/day
+ -> may consider ND tube insertion for longterm care next week
+5. solu-cortef 50mg Q12H for adrenal insufficiency
+ -> midodrine 25mg 1# bid for hypotension
+ -> Levophed support to keep SBP >=100 mmHg, slowly tapering
+6. F/U thyroid function next W1
+7. may increase the PEEP for atelectasis if desaturation

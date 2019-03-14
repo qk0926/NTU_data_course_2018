@@ -1,0 +1,540 @@
+2016/01/15 20:31 
+主訴(Chief Complaint) 
+Informant:patient and chart
+General fatigue and decreased body weight recently 
+病史(Brief History) 
+This 61 y/o male had:
+1. Left side lower buccogingival sulcus tumor, severe dysplasia, status post excisional biopsy
+on 2014/10/17, margin(+), status post wide excision of left side lower buccogingival sulcus
+tumor on 2014/10/27
+2. Esophageal cancer, squamous cell carcinoma, middle esophagus, cT3N0M0, status post
+CCRT (2013/07/04-08/22,26Gy/13fx)
+3. Hypopharyngeal cancer, squamous cell carcinoma, left pyriform sinus, with esophageal inlet involvement, status post CCRT (2013/07/04-2013/08/22,70Gy/35fx) with rcT1, operated; with /recurrence, status post CO2 laser excision under laryngomicroscope on 2015/1/21, 2015/4/22, 2015/8/3, status post UFUR (2015/01/27~2015/08/21)
+4. Tongue cancer, squamous cell carcinoma, pT1N0M0 stage I, status post wide excision on
+2010/09/21, recurrence, rpT1N0M0 stage I, status post excisional biopsy on 2013/7/5
+5. Oral cavity cancer, squamous cell carcinoma, right palatal-gingiva, pT2N0M0 stage II, status
+post wide excision and right supraomohyoid lymph nodes dissection on 2010/03/16
+6. Gingival cancer, left upper, squamous cell carcinoma, pT4N0M0 stage IVA, status post wide
+excision+ left modified neck dissection + ALT flap reconstruction on 2005/3/28, status post re-excision on 2005/4/19, status post radiotherapy(44Gy,22fr, 2005/5/15-6/24)
+
+  He was regularly followed up in Dr.王成平's clinic for his hypopharyngeal cancer and other cancer status as the abvoing. However, genearl malaise and decreasing body weight occured. He is 40.8kg currently. This time, he was admitted for supportive care. 
+
+Family History:
+Medication Allergy:No  病人自述 
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  病人自述
+Current Medication:
+NTUH:
+(管4) Ultracet tab /tab 1 tab QID PO 28 days
+MgO 250 mg/tab 1 tab TID PO 28 days
+栓 Bisacodyl Supp 10 mg/pill 1 pill PRN R 28 days
+甘草 200 Compound Glycyrrhiza Mixture 200 mL/btl 10 mL QID PO 7 days
+(5g) 眼 Tetracycline Oph Oint 10 mg/1 g 1% 5 g/tube 1 XX AS ORDER D 7 days
+Other:nil
+中草藥:nil
+保健食品:nil
+Past Medical History:nil
+Hospitalization:
+入院日期:2016_01_05 出院日期: 診斷:Esophagus cancer
+入院日期:2015_12_25 出院日期:2016_01_07 診斷:Malignant neoplasm of upper gum
+入院日期:2015_08_02 出院日期:2015_08_07 診斷:Hypopharynx cancer
+入院日期:2015_04_21 出院日期:2015_04_25 診斷:Malignant neoplasm of postcricoid region of hypopharynx
+入院日期:2015_01_20 出院日期:2015_01_23 診斷:Hypopharynx cancer
+入院日期:2014_10_26 出院日期:2014_10_29 診斷:Gingival cancer
+Past Surgical History:
+2014_10_17  Excisional biopsy of left gingival leukoplakia
+2014_10_27  Wide excision of left side lower buccogingival sulcus tumor
+2015_01_21  Laryngomicrosurgery + CO2 LASER excision
+2015_04_22  CO2 laser laryngomicrosurgery hypopharyngeal tumor excision
+2015_08_03  CO2 laser excision of posterior pharyngeal wall tumor under Laryngomicroscope
+2015_12_28  Gastrostomy
+Travel History:nil 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:高中
+職業:無
+宗教信仰:無
+婚姻狀態:離婚
+使用語言:國語 台語 客家語 
+口述血型:A，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有
+喝酒:沒有，已戒酒:15天
+檳榔:沒有，已戒檳榔:10年
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:警醒
+認知功能:正常 
+精神情緒狀態:正常  
+安全問題:有 其他 跌倒
+睡眠形態:正常  
+
+Nutritional Screen
+攝食情形:佳，攝食75%
+排便狀態:正常
+BMI:15.39
+
+Fall Risk Assessment
+總分:7
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+Review of System (■: the finding is positive)
+1.Systemic:
+□ fever, ■ fatigue, □ change of appetite, ■ body weight loss
+2. Skin:
+□ skin rash, □ petechiae, □ purpura, □ itching, □ redness
+3. HEENT: 
+□ headache, □ vertigo, □ dizziness
+□ neck mass, □ neck tenderness, □ nuchal pain 
+□ blurred vision, □ diplopia, □ strabismus, □ ocular pain, □ epiphora
+□ hearing loss, □ otalgia, □ otorrhea, □ tinnitus, □ aural fullness, □ vertigo, □ autophonia, □ epiphora
+□ nasal obstruction, □ rhinorrhea, □ post nasal drip, □ epistaxis, □ nasal allergy, 
+□ nasal itching, □ hyposmia, □ anosmia, □ sneezing, □ snoring, □ facial pain, □ foul odor
+□ hoarseness, □ voice weakness, □ saliva drooling, □ lumping throat sensation,
+□ sore throat, □ odynophagia, □ dysphagia, □ throat numbness, □ easy choking
+□ gum bleeding, □ trismus, □ oral tumor
+4. Cardiovascular: 
+□ chest tightness, □ orthopnea, □ syncope, □ palpitation, □ intermittent claudication
+5. Respiratory: 
+□ dyspnea, □ cough, □ sputum, □ chest pain, □ hemoptysis
+6. Gastrointestinal: 
+□ anorexia, □ nausea, □ vomiting, □ heart burn, □ acid regurgitation, □ abdominal fullness, □ hunger pain, □ mid-night pain, □ constipation, □ diarrhea, □ melena, □ change of bowel habit, □ small caliber of stool, □ tenesmus, □ flatulence
+7. Urogenital:
+□ flank pain, □ hematuria, □ urinary frequency, □ urgency, □ dysuria, □ hesitancy, □ small stream of urine, □ impotance, □ nocturia, □ polyuria, □ oliguria
+8. Musculoskeletal:
+□ bone pain, □ myalgia, □ arthragia, □ weakness 
+9. Metabolic: 
+□ heat intolerance, □ cold intolerance, □ thirsty 
+10.Nervous: 
+□ numbness, □ paresis/plegia 
+身體檢查(Physical Examination) 
+BH:162.8 cm   BW:40.8 kg
+T:36.7 P:111 R:20
+BP:150/90 mmHg
+Pain:1
+
+General appearance: fair
+Breath sound: bilateral clear
+Heart: regular heart beat, no audible murmur
+Abdomen: soft and flat, normoactive bowel sound
+Peripheral: warm, no pitting edema
+
+Neurological Examination:
+. Consciousness: clear
+. Muscle power: full
+. Gait: steady 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               D-BIL         Alb           T-BIL         AST           ALT          
+time/item      (mg/dL)       (g/dL)        (mg/dL)       (U/L)         (U/L)        
+1050115 [1452] 0.11          3.8           0.33          23            16           
+               ALP           LDH           UN            CRE           Na           
+time/item      (U/L)         (U/L)         (mg/dL)       (mg/dL)       (mmol/L)     
+1050115 [1452] 93            183           26.5          0.9           122          
+               K             Cl            Ca            Mg           
+time/item      (mmol/L)      (mmol/L)      (mmol/L)      (mmol/L)     
+1050115 [1452] 5.8           84            2.51          0.78         
+群組:DM
+
+               GLU AC       
+time/item      (mg/dL)      
+1050115 [1452] 117          
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050115 [1452] 7.92          2.76          9.1           25.9          93.8         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1050115 [1452] 33.0          35.1          713           14.7          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050115 [1452] 0.0           0.0           0.0           0.0           1.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050115 [1452] 83.8          0.0           0.0           3.8           11.4         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050115 [1452] 0.0           0.0           0.0           -            
+*********檢驗室:CT***********
+
+群組:PT
+
+               PT            PT INR       
+time/item      (sec)         ()           
+1050115 [1452] 9.7           0.91         
+群組:PTT
+
+               PTT          
+time/item      (sec)        
+1050115 [1452] 28.0         
+*********檢驗室:OP***********
+
+群組:SEDIMENT
+
+               RBC (S)       WBC (S)       Epith (S)     Cast (S)      Crystal (S)  
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1041225 [2112] 0-2           0-2           0-2           -             -            
+1041226 [2252] 0-2           0-2           0-2           -             -            
+               Bacteria      Mucus(S)      Others (S)   
+time/item      (*)           (*)           (*)          
+1041225 [2112] -             -             -            
+1041226 [2252] -             -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH            Protein(C)    Glu.(C)       Ketone body  
+                                                                    (U)          
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1041225 [2112] 1.019         6.5           20 ( +/- )    >1000 ( 4+ )  +/-                        
+1041226 [2252] 1.015         5.5           10 ( +/- )    >1000 ( 4+ )  1+                         
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+                                                                     (U)         
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1041225 [2112] -             ≦1.5          -             -             -            
+1041226 [2252] -             ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1041225 [2112] Yellow        -            
+1041226 [2252] Light Yellow  -                          
+群組:STOOL
+
+               O.B.         
+time/item      (*)          
+1041231 [1323] 3+           
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               D-BIL         Alb           T-BIL         AST           ALT          
+time/item      (mg/dL)       (g/dL)        (mg/dL)       (U/L)         (U/L)        
+1041225 [1348] 0.14          3.6           0.53          18            11           
+1041228 [0624]                                                         6            
+               ALP           LDH           UN            CRE           Na           
+time/item      (U/L)         (U/L)         (mg/dL)       (mg/dL)       (mmol/L)     
+1041225 [1348] 49            158           48.1          1.0           136          
+1041228 [0624]                                           1.1           137          
+               K             Cl            Ca            Mg           
+time/item      (mmol/L)      (mmol/L)      (mmol/L)      (mmol/L)     
+1041225 [1348] 4.1           93            2.33          0.68         
+1041228 [0624] 2.8                                                    
+群組:DM
+
+               GLU AC        HbA1c        
+time/item      (mg/dL)       (%)          
+1041225 [1348] 128                        
+1041228 [0624]               6.0          
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041225 [1348] 3.07          3.11          10.2          29.7          95.5         
+1041228 [0624] 4.81          2.46          8.2           23.3          94.7         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1041225 [1348] 32.8          34.3          206           14.6          -            
+1041228 [0624] 33.3          35.2          177           14.6          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041225 [1348] 0.0           0.0           0.0           0.0           0.0          
+1041228 [0624] 0.0           0.0           0.0           1.0           6.7          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041225 [1348] 72.6          0.7           0.3           8.8           17.6         
+1041228 [0624] 84.6          1.0           0.0           2.9           3.8          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041225 [1348] 0.0           0.0           0             -            
+1041228 [0624] 0.0           0.0           0.0           -            
+*********檢驗室:CT***********
+
+群組:PT
+
+               PT            PT INR       
+time/item      (sec)         ()           
+1041225 [1348] 10.7          1.01         
+群組:PTT
+
+               PTT          
+time/item      (sec)        
+1041225 [1348] 26.8         
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041226 [2139] 1.37          3.02          9.9           28.6          94.7         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041226 [2139] 32.8          34.6          184           14.4          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041226 [2139] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041226 [2139] 80.3          0.7           0.0           4.4           14.6         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041226 [2139] 0.0           0.0           0             僅供參考         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1041226 [2139] 8            
+群組:Biochemistry
+
+               BUN           CRE           Na            K            
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)     
+1041226 [2139] 26.0          0.9           134           3.6          
+群組:Yes
+
+               C-Reactive P 
+               rotein       
+time/item      (mg/dL)      
+1041226 [2139] 15.72        
+
+*********檢驗室:B3***********
+B3-1041227-6030511   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Moderate PMNs ( 10-25 /LPF )
+     Gram's(GS)#2:       Moderate epithelial cells ( 10-25 /LPF )
+     Gram's(GS)#3:       Gram (+) cocci in cluster 2+
+     ID+DS Sputum Culture #1:       Mixed flora
+     Gram's(GS)#4:       Gram (-) rods 2+
+     Gram's(GS)#5:       Gram (+) rods,  痰檢體品質不良建議重新送檢 3+
+B3-1041226-6030512   SPUTUM (EXPECTORATED)
+     ID+DS Sputum Culture #2:       Staphylococcus aureus 2+
+     Gram's(GS)#1:       Many PMNs ( >25 /LPF )
+     Gram's(GS)#2:       Few epithelial cells ( < 10 /LPF )
+     Gram's(GS)#3:       Gram (+) cocci in chains 3+
+     ID+DS Sputum Culture #1:       Klebsiella pneumoniae 1+
+     Gram's(GS)#4:       Gram (+) rods 3+
+
+
+*********檢驗室:B2***********
+B2-1041226-6030508   BLOOD
+     ID+DS Blood.#1:       No growth after 5 days
+B2-1041226-6030585   BLOOD
+     ID+DS Blood.#1:       No growth after 5 days
+
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1041226 [0514] 114          
+
+
+*********檢驗室:RL***********
+
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1041222 [1712] 7.415         53.7          36.1          34.7          9.9          
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1041222 [1712] 8            
+群組:Biochemistry
+
+               CRE           Na            K             Ca           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1041222 [1712] 1.2           136           4.7                        
+1041222 [2148]                                           2.34         
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041222 [1712] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041222 [1712] 85.4          0.9           0.3           5.1           8.3          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041222 [1712] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041222 [1712] 3.51          3.23          10.5          30.9          95.7         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041222 [1712] 32.5          34.0          165           14.5          - 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 陳育青 影像時間: 2016/01/15 15:00 (32001CXM) 發報告時間: 2016/01/15 16:17 EXAMINATION: Chest : PA View (Standing)
+FINDINGS:
+A port-A-cath. A gastrostomy tube. Consolidation in the left lower lung field. Normal heart size.
+BAR. Meal Follow-THRU 醫令: BAR. Meal Follow-THRU 報告醫師: 劉高郎 影像時間: 2015/12/28 14:55 (33008BZM) 發報告時間: 2015/12/29 11:47 1. History of Hypopharyngeal carcinoma, squamous cell carcinoma, left pyriform sinus, with esophageal inlet involvement; Left side lower buccogingival sulcus tumor, severe dysplasia; Esophageal cancer, squamous cell carcinoma, middle esophagus, cT3N0M0; Tongue cancer, squamous cell carcinoma, pT1N0M0 stage I, status post wide excision; Oral cavity cancer, squamous cell carcinoma, right palatal-gingiva, pT2N0M0 stage II, status post wide excision and right supraomohyoid lymph nodes dissection; Gingival cancer, left upper, squamous cell carcinoma, pT4N0M0 stage IVA, status post wide excision, modified lymph nodes dissection, and reconstruction.
+2. NG tube: H1 catheter insertion; 
+3. Antibiotics: 1g Cefa; 
+4. Fentanyl 50 ug IV push slowly (once) with local 2% Xylocaine 20ml injection + diluted bosmin
+5. Evaluation before procedure: non-specific.
+6. Buscopan: 20 mg, i.v.
+7. Inflation Air: 400 ml.
+8. Percutaneous Radiologic Gastrostomy was smoothly performed with 2 gastropexy fixation of the stomach and abdominal wall. 
+9. Dilators: none
+10. A 24Fr peel-away dilator was inserted; then a 24Fr balloon retained feeding tube was inserted.
+11. The procedures are smooth and the patient tolerates them well.
+12. Fluroscopy time: 2.45 min R3; 18 (9+9) mGy.
+
+Suggest: 
+1. frequent manual compression in the same day.
+2. Please give antibiotics if underlying no usage of antibiotics.  Please give antacids or H2 blocker or PPI (nexium), dependent on clinical condition if positive peptic ulcer history.
+3. The feeding method is suggested in the sheet of 護理評估表. 
+4. 請照會營養師營養評估; 如果腹瀉請照會營養師調整灌食成分; 
+5. In the future, if any problems or complications, please call me (51685) or angio-room (62608; 62612).
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳育青 影像時間: 2015/12/27 08:47 (32001CYM) 發報告時間: 2016/01/03 15:52 EXAMINATION: Chest : AP View (Supine)
+FINDINGS:
+A port-A-cath. Consolidation in the left lower lung field. Normal heart size. Clips in the left neck.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳佾昌 影像時間: 2015/12/26 21:50 (32001CYM) 發報告時間: 2015/12/28 10:35 Chart No: 1914114
+Accession No: T0159331611
+EXAMINATION: Chest - AP View (Supine).
+FINDINGS:
+Normal heart size. Left lung consolidation. Ill-defined opacities at bilateral lungs. Degenerative change of the thoracolumbar spine. Placement of portacath. Post operative change with clips at left neck. Suggest clinical correlation.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 陳育青 影像時間: 2015/12/25 14:05 (32001CXM) 發報告時間: 2016/01/03 13:49 a port-A-cath. normal heart size. a nodule in the left middle lung field.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 張為迪 影像時間: 2015/12/22 16:32 (32001CXM) 發報告時間: 2015/12/22 18:26 EXAMINATION: Chest : PA View (Standing)
+FINDINGS:
+Placement of a port-A catheter. Suspect a nodular shadow at left middle lung field. Surgical clips at the left lower neck. 
+病理報告(Pathology Report) 
+094/03/22 S0506483
+Oral cavity,gingiva,upper,left,incisional biopsy,squamous cell carcinoma well-differentiated,   
+094/04/06 S0507558
+Oral cavity,gingiva,#23 to left tuberosity area,wide excision,squamous cell carcinoma well-differentiated,   
+Bone,maxilla,left,hemimaxillectomy,squamous cell carcinoma,invasive    
+Sinus,maxillary,left,wide excision,squamous cell carcinoma,invasive    
+Lymph node,neck,left,modified radical neck dissection,no evidence of metastasis (28/28),   
+Muscle,sternocleidomastoid,left,modified radical neck dissection,no evidence of malignancy    
+Tooth,#23,#24 and #27,extraction,none made    
+Salivary gland,submandibular,left,modified radical neck dissection,no evidence of malignancy    
+094/04/25 S0509801
+Bone,maxilla,right,partial maxillectomy,no residual tumor    
+Sinus,maxillary,right,wide excision,no evidence of malignancy    
+Tooth,#12,#14,#15 and #48,extraction,none made    
+091/12/05 S0228528
+Oral cavity,gingiva,#26~#26,biopsy,verrucous hyperplasia moderate dysplasia   
+090/08/02 S0117813
+Oral cavity,mouth angle,left,incisional biopsy,verrous hyperplasia    
+Oral cavity,buccal mucosa,left,incisional biopsy,epithelial hyperplasia parakeratosis moderate dysplasia  
+Oral cavity,retromolar triangle,left,incisional biopsy,epithelial hyperplasia parakeratosis mild dysplasia  
+090/08/24 S0120155
+Oral cavity,lip,lower,near mouth angle,left,wide excision,verrucous carcinoma    
+Oral cavity,buccal mucosa,left,wide excision,verrucous hyperplasia    
+Oral cavity,retromolar area,left,wide excision,verrucous hyperplasia    
+090/09/28 S0122977
+Oral cavity,tongue,lateral border,left,incisional biopsy,carcinoma in situ    
+096/05/03 S0712240
+Oral cavity,tongue,ventral surface,right,incisional biopsy,verrucous hyperplasia    
+ S1005780
+Oral cavity,gingiva, upper, right, #16 palatal side,incisional biopsy,squamous cell carcinoma well-differentiated,   
+ S1007995
+Oral cavity,gingiva, upper, right,wide excision,squamous cell carcinoma moderately-differentiated,   
+Bone,maxilla, right,partial maxillectomy,no evidence of malignancy    
+Salivary gland,submandibular, right,supraomohyoid neck dissection,minimal histological change    
+Lymph node,neck, right,supraomohyoid neck dissection,no evidence of metastasis (07/07),   
+ S1025357
+Oral cavity,lateral tongue border,left,incisional biopsy,moderate dysplasia see description,submucous fibrosis   
+098/06/08 S0918792
+Oral cavity,gingiva, upper, right, #16 area,biopsy,severe dysplasia    
+ S1032216
+Oral cavity,tongue, lateral border, left,excisional biopsy,squamous cell carcinoma well-differentiated,   
+ S1036237
+Oral cavity,tongue, lateral border, left,excisional biopsy,moderate dysplasia    
+098/11/11 S0939488
+Oral cavity,buccal mucosa, left,excisional biopsy,inflammatory hyperplasia    
+ S1325023
+Oral cavity,tongue, lateral border, left,excisional biopsy,squamous cell carcinoma early-invasive,   
+ S1331043
+Esophagus,endoscopic biopsy,ulcer    
+ S1322980
+Esophagus,30cm below incisor,endoscopic biopsy,squamous cell carcinoma    
+Esophagus,35cm below incisor,endoscopic biopsy,high grade dysplasia at least    
+Esophagus,25cm below incisor,endoscopic biopsy,high grade dysplasia at least    
+ S1320474
+Esophagus,30 cm below incisor,endoscopic biopsy,squamous cell carcinoma,keratinizing    
+Hypopharynx,left side,endoscopic biopsy,carcinoma in situ at least,   
+Stomach,antrum,endoscopic biopsy,chronic gastritis mild, without Helicobacter infection,   
+ S1502842
+Hypopharynx,posterior wall,laser excision,squamous cell carcinoma    
+ S1515361
+Hypopharynx,right,CO2 laser excision,squamous cell carcinoma    
+Hypopharynx,left,CO2 laser excision,squamous cell carcinoma    
+ S1530657
+Hypopharynx,posterior pharyngeal wall,CO2 laser laryngomicroscopic excision,squamous cell carcinoma    
+ S1426788
+Esophagus,middle,endoscopic biopsy,squamous hyperplasia mild,   
+ S1441456
+Oral cavity,gingiva, lower, left,excisional biopsy,ere dysplasia    
+ S1442708
+Oral cavity,buccogingival sulcus, lower, left,wide excision,moderate to severe dysplasia    
+Oral cavity,buccogingival sulcus, left, labeled as anterior margin,wide excision,chronic inflammation 
+臆斷(Tentative Diagnosis) 
+1. Left side lower buccogingival sulcus tumor, severe dysplasia, status post excisional biopsy
+on 2014/10/17, margin(+), status post wide excision of left side lower buccogingival sulcus
+tumor on 2014/10/27
+2. Esophageal cancer, squamous cell carcinoma, middle esophagus, cT3N0M0, status post
+CCRT (2013/07/04-08/22,26Gy/13fx)
+3. Hypopharyngeal cancer, squamous cell carcinoma, left pyriform sinus, with esophageal inlet involvement, status post CCRT (2013/07/04-2013/08/22,70Gy/35fx) with rcT1, operated; with /recurrence, status post CO2 laser excision under laryngomicroscope on 2015/1/21, 2015/4/22, 2015/8/3, status post UFUR (2015/01/27~2015/08/21)
+4. Tongue cancer, squamous cell carcinoma, pT1N0M0 stage I, status post wide excision on
+2010/09/21, recurrence, rpT1N0M0 stage I, status post excisional biopsy on 2013/7/5
+5. Oral cavity cancer, squamous cell carcinoma, right palatal-gingiva, pT2N0M0 stage II, status
+post wide excision and right supraomohyoid lymph nodes dissection on 2010/03/16
+6. Gingival cancer, left upper, squamous cell carcinoma, pT4N0M0 stage IVA, status post wide
+excision+ left modified neck dissection + ALT flap reconstruction on 2005/3/28, status post re-excision on 2005/4/19, status post radiotherapy(44Gy,22fr, 2005/5/15-6/24) 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+#Left side lower buccogingival sulcus tumor, severe dysplasia, status post excisional biopsy on 2014/10/17, margin(+), status post wide excision of left side lower buccogingival sulcus tumor on 2014/10/27
+#Esophageal cancer, squamous cell carcinoma, middle esophagus, cT3N0M0, status post CCRT (2013/07/04-08/22,26Gy/13fx)
+#Hypopharyngeal cancer, squamous cell carcinoma, status post CCRT (2013/07/04-2013/08/22,70Gy/35fx) with rcT1, operated; with recurrence, status post CO2 laser excision under laryngomicroscope on 2015/1/21, 2015/4/22, 2015/8/3, status post UFUR (2015/01/27~2015/08/21)
+#Tongue cancer, squamous cell carcinoma, pT1N0M0 stage I, status post operation on 2010/09/21, recurrence, rpT1N0M0 stage I, status post operation on 2013/7/5
+#Oral cavity cancer, squamous cell carcinoma, right palatal-gingiva, pT2N0M0 stage II, status
+post wide operation on 2010/03/16
+#Gingival cancer, left upper, squamous cell carcinoma, pT4N0M0 stage IVA, status post combine operation on 2005/3/28, status post re-excision on 2005/4/19, status post radiotherapy(44Gy,22fr, 2005/5/15-6/24)
+A:
+[Lab]
+1/15 HB 9.1, WBC 7.9, PLT 713, Na 122, K 5.8, BUN 26.5, Cre 0.9
+[Image]
+1/15 CXR no patch
+P:
+.Keep supportive care
+.Give Kalimate
+.Recheck electrolyte on 1/17
+.Consult nutritionist
+
+Treatment Goal:
+.Improved general activities 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：無  
+雙腔導管留置：無  
+鼻胃管留置：無  
+氣管管路留置：無    
+胃造廔口：有 PEG 24Fr. 
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：85
+預期出院後居住場所：獨居 
+預期出院後主要照顧者：自己 兒子 媽媽 
+出院規劃收案篩檢：高危病患 單位自訂條件 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+王成平 主治醫師 

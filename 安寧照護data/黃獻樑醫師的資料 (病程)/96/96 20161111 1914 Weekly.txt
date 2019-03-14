@@ -1,0 +1,45 @@
+Brief Summary of this week    
+During the past week, the patient has inproved fluid overload under diuretics usage. Follow-up for the elevated cardiac enzymes is not suggested due to low probability of ACS. The patient's conscious remained stationary without much imprvements. Grave prognosis is informed. Recurrent fever is noted under Unasyn, and central fever is suspected. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+{Neurological Examination}
+NIHSS: 3222224444023X0 (34+X)
+Consciousness: E1M1-2Vt
+CN II VF: Pupil size: R/L(1.5/4mm, cataract s/p); Light reflex: R/L(-/-) 
+CN III, IV, VI: fixed disconjugated with left eye lateral deviation, no spontaneous movements, negative response to OCR
+CN V Corneal reflex: R/L(-/-); Sensory: little response or grevience
+CN VII forehead wrinkle: symmetric; nasal-labial fold: symmetric; facial diplegia
+CN IX, X cough reflex(+)
+CN XII tongue could not protude with ETT
+
+Muscle power (to noxious stimulation)
+Upper limbs
+Right: proximal 1 distal 0
+Left:  proximal 1 distal 0
+Lower limbs
+Right: proximal 0-1 distal 1-2
+Left : proximal 0-1 distal 1-2
+There are intermittant symmetric myoclonic jerks with decerbrate posture
+DTR: symmetric ++~+++
+Babinski: flexor/flexor
+
+[Risk factors]
+Hypertension
+Smoking
+
+[Image]
+11/09 CT without contrast: ICH at pons/midbrain, ~18 ml, IVH+
+
+Plan 
+DNR+ (°£endo)
+
+1. Keep Unasyn with renal dose adjustment
+   Antipyretics usage since central fever is more likely
+2. Control BP, keep BP <160 mmHg
+   decrease perdipine is possible
+3. Keep I/O balance to negative due to fluid overload
+4. close follow up neurological sign
+5. Inform grave prognosis

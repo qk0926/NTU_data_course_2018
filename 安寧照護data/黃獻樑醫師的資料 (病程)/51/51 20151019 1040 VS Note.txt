@@ -1,0 +1,18 @@
+1. Hypercapnic respiratory failure, suspected neuromuscular disease, complicated with respiratory acidosis and in-hospital cardiac arrest, status post cardiopulmonary resuscitation (14 min) and endotracheal intubation + mechanical ventilation (2015-10-09), with return of spontaneous circulation
+2. Suspected hypoxemic encephalopathy, with coma and seizures
+3. Healthcare-associated pneumonia, improving
+5. Type 2 diabetes mellitus (2015-10-05 HbA1c: 7.7%), with suspected neuropathy
+6. Hypertension
+7. Hepatitis B
+8. Suspected neuromuscular disease, progressive, etiology unknown, bedridden
+9. History of left foot traumatic fracture
+
+post CPCR 14 minutes
+respiratory drive(+)
+EEG: nearly no discernible cortical activities
+increased greenish sputum
+
+Plan:
+1. Inform family about poor neurologic prognosis
+2. Chest care
+3. Beware of nosocomial pneumonia

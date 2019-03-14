@@ -1,0 +1,140 @@
+Brief Summary of this week 
+<10/18-10/24>
+The patient was kept on home ventilator use during the weekend. She tolerated well with intermittent fasr respiratory rate. Antibiotic and AntiTB medication was kept. Supportive care was given with discharge prepared. Fever was noticed on 10/21 night and septic wokrup done with Mepem used. Family would like to withdraw after their thorough thinking and discussion. Hospice for advise and intervention was consulted on 10/22. On 10/24, after reviewing by 2 certicated doctors, terminal disease state and DNR was confirmed. Ventilator was turned off and the patient was withdrawn from ventilator on 2015/10/24 11:00 AM. Supportive care with morphine use for dyspnea was kept. Further palliative care would be kept.
+
+Problem Assessment Plan 1
+Assessment 
+RCC+31
+
+[Antibiotics]
+DC all medication for the patient withdrawn from treatment.
+
+HERZ (9/01-) D53 for TB peritonitis
+Mepem (10/21-) D3 for BCC+, AB(WT)
+Cravit (10/13-) D9->DC for S/C Chryseobacterium indologenes 2+ and AB(WT)
+------------------------------------------------------
+Meropenem(10/10-10/13) for previous culture of A.B., Burkhoderia.cepacia
+Brosym(10/01-10/10)  
+Fortum(9/26-10/01) for susp VAP?(9/22 S/C: wild type AB)
+Mepem (08/15-09/03), Vancomycin (08/15-08/22)
+Rocephin (08/10-08/15)
+---------------------------
+PE:
+intermittent fever
+consciousness: E3VtM3-4, eye open to pain
+chest:bilateral crackles (left side decreased B.S.)
+Abd:much distended, tympanic, normo-active bowel sound, no tenderness
+Ext:bilateral hand pitting edema1+
+------------------------------------------------------
+[Ventilator]
+10/16 Home VC-SIMV(500) PEEP 5, PS 8, rate 2->10
+=> Vt 280 RR 28, MV 9.6, SpO2 100%
+
+** 9/24 WP: RSI 83, PIM -40, PEM +45
+9/30 T-P 8hr QD => failed T-P after 2hr for HR increase
+10/01 TP 1 hr
+10/02 rest 
+10/03 TP 30min, failure with tachypnea > 40
+10/04 TP 2hr BID, RR around 40bpm, no desaturation or tachycardia
+10/05 TP 2hr QD, failure with RR around 40bpm
+10/06 Exteranl C-PAP 1 hr tolerated with RR around 35bpm
+10/07 ECPAP 2hr QD mild fatigue noticed.
+10/08 ECPAP 2hr BID
+10/09 ECPAP 4hr QD
+10/10 ECPAP 4hr BID
+10/11 ECPAP 8hr QD
+10/12 ECPAP 12hr QD
+10/13 ECPAP 16hr QD
+10/14 ECPAP 20hr QD
+10/15 ECPAP, interrupt for home ventilator testing
+10/16 Home ventilator
+10/17 Home ventilator
+10/18 Home ventilator
+10/19 Home ventilator
+10/20 Home ventilator
+10/21 Home ventilator
+home ventilator setting:VCSIMV, Vt:280/500, RR:33/10, Ve:10, PS:8, PEEP:5, O2:5L, SpO2:100%
+10/22 DC home ventilator, hospital use ventilator
+10/23 ventilator setting VCSIMV, Vt:245/500, RR:28/10,
+Ve:10, PS:8, PEEP:5, FiO2:35%, SPO2:100%
+10/24 withdrawal
+
+[Diet] 調整配方 1750Kcal/1750cc/day, add salt 10g
+
+Plan 
+1. Applied to hospital ethic committee hospice's regulation
+2. Palliative care after withdrawal on 10/24.
+
+Problem Assessment Plan 2
+[Important studies]
+09/09 EEG: moderate diffuse cortical dysfunction with emphasis on the right side.
+
+[Image]
+09/03 Brain CT: s/p VP shunt placement with its tip in right frontal cranial fossa; hydrocephalus; old insults.
+
+[Culture]
+08/10 Abdominal fluid accumulation aspirate culture: TB
+08/31 U/C: yeast 2000
+09/06 U/C: yeast 50000
+09/22 S/C: AB1+(WT), B/C: negative
+09/26 B/Cx2(PB), S/C(S/S: GQ, no bacteria, AB1+(WT)), U/C
+10/01 U/C:Yeast-like organism 25000
+      S/C:Acinetobacter baumannii 2+ 
+          Burkholderia cepacia complex 2+
+      B/Cx2(PB): negative
+10/10 U/C:negative
+      S/C:Chryseobacterium indologenes 2+
+          Acinetobacter baumannii 2+ 
+      B/Cx2(PB): negative
+10/16 S/C:Acinetobacter baumannii 1+ 
+          Burkholderia cepacia complex 2+
+
+[Important intervention or newly added medication]
+08/10 CT-guide abdominal fluid accumulation drainage(75-80ml)
+09/01 HERZ(No steroid use due to active infection and VP shunt(+))
+09/16 Tracheostomy
+10/01 Brosym
+10/10 Meropenem
+10/13 Cravit
+10/20 Morphine for respiratory alkalosis
+10/21 Cravit to Mepem
+
+[Important consultation]
+9/25 ID: No need for steroid use for suspected TB meningitis at this time point
+9/25 NS: no need for further brain image at this point, the hydrocephalus was less likely the cause of conscious change. The underline cancer progression was impressed. VP shunt revision also not indicated for TB infection.
+9/25 Dr.何肇基: chemotherapy was not suitbale for her
+10/21 Dr.何: palliative care for the patient's terminal cancer status.
+10/22 Consult hospice for family consider withdraw.
+
+[Important family decision]
+10/01 Daughter prefer RCW in 桃園
+10/04 Daughter asked about how many days left before transfer?
+10/08 Family prefer home care, consult RT for possible home ventilator use.
+10/14 Customize home ventilator testing
+10/21 The family would like ventilator withdrawal
+10/24 Family accompany the patient after withdrawal
+
+Problem Assessment Plan 3
+[Event Note]
+10/06 Exteranl C-PAP 1 hr tolerated with RR around 35bpm, much stool passage in the morning of 1500, s/p LR 1L for keep I/O balance
+10/07 Exteranl C-PAP 2 hr QD tolerated but mild fatigue noticed without desaturation
+10/08 ECPAP kept. 2 hr BID.
+      Tachycardia up to 130/min at 21:30, sinus rhythm from the monitor, no desaturation, RR ~30, but no severe respiratory distress, no fever
+       => resume RR(set) 2->10->6->4->2
+10/09 ECPAP 4 hr QD. Avoid frequent change of ventilation mode
+10/10 ECPAP 4hr BID, fever again, repeated septic workup, changed to Meropenem impirically, WBC:13.45k(Seg:83.9%), LA:2.52, Na:133(diet add salt 5g), Mg:0.63(add MgSO2 32mEq)
+10/11 ECPAP 8hr QD, fever subsided mildly
+10/12 ECPAP 12hr QD, low grade fever still, with tachypnea
+10/13 ECPAP 16hr QD, S/C Chryseobacterium indologenes 2+, change to Cravit
+10/14 ECPAP 20hr QD, test home ventilator setting, add Apresoline 1# BID for hypertension, LA:1.19, CRP:7.67, Cr:0.2, Hb:8.8, WBC:11.02k, CXR:improved LLL infiltration
+10/15 add home ventilator VCSMIV(Vt:500, RR:2, PS:8, PEEP:5), improved shallow breathing pattern after use of home ventilators
+10/16 Septic workup on 10/15 night for fever
+10/18 no fever, CXR: no obvious pneumnia patches
+10/19 PH:10/19 Alb:3.2, Mg:0.61, Hb:8.6, WBC:11.28(Seg:80.7%), PH:7.506, PCO2:30.3, PO2:77.3, HCO3:24.1
+due to the tachypnea suspect of central origin, add Alpraline 0.5# BID, s/p pRBC1U, PLT12U
+10/20 changed Alpraline to Morphine 1ml TID for tachypnea related respiratory alkalosis, improved consciousness, hypertension around SBP 175mmHg, s/p Trandate IVF to control SBP<130mmHg
+10/21 Fever, septic workup, Cravit to Mepem
+Family would like to withdraw
+10/22 Consult Hospice
+10/23 persistd fever, consciousness drowsy, increased the frequcency of Acetaminophen to Q4H
+10/24 Withdrawn from ventilator, see "withdrawal note"

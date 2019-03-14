@@ -1,0 +1,41 @@
+After admission, we initiated parenteral nutrition due to poor intake. Intraductal sonography(IDUS), ERCP, ERBD and biopsy was arranged on 2015/10/01 for tissue proof and bile drainage. Orthopedic doctor was also consulted for change dressing of left wrist crush injury wound. However, one 1.5cm polypoid leison was noted at anastomosis site s/p biopsy. Only orifice of anturm to pylorus can be seen but scope can't pass through it. We arranged PTCD for obstructive jaundice first then consider antegrade brushing/CBD biopsy or try to dilate antrum on 10/2. Urologist was consulted for right hydronephrosis. PRBC 1U was transfused for anemia(Hb:7.8). 
+  Hyperbilirubinemia condition improved gradually after PTCD done. We tried ERCP again on 10/5 for tissue proof but still failed. We arranged antegrade biliary stent insertion on 10/7 but not smoothly. Right DBJ insertion was performed on 10/8 for right hydronephrosis. Try to collect urine cytology after DBJ insertion. We will consider echo-guide ascites tapping for cytology next week.
+
+Problem Assessment Plan 1
+ Assessment 
+Still intermittent abdominal pain
+
+GCS E4V5M6, ECOG 1
+Head: mild pale conjunctivae, icteric sclera
+Chest: bilateral clear brething sound
+Abdomen: soft, normoactive bowel sound, no tenderness
+Limbs: edema(-)
+
+<Important Study Findings>
+09/28 CT Gastric antrum wall swelling with bile duct, right ureter, and peritoneal involvement
+09/30 CEA(4.29), CA-199
+10/02 Hb:7.8, T.bil:15.08
+      Stomache biopsy pathology:polypoid gastritis
+10/05 Hb:7.8, T.bil:10.49
+10/07 Hb:8.7, T.bil:6.52
+
+<Important Intervention and Newly Added medication>
+10/01 ERCP, IDUS, ERBD, biopsy: Failed due to previous gastrojejunosotmy and only orifice of anturm to pylorus can be seen but scope can't pass through it.
+10/02 PTCD
+10/05 Try ERCP again but still fialed
+10/07 Biliary stent insertion
+
+<Important consultation>
+10/02 Urologist for Right hydronephrosis
+
+<Important family's decision>
+
+Plan 
+1.For suspected GI bleeding related anemia
+ =>Add H2 blocker use
+ =>Component therapy as indicated
+2.For right hydronephrosis
+ =>Consult Uro and arrange DBJ insertion on today
+3.For gastric tumor and related obstructive jaundice
+ =>Follow PTCD amount and color, consider emperic abx use if still hemobilia
+ =>Consider PTCD dilatation for biliary stent revision next week, biliary brushing cytology if possible

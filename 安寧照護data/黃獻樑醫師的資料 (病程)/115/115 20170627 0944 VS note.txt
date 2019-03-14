@@ -1,0 +1,11 @@
+# Meningococcus meningitis, complicated with septic shock, lactic acidosis, conscious disturbance, and type IV respiratory failure, s/p ETT-MV (2017/6/11-), s/p CVVH (2017/6/11-2017/6/12)
+# Ventilator associated pneumonia and ARDS, S/C: Neisseria meningitidis, Burkholderia cenocepacia
+# History of thrombotic thrombocytopenic purpura, status post plasma exchange in 2007
+# SLE (2017/6/16: anti-smith(+)) with secondary Sjogren syndrome
+
+E2VtM1
+FiO2= 1.0 PEEP 16, SpO2 83%
+iNO 20 ppm 6/22-
+Sevatrim + Colistin + Mepem + Targocid
+SBP 80+
+Family requested conservative management

@@ -1,0 +1,26 @@
+Respiratory failure, s/p tracheostomy 9/16
+NSCLC, adenocarcinoma, stage IV
+IICP, brain mets related, s/p VP-shunt in 2015/02
+TB peritonitis
+
+Rapid shallow breathing was noted during T-piece breathing early during the SBT.
+Trying ECPAP weaning.
+The RR remained frequently high, but appeared not related to the training duration.
+Consider continuous ECPAP without returning to MV support.
+
+2015/10/09 04:39 T:37.2 P:106 R:18
+2015/10/09 01:11 T:36.8 P:98 R:13
+2015/10/09 01:11 T:36.8 P:98 R:13
+2015/10/08 22:12 T:37 P:117 R:20
+2015/10/08 21:40 T:37.2 P:128 R:30
+2015/10/08 20:06 T:37 P:113 R:28
+2015/10/08 17:29 T:36.5 P:98 R:23
+2015/10/08 12:12 T:37 P:101 R:27
+2015/10/09 04:39 SpO2:100%(35%,L,VCR)
+2015/10/09 01:11 SpO2:99%(35%,L,VCR)
+2015/10/08 22:13 SpO2:100%(35%,L,VCR)
+2015/10/08 21:40 SpO2:100%(35%,L,VCR)
+2015/10/08 20:07 SpO2:100%(35%,L,VCR)
+2015/10/08 17:30 SpO2:99%(35%,L,VCR)
+2015/10/08 12:12 SpO2:100%(35%,L,VCR)
+2015/10/08 08:02 SpO2:100%(35%,L,VCR)

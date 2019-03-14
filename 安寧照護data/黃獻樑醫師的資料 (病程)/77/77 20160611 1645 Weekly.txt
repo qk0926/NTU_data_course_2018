@@ -1,0 +1,152 @@
+Brief Summary of this week    
+[Treatment course 6/5-6/11]
+The patient was tapered off Dormicum pump on 6/5 for no seizure noted. Depakine, phenytoin and Keppra were kept for seizure control. NG feeding amount was uptitrated. On 6/6, the patient was kept on Alb supplement with diuretic for low alb and mild edema and increased body weight. Levophed was turned off. Ventilator setting was switched to SIMV mode. However, RLL collapse was noticed on 6/7 when the patient was shifted to PSV mode. Topamax 1# BID was added for further seizure control. Antibiotic was changed to Cravit for ESBL Ecoli in sputum culture. Brain MRI was done according to neurologist's suggested and showed progressive Leptomeningeal carcinomatosis and brain metastases. Oncologist suggested Omaya insertion with intrathecal chemotherapy. Family agree Omaya insertion then after explanation. On 6/8, persistent collapsed RLL/RML was noticed even under PCV mode. Bronchoscopy study was done and showed sputum impaction. Neurosurgeon was consulted for Omaya insertion. Intermittent PRN Dormicum given for intermittent focal seizure on 6/9. Scheduled operation for Omaya insertion was done on 6/10 and open pressure 10cmH2O was found. On 6/11, breakthrough fever was noticed in morning and afternoon. Septic workup was repeated and empirical antibiotic Vancomycin was added. Dormicum pump for seizure control was uptitrated for persistent seizure attacks.
+
+抗癌藥品治療副作用 (化療) Acute Toxicity 
+Neutropenia : Severe
+癌症治療效果追蹤評估 Disease Status:
+Residual tumor / Recurrence / Metastases
+Treatment Response:Evaluable
+PD(Progressive Disease) 
+
+
+PAP1
+
+Assessment 
+<Antibiotics> 
+Cravit 6/7- D5 for S/C ESBL Ecoli
+-----
+Metronidazole 6/4-6/7 D4 for aspiration pna coverage
+Vancomycin    6/4-6/7 D4 for possible CNS infection GPC coverage
+Cefepime      6/3-6/7 D5 for CNS infection and PNA
+
+<AEDs>
+Topamax 1# BID 6/7-
+Keppra 1500mg Q12H 5/31-
+Phenytoin 100mg Q8H 5/31-
+Depakine 400mg Q6H 5/31-
+
+<Respiration>
+PCV IP 18 PEEP 10 FiO2 30%
+-> TV 520 MV 7.8 SpO2 100%
+
+<Physical examination>
+BW: 53.->54.6->57.1kg->58.3->59.5->57.5->56.4->55.2
+Consciousness: unclear, E4VtM2, spontaneous eye open sometimes, response to threat, intermittent nystagmus(rapid to right)
+HEENT:grossly normal
+Chest: right breast mass with erosin and discharge, extended to left breast; also bilateral axillary area
+       RLL crackles
+Heart: RHB, no murmur
+Abdomen: soft, no tendenress; normactive BS
+Extremities: bilateral arm pitting edema
+
+<Nutrition> 
+濃度:1.5 卡/cc熱量:1750 營養品:調整配方
+
+<Culture report>
+6/2 B/C(PB):negative x2 
+6/3 B/Cx2: negative F/Cx2
+    S/C: ESBL E.coli
+    U/C: yeast
+6/4 CSF/C: neg
+    CSF AFS:neg
+    Cytology: Positive for malignant cells, metastatic 
+    carcinoma!
+    S/C ESBL E.coli
+    U/C Yeast-like organism 5000 
+6/8 Bronchial washing study:
+    AFS:negative
+6/11 Septic workup
+
+<Important study findings>
+6/4 CSF: WBC 54, L/N 32/22, Glu 42, TP 67.8
+    Cytology: Postive, carcinoma
+6/7 Brain MRI: Leptomeningeal carcinomatosis, in progression. Brain metastases.
+6/8 Bronchoscopy
+ 1. Injected mucosa over L2C, favored suction trauma.
+ 2. Moderate amount of sticky sputum over left side bronchial trees.
+ 3. Moderate amount of purulent sputum over right side bronchial trees.
+-> Bronchial washing to RML for cytology; bacterial, TB & fungal culture.
+6/10 OP: Ommaya implantation
+OP finding: Clear CSF was drained out after ventriculotomy and the ventricle was small. The open pressure was around 10 cmH2O. The catheter was 6.8 cm in length
+
+<Imporant consultation>
+6/3 Onco: consider IT, give cash G-CSF, consult neuro
+6/3 Neuro: did CSF study, empirical antibiotic,adjust AED, consider brain image
+6/4 NeuroCR程: add Vancomycin, change anxicam to dormicum pump, add Topamax 1# QD if DC NPO, followup EEG
+6/5 Onco: IT not suitable for acute infection status
+6/7 Onco張: suggested Omaya insertion with IT chemo
+    Neuro鄭: suggested Brain MRI, add Topamax for still intermittent left facial focal seizure noticed, treat underlying problems, followup EEG if improved focal seizure noticed.
+6/8 NS: for Omaya insertion, explain to family on 6/9 and surgery on 6/10 oncall
+    Onco張: IT chemo after Omaya
+6/10Onco張: suggest Omaya drainage CSF first and relieve pressure and do CSF, consider oral chemo
+6/11Onoc張: suggested could start IT chemo on 6/12
+
+<Important patient's and family's decisions>
+6/3 agree cash G-CSF and PPI
+    agree CVC, CSF study, brain MRI, thoracocentasis, permit signed
+    agree IT
+    favor no defibrillation or cardiac massage if sudden cardiac arrest
+6/4 family concerned about AEDs+BZD use.
+6/6 family want discuss with oncologist for further plan
+    hesitate about tracheostomy and omaya implantation and further chemotherapy, afraid of long term care
+6/7 Family agreed with Omaya insertion and IT chemotherapy
+6/8 Family agreed wuth bronchoscope, and Omaya insertion
+6/11Family wanna discuss with Oncologist about IT chemo effect and response
+
+Plan 
+1. Keep strong AED and PRN Dormicum use
+-> monitor neurological sign and seizure, consider repeated EEG if no witnessed seizure again for 1 day
+-> consider use Dormicum infusion if frequently seizure movement
+
+2. Keep PCV support, higher IP and PEEP for RLL collpase
+
+3. Keep Cravit for ESBL E.coli pneumonia
+-> pursue bronchoscopy washing results
+
+4. Infromed poor neurological outcome
+-> suggest tracheosotmy due to poor consciousness
+
+5. Post Ommaya reservoir implantation today, post-OP care
+-> follow up pressure, confirmed with oncologist about the timing of chemotherapy 
+-> family would like to discuss with Oncologist about IT treatment effect.
+
+6. Diuretic to keep negative I/O, monitor fluid status and BW
+
+PAP2
+
+Assessment 
+6/2 2PM consiousness disturbance+involuntary movement
+    3PM TVSH brain CT:no definite lesion
+    5PM NTUH empirical Abx, EEG, titirate AED
+6/3 consult onco,neuro
+    prepare CSF study-> status epilepsy, desaturation
+    ETT+MV
+    Admitted to MICU
+6/4 LP: CSF study, Anxicam pump change to Dormicum pump.
+    Desaturation, adjust ETT location
+    tolerate water, resume feeding on 6/5
+    ANC 4960, DC G-CSF
+6/5 Off Dormicum pump, no seizure noted
+    Keep Depakine, phenytoin and Keppra
+    Titrate up feeding amount
+6/6 Keep Alb with Rasitol for low alb and mild edema and BW
+    Levophed off.
+    Swith to SIMV
+6/7 Low PSV => RLL collapse, shift to high PS
+    Add Topamax 1# BID
+    Change to Cravit for ESBL Ecoli
+    Brain MRI: Leptomeningeal carcinomatosis, in 
+    progression. Brain metastases.
+    Onco suggested Omaya with IT Chemo
+    Family agree Omaya
+6/8 PCV for collapsed RLL/RML => Bronchoscopy study
+    NS consulted for Omaya insertion
+6/9 CXR: still collapsed right lung. 
+    Intermittent PRN Dormicum given for intermittent focal seizure.
+6/10CXR: improved right lung collapse
+    Scheduled op for Omaya insertion.
+    Open pressure 10cmH2O
+6/11Breakthrough fever morning and afternoon
+    Repeated septic workup
+    Dormicum pump for seizure control

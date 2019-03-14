@@ -1,0 +1,810 @@
+2016/02/02 22:58 
+主訴(Chief Complaint) 
+Informant:patient's wife
+new stroke (right upper limb weakness) for 1 day 
+病史(Brief History) 
+This 68-year-old man has past history of:
+1. IHCA status post CPR and ECMO due to cardiovascular disease(3-vessel-disease with NSTEMI), status post CABG on 2011/12/28
+2. Chronic kidney injury for 17~18 years with OPD follow-up
+3. Hypertension for 10+ years, under medication control 
+4. Type 2 diabetes mellitus for 10+ years, under medication control
+5. Left lower limb status post above knee amputation  due to peripheral arterial occlusive disease in 2012/2 
+6. Old infarctions at left posteior frontal and parietal cortical/subcortical regions (2013 MRI)
+
+   At baseline, he could walk with quadricane slowly (with 左下肢義肢), and communicate freely. As for his CVD, he was under DAPT(Bokey+Plavix), and shifted to Plavix only since 2015/12/25 due side effect of GI upset.
+   According to the patient's statement, he had slurred speech and right limbs waekness after woke up on 2015/12/29 morning. He also had nausea/vomiting, headache over the occipital region, vertigo, and blurred vision. Besides, there were drooling and cholking when eating. The symptoms was not so severe that bothered him very much(still able to walk with quadricane), thus, he neglected them. However, after 2 days on 2015/12/31, he could barely stand up so that he came to our ER for help.  
+   At ER, the BP was 178/100mmHg. Brain noncontrast CT on 2015/12/31 showed old infarct in left posterior frontal and parietal lobes, as well as lacunar infarcts in bilateral perinventricular white matter. Brain MRI on 2015/12/31 revealed (1)Recent infarction at right paramedian pons, (2)Brain atrophy, leukoaraiosis and multiple old insults, (3)Diffuse atherosclerotic narrowing of cervicocranial vessels. He was admitted to geriatric ward on 2016/01/04 for further treatment for ischemic stroke. Hydration with normal saline 1000ml QD was given and antihypertensive drug was hold. Bokey was added and shifted back to DAPT. Physical therapy started and Foley was removed on 01/07 and oral feeding started on 01/08. Due to stable condition of acute ischemic stroke in right paramedian pons, he was admitted to PM&R ward for rehabilitation program on 01/12. 
+   Pus-like discharge from right 3rd toe was noted on 01/15, r/o progression of PAOD in his right leg. There was no pulsation of anterior tibialis and dorsalis pedis artery. Vascular sonography revealed no blood flow at right anterior tibial artery. Bokey+ Plavix was shifted to Pletaal+ Plavix for PAOD. Right foot pain was controlled with Ultracet. Besides, Augmentin 1tab QD was given for wound infection since 01/18. 01/19 Wound culture revealed Enterobacter cloacae 3+ and Pseudomonas aeruginosa 3+. Antibotics was changed to Tatumcef on 01/22 according to susceptibility test and elevated CRP.
+   Poor coperation, general weakness, poor oral intake with aspiration was noted on 01/22. Fever with dyspnea developed on 01/23. CXR also showed mild increased infiltration at bilateral lower lung fields. Tazocin was given as empirical antibiotics. NG was also inserted because of poor oral intake. Sublingual NTG had been used for chest tightness. Antibiotics was then changed to Maxipime on 01/26 due to susceptability test. Stool WBC was negative. No fever or dyspnea was noticed after 01/24. Productive cough also improved. Because of poor peripheral intravenous line, CVC was inserted on 01/25.
+   However, poor oral intake, right side weakness, and inconsistency in following order persisted after infection contol. Therefore, emergent brain MRI was arranged on 2016/01/28 for suspected stroke in evolution, showing multiple recent infarction at the left frontal periventricular white matter, bilateral cerebellum, and posterior pons. Antihypertensive agents were held and hydration was given. Cardiac echo on 02/01 revealed regional wall motion abnormalities, impaired LV relaxation, mild MR/TR/AR, mild decreased LVEF (59.7%).
+   Acute onset of AfRVR with dyspnea was noted on 2016/1/29, initially electrolyte imbalance or infection was suspected. Codarone was given for rhythm/rate control and empirical Maxipime was given. However, massive abdominal ascites developed and the patient underwent 3 times of paracentesis. The ascites was milky, with minimal cell cound and protein content. No elevation of TG or decrease of ascites glucose was noticed. Abdominal/Pelvis CT was done, showing suspectious fat stranding in the upper abdomen, r/o peritontiis. Infection specialist was consulted and suggested shifting abx to Mepem for better converage of ESBL. Also, elevation in BUN/Creatinine levels, CRP, leukocytosis with left shift were also noticed. Further workups showed ProBNP 20000pg/mL, AntiHCV positive. Cardiologist was consult for tachycardia under Codarone use. Multifocal atrial tachycardia was suspected. 24hrs holter was arranged and Verapamil was given for rate control. 
+   On 2016/2/1, he was last reported normal (Bilateral UE MP>3, Brunnstrom stage > III/III) at 2016/2/1 18:00. During 18:00-22:00, right side hemiplegia developed with persistent left side gaze. Another acute episode of left side stroke was highly suspected, emergent CT showed no ICH, and new infarcts in left frontal lobe and left cerebellum. The family refused to proceed to CTA->IA due to the risk of hemodialysis. Neck CVC was inserted on 02/01 for monitoring CVP level, goal 7-12cm, with cautious hydration. Due to suspected new recurrent stroke, ACKD condition (CCr=16) and bleeding risk and uncertain for previous suspected atrial fibrillation diagnosis, anticoagulation was not indicated for now. TCD/Dupplex on 02/01 revealed 1.Mild to moderate atherosclerosis in bilateral CCAs, carotid bulbs, and left ICA. 2.Left VA stenosis or hypoplasia with inadequate total VA flow amount. 3. right MCA, left PCA, right VA stenosis.
+   Further brain image would be arranged for new onset right side hemiparesis to rule out recurrent stroke. The family (Key person: 女兒) prefered palliative/conservative therapy and signed DNR. Under the impression of recurrent stroke, occult infection, heart failure, ascited of unknown origin and ACKD, he was admitted to geriatric ward for further management.
+
+Family History: no systemic underlying disease
+Medication Allergy:No  病人自述 2016/01/12
+No  親屬描述 2016/01/04
+No  病人自述 2016/01/12
+No  病人自述 2016/01/12
+UnClear  病人自述 2011/12/21
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  病人自述 2016/01/12
+No  病人自述 2016/01/12
+No  親屬描述 2016/01/04
+No  病人自述 2016/01/12
+Current Medication:
+NTUH:Plavix 75 mg/tab 1 tab QD PO 5 days
+Takepron OD 30 mg/tab 1 tab QDAC LZ 4 days
+Dulcolax EC 5 mg/tab 1 tab HS PO 3 days
+HARNALIDGE D 0.2 mg/tab 2 tab HS LZ 3 days
+栓 Bisacodyl Supp 10 mg/pill 2 pill STAT R 1 days
+Glucobay 50 mg/tab 1 tab TID POMEAL 28 days
+警 Lantus SoloStar 300 IU/3 mL /pen 14 IU AS ORDER SC 28 days
+(8mm) Micro-Fine Insulin Pen Needle 31G /set 1 set QD SC 28 days
+NovoNorm 1 mg/tab 0.5 tab TIDAC15 PO 28 days
+Lasix 40 mg/tab 1 tab BID PO 28 days
+Aldactone 25 mg/tab 1 tab BID PO 28 days
+6.25 DILATREND 6.25 mg/tab 1 tab QD PO 28 days
+HARNALIDGE D 0.2 mg/tab 2 tab HS LZ 28 days
+Norvasc 5 mg/tab 1 tab QD PO 28 days
+Plavix 75 mg/tab 1 tab QD PO 28 days
+Bethanechol 25 mg/tab 1 tab BID PO 28 days
+(管4) 安柏寧 Alpraline 0.5 mg/tab 1 tab HS PO 28 days
+Other: nil 
+中草藥: nil 
+保健食品: nil 
+
+Past Medical History:
+1. IHCA status post CPR and ECMO due to cardiovascular disease(3-vessel-disease with NSTEMI), status post CABG on 2011/12/28
+2. Chronic kidney injury for 17~18 years with OPD follow-up
+3. Hypertension for 10+ years, under medication control 
+4. Type 2 diabetes mellitus for 10+ years, under medication control
+5. Left lower limb status post above knee amputation  due to peripheral arterial occlusive disease in 2012/2 
+6. Old infarctions at left posteior frontal and parietal cortical/subcortical regions (2013 MRI)
+
+Hospitalization:
+1. 1999,nephrotic syndrome
+2. IHCA status post CPR and ECMO due to cardiovascular disease(3-vessel-disease with NSTEMI), status post CABG on 2011/12/28
+3. Left lower limb status post above knee amputation  due to peripheral arterial occlusive disease in 2012/2
+
+Past Surgical History:
+1. IHCA status post CPR and ECMO due to cardiovascular disease(3-vessel-disease with NSTEMI), status post CABG on 2011/12/28
+2. Left lower limb status post above knee amputation  due to peripheral arterial occlusive disease in 2012/2
+
+Travel History: nil 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:小學
+職業:退休
+宗教信仰:道教
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:B，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:
+
+Psychological History and Evaluation
+意識狀態:混淆
+認知功能:無法評估 
+精神情緒狀態:異常 倦怠 情緒低落 
+安全問題:有 其他 跌倒
+睡眠形態:異常 入睡困難 淺、易醒 使用藥物 
+
+Nutritional Screen
+攝食情形:優，攝取完整
+排便狀態:異常
+排便異常狀態:腹瀉
+BMI:20.9
+
+Fall Risk Assessment
+總分:14
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(+), night sweats(-)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-) , epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular:  exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(+) due to PAOD in right leg 
+5.Respiratory: dyspnea on exertion(-), cough(-), chest pain(-), hemoptysis(-), productive cough (-), pleuritic chest pain(-)
+6.GI: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heart burn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (+)right hemiparesis hemiplegia (-) 
+身體檢查(Physical Examination) 
+BH:165 cm   BW:56.9 kg
+T:36.5 P:116 R:32
+BP:173/80 mmHg
+Pain:0
+
+Neurological Examination:
+Consciousness: E4V2M5-6, unable to answer name or respond to verbal orders correctly, disoriented and suspected delirious
+NIHSS=15+x (02102103x201120, right hemianopia+right hemiparesis+severe dysarthria+language, old score:right hypoesthesia+right hemiparesis, lower leg+right shallower naso-labial fold)
+CN II:light reflex +/+, 2mm/2mm, right hemianopia as by threatening test
+CN III, IV, VI:could not follow verbal orders for EOM testing, no preferential gaze noted during NE examination, OCR correctable without specific liimitation
+CN V:bilateral facial grimace, weaker on the right side
+CN VII:right side shallower nasolabial fold
+CN IX, X:unable to test due to patient's incooperative state
+
+Muscle power:
+RUL: 2 for proximal to pain stimulation RLL >3 to pain stimulation
+LUL: >4 could raise by spontaneous movement LLL:status post above knee amputation, stump >3
+
+DTR
+Right bicep +++ tricep ++ brachiordialis ++ knee ++ ankle ++
+Left bicep ++ tricep ++ brachioradialis ++ knee and ankle is amputated and unevaluable
+
+Babinski:
+Right:withdrawal
+Left:status post above knee amputation
+
+Sensation:bilateral grimace to pain stimulation at bilateral upper limb and right lower limb, but weaker on the right side
+FNF:unable to perform
+
+HEENT: conjunctivae: pale, sclerae: anicteric, pupils: isocoric 3/3mm, light reflex +/+, 
+Throat injection (-), tonsil enlarge (-), oral ulcer or thrush (-) 
+Neck: supple, no stiffness, no jugular vein engorgement, no goiter
+Chest: Symmetric expansion, deformity (-), tactile fremitus (-), subcostal retraction (-),suprasternal retraction (-), breath sounds: clear, no crackles
+Heart: regular heart beats, no audible murmur/gallop/friction rub
+Abdomen: soft and flat, bowel sound: normoactive. no tenderness. 
+Extremities: 
+ Right leg(below 1/2 tibia): redness(+), coldness(+), pain(-), swelling(+)mild, suspect edema, dorsalis pedis pulsation(-), popliteal pulsation(+), 4th toe: dry gangrene
+ Left leg: above knee amputation 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050105 [0415] 142          
+1050106 [1716] 299          
+1050106 [2244] 127          
+1050107 [0511] 104          
+1050107 [1139] 188          
+1050107 [1813] 192          
+1050107 [2155] 192          
+1050108 [0414] 95           
+1050108 [1021] 299          
+1050108 [1813] 153          
+1050108 [2216] 142          
+1050109 [0519] 109          
+1050109 [1124] 189          
+1050109 [1805] 175          
+1050109 [2157] 259          
+1050110 [0526] 102          
+1050110 [1201] 206          
+1050110 [1804] 209          
+1050110 [2206] 242          
+1050111 [0457] 114          
+1050111 [1129] 193          
+1050111 [1807] 190          
+1050112 [0432] 140          
+1050112 [1457] 136          
+1050113 [0532] 108          
+1050113 [1821] 169          
+1050114 [0531] 82           
+1050114 [1651] 127          
+1050115 [0619] 91           
+1050115 [1617] 175          
+1050116 [0554] 83           
+1050116 [1625] 155          
+1050117 [0524] 87           
+1050117 [1611] 113          
+1050118 [0557] 86           
+1050118 [1622] 137          
+1050119 [0555] 89           
+1050119 [1626] 150          
+1050120 [0537] 101          
+1050120 [1650] 92           
+1050121 [0547] 69           
+1050121 [1624] 112          
+1050122 [0549] 66           
+1050122 [1012] 178          
+1050122 [1619] 258          
+1050123 [0542] 89           
+1050123 [1732] 319          
+1050124 [0558] 140          
+1050124 [1641] 242          
+1050125 [0551] 159          
+1050125 [1636] 319          
+1050126 [0533] 125          
+1050126 [1611] 289          
+1050127 [0534] 178          
+1050127 [1622] 320          
+1050128 [0544] 171          
+1050128 [1659] 379          
+1050129 [0548] 192          
+1050129 [1537] 402          
+1050129 [2058] 327          
+1050130 [0202] 212          
+1050130 [0704] 328          
+1050130 [1211] 390          
+1050130 [1625] 476          
+1050130 [2047] 488          
+1050131 [0602] 266          
+1050131 [1104] 429          
+1050131 [1614] 446          
+1050131 [2133] 386          
+1050201 [0609] 256          
+1050201 [1101] 457          
+1050201 [1603] 538          
+1050201 [2119] 539          
+1050202 [0626] 273          
+1050202 [1123] 303          
+
+*********檢驗室:B3***********
+B3-1050119-8005860   OTHER DISCHARGE
+     ID+DS Common #1:       Enterobacter cloacae 3+
+     ID+DS Common #2:       Pseudomonas aeruginosa 3+
+     Anaerobic #1:       No anaerobic pathogen
+B3-1050201-1063288   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Few PMNs ( <10 /LPF )
+     Gram's(GS)#2:       Moderate epithelial cells ( 10-25 /LPF )
+     Gram's(GS)#3:       Gram (+) cocci in chains 3+
+     ID+DS Sputum Culture #1:       Mixed flora
+     Gram's(GS)#4:       Gram (+) cocci in cluster,  Yeast-like organism 1+
+     Gram's(GS)#5:       痰檢體品質不良建議重新送檢,  Gram (-) rods 2+
+B3-1050123-3010163   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Many PMNs ( >25 /LPF )
+     Gram's(GS)#2:       Many epithelial cells ( >25 /LPF )
+     Gram's(GS)#3:       Yeast-like organism 3+
+     ID+DS Sputum Culture #1:       Mixed flora
+     Gram's(GS)#4:       Gram (+) rods 1+
+     Gram's(GS)#5:       痰檢體品質不良建議重新送檢,  Gram (-) rods 1+
+B3-1050106-6088923   SKIN PUS
+     ID+DS Common #1:       Coagulase neg. staphylococci 1+
+     Anaerobic #1:       No anaerobic pathogen
+B3-1050130-0031270   ASCITES
+     ID+DS Common #1:       No aerobic  pathogen
+
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ammonia N    
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)     
+1050122 [1430] 29.8          2.8           135           3.9                        
+1050125 [0552] 31.9          2.9           141           3.0                        
+1050129 [0550] 35.5          3.0           139           2.9                        
+1050129 [2003]                                           3.3                        
+1050129 [2053] 38.9          3.0           135           3.4                        
+1050130 [2247]                                                         15           
+1050131 [0614] 35.2          3.0           140           2.9                        
+1050131 [1828]                                                                      
+1050131 [2051]                                                                      
+1050201 [0610] 33.5          3.1           140           2.8                        
+1050202 [0238] 38.7          3.6           138           3.2                        
+               T-BIL         AMY           Lipase        Ca            Mg           
+time/item      (mg/dL)       (U/L)         (U/L)         (mmol/L)      (mmol/L)     
+1050122 [1430]                                                                      
+1050125 [0552]                                                                      
+1050129 [0550]                                                                      
+1050129 [2003]                                                                      
+1050129 [2053]                                           1.70          0.70         
+1050130 [2247]                                                                      
+1050131 [0614]               50            96            1.81          0.87         
+1050131 [1828]                                                                      
+1050131 [2051]               31                                                     
+1050201 [0610] 0.35                                                    0.77         
+1050202 [0238]                                           1.87          1.58         
+               AST           LacticAcid    CK            Troponin I   
+time/item      (U/L)         (mmol/L)      (U/L)         (ng/mL)      
+1050122 [1430]                             127           0.051        
+1050125 [0552]                                                        
+1050129 [0550]                                                        
+1050129 [2003]                             76            0.103        
+1050129 [2053]                                                        
+1050130 [2247]               1.55                                     
+1050131 [0614] 26                          51            0.226        
+1050131 [1828]                             60            0.158        
+1050131 [2051]                                                        
+1050201 [0610] 29                                                     
+1050202 [0238]                                                        
+群組:
+
+               CK-MB        
+time/item      (ng/mL)      
+1050122 [1430] 4.05         
+1050129 [2003] 4.61         
+1050131 [0614] 3.63         
+1050131 [1828] 4.47         
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050122 [1430] 10.92         3.46          10.8          31.9          92.2         
+1050125 [0552] 8.94          3.22          9.8           28.8          89.4         
+1050129 [0550] 12.97         3.18          9.7           27.9          87.7         
+1050201 [0610] 11.74         2.90          8.8           25.1          86.6         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050122 [1430] 31.2          33.9          188           14.4          -            
+1050125 [0552] 30.4          34.0          168           13.8          -            
+1050129 [0550] 30.5          34.8          189           14.3          -            
+1050201 [0610] 30.3          35.1          213           14.6          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050122 [1430] 0.0           0.0           0.0           0.0           0.0          
+1050125 [0552] 0.0           0.0           0.0           0.0           0.0          
+1050129 [0550] 0.0           0.0           0.0           0.0           0.0          
+1050201 [0610] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050122 [1430] 81.4          4.9           0.5           6.1           7.1          
+1050125 [0552] 79.5          3.5           0.4           7.4           9.2          
+1050129 [0550] 80.3          1.3           0.2           8.0           10.2         
+1050201 [0610] 82.6          0.8           0.1           6.6           9.9          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050122 [1430] 0.0           0.0           0             -            
+1050125 [0552] 0.0           0.0           0             -            
+1050129 [0550] 0.0           0.0           0             -            
+1050201 [0610] 0.0           0.0           0             -            
+群組:General BioChemistry
+
+               TG            TP            ALB           ALT           ALP          
+time/item      (mg/dL)       (g/dL)        (g/dL)        (U/L)         (U/L)        
+1050122 [1430]                                           17                         
+1050125 [0552]                                           17                         
+1050129 [0550]                                           27                         
+1050129 [2053]                                           27                         
+1050129 [2355]                             2.0                                      
+1050131 [0614]               4.5           2.1                                      
+1050131 [2051] 48            <3.0          <1.5                        <5           
+1050201 [0610]                                           23                         
+               LDH          
+time/item      (U/L)        
+1050122 [1430]              
+1050125 [0552]              
+1050129 [0550]              
+1050129 [2053]              
+1050129 [2355]              
+1050131 [0614] 198          
+1050131 [2051]              
+1050201 [0610]              
+群組:Yes
+
+               C-Reactive P  hsCRP         D-Dimer       FDP           Fibrinogen   
+               rotein                                                               
+time/item      (mg/dL)       (mg/dL)       (μg/mL FEU)   (μg/mL)       (mg/dL)      
+1050122 [1430] 7.00                                                                 
+1050125 [0552] 6.82                                                                 
+1050129 [0550]               3.80                                                   
+1050129 [2053]               5.13                                                   
+1050129 [2315]                             6.61          21.2          491.0        
+1050131 [1847]                                                                      
+1050201 [0610]               4.89                                                   
+               NT-pro BNP   
+time/item      (pg/mL)      
+1050122 [1430]              
+1050125 [0552]              
+1050129 [0550]              
+1050129 [2053]              
+1050129 [2315]              
+1050131 [1847] 20000        
+1050201 [0610]              
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050129 [2003] 7.402         19.8          114.6         12.4          -12.6        
+1050130 [2247] 7.355         25.4          39.6          14.3          -11.5        
+1050131 [0614] 7.382         26.2          41.3          15.7          -9.7         
+1050202 [0238] 7.373         24.1          42.0          14.2          -11.3        
+群組:Punctate Exam.
+
+               Sp. gr.       Rivalta's Te  Total nuclea  RBC count     Sediment-Eos 
+                             st            r cell count                in           
+                                          (TNC)                                    
+time/item      (*)           (*)           (/μL)         (/μL)         (%)          
+1050131 [2051] 1.009         -             114           <3000         0            
+               Sediment-Lym  Sediment-M&H  Sediment-Neu  Sediment-Not                                           
+                                                       e            
+time/item      (%)           (%)           (%)           (*)          
+1050131 [2051] 90            8             2             N/A          
+*********檢驗室:OP***********
+
+群組:SEDIMENT
+
+               RBC (S)       WBC (S)       Epith (S)     Cast (S)      Crystal (S)  
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1050122 [1437] 0-2           2-5           5-10          Hy(2-5) Gr(5  -            
+                                                       -10) Cellula               
+                                                       r(0-2)                     
+1050201 [1329] 2-5           5-10          2-5           Hy(2-5) Gr(0  -            
+                                                       -2) Waxy(0-2               
+                                                       )                          
+               Bacteria      Mucus(S)      Others (S)   
+time/item      (*)           (*)           (*)          
+1050122 [1437] 2+            -             Yeast(2+)    
+1050201 [1329] +             -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH            Protein(C)    Glu.(C)       Ketone body  
+                                                                    (U)          
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1050122 [1437] 1.018         6.5           600 ( 3+ )    >1000 ( 4+ )  -                          
+1050201 [1329] 1.026         6.5           600 ( 3+ )    >1000 ( 4+ )  -                          
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+                                                                     (U)         
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1050122 [1437] 1+            ≦1.5          -             -             -            
+1050201 [1329] 2+            ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1050122 [1437] Yellow        -            
+1050201 [1329] Yellow        -            
+群組:STOOL
+
+               O.B.          Stool WBC    
+time/item      (*)           (/HPF)       
+1050126 [1003]               Not found    
+1050129 [1212] 2+                         
+群組:Punctate Exam.
+
+               Sp. Gr.(A)    Rivalta's(A)  Total nuclea  RBC count     Sediment-Eos               
+                                          r cell count                in           
+                                          (TNC)                                    
+time/item      (*)           (*)           (/μL)         (/μL)         (%)          
+1050130 [0123] 1.008         -             26            <3000         N/A          
+1050131 [0432] 1.009         +             71            <3000         0            
+               Sediment-Lym  Sediment-M&H  Sediment-Neu  Sediment-Not                                           
+                                                       e            
+time/item      (%)           (%)           (%)           (*)          
+1050130 [0123] N/A           N/A           N/A           Damaged Cell               
+1050131 [0432] 62            38            0             N/A          
+*********檢驗室:BC***********
+
+群組:Others
+
+               Osmolality(B  Osmolality(U 
+               )             )            
+time/item      (mOsm/Kg)     (mOsm/Kg)    
+1050201 [2044] 324           408          
+群組:General BioChemistry
+
+               Alb           TP            T-BIL         ALT           GGT          
+time/item      (g/dL)        (g/dL)        (mg/dL)       (U/L)         (U/L)        
+1050108 [0612]                                           41                         
+1050130 [0123] <1.5          <3.0                                                   
+1050130 [0711]                             0.26                        109          
+1050131 [0432] <1.5          <3.0                                                   
+1050131 [0718]                                                                      
+1050131 [2051]                                                                      
+1050201 [0610]                                                                      
+1050201 [2044]                                                                      
+               LDH           UN            CRE           Na            K(U)         
+time/item      (U/L)         (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)     
+1050108 [0612]               30.3          2.3           135                        
+1050130 [0123] <25                                                                  
+1050130 [0711]               37.3          2.9           137                        
+1050131 [0432] <25                                                                  
+1050131 [0718]                                                                      
+1050131 [2051] 25                                                                   
+1050201 [0610]                                                                      
+1050201 [2044]                                                         34           
+               K             Mg            TG            T-CHO         HDL-C        
+time/item      (mmol/L)      (mmol/L)      (mg/dL)       (mg/dL)       (mg/dL)      
+1050108 [0612] 3.8                                                                  
+1050130 [0123]                                                                      
+1050130 [0711] 3.3           0.78                                                   
+1050131 [0432]                                                                      
+1050131 [0718]                             51                                       
+1050131 [2051]                                                                      
+1050201 [0610]                             173           126           18           
+1050201 [2044]                                                                      
+群組:DM
+
+               GLU AC        HbA1c        
+time/item      (mg/dL)       (%)          
+1050129 [0550]               6.8          
+1050131 [0432] 515                        
+1050131 [2051] 436                        
+群組:Hormones
+
+               Free T4(CIA)  hsTSH(CIA)    Cortisol DL   ACTH                       
+time/item      (ng/dL)       (μIU/mL)      (μg/dL)       (pg/mL)      
+1050201 [0610] 1.05                                                   
+1050201 [0814]               1.09          24.4          33.7         
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050108 [0612] 8.89          3.35          10.4          30.7          91.6         
+1050130 [0711] 14.07         3.11          9.6           27.7          89.1         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1050108 [0612] 31.0          33.9          171           14.0          -            
+1050130 [0711] 30.9          34.7          212           14.6          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050108 [0612] 0.0           0.0           0.0           0.0           0.0          
+1050130 [0711] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050108 [0612] 78.8          4.9           0.4           9.3           6.6          
+1050130 [0711] 86.0          0.9           0.1           8.2           4.8          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050108 [0612] 0.0           0.0           0             -            
+1050130 [0711] 0.0           0.0           0             -            
+
+*********檢驗室:B2***********
+B2-1050122-2097557   BLOOD
+     ID+DS Blood.#1:       No growth after 5 days
+
+
+*********檢驗室:B4***********
+B4-1050130-0031271   ASCITES
+     AF Stain(AF) #1:       Acid fast bacilli - negative
+
+*********檢驗室:CT***********
+
+群組:PT
+
+               PT            PT INR       
+time/item      (sec)         ()           
+1050130 [0711] 10.4          0.98         
+群組:PTT
+
+               PTT          
+time/item      (sec)        
+1050130 [0711] 28.3         
+*********檢驗室:N2***********
+
+群組:Tumor Marker
+
+               RIA:CEA (Tis 
+               sue Fluid)   
+time/item      (ng/ml)      
+1050131 [2051] 1.45         
+*********檢驗室:SF***********
+
+群組:Yes
+
+               Anti-HCV Ab   HBsAg        
+time/item      (*)           (IU/mL)      
+1050201 [0610] Positive      Negative(0.0 
+                             0)           
+
+
+*********檢驗室:B3***********
+B3-1041225-5016291   SKIN PUS
+     ID+DS Common #1:       Enterobacter cloacae 2+
+     ID+DS Common #2:       Staphylococcus aureus 2+
+     Anaerobic #1:       No anaerobic pathogen
+
+
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               BUN           CRE           Na            K            
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)     
+1041231 [1507] 35.6          3.8           133           4.3          
+1050103 [0527] 35.8          2.9           136           4.0          
+1050104 [0606] 34.3          2.8           134           4.0          
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1041231 [1507] 9.6           20.5          0.90         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1041231 [1507] 68           
+1050103 [0527] 47           
+1050104 [0606] 42           
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041231 [1514] 7.82          3.34          10.7          30.8          92.2         
+1050103 [0527] 7.69          3.58          11.4          33.5          93.6         
+1050104 [0655] 8.22          3.35          10.4          30.3          90.4         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041231 [1514] 32.0          34.7          180           14.1          -            
+1050103 [0527] 31.8          34.0          148           14.2          -            
+1050104 [0655] 31.0          34.3          157           14.0          -            
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1041231 [1509] 192          
+1050101 [1331] 95           
+1050101 [1753] 86           
+1050101 [2034] 144          
+1050102 [0449] 125          
+1050102 [1206] 258          
+1050102 [1706] 135          
+1050102 [2014] 210          
+1050103 [0525] 108          
+1050103 [1255] 163          
+1050103 [1657] 230          
+1050103 [2037] 210          
+1050104 [0608] 137          
+1050104 [1203] 199          
+1050104 [1634] 190          
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ca           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1041228 [1128] 40.7          2.9           132           5.1           2.05         
+               Troponin I   
+time/item      (ng/mL)      
+1041228 [1128] 0.051        
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1041228 [1128] 48           
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041228 [1128] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041228 [1128] 85.7          2.3           0.6           4.6           6.8          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041228 [1128] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041228 [1128] 8.94          3.74          11.8          34.2          91.4         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041228 [1128] 31.6          34.5          177           14.5          -            
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1041228 [1128] 193 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 施怡倫 影像時間: 2016/02/01 15:30 (32001CYM) 發報告時間: 2016/02/01 16:34 EXAMINATION: Chest : AP View (Supine)
+FINDINGS:
+Placement of a NG tube and a right central venous catheter. Sternal wiring. Normal heart size. Increased infiltration over bilateral lungs. Previous fractures of the left clavicle and ribs.
+CT Without Contrast-Brain 醫令: CT Without Contrast-Brain 報告醫師: 李崇維 影像時間: 2016/02/01 23:57 (33070B0M) 發報告時間: 2016/02/02 09:54 MRI of the brain without and with i.v. Gd chelate enhancement shows:
+1. Multiple low-density patches in left fronto-parietal lobe, bilateral periventricular white matter, bilateral cerebellum. Left upper cerebellar lesion and left frontal cortical lesion are new. 
+2. Prominent sulci and fissures.
+3. No definite acute intracranial hemorrhage. 
+4. Ill-defined low-density patches at periventricular white matter. 
+5. No definite focal lesion in the cranial vault.
+CT Without Contrast-Pelvis 醫令: CT Without Contrast-Pelvis 報告醫師: 李鼎專 影像時間: 2016/01/31 02:23 (33070B5M) 發報告時間: 2016/02/01 12:09 CT of abdomen and pelvis without contrast shows: 
+(The sensitivity and specificity of non-contrast study are limited.) 
+1. increased ascites and mesenteric fat stranding, more severe at upper abdomen. 
+2. parenchymal liver disease.
+3. no obvious focal lesion is noted at pancreas, spleen, bilateral kidneys and adrenal glands. 
+4. small paraaortic lymph nodes. 
+5. s/p NG tube insertion. s/p foley insertion. 
+6. left inguinal hernia. 
+7. left pleural effusion with atelectasis of LLL. Small right pleural effusion. 
+8. atherosclerotic change of aorta and coronary arteries. Metallic wiring of sternum. 
+9. thoracolumbar spondylosis with degenerative marginal spurs. Old left rib fractures.
+CT Without Contrast-Abdomen 醫令: CT Without Contrast-Abdomen 報告醫師: 李鼎專 影像時間: 2016/01/31 02:23 (33070B3M) 發報告時間: 2016/02/01 12:09 CT of abdomen and pelvis without contrast shows: 
+(The sensitivity and specificity of non-contrast study are limited.) 
+1. increased ascites and mesenteric fat stranding, more severe at upper abdomen. 
+2. parenchymal liver disease.
+3. no obvious focal lesion is noted at pancreas, spleen, bilateral kidneys and adrenal glands. 
+4. small paraaortic lymph nodes. 
+5. s/p NG tube insertion. s/p foley insertion. 
+6. left inguinal hernia. 
+7. left pleural effusion with atelectasis of LLL. Small right pleural effusion. 
+8. atherosclerotic change of aorta and coronary arteries. Metallic wiring of sternum. 
+9. thoracolumbar spondylosis with degenerative marginal spurs. Old left rib fractures.
+CT With/Without Contrast-Chest 醫令: CT With/Without Contrast-Chest 報告醫師: 張為迪 影像時間: 2016/01/29 23:43 (33072B2M) 發報告時間: 2016/02/01 13:08 CT of the chest without and with contrast enhancement shows: 
+> Status post CABG with sternal wiring.
+> Atherosclerotic change with mural calcification of the aorta and coronary arteries.
+> Status post nasogastric tube insertion.
+> An ill-defined partsolid opacity about 1.2m at the RUL (SE5 IM101). Subsegmental atelectasis at the RML, lingular LUL, and bilateral lower lobes.
+> Bilateral pleural effusion. 
+> Small bilateral mediastinal lymph nodes. 
+> No definite focal lesion in bilateral adrenals. 
+> Small bilateral renal cysts. 
+> Gall stone(s). 
+> Small paraaortic lymph nodes.
+> Moderate ascites.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 柯維鈞 影像時間: 2016/01/29 21:09 (32001CYM) 發報告時間: 2016/01/31 16:56 Chest AP shows postoperative change with thoracotomy and placement of multiple sternal wires. placement of a NG tube. normal heart size. tortuous aorta. hazy opacities at both lungs. elevated right hemidiaphragm. degenerative change of the T spine. obscured bilateral costophrenic angles.
+MRI Without Contrast--Brain 醫令: MRI Without Contrast--Brain 報告醫師: 李崇維 影像時間: 2016/01/28 21:15 (33084B0M) 發報告時間: 2016/01/29 12:00 MRI of the brain without contrast enhancement shows:
+> Multiple recent infarction at the left frontal periventricular white matter, bilateral cerebellum, posterior pons.
+> Brain atrophy.
+> Old insult at the left parietal lobe. Atrophy of the right pons.
+> Multiple stenosis at left MCA, left ICA, BA and bilateral VA.
+> Intact cranial vault.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 李怡範 影像時間: 2016/01/23 17:49 (32001CYM) 發報告時間: 2016/01/26 08:47 normal heart size. tortuous aorta with calcification. placement of multiple sternal wires. bilateral lung opacities. left pleural effusion.
+Abdomen:KUB 醫令: Abdomen:KUB 報告醫師: 簡寧 影像時間: 2016/01/03 12:00 (32006C0M) 發報告時間: 2016/01/03 23:20 unremarkable bowel gas pattern. phlebolith(s) in the pelvic cavity. a calcified stone superimposed in the LUQ of abdomen. spondylosis of the spine with marginal spur formation of the lumbar spine. placement of a NG tube.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 簡寧 影像時間: 2016/01/03 11:59 (32001CYM) 發報告時間: 2016/01/03 23:59 cardiomegaly. increased infiltration in the bilateral lower lung fields. bilateral sharp costophrenic angles. post-operative change with metallic wires at sternum. placement of a NG tube. 
+病理報告(Pathology Report) 
+088/03/09 S9903367
+Kidney,? side,needle biopsy,membranous glomerulonephritis stage II, 
+臆斷(Tentative Diagnosis) 
+1. Acute right side weakness, suspect recurrent left side stroke, onset 2016/2/1 (around 6-10 PM)
+2. Recurrent stroke at left pariventricular white matter and right cerebellum, onset time suspect 2016/1/22
+3. Ischemic stroke at right paramedian pons on 2015/12/29, with dysarthria and right hemiparesis, under bokey+plavix, changed to plavix + pletaal on 2016/1/15 
+4. Suspect acute on chronic heart failure (LVEF 59%, ProBNP 20000)
+5. Multifocal atrial tachycardia, under Verapamil rate control
+6. Acute on Chronic kidney injury, suspect due to occult infection, peritonitis or UTI can't be excluded
+7. Hepatitis C, with massive ascites; Child-Pugh score B
+8. Hypertension for 10+ years, under medication control 
+9. Type 2 diabetes mellitus for 10+ years, under medication control
+10. Left lower limb status post above knee amputation  due to peripheral arterial occlusive disease in 2012/2 
+11. Old infarctions at left posteior frontal and parietal cortical/subcortical regions (2013 MRI)
+12. IHCA status post CPR and ECMO due to cardiovascular disease(3-vessel-disease with NSTEMI), status post CABG on 2011/12/28
+13. Dry gangrene in 4th toe due to peripheral arterial occlusive disease 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+#1. Recurrent stroke on 2016/02/01
+A:
+Conscious drowsy now with NG use
+Decreased muscle power in RUE
+Under Plavix and Pletaal use
+P:
+1. Arrange Brain CT/MRI again later.
+2. Pursue holter report: Afib or MAT.
+3. Consider resume aspirin + Plavix after rule out large stroke.
+4. Keep N/S hydration, 1000ml/day, carefully monitor I/O and respiratory pattern
+
+#2. Ascites
+A:
+r/o Liver cirrhosis, Anti-HCV (+)
+r/o Peritonitis, SBP?
+Pending ascited culture
+Alb: 1/29 2.0 -->1/31 2.1 (Albumin supplement 1/30~2/1)
+Abdomen : soft, mild distension, no tenderness
+Abdomen CT: Increased ascites and mesenteric fat stranding, more severe at upper abdomen, peritonitis can't be excluded
+P:
+1. Arrange abdomen echo
+2. Check albumin, supplement if needed
+
+#3. CHF, CAD 3VD, AKI on CKD, DM
+heart echo: LVEF:55%
+tachypnea may related acidosis
+Proteinuria, r/o nephrotic syndrome
+Hypokalemia, high TTKG: 9.64, r/o HTN, r/o hypomagnesium, r/o acidosis related
+Hypomagnesium-> hypermagnesium, r/o over supplement
+P:
+1. monitor I/O, follow up VBG, electrolytes
+2. avoid nephrotoxicity medication, discussed with family for H/D risk
+
+Treatment Goal: no fever, pain<3, stable neurological status 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右頸 右腹股溝 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：無    
+胃造廔口：無  
+尿管留置：有 Two way Foley 14Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：5
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：配偶 外勞 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+林坤霈 主治醫師 

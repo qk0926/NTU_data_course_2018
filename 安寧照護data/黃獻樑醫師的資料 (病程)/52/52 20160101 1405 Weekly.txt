@@ -1,0 +1,33 @@
+Non-small cell lung cancer, RML, pleomorphic carcinoma, EGFR L858R mutation, pT2bN1M0, stage IIB, s/p RML lobectomy (2014/12/18), s/p adjuvant GP(IV) (2015/01/08~2015/03/27), with recurrence over RLL infrahilar region, s/p VATS and thoracotomy RLL lobectomy on 2015/10/22, with r¡¦t lung ischemia s/p Thoracotomy RUL lobectomy + VV-ECMO on 2015/10/30 (ECMO removed on 11/15)
+
+<Treatment course this week>
+Antibiotics of Colistin was kept this week. He remained afebrile under current treatment. Exertional intolerance was noted, but showed some improvement under rehab. His O2 demand was room air or nasal canuula. 
+
+<Vitals>
+2016/01/01 13:00 T:35.1 P:123 R:26
+2016/01/01 13:01 BP:146/96
+2016/01/01 11:11 Pain score:0
+2016/01/01 08:54 SpO2:100%(%,2.5L,Cannula)
+Afebrile 
+lethargy, grossly oriented
+Exertion intolerance, improving under rehab
+O2 demand: room air or N/C
+
+<Active problem>
+# Pnuemonia, Ceftazidime-resistant PsA infection
+2015/12/29 ID+DS Sputum Culture #1:Mixed flora *
+Colistin 12/17~
+Afebrile under Colistin 
+
+Lab
+2015/12/28 Procalcitonin:0.1322 ng/mL
+2015/12/28 C-Reactive Protein:2.36 mg/dL
+2015/12/28 HB:9.3 g/dL
+2015/12/28 WBC:12.20 K/£gL
+
+>>>keep current abx
+
+# Rehab since 12/29
+Exertional dyspnea
+Actively doing rehab
+>>> keep rehab

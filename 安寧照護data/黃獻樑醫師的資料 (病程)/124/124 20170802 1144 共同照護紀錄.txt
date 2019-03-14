@@ -1,0 +1,29 @@
+Dx:
+1. R/O pneumonia
+2. Suspect acute decompensated heart failure, with pulmonary congestion and mixed respiratory failure, s/p ETT+MV(2017/7/22-)
+3. ACKD, KDIGO stage 2, suspect UTI or sepsis or cardiorenal syndrome
+4. Hyponatremia, suspect poor intake and fluid overload related, improving
+5. Non-sustained VT
+6. R/O ischemic stroke 
+
+<Dr>
+1. Keep Abx to Mepem + Targocid and Diflucan
+2. PRBC supplement and f/u Hb
+3. Keep Transamine IH
+4. Hold Cordarone and f/u HR 
+5. Monitor BP and titrate vasopressors
+6. Supportive care
+
+<Pharmacist>
+1. keep the current antibiotics with HD doses.
+2. Heart rythm control with amiodarone. Hold amiodarone due to HR<70. Monitor HR.
+
+<Respiratory therapist>
+deteriorated in general condition.
+multiple organs failure.
+bad progression.
+palliative RC or withdrawl of vent?
+
+<NURSE>
+1.待照會家醫科安寧照護討論撤除維生系統相關事宜.
+2.keep Levophed 16mg in D5W 250ml run 2ml/hr use for keep SBP>90mmHg.

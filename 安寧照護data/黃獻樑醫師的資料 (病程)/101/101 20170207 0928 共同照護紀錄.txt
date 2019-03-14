@@ -1,0 +1,31 @@
+GI: consider EGD with EUS at general ward
+Hema: tumor cell in bone marrow
+S/C(2/1): no evidence of PsA infection
+
+elevated CK and LDH
+
+Plan:
+Keep Tienam; pursue result of S/C after intubation
+Keep half dose Clexane
+Arrange spine bone biopsy
+Inform family poor prognosis
+
+Pharmacist:
+Correct hypernatremia
+Use D5W as diluent.
+
+Nurse:
+目前病人GCS:E3VM4,stupor,keep NPO中for bloody stool,keep 藥師及醫師建議用藥使用，目前SpO2:97-100%，呼吸patten偶費力。
+RT:
+ETT: 02/01-
+<SETTING> PC/AC IP:12 RR:16 Ti:0.9 PEEP:8 FiO2:45  
+E4M4VT, muscle power:1-2
+fever
+blood stool
+S/C: Gram (+) cocci 3+, Gram (-) rods 3+  
+agitation
+<RESPIRATORY PLAN>
+1. MV keep support and taper FiO2
+2. consider Bone biopsy
+3. consult 安寧照護
+4. infection control

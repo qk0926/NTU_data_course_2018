@@ -1,0 +1,67 @@
+Brief Summary of this week    
+After transferred to 4B1, CVC was replaced to the left neck. PiCCO showed mixed shock. Levophed and dopamine were given. Profound shock with metabolic acidosis occurred in the evening on 3/3, and Bosmin was prescribed. CVVH was initiated on 3/4 for metabolic acidosis. Solucortef was given for adrenal insufficiency. G-CSF was also given for the neutropenia. The body weight increased 3 kg on 3/5, and ultrafiltration was thus initiated. 
+
+Assessment 
+BW=57.3kg(+3.1)
+Fluctuated SpO2
+Try UF=75-100 with hypotension
+Keep UF=60
+Taper dopamine and titrate the Bosmin
+
+[Current antibiotics]
+Tygacil+Ciproxin 3/3~ D3
+Colistin         1/13~ total D53(Tenckhoff: MDRAB)
+
+[Inactvie Abx]
+Meropenem     1/22~3/2, total 41 days.
+
+[Inotropes]
+Dopamine 10ml/hr(9.85mcg/kg/min)
+Levophed 18.5ml/hr(19.7mcg/min)
+Bosmin 4ml/hr(6.67mcg/min)
+
+[RRT]
+SLED(11/22-) with albumin supplement
+CVVH(3/4-)
+
+[Ventilator]
+PCV IP 16, PEEP 8, FiO2 0.6, Ti 0.9
+->TV 468, RR 20, VE 9.73
+
+[Diet]NPO, D50W 500ml, NG decompression bile 100ml
+
+[Important study]
+11/17 PD fluid:MDRAB; Blood culture: MDRAB, enterococcus
+      S/C: MDRAB
+1/25 Tenckoff tip/C: MDRAB
+1/26 S/C: MDRAB 1+ Proteus mirabilis 1+
+2/23 left psoas muslce abscess: 
+     AFS:(-); bacterial:(-); fungus:( )
+2/25 omentum abscess:
+     AFS:( ), bacterial:(-), fungus:( )
+01/19 LVEF: 28.9%, LVEDD/ESD: 53/45mm, akin at antero+sept wall
+2/19  CT(A+P): Left psoas abscess. Suspected intraabdominal abscess(smaller than that on 1/31)
+2/23  left psoas hematoma, status post CT-guided aspiration
+2/25  Fluid collection in anterior abdominal omentum, S/P catheter drainage.
+
+[Important consultation]
+1/29 ID Wang: The MDRAB is sensitive to carbapenem and 
+     colistin. May keep meropenem + colistin. 
+     No need for Tigecycline. 
+2/01 GS Dr. 李志元: low benefit of ileus OP
+2/23 Radiologist: <1ml old blood-like fluid was aspirated from left psoas muscle, r/o hematoma; sent for culture; if aspiration still needed, may consult Dr.梁 for superficial lower abdomen abscess drainage
+3/3 ID Dr盤：Consider shifting Mepem to Tigecycline for suspecting myelosuppression from prolonged use of beta-lactam and adding Ciprofloxacin for covering pseudomonas, which was in risk of resistance to Colistin since prolonged course of Colistin treatment.
+
+Plan 
+1. For profound shock, keep strong antibiotics according to ID man suggestion(Colistin D53+Tygacil D3+Ciproxin D3)
+- Family agreed on cash G-CSF(FN with profound shock), f/u CBC closely
+- SoluCortef 200mg/day infusion for adrenal insufficiency
+- Keep CVVH for ongoing acidosis and for fluid removal(volume contraction according to PiCCO result if BP more stable)
+(DW 55.5~56kg?), now 57.3kg; start UF with I/O balance goal(UF~100ml) if more stable BP
+- Levophed+Dopamine+Bosmin support, consider Dopamine first
+- Check PiCCO when off CVVH
+- May arrange C+A+P CT in morning when off CVVH
+- DNR 不電不壓
+2. Keep Cordarone 200mg BID for frequent VPCs, DC Mexitil for now decompensated heart failure
+3. Plavix for CAD. Pletaal for PAOD.
+- 呼吸器依賴重大傷病證明申請表(+); 近一週內更新之病摘一份(-); 呼吸照護治療單(近30天)(+); 重大傷病呼吸器依賴診斷證明書(-).

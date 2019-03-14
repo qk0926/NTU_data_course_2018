@@ -1,0 +1,707 @@
+2015/11/21 19:59 
+主訴(Chief Complaint) 
+Informant:patient's husband
+Abdominal fullness for 4 days 
+病史(Brief History) 
+This is a 59-year-old woman with a medical history of: 
+(1) Rheumatoid arthritis, refractory to Enbrel, status post Rituximab C9D1 (2015/05/15)
+(2) Interstitial pneumonitis with subcutaneous emphysema, suspected autoimmune- or infection- related
+(3) Hypertension, under medication
+(4) Sjogren's syndrome, secondary 
+(5) Gastric ulcer status post partial gastrectomy 30year ago
+
+Initially, the patient experienced pain and swelling at multiple joints (including bilateral metacarpophalangeal, metatarsophalangeal, proximal interphalangeal, ankle, elbow, shoulder, and wrist joints) nine years ago. The symptoms aggravated to such degree that she couldn't brush teeth, hold chopsticks, or climb the stairs. Dry mouth was also noted. On 2006/06/09, she came to NTUH rheumatologist Dr.謝松洲's OPD, and elevated rheumatoid factor (886IU/mL) was found. Ankle X-ray on 2006/6/15 showed bony erosions at bilateral metatarsophalangeal joints. No focal bony or joint lesions were found at bilateral elbow, wrist, hand, hip, or knee joints. Rheumatoid arthritis was diagnosed.
+
+The patient was hospitalized on 2006/06/18 for methylprednisolone pulse therapy. She was re-admitted on 2006/08/26 for piriformis myositis, presenting as right knee pain and numbness with radiation to lower back, and treated with analgesics and muscle relaxants. After discharge, she was followed-up as outpatient with oral disease-modifying antirheumatic drugs and Enbrel injection for treatment. Her arthralgia subsided with good response to DMARD and Enbrel.
+
+However, her symptoms recurred in 2010, and she received cash Rituximab for 9 cycles (2010.7.14, 2011.2.17, 2011.9.18, 2012.5.21, 2013.1.9, 2013.9.1, 2014.4.10, 2014.10.22, 2015.05.15) due to poor response to conventional treatment. Furthermore, dry cough and dyspnea were complained of during her OPD follow-up in 2013.12. Pulmonary function test showed decreased diffusion capacity, and interstitial pneumonitis secondary to her systemic autoimmune disease was suspected. An episode of bilateral lobar pneumonia occurred in 2014.9.18, which was under control with IV levofloxacin, ceftriaxone, Tamil, and Diflucan initially at ER and clindamycin + amikacin after admission. Subcutaneous emphysema was noted on chest X-ray, but no evidence of pneumothorax was found. 
+
+Then, she was admitted twice 2015/09/09~2015/09/14 and 2015/11/03/~2015/11/17 due to recurrent urinary tact infection with urine culture yield ESBL E.coli. However, the mild dyspnea and diarrhea were found when she was hospitalization. The abdominal full with poor appetite and progressive diarrhea (5~6 times per day), dyspnea were noted. Her husband denied fever, chills, choking, headache, palpitation, orthopnea. Then, she was took to our emergent department for help. At emergent department, the initial triage revealed blood pressure: 133/74mmHg, pulse rate: 115/min, respiratory rate: 20/min, temperature: 37.6℃. The chest X-ray revealed bilateral lower lung infiltration and CT reported ground glass opacities and reticular pattern infiltration, interstitial pneumonia (pneumonitis) is considered first. However, the sudden dysnea with desaturation was found on 2015/11/21. The chest X-ray showed progressive infiltration over bilateral lung field. The hypoxia status aggravated even under non-breathing mask with 15L/min O2 supply. The rheumotologist was consulted and he suggested solumedrol 10mg q8h and Sevatrium +Tazocin for penumonia. The endotracheal tube insertion was performed at the same time. Under impression of Pneumocystis jiroveci pneumonia infection or interstitial lung disease progression , she was admitted to our ICU for further care and management. 
+
+Family History:
+Medication Allergy:No  病人自述 2015/11/20
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  病人自述 2015/11/20
+Current Medication:
+NTUH:
+TAZOCIN (based on piperacillin content) 2000 mg/vial 3000 mg STAT IF 1 days
+PCN Test (Penicillin G Skin Test) 1000 U/1 mL 2 mL/vial 0.1 mL STAT ID 1 days
+TAZOCIN (based on piperacillin content) 2000 mg/vial 3000 mg Q6H IF 2 days
+Atrovent Neb Soln 250 mcg/1 mL 2 mL/amp 1 amp Q6H IH 2 days
+Bricanyl Neb Soln 2.5 mg/1 mL 2 mL/amp 1 amp Q6H IH 2 days
+Primperan Inj 10 mg/2 mL /amp 10 mg STAT IV 1 days
+甘草 120 Compound Glycyrrhiza Mixture Oral Soln 120 mL/btl 5 mL QID PO 2 days
+甘草 120 Compound Glycyrrhiza Mixture Oral Soln 120 mL/btl 5 mL STAT PO 1 days
+40 Solu-Medrol 40 mg/vial 20 mg STAT IV 1 days
+Smecta 3 g/pack 1 pack TID PO 2 days
+Rolikan 16.6 mEq/20 mL /amp 49.8 mEq STAT IV 1 days
+Smecta 3 g/pack 1 pack STAT PO 1 days
+Sevatrim (based on trimethoprim content) inj 80 mg/5 mL /amp 240 mg Q12H IF 2 days
+Sevatrim (based on trimethoprim content) inj 80 mg/5 mL /amp 240 mg STAT IF 1 days
+40 Solu-Medrol 40 mg/vial 10 mg STAT IV 1 days
+TAZOCIN (based on piperacillin content) 2000 mg/vial 4000 mg Q6H IF 2 days
+40 Solu-Medrol 40 mg/vial 10 mg Q8H IV 2 days
+警 Relaxin 500 mg/vial 不計價常備藥 50 mg STAT IV 1 days
+Rabeprazole Sodium (Pariet 20 mg/tab) 1 tab QD PO 8 days
+Aspirin (Aspirin 100 mg/tab) 0.5 tab QDPC PO 8 days
+Sulfasalazine (Salazine EC 500 mg/tab) 1 tab QD PO 8 days
+Hydroxychloroquine Sulfate (PLAQUENIL 200 mg/tab) 1 tab BID PO 8 days
+Dimethicone (Gascon 40 mg/tab) 1 tab TIDPC PO 8 days
+Leflunomide (Arheuma 20 mg/tab) 1 tab BIW PO 8 days
+Prednisolone (Predonine 5 mg/tab) 2 tab BID PO 8 days
+Procaterol HCl (Meptin 25 mcg/tab) 1 tab BID PO 8 days
+Antibiotics-Resistant Lactic Acid Bacteriae (自費 Biofermin-R Powder 6 mg/1 g /pack) 1 pack TIDPC PO 8 days
+Losartan Potassium (可 COZAAR 50 mg/tab) 0.5 tab HS PO 8 days
+Dextromethorphan HBr (Regrow SR 60 mg/tab) 1 tab Q12H PO 8 days
+Pilocarpine HCl (Salagen 5 mg/tab) 0.5 tab QID PO 8 days
+Zopiclone ((管4) Imovane 7.5 mg/tab) 1 tab HS PO 8 days
+Meloxicam (Mobic 15 mg/tab) 0.5 tab BID PO 8 days
+Other: denied 
+中草藥:denied 
+保健食品:denied 
+Past Medical History:
+Hospitalization:
+入院日期:2015_05_15 出院日期:2015_05_16 診斷:Rheumatoid arthritis (RA)
+入院日期:2015_11_03 出院日期:2015_11_17 診斷:Urinary tract infection
+入院日期:2015_09_09 出院日期:2015_09_14 診斷:Bacteremia
+入院日期:2015_05_30 出院日期:2015_05_31 診斷:Rheumatoid arthritis (RA)
+入院日期:2014_11_14 出院日期:2014_11_15 診斷:Hypertension
+入院日期:2014_09_30 出院日期:2014_10_25 診斷:Sjogren syndrome
+入院日期:2014_04_30 出院日期:2014_05_01 診斷:Rheumatoid arthritis (RA)
+入院日期:2014_04_10 出院日期:2014_04_11 診斷:Rheumatoid arthritis (RA)
+
+Past Surgical History: 
+  1. Gastric ulcer status post partial gastrectomy 30year ago
+Lifestyle:
+   Cigarette smoking: denied 
+   Alcohol consumption: denied
+   Betelnut chewing: denied
+Travel history: denied
+Occupation:housewife
+Contact and cluster history:denied 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:高中
+職業:家管
+宗教信仰:佛教
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:不清楚，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:
+
+Psychological History and Evaluation
+意識狀態:警醒
+認知功能:正常 
+精神情緒狀態:異常 焦慮 
+安全問題:有 其他 預防跌倒及拔管
+睡眠形態:異常 使用藥物 Fentanyl cIF
+
+Nutritional Screen
+攝食情形:
+排便狀態:異常
+排便異常狀態:無排氣
+BMI:23.75
+
+Fall Risk Assessment
+總分:4
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular:  exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(+), dry cough(+), chest pain(-), hemoptysis(-), productive cough (-), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(+), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH:157.2 cm   BW:58.7 kg
+T:36.7 P:118 R:27
+BP:130/72 mmHg
+Pain:0
+
+Neurological Examination:
+. Consciousness:alert, oriented, E4VtM6
+. Muscle power: full
+. Gait:can't evaluate
+
+‧Head-Eye-ENT 
+        grossly normal, conjunctiva: pink, sclera: anicteric
+        Pupil: isocoric,  3mm/ 3mm
+        Light reflex: L/R: +/+, EOM: full and free
+‧Neck
+	Jugular vein engorgement(-)
+	Thyroid goiter(-)
+	Meningismus: Kernig sign(-); Brudzinski sign(-)
+        Carotid bruit(-)
+‧Chest
+	Thoracic cage contour: symmetric
+	Vocal fremitus and expansion: symmetric
+	Percussion: resonant
+        Breathing sound: 
+	Bilateral Crackles(+) wheezes(-)rhonchi(-) stridor(-)
+‧Heart
+	Heart beat: regular  Murmurs(-)
+        LV lift(-) RV heave(-)
+	Increased cardiac size by percussion(-)
+	Adventitious sounds (-)
+‧Abdomen
+        Flat & soft
+	Superficial vein engorgement(-) Protruded umbilicus(-)
+	Bowel sound: Normoactive
+	Tenderness(-) Hepato-jugular reflux(-)
+	Liver and spleen: impalpable
+‧Extremities
+        Freely movable, pulses symmetric and intact, 
+        pitting edema(+) bilateral lower leg, grade I~II	
+‧Back
+        Knocking pain(-)
+‧Skin
+	Abnormal pigmentation(-)
+	Petechiae(-) Purpura(-) Ecchymoses(-) Telangiectasia(-)
+	Rash(-) Plaque(-)
+‧Lymphadenopathy(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:OP***********
+
+群組:SEDIMENT
+
+               RBC (S)       WBC (S)       Epith (S)     Cast (S)      Crystal (S)  
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1041121 [1458] 0-2           0-2           2-5           Gr(0-2)       -            
+               Bacteria      Mucus(S)      Others (S)   
+time/item      (*)           (*)           (*)          
+1041121 [1458] -             +             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH            Protein(C)    Glu.(C)       Ketone body  
+                                                                    (U)          
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1041121 [1458] 1.029         5.5           50 ( 1+ )     -             +/-          
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+                                                                     (U)         
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1041121 [1458] -             ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1041121 [1458] Dark Yellow   +            
+*********檢驗室:RL***********
+
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1041121 [1452] 7.314         34.1          59.0          17.5          -8.9         
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Cl           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1041121 [1452] 25.4          0.9           132           4.9           106          
+               Ammonia N     Ca            Mg            P             LacticAcid   
+time/item      (μmol/L)      (mmol/L)      (mmol/L)      (mg/dL)       (mmol/L)     
+1041121 [1452] 44            1.84          0.74          3.7           3.25         
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1041121 [1452] 16.8          45.3          1.61         
+群組:General BioChemistry
+
+               ALB          
+time/item      (g/dL)       
+1041121 [1452] 2.1          
+群組:Yes
+
+               FDP           Fibrinogen   
+time/item      (μg/mL)       (mg/dL)      
+1041121 [1452] 36.8          186.3        
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041121 [1452] 27.75         3.28          10.6          29.7          90.5         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041121 [1452] 32.3          35.7          163           17.1          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041121 [1452] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041121 [1452] 95.4          0.0           0.1           2.3           2.2          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041121 [1452] 0.0           0.0           0             僅供參考         
+*********檢驗室:SF***********
+
+群組:Yes
+
+               Anti-HBs     
+time/item      (mIU/mL)     
+1041104 [0701] Negative(0.0 
+               0)           
+*********檢驗室:BK***********
+
+群組:Yes
+
+               Direct : Coo  Indirect ,Co 
+               mbs' Test     ombs' Test   
+time/item      (*)           (*)          
+1041104 [0701] Negative      Negative     
+*********檢驗室:BC***********
+
+群組:Others
+
+               Haptoglobin  
+time/item      (mg/dL)      
+1041104 [0701] <30          
+群組:General BioChemistry
+
+               Alb           T-BIL         ALT           CRE           UA           
+time/item      (g/dL)        (mg/dL)       (U/L)         (mg/dL)       (mg/dL)      
+1041104 [0701] 2.5                         80            0.6           2.9          
+1041110 [0703]               1.08          81            0.6                        
+               Na            K             CRP          
+time/item      (mmol/L)      (mmol/L)      (mg/dL)      
+1041104 [0701]                             1.96         
+1041110 [0703] 134           4.4           0.93         
+*********檢驗室:CT***********
+
+群組:DIC Profile
+
+               D-Dimer      
+time/item      (μg/mL FEU)  
+1041104 [0701] 4.73         
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041104 [0701] 6.96          3.25          10.5          30.2          92.9         
+1041110 [0703] 8.23          3.37          10.9          30.4          90.2         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1041104 [0701] 32.3          34.8          136           17.0          -            
+1041110 [0703] 32.3          35.9          140           16.6          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041104 [0701] 0.0           0.0           0.0           0.0           0.0          
+1041110 [0703] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041104 [0701] 67.7          1.1           0.6           14.5          16.1         
+1041110 [0703] 72.5          0.0           0.2           12.6          14.7         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041104 [0701] 0.0           0.0           0             -            
+1041110 [0703] 0.0           0.0           0             -            
+*********檢驗室:OP***********
+
+群組:ESR
+
+               ESR 1Hr.     
+time/item      (mm /hr.)    
+1041104 [0701] 4            
+群組:STOOL
+
+               Stool WBC    
+time/item      (/HPF)       
+1041106 [0804] Not found    
+群組:SEDIMENT
+
+               RBC (S)       WBC (S)       Epith (S)     Cast (S)      Crystal (S)  
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1041105 [1728] 0-2           0-2           0-2           -             -            
+               Bacteria      Mucus(S)      Others (S)   
+time/item      (*)           (*)           (*)          
+1041105 [1728] -             -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH            Protein(C)    Glu.(C)       Ketone body  
+                                                                    (U)          
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1041105 [1728] 1.007         6.0           10 ( +/- )    -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+                                                                     (U)         
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1041105 [1728] -             ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1041105 [1728] Yellow        -            
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041105 [1534] 6.86          3.19          10.5          29.6          92.8         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041105 [1534] 32.9          35.5          116           16.9          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041105 [1534] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041105 [1534] 75.6          0.4           1.0           15.7          7.3          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041105 [1534] 0.0           0.0           0             -            
+群組:Yes
+
+               C-Reactive P 
+               rotein       
+time/item      (mg/dL)      
+1041105 [1534] 2.02         
+
+*********檢驗室:B3***********
+B3-1041106-5016106   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Many PMNs ( >25 /LPF )
+     Gram's(GS)#2:       Few epithelial cells ( < 10 /LPF )
+     Gram's(GS)#3:       Gram (+) cocci in cluster 2+
+     ID+DS Sputum Culture #1:       Stenotrophomonas maltophilia 1+
+     Gram's(GS)#4:       Gram (+) cocci in chains 2+
+B3-1041105-5016108   RANDOM URINE
+     ID+DS Urine #1:       Enterococcus faecium 3000
+B3-1041114-4070770   RANDOM URINE
+     ID+DS Urine #1:       Klebsiella pneumoniae 1000
+
+
+*********檢驗室:B2***********
+B2-1041105-5016103   BLOOD
+     ID+DS Blood.#1:       No growth after 5 days
+
+
+
+
+*********檢驗室:B3***********
+B3-1041119-9065981   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Many PMNs ( >25 /LPF )
+     Gram's(GS)#2:       Moderate epithelial cells ( 10-25 /LPF )
+     Gram's(GS)#3:       Gram (-) rods 3+
+     ID+DS Sputum Culture #1:       Normal mixed flora
+     Gram's(GS)#4:       Gram (-) cocci 3+
+     Gram's(GS)#5:       Gram (+) cocci in chains 3+
+B3-1041119-9065983   RANDOM URINE
+     ID+DS Urine #1:       No aerobic  pathogen
+
+*********檢驗室:RL***********
+
+群組:
+
+               Mucus(S)     
+time/item      (*)          
+1041119 [1807] -            
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1041119 [1807] 0-2           0-2           0-2           -             -            
+               Others(S)     Bacteria     
+time/item      (*)           (*)          
+1041119 [1807] -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1041119 [1807] 1.012         6.5           20 ( +/- )    -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1041119 [1807] -             ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1041119 [1807] Dark Yellow   -            
+群組:Yes
+
+               C-Reactive P  D-Dimer       pro-BNP      
+               rotein                                   
+time/item      (mg/dL)       (μg/mL FEU)   (pg/mL)      
+1041119 [1428] 2.87                        83.0         
+1041121 [1011]               9.76          284          
+1041121 [1324] 6.62                                     
+群組:Biochemistry
+
+               CRE           Na            K             Cl            T-BIL        
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)      (mg/dL)      
+1041119 [1428] 0.8           131           4.6                         2.38         
+1041119 [1526]                                                                      
+1041121 [1011] 0.9           130           5.4           103                        
+1041121 [1023]                                                         2.56         
+               Lipase        AST           CK            CK-MB         %CKMB        
+time/item      (U/L)         (U/L)         (U/L)         (U/L)         (%)          
+1041119 [1428] 30                                                                   
+1041119 [1526]               117                                                    
+1041121 [1011]                             155           65            41.9         
+1041121 [1023]               102                                                    
+               Troponin I   
+time/item      (ng/mL)      
+1041119 [1428]              
+1041119 [1526]              
+1041121 [1011] 0.024        
+1041121 [1023]              
+群組:General BioChemistry
+
+               GGT           D-BIL         ALT           ALP          
+time/item      (U/L)         (mg/dL)       (U/L)         (U/L)        
+1041119 [1428] 297                         98                         
+1041119 [1526]               1.29                        136          
+1041121 [1011]                             78                         
+1041121 [1023] 258           1.04          78                         
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041119 [1428] 0.0           0.0           0.0           0.0           0.0          
+1041121 [1011] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041119 [1428] 88.8          0.0           0.1           4.6           6.5          
+1041121 [1011] 92.0          0.0           0.1           5.3           2.6          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041119 [1428] 0.0           0.0           0             -            
+1041121 [1011] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041119 [1428] 17.65         3.51          11.3          31.2          88.9         
+1041121 [1011] 28.53         3.58          11.5          32.6          91.1         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041119 [1428] 32.2          36.2          193           17.1          -            
+1041121 [1011] 32.1          35.3          177           16.9          -            
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1041119 [1440] 7.372         35.2          42.9          20.6          -4.9         
+1041121 [1011] 7.306         36.7          60.1          18.5          -8.1         
+群組:STOOL
+
+               Occult Blood               
+time/item      (*)          
+1041120 [1525] 3+           
+*********檢驗室:OP***********
+
+群組:STOOL
+
+               Stool WBC    
+time/item      (/HPF)       
+1041120 [1525] Not found    
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1041121 [1452] 104          
+1041121 [1705] 101          
+*********檢驗室:YM***********
+
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1041121 [1301] 1.01          11.5          35            5.60          122.7        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1041121 [1301] 61            2.1          
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1041121 [1301] 7.396         27.9          87.1          17.3          -7.9         
+               SO2          
+time/item      (%)          
+1041121 [1301] 96.8         
+
+*********檢驗室:B2***********
+B2-1041031-1027304   BLOOD
+     ID+DS Blood.#1:       Escherichia coli
+B2-1041031-1026359   BLOOD
+     ID+DS Blood.#1:       Escherichia coli
+
+
+*********檢驗室:B3***********
+B3-1041031-1026363   RANDOM URINE
+     ID+DS Urine #1:       Escherichia coli >100,000
+
+*********檢驗室:RL***********
+
+群組:
+
+               Mucus(S)      Glucose(seru 
+                             m for ED)    
+time/item      (*)           (mg/dL)      
+1041031 [1534]               106          
+1041031 [1759] -                          
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1041031 [1759] 2-5           >100          2-5           Gr(2-5)       -            
+               Others(S)     Bacteria     
+time/item      (*)           (*)          
+1041031 [1759] -             3+           
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1041031 [1759] 1.016         6.0           100 ( 2+ )    -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1041031 [1759] +/-           ≦1.5          -             1+            3+           
+               Color         Turbidity    
+time/item      (*)           (*)          
+1041031 [1759] Dark Yellow   +            
+群組:Yes
+
+               C-Reactive P 
+               rotein       
+time/item      (mg/dL)      
+1041031 [1534] 2.91         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1041031 [1534] 58           
+群組:Biochemistry
+
+               CRE           Na            K            
+time/item      (mg/dL)       (mmol/L)      (mmol/L)     
+1041031 [1534] 1.1           131           4.8          
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041031 [1534] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041031 [1534] 74.8          1.5           0.6           8.5           14.6         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041031 [1534] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041031 [1534] 10.80         3.27          10.7          31.1          95.1         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041031 [1534] 32.7          34.4          126           16.8          - 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+CT With/Without Contrast-Abdomen 醫令: CT With/Without Contrast-Abdomen 報告醫師: 柯維鈞 影像時間: 2015/11/19 18:39 (33072B3M) 發報告時間: 2015/11/19 19:55 CT of the chest, abdomen and pelvis without and with contrast enhancement shows: 
+> ground glass opacities, reticulations, and bronchiectasis at both lungs, more at both lower lungs. Interstitial pneumonia (pneumonitis) is considered first. Other differential diagnosis includes pulmonary infection. Suggest clinical correlation and follow-up. 
+> small bilateral mediastinal lymph nodes. 
+> minimal left pleural effusion. 
+> atherosclerotic change with mural calcification of the aorta and coronary arteries. 
+> ascites in the abdomen and pelvis. 
+> enlargement and fat infiltration of the panceas with mild adjacent fluid. Suggest clinical correlation.  
+> no definite focal lesions in the liver, spleen, both kidneys, and adrenal glands.
+> intact appendix. Unremarkable bowel loops.
+CT With/Without Contrast-Pelvis 醫令: CT With/Without Contrast-Pelvis 報告醫師: 柯維鈞 影像時間: 2015/11/19 18:39 (33072B5M) 發報告時間: 2015/11/19 19:55 CT of the chest, abdomen and pelvis without and with contrast enhancement shows: 
+> ground glass opacities, reticulations, and bronchiectasis at both lungs, more at both lower lungs. Interstitial pneumonia (pneumonitis) is considered first. Other differential diagnosis includes pulmonary infection. Suggest clinical correlation and follow-up. 
+> small bilateral mediastinal lymph nodes. 
+> minimal left pleural effusion. 
+> atherosclerotic change with mural calcification of the aorta and coronary arteries. 
+> ascites in the abdomen and pelvis. 
+> enlargement and fat infiltration of the panceas with mild adjacent fluid. Suggest clinical correlation.  
+> no definite focal lesions in the liver, spleen, both kidneys, and adrenal glands.
+> intact appendix. Unremarkable bowel loops.
+Abdomen:KUB 醫令: Abdomen:KUB 報告醫師: 劉高郎 影像時間: 2015/11/19 13:58 (32006C0M) 發報告時間: 2015/11/19 20:15 EXAMINATION: Abdomen:KUB
+FINDINGS:
+1. The bilateral renal shadows are obscured. 
+2. Non-specific bowel gas distribution is noted
+3. Spondylosis of the lumbar spine is noted.
+CT With/Without Contrast-Chest 醫令: CT With/Without Contrast-Chest 報告醫師: 柯維鈞 影像時間: 2015/11/19 18:39 (33072B2M) 發報告時間: 2015/11/19 19:55 CT of the chest, abdomen and pelvis without and with contrast enhancement shows: 
+> ground glass opacities, reticulations, and bronchiectasis at both lungs, more at both lower lungs. Interstitial pneumonia (pneumonitis) is considered first. Other differential diagnosis includes pulmonary infection. Suggest clinical correlation and follow-up. 
+> small bilateral mediastinal lymph nodes. 
+> minimal left pleural effusion. 
+> atherosclerotic change with mural calcification of the aorta and coronary arteries. 
+> ascites in the abdomen and pelvis. 
+> enlargement and fat infiltration of the panceas with mild adjacent fluid. Suggest clinical correlation.  
+> no definite focal lesions in the liver, spleen, both kidneys, and adrenal glands.
+> intact appendix. Unremarkable bowel loops.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 陳佾昌 影像時間: 2015/11/19 14:03 (32001CXM) 發報告時間: 2015/11/19 15:26 EXAMINATION: Chest : PA View (Standing).
+FINDINGS:
+Cardiomegaly. Tortuous aorta with calcification. Bilateral lung consolidation. Obscured bilateral costophrenic angles. Degenerative change of the thoracolumbar spine.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 陳信嘉 影像時間: 2015/11/01 11:37 (32001CXM) 發報告時間: 2015/11/01 12:00 Radiography of "Chest : PA View (Standing)": normal heart size; bilateral lung consolidation, bronchiectasis and fibrotic changes; elevation of the left hemidiaphragm; blunting of bilateral costophrenic angles; right humeral head osteolytic lesions; recommend clinical correlation. 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1. Penumonia with type 1 respiratory failure suspect  Pneumocystis jiroveci pneumonia infection or interstitial lung disease progression status post endotracheal tube intubation and mechanical ventilator support
+2. Rheumatoid arthritis, with interstitial pneumonitis and secondary Sjogren syndrome, refractory to Enbrel, status post Rituximab C9D15(2015/05/10)
+3. Sjogren's syndrome, secondary 
+4. Recurrent urinary tract infection, complicated with bacteremia, Extended-spectrum beta-lactamases (ESBLs) Escherichia coli, status post antibiotic, improved
+5. Hypertesnion 
+6. Gastric ulcer status post partial gastrectomy 30year ago 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*
+1. Penumonia with type 1 respiratory failure suspect  Pneumocystis jiroveci pneumonia infection or interstitial lung disease progression status post endotracheal tube intubation and mechanical ventilator support
+2. Rheumatoid arthritis, with interstitial pneumonitis and secondary Sjogren syndrome, refractory to Enbrel, status post Rituximab C9D15(2015/05/10)
+3. Sjogren's syndrome, secondary 
+4. Recurrent urinary tract infection, complicated with bacteremia, Extended-spectrum beta-lactamases (ESBLs) Escherichia coli, status post antibiotic, improved
+5. Hypertesnion 
+6. Gastric ulcer status post partial gastrectomy 30year ago
+
+S:Diarrhea and dyspnea in recent days
+O: 
+T:36.7 P:118 R:27
+BP:130/72 mmHg
+Chest :bilateral coarse breathing sound 
+Abdomen: soft, no tenderness 
+Extremities: grade I~II pitting edema 
+
+A: 
+1. Penumonia with type 1 respiratory failure suspect  Pneumocystis jiroveci pneumonia infection or interstitial lung disease progression status post endotracheal tube intubation and mechanical ventilator support
+2. Rheumatoid arthritis, with interstitial pneumonitis and secondary Sjogren syndrome, refractory to Enbrel, status post Rituximab C9D15(2015/05/10)
+3. Sjogren's syndrome, secondary 
+4. Recurrent urinary tract infection, complicated with bacteremia, Extended-spectrum beta-lactamases (ESBLs) Escherichia coli, status post antibiotic, improved
+5. Hypertesnion 
+6. Gastric ulcer status post partial gastrectomy 30year ago
+
+P: 
+1. shift antibiotic to Cravit for atypical pneumonia 
+2. CVC insertion due to transcient hypotension 
+3. informed family about poor prognosis 
+4. keep Sevatrim and Solu-medrol 10mg Q8H for PJP peumonia
+
+
+Treatment Goal: control infection 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：無  
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.0mm 
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：30
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：自己 配偶 女兒 
+出院規劃收案篩檢：高危病患 慢性病控制不良 帶有管路 功能量表未滿60分 主要照顧者照顧能力不足 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+簡榮彥 主治醫師 

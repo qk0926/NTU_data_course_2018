@@ -1,0 +1,252 @@
+Admission Note 
+2016/08/22 10:01 
+主訴(Chief Complaint) 
+Informant:the family and past medical records
+desaturation was noted by pulse oximetry on 2016/8/22 
+病史(Brief History) 
+[Present illness]
+    This 86-year-old man is a patient with
+1.Primary CNS diffused large B cell lymphoma over right posterior temporal occipital area, s/p radiotherapy in 2014/10, 2016 at 北榮, still residual tumor 
+2.Seizure, suspect brain tumor related, under Keppra
+3.Diabetes mellitus
+4.Dyslipidemia
+5.Hypertension
+6.Hyperuricemia
+7.Benign prostate hyperplasia
+8.Suspected COPD
+9.Reflux esophagitis, LA grade A(2016/7/19 EGD at 北榮)
+10.Left knee osteoarthritis, s/p TKR on 2013/1/3; right knee osteoarthritis s/p TKR on 2013/1/7
+    He had been followed up at 榮總hospital for above diseases and was bedridden with NG, E2V2M1-2 as baseline.
+    This time, desaturation was noted by pulse oximetry at home with SpO2:45% under N/C 4.5L/min on 2016/8/22. Progressive conscious drowsiness, mild fever in recent days and persistent cough were noted but the family denied of vomiting, poor digestion, diarrhea, rhinorrhea, yellowish sputum, dyspnea, turbid urine nor new skin wounds. He was then brought to our ER on 2016/8/22. 
+    At ER, initial vital signs showed E1V1M1, TPR:37.7/90/5 with BP:94/58mmHg and SpO2:70%. Lab data showed Hb:11.2g/dl, MCV(fL):103.6, WBC:6.24K/mm, platelet:159K/μL, Na:137mmol/L, K:6.0mmol/L(H1), Ca2+:?mmol/L, Mg2+:?mmol/L, Cre:0.6mg/dl, BUN:43.4mg/dl, ALT:85U/L, ALP/GGT:?U/L, T-Bil:?mg/dl, NH3:47, INR:0.91, aPTT:23.6, CK-MB/CK(U/L):2.92/57, Troponin I(ng/ml):277.9, pro-BNP:1176pg/mL, VBG(pH/CO2/O2/HCO3):7.244/70.4/310.7/30.3, Lactate:2.48mmol/L, one touch sugar:?, U/A:pending. EKG showed sinus tachycardia and mild inferior lead ST elevation. CXR revealed RUL infiltrations. Brain CT showed no ICH but temporal-occipital brain tumor. Unasyn was administerred since 2016/8/22. Intubation with mechanical ventilation was performed on 2016/8/22 for hypercapnic respiratory failure and he was referred to 1A1 ICU for further care.   
+[Brief History]
+1.Past history: 
+   Systemic disease:as above 
+   Admission history: 
+(1)For bilateral knee OA TKR in 2013/1
+(2)at 北榮hospital for brain tumor in 2014, 2016
+(3)2016/3/13-2016/5/21 at 北榮hospital for UTI/pneumonia/C.difficile infection
+(4)2016/7/15-8/4 at 北榮hospital for tarry stools
+   Surgical history: as above    
+2.Allergies: No known agents
+3.Alcohol/Betel/Cigarette/Substance:(-)/(-)/(+, 1PPD, quit for >5 years)/(-)
+4.Current medications:
+   NTUH: 
+Unasyn (based on ampicillin content) 1000 mg/vial 1000 mg Q6H IV 2 days
+PARAMOL 500 mg/tab 1 tab Q6HPRN PO 2 days
+警 Relaxin 500 mg/vial 不計價常備藥 50 mg STAT IV 1 days
+Bricanyl Neb Soln 2.5 mg/1 mL 2 mL/amp 1 amp Q6H IH 2 days
+Atrovent Neb Soln 250 mcg/1 mL 2 mL/amp 1 amp Q6H IH 2 days
+Siruta Inh Soln 200 mg/1 mL 3 mL/amp 1 amp Q6H IH 2 days
+   Other:Nil
+   Chinese herb:Nil
+   Health food:Nil
+5.Family history:No known systemic diseases
+6.TOCC:  
+ T:travel history：nil
+ O:occupation    ：retired 
+ C:contact       ：nil
+ C:cluster       ：nil 
+社會心理相關評估(Psychosocial Assessment) 
+Psychological History and Evaluation
+意識狀態:昏迷
+認知功能:無法評估 
+精神情緒狀態:無法評估  
+安全問題:有  跌倒
+睡眠形態:異常  E1M1VT
+
+Nutritional Screen
+攝食情形:普通，攝食50-74%
+排便狀態:正常
+BMI: 
+
+Fall Risk Assessment
+總分:16
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+系統性回顧(Review of System) (■means that the finding is positive)
+1.Systemic: weight loss□, night sweats□, fever■(mild fever) 
+2.HEENT: headache□, dizziness□, vertigo□, ocular pain□, blurred vision□, strabismus□, dry eye□, otalgia□, otorrhea□, hearing impairment□, tinnitus□, nasal stuffiness□, nasal discharge□, epistaxis□, gum bleeding□, sore throat□, oral ulcer□, dry mouth□, dysphagia□
+3.Cardiovascular: exertional chest tightness□, exertional dyspnea□, paroxysmal nocturnal dyspnea□, orthopnea□, syncope□, palpitation□, intermittent claudication□
+4.Respiratory: dry cough■(persistent), productive cough□, hemoptysis□, chest pain□, pleuritic chest pain□
+5.Gastrointestinal: anorexia□, nausea□, vomiting□, acid regurgitation□, abdominal fullness□, abdominal pain□, constipation□, diarrhea□, melena□, change of bowel habit□, small caliber of stool□, tenesmus□, flatulence□
+6.Urogenital: flank pain□, urinary frequency□, urgency□, nocturia□, dysuria□, incontinence□, small stream of urine□, hesitancy□, hematuria□, foamy urine□, polyuria□, oliguria□, impotence□
+7.Musculoskeletal: bone pain□, arthralgia□, myalgia□, back pain□, weakness□
+8.Metabolic: heat intolerance□, cold intolerance□, thirsty□
+9.Nervous: numbness□, paresis/plegia□
+10.Skin: petechiae□, purpurae□, skin rash□, itching□, spider angioma□ 
+身體檢查(Physical Examination) 
+BH: NA cm,  BW: NA kg,
+TPR/BP:pending
+Pain score:not evaluable 
+
+[Physical Examination]
+‧General：ill-looking
+‧Consciousness：E1VtM1
+‧Muscle power：M1
+‧Gait：cannot perform
+‧Head-Eye-ENT
+    Conjunctivae: not pale, sclera: anicteric
+    Throat injection (-), tonsil enlarge (-), oral ulcer or thrush (-)
+‧Neck
+    stiffness 
+    Meningismus: Kernig sign(-); Brudzinski sign(-); modified Brudzinski sign(-)
+    Lymphadenopathy(-)
+    Thyroid goiter(-)
+    Jugular vein engorgement(-)
+    Carotid bruit(-)
+‧Chest
+    Thoracic cage contour：symmetric,  no deformity nor distension 
+                           no increased anterior-posterior (AP) diameter
+    Vocal fremitus and expansion: symmetric
+    Percussion: symmetric and normal(not dull or hyper-resonant)
+    Ausculation: Stridor(-)Rhonchi(-)Wheezes(-)Crackles(-)
+‧Heart
+    LV lift(-) RV heave(-)
+    Increased cardiac size by percussion(-)
+    Heart beat: regular heart beats, adventitious sounds (-)murmurs(-)
+‧Abdomen/back
+    Flat & soft, Tenderness(-)Rebound pain(-), CV angle knocking tenderness(-) 
+    Liver and spleen: impalpable
+      Liver span:10 cm
+    Superficial vein engorgement(-) Protruded umbilicus(-)
+    Bowel sound: normoactive
+‧Skin
+    Abnormal pigmentation(-)
+      Petechiae(-) Purpura(-) Ecchymoses(-) Spider angioma(-)
+    Rash(-) Plaque(-)
+    Wound(-) Ulceration(-) Crust(-)
+‧Extremities:
+    Pitting edema(-), Deformity(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1050822 [0601] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1050822 [0601] O             Positive     
+*********檢驗室:RL***********
+
+群組:
+
+               Troponin-T    eGFR          CK-MB        
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)      
+                              m^2)                      
+1050822 [0601] 277.9         135.8         2.92         
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ammonia N    
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)     
+1050822 [0601] 43.4          0.6           137           6.0           47           
+               LacticAcid    CK           
+time/item      (mmol/L)      (U/L)        
+1050822 [0601] 2.48          57           
+群組:Yes
+
+               NT-pro BNP   
+time/item      (pg/mL)      
+1050822 [0601] 1176         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1050822 [0601] 85           
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050822 [0636] 7.317         54.5          117.2         28.1          1.7          
+               SO2          
+time/item      (%)          
+1050822 [0636] 98.1         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1050822 [0636] 1.23          11.5          35            5.47          140.7        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1050822 [0636] 175           0.9 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+nil 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1.Suspected pneumonia with hypercapnic respiratory failure, status post ETT+MVV(2016/8/22-)
+2.Hypotension, suspect hypovolemia, impending septic shock or adrenal insufficiency
+3.Primary CNS diffused large B cell lymphoma over right posterior temporal occipital area, s/p radiotherapy in 2014/10, 2016 at 北榮, still residual tumor 
+hospital
+4.Seizure, suspect brain tumor related, under Keppra
+5.Diabetes mellitus
+6.Dyslipidemia
+7.Hypertension
+8.Hyperuricemia
+9.Benign prostate hyperplasia
+10.Suspected COPD
+11.Reflux esophagitis, LA grade A(2016/7/19 EGD at 北榮)
+12.Left knee osteoarthritis, s/p TKR on 2013/1/3; right knee osteoarthritis s/p TKR on 2013/1/7 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+1.Suspected pneumonia with hypercapnic respiratory failure, status post ETT+MVV(2016/8/22-)
+2.Hypotension, suspect hypovolemia, impending septic shock or adrenal insufficiency
+3.Primary CNS diffused large B cell lymphoma over right posterior temporal occipital area, s/p radiotherapy in 2014/10, 2016 at 北榮, still residual tumor 
+4.Seizure, suspect brain tumor related, under Keppra
+5.Diabetes mellitus
+6.Dyslipidemia
+7.Hypertension
+8.Hyperuricemia
+9.Benign prostate hyperplasia
+10.Suspected COPD
+11.Reflux esophagitis, LA grade A(2016/7/19 EGD at 北榮)
+12.Left knee osteoarthritis, s/p TKR on 2013/1/3; right knee osteoarthritis s/p TKR on 2013/1/7
+
+Treatment Goal:pneumonia treatment, extubation
+A:as above
+P:
+1.Rocephin(meningitis dose)+Metronidazole+Zithromax
+  Pursue cultures including atypical pathogens
+  Consider lumbar puncture to exclude meningitis?
+  Nexium for ulcer prophylaxis
+2.Alb supplement, Solucortef 100mg STAT after checking ACTH/Cortisol
+  Levophed if needed
+  On CVC
+  F/U EKG/CE
+3.Check one touch TIDAC+HS, HbA1C, 糖尿低糖配方
+4.Check lipid profiles, UA
+5.On Foley
+6.Mesna and Atrovent use
+7.Discuss of DNR and tracheostomy
+==>Aggressive Tx
+==>would consider tracheostomy 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左手 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有   7.5mm 
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：兒子 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+蔡旼珊 主治醫師 
+ 

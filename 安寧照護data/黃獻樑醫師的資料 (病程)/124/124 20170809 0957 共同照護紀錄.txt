@@ -1,0 +1,59 @@
+Dx:
+1. Shock R/O pneumonia
+2. Suspect acute decompensated heart failure, with pulmonary congestion and mixed respiratory failure, s/p ETT+MV(2017/7/22-)
+3. ACKD, KDIGO stage 2, suspect UTI or sepsis or cardiorenal syndrome
+4. Hyponatremia, suspect poor intake and fluid overload related, improving
+5. Non-sustained VT
+6. R/O ischemic stroke 
+
+<DR>
+1. Continue Abx with Cravit + Targocid
+2. PRBC 2U transfusion
+3. F/U Albumin Na, K, and P
+4. Add Midorin and monitor BP
+5. Increase Rasitol to 1 Amp q8h and F/U U/O under low dose dopamine
+6. Keep CPAP starting from FiO2 30% PS 12, PEEP 6
+
+<Dietitian>
+O:
+HT:148 IBW:48.2 BMI:31.5 ABW:63.8
+8/8 體重:71.1kg
+7/23 T-CHO:101 mg/dL
+7/31 Albumin:2.7
+BUN:154.9 mg/dL(7/26)--69.3(8/4)
+CRE:4.0 mg/dL(7/26)--3.0(8/4)
+Na:133 mmol/L(7/26)--127(8/4) 
+K:2.7 mmol/L(7/26)--4.2(8/4) 
+
+albumin 25% 25g IF QD (7/23-7/25, 8/8-8/9)
+Goal calorie:1900kcal/day
+protein requirement:50-60g/day
+Diet order:
+7/24~7/29  Suplena 1300kcal protein 30g/day(1.0kcal/cc)
+7/30-8/6   Suplena 1500kcal protein 30g/day(1.5-1.8kcal/cc)
+8/7~       Suplena 1500kcal protein 30g/day(1.8kcal/cc)+Na 2000mg
+
+Actual energy intake:1500kcal/day(22kcal/kg)
+Actual protein intake:30g/day(0.4g/kg)
+A:
+Obesity.
+Inadequate energy protein intake.
+
+P:
+Suggest increasing protein and energy intake to 1700kcal/day.
+
+<Nurse>
+1.Keep CPAP starting from FiO2 30% PS 12, PEEP 6.
+2.F/U U/O under lasix use.
+
+<Pharmacist>
+1. keep Cravit, targocid and valtrex with HD doses.
+2. Keep low-dose dopamine and monitor urine output.
+
+<Respiratory therapist>
+more stablized in general condition.
+occasionally bradycardia(+)
+體重:69.9kg -> 71.1kg
+CXR: stationary.
+attempted weaning, shifted to PSV(10).
+may put on SBT later today.

@@ -1,0 +1,87 @@
+Brief Summary of this week
+P-P window creation was done smoothly on 11/23. Pigtail drainage amount < 50ml/day for three days, so it was removed on 11/26. Fever developed on 11/24, so antibiotic was shifted to Meropenem. Vomiting developed and NG decompression drained much content since 11/24, and poor bowel movement was found. Abdominal CT done on 11/13 revealed cancerous peritonitis, so cancer-related ileus was favored. She was then kept NPO with PPN support. Dopamine could not be tapered despite P-P window creation. We had inquired Dr.余忠仁 about her treatment plan, and he suggested palliative care. Expected life span was less then one month, so we informed her family about her poor prognosis. They agreed with palliative care, so hospice was consulted on 11/27. Dopamine was then gradually tapered, and no more increase will be made.
+
+Assessment 
+[Abx]
+Mepem 11/25~ (Obstructive pneumonitis, under Tazocin)
+----------------------------------------------------
+Unasyn 11/13~11/17 (empirical use for CAP)
+Tazocin 11/17~11/24 (empirical use for HAP)
+
+[Ventilator setting]
+PCV 20, PEEP 6, f 16, FiO2 50%
+=> Vt 260~350, MV 4.1, RR 22, SpO2 99%
+
+[Vasopressor]
+Dopamine 8 ml/hr
+
+[Physical examination]
+Cons: E4M5Vt
+HEENT: grossly normal
+BS: coarse breath sounds, no wheezes
+Heart: irregular HB, no murmur
+mild leakage from pericardial pigtail wound
+BoS: normoactive, tympanic
+Extremity: warm, no pitting edema
+
+[Important Study findings]
+11/13 VBG: 7.348/80.0/82.8/33.3. Hb 11.1 WBC 8.99 Plt 262
+11/14 VBG: 7.37/57.2/120.7/33.7
+     Pleural effusion Gram stain: Many PMN, no bacteria visible
+     Pleural effusion: TNC 804, suspicious cells(+), 
+11/16 fT4/TSH within normal limit
+11/16 Bedside chest echo: right side consolidation with complex pleural effusion.
+11/17 Lactate increased 1.81 -> 2.61
+      PiCCO: SVRI 2582 (under Levophed 20ml/hr), CI 2.45
+11/18 Lactate 1.7
+      5AM PiCCO: SVRI 1953 (under Levophed 15ml/hr), 
+                 CI 2.62 (Dobutamine 5ml/hr)
+      1PM PiCCO: SVRI 1534 (under Levophed 10ml/hr), 
+                 CI 3.13 (Dobutamine 5ml/hr), SVV 18%
+11/19 5AM PiCCO: SVRI 1816 (Levophed 6ml/hr)
+                 CI 2.69 (Dobutamine 3ml/hr)
+      1PM PiCCO: SVRI 1750 (Levophed 4ml/hr)
+                 CI 2.56 (Dobutamine 1.5ml/hr), SVV 17%
+      9PM PiCCO: SVRI 1535 (Levophed 2ml/hr)
+                 CI 2.66 (Dobutamine 1.5ml/hr)
+11/20 5AM PiCCO: SVRI 1916 (Levophed 3ml/hr)
+                 CI 2.46
+11/21 5AM PiCCO: SVRI 2648 (Levophed 3ml/hr)
+                 CI 1.99
+
+[Important Interventions and Newly Added Medications]
+11/16 ICU admission: close monitor/prepare for pericardiocentesis
+11/17 ETT+MV, NS 1000ml+levophed for hypotension
+      pericardiocentesis: 720ml bloody pericardial effusion
+      Shift antibx to Tazocin, RIJV CVC+PiCCO for shock
+11/18 add Dobutamine
+11/20 off Dobutamine, taper Levophed, add Dopamine
+11/21 remove PiCCO, off Levophed
+11/23 P-P window creation
+11/24 hold feeding and add Primperan
+11/25 Fever, septic work up, shift abx to Mepem
+11/26 pigtail removed
+
+[Important Consultation and Meeting Suggestions]
+11/16 CV: No RV Collapse sign, emergent pericardiocentesis not indicated
+11/17 余P: cancer-related treatment is not suitable now; already informed poor prognosis to her family; check pericardial effusion EGFR mutation and cell block if enough sample
+11/24 余P: poor prognosis, estimated 2-4 weeks survival, suggest palliative care
+11/27 Hospice combined care
+
+[Important Family Decisions]
+11/17 agreed intubation, pericardiocentesis and CVC insertion
+11/18 agreed cash-PPI use
+11/18 家屬已有DNR共識但最終決定權在父親
+11/23 Family agreed with tracheostomy creation
+11/24 inform poor prognosis, will discuss about withdrawal
+11/26 signed DNR, prefer withdrawal
+11/27 diverse opinions of withdrawal; agreed with palliative care
+11/28 家屬同意不再往上調整 Dopamine
+
+Plan 
+1. Keep Mepem. Complete abx 14 day totally
+   no more cutlure work-up
+2. Taper Dopamine, 家屬同意不再往上調整
+3. PPN for cancerous peritonitis, try D5W feeding 50ml Q8H
+4. Hospice combined care
+5. DNR 全拒院宣

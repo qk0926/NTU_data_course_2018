@@ -1,0 +1,35 @@
+Brief Summary of this week    
+Hypotension with hypothermia developed on 2016/08/02, and thus, septic workup was done. Tazocin was added empirically, and Levophed was also ministered. Blood culture from CVC yielded GPC, so the CVC was changed. Inotropic agent taperred gradually, and the final result of blood culture(*2 sets) showed Burkholderia cepacia complex. After discussion with ID specialist, Tazocin was switched to Meropenem on 2016/08/05.
+ However, bloody stool was noted since 2016/08/03. Component therapy with pRBC and FFP was done, and the dosage of transamine was increased. The critical condition was informed to the patient's family(daughter, daughter-in-law), and his daughter conformed the content of DNR.
+  Repeated rupture of the cuff of BIOVONA was happened on 2016/08/15. A new BIVONA was placed.
+ Since mild elevated CRP in the followed bloood test, septic workup was repeated again on 2016/08/18. Urine analysis showed pyuria and funguria(WBC> 100, yeast 4+), and thus, oral form Diflucan was added on 2016/08/18. Intermittent bloody stool was still noted, so NPO was kept. I have explained current treatment goal, plan, and patient's condition to the patient's son and daughter-in-law. Urine culture revealed Candida albicans and Diflucan was added on 2016/08/18. However, followed CXR on 2016/08/22 revealed mild increased RLL patch. Mild drowsiness was also noted. Thus, septic workup was repeated again, and Tazocin was administered since 2016/08/23. Foley was removed on 2016/08/24, and the urine output was adequate. Diflucan and Tazocin would be discontinued on 2016/09/01. 
+ Intermittent bloody stool and coffee ground material from NG tube were still noted. Thus, he kept NPO and TPN was given. Componenet therapy was given if needed. 
+ On 2016/09/07, a new onset of septic shock developed. SBP was only 7X mmHg after normal saline 1000ml andalbumin. Levophed was then administered to keep BP > 100 mmHg. Septic workup was done. Tazocin and Targocid were prescribed as empiric antibiotics. Leukocytosis and elevated CRP were noted. Blood culture showed positive for both GPC and GNB. CXR showed no obvious change compared to previous one. Right femoral CVC was removed and left femoral CVC was inserted on the same day. Due to fluid challenge, bialteral rales and leg edema were noted. Normal saline 1000ml QD was discontinued due to his stable BP. Lasix was given for fluid overload. After antibiiotics use, his vital signs were relative stable. We will monitor his clinical condition and follow lab data. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+T:36.4 P:80 R:18 BP:132/64 SpO2:100(-%,3L)
+-Tazocin 3 (9/7~)
+ Targocid 3 (9/7~)
+-fever subsided, no BP drop
+-Removed right femoral CVC and inserted left femoral CVC on 9/7
+
+<Lab data>
+-Hb:7.8 WBC:8300 Seg:92.6% CRP:28.33
+-ALT:59 T-BIL:0.79 LacticAcid:2.33 mmol/L CRE:0.4 BUN:29.9 Na:150 K:3.5
+-9/7 blood culture:GPC(+), GNB(+) 
+-
+PH:7.457
+PCO2:22.1 mmHg
+PO2:169.5 mmHg
+HCO3:15.7 mmol/L
+BaseExcess:-8.4 mmol/L
+-CXR:no obvious deterioration compared to previous one
+
+Plan 
+-keep Tazocin and Targocid
+-taper Levophed and keep BP > 100mmHg
+-follow lab data
+-monitor clinical condition

@@ -1,0 +1,56 @@
+82 y/o F
+@Terminal disease diagnosis: Type 1 respiratory failure, suspect SLE with secondary sjogren syndrome +/- pneumonia, s/p ETT+MV on (2017/3/9-), s/p iNO (2017/03/10-)
+@照會主要目的: 
+hospice introduction, hospice combine care, psychospiritual support, withdrawal
+@Vital signs: BP:136/72 T:38.1 P:101 R:29
+@Consciousness: coma
+@ECOG: 4
+@Active physical Problems: dyspnea, impaired congnition
+@Dying signs: present, including respiratory failure, hypotension, cold limb and cyanosis
+@Current medication for symptom relief: Solu-M 10mg Q6H IV; Anxicam cIF; Fentanyl cIF
+@目前DNR狀態: 家屬已簽同意書 
+@末期註記(+)
+@Main caregiver: 孫子、孫媳
+@Main decision maker: 孫子、孫媳決定(但會尊重兒子們的意見)
+@Other key persons: nil
+@Awareness: 病人意識不清無法判斷知病知末,家屬知病知末
+@Patient's acceptance: 意識不清無法判斷
+@Family's acceptance: 急性調適
+@預計死亡地點: 在院死亡
+@後事: 已開始準備,已準備大部分
+@會談對象: 孫子、孫媳、小兒子
+@會談內容: 孫子、孫媳與病人同住，轉述病人篤信日本教，病前是個優雅的日本女性，每日都會誦經，曾提及自己不要插管急救，病後把經文傳承給孫子輩，反映其虔誠的信仰。家屬表示病人病情複雜，經歷多次治療無效才會決定進行插管，但現在使用免疫療法仍未見改善，已觀察到血壓偏低、呼吸衰竭、四肢冰冷發紫等瀕死表現，故與原團隊討論撤除呼吸器，讓病人自然往生。向家屬說明撤管處置流程，包含症狀控制與追求善終，孫媳不捨掉淚，但家屬皆表示認同感謝。目前家屬已連絡數家禮儀公司，但還沒確定，尚待旅美的女兒明早返國，預計3/18下午2點撤管，家屬會陪同送病人最後一程，現在家屬對後事稍有歧見，大兒子考慮用道教祭祀儀式，但孫子媳認為病人為虔誠日本教教徒，先安排了傳統日本教的往生後8小時誦經團，但今天下午家屬會做討論，一併確定禮儀公司與後事進行方式。
+
+[護理師訪視]
+    護理師於下午15:50訪視，兩位孫子陪伴，正在簽署相關文件，表示大概知道明天撤管的流程，希望可以在早上幫病人安排洗頭，予肯定用心，並說明末期病人陪伴方式、引導四道。
+
+@共照項目:
+1. 疼痛治療藥物建議:無
+2. 其他症狀處置建議:有
+3. 心理社會問題照護:
+-病人:支持與傾聽
+-家屬:支持與傾聽
+4. 靈性宗教需求照護:
+-病人:宗教儀式實行/後事交代/協助心願達成
+-家屬:生命回顧/生命意義的討論/宗教儀式實行/後事交代/協助心願達成
+5. 協助病情認知:
+-病人:病情與預後
+-家屬:病情與預後
+
+Dx: Type 1 respiratory failure, suspect SLE with secondary sjogren syndrome +/- pneumonia, s/p ETT+MV on (2017/3/9-), s/p iNO (2017/03/10-); Suspected SLE with secondary Sjogren's syndrome and secondary APS, ANA 1:40+, anti-SSA+, low C3, direct Coombs 3+, DRVVT weak positive, with interstitial lung disease, s/p IVIG(2017/3/10-3/13), Tocilizumab(2017/3/11), Endoxan (2017/3/12), Abatacept(2017/3/14), Cyclosporin (2017/3/14-)
+
+Suggestions:
+1.I have explained the process and potential effect of withdrawal. Please confirm with 生命末期病人撤除維生醫療查核及程序 (已夾存於病歷前頁) and arrange withdrawal at 2p.m. on 2017/03/18 (after her daughter comes back from the U.S. tomorrow)
+2.Introduce hospice care to the family; inform grave outcome; educate dying preparation
+3.Provide psychospiritual support to the patient and the family
+4.Discuss with the patient and the family about terminal condition: DNR, optimal medication for symptom control (eg. morphine and steroid), withdrawal of ET tube+ MV.
+5.We will arrange combined care.
+
+**請協助確認文件:撤除維生醫療同意書、全拒之DNR，若有家庭會議紀錄為佳，並在拔管前後給予相關藥物以維持舒適。並盡可能減少水份給予。
+
+Thanks for your consultation. Please contact us if any problems. (東址共照辦公室63274)
+
+-訪視後已與原團隊住院醫師交班。
+
+                                    安寧共照N3汪慧玲/R3劉子弘
+I agreed with the assessment

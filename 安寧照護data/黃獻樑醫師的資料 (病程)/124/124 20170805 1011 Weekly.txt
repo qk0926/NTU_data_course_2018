@@ -1,0 +1,60 @@
+Brief Summary of this week    
+After admission, Fever subsided, we gave high dose diuretics and dopamine, she responce with good urine output. However high BUN was still noted until 7/26. However, left side weakness was noted on 7/27. CT brain was arranged to rule out stroke and showed negative findings. Uremic ecephealopathy was supsected. Bokey was added for ischemic stroke cannot totally rule out. SLED was arranged during 7/27-29. Still IDH during HD was noted on 7/27 and 7/28. Inotropics was shifted to dobutamine and levophed. One fever episode with BP dropped was noted on 08/01, therefore antibiotics were switched from Tazocin+Targocid to Mepem+Targocid, and Diflucan was added for possible fungus infection. Her sputum culture showed Ralstonia mannitolilytica, and we had ordered MIC testing, the result was pending. Her urine output amount was small, so we tried to switch Levophed+Dobutaime to Dopamine, and practically we discontinted Dobutamine and added Dopamine first, and tapered Levophed accroding to blood pressure. Cordarone was added for VPCs, and would be hold if hear rate less than 70bpm. Her ventilator setting was improving gradually. 
+
+
+Assessment 
+[Today's event]
+no VPC under HR~60-70 (Amiodarone 0.5# QD, hold if HR<70)
+Switch Levophed+Dobutamine to Dopamine
+Add Valtrex cash for genital herpes
+
+[Abx]
+Meropenem	08/01-	empirical
+Teicoplanin	07/29-	empirical
+Diflucan		08/01-	empirical
+===========
+Tazocin		07/28-8/01	empirical
+Unasyn		07/27-28	U/C: Ecoli, lactobacter spp.
+Cravit		07/22-27	empirical
+Tamiflu		07/22-26
+Rocephine	07/22
+
+7/22	Influenza rapid test(-)
+	U/C: E.coli 50000 (R to FQs), Lactobacillus crispatus>100,000
+	S/C: Normal mixed flora
+	B/C:(-), Pneumococcal antigen -
+	Chlamydia/Mycoplasma/Legionella: -
+	AFS*3 (-)
+7/29	S/C: Ralstonia mannitolilytica 1+ 
+7/31	PCT 0.58
+
+[RRT]
+07/27	Start SLED(UF=0), IDH+
+07/28	SLED(UF:0), IDH+
+07/29	SLED(UF:1), IDH+
+07/30	SLED(UF:2), IDH+
+07/31	SLED(UF:1.8), IDH+
+08/02	SLED(UF:2.5), IDH+
+08/04	SLED(UF:1.5), IDH+, L5
+
+[Studies]
+2014/7/24 Lung function test: FEV1/FVC:78, FEV1:75%, FVC:59%, Borderline response to salbutamol 100 mcg/puff for 4 puff
+2017/7/27 Brain CT: Brain atrophy. A small lacune in left cerebellum
+
+[UCG]
+06/28 LVEDd/s: 64/55, IVS/PW:8/9, LA:27, EF:28%, MR:+
+08/01 LVEDd/s: 46/37, IVS/PW:19/16, EF:41%
+
+Plan 
+*** DNR ¤£¹q¤£À£
+1.For infection control
+  - Keep Mepem, Targocid and Diflucan
+  - Pursuit Ralstonia MIC and discuss with ID specialist
+  - Wean MV as protocol
+2.For ACKD
+  - Keep SLED, try DW as 67-68 kg 
+3.For paroxysmal atrial fibrillation and previous NSVT
+  - Keep K>4 Mg>1
+  - Try oral Amiodarone if HR>70
+4.For asthma
+  - Keep OPD medication

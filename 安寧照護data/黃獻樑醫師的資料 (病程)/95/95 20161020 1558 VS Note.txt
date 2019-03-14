@@ -1,0 +1,12 @@
+# Hypoxic-ischemic encephalopathy with increased intra-cranial pressure
+# Lactic acidosis, suspect tissue hypoxia related
+
+E1VtM1, dilated pupil, no light reflex, no cough reflex
+FiO2= 0.25
+SBP= 130
+Perfusion CT on 10/20: Hypoxic ischemic encephalopathy. Suspected infarct in brain stem. IICP with delayed intracranial arterial flow.
+Neurosurgeon: Decompressive craniectomy was not indicated and might do further harm to the patient.
+ 
+On hypothermia therapy by neurologist's suggestion
+Mannitol + 3# saline for IICP, monitor U/O and electrolye levels
+Empirical antibiotics with Rocephin

@@ -1,0 +1,103 @@
+Brief Summary of this week    
+We adjusted the peritoneal dialysate formula from 2.5% 2L 3 bags + 7.5% 2L 1 bag to 2.5% 2L 2 bags + 1.5% 2L 2 bags because the body weight dropping too fast. The follow-up chest radiograph still showed bilateral lung infiltration despite weight loss. Lung edema or infection were both possible. 
+
+The Gallium scan on 2016/8/3 showed hot spot at bilateral lung and left parotid gland (no hot spot at the legs). For the parotid gland, infection, inflammation or salivary duct obstruction were possible to cause the image finding. The patient's wife mentioned that the patient complained of left facial pain one month ago, but the pain resolved now. ENT specialist was consulted, who suggested us to keep observation. 
+
+For pneumonia, Mepem was downgraded to Ceftazidime after a treatment course without culture evidence. Vancomycin was kept for suspecting left parotid sialadenitis. Beside, the sputum CMV viral load was positive (8930 cp/ml), so Ganciclovir was added for one week to see the treatment response. Bronchoscopy is going to arranged in the following week to find out the etiology of bilateral lung infiltration. 
+
+Under stable condition, he was prepared for RCC transferral. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+[Abx] Empirical Ceftazidime(8/4-) D3
+      Empirical Vancomycin(7/22-) D17 for MRSA coverage; for suspected left sialadenitis
+      Ganciclovir (8/2-) D5 for CMV pneumonitis (sputum CMV viral load 8930
+---------------------------------------------------
+Cefepime(7/22-7/24), Vancomycin(7/22-7/24), Tazocin(7/21-7/22), Mepem (7/25-8/3)
+
+[Physical examination]
+Consciousness: E4M5VT
+Breath sound: bilateral crackles(+), mainly right side 
+Heart sound: RHB, no obvious murmur
+Abdomen: soft and distention with PD dialysate, tenderness(-)
+Dry skin, right foot dry gangrene, extending to heel region, stable
+
+[Ventilator settings]
+SIMV 4, IP 14, PEEP 6, PS 12, Ti 0.9, FiO2 35%
+-> RR 24, MV 8.8, VT 340, SpO2 100%
+
+[Culture]
+7/19 PD dialysate: (-)
+     right foot gangrene: Serratia marcescens 3+
+     B/C(peri):(-)
+7/21 B/C(peri):(-)
+7/22 S/C: Normal mixed flora 
+7/24 Vancomycin trough level: 13.69 (after loading 1g on 7/22)
+7/28 S/C C. tropicalis
+         C. glabrata
+8/1 Serum aspergillus Ag (-)
+7/31 Blood  CMV undetectable
+7/31 Sputum CMV 8930 cp/ml  
+7/31 Sputum PJP PCR(-)
+8/4  Mump virus IgM(-), IgG(+)
+
+[Important study findings]
+ CXR(07/19): No definite lung lesions.
+    (07/21): Increased infiltration at bilateral hilar
+    --> acute pulmonary edema!!
+    (07/22): Stationary, pulmonary edema
+ EKG: Sinus tachycardia, around 120bpm
+      Low voltage, V3, V4, V5 STD and TWI
+      no evolutional change at 04:00, 09:00, 13:00 (07/21)
+      01:40(07/22) --> wide-complex tachycardia, but with P wave
+-PiCCO 
+7/22  Norepinephrine 26.7 mcg/min
+C.I: 1.54, SVRI: 4219, ITBV: 1111, GEDV: 889, EVLWI:22.8
+7/25  Norepinephrine 25.6 mcg/min, Vasopression 0.03U/min
+C.I: 2.06, SVRI: 2207, ITBV: 1092, EVLWI:21.7
+
+7/27 CT: bilateral GGO and patches; DVT in left external iliac vein with left lower extremity swelling; pneumoperitonium, chronic pancreatitis
+
+8/3 Gallium scan
+Probable active infection at bilateral lungs and left parotid gland
+
+[Consultations]
+CV §õ¥ô¥ú: NSTEMI less likely, please correct underlying electrolytes imbalence, on-going infection, and fluid overload. Keep Plavix and Pletaal.
+7/27 Plastic surgeon: right gangrentic foot was not likely the infection source. Amputation is not necessary at present. 
+7/29 Nephrologist for PD titration; VS½²§»Ùy has visited this pateint => add Extraneal
+8/3  ID ­J°û§°: Downgrade Mepem to Ceftazidime, consider bronchoscopy to obtain high quality sputum; Keep Vanco for suspecting left sialadenitis, check IgM/IgG mump Ab, clarify the etiology
+8/4 Radologist: left parotid: infection, inflammation or obstruction 
+8/4 ENT: if infection, abx one week is enough
+8/4 Chest: suggest biopsy by broncoscopy to confirm CMV pneumonitis
+8/6 Inform Dr. ªL¯\·ì for RCC transfer 
+
+[Family decision]
+7/22 Two sons: DNR except drugs. No HD if not feasible.
+               agree tapering inotrpic agents and adding sedative agents for dyspnea relief
+7/23 Two sons: agreed terminal care
+7/24 Two sons: agreed continatuing PD as long as the BP is feasible
+7/25 his son: refuse amputation
+7/27 informed his family about the current condition, including infection, pneumoperitonium and DVT; they accepted feeding since no obvious evidence of bowel perforation; they accept no using anti-coagulant for DVT due to bleeding tendency; his family preferred palliative care and terminal care
+8/04 Explained the incoming transfer to RCC for weaning.
+
+[Important intervention]
+7/28 NG feeding + PD
+8/1 Galllium scan
+8/4 try SIMV mode
+
+Plan 
+1. Maintain empiric Ceftazidime and Vancomycin
+  - pursue culture result
+2. Dianeal LC Ultra 2.5% 2L *2, Dianeal LC Ultra 1.5% 2L
+  - monitor ultrafiltration. Set dry weight 59kg.
+3. keep feeding; monitor if any new-onset ascites or peritoneal sign
+  => switch to elemental diet becasue of diarrhea
+  => consult dietician in the following week
+4. do not add warfarin due to very, very narrow therapeutic range!!
+5. Ganciclovir for one week for r/o CMV pneumonitis
+6. slowly weaning, arrange rehab program
+   pending RCC transfer, explain to the family about possible tracheostomy necessity if failed weaning. 
+   => contacted 4C1 CR, they will visit the family on 8/8 11:00-12:00
+7. Arrange bronchoscopy in the following week to find out the etiology of bil. lung infiltration

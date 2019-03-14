@@ -1,0 +1,93 @@
+Brief Summary of this week    
+This week, hypotension with hypothermia developed on 2016/08/02, and thus, septic workup was done. Tazocin was added empirically, and Levophed was also ministered. Blood culture from CVC yielded GPC, so the CVC was changed. Inotropic agent taperred gradually, and the final result of blood culture(*2 sets) showed Burkholderia cepacia complex. After discussion with ID specialist, Tazocin was switched to Meropenem on 2016/08/05.
+ However, bloody stool was noted since 2016/08/03. Component therapy with pRBC and FFP was done, and the dosage of transamine was increased. The critical condition was informed to the patient's family(daughter, daughter-in-law), and his daughter conformed the content of DNR. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+NPO except drugs
+TPN Nutriflex 1000 ml QD
+
+<Antibiotics>
+Mepem 8/5-, D1 (B/C*2: Burkholderia cepacia complex)
+Vancomycin 8/3-, D3(keep 7 days)
+--------------------------------------------------
+Tazocin 8/2-8/5
+Levofloxacin 7/16 ~ D14
+             for S/C: Stenotrophomonas maltophilia
+Diflucan 7/15 ~ 7/25 for U/C: Candida albican 
+Targocid 7/9 - 7/18
+Mepem    6/28- 7/15, for S/C PsA and GI Bleeding suspected IAI
+Targocid 6/27-7/4, for S/C MRSA
+Tazocin  6/23-6/28, empirically for pneumonia
+
+<Culture report>
+6/23 B/C:neg 
+6/24 S/C:MRSA
+6/25 B/C:neg X 3
+     S/C:PsA(WT)
+     S/S:GNB3+(intracellular),GPB1+
+6/29 S/C:Elizabethkingia meningosepticum 1+ 
+               Stenotrophomonas maltophilia 1+   
+07/09 U/C: yeast-like pathogen > 100000 ***
+      uretheral pus: candida albican
+07/16 S/C:Stenotrophomonas maltophilia 2+
+8/2 B/C(CVC): Staphylococcus epidermidis (TTP: 19.30 hrs)
+    fungus/C(CVC): Staphylococcus epidermidis, 
+                   Burkholderia cepacia complex  (TTP: 17.1 hrs)
+    B/C(peripheral): Burkholderia cepacia complex 
+8/3 CVC tip culture: pending
+
+<Respiration>
+shift to Home Ventilator
+PC/AC mode, I/E: 25/5, RR: 10, O2: 3L, Ti:1.0 s
+
+<PE>
+Consciousness: drowsiness, E4VtM5
+HEENT: grossly general edema
+Chest: diffuse bilateral crackles 
+Heart: regularly heart beats, RUSB III/VI murmur
+Abdomen: hard and distended, right inguinal herina without local tenderness but not reducible
+Extremities: diffusely pitting edema (+)
+
+<Lab >
+WBC/Seg: 6.46k/93% 
+HB: 9.5 --> 9.8
+BUN/Cr: 41.7/0.3
+Na/K:136/3.5
+Alb: 3.5
+VBG: 7.43/34.7/23.3
+
+T/D.bil: 1.8/0.8
+
+U/A: WBC > 100/HPF --> WBC: 5-10/HPF (7/22)
+
+KUB (7/26): distended stomach and colon
+CXR (7/26): decreased bil. pleural effusion. no obvious aveolar patch
+
+<Family Decision>
+1. DNR (不電不壓不TAE,除藥到家屬來)
+2. Hesitated about panendoscopu and colonscopy
+   preferred medicaine treatment
+Plan 
+1. levophed 2ml/hr(16mg in D5W 250ml)
+   keep Vancomycin and adequate hydration 
+   switch Tazocin to Mepem on 8/5
+   monitor clinical conditions and vital signs
+   consider stopping Cortisone 1# Q12H if relative stable hemodynamics 
+   pursue the culture results and CVC tip culture result
+2. f/u blood test QW1,4 (next time: 8/8)
+   f/u CBC on 8/6
+3. High dose Pantoloc 
+   Transamin IF use
+   component therapy!
+4. NPO except drug 
+   NG decompression + Primperan + Bisacodyl R
+   TPN use
+5. Family decision: DNR (不電不壓不TAE,除藥到家屬來,大約要一天...)(大姊、二哥、小妹)
+6. Hospice combined care.
+7. hold Lasix 20 mg IV Q12H and monitor I/O
+8. keep Fluitran
+9. as the family refused panendoscopy exam, we closely monitor GI bleeding condition and kept high dose PPI 
+10. inform family about the unstable hemodynamics

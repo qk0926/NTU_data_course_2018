@@ -1,0 +1,29 @@
+# No more bleeding at present.
+# new patch over RLL
+relatively somnence.
+Under Tazocin treatment, no fever was ntoed.
+No obvious dyspnea
+
+2016/08/26 12:32 SpO2:100%(%,L,VCR)
+2016/08/26 12:32 T:36 P:80 R:20
+2016/08/26 12:32 BP:118/63
+2016/08/26 09:48 Pain score:0
+2016/08/25
+CRE(U):20 mg/dL
+Na(U):54 mmol/L
+T-BIL:1.01 mg/dL
+ALT:55 U/L
+UN:45.1 mg/dL
+CRE:0.4 mg/dL
+eGFR:214.8 mL/min/1.73 m^2
+Na:156 mmol/L
+K:4.3 mmol/L
+Ca:2.35 mmol/L
+Mg:1.09 mmol/L
+hsCRP:4.72 mg/dL
+
+2016/08/25
+ID+DS Urine #1:Yeast-like organism 40000 /ml
+Plan:
+1.Keep antibiotic treatment
+2. Close monitor bleeding condition.

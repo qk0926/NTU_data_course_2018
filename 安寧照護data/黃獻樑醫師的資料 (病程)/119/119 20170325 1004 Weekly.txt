@@ -1,0 +1,44 @@
+Brief Summary of this week    
+After right thoracotomy decortication and open window creation on 2017/03/22, the patient was transfered to our ward for further evaluation and management. Deep sedated status without response to pain was noticed temporarily upon returning to our ward. Blood gas analysis showed mixed CO2 retention and metabolic acidosis. We then titrate the frequency of ventilator, and the followed gas later that afternoon showed resolution.
+    His consciousness returned to baseline the next day. However, elevated serum urea and metabolic acidosis were noticed. The metabolic acidosis could be corrected by infusion of Rolikan. Thus, we kept carefully monitor his acid-base condition.
+    Diuretics was prescribed for Intermittent hypotension episodes were noticed during wet dressing and occasional when he fell asleep. No tachycardia or dyspnea was noticed during this episode. Fluid challenge was prescribed temporarily for reversal of such condition. We'll keep monitor his hemodynamic condition. 
+
+
+Assessment 
+[Abx]
+Tigecycline  (2/28-) for MDRAB + MRSA bacteremia
+Colistin IV  (1/10-) for MDRAB
+Colistin IH  (1/15-) for MDRAB pneumonia
+-------------------------------------------------------------Vancomycin   (2/23-3/14)  for MRSA empyema
+Fosfomycin   (2/13-3/08) combine therapy for MRSA empyema 
+Eraxis       (2/15-3/01) for empyema (Candida glabrata)
+Tienam       (2/03-2/28) for MDRAB empyema
+
+[Culture]
+2/22 S/C: Serratia marcescens, Candida glabrata
+2/24 chest tube/C: MDRAB, MRSA (Vanco MIC 2***)
+                   Ralstonia mannitolilytica few
+2/25 VATS surgical specimen culture: MDRAB, MRSA
+2/27 S/C: Burkholderia (CAZ-R, LVX-I)
+2/28 chest tube/C: MDRAB
+3/12 S/C: Burkholderia (CAZ-S), Serratia (CAZ-S)
+3/14 chest tube/C: MDRAB, Serratia (CAZ-S)
+3/16 B/C(DLC) tip: Serratia (CAZ-S)
+3/22 PEs - AFS neg
+         - Serratia marcescens 1+
+         - Burkholderia cenocepacia 2+
+3/23 CMV: 507 cp/mL
+
+[Studies]
+3/13 Procalcitonin 0.42
+
+Plan 
+1. For MDRAB + MRSA Empyema
+- Monitor chest tube drainage amount and character
+- Keep Colistin + Tigecycline for MDRAB 
+- Keep Tygecycline for MRSA
+2. For thoracotomy wound
+- Perform wet dressing Q8H.
+3. Albumin supplementation for hypoalbuminemia and mildly 
+   decreased albumin level.
+4. Prepare for RCC transfer.

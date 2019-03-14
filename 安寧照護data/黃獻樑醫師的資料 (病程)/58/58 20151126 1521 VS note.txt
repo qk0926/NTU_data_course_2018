@@ -1,0 +1,68 @@
+Brief Summary of this week 
+She had an fever episode on 11/23, however, chest-x-ray showed no specific finding. We upgraded antibiotic to ertapenem(11/23-11/25) due to previous U/C E.coli, ESBL. UA on 11/23 showed no pyuria. B/T on 11/23 1u, 11/24 1u and 11/25 1u was given due to anemia Hb:6.4. However, another fever up to 38.6C episode was noted on 11/26. Thus due to previous culture data, we shift antibiotic to ceftazidime (11/25-) to cover pseudomonas. X-ray on 11/26 showed improvement of bil. lung infiltration. We rechecked lab data Hb: 8.3, Na:147, Cr:5.8, CRP: 2.23, WBC: 7.24, seg 72.3. Hypernatremia and hemoconcentration due to dehydration was suspected so we DC Rasitol and give D5W 500c.c hydration since 11/26.
+
+Assessment 
+no chills and wheezing or fever was noted
+
+<PE>
+chest: less bil.crackles
+abdomen: soft, normal bowel sound
+heart: regular heart beat
+limb: no edema, with right anterior. leg eczema decrease
+<lab>
+BUN: 92->73->60->46.7(11/23)->43.3(11/26)
+Cr: 5.9->5.4->5.8->5.7->5.6(11/23)->6.3(11/26)
+CRP: 12.59->4.32->1(11/23)->2.23(11/27)->2.23(11/26)
+Hb:6.3->6.6->6.4(11/23)-> 8.3(11/26)
+Na:147(11/26)
+Hct: 20.3->26.3(11.26)
+
+
+<image>
+11/19 x-ray:
+11/17 x-ray: similar to 11/16
+11/16 x-ray: still cardiomegaly and lung infiltration, OBS.
+11/16 panendoscope: Reflux esophagitis,lower esophagus,Los Angeles Classification Grade B. Superficial gastritis.
+Gastric erosions.
+11/13 x-ray:Consolidation in both lungs. Enlarged bilateral hilar shadows. mild improvement.
+11/9 renal echo: 
+Chronic parenchymal renal disease.Graft kidney: chronic parenchymal renal disease.Right renal cyst.
+11/7 x-ray:Consolidation in both lungs. Enlarged bilateral hilar shadows. 
+
+<culture>
+11/19 double lumen(L/t):
+11/18 double-lumen(R't): K.P(6.1hr), B/C: K.P(10.6hr), tip culture
+11/12 U/C: E.coli>100000(ESBL)
+
+<urine>
+11/18 UA: bacteria:4+, esterase:3+
+11/12 urine no dysmorphic RBC, GN was ruled out 
+<important consultation>
+11/11 Dr.½²©s©ø:
+resume immunosuppressant drugs if patient and family agree
+titrate frequency of dialysis or even stop dialysis, if renal function stabilizes
+
+<anti>
+ertapenem (11/18-11/20)
+Rocephine(11/20-)
+
+Plan 
+for AKI:
+-find etiology
+-record I/O, BW
+-Hold HD, give lasix 1amp Q12H IV
+-f/u BUN/Cr/K/VBG/CXR
+-consult Dr.½²©s©ø, no need of bx or adjustment immunosuppressant of drug was told 
+- if stable, consider remove double lumen
+
+for anemia:
+- upper GI bleeding was ruled out, use current PPI
+
+for hyperglycemia:
+-educate diet control
+-consult Àç¾i®v
+-change to Diamicron 1tab BID
+
+for bactermia:
+-ertapenem
+-remove bil. double lumen and obtain tip culture

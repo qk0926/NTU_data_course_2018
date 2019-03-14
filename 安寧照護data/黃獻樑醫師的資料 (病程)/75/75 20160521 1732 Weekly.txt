@@ -1,0 +1,268 @@
+Brief Summary of this week    
+After transfered to 4B1, air-borne isolation was done. Anti-TB drug with Cravit + Amikacin + Rifabutin + Ethambutol were kept after transfer. Hydration, calcitonin and biphosphonate were given for hypercalcemia. Progressive hyperbilirubinemia was still noticed, therefore, plaquenil, ethambutol were discontinued on 2016/05/18. AFRVR still noticed, therefore, concor and herbesser were added for rate control. Sputum PJP PCR showed positive, due to Sevatrim not suitable (due to abnormal liver function) to the patient, anidulafungin was given. Progres elevate free T4 were still noticed even under Lugol's solution use. Plasma exchange were decided after endocrine conference disucssion. Carbimazole 1# TID was also added. After well discussed with the nephrologist and patient's family, cash plasma exchange was started since 2016/05/19. Imipenem was also added since 2016/05/20 for synergy of Mycobacterial infection and cover resistant Enterobacterial infection according ID doctor suggestion. His hyperbilirubinemia, thyroid function, ferritin level and his heart rate all decreased after plasma exchange. Refractory hypernatremia and progress hypercalcemia were still noticed even under hydration and drugs treatment, hemodialysis was arranged on 2016/05/21 for correct the electrolyte problem. 
+
+
+PAP1
+
+Assessment 
+[Abx]
+Cravit         5/11- D11 (dose: 750mg QD, cover TB)
+Anidulafungin  5/13- D9 (Yeast colonization and PJP+)Amikacin       5/16- D6 (500mg QD, TB granulomatous hepatitis)
+Rifabutin      5/16- D6 (5mg/kg, TB granulomatous hepatitis)
+Tienam         5/20- D2 (synergy use for TB) 
+
+
+No fever, 
+HR flutuating some times 70-80, AF, sometime elevate to near 150, AF
+SBP: 110-140mmHg
+weakness, still could obey order
+
+persist hypernatremia and progress hypercalcemia were still noticed
+-> add half saline 500ml and dilute diet to 1cc/1kcal and add free water to 100ml Q6H (will extra 1283ml water)
+-> after discussed with nephrologist, he suggested hemodialysis for electrolyte imbalance
+
+hyperbilirubin, ferritin and thyroid function all improving after PE
+-> keep plasma exchange today
+-> f/u ferritin next W1
+-> give I-131 (now available next W2 10:00), before I-131, give Thyrogen 1amp QD*2 days
+
+Hema VS. 姚: no lymphoma evident now, suggest arrange whole body CT
+--> attending VS: if still relapse hyperbilirubinemia after PE, consider arrange it (obut contrast had iodine?, PET, but cash?) or arrange bone marrow again
+ 
+-----------Previous Abx-------
+Teicoplanin 5/2-5/16
+Meropenem   5/8-5/11
+Unasyn      4/25-4/26
+Ceftrixaone 4/26-5/2
+Ceftazidime 5/6-5/8 
+Metronidazole 5/5-5/14
+Ethambutol     5/16-18 D3 (15mg/kg, TB granulomatous hepatitis) hold due to jaundice
+
+[Oxygenation]
+Nasal cannula 3L/min, SpO2 100%
+
+[Inotropic]
+Levophed: off
+
+[Culture]
+4/25 B/C(AL):negative 
+5/8  Asp Ag: negative 
+5/11 Cryptococcus: negative
+     Influenza PCR: negative
+5/12 PJP: positive
+4/28 Sputum culture: Mycobacterium tuberculosis 
+5/15 Serum CMV viral load:undetectable 
+     VZV IgG:postive 
+     EBV-VCA IgG Ab Positive
+     EBV-VCA IgM Antibody Negative
+     HSV IgM Negative  
+     Enterovirus 71 IgM antibody Negative 
+     C.difficile toxin A&B test : Negative
+5/17 Sputum AFS: neg
+     urine AFS: neg
+
+
+Plan 
+1. keep cash plasma exchange (scheduled 5/19,20,21,23,25)
+2. gental hydration (iv, oral) for hypernatremia and hypercalcemia
+3. Keep Cravit, Amikacin, Rifabutin, Imipenam for TB granulomatous hepatitis and open TB
+   -> Shift Rifabutin to INH+RIF if better liver function.
+4. BiPAP nighttime and daytime PRN use, if desaturation when wear BiPAP or conscious change, perform endotracheal tube intubation
+5. keep current steroid dosage, consdier decrease dosage if follow ferritin twice still decline according Rheuma. VS.謝, but suggest add plaquenil back if T-bil keep decline
+6. On low-dose heparin as anti-coagulant agent.
+   Keep aPTT 50-60s.
+7. keep Digoxin to 0.125mg QOD, following level next W1
+8. may send anti-IFr antibody exmination after complete plasma exchange (now scheduled next next W1)
+9. consider whole body CT if clinical deterioration even after plasma exchange
+
+
+PAP2
+
+Assessment 
+[Important study]
+4/25 TTE: no vegetation
+4/25 Flu rapid screen: neg
+     Urine analysis: no pyuria, CXR: no obvious patch
+4/26 Procalcitonin: 1.532
+     FT4: 1.29, TSH: 1.01, cortisol: 4.85, ACTH<5
+4/27 TEE: Mitral porcine bioprothesis; with shaggy vegetations noted through one commissure lacking the corresponding horn. Aortic bioprothsis, mild paravalvular leakage
+4/28 PET-CT
+1. Probable active infection at prosthetic mitral valve.
+2. Active inflammation/infection at posterior aspect of right upper thigh (gluteus maximus), previous bedsore site
+4/29 EKG gated CT: 
+1.active infection at prosthetic mitral valve
+2.Active inflammation/infection at posterior aspect of right upper thigh (gluteus maximus). Previous bedsore location
+-Bedside abdominal echo:
+No obvious IHD/CBD dilatation
+5/1 B/C*II(drawn on 4/25): no growth for 5 days
+5/4 TTE: 
+-The three horns of mitral prothesis can be identified via precordial approach/ previous TEE may be the result of acoustic shadowing from LA approaching.
+-Vegetations suspected over mitral prothesis/ competent function.
+-Aortic tissue valve with moderate transvalvular regurgitation. 
+5/9 TTE: LVEDD/ESD: 50/40, LA: 48, LVEF:39.2(MM), 42.1(AL), biologic A-valve and M-valve with mild regurgitation, mild TR, Tachycardia(+)
+5/9 Abd echo: no IHD dilatation, no CBD dilatation, no hepatic organic lesion.
+    FeNa 0.4%, FeUN 30.9% -> pre-renal type AKI
+    Free T4 1.78 ng/dL, hsTSH 0.052 μIU/mL -> r/o cordarone related
+5/10  TA<3, anti-TPO<3
+      ACTH/Cortisol: <5/7.47
+      TBII 15.6 positive
+5/11  TTE: mild enlargement of vegetation, MR, AR
+      SPEP: no monoclonal gammopathy
+      Anti-HBc(+)
+      HBsAg(-), Anti-HBs(+)(4/27) => Resolved hepatitis B
+5/12  Procalcitonin 0.8223
+      HBV viral load: undetectable
+      PB smear: very small amount of fragmented RBC
+5/13  Digoxin: 0.87
+      Free T4 2.20 ng/dL, hsTSH 0.022 μIU/mL -> treat as thyroid storm
+      Ferritin 6343, TG 593 -> susp. hemophagocytosis(HLH-2004 criteria 5/8: bicytopenia, hypertriglyceridemia, hypofibrinogenemia,hyperferritinemia, currently 4/8)
+5/14 Anti-Phospholipid antibody-IgG 9.51, Anti-Phospholipid antibody-IgM 1.59  MPL <15 
+
+5/14 Galium: No definite abnormal gallium-avid lesion was noted except post-operative change at sternum.
+
+5/15 PC: Fun 63.7, PS: Fun 49.0  
+
+5/16  Digoxin 1.01
+      TBII 15.6%, FT4 2.38, TSH 0.014
+      Pathology(preliminary): microabscess and granuloma formation in the liver, favor TB granulomatous hepatitis.
+     Anti-beta-2 GP1:<0.6
+     IgG anticardiolipin 1.29  
+     DRVVT:negative 
+     IgG 1970.00  mg/dL 
+     IgA 175.00  mg/dL
+     IgM 218.00  mg/dL
+     C3 Quantitation 81.80  mg/dL
+     C4 Quantitation 23.20  mg/dL
+5/17 Ca 2.72, Alb 2.5, Corrected Ca 3.02, iPTH 16.8
+     --> hypercalcemia, r/o TB related, r/o malignancy
+     Serum IFE: no monoclonal gammopathy. 
+     UPEP: no Bence-Jones proteins.
+
+
+PAP3
+
+Assessment 
+[Important intervention and management]
+5/1 General ward transferation
+5/2 Shift ceftriaxone to teicoplanin for breakthrough fever
+=> fever on and off since 5/2, fever up to 38.8'C noted this PM. BP drop to 74/52 at 3PM. Accompanied s/s was malasie, tachypnea, tachycardia(sinus tachycardia, HR 120-130).
+5/5 Repeat UCG
+    Metronidazole for C. difficile colitis
+5/6 Hypotension: Resume low dose dopamine
+                 Add on ceftazidime
+5/8 Fever + shock with increased O2 demand (N/C-> mask 10L/min, FiO2: 0.6)
+    DC digoxin for AKI
+    DC warfarin for prolonged INR
+    CCU transferation
+    -> BiPAP support for suspect pulmonary edema
+       Add on Levophed for suspect septic shock
+       Albumin support for shock
+       Titrate up prednisolone 2# po bid-> 3# bid for AI
+       ID: shift ceftazidime to meropenem, keep teicoplanin
+           suggest surgical intervention 
+5/9 Off Dopamine due to tachycardia to 150 bpm.
+    Taper Levophed due to mild improvement of hypotension.
+    Stop cordarone due to high FT4 and low TSH. May add PTU if symptomatic thyrotoxicosis.
+    Resume Digoxin for Afib
+5/10 Taper Levophed. Low dose levophed use
+5/11 Afib/Atrial flutter, 150-160bpm, since 7AM.
+     s/p Herbesser 20mg IF -> 25mg IF
+     s/p cordarone 150mg IF
+     s/p digoxin 0.125mg IF
+     --> still tachycardia at 5PM
+     --> start cordarone infusion, half dosage 0.3 mg/min
+     Fever to 38.5 'C. CXR: bilateral infiltrates R>L
+     --> shift Mepem to Cravit empirically
+     Try night time BiPAP
+5/12 Intermittent improvement of tachycardia to 90-120 bpm under cordarone infusion.
+     Shift predonine 3# BID to solu-cortef 50mg Q8H for better absorption.
+     Thyroid storm was not likely currently after endocrinologist consultation.
+     --> add PTU for highly suspected thyrotoxicosis (Afib, unexplained jaundice, fever, CHF, tremor, WHO grade 1 goiter, relative hypoechogenicity of thyroid gland)
+5/13  Plugged liver biopsy.
+      Add diluted Lugol solution 10ml TID PO for thyroid storm.
+      Stop cordarone due to susp. thyroid storm.
+      Digoxin level 0.87 -> titrate to 0.125mg QD PO.
+      Add cash anidulafungin for yeast colonization.
+      Shift solu-cortef 50mg Q8H to solu-medrol 10mg Q8H for susp. hemotologic disease, or rheumatologic disease.
+      Start cash IVIg 30g infusion for susp. hemophagocytosis.
+      Add Plaquenil for immunomodulation.
+5/14  NG feeding due to episode of choking.
+      Give IVIg 30g IF.
+5/15  IVIg 30g IF. Clexane 60mg once.
+5/16  IVIg 30g IF. Heparin infusion.
+      Add Amikacin, EMB, Rifabutin for TB granulomatous hepatitis. Keep Cravit. DC Teicoplanin.
+      Tolerate N/C.
+5/17  DC PTU due to progression of jaundice. (9->16)
+      Aredia and Calcitonin SC for hypercalcemia.
+      BM study (A+B+C+FLOW+CULTURE).
+      Airborne isolation for new diagnosed pulmonary TB.
+        --> transfer from 5CVI to 4B1.
+      Taper steroid for better infection control.
+      (Solu-medrol 10mg Q8H to 10mg Q12H)
+5/18 DC plequenil, Ethambutol due to porgressive jaundice
+     Keep Anidurafungin for PJP
+     Try cordarone infusion and concor for tachycardia
+     Taper lugol solution to 8cc TID
+
+PAP4 
+
+Assessment 
+[Important consultation]
+5/8 ID: shift ceftazidime to meropenem, keep teicoplanin
+        suggest surgical intervention
+5/9 Endocrine陳: 
+    - Stop cordarone due to high FT4 and low TSH.
+    - May add PTU if symptomatic thyrotoxicosis.
+    - Suggest to repeat thyroid function after 1 week
+    CVS許: 
+    - pursue further infection focus survey
+    - may arrange CAG for susp. CAD
+    CV張: 
+    - Resume digoxin 0.125mg QOD for Afib after stopping cordarone.
+5/10 CV林: keep abx
+     CV張: keep abx. Arrange Gallium scan
+     ID盛: surgical management may be taken into consideration due to recurrent fever. TB granulomatous hepatitis should be ruled out. But liver biopsy was not feasible due to coagulopathy. Liver microabscess should be ruled out, but contrast CT was not feasible due to recent AKI and thyroitoxicossis. May arrange Gallium scan.
+     CVS陳: surgical management may be done for infection control. (W5) 
+     => suggest TEE by CV VS Lin at 5/11 PM
+     Radiologist李: bilateral lower lobe lung lesion, favor partial atelectasis. Multiple tiny lung nodules, r/o atypical pathogens, r/o old TB.
+5/11 ID:
+1. Keep iv teicoplanin with 12 mg/Kg/day, change meropenem to iv levofloxacin 750 mg QD iv. Adjusted by renal function.
+2. Cardiac echo follow up, consider liver biopsy, sent to pathology, cultures for TB, bacteria and fungus if biopsy available. Granulomatous hepatitis or lymphoma liver infiltrates should be rule out (increase ALP, LDH).
+Endocrine CR王: cannot differentiate thyrotoxicosis and euthyroid syndrome now. Follow-up thyroid function on 5/13.
+No goiter when bed-side visit.
+5/12 Endocrinologist(邱): thyroid storm was not likely.
+     Endocrinolgoist(曾): 
+       - thyroid storm was not likely.
+       - may add low dose PTU 100mg TID for highly suspected thyrotoxicosis (Afib, unexplained jaundice, fever, CHF, tremor, WHO grade 1 goiter, relative hypoechogenicity of thyroid gland)
+       - anti-thyroid drugs may be complicated with neutropenia or abnormal liver function. Close monitoring.
+     Hematologist(CR姚): PB smear revealed very small amount of fragmented RBCs. DIC was favored.
+     GI(CR林): consider echo-guided liver biopsy after stable condition
+     Radiologist(R): consider CT-guided liver biopsy after stable condition. Discuss about transjugular liver biopsy
+     ID: 
+       - Granulomatous hepatitis or lymphoma liver infiltrates should be rule out (increase ALP, LDH).
+       - Check Igra
+       - Bilaterally pulmonary infiltrates developed in recent 1 week. Heart failure may be considered.
+5/13 Endocrine(P曾): add diluted Lugol solution for susp. thyroid storm due to persisted hyperbilirubinemia and tachycardia.
+     Rheumatology(謝): 
+       - add plaquenil for immunomodulation.
+       - suggest casg IVIg infusion 2g/kg in 4 days due to critical condition and possible underlying hematology/rheumatology disease
+       - consider clexane use
+     ID: add cash anidulafungin for yeast colonization empirically.
+     Radiologist(劉): feasible for plugged liver biopsy  
+5/14 Rheumatology(謝): Keep IVIg. Consider Clexane. 
+     CV(張): 
+       - If VT, DC shock and ECMO support.
+       - Taper Lugol solution if tachycardia improved.
+       - Hold Clexane due to bleeding tendency and partial improvement of tachycardia after Lugol solution.
+
+PAP5
+
+Assessment 
+5/15 Rheumatology(謝): Keep IVIg. use Clexane once. r/o 2nd APS
+5/17 Rheumatology(謝): keep solumedrol 
+5/18 ID VS盛 cash anidulafungin for PJP
+     DC plaquenil and ethambutol
+-> VS.謝松洲: suggested so rapid passed IVIG effect may indicate hematology problem, suggested no tapper steroid, even consider emperical chemotherapy (may use etoposide) but high risk must inform the patient and his family 
+Endocrinologist(邱): suggested it sencondary problem due to poor underlying disease poor control
+Endocrinolgoist(曾): will discuss on endocrine conference tomorrow, suggested tapper lugol solution
+5/20 Hema 姚明: Suggest whole body with/without contrast CT to evaluate if occult lymphoma was suspected.

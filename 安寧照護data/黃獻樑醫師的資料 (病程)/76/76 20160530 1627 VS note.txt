@@ -1,0 +1,6 @@
+GCS:E1M2VT, T:37.3 P:56 R:12, BP:115/49, SpO2:100%, I/O:760/620(140)(24hr)
+
+<Plan>
+1. Monitor GCS level and pupil size, MP
+2. Hold angiography
+3. Keep SBP<140mmHg

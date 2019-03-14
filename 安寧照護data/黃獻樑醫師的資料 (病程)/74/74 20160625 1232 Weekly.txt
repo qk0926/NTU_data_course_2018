@@ -1,0 +1,105 @@
+Brief Summary of this week    
+After transferred to our MICU, bed-side echo showed massive pericardial effusion with rocking heart. RV collapse was also noted over paraspinal short axis view. The CV doctor was consulted immediately for pericardiocentesis due to cardiac tamponade. The procedure was performed smoothly at bed-side and her tachycardia, lactic acidosis and hemodynamics stablized afterwards.
+  However, spiking fever was noted since 6/21 and the OP wound condition also deteriorated with pus formation. Plasty surgeon was consulted and bed-side debridement was performed on 6/22. The fever seemed subsided a little however protracted fever persisted. The pericardial effusion drainage showed positive metastatic adenocarcinoma thus PP window creation was scheduled on 6/27 pm by CV doctor.
+  Metabolis alkalosis was noted with low urine chloride level. Saline responsive was likely therefore modestly positive fluid balancing was maintain. The alkalosis improved gradually. The alkalosis related apnea also improved.
+  Paracentesis was performed 6/22 with SAAG<1.1, ascites from extensive malignancy was most likely. 
+  Antibiotics was switch to Colistin plus Targocid since 6/21 and added Doripenem since 6/25 for persisted high fever. Because of elevated ALP and GGT, hepatic tumor necrosis with abscess formation or osteomyelitis were both possible. Therefore, further imaging study (abdominal echo, spine MRI or Gaalium scan) would be considered if fever persisted despite multiple antibiotics treatment. 
+
+Assessment 
+Necrotic tissue with greenish discharge/odor were noted over her OP wound, new fever and tachypnea developed again
+add on Ceftazidime for Proteus culture result
+-> repeat septic work-up, f/u CXR, repeat urine culture,
+
+<Antibiotics>
+Colistin 6/21-    D4 fever with MDRAB+PsA w'd infection
+Teicoplanin 6/21- D4 fever with MRSA  w'd infection
+Ceftazidime 6/24- D1 for Proteus w'd infection
+========================================
+
+[Tumor treatment]
+Vinorelbine (C2D1=4/15)
+P-HDFL C1D8=05/28
+Pericardiocentesis 6/20 --> PP window is scheduled on 6/27 pm
+
+[PE]
+Con's: better conscious with E4VtM6
+Chest bilateral crackles, no dyspnea 
+Abdomen soft and moderate abdominal distention, no tenderness
+limbs pitting edema
+
+[Nutrition]
+濃度:1.5->1.0 卡/cc熱量:1500 營養品:益肺佳/立攝適
+---> metabolic alkalosis(saline responsive) improved after 
+     increased daily free water intake, keep modestly 
+     positive fluid balancing
+
+[Ventilation]
+PSV PS8 PEEP 6 FiO2 0.3
+-> Tv 471 Mv 5.13, SpO2: 95%, 
+
+[Inotropic]
+Levophed off but decreased UOP: 330/12hr
+-> 250ml N/S hydration 
+
+[RRT]
+nil
+
+<Culture report>
+04/21 B/C (PB): wild type PsA [TTP: 10.8hr]
+      B/C (Port-A): wild type PsA [TTP: 10.7hr]
+04/25 S/S: negative (poor quality)
+      S/C: Sphingomonas paucimobilis 1+ 
+04/28 Back skin pus: CR-PsA 3+ (S: Ceftazidime), MRSA 3+, MDRAB 3+
+05/02 S/S: GNB 1+
+      U/A: WBC 75-100, epi 0-2, bacteria 2+, yeasts 3+
+      B/C(CVC):PsA (28.3hr) wild type
+05/08 B/C: PsA(16.8hr), S to carbapenam
+05/11 B/C: PsA in port-A(4.6hr!!)
+      B/C: PsA in peripheral(26.1hr)
+06/07 U/C: K.p + Acinetobacter
+      B/C: E.coli + Enterococcus durans (Peripheral + CVC)
+      CVC tip: only 1 GNB
+06/10 Abscess: Staphylococcus haemolyticus (few)
+06/20 Wound culture:
+      Blood culture:
+      Sputum: GPC in cluster 2+, yeast 2+
+      U/A: WBC:0-5, Bac:1+
+06/20 Pericardial effusion: atypical cell(+), cytology: 
+      metastatic adenocarcinoma(+) 
+06/21 Wound pus: Proteus mirabilis 3+      
+                 Pseudomonas aeruginosa 3+      
+                 Staphylococcus aureus 3+ (MRSA)  
+06/22 Ascites culture
+6/22  Procalcitonin: 1.75
+6/24  B/C(AL, CVC), UA, UC, GS, SC, Pus(TB, fungus)
+
+[Important Consultation]
+05/09 Interventionist => For CT guide procedure
+05/13 Anesthesiologist=> Port A removal
+05/31 Neurologist     => Progressive bilateral lower leg weakness => suggest SSEP at first, and suggested MRI later
+P.S. MRI was not suggested due to recent spinal implant.
+06/05 Plastic surgeon => Debridement could only be performed with neurosurgeon's aid
+06/06 Neurosurgeon => Operation would be performed only if Plastic surgeon wanted to debride
+06/08 Interventionist=> for CT guide drainage and Pigtail insertion
+06/20 pericardiocentesis due to cardiac tamponade
+06/22 Bed-side debridement from PS doctor
+      abdominal paracentesis with 3000ml ascites
+06/23 remove back pigtail
+
+Plan 
+1. Keep Colistin + Targocid + Doripenem for 
+   multiple bacteria colonization within the OP wound 
+2. Add-on aldactone plus furosemide for ascites control, 
+   abumin supplement for intra-vascular volume expansion 
+   as needed
+3. Administer low protein diet with daily sodium 
+   restriction to 2 gm
+4. Arrange PP window creation on coming Monday(by CV VS 
+   陳盈憲) and extubation afterwards
+5. Keep wet-dressing to the spine OP wound, bosmin gause 
+   packing due to active oozings, pending culture result,
+   consider add anaerobic coverage if persistent fever
+6. Increase pain control with:
+   Morphine MXL 60mg 1# BID
+   Fentanyl patch 25mcg 1#-->2# Q3D
+   Rescue dose morphine iv 15mg before wet-dressing

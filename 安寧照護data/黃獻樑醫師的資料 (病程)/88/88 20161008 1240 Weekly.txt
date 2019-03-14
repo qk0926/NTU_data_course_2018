@@ -1,0 +1,66 @@
+Brief Summary of this week    
+Fever was noted on 10/1 and his CVC was changed to left neck. Antibiotic was upgraded to Tazocin. TIW SLED was also kept. His EEG was arranged on 2016/10/3 and revealed severe cortical dysfunction compatible with hypoxic-ischemic encephalopathy. Brain perfusion scan on 10/4 showed hypoperfusion to bilateral cerebral hemisperes, slightly worse at left side; bilateral cerebral hemispheres, left worse than right; worst at left frontal lobe; left basal ganglion; left thalamus and severe hypoperfusion to upper brainstem and right thalamus). Family meeting was arranged and familiy decided not to undergo further invasive treatment and preferred withdraw. Hospice was consulted on 10/5. Under family's will to decrease water intake, Tazocin was changed to ceftazidime. After thorough discussion, family decided to withdraw on 10/7.  Extubation was performed at 15:15, 2016/10/7 after premedication. His oxygenation gradually deteriorated and heart rate gradually decreased. All medication was withdraw except morphine for dyspnea. 
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+Withdraw and extubation at 15:15, 2016/10/7
+[Abx]
+Nil
+---------------------------------------------------
+Fortum 10/5-10/7, downgrade
+Tazocin 10/1-10/5, new fever episode
+Augmentin 9/24-10/1 empirical use
+
+[Cx]
+9/30 S/C: Enterobacter cloacae 3+
+10/1 BCx/peripheral:    BCx/CVC:    , MCx CVC:
+10/1 CVC Tip culture: negative
+10/1 S/S: GNR1+ good Q. 
+     S/C: Acinetobacter baumannii 1+ WT
+          Enterobacter cloacae 3+
+
+[PE]
+Consciousness: E2VtM1, no eyecontact
+HEENT: pale conjunctiva, pinpoint pupil
+Chest mild bil. basal rales 
+Heart: irregular beat, systolic murmur at apex and RUSB
+Abdomen: soft, no tenderness
+Extremities: pitting edema of upper limbs, no edema of dependent part
+
+[Oxygenation]
+PCV, IP:10, PEEP: 8, Ti: 0.9s, FiO2: 40%, RR: 12
+=> RR: 18, Vt: 428, MV: 7.9
+
+[Studies]
+9/24 CAG
+Total occlusion of RCA
+85% stenosis in the proximal LCX
+90% eccentric stenosis in the OM. 
+POBAS was done to the proximal LCX and LM to proximal LAD
+
+9/24 Emergent brain CT: no ICH 
+9/25 Peak: CK: 1000, CK-MB: 7.5, Tr-I: 10 
+9/29 NT-pro BNP>35000, D-D 0.72, hsCRP 18.85, homocystein 18.1 (high), Valproic acid 40.04 (Alb 3.3, corrected normal) 
+10/1 hsCRP 10.3 CBC 8.18k
+10/3 CBC: 11.59k EEG: preliminary data: nearly flat, poor prognosis 
+10/3 EEG: severe cortical dysfunction. This finding is compatible with hypoxic-ischemic encephalopathy.
+10/4 Brain perfusion:
+Hypoperfusion to above mentioned site (Dynamic flow study: Mild to moderate hypoperfusion to bilateral cerebral hemisperes, slightly worse at left side; SPECT: Mild to moderate hypoperfusion to bilateral cerebral hemispheres, left worse than right; worst at left frontal lobe; mild hypoperfusion to left basal ganglion; mild to moderate hypoperfusion to left thalamus; moderate to severe hypoperfusion to upper brainstem and right thalamus)
+
+[Family decision]
+9/29 Aggressive treatment
+9/30 prefer DNR (在太太那邊填寫), 目前傾向安寧拔管
+10/5 家屬傾向先暫不洗腎，減少藥物使用，明早會填好DNR
+     or withdraw(待討論)
+10/6 Withdraw on 10/7
+
+[Consult]
+10/5 Hospice visit: currently decided to hold H/D, by natural course
+10/7 Hospice visit before withdraw
+
+Plan 
+1.Hold HD since 10/5, withdraw on 10/7
+  Hospice care with Morphine
+  Arrange CV ward transfer?
+2.Contact isolation (Anal swab VRE)

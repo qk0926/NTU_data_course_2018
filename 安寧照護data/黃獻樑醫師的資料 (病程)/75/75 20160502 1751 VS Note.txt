@@ -1,0 +1,20 @@
+1. Suspect recurrent blood culture negative IE(prosthetic mitral valve) or prosthesis mitral valve horn dislodgement
+2. History of infective endocarditis, viridans Streptococcus related, with mitral valve and aortic valve involvement, complicated with severe mitral regurgitation and aortic regurgitation, status post double porcine valve replacement on 2016/02/13
+3. Abnormal liver function, suspect shock liver/medication related
+4. Prosthetic valve related hemolytic anemia
+5. Congestive heart failure, valvular heart related, HYNA Fc III, LVEF 34.6% (2016/03/16)
+6. Paroxysmal atrial fibrillation, CHADS2 score 2
+7. Asthma and chronic obstructive pulmonary disease overlaping syndrome
+8. Hypertension
+9. Osteopenia, T score -1.6, with history of bone fractures
+10. Benign prostate hypertrophy
+11. Adrenal insufficiency, iatrogenic
+ 
+New fever episode
+Previous sputum culture: methicillin-resistant Staphylococcus aureus (MRSA), vancomycin MIC=1 mg/dL.
+Blood cultures at admission: no growth.
+Anal screen: Vancomycin resistant Enterococcus faecium (VRE)
+
+Plan:
+1. Change to teicoplanin 
+2. Consider surgey for IE if fever persists

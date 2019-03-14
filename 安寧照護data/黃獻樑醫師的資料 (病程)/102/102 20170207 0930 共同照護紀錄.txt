@@ -1,0 +1,24 @@
+refractory hypoxic and hypercapnic respiratroy failure
+FiO2 85%, stable
+DNR(+)
+
+Plan:
+Palliative care
+
+Pharmacist:
+Palliative care, provide adequate pain control.
+
+Nurse:
+1.oral ET tube with ventilator use,keep PCV support.
+2.sedation under Fantanyl、Dormicum and Nimbex use.
+3.鼻胃管存，反抽可，keep feeding pump use。
+
+RT:
+ETT: 01/24-
+<SETTING> PC/AC IP:25 RR:36 Ti:1.0 PEEP:10 FiO2:80
+P/F ratio: 100
+pCO2 60.1 
+2T, no cough reflex 
+<RESPIRATORY PLAN>
+1. MV keep support
+2. consider withdrawl

@@ -1,0 +1,14 @@
+# GNB bacteremia with septic shock, resulted in lactic acidosis and acute kidney injury, under Meropenam(2016/04/22-)
+# Acute respiratory fialure s/p ETT+MV (2016/04/22-)
+# Acute kidney injury under CVVH(2016/04/21-)
+# Breast cancer with brain, lung, liver mets
+
+E4VtM6
+FiO2=0.35
+Off levophed
+CVVH 4/22-
+Neutropenic fever
+Oliguria
+
+Mepem
+G-CSF

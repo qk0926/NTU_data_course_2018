@@ -1,0 +1,296 @@
+2016/06/25 07:49 
+主訴(Chief Complaint) 
+Informant:family members
+In-hospital cardiac arrest 
+病史(Brief History) 
+This 89 years-old male bedridden patient had the underlying disease of 
+1. Suspect Non-ST elevation myocardial infarction or secondary myocardial injury, patent coronary artery
+2. Dementia
+3. Benign prostatic hyperplasia
+4. Hyperlipidemia
+5. Hypertension
+6. Chronic kidney disease, stage 3
+7. Old cerebellum ischemic stroke 20 years ago, without 
+any sequelae
+
+His baseline ADL was partially dependent. baseline conscious was E4V3M6.
+This time he was sufferred from fever for days , cough with sputum .Hence he was brought to our emergency department for help.
+At ER , fever with body temperature of 39.6℃, SPO2: 95％ , blood test showed leukocytosis with left shift .CXR showed mild increased infiltration over RLL region with cardiomegaly.Hence pneumonia was diagnosed and under antibiotics treatment in observation area. 
+He was good at 01:00am, but then nurse noted EKG alarm around 01:26 and then no pulse noted, in-hospital cardiac arrest was noted with initial rythm of Bradycardia PEA , by stander CPR was performed with ROSC within 12 mins.Small amount of vomitus noted(whitish with milk). ABG showed hypoxia and respiratory acidosis. cardiac enzyme was elevated where EKG revealed no STT change. Under the impression of r/o aspiration pneumonia with respiratory failure , he was admitted to our ICU for further care.
+
+
+Family History:no history of CAD
+
+Medication Allergy:No  病人自述 2010/03/10
+No  病人自述 2014/08/20
+No  親屬描述 2014/08/21
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  病人自述 2014/08/20
+No  親屬描述 2014/08/21
+
+Current Medication:
+NTUH:PARAMOL 500 mg/tab 1 tab Q6HPRN PO 2 days
+Soonmelt for IV Inj (based on amoxicillin content) 500 mg/vial 1000 mg STAT IV 1 days
+PCN Test (Penicillin G Skin Test) 1000 U/1 mL 2 mL/vial 0.1 mL ONCE ID 1 days
+Soonmelt for IV Inj (based on amoxicillin content) 500 mg/vial 1000 mg Q12H IV 2 days
+警針 Cordarone Inj 150 mg/3 mL /amp 150 mg STAT IF 1 days
+警針 Cordarone Inj 150 mg/3 mL /amp 900 mg AS ORDER IF 2 days
+警 Adrenaline 1 mg/1 mL /amp 5 mg STAT IV 1 days
+警 Levophed 4 mg/4 mL /amp 8 mg QD cIF 1 days
+警 Easydopa Inj 400 mg/250 mL /bag 400 mg QD cIF 1 days
+警 Adrenaline 1 mg/1 mL /amp 6 mg QD cIF(CVC) 2 days
+HARNALIDGE D 0.2 mg/tab 1 tab BID LZ 28 days
+Lasix 40 mg/tab 1 tab QD PO 28 days
+Bethanechol 25 mg/tab 1 tab TIDAC PO 28 days
+Lipitor 20 mg/tab 1 tab HS PO 28 days
+Phyllocontin Continus 225 mg/tab 1 tab BID PO 28 days
+Lungtec 10 mg/tab 1 tab HS PO 28 days
+Other:Amantadine, stilnox
+中草藥:nil
+保健食品:nil
+Past Medical History:as above
+Hospitalization:入院日期:2014_08_21 出院日期:2014_08_29 診斷:Pneumonia
+Past Surgical History:denied
+Past Medical History:
+Hospitalization:入院日期:2016_03_15 出院日期:2016_03_24 診斷:Acute myocardial infarction
+入院日期:2014_08_21 出院日期:2014_08_29 診斷:Pneumonia
+
+T:denied
+O:retired
+C:denied
+C:denied 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:專科
+職業:無
+宗教信仰:民間信仰
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:O，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有，已戒煙:30年
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:昏迷
+認知功能:無法評估 
+精神情緒狀態:無法評估  
+安全問題:有 其他 跌倒,自拔管路
+睡眠形態:異常 其他 E1M2VT
+
+Nutritional Screen
+攝食情形:
+排便狀態:正常
+BMI:18.67
+
+Fall Risk Assessment
+總分:17
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1. Systemic: fever (+) ,no BW loss ,no easy-fatigability ,no change of appetite ,no dizziness 
+2. Skin: no petechiae ,no purpura ,no itching ,no local redness and swelling ,no papules 
+3. HEENT: no hearing loss ,no nasal discharge ,no sore throat,no  headache
+4. Cardiovascular:no palpitation ,no exertional of dyspnea 
+5. Respiratory:breathing sound :coarse ,no dyspnea ,no chest pain ,no cough ,no sputum production 
+6. GI:no anorexia ,no nausea ,no vomiting ,no constipation ,no diarrhea ,no melena ,no change of bowel habit ,no small caliber of stool ,no tenesmus ,no flatulence ,no abdominal pain
+7. Urogenital:no flank soreness ,no hematuria ,no urinary frequency ,no urgency ,no dysuria , no hesitancy ,no nocturia ,no polyuria ,no oliguria  
+8. Musculoskeletal:no Back pain ,no bone pain ,no joint pain 
+身體檢查(Physical Examination) 
+BH: 168 cm,  BW: 52.7 kg,
+T: 36.3 °C,  P: 114 bpm,  R: 13 /min,
+BP: 98 / 48 mmHg,
+Pain score: 0 ,
+
+Neurological Examination: 
+. Consciousness: E4M2Vt
+. Muscle power: 1
+. Gait: not perform
+
+HEENT: grossly normal, conjunctiva: pink, sclera: anicteric
+             Pupil: isocoric,  2mm/ 2mm
+Light reflex: L/R: -/-, EOM: -
+Neck: supple, no JVE  no LAP  no Goiter no Carotid bruit
+Chest: symmetric expansion, breath sound: coarse over right lung,decrease over left lung
+Heart: RHB, no murmur
+Abdomen: soft and flat, bowel sound: normoactive
+         Liver/ spleen: impalpable
+         no Tenderness   no Rebound tenderness  
+Back: No knocking tenderness
+Extremities: Freely movable, no pitting edema ; no cyanosis  
+Skin: no Skin rash 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050624 [1417] 129          
+1050625 [0125] 221          
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1050625 [0216] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1050625 [0216] O             Positive     
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               BUN           CRE           Na            K             T-BIL        
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)      
+1050624 [1426]               1.5           137           4.8                        
+1050624 [1832]                                                                      
+1050625 [0211] 59.9          1.7           138           4.9           0.80         
+               Ca            Mg            CK           
+time/item      (mmol/L)      (mmol/L)      (U/L)        
+1050624 [1426] 2.32                                     
+1050624 [1832]               1.32                       
+1050625 [0211] 2.16          1.43          1587         
+群組:
+
+               Troponin-T    CK-MB         Mucus(S)     
+time/item      (ng/L)        (ng/mL)       (*)          
+1050624 [1759]                             -            
+1050625 [0211] 338.2         4.53                       
+群組:Yes
+
+               NT-pro BNP   
+time/item      (pg/mL)      
+1050625 [0211] 29532        
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1050624 [1426] 34           
+1050625 [0211] 67           
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1050624 [1759] 5-10          10-20         2-5           Gr(5-10)      -            
+               Bacteria      Others(S)    
+time/item      (*)           (*)          
+1050624 [1759] -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1050624 [1759] 1.018         5.5           100 ( 2+ )    -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1050624 [1759] 2+            3.0           -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1050624 [1759] Yellow        +            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050624 [1426] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050624 [1426] 81.2          0.0           0.2           3.5           15.1         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050624 [1426] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050624 [1426] 10.00         4.73          13.6          41.0          86.7         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050624 [1426] 28.8          33.2          184           17.7          -            
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050625 [0119] 7.218         56.3          17.0          23.1          -4.9         
+1050625 [0201] 7.320         45.8          60.5          23.8          -2.5         
+               SO2          
+time/item      (%)          
+1050625 [0119] 17.1         
+1050625 [0201] 88.5         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1050625 [0119] 1.21          13.7          41            5.02          142.1        
+1050625 [0201] 1.18          12.7          38            3.74          140.2        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1050625 [0119] 290           4.0          
+1050625 [0201] 329           6.6          
+
+*********檢驗室:B3***********
+B3-1050624-4075263   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Few PMNs ( <10 /LPF )
+     Gram's(GS)#2:       Many epithelial cells ( >25 /LPF )
+     Gram's(GS)#3:       Gram (+) cocci in chains 1+
+     Gram's(GS)#4:       Gram (+) rods 3+
+     Gram's(GS)#5:       痰檢體品質不良建議重新送檢 
+檢查紀錄(Examination Report) 
+pending 
+影像報告(Imaging Report) 
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 柯維鈞 影像時間: 2016/06/24 14:56 (32001CYM) 發報告時間: 2016/06/24 15:34 Chest AP shows placement of a NG tube. cardiomegaly. calcification of aorta. patchy opacity at right lower lung field. ill-defined opacities at both lungs. degenerative change of the T spine. obscured left lateral costophrenic angle. 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1.In hospital cardiac arrest 
+2.Pneumonia with respiratory failure status post endotracheal intubation
+3.Left pneumothorax status post chest tube insertion 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*
+1.In hospital cardiac arrest 
+2.Pneumonia with respiratory failure status post endotracheal intubation
+3.Left pneumothorax status post chest tube insertion
+
+S:left pneumothorax 
+
+O:fever 
+
+A:1.In hospital cardiac arrest 
+2.Pneumonia with respiratory failure status post endotracheal intubation
+3.Left pneumothorax status post chest tube insertion
+
+P:
+1.antibiotics with tazocin
+2.ventilator support 
+3.chest tube drainage for left pneumothorax
+
+Treatment Goal: 
+ventilator support
+treat pneumonia 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)： 左頸 
+雙腔導管留置：  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管   
+胃造廔口：  
+尿管留置：有  16Fr. 
+膀胱造廔： 
+傷口引流管：
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：女兒 女婿 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the intern. 
+醫師姓名 
+蔡旼珊 主治醫師 

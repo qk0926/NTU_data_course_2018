@@ -1,0 +1,19 @@
+GCS:E1M2VT, T:36.7 P:73 R:10, BP:127/53, SpO2:100%, I/O:490/770(-280)(24hr)
+
+WBC:13.27 K/£gL
+RBC:3.44 M/£gL
+HB:9.8 g/dL
+HCT:31.1 %
+PLT:214 (Manual checked) K/£gL
+MCH:28.5 pg
+MCHC:31.5 g/dL
+
+Na:149 mmol/L
+CRE:0.7 mg/dL
+BUN:13.8 mg/dL
+hsCRP:6.48 mg/dL
+
+<Plan>
+1.Check sodium level Q12H
+2.Keep SBP<140mmHg
+3.Keep I/O balance with N/S

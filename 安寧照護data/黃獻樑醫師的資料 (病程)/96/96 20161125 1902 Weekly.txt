@@ -1,0 +1,46 @@
+Brief Summary of this week    
+During the past week, the patient's family has reached consensus on ventilator withdrawal. Hospice specialist has been consulted and concurred with our opinion that the patient is in terminal status and ventilator dependent. As a result, ventilator withdrawal will be performed at 10:00 AM on 11/26.
+ 
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+[Neurological Examination]
+NIHSS: 3222334444003X0 (34+X)
+Consciousness: E1M2Vt
+CN II VF: no response to threatening test; Pupil size: R/L(1.5/4mm, s/p cataract op); Light reflex: R/L(-/-) 
+CN III, IV, VI: fixed disconjugated with left eye lateral deviation, no spontaneous movements, negative response to OCR
+CN V Corneal reflex: R/L(-/-); Sensory: little response or grevience
+CN VII forehead wrinkle: symmetric; nasal-labial fold: symmetric; facial diplegia
+CN IX, X cough reflex(+)
+CN XII tongue could not protude with ETT
+
+Muscle power (to noxious stimulation)
+Upper limbs
+Right: M2 posture
+Left:  M2 posture
+Lower limbs
+Right: 2 (to pain)
+Left: 2 (to pain)
+DTR: symmetric ++~+++
+Babinski: flexor/flexor
+
+[Risk factors]
+Hypertension
+Smoking
+
+[Image]
+11/09 CT without contrast: ICH at pons/midbrain, ~18 ml, IVH+
+
+Plan 
+DNR+ (°£endo)
+
+1. Keep Tazocin (D7) with renal dose adjustment
+   Discontinue oral antipyretics
+2. Control BP, keep BP <160-180 mmHg 
+   Discontinue IV antihypertensives
+3. Keep I/O balance to negative due to fluid overload
+4. Rivotril 1# BID for treatment of myoclonus
+5. Close follow up neurological signs
+   Beware of signs of increased ICP
+   Inform poor prognosis

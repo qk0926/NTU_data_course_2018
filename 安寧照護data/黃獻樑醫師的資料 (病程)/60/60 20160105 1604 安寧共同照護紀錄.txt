@@ -1,0 +1,59 @@
+1.CNS infection(Bacterial Meningitis , KP)
+2.Terminal NPC , with progress disease, 
+3.Diabetes mellitus, under medical control
+4.HBV carrier, under Lamivudine. 
+5.Hypertension, under medical control
+A:
+2016/01/05 14:15 T:35.6 P:92 R:18
+2016/01/05 14:14 BP:111/57
+2016/01/05 14:15 SpO2:100%(30%,L,VCR)
+2016/01/05 08:35 GCS:E2M3VT
+Family request DNR and consider withdrow Ventilator
+<Ventilator setting>
+Mode: PC/AC
+IP: 16 cmH2O
+VT: 289-350 ml
+RR: 10/12 bpm
+FIO2: 30 %
+PEEP: 5 cmH2O
+P[PIP/MAP: 20/8 cmH2O
+VE: 3.1-5.4 lpm
+Ti: 0.9 sec
+SpO2: 100 %
+病情認知及調適：病人及家屬均知病知末，表示此次病情變化快速感到措手不及，現在覺得過去在治療上已盡力，希望病人未來不要受苦，病人之前亦曾表明DNR意願，家屬表示會予以尊重。病人生病後即與女兒同住多年，女兒表示自己跟外孫較為不捨哀傷。
+後事：未準備，院宣
+主要決策者：子女共同
+會談：女兒
+會談目的及內容：說明撤除維生醫療方式及流程
+1.說明撤除維生醫療之目標並非立即導致死亡，撤除後病人仍可能存活一段時間後依自然病程進入死亡。
+2.說明會盡量考量病人或家屬之需求，照護之目標在於舒適與尊嚴
+3.說明撤除維生醫療措施後病人症狀:呼吸窘迫、分泌物過多、死前喉鳴、疼痛、拔管後哮鳴、末期煩躁不安等。       
+4.確認即將撤除之項目為呼吸器及呼吸管路
+5.提醒後事準備，說明院內往生處理流程。
+6.已簽署安寧病房入住同意書，撤除呼吸管路後預計轉安寧病房或普通病房。
+7.家屬會再確認撤除維生醫療的時間。
+8.陪伴生命回顧，同理不捨予以情緒支持，鼓勵女兒及外孫把握與病人相處的時光，及時4道人生。
+---------------------------------------------------
+建議：
+1.請完成末期註記
+2.請簽署DNR同意書(全拒)
+3.請簽署末期病人終止或撤除維生醫療說明暨同意書
+4.確認即將撤除之項目：呼吸器及呼吸管路
+5.撤除維生醫療措施前6 小時
+  a.停止餵食、減少人工輸液 (最大量每小時0.9% NaCl 25mL)
+  b.預防拔管後哮鳴: Solucortef 100 mg IV stat
+  c. 呼吸器設定: 逐步調降FiO2至21%，依呼吸喘程度增加Morphine infusion
+6.撤除前30分鐘
+  a.預防死前喉鳴: Buscopan 20 mg IV stat
+  b.預防拔管後哮鳴: Solucortef 100 mg IV stat 
+  c.疼痛與呼吸窘迫: Morphine 0.05-0.1mg/kg IV/SC stat, 
+    then 05-0.1mg/Kg/h IVA p.r.n.
+7.撤除後
+  a.給予適當鎮靜劑:延續原本用藥，視血壓、病人身體狀況及家屬要求再加
+     Midazolam (0.05- 0.2 mg/kg) IV或SC stat，then 0.05-0.1 
+    mg/kg/h IVA p.r.n(或Propofol 20-50 mg IV stat, then 20-
+    60mg/h IVA p.r.n.)
+8.疼痛與呼吸窘迫: Morphine 0.05-0.1mg/kg IV/SC stat
+    then 0.05-0.1mg/Kg/h IVA p.r.n.
+9.適當的給予家屬陪伴病人的空間及時間、哀傷輔導
+                                      安寧共照N3陳怡安

@@ -1,0 +1,84 @@
+Brief Summary of this week    
+[Treatment course 06/03-]
+The patient was admitted to ICU for status epilepticus and desaturation with respiratory failure status post ETT+MV on 06/03 evening. Sustained seizure attack was noticed after admission and anxicam pump with phenytoin, depakine, and keppra were added for seizure control. CVC was inserted. Empirical antibiotic Maxipime was added for suspected CNS and pulmonary infection. Coffee ground substance was noticed and NPO with IVF and PPI was given. GCSF cash was given for neutropenia state noticed. Improved and decreased seizure attack was noticed since midnight.
+Primary oncologist was consulted and suggested repeated CSF study for proving leptomeningeal seeding and Omaya insetion later. Lumbar puncture with CSF study was performed on 06/04 for suspected CNS infection and leptomeningeal seeding with open/close pressre 27/17 cmH2O. Antibitoic Metronidazole was added for suspected aspiration pneumonia. Desaturation was noticed in the afternoon and absence seizure with desaturation or ETT malposition was suspected. Adjustment of ETT position was done with improvement noticed. Neurologist was consulted for further seizure control. Vancomycin was added for full CNS infection coverage and anxicam pump was switched to dormicum pump. Improved WBC was noticed and GCSF was discontinued. Mild hypotension was noticed and levophed was added for inotropic support. 
+
+癌症治療效果追蹤評估 Disease Status:
+Residual tumor / Recurrence / Metastases
+Treatment Response:Evaluable
+PD(Progressive Disease)
+
+抗癌藥品治療副作用 (化療) Acute Toxicity 
+Neutropenia : Severe
+Mucositis : Severe
+Fatigue : Severe
+Alopecia : Moderate 
+
+
+Assessment 
+<Antibiotics> 
+Vancomycin    6/4- D1 for possible CNS infection GPC coverage
+Metronidazole 6/4- D1 for aspiration pna coverage
+Cefepime      6/3- D2 for CNS infection and PNA
+
+<Respiration>
+PCV IP 16 Rate 14 PEEP 10 FiO2 35%
+-> TV 450 Mv 8.5 SpO2 100%
+
+<Physical examination>
+Consciousness: unclear, sedated, E1VtM1
+HEENT:grossly normal
+Chest: right breast mass with erosin and discharge, extended to left breast
+Heart: RHB, no murmur
+Abdomen: soft, no tendenress
+Extremities: bilateral arm pitting edema, right > left
+
+<Nutrition> NPO for suspect UGIbleeding
+Tai5 1200ml
+
+<Culture report>
+6/3 B/Cx2 F/Cx2
+    S/C, U/C
+6/4 CSF/C
+
+<Important study findings>
+6/4 CSF: WBC 54, L/N 32/22, Glu 42, TP 67.8
+
+<Important intervention and newly added medications>
+6/2 2PM consiousness disturbance+involuntary movement
+    3PM TVSH brain CT:no definite lesion
+    5PM NTUH empirical Abx, EEG, titirate AED
+6/3 consult onco,neuro
+    prepare CSF study-> status epilepsy, desaturation
+    ETT+MV
+    Admitted to MICU
+6/4 LP: CSF study, Anxicam pump change to Dormicum pump.
+
+<Imporant consultation>
+6/3 Onco: consider IT, give cash G-CSF, consult neuro
+6/3 Neuro: did CSF study, empirical antibiotic,adjust AED, consider brain image
+6/4 NeuroCR程: add Vancomycin, change anxicam to dormicum pump, add Topamax 1# QD if DC NPO, followup EEG
+
+<Important patient's and family's decisions>
+6/3 agree cash G-CSF and PPI
+    agree CVC, CSF study, brain MRI, thoracocentasis, permit signed
+    agree IT
+    favor no defibrillation or cardiac massage if sudden cardiac arrest
+6/4 family concerned about AEDs+BZD use.
+
+Plan 
+1. Keep strong AED and anxicam infusion for status epilepsy
+=> change to Dormicum pump use as neurologist suggested
+
+2. Ventilator support, monitor respiratory pattern
+=> check chest echo, thoracocentasis if indicated
+=> Right lower lung collpase or aspiration pneumonia favored.
+=> keep antibiotic use and cautious with septic shock.
+
+3. Complete septic work up and empirically Cefepime for febrile neutropenia and suspect CNS infection
+=> add Metronidazole and Vancomycin use.
+
+5. Contact oncologist for possbile IT and check CSF study at the same time
+=> IT not suitable for acute infection condition now
+
+6. Consider further brain image, pursue EEG formal reports. discuss with neurologist about AED adjustment if still poor controlled

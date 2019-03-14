@@ -1,0 +1,73 @@
+Brief Summary of this week    
+After admission, Fever subsided, we gave high dose diuretics and dopamine, she responce with good urine output. However high BUN was still noted until 7/26. However, left side weakness was noted on 7/27. CT brain was arranged to rule out stroke and showed negative findings. Uremic ecephealopathy was supsected. Bokey was added for ischemic stroke cannot totally rule out. SLED was arranged during 7/27-29. Still IDH during HD was noted on 7/27 and 7/28. Inotropics was shifted to dobutamine and levophed. One fever episode with BP dropped was noted on 08/01, therefore antibiotics were switched from Tazocin+Targocid to Mepem+Targocid, and Diflucan was added for possible fungus infection. Her sputum culture showed Ralstonia mannitolilytica, and we had ordered MIC testing, the result was pending. Her urine output amount was small, so we tried to switch Levophed+Dobutaime to Dopamine, and practically we discontinted Dobutamine and added Dopamine first, and tapered Levophed accroding to blood pressure. Cordarone was added for VPCs, and would be hold if hear rate less than 70bpm. Her ventilator setting was improving gradually. 
+  Cravit was added on 08/07 due to MIC test of Ralstonia mannitolilytica from sputum culture. Fluconazloe was discontinued on 08/08 after total course of 7 days and no strong culture evidence. We also added Rasitol on 08/08, for improving her urine output and weaning of RRT. Targocid was discontinued on 08/10, for completing total course of 14 days, and Levophed was also off. Her urine output increased slowly as we titrated dose of Rasitol. On 08/11, we hold HD, and her urine output whole day was 1120ml. We would follow up her urine ouput and renal function. 
+
+
+Assessment 
+[Today's event]
+Hold HD yesterday
+-U/O 1060ml per day, under Rasitol 20mg Q6H
+-Na 133, K 3.5, BUN 70.4, cre 2.0
+-Follow up renal function test 
+-May taper HD to BIW or QW
+Keep low pressure support
+
+[Abx]
+Cravit		08/03-		S/C: Ralstonia pickettii 1+
+===========
+Teicoplanin	07/29-08/10	empirical
+Diflucan		08/01-08/08	empirical
+Meropenem	08/01-08/05	empirical
+Tazocin		07/28-8/01	empirical
+Unasyn		07/27-28	U/C: Ecoli, lactobacter spp.
+Cravit		07/22-27	empirical
+Tamiflu		07/22-26
+Rocephine	07/22
+
+7/22	Influenza rapid test(-)
+	U/C: E.coli 50000 (R to FQs), 
+             Lactobacillus crispatus>100,000
+	S/C: Normal mixed flora
+	B/C:(-), Pneumococcal antigen -
+	Chlamydia/Mycoplasma/Legionella: -
+	AFS*3 (-)
+7/29	B/C (-); S/C: Ralstonia mannitolilytica 1+ 
+7/31	PCT 0.58
+8/01    S/C: Ralstonia pickettii 1+ (S to Cravit)
+        S/C: Ralstonia mannitolilytica 3+ (S to cravit)
+8/01    U/C: Yeast-like organism >100,000
+
+[RRT]
+07/27	Start SLED(UF=0), IDH+
+07/28	SLED(UF:0), IDH+
+07/29	SLED(UF:1), IDH+
+07/30	SLED(UF:2), IDH+
+07/31	SLED(UF:1.8), IDH+
+08/02	SLED(UF:2.5), IDH+
+08/04	SLED(UF:1.5), IDH+, L5
+08/07   SLED(UF:1.0), IDH, L5
+08/09   SLED (UF: 1.3), no IDH 
+08/11   hold SLED
+
+[Studies]
+2014/7/24 Lung function test: FEV1/FVC:78, FEV1:75%, FVC:59%, Borderline response to salbutamol 100 mcg/puff for 4 puff
+2017/7/27 Brain CT: Brain atrophy. A small lacune in left cerebellum
+
+[UCG]
+06/28 LVEDd/s: 64/55, IVS/PW:8/9, LA:27, EF:28%, MR:+
+08/01 LVEDd/s: 46/37, IVS/PW:19/16, EF:41%
+
+Plan 
+*** DNR ¤£¹q¤£À£ ***
+1.For infection control
+  - Keep Cravit (S/C: Ralstonia pickettii) and DC Targocid
+  - Keep low pressure support
+2.For ACKD
+  - Keep rasitol to 1 amp q6h, monitor I/O
+  - Hold SLED yesterday, follow up renal function
+  - May taper HD to BIW or QW
+  - Give regular Midorine use
+3.For paroxysmal atrial fibrillation and previous NSVT
+  - Keep K>4 Mg>1
+4.For asthma
+  - Keep OPD medication

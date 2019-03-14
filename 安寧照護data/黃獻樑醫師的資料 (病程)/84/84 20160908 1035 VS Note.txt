@@ -1,0 +1,7 @@
+Inform the family about the probability of recurrent respiratory failure due to poor airway hygiene and and clearance function.
+Post-tapping pneumothorax persisted. Pigtain inserted.
+Progressive hypercapnia.
+2016/09/07 PH:7.305 *
+2016/09/07 PCO2:87.9 mmHg
+2016/09/07 PO2:40.2 mmHg
+2016/09/07 HCO3:44.1 mmol/L

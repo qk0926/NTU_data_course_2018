@@ -1,0 +1,41 @@
+<Doctor>
+1. Suspected colon cancer with lower GI bleeding, complicated with massive bleeding and hypovolemic shock
+2. Acute lung edema/distress, suspected TACO or TRALI related.
+2. Suspected ventilator associated pneumonia
+3. Moderate aortic stenosis, complicated with acute lung edema and respiratory failure status post endotracheal intubation and ventilatory support (2014/03/13-2014/03/19), status post tracheostomy (2014/04/11)
+4. Adrenal insufficiency under Cortisone 
+5. Coronary artery disease, left main and 2-vessels disease
+6. Chronic atrial fibrillation with complete atrioventricular block status post pacemaker (VVIR) implantation, 2010
+7. Old cerebrovascular accident
+8. Vascular parkinsonism
+9. History of epilepsy
+10. Old pulmonary tuberculosis
+11. Microcytic anemia, Thalassemia and history of duodenal ulcer 
+12. Hypertension
+
+[Plan]
+1. Mepem for PsA pneumonia and possible IAI
+   (S/C PsA, Tazocin MIC 8)
+   DC Targocid
+2. Taper steroid to otral solu-cortef
+3. Ventilator support, monitor respiratory pattern
+4. Taper Pitressin gradually
+5. IV PPI use, hold plavix since 6/25
+-> monitor hemogram, beware of recurrent massive GI bleeding
+6. Consult hospice for palliative care.
+7. Informed poor condition and grave prognosis
+-> family concern about inform bad news to the patient
+-> arranged meeting with hospice combined care nurse;
+8. Shift to TPN and oral medication
+   BS control
+
+<Nurse>
+意識混淆，依照醫師及呼吸治療師建議調整呼吸器。目前持續禁食除藥外，由7/5開始試糖水100ml，持續監測消化及解便情形。
+
+<Pharmacist>
+Taper PPI for stable Hb level, TPN use, try feeding today.
+ 
+<Respiratory therapist>
+1.keep ventilator full support.
+2.prn suction sputum and chest care.
+3.closed monitor vital sign.

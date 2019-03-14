@@ -1,0 +1,84 @@
+Brief Summary of this week    
+Please refer to "Treatment Course" 
+
+Assessment 
+Teicoplanin (12/12-) D15, prolonged use for MRSA pneumonia
+Voriconazle (12/17-) D10
+Sevatrim (12/17-) D10
+Cravit (12/17-) D10
+Foscarnet (12/21-) D6
+Metronidazole (12/21-) D6
+
+[Ventilator settings]
+PSV, PS 8, PEEP 5, FiO2 0.4, RR 26, TV 165, MV 11.7, SpO2: 95%
+
+[Important lab]
+FK-506: 6.7(12/10), 2.1(12/18), <1.5(12/21), 5(12/24)
+Serum Ag: (-, 0.296) (12/24), (-, 0.2308) (12/24)
+Serum CMV: 3070(11/30), <150(12/10), 889(12/14), 248(12/17)
+      4360(12/21), 712(12/24)
+    
+12/18 BAL Asp Ag: 5.724 -> 12/21 BAL Asp Ag: 0.6136
+12/21 BAL CMV viral load: 5380!! (12/18 BAL CMV viral load: <150)
+
+11/27 CSF: TP: 67.5, IgG: 8.86, IgG index: 0.57
+12/04 C3: 32.5, C4: 8.19, Anti-TPO Ab: 9.87
+    ANA (-), Anti-dsDNA (-), Anti-SSA (-), Anti-SSB (-)
+    Anti-RNP (-), Anti-SM (-), Anti-ENA (-), Anti-B2 GP1 (-)
+    ACL-IgG (-), ACL-IgM (-), APL-IgG (-), APL-IgM (-)
+12/17 Procalcitonin: 2.26
+12/19 Left main bronchus foreigh body patho: fibrin materials with scant fungal hyphae
+12/22 Improved renal function BUN:22.3, Cr:1.2
+12/23 Colonoscopic biopsy: chronic colitis
+12/23 Stomach biopsy: chronic gastritis, w/o Helicobacter bacilli
+      Esophagus biopsy: esophagitis
+
+[Culture]
+12/02 U/C: Proteus vulgaris >100,000
+           Citrobacter amalonaticus 1000
+12/10 U/C: Proteus vulgaris 35000
+           Citrobacter amalonaticus 1000   
+12/11 B/C(DLC): MRSA; B/F/C(DLC): MRSA
+12/11 B/C(PB): MRSA; B/F/C(PB): MRSA
+12/11 B/C(Port-A): MRSA ; B/F/C(Port-A): MRSA
+12/12 DLC/C: MRSA
+12/14 B/C(Port-A): (-)
+12/18 U/C: No aerobic pathogen 
+12/18 S/C: MRSA
+12/18 S/C: Aspergillus niger
+12/17 S/PJP PCR: (-)
+12/17 B/C(PB): (-)
+12/17 B/C(CVC): (-)
+12/18 BAL/PJP PCR: (-)
+12/21 S/C: MRSA (vancomycin MIC: 2)
+12/21 BAL/PJP PCR: (-)
+12/21 BAL/TB PCR: (-)
+12/21 BAL/Asp Ag: (-)
+12/21 BAL/C: MRSA (vancomycin MIC: 1)
+12/22 Port-A/C: (-)
+
+[Important intervention and newly added medications]
+12/13 GPC bacteremia, Abx: Tazocin -> Teicoplanin + Ceftazidime
+12/15 Port-A lock therapy 
+12/17 Desaturation, hypotension and conscious change s/p ETT
+12/18 Desaturation and PEA due to left main bronchus foreign body causing endotracheal tube obstruction while trying to remove the material during procedure, s/p CPCR with ROSC 
+12/20 perform the septic work up again, cooling blanket use
+12/22 Levophed run 3.18mcg/min, port-A removal 
+12/24 Levophed run 7.5mcg/min
+
+[Image]:
+12/17 Chest CT: LLL tree-in-bud tiny nodules with a 1.5cm cavitary nodule. No evidence of pulmonary embolism.
+12/21 A+P CT: CT:Wall-thickening with submucosal edema of the stomach and the entire colon, inflammatory changes are suspected
+12/23 EGD: Esophageal ulcers ; Superficial gastritis ; Gastric erosions
+12/23 CFS: Colitis, whole colon, s/p biopsy ; Mixed hemorrhoids
+
+[Important consultation]
+[Important family decision]
+
+Plan 
+1. Keep Targocid, empiric Cravit, Sevatrim, IV Vfend, Foscanet (as Dr.«À©ú's suggestion) and Anegyn
+2. Solu-Cortef stress dose since 12/25 ; Taper Levophed gradually
+3. Monitor GIB condition ; keep IV PPI with PRN component therapy 
+4. Follow up serum CMV viral load, Asp Ag, FK-506 and Vfend level
+5. Keep TPN support 
+6. Keep RI pump, adjust accordingly

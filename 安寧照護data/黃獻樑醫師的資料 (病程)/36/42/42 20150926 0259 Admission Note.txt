@@ -1,0 +1,456 @@
+2015/09/26 02:59 
+主訴(Chief Complaint) 
+Informant:medical record, family
+In-hospital cardiac arrest status post cardiopulmonary resuscitation with return of spontaneous circulation 
+病史(Brief History) 
+The 74 years old female has history of 
+1. Right tongue cancer, squamous cell carcinoma and sarcoma, status post right partial glossectomy and supraomohyoid neck dissection
+2. Nasopharyngeal carcinoma, cT4N0M0, stage IV, status post concurrent chemoradiotherapy(2007/3/22~2007/5/10 7000cGY)
+3. Diabetes mellitus
+    This time, she came to our emergent department because of fever and much sputum. She was observed and treated at our emergent department under the impression of sinusitis.
+    This morning, she felt general maliase and lean on her family. No pulse was noted by family and nurse. Emergent cardiopulmonary resuscitation was performed for 10 minutes then she return of spontaneous circulation. Because of above problem, she was admitted for hpothermia therapy and further care.
+
+Family History:no family history of hypertension, Diabetes mellitus
+Medication Allergy:No  病人自述 2010/03/23
+No  親屬描述 2015/09/25
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  親屬描述 2015/09/25
+No  病人自述 2015/01/27
+No  舊病歷資料 2015/08/28
+Current Medication:
+NTUH:Unasyn (based on ampicillin content) 1000 mg/vial 1000 mg Q6H IV 4 days
+Smecta 3 g/pack 1 pack STAT PO 1 days
+Smecta 3 g/pack 1 pack TID PO 2 days
+Imolex 2 mg/cap 1 cap STAT PO 1 days
+Imolex 2 mg/cap 1 cap QDPRN PO 3 days
+警 Adrenaline 1 mg/1 mL /amp 1 mg STAT IV 1 days
+警 Dopamine HCl, Baxter 400 mg/250 mL /bag 400 mg QD cIF 1 days
+(管3) Temgesic Sublingual tab 0.2 mg/tab 1 tab Q6H SL 7 days
+Mubroxol 30 mg/tab 1 tab TID PO 14 days
+Other:denied
+中草藥:denied
+保健食品:denied
+Past Medical History:
+Hospitalization:入院日期:2015_01_27 出院日期:2015_02_01 診斷:Tongue cancer
+
+Past Surgical History:2015_01_09  Excision of tongue tumor, right
+incisional biopsy of tongue ulcer, right
+2015_01_28  Partial glossectomy and supraomohyoid neck dissection, right
+Travel: denied                          Cluster:denied
+Contact: denied                         Occupation:retired 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:國中
+職業:無
+宗教信仰:基督教
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:A，RH:不清楚，輸血反應:
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:半昏迷
+認知功能:無法評估 
+精神情緒狀態:異常 其他 sedation
+安全問題:有 其他 fall down
+睡眠形態:異常 使用藥物 
+
+Nutritional Screen
+攝食情形:50-74%,普通
+排便狀態:正常
+BMI:23.38
+
+Fall Risk Assessment
+總分:17
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)
+2.Skin: petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(+), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular: exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(-), cough(+), chest pain(-), hemoptysis(-), productive cough (+), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH:153.5 cm   BW:52.5 kg
+BMI:22.2
+T:35.6 P:96 R:16
+BP:116/59 mmHg
+Pain:0
+
+Neurological Examination:
+. Consciousness:E1M4Vt
+. Muscle power:2 to all limbs
+. Gait:not perform
+
+‧Head-Eye-ENT 
+grossly normal, conjunctiva: pink, sclera: anicteric
+Pupil: right 3mm/ left 3mm
+Light reflex: L/R: trace/trace
+‧Neck
+Jugular vein engorgement(-)
+Thyroid goiter(-)
+Meningismus: Kernig sign(-); Brudzinski sign(-)
+Carotid bruit(-)
+‧Chest
+Thoracic cage contour: symmetric
+Vocal fremitus and expansion: symmetric
+Percussion: resonant
+Breathing sound: coarse breathing sound
+Crackles(-) wheezes(-) rhonchi(-) stridor(-)
+‧Heart
+Heart beat: regular Murmurs(-)
+LV lift(-) RV heave(-)
+Increased cardiac size by percussion(-)
+Adventitious sounds (-)
+‧Abdomen
+Flat & soft
+Superficial vein engorgement(-) Protruded umbilicus(-)
+Bowel sound: Normoactive
+Tenderness(-) Hepato-jugular reflux(-)
+Liver and spleen: impalpable
+‧Extremities
+Freely movable, pulses symmetric and intact, pitting edema(-) with multiple punctate brownish 
+‧Back
+Knocking pain(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:YM***********
+
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1040926 [0031] 1.17          10.2          31            3.77          133.0        
+1040926 [0034] 1.31          11.5          35            5.01          130.2        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1040926 [0031] 151           2.9          
+1040926 [0034] 272           9.3          
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1040926 [0031] 7.265         47.9          12.5          22.0          -5.3         
+1040926 [0034] 7.098         67.0          121.6         20.9          -9.1         
+               SO2          
+time/item      (%)          
+1040926 [0031] 11.1         
+1040926 [0034] 96.8         
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ca           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1040923 [1606] 12.2          0.9           126           4.6                        
+1040926 [0025]               1.1           133           4.2           2.22         
+               Mg            CK            CK-MB         %CKMB         Troponin I   
+time/item      (mmol/L)      (U/L)         (U/L)         (%)           (ng/mL)      
+1040923 [1606]                                                                      
+1040926 [0025] 0.90          35            26            74.3          <0.012       
+群組:Yes
+
+               pro-BNP      
+time/item      (pg/mL)      
+1040926 [0025] 368          
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1040923 [1606] 18           
+1040926 [0025] 21           
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1040923 [1606] 0.0           0.0           0.0           0.0           0.0          
+1040926 [0025] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1040923 [1606] 79.8          5.8           0.5           3.6           10.3         
+1040926 [0025] 49.8          4.4           0.4           5.4           40.0         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1040923 [1606] 0.0           0.0           0             -            
+1040926 [0025] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1040923 [1606] 8.85          4.07          12.3          34.1          83.8         
+1040926 [0025] 15.45         3.57          10.6          31.4          88.0         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1040923 [1606] 30.2          36.1          346           13.1          -            
+1040926 [0025] 29.7          33.8          292           13.4          -            
+群組:
+
+               Mucus(S)     
+time/item      (*)          
+1040923 [1710] -            
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1040923 [1710] 0-2           2-5           2-5           -             -            
+               Others(S)     Bacteria     
+time/item      (*)           (*)          
+1040923 [1710] -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1040923 [1710] 1.014         6.0           10 ( +/- )    -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1040923 [1710] -             ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1040923 [1710] Light Yellow  -                          
+*********檢驗室:RL***********
+
+群組:
+
+               Mucus(S)     
+time/item      (*)          
+1040911 [1607] -            
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1040911 [1607] 0-2           0-2           0-2           -             -            
+               Others(S)     Bacteria     
+time/item      (*)           (*)          
+1040911 [1607] -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1040911 [1607] 1.010         6.0           -             -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1040911 [1607] -             ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1040911 [1607] Light Yellow  -                          
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1040911 [1440] 7.420         42.5          72.5          27.8          3.0          
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1040911 [1440] 11           
+群組:Biochemistry
+
+               CRE           Na            K            
+time/item      (mg/dL)       (mmol/L)      (mmol/L)     
+1040911 [1440] 0.7           130           4.8          
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1040911 [1440] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1040911 [1440] 76.7          4.2           0.7           5.2           13.2         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1040911 [1440] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1040911 [1440] 5.92          3.74          11.4          33.5          89.6         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1040911 [1440] 30.5          34.0          243           13.1          -            
+
+*********檢驗室:B2***********
+B2-1040911-1032294   BLOOD
+     ID+DS Blood.#1:       No growth after 5 days
+B2-1040911-1032293   BLOOD
+     ID+DS Blood.#1:       No growth after 5 days
+
+
+*********檢驗室:B3***********
+B3-1040827-7061539   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Many PMNs ( >25 /LPF )
+     Gram's(GS)#2:       Many epithelial cells ( >25 /LPF )
+     Gram's(GS)#3:       Gram (+) cocci in cluster 2+
+     ID+DS Sputum Culture #1:       Mixed flora
+     Gram's(GS)#4:       Gram (-) rods 2+
+     Gram's(GS)#5:       Gram (+) rods,  痰檢體品質不良建議重新送檢 2+
+B3-1040827-7061541   RANDOM URINE
+     ID+DS Urine #1:       No aerobic  pathogen
+
+*********檢驗室:RL***********
+
+群組:
+
+               Mucus(S)     
+time/item      (*)          
+1040827 [2316] -            
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1040827 [2316] 0-2           5-10          0-2           -             -            
+               Others(S)     Bacteria     
+time/item      (*)           (*)          
+1040827 [2316] -             2+           
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1040827 [2316] 1.005         6.5           -             -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1040827 [2316] -             ≦1.5          -             -             1+           
+               Color         Turbidity    
+time/item      (*)           (*)          
+1040827 [2316] Light Yellow  -                          
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1040827 [2201] 7.412         39.9          42.0          25.7          0.8          
+群組:Biochemistry
+
+               CRE           Na            K             T-BIL        
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)      
+1040827 [2201] 0.6           130           4.8           0.49         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1040827 [2201] 12           
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1040827 [2201] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1040827 [2201] 79.1          3.2           0.1           4.6           13.0         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1040827 [2201] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1040827 [2201] 6.91          3.54          10.7          31.9          90.1         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1040827 [2201] 30.2          33.5          239           13.1          -            
+
+*********檢驗室:B2***********
+B2-1040827-7061534   BLOOD
+     ID+DS Blood.#1:       No growth after 5 days
+B2-1040827-7061535   BLOOD
+     ID+DS Blood.#1:       No growth after 5 days
+
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1040827 [2202] 199          
+1040828 [1015] 186          
+1040828 [1632] 145          
+1040828 [2031] 227          
+1040829 [0459] 124          
+1040829 [1039] 226 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+CT With/Without Contrast-Head and Neck(Skull Base to Clavicle) 醫令: CT With/Without Contrast-Head and Neck(Skull Base to Clavicle) 報告醫師: 張晉誠 影像時間: 2015/09/24 22:45 (33072B1M) 發報告時間: 2015/09/25 11:11 CT of the neck without and with contrast enhancement shows:
+> a 6.4-cm ill-defined, infiltrative, heterogenous enhancing mass lesion, at the nasopharynx, oropharynx, right buccal region and the pharynx, with encasement of the right ECA, suspected tumor recurrence.
+> Post operative change of the right tongue and right neck. 
+> Focal irregularity of the right ICA. Occlusion of the right internal jugular vein.
+> Bilateral chronic mastoiditis.
+> Small(<1cm) lymph nodes at the left neck.
+> No definite focal lesion at the paranasal sinuses, major salivary glands, and thyroid gland.
+> Fibrotic change of bilateral apical lungs.
+Skull: WATERS VIEW 醫令: Skull: WATERS VIEW 報告醫師: 陳雅芳 影像時間: 2015/09/23 16:20 (32009C7M) 發報告時間: 2015/09/23 16:38 EXAMINATION: Skull: WATERS VIEW
+FINDINGS:
+Mucosal thickening of maxillary sinuses.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 葉建德 影像時間: 2015/09/23 16:18 (32001CXM) 發報告時間: 2015/09/23 19:35 EXAMINATION: Chest : PA View (Standing)
+FINDINGS:
+Normal heart size. Mediastinal widening. Prominent bilateral lung markings.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳育青 影像時間: 2015/09/11 15:14 (32001CYM) 發報告時間: 2015/09/11 19:11 EXAMINATION: Chest : AP View (Supine)
+FINDINGS:
+Normal heart size. Atherosclerosis and calcified aorta. Suspect a nodule in the right lower lung field.
+MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) 醫令: MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) 報告醫師: 陳邦斌 影像時間: 2015/08/28 16:46 (33085B0M) 發報告時間: 2015/08/28 17:48 Hx: NPC, T4N0M0, stage IVA 2007/03/22~2007/05/10 RT: 7000cGy/35fx. Right tongue cancer, squamous cell carcinoma and sarcoma, status post right partial glossectomy and supraomohyoid neck dissection
+
+MRI of neck without/with contrast enhancement shows
+1. Multiple infiltrative soft tissue tumors, up to 6.2cm on right side, of abnormal signal and enhancement in the right posterior oral cavity, nasopharynx and bilateral pharyngeal space, r/o recurrent tumors. 
+2. Magnetic suceptibility artifacts from dental prosthesis obscure the image details in oral cavity. 
+3. Several enlarged lymph nodes at bilateral carotid space, left submandibular and submental area. 
+4. Mild mucosal thickening of paranasal sinuses
+5. Bilateral mastoiditis change.      
+6. Post-RT fatty change of the C spine bone marrow.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 陳邦斌 影像時間: 2015/08/27 22:34 (32001CXM) 發報告時間: 2015/08/28 10:10 cardiomegaly. calcification of the aortic knob. some interstitial infiltrations at right lower lung field. bilateral sharp costophrenic angles. mild spondylosis of the spine. (previous) compression fracture(s) and wedge deformity or decrease in height at L2 with retention of some bone cement(s). 
+病理報告(Pathology Report) 
+S1501191
+Oral cavity,tongue, right, labeled as tumor,excision,sarcoma undifferentiated,   
+Oral cavity,tongue, right, labeled as ulcer,incisional biopsy,squamous cell carcinoma    
+ S1504060
+Oral cavity,tongue, right lateral border,partial glossectomy,squamous cell carcinoma sarcomatoid lesion (see description),  
+Salivary gland,submandibular, right,supraomohyoid neck dissection,no evidence of malignancy    
+Lymph node,neck, level I, right,,supraomohyoid neck dissection,no evidence of metastasis (0/4),   
+Lymph node,neck, level II, right,supraomohyoid neck dissection,no evidence of metastasis (0/3),   
+Lymph node,neck, level IIB, right,supraomohyoid neck dissection,no evidence of metastasis (0/1),   
+Lymph node,neck, level III, right,supraomohyoid neck dissection,no evidence of metastasis (0/5),   
+ S1534952 
+臆斷(Tentative Diagnosis) 
+1. In-hospital cardiac arrest status post cardiopulmonary resuscitation with return of spontaneous circulation
+2. Right tongue cancer, squamous cell carcinoma and sarcoma, status post right partial glossectomy and supraomohyoid neck dissection
+3. Nasopharyngeal carcinoma, cT4N0M0, stage IV, status post concurrent chemoradiotherapy(2007/3/22~2007/5/10 7000cGY)
+4. Diabetes mellitus 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+In-hospital cardiac arrest status post cardiopulmonary resuscitation with return of spontaneous circulation
+A: 
+E1M4Vt
+Chest: coarse
+Abdomen: soft and ovoid, tenderness -
+P: Empirical antibiotic with Tazocin
+Complete septic workup: blood, sputum, urine cultures
+Complete hypothermia therapy
+
+Treatment Goal:
+1. Discontinuation of mechanical ventilation
+2. Infection eradication
+3. Hypothermia therapy 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右鎖骨下 
+雙腔導管留置：無  
+鼻胃管留置：無  
+氣管管路留置：有 氣管內管  7.0mm 
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：OG
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：女兒 
+出院規劃收案篩檢：高危病患 慢性病控制不良 
+主治醫師評論(VS Comments) 
+I agree with the resident's assessment. 
+醫師姓名 
+張維典 主治醫師 

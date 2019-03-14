@@ -1,0 +1,57 @@
+[Active problem]
+1. Vestibular schwannoma, status post operation (2009/04, 2009/07, 2009/11/21), with recurrence, status post left retrosigmoid approach for tumor excision (2016/10/05), with recurrence, with right hemiparesis, dysphagia, dysarthria, left face hypesthesia, left ptosis, left hearing impairment, nystagmus and messeter/temporalis atrophy, status post left temporo-frontal craniotomy extradural Kawasa approach for tumor excision (2017/02/08)
+
+[vital sign]
+2017/03/11 09:01 T:37.8 P:103 R:16 BP:123/79
+2017/03/11 09:02 GCS:E2M2VT
+2017/03/11 11:02 SpO2:98%(30%,L,VCR)
+
+[NE] (pre-op E4M6V5, MP 4/4+)
+E2M2VT; MP (R/L) = (<3,<3/<3,<3)
+Light reflex (R/L) = (4+/3+)
+Corneal reflex (R/L) = (+/-)
+
+[Lab data]
+2017/03/06 
+Free T4(CIA) 2.10  ng/dL, hsTSH(CIA) 0.894  £gIU/mL 
+Cortisol DL 20.1  £gg/dL, ACTH 8.95 pg/mL 
+03/06 CSF: no evidence of infection 
+2017/03/11
+WBC:13.05 K/£gL; RBC:3.73 M/£gL; HB:11.1 g/dL; PLT:493 K/£gL
+BUN:22.8 mg/dL; CRE:0.7 mg/dL
+Na:131 mmol/L; K:5.0 mmol/L
+Ca:2.17 mmol/L; Mg:1.13 mmol/L
+ALT:77 U/L; AST:92 U/L
+LacticAcid:1.40 mmol/L
+
+2017/03/11 U/A-->pyuria
+RBC (S):10-20 /HPF; WBC (S):50-75 /HPF; Epith (S):0-2 /HPF
+Bacteria:2+ *; WBC esterase (U):1+ ; Turbidity:+ 
+
+[Culture]
+1. B/C (02/10, 02/12, 02/24, 03/01) = (-), (03/04) = (?)
+2. S/C (02/10) = A. baumannii + C. koseri
+       (02/12) = A. nosocomialis + E. cloacae
+       (02/24) = A. nosocomialis + S. maltophilia
+       (03/01) = A. nosocomialis (wild)
+       (03/05) = A. nosocomialis (2+)
+                 Stenotrophomonas maltophilia 1+
+3. U/C (02/10, 02/12, 02/24, 03/01, 03/04) = (-)
+4. Nasal discharge (02/11) = A. baumannii + E. faecalis + Citrobacter + Prevotella nanceiensis
+5. CSF (¥Ö¤U) (02/14, 02/28) = (-)
+6. CWV (02/11) = (-)
+7. CVC tip (03/03) = (Gram neg. bacillus 2)
+
+[Antibiotics]
+Vancomycin 750 mg Q8H 2017/02/10~03/02
+Tatumcef 2000 mg Q8H 2017/02/10~03/02
+Cefazolin 1000 mg Q8H 2017/02/08~02/09
+Maxipime 2000mg Q12H 2017/03/11~ 
+
+[Plan]
+1. Closely monitor GCS, vital signs, and neurologic examinations
+2. Keep Befon 2 tab Q6H  and Ativan 2 tab PO Q6H for sympathetic activity control 
+3. Ceased Predonine 
+4. Bromocriptine for central fever
+5. Keep Maxipime for infection control (UTI)
+6. May consult rehabilitation for orthoses.

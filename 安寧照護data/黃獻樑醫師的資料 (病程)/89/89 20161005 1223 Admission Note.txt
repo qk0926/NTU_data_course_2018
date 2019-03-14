@@ -1,0 +1,208 @@
+2016/10/05 12:23 
+主訴(Chief Complaint) 
+Informant:daughter/son/wife
+Sudden collapse while fixing the car tent 
+病史(Brief History) 
+This 68-year-old male has past history of:
+1.Abdominal aoritc aneurysm s/p open repair in 2011
+2.Brain lesion s/p operation in 2013
+3.Chronic kidney disease
+4.Diabetes mellitus without regular medication control
+
+ He is a heavy smoker for years. This time, according to his family members. Sudden onset collpase was witnessed by his son while the patient was fixing the car tent, facial twitching with upward gazing was noted at that time, the patient fainted down on around 21:40, EMT arrived on about 22:00, no pasue was noted so CPCR was initiated, initially non-shockable rhythm, then Vf noted during CPCR so DC shock twice was done. EMT arrived Taipei City Hospital(忠孝院區)on 22:21. Endotracheal intubation was perfromed then ROSC on 22:33, VT noted after ROSC so DC shock with 200J twice had done, with cordarone infusion. Brain CT and abdominal CT was arranged and showed no evidence of ICH and abdominal aoritc aneurysm was noted. ECG after ROSC showed ST elevation over precordial lead, Aspirin 300mg/Plavix 225mg laoding was done, under impression of STEMI, he was transferred to NTUH ER for further PCI arrangement.
+  Patient arrived NTUH ER on 2016/10/5 02:11, Vital sign at triage showed: BP: 152/102mmHg, Pulse Rate: 126/min,Respiratory Rate: 16/min, Temperature: 37.2℃, SPO2: 95％ Consciousness: Drowsy , E:1,V:T,M:4. Whole body CT with contrast was performed and revelaed no ICH, bilateral hydronephrosis and thoracic aortic aneyrusm was noted. PCI was done and which revealed CAD,3VD, LAD ostium total occlusion, s/p POBAS(BMS) to proximal to mid LAD, only TIMI 1-2 flow. Then he was transferred to CCU for further care.
+
+CAD risk:Age/gender/smoking/DM
+
+
+Family History: no known history of CAD
+Medication Allergy:No  親屬描述 2016/10/05
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  親屬描述 2016/10/05
+Current Medication:nil
+Other:
+中草藥:denied
+保健食品:denied
+Past Medical History:
+1.Abdominal aoritc aneurysm s/p open repair in 2011
+2.Brain lesion s/p operation on 2013
+3.Chronic kidney disease
+4.Diabetes mellitus without regular medication control
+
+Past Surgical History:
+1.Abdominal aoritc aneurysm s/p open repair in 2011
+2.Brain lesion s/p operation on 2013 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:小學
+職業:服務業
+宗教信仰:道教
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:B，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有，已戒煙:2年
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Fall Risk Assessment
+總分:16
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1. Systemic: fever (-), BW loss (-), easy-fatigability (-), change of appetite (-), dizziness (-) 
+2. Skin: petechiae (-), purpura (-), itching (-), local redness and swelling (-), papules(-)
+3. HEENT: hearing loss (-), nasal discharge (-), sore throat (-) headache (-)
+4. Cardiovascular: palpitation (-), exertional dyspnea (-)
+5. Respiratory: dyspnea (-), chest pain (-), cough (-)
+6. GI: anorexia (-), nausea (-), vomiting (-), constipation (-), diarrhea (-), melena (-), change of bowel habit (-), small caliber of stool (-), tenesmus (-), flatulence (-), abdominal pain (-)
+7. Urogenital: flank soreness (-), hematuria (-), urinary frequency (-), urgency (-), dysuria(-), hesitancy (-), nocturia (-), polyuria (-), oliguria (-)
+8. Musculoskeletal: Back pain (-), bone pain (-), joint pain(-) 
+身體檢查(Physical Examination) 
+BH: 170 cm,  BW: 80.3 kg,
+T: 34.2 °C,  P: 113 bpm,  R: 20 /min,
+BP: 127 / 88 mmHg,
+Pain score:  ,
+Consciousness: coma status   GCS:E1M4VT
+HEENT: Abrasion wound over forehead, conjunctiva: pink, sclera: anicteric
+       Pupil: isocoric,  3mm/ 3mm
+Light reflex: L/R: +/+, EOM: full and free
+Neck: supple, JVE (-) LAP (-) Goiter(-) Carotid bruit(-)
+Chest: symmetric expansion, breath sound: bil. coarse breath sound
+Heart: RHB, no murmur
+Abdomen: soft and flat, bowel sound: normoactive
+         Liver/ spleen: impalpable
+         Tenderness (-) Rebound tenderness (-)
+         OP scar over lower abdomen
+Back: No knocking tenderness
+Extremities: Freely movable, Pitting edema (-) ; Cyanosis (-)
+Skin: Skin rash (-)
+Peripheral pulsation: intact 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:
+
+               Troponin-T    eGFR          CK-MB        
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)      
+                              m^2)                      
+1051005 [0232] 2345          25.1          86.54        
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ca           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1051005 [0232] 32.9          2.7           139           3.5           2.09         
+               Mg            LacticAcid    CK           
+time/item      (mmol/L)      (mmol/L)      (U/L)        
+1051005 [0232] 0.90          7.09          1129         
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1051005 [0232] 11.5          23.6          1.05         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1051005 [0232] 139          
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1051005 [0232] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1051005 [0232] 83.2          0.0           0.1           8.9           7.8          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1051005 [0232] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1051005 [0232] 17.86         5.29          16.3          46.8          88.5         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1051005 [0232] 30.8          34.8          135           13.0          -            
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1051005 [0211] 7.341         29.9          66.4          16.3          -9.7         
+               SO2          
+time/item      (%)          
+1051005 [0211] 92.0         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1051005 [0211] 1.08          16.6          50            3.60          144.3        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1051005 [0211] 306           6.8          
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1051005 [0224] 287 
+檢查紀錄(Examination Report) 
+pending 
+影像報告(Imaging Report) 
+pending formal report 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1.CAD,3VD, with STEMI, Killip IV, complicated with OHCA, s/p CPCR with ROSC, s/p POBAS(BMS) to LAD
+2.Acute on chronic kidney disease
+3.Abdominal aoritc aneurysm s/p open repair in 2011
+4.Brain lesion s/p operation on 2013
+5.Diabetes mellitus without regular medication control 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+1.CAD,3VD, with STEMI, Killip IV, complicated with OHCA, s/p CPCR with ROSC, s/p POBAS(BMS) to LAD
+2.Acute on chronic kidney disease
+3.Abdominal aoritc aneurysm s/p open repair in 2011
+4.Brain lesion s/p operation in 2013
+5.Diabetes mellitus without regular medication control
+
+<Assement>
+
+HB/WBC/PLT: 16.3/17860/135K
+ALT 139, CRE 2.7, Lactic acid 7.09
+CK/CK-MB/TnT 1129/86.54/2345
+
+UCG: anterior hypokinesia, AR+~++
+
+<Plans>
+- Keep DAPT and heparinization
+- Start theraputic hypothermia due to unclear conscious after resuscitation
+- Risk stratification
+- Inform critical condition and poor neurological outcome due to prolonged resuscitation; also inform risk of AMI, including cardiac rupture, fatal arrhythmia, refractory cardiogenic shock
+-Consider CVVH if refractory metabolic acidosis
+
+Treatment Goal:
+-Post-MI care and supporitve management 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左手 右手 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 其他氣管管路  7.5mm 
+胃造廔口：無  
+尿管留置：有 Two way Foley 16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：配偶 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment made by the resident. 
+醫師姓名 
+洪啟盛 主治醫師 

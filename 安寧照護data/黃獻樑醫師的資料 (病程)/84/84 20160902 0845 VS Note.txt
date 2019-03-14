@@ -1,0 +1,24 @@
+1. Out-of hospital cardiac arrest(OHCA), suspected hypoxemic respiratory failure related, s/p CPCR 18 minutes with ROSC, s/p endotracheal intubation with mechanical ventilation(ETT+MV)(2016/7/29-), s/p therapeutic hypothermia (2016/07/29-07/31)
+2. Acute respiratory failure, pneumonia related, s/p ETT+MV (2016/07/29-)
+3. Moderate to severe aortic stenosis (2014/04/08 UCG), s/p TAVI (2014/12/23), complicated with complete AV block, s/p PPM (DDDR, MRI-compatible on 2014/12/25)
+4. Hypertension
+5. Benign prostatic hyperplasia, s/p transurethral resection of prostate (TURP)
+6. Right inguinal hernia, s/p OP
+
+Extubated 2016/8/30.
+Under close observation.
+Maintain adequate chest care.
+Follow up CXR to assess the probability of atelectasis.
+
+2016/09/02 08:45 T:37.4 P:94 R:27
+2016/09/02 04:02 T:36.6 P:91 R:21
+2016/09/02 00:37 T:36.4 P:96 R:24
+2016/09/01 20:15 T:36.3 P:96 R:23
+2016/09/01 16:39 T:36.4 P:93 R:21
+2016/09/01 11:58 T:36 P:83 R:23
+2016/09/02 04:02 SpO2:98%(35%,8L,Mask)
+2016/09/02 00:38 SpO2:95%(28%,5L,Mask)
+2016/09/01 20:16 SpO2:100%(28%,5L,Mask)
+2016/09/01 16:40 SpO2:97%(28%,5L,Mask)
+2016/09/01 11:58 SpO2:100%(28%,5L,Mask)
+2016/09/01 09:28 SpO2:99%(28%,5L,Mask)

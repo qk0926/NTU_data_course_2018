@@ -1,0 +1,29 @@
+59 y/o M
+
+1.Productive cough with shortness of breath, suspect pneumonia related
+2.Peritonitis, dialysis-associated peritonitis, with multidrug-resistant Acinetobacter baumanni bacteremia, with septic shock
+3.History of enterococcus faecalis bacteremia
+4.History of In-hospital cardiac arrest, ventricular tachycardia, status post cardiopulmonary resuscitation (30 minutes), status post endotracheal intubation and mechanical ventilation (2015/10/16 - 2015/10/29), extracorporeal membrane oxygenation (2015/10/16 - 2015/10/20) and intra-aortic balloon pump (2015/10/16 - 2015/10/23)
+5.Left pneumothorax, status post tube thoracostomy (2015/10/17-30)
+6.Coronary artery disease, left main and 3-vessel disease, with RCA total occlusion, status post rota-ablation and POBAS (DES*3) to RCA (2015/10/15)s/p rotaablation and POBAS to LM-LAD and LM-LCX (2015/10/19)
+7.Respiratory failure, type II and type IV, status post endotracheal intubation and mechanical ventilation (2015-11-18 -11/27), with BiPAP support
+8.End stage renal disease, previously on peritoneal dialysis, switched to SLED (11/19), CVVH (11/20 - 11/21), SLED (11/22 -), s/p permcath on 12/8
+9.Congestive heart failure, ischemic cardiomyopathy, (2015/11/14 LVEF 27.9%)
+10.Type 2 diabetes mellitus (2015/10/2 HbA1c: 7.0)
+11.Adrenal insufficiency
+12.Common carotid artery stenosis, bilateral (right 60%, left 40%)
+13.Right intertrochanter fracture of femur
+14.Peripheral arterial occlusive disease with right toe gangrene change
+15.Enterobacter cloacae bacillus bacteremia, focus to be determined, suspect right foot wound related, improve
+16.History of cerebrovascular accident twice (2007, 2008), mild right hemiparesis
+
+He experienced progressive dyspnea with acute respiratory failure and admitted to MICU for further managemetn
+
+
+Suggest:
+
+-> OP showed turbid ascites and already removal of PD tube
+-> trial of PS weaning
+-> Be aware of internal bleeding after OP
+-> RRT with reset dry weight
+-> inform family current status and further treatemtn plan

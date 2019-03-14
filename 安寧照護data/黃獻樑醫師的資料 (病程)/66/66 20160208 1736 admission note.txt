@@ -1,0 +1,218 @@
+2016/02/08 17:36 
+主訴(Chief Complaint) 
+Informant:The medical staff from ER
+Sudden collapse at around 10:00AM on 2016/02/08 
+病史(Brief History) 
+The 87-year-old female was sent to our hospital by the witness. There was no family reporting her previous medical history. According to the neighbor, she lived alone. Today she was sent to our hospital at 10:35AM by the witness when sudden collpase and conscoius change were noted. Upon arrival, the vital signs showed TPR=36.9/102/20, BP=153/65mmHg. The emergent CT scan showed no ICH. The neurologist was consulted immediately, when brainstem stroke was suspected. The initial NIHSS was 35 (E1M3V1, pupils rapidly progressed from 3mm/2mm to 6mm/5.5mm, LR-/-, corneal-/-, OCR-/-). The emergent brain CT showed no ICH. Further CT perfusion revealed BA to bilateral PCA occlusion with posterior infarct. Endotracheal tube was inserted for airway protection, and the patient was soon admitted to the stroke ICU for further management.
+
+Family History:unknown
+Medication Allergy:UnClear  本院醫事人員確認 發生日期:2/8
+Medication ADR:unknown
+Allergy to Medical Device and Materials:unknown
+Current Medication:
+NTUH:
+警 Humulin R 1000 U/10 mL /vial 8 U STAT SC 1 days
+Nexium 40 mg/tab 1 tab QDAC1HR PO 2 days
+Aspirin 100 mg/tab 1 tab QDPC PO 2 days
+警 Relaxin 500 mg/vial 不計價常備藥 50 mg STAT IV 1 days
+(管4) 5 Dormicum 5 mg/1 mL /amp 5 mg STAT IV 1 days
+Other:Unknown
+中草藥:Unknown
+保健食品:Unknown
+Past Medical History:Unknown, probably old TB s/p treatment
+Hospitalization:Unknown
+Past Surgical History:Unknown
+Travel History:Unknown 
+社會心理相關評估(Psychosocial Assessment) 
+Psychological History and Evaluation
+意識狀態:半昏迷
+認知功能:無法評估 
+精神情緒狀態:無法評估  
+安全問題:有 其他 跌倒
+睡眠形態:異常 其他 無法評估
+
+Nutritional Screen
+攝食情形:
+排便狀態:異常
+排便異常狀態:其他
+其他排便異常狀態:班內未解
+BMI:25.31
+
+Fall Risk Assessment
+總分:10
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+General：BW change(－), general malaise(－), chills(－), night sweats(－), 
+Skin: skin rash(－), itching/pruritus(－), pigmentation(－), jaundice(－), nails, hair change(－), edema (－), varicose veins(－), erythema (－)
+Head: headache(－), dizziness(－), vertigo(－), recent trauma(－), faint(－)
+Respiratory: dyspnea(－), cough(－), hemoptysis(－)
+Cardiovascular: chest tightness (－), previous MI(－), exertional dyspnea(－), orthopnea(－), cyanosis(－) 
+Gastrointestinal: poor appetite(－), nausea(－), vomiting(－), retching(－), hunger pain(－), abdominal pain(－), hepatitis(－), bowel habit change(－), constipation(－), diarrhea(－), 
+Urinary: urinary frequency(－), urgency(－), hesitancy(－), difficulty (－), nocturia(－), incontinence(－), hematuria(－), discharge(－), small stream of urine(-), dysuria(－) Hematologic: anemia(-), easy bruising(－), hx of transfusion (－), hx of thrombosis(－), petechiae(－), purpura(－)
+Musculoskeletal and Rheumatological: bone pain(－), myalgia(-), arthralgia(－), joint swelling(－), joint instability(－), limit of ROM(－), back pain (－), gout(－), morning stiffness(－), dry eye (－), dry mouth(-) 
+身體檢查(Physical Examination) 
+BH:NA cm   BW:NA kg
+T:35.3 P:90 R:15
+BP:116/85 mmHg
+Pain:0
+
+{Neurological Examination}
+NIHSS=36+X
+Consciousness: comatose, E1M2~3VT
+CN II  VF: no response to threatening test   Pupil size: R/L(5.5/6mm);   Light reflex: R/L(-/-)
+CN III, IV, VI  fixed eye, no eye movement; OCR-/-
+CN V Corneal reflex: R/L(-/-)
+CN VII  suspect facial diplegia
+CN IX, X  cough(+)
+CN XII  tongue deviation: unable to perform
+
+Motor Inspection: Muscle wasting(-), fasciculation(-); 
+Muscle tone: spasticity(+, bilateral lower limbs), rigidity(-)
+Muscle power
+ Right: upper proximal: 2, upper distal: 2, lower proximal: 1, lower distal: 1
+ Left: upper proximal: 2, upper distal: 2, lower proximal: 1~2, lower distal: 1
+DTR：Lower limbs could not be elicited due to severe spasticity
+  Right: biceps: ++, triceps: ++, brachioradialis: ++,
+  Left: biceps: ++, triceps: ++, brachioradialis: ++, 
+Babinski sign: +/+
+Sensation modality: bilateral poor response to local pain stimulation
+FNF, HKS: Unable to perform 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:YM***********
+
+群組:
+
+               Free Ca(急重症自  K+(急重症自行檢驗)   Na(急重症自行檢驗)   Suger(急重症自行檢  LacticAcid(急 
+               行檢驗)                                      驗)            重症自行檢驗)      
+time/item      (mmol/L)      (mmol/L)      (mmol/L)      (mg/dL)       (mmol/L)     
+1050208 [1043] 1.26          4.00          142.8         119           1.7          
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050208 [1043] 7.351         41.7          33.0          23.3          -2.6         
+               SO2          
+time/item      (%)          
+1050208 [1043] 60.5         
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050208 [1045] 104          
+*********檢驗室:RL***********
+
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1050208 [1045] 9.9           22.1          0.93         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1050208 [1045] 45           
+群組:Biochemistry
+
+               CRE           Na            K            
+time/item      (mg/dL)       (mmol/L)      (mmol/L)     
+1050208 [1045] 0.9           140           4.1          
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050208 [1045] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050208 [1045] 61.1          2.7           0.3           8.9           27.0         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050208 [1045] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050208 [1045] 6.77          3.99          12.2          36.4          91.2         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050208 [1045] 30.6          33.5          216           14.0          -            
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1050208 [1049] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1050208 [1049] O             Positive 
+檢查紀錄(Examination Report) 
+Nil 
+影像報告(Imaging Report) 
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳佾昌 影像時間: 2016/02/08 11:51 (32001CYM) 發報告時間: 2016/02/08 12:23 Chart No: 3177152
+Accession No: T0169601989
+EXAMINATION: Chest - AP View (Supine).
+FINDINGS:
+Cardiomegaly. Tortuous aorta with calcification. Bilateral increased interstitial infiltration. Suggest clinical correlation.
+CT Without Contrast-Brain 醫令: CT Without Contrast-Brain 報告醫師: 陳佾昌 影像時間: 2016/02/08 10:45 (33070B0M) 發報告時間: 2016/02/08 11:03 CT of the brain without contrast enhancement shows: 
+- Low densities at bilateral periventricular white matter, suggestive of leukoaraiosis.
+- Suspect a lacune in left basal ganglion, suggest clinical correlation.
+- Normal appearance of the cranial vault and skull base.
+- A calcification at left anterior temporal region.
+Perfusion CT 醫令: Perfusion CT 報告醫師: 陳佾昌 影像時間: 2016/02/08 11:17 (33072BYM) 發報告時間: 2016/02/08 12:21 CT angiography and perfusion scan of brain shows: 
+- Occlusion of mid BA to bilateral proximal PCA.
+- Hypoplastic right VA.
+- Atherosclerotic calcification at bilateral paraclinoid ICA and carotid bulb.
+- Cervical spondylosis with marginal osteophyte formation.
+- Thyroid nodule(s).
+- Placement of endotracheal tube.
+- CT perfusion shows decreased CBF and prolonged MTT at posterior fossa and bilateral PCA territories (more on the left side).
+
+(BA: basilar artery; CBF: cerebral blood flow; ICA: internal carotid artery; MTT: mean transit time; PCA: posterior cerebral artery; VA: vertebral artery.) 
+病理報告(Pathology Report) 
+094/10/13 S0527612
+Gallbladder,laparoscopic cholecystectomy,chronic cholecystitis cholelithiasis 
+臆斷(Tentative Diagnosis) 
+1. suspect brainstem stroke with Basilar artery and bilateral posterior cerebral artery occlusion, day 1 = 2016/02/08
+2. Atrial fibrillation
+3. Old pulmonary tuberculosis, status post treatment 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+{Case Summary}
+The 87F had sudden conscious change. The NE showed loss of brainstem reflex with M3 response. BA to bil proximal PCA occlusion was confirmed by CT perfusion and angiography. The IV or IA thrombectomy was not indicated due to initial high NIHSS(35).
+
+{Assessment}
+BAO, probably cardioembolic stroke
+Endotracheal tube intubation was performed for airway protection
+
+{Plans}
+1. Consult social worker
+2. Keep ventilator support
+3. Give aspirin
+4. May follow brain CT to confirm infarct size tomorrow
+5. Check sputum AFS and CXR, to rule out active pulmonary TB
+
+Treatment Goal:Best supportive care 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左手 右手 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有   7.5mm 
+胃造廔口：無  
+尿管留置：有  16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：5
+預期出院後居住場所：獨居 
+預期出院後主要照顧者：自己 
+出院規劃收案篩檢：高危病患 獨居老人 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+Critical care. 
+醫師姓名 
+陳達夫 主治醫師 

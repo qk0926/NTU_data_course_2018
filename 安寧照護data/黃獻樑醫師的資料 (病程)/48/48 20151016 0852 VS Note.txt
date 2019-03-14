@@ -1,0 +1,14 @@
+Trying home ventilator for long term care at home.
+Control the infection.
+2015/10/15 ID+DS Blood.#1:No growth after 5 days   *
+2015/10/14 C-Reactive Protein:7.67   mg/dL
+2015/10/14 LacticAcid:1.19   mmol/L
+2015/10/16 04:52 SpO2:100%(%,3L,)
+2015/10/16 01:37 SpO2:100%(%,3L,)
+2015/10/15 20:03 SpO2:100%(%,3L,VCR)
+2015/10/16 04:51 T:36.4 P:94 R:17
+2015/10/16 01:37 T:38.3 P:106 R:26
+2015/10/15 20:03 T:36.3 P:107 R:27
+2015/10/16 04:52 BP:122/71
+2015/10/16 01:37 BP:123/73
+2015/10/15 21:03 BP:145/82

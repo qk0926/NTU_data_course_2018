@@ -1,0 +1,36 @@
+Brief Summary of this week    
+After admission, we kept hypothermic therapy, and BT 33 degree was achieved around 0200. Tachycardia was refractory to adenosine, and resolved after herbessor use. TTM related tremor was noted at first and resolved after NM blocker use. Shock was noted at 07/31, and Rocephin was upgraded to Mexipime. His blood pressure was fluctuated under inotropic agent. We repeated brain CT on 08/01, for suspected ICH-related coma, and CT showed hypoxic-ischemic encephalopathy with diffuse brain edema, herniation, and hydrocephalus, therefore mannitol was added. His lab data showed secondary adrenal insufficiency, although family refused previous exposure to steroid or Chinese herb. We increased his steroid on 08/02, and blood pressure imporved a little. EEG on 08/02 showed severe diffuse cortical dysfunction. The lab data on 08/04 showed ketone 2.6, AG 13.4, Na 163, Cl 130; suspected to br dehydration-related mild DKA. Thus, insulin pump was started. His AG close in the afternoon, so we switched insulin to fraction. 
+
+
+Assessment 
+[Today's event]
+AG close yesterday afternoon
+ketone 0.1, Na 161, K 3.8
+DKA resolved, keep fraction RI
+
+[Abx]
+Maxipime	07/31-	empirical
+==========
+Rocephin	07/30-31	empirical
+
+7/30 B/C: pending*2, S/C: -, U/C: -
+
+[Studies]
+07/30 Whole body CT:
+Under an endotracheal tube, atelectasis of bilateral lungs at dependent portion, no definite traumatic focus
+08/01 brain CT: Hypoxic-ischemic encephalopathy with diffuse brain edema, herniation, and hydrocephalus.
+
+[Consultation]
+Dr ²ø§Ó©ú: unfavor of Brugada
+
+Plan 
+1.For OHCA
+  - CAG if consciousness improved
+  - Keep Maxipime for previous infection? 
+  - Titrate thiamine for suspect high CO heart failure ?
+  - Brain perfusion study 08/07 for prognosis prediction
+2.For adrenal insufficiency
+  - Titrate solu-cortef to 50mg Q6H
+3.For DM
+  - Keep fraction RI use
+  - One touch TIDAC+HS until one touch stable

@@ -1,0 +1,27 @@
+Dr:
+1. Hypoxemic Respiratory failure, community-acquired pneumonia related, s/p ETT-MV (2016/12/26-), s/p prone(12/26-12/27) (2017/01/02-01/04)
+2. Multiple drug resistant Acinetobacter baumannii lobar pneumonia and bacteremia, under Colistin and Brosym treatment
+3. Sick sinus syndrome, paroxysmal Af, s/p permanent pacemaker (2015/08/21, DDDR, Medtronic)
+
+Plan:
+1. for pneumonia, and MDRAB bacteremia
+ - Keep Brosym and colistin(IV+IH) for MDRAB infection
+ - Follow up blood culture (1/14 negative)
+ - Consult surgeon for VATS
+ - Inform family poor prognosis due to MDRAB empyema
+2. for Afib with PPM 
+ - hold apixaban, cordarone, keep rytnomorm
+
+[Pharmacist]
+1/24 INR 2.85, Brosym related? 
+1/22 PE/C MRSA, MDRAB(R to Unasyn)
+Consider complete treatment course.
+
+[護理師]
+GCS: E1VTM1,NG pump feeding set39 ml/hr,反抽消化佳,oral endo tube with呼吸器CPAP mode,try T-piece呼吸淺快SPO2:93-94%,Levophed use/RN盧佩莉
+
+[RT]
+Plan:
+1. keep ventilator partial support, keep titrate  FiO2/PEEP&trying weaning
+2. keep Abx used (Ceftazidim Cravit)
+3. Chest care

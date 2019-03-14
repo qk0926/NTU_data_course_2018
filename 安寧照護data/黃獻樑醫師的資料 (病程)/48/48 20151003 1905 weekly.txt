@@ -1,0 +1,97 @@
+Brief Summary of this week 
+The patient was kept in stationary condition with chronic deteriorating disease progression. T-piece trial failed and weaning was withheld. New onset fever was noticed on 10/01 afternoon with septic workup was done. Emprical antibiotic was upgraded to Brosym for sputum culture found AB(WT) and coverage for PsA. The patient was again tried T piece on 10/02 but also faield soon after initiation with tachycardia and sweating. Tachycardia was again noticed on 10/03 when trial, and bedside echo was done with poor functioned diaphragm and phrenic nerve palsy was suspected.
+
+Problem Assessment Plan 1
+Assessment 
+RCC+10
+
+[Antibiotics]
+HERZ (9/01-) D33 for TB peritonitis
+Brosym(10/01-) D3 for new onset fever on 10/01 (9/26 S/C: wild type AB & empirically cover PsA)
+------------------------------------------------------
+Fortum(9/26-10/01) for susp VAP?(9/22 S/C: wild type AB)
+Mepem (08/15-09/03), Vancomycin (08/15-08/22)
+Rocephin (08/10-08/15)
+---------------------------
+PE:
+consciousness: E2VtM4, stupor and drowsiness
+chest:bilateral mild crackles
+Abd:soft, distended, normo-active bowel sound, no tenderness
+Ext:bilateral hand pitting edema1+
+------------------------------------------------------
+[Ventilator]
+9/30 T-P 8hr QD => failed T-P after 2hr for HR increase
+10/01 TP 1 hr
+10/02 rest 
+10/03 TP 30min, failure with tachypnea > 40
+
+PC/SIMV IP 16, PS 8, PEEP 5, RR 2, FiO2 35%, Ti 1.0
+-> Vt 250-300, MV 8.5 RR 26, SpO2 100%
+** 9/24 WP: RSI 83, PIM -40, PEM +45
+
+[Diet] 調整配方 1500Kcal/1500cc/day
+
+[Important Progress]
+9/25 start T-P 2hr BID; RR 30-40, parodoxical pattern
+still low grade fever, poor consciousness
+9/26 fever to 38'C; U/A: WBC 5-10/HPF, S/S: GQ, no bacteria
+-> Add Ceftazidime for susp VAP
+-> still left shoulder involuntary movement under Keppra 1000mg BID
+9/27 Tachycardia w/ HR~120 -> switch back to PCV
+TV 200->500ml under IP 16; RR 30->20
+9/28 low TV, auto-PEEP under SIMV(4)
+9/29 Procalcitonin=0.19
+9/30 Adjust SIMV(2->6), T-P 8hr QD
+** Bedside echo: no ascites or obvious pleural effusion
+** Lung cancer related bilateral phrenic nerve palsy?
+10/01 new onset fever, septic workup, change to Brosym
+10/03 Bedside echo: poor diaphragm movement, suspected phrenic nerve palsy
+
+[Weaning]
+9/16 Tracheostomy.
+9/21 Try T-piece 50 mins: tolerable, mild SOB.
+9/22 Try T-piece 90 mins: improved, mild SOB.
+9/23 T-piece 25 mins: obvious paradoxical movement, RR>40 bpm.
+<start protocol weaning on 9/25>
+9/25 T-P 2hr QD => RR: 35-45, paradoxical movement; no SpO2 drop, HR stable=> Extended to T-P 2hr BID: tolerated
+9/26 T-P 4hr QD
+9/27 Hold weaning due to fever and ↑HR
+9/29 T-P 4hr BID
+9/30 T-P 8hr QD -> 2hr fail, tachycardia
+10/01 hold weaning
+10/02 T-P 4hour BID: failed due to tachypnea
+10/03 TP 2 hr, failed due to tachypnea
+
+[Important studies]
+09/09 EEG: moderate diffuse cortical dysfunction with emphasis on the right side.
+
+[Image]
+09/03 Brain CT: s/p VP shunt placement with its tip in right frontal cranial fossa; hydrocephalus; old insults. 
+09/29 CXR:bil. lower lung field increased infiltration
+[Culture]
+08/10 Abdominal fluid accumulation aspirate culture: TB
+08/31 U/C: yeast 2000
+09/06 U/C: yeast 50000
+09/22 S/C: AB1+(WT), B/C: negative
+09/26 B/Cx2(PB), S/C(S/S: GQ, no bacteria, AB1+(WT)), U/C
+
+[Important intervention or newly added medication]
+08/10 CT-guide abdominal fluid accumulation drainage(75-80ml)
+09/01 HERZ(No steroid use due to active infection and VP shunt(+))
+09/16 Tracheostomy
+
+[Important consultation]
+9/25 ID: No need for steroid use for suspected TB meningitis at this time point
+9/25 NS: no need for further brain image at this point, the hydrocephalus was less likely the cause of conscious change. The underline cancer progression was impressed. VP shunt revision also not indicated for TB infection.
+9/25 Dr.何肇基: chemotherapy was not suitbale for her
+
+[Important family decision]
+10/01 Daughter prefer RCW in 桃園
+
+Plan 
+1. Keep HERZ(D33) for TB peritonitis, monitor side effects.
+Pursue CSF TB culture result (9/5)
+2. Keep Brosym (D3) empirically for susp VAP(S/C=AB); keep short course if non-toxic; monitor PT/APTT if any bleeding signs, pursue S/C(9/26)
+3. Hold protocolized weaning due to tachypnea when trying T-P, consider resume weaning after the infection stablized
+4. Help disposistion finding
+5. Inform poor prognosis and neurological outcome.

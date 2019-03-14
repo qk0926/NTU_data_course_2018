@@ -1,0 +1,22 @@
+[Doctor]
+1. Acute respiratory failure, type IV, s/p ETT-MV (6/22-)
+2. Acute cholesystitis with E. coli and VRE bacteremia and 
+   septic shock, s/p PTCCD on 6/20
+
+Plan:
+1. For acute cholecystitis 
+ -Keep Tazocin and daptomycin for E. coli and VRE bacteremia
+ -F/U CK level
+ -F/U B/C Q3D (next: 6/29)
+ -Keep PTCCD, arrange ERCP later
+
+2. For ACKD
+ -Keep regular HD QW 135, set DW 65kg with adjustment
+
+[Pharmacist]
+1. Monitor Ck for daptomycin in HD patient.
+2. Follow up further culture data for ABX adjustment (WBC 17.85 k/mm3)
+3. Keep electrolyte balance for suspect myclonus.
+
+[Respiratory  Plan]
+Keep ventilator partial support and slowly weaning

@@ -1,0 +1,17 @@
+1.Hypoxemic Respiratory failure, community-acquired  pneumonia related, mechanical ventilation (2016/12/26-), status post prone(2016/12/26-12/27, 2017/01/02-01/04), status post tracheostomy on 2017/01/31
+2.Right side empyema, status post video-assisted thoracoscopic surgery(VATs) decortication on 2017/1/31 and 2017/2/25, status post right thoracotomy and open window creation 
+3.Right side pneumothorax, suspect barotrauma or empyema-related, status post tubal thoracostomy on 2017/01/16
+4.Sick sinus syndrome, paroxysmal atrial 
+
+Pharmacist:
+Adjust colistin for deteriorated renal function.
+
+RT:
+<Plan>
+1. Keep ventilator full support
+2. infection control(CMS+Tygacil for MDRAB)
+3. hemodialysis on w1,3,5
+4. Perform wet dressing Q8H
+
+Nurse:
+con's stupor，GCS:E4M1VT，on NJ tube with feeding pump，消化可，diarrhea漸改善，keep 醫師及藥師開立用藥使用，on 呼吸器設PCV mode，FiO2:35%，右側open window wound keep asorder Q8H wet dressing，滲液呈淡黃紅血水色，協助chest care and follow 醫師建議治療計畫。

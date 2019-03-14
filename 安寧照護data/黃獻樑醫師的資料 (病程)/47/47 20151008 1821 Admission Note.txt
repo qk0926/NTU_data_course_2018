@@ -1,0 +1,293 @@
+2015/10/08 18:21 
+主訴(Chief Complaint) 
+Informant:families and medical record
+Out of hospital cardiac arrest 
+病史(Brief History) 
+This is a patient with 
+1. CKD, stage III
+2. Parkisonism, limited daily activitiy, under NG and foley now. Her ADLs was total dependent could only sat on wheelchairs. Sputum impaction frequently was noted. 
+   This time, she had increase cough and dyspnea for 2 days, fever noted since this morning. 
+Due to aggitated and fever plan to visit 中心診所 lying on bed but aggitated, sudden arrest without movement noted on bed at b9:30. family removed pt to wheel chair EMT arrived by standered cpr(-). initial rythm: assytol->pea, dc shock(-), emt cpr 20min, denied trauma, fall, tarry stool. She was sent to ER for resuscitation. ROSC eas found after 10+ min CPR. She was admitted to 1A1 for therapeutic hypothermia.
+
+
+Family History: no family history of hypertension, Diabetes mellitus
+Medication Allergy:No  親屬描述 2013/05/23
+No  舊病歷資料 2010/05/19
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  親屬描述 2013/05/23
+Current Medication:
+NTUH:警 Adrenaline 1 mg/1 mL /amp 2 mg STAT IV 1 days
+Rolikan 16.6 mEq/20 mL /amp 166 mEq STAT IV 1 days
+PCN Test (Penicillin G Skin Test) 1000 U/1 mL 2 mL/vial 0.1 mL ONCE ID 1 days
+TAZOCIN (based on piperacillin content) 2000 mg/vial 3000 mg STAT IF 1 days
+MgO 250 mg/tab 1 tab BID PO 28 days
+(管4) Eurodin 2 mg/tab 1 tab HS PO 28 days
+(管4) Rivotril 0.5 mg/tab 0.5 tab HS PO 28 days
+250 Madopar /tab 1.75 tab AS ORDER PO 28 days
+Madopar HBS /cap 1 cap BID PO 28 days
+8 mg Neupro Transdermal Patch 8 mg/24 hr /pce (18 mg/40 cm2) 1 pce QD D 28 days
+Other:
+中草藥:denied
+保健食品:denied
+Past Medical History: as above
+Hospitalization: pneumonia last year
+
+Past Surgical History: ortho Op few years ago
+Travel: denied                          Cluster:denied
+Contact: denied                         Occupation:retired 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:高中
+職業:無
+宗教信仰:民間信仰
+婚姻狀態:已婚
+使用語言:國語 
+口述血型:AB，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:昏迷
+認知功能:無法評估 
+精神情緒狀態:無法評估  
+安全問題:有  fall down
+睡眠形態:異常  E1VTM1
+
+Nutritional Screen
+攝食情形:50-74%,普通
+排便狀態:異常
+排便異常狀態:腹瀉
+BMI: 19.3
+
+Fall Risk Assessment
+總分:16
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular:  exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(-), cough(+), chest pain(-), hemoptysis(-), productive cough (-), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH:154cm   BW:46.6 kg
+T:39 P:104 R:20
+BP:106/90 mmHg
+Pain:0
+
+Neurological Examination:
+. Consciousness : coma
+. Muscle power: --
+. Gait:--
+
+Neurological Examination:
+. Consciousness: comatous
+. Muscle power: --
+. Gait:--
+
+‧Head-Eye-ENT 
+        grossly normal, conjunctiva: not pale, sclera: anicteric
+        Pupil: isocoric,  3mm/ 3mm
+        Light reflex: L/R: +/+, 
+‧Neck
+	Jugular vein engorgement(-)
+‧Chest
+	Thoracic cage contour: symmetric
+        Breath sound: course
+	Crackles(-) wheezes(-)rhonchi(-) stridor(-)
+‧Heart
+	Heart beat: regular,  Murmurs(-)
+‧Abdomen
+        Flat & soft
+	Bowel sound: Normoactive
+‧Extremities
+        Pitting edema (-) ; Cyanosis (-)
+        Peripheral pulsation( Right side/ Left side ):
+            Brachial artery (++/++), Radial artery(++/++),
+            Femoral artery(++/++), Dorsalis pedis artery(++/++).
+‧Back
+        Flank knocking tenderness(-)
+‧Skin
+	Abnormal pigmentation(-)
+‧Lymphadenopathy(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               CRE           Na            K             Ca            Mg           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)      (mmol/L)     
+1041008 [1029] 1.4           128           4.3           2.04          1.02         
+               LacticAcid    Troponin I   
+time/item      (mmol/L)      (ng/mL)      
+1041008 [1029] 11.88         0.105        
+群組:General BioChemistry
+
+               ALB           ALT          
+time/item      (g/dL)        (U/L)        
+1041008 [1029] 3.2           41           
+群組:STAIN
+
+               Gram's(GS)#1  Gram's(GS)#2  Gram's(GS)#3                                           
+time/item      (*)           (*)           (*)          
+1041008 [1048] Few PMNs(<10  Few epitheli  G(-)Bacilli  
+               /LPF)         al cells(<10  1+           
+                             /LPF)                      
+群組:
+
+               Mucus(S)     
+time/item      (*)          
+1041008 [1332] -            
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1041008 [1332] 10-20         35-50         2-5           -             -            
+               Others(S)     Bacteria     
+time/item      (*)           (*)          
+1041008 [1332] -             4+           
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1041008 [1332] 1.014         7.0           300 ( 3+ )    100 ( 1+ )    +/-          
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1041008 [1332] 3+            ≦1.5          -             -             +/-          
+               Color         Turbidity    
+time/item      (*)           (*)          
+1041008 [1332] Yellow        +            
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1041008 [1029] 11.4          34.6          1.08         
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041008 [1029] 0.0           1.0           2.0           2.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041008 [1029] 73.0          0.0           0.0           4.0           18.0         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041008 [1029] 0.0           0.0           0.0 /100 WBC  WBC 100                    
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041008 [1029] 12.67         3.02          9.5           30.6          101.3        
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041008 [1029] 31.5          31.0          170           15.1          -            
+
+*********檢驗室:B3***********
+B3-1041008-8010473   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Few PMNs ( <10 /LPF )
+     Gram's(GS)#2:       Few epithelial cells ( < 10 /LPF )
+     Gram's(GS)#3:       Gram (-) rods 2+
+     Gram's(GS)#4:       Gram (+) cocci in chains 1+
+     Gram's(GS)#5:       痰檢體品質不良建議重新送檢
+
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1041008 [1031] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1041008 [1031] AB            Positive     
+*********檢驗室:YM***********
+
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1041008 [1036] 1.01          8.5           25            3.84          130.2        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1041008 [1036] 264           9.8          
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1041008 [1036] 7.305         68.5          30.5          34.4          7.8          
+               SO2          
+time/item      (%)          
+1041008 [1036] 49.7 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 簡寧 影像時間: 2015/10/08 11:31 (32001CYM) 發報告時間: 2015/10/08 14:34 cardiomegaly. atherosclerosis with wall calcification of the aorta. increased infiltration in the bilateral lung fields. Blunting of left costophrenic angle. degenerative spondylosis at the thoracic spine. Placement of an endotracheal tube and a central venous catheter.
+CT Without Contrast-Brain 醫令: CT Without Contrast-Brain 報告醫師: 王郁棻 影像時間: 2015/10/08 12:00 (33070B0M) 發報告時間: 2015/10/08 12:42 CT of brain without contrast enhancement shows: 
+1. suboptimal study due to motion artifact, lesion maybe obscured. 
+2. prominent sulci, fissures and ventricles. 
+3. confluent hypodensity around bilateral periventricular region, leukoaraiosis is considered. 
+4. resolved hematoma in right basal ganglia; cortical infarct in left frontal lobe.
+5. there is no definite hyperdense lesion indicating acute intracranial hemorrhage. 
+6. intact cranial vault. 
+7. bilateral paranasal sinusitis changes. 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1. OHCA, suspect sputum impaction related.
+2. UTI with urosepsis.
+3. Suspect aspiration pneumonia or lung edema.
+4. Parkinsonism
+5. CKD 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*
+P: 
+1. OHCA, suspect sputum impaction related.
+2. UTI with urosepsis.
+3. Suspect aspiration pneumonia or lung edema.
+4. Parkinsonism
+5. CKD
+
+A:
+T:39 P:104 R:20
+BP:106/90 mmHg
+Pain:0
+CxR bil infiltration.
+WBC: 12670 with left shifting.
+UA: pyuria
+
+P
+1. Follow Hypothermia protocol and completed hypothermia therapy. 
+2. Inform grave prognosis due to baseline status.
+3. Empirical antibiotics: Tazocin
+
+Treatment Goal:Follow Hypothermia protocol and completed hypothermia therapy. 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右頸 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有   7.0mm 
+胃造廔口：無  
+尿管留置：有  20Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：無
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：兒子 外勞 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+袁昂 主治醫師 

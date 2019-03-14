@@ -1,0 +1,28 @@
+[Assessment]
+2017-07-13: a 88 years old man was a case of 1. Acute respiratory failure, type IV, s/p ETT-MV (2017/6/22-),
+2. Acute cholesystitis with E. coli and VRE bacteremia and septic shock, s/p PTCCD on 6/20, 3. Acute kidney injury, (baseline Cr: 1.0-1.1 in 2017/3/21), AKIN stage III, sepsis related, s/p HD (6/24-), 4. Rhabdomyolysis. 5. UGI bleeding,
+6. Hyperuricemia, 7. Left middle cerebral artery occlusion (M1) with acute infarction, Day 1 on 2016/3/17, status post intra-arterial thrombectomy, with recanalization, hemorrhage transformation and residual infarcton at left basal ganglia, with right hemiparesis, 8. Sick sinus syndrome with right bundle branch block, status post pacemaker (DDDR) implantation in 2005, with battery depletion, status post generator replacement(DDD) in 2014/8, 9. Paroxysmal atrial fibrillation, CHADSVASc 2, 10. Hypertension, 11. Dyslipidemia, 12. Hepatitis virus B carrier, 13. Chronic obstructive pulmonary disease with acute exacerbation, 14. Multifocal myoclonus, suspect toxic and metabolic encephalopathy related, and 15. Hyponatremia
+
+family decided life support withdraw
+MV: CPAP+PS(10), no respiratory distress
+ECOG:4
+Consciousness:drowsy
+Vital signs:
+2017/07/13 12:00 T:36.5 P:78 R:29
+2017/07/13 12:00 BP:120/55
+2017/07/13 12:00 SpO2:93%(%,L,)
+extubation this morning 
+respiratory distress
+
+[訪視摘要]
+會談對象:女兒
+1. 撤除維生醫療(呼吸器及呼吸管路)後症狀評估及照顧說明
+2. 評估家屬心理靈性照顧需求/提供病人及家屬心理支持
+
+[plan]
+1. 請共同協助善終照顧，持續評估呼吸困難等不適，並協助症狀緩解及舒適照顧，謝謝。
+2. 建議開始使用低劑量嗎啡緩解呼吸費力痛苦感受，如Morphine 2mg SC/IV Q4H + Q4HPRN。
+3. 請共同提供病人及家屬心理靈性支持，同理並接納哀傷情緒，肯定緩和醫療決策。
+
+
+原團隊共同照護成員:陳天華醫師，黃舒雅護理師

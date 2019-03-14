@@ -1,0 +1,107 @@
+Brief Summary of this week    
+Please refer to Summary and Treatment course Note 
+
+
+Assessment 
+[Abx]
+Brosym       (01/12-) MDRAB bacteremia
+Colistin IV  (01/10-) for MDRAB
+Colistin IH  (01/15-) for MDRAB pneumonia
+-----------------------------------------------------
+Unasyn (12/24)
+Zithromax (12/24-26)
+Tamiflu (12/24-12/29)
+Meropenem (12/28-12/28)
+Ceftazidime (12/28-12/30)
+Cravit (12/24-01/05)     Discontinued due to lack of evidence
+Targocid (12/30-01/05)   Discontinued due to lack of evidence
+Diflucan 1/2-01/05 for CRBSI, suspect Candidiasis
+                         Discontinued due to lack of evidence
+Fluconazole (01/06-01/09)
+Meroepnem (12/30-01/09)  Dr.莊祐中 suggested replace with Levofloxacin for persisited fever
+Levofloxacin (01/09-01/12) for still fever under Mepem
+ 
+[Cultures]
+12/26 S/S (poor Q): GPC in chains 3+
+Flu rapid test -, Legionella Ag -, sputum Chlamydiae Ag -, Mycoplasma IgM -
+12/28 B/C: No growth
+      B/C: No growth (CVC)
+      B/C: No growth (Port-A)
+      S/C: G(-) rods 1+
+      U/C: neg.
+12/30 BAL: Ralstonia mannitolilytica (few); Candida albicans 
+12/30 bronchial wash:Aspergillus Ag NEGATIVE  
+01/03 CVC tip culture:neg.
+01/06 B/C*2:neg.
+      F/C:
+      S/C:Acinetobacter baumannii MDRAB
+      U/C:No aerobic pathogen 
+01/10 B/C*2: MDRAB (A-line + peripheral)
+01/13 CSF: no bacteria visible
+           Cryptococcal Ag.:Negative  
+           HSV DNA(-),TB PCR(-)
+01/14 S/C:MDRAB (Colistin S); Enterobacter asburiae
+          Candida albicans
+
+[O2]
+PC/AC frequency 10, IP 12, PEEP 5 FiO2 35%
+RR 16-30 TV 700 MV 12
+
+[Infusion]
+Levophed 10->8 ->3-> off (1/1)-> 2(1/2)-> 8(01/03)->10 (01/04) -> off (01/05)
+01/13 low dose Levophed for flactuating BP
+01/14 Levophed increased to 20mL/hr (16mg/250)
+01/16,17,18 low dose Levophed for H/D
+
+[Studies]
+12/24 CT:Bilateral pneumonia.
+12/30 BAL: 1.Few whitish sputum over right lower lung. 2. Much purulent sputum over LUD.
+12/30 Brain CT: atrophy
+1/1 CXR: bil lobar opacities, pleural effusion, lung edema
+Alb=1.7 g/dL
+1/4 Alb=2.6
+01/05 FEUN 40%
+01/06 CT: bialateral pneumonia with fibrosis and severe calcification; Brain CT revealed no hemorrhage
+01/10 no response to Flumazenil test
+01/12 CT: bilateral lower lung lesions; no significant findings in abdomen and pelvis.
+01/13 lumbar puncture: WBC 0, GLU 137; TP 49.3; IgG <0.34
+01/16 Chest X-ray: right side pneumothorax
+01/17 Chest X-ray: well lung expansion under chest tube drainage
+01/17 EEG:severe diffuse cortical dysfunction
+01/18 consult neurologist: may arrange perfusion CT
+ 
+[Consultation]
+01/12 Rheumatologist: suggested keep infection under control, check anti-CCP, electrophoresis, Plaquenil 1# QD
+01/18 Neurologist: suggested correct all metabolic factor, perform perfusion CT if possible
+
+[Family decision]
+01/02 agreed albumin infusion for correction of hypoalbuminemia and hypotension
+01/04 Verbally expressed DNR (不壓不電), considering for HD
+01/06 Signed permits for hemodialysis.
+      Hesitated with tracheostomy, cannot decide on DNR
+      (May requested family meeting again)
+01/07 明確未來不氣切
+01/10 agreed with trying Flumazenil
+01/11 agreed doing lumbar puncture
+01/14 Signed DNR
+01/15 agreed HD
+01/16 Agreed chest tube, agreed MRI (but cannot be performed due to pacemaker)
+01/21 Agreed contrasted perfusion CT
+
+Plan 
+1. for pneumonia, and MDRAB bacteremia
+ - Keep Brosym and colistin(IV+IH) for MDRAB infection
+ - Follow up blood culture (1/14 negative)
+2. for Afib with PPM 
+ - hold apixaban, cordarone, keep rytnomorm
+3. for AKI
+  - HD via DLC since 01/16 (3 days, then QW1,3,5)
+  - Set DW 69.5kg, Ca 3.5, K 2, Na 140
+  - administer albumin for low BP during HD
+4.For conscious prolonged disturbances
+ - brain MRI cannot be performed due to heart pacemaker
+ - arrange perfusion CT next week
+5. For right chest pneumonthorax
+ - keep chest tube drainage and monitor drainage character
+ - surgical intervention if family require aggressive managmenet
+6. DNR signed; consider tracheostomy??

@@ -1,0 +1,18 @@
+Inform the family about the probability of recurrent respiratory failure due to poor airway hygiene and and clearance function.
+2016/09/04 PH:7.434   *
+2016/09/04 PCO2:43.8   mmHg
+2016/09/04 PO2:107.1   mmHg
+2016/09/04 HCO3:29.6   mmol/L
+2016/09/04 WBC:5.73   K/£gL
+2016/09/04 HB:9.6   g/dL
+2016/09/04 PLT:134   K/£gL
+2016/09/03 WBC:8.04   K/£gL
+2016/09/03 HB:10.7   g/dL
+2016/09/03 PLT:160   K/£gL
+2016/09/04 16:16 SpO2:97%(40%,10L,Mask)
+2016/09/04 11:41 SpO2:100%(40%,10L,Mask)
+2016/09/04 08:53 SpO2:100%(40%,10L,Mask)
+2016/09/04 04:42 SpO2:97%(40%,10L,Mask)
+2016/09/04 01:34 SpO2:100%(40%,10L,Mask)
+2016/09/03 20:19 SpO2:98%(40%,10L,Mask)
+2016/09/03 18:20 SpO2:93%(40%,10L,Mask)

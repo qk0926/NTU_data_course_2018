@@ -1,0 +1,56 @@
+Dx:
+1. Fever, suspect UTI or atypical pneumonia
+2. Suspect acute decompensated heart failure, with pulmonary congestion and mixed respiratory failure, s/p ETT+MV(2017/7/22-)
+3. ACKD, KDIGO stage 2, suspect UTI or sepsis or cardiorenal syndrome
+4. Hyponatremia, suspect poor intake and fluid overload related, improving
+5. Non-sustained VT
+
+<Dr>
+1. Keep Cravit and Tamiflu
+2. Solucortef
+3. DC Burinex; monitor U/O; hemodynamic study
+4. Cordarone for VT; beware for QTc prolongation 
+5. Discuss with her family about her poor prognosis
+6. Taper down Dopamine if feasible
+
+<Dietitian>
+O:
+HT:148 IBW:48.2 BMI:30.7 ABW:62.5
+7/25 體重:67.3kg
+7/23 T-CHO:101 mg/dL
+7/26
+BUN:154.9 mg/dL CRE:4.0 mg/dL eGFR:11.5 mL/min/1.73 m^2
+Na:133 mmol/L K:2.7 mmol/L Mg:1.08 mmol/L
+T-BIL:1.05 mg/dL
+albumin 25% 25g IF QD (7/23-7/25)
+Goal calorie:1500-1900kcal/day
+protein requirement:50-60g/day
+Diet order:
+7/24~  Suplena 1300kcal protein 30g/day(1.0kcal/cc)
+Actual energy intake:240-375kcal/day(7/25-7/26)
+Actual protein intake:10-16g/day(7/25-7/26)
+A:
+Obesity.
+P:
+Maybe consider change to Osmolite, if patient is still poor digestion.
+
+<Respiratory therapist>
+GCS:E4M5VT
+stable in hemodynamics.
+體重:69.6kg -> 65.8kg
+afebril
+worsened renal function.
+BUN:154.9 mg/dL
+CRE:4.0 mg/dL
+CXR: cardiomegaly with susp. LUL patch
+remained on full vent support.
+no attempted weaning from vent support.
+
+<Nurse>
+1.GCS E3-4M5VT.respiration rate smooth with PCV 30% use
+2.sunction small white sputum 
+3.poor appetite.keep observing
+
+<Pharmacist>
+1.Keep current antibiotic use ajusted dose with renal function.
+2.Condiser shift PPI to oral form if oral intake well.

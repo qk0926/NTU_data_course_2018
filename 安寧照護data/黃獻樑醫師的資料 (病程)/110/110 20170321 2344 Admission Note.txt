@@ -1,0 +1,336 @@
+2017/03/21 23:44 
+主訴(Chief Complaint) 
+Informant:the family and past medical records
+loss of consciousness and pulseless around 2017/3/21 5PM 
+病史(Brief History) 
+[Present illness]
+    This 67-year-old man is a patient with
+1. Esophageal cancer, squamous cell carcinoma, cT3N2Mx, stage IIIB, s/p Port-A implantation + Laparoscopic jejunostomy on 2017/02/03, s/p curative HDFL(HDFL C1 on 2017/2/21, C2 on 2017/3/7) based CCRT(40Gy/20Fx, 2017/02/10-03/10)
+2. Hypertension
+3. ESRD, suspected hypertension related, under regular QW2,4,6 hemodialysis via left forearm AVF since 1997
+4. Parathyroidectomy around 2012
+5. Peripheral artery occlusive disease, status post left leg artery bypass due to PAOD around 2011 at 榮總hospital and right lower extremity artery stent around 2013 at 馬偕hospital
+6. Cholelithiasis, status post Laparoscopic cholecystectomy on 2008/7/2
+7. Previous hepatitis B(2017/1/8 Anti-HBsAg(+), Anti-HBcAg(+))
+    He has been followed up at Dr.成佳憲 and 黃大成,s clinic for his esophageal cancer and recieved curative HDFL based CCRT(40Gy/20Fx) during 2017/02/10-03/10. He received regualr hemodialysis at 陳尚志 clinic QW246 with unknown dry weight. 
+    This time, severe cough with hemoptysis and fatigue have been noted for about 1 month after radiotherapy. There was no fever, dyspnea, chest tightness, vomiting, dysuria nor trauma history. He went to Dr.成佳憲,s clinic on 2017/3/21 as usual. However, after back home, he was found loss of consciousness and pulseless when sitting around 2017/3/21 5PM. EMT came after 5 minutes with initial non-shockable rhythm. CPCR was not performed before EMT arrival. CPCR was performed for about 30 minutes without ROSC before arriving our ER.  
+    At ER, PEA was noted and CPCR was initiated for about 30 minutes with ROSC. Body temparature showed 36.7 celsius degree initially. Lab data showed Hb:7.8g/dl, MCV(fL):90.5, WBC:7.33K/mm with band:0%, seg:53.7%, CRP:?mg/dL, platelet:197K/μL, Na:137mmol/L, K:3.9mmol/L, Alb:?g/dL, Ca2+:2.28mmol/L, P:6.3mg/dL, Mg2+:0.94mmol/L, BUN:32.1mg/dl, ALT:295U/L, ALP/GGT:?U/L, T-Bil:?mg/dl, NH3:134, INR:1.39, aPTT:59.8sec, CK-MB/CK(U/L):?, Troponin T(ng/l):78.38, pro-BNP:31455pg/mL, VBG(pH/CO2/O2/HCO3):7.077/83.1/21.7/24.7, Lactate:8.8mmol/L, one touch:188. EKG showed new RBBB. CXR revealed diffused hazy and patchy densities at both upper and lowr lungs. B+C+A+P CT was performed and showed bilateral lung consolidations and pleural effusions. There was no bleeding sites nor pulmonary embolism nor ICH. Thoracentesis was performed and showed no no hemothorax. TTE showed LVH with pseudonormalization, mild to moderate valvular aortic stenosis, EF(Teich): 74.5 % without RWMA. Overall, sputum impaction with hypoxia/hypercapia related cardiac arrest was impressed s/p intubation, Levophed use and the patient was admitted to 3A2 for further care.  
+[Brief History]
+1.Past history: 
+   Systemic disease:as above 
+   Admission history: 
+入院日期:2017_02_02 出院日期:2017_02_06 診斷:Esophageal cancer
+入院日期:2016_12_30 出院日期:2017_01_12 診斷:Esophageal cancer
+   Surgical history: 
+2017_02_03 1. Port-A implantation 2. Laparoscopic jejunostomy
+2.Allergies: No known agents
+3.Alcohol/Betel/Cigarette/Substance:(-)/(-)/(+, for 15 years, 10支 per day, quit since 1997)/(-)
+4.Current medications:
+   NTUH: 
+警 Adrenaline 1 mg/1 mL /amp 6 mg STAT IV 1 days
+警 Levophed 4 mg/4 mL /amp 16 mg QD cIF(CVC) 2 days
+Atropine 1 mg/1 mL /amp 0.5 mg STAT IV 1 days
+(管2) Codeine 15 mg/tab 1 tab Q6HPRN PO 7 days
+(管2) PAINKYL buccal soluble films 200 mcg/film 1 film AS ORDER OR 7 days
+(管2) 12 Durogesic D-TRANS 12 mcg/1 hr /pce (實際劑量12.5mcg/hr) 1 pce Q3D D 7 days
+Nexium 40 mg/tab 1 tab HS PO 7 days
+Prometin 5 mg/tab 1 tab BIDAC PO 7 days
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 7 days
+   Other:at hemodialysis LMD
+   Chinese herb:Nil
+   Health food:Nil
+5.Family history:his mother and bronther and sisters have hypertension
+6.TOCC:  
+ T:travel history：nil
+ O:occupation    ：retired 
+ C:contact       ：her wife had URI about 14 days ago
+ C:cluster       ：nil 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:國中
+職業:退休
+宗教信仰:民間信仰
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:A，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有，已戒煙:20年
+喝酒:沒有，已戒酒:20年
+檳榔:沒有
+物質濫用:不知道
+
+Fall Risk Assessment
+總分:16
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+系統性回顧(Review of System) (■means that the finding is positive)
+1.Systemic: weight loss□, night sweats□, fever□ 
+2.HEENT: headache□, dizziness□, vertigo□, ocular pain□, blurred vision□, strabismus□, dry eye□, otalgia□, otorrhea□, hearing impairment□, tinnitus□, nasal stuffiness□, nasal discharge□, epistaxis□, gum bleeding□, sore throat□, oral ulcer□, dry mouth□, dysphagia□
+3.Cardiovascular: exertional chest tightness□, exertional dyspnea□, paroxysmal nocturnal dyspnea□, orthopnea□, syncope□, palpitation□, intermittent claudication□
+4.Respiratory: dry cough□, productive cough■(for 1 month), hemoptysis■(for 1 month), chest pain□, pleuritic chest pain□
+5.Gastrointestinal: anorexia□, nausea□, vomiting□, acid regurgitation□, abdominal fullness□, abdominal pain□, constipation□, diarrhea□, melena□, change of bowel habit□, small caliber of stool□, tenesmus□, flatulence□
+6.Urogenital: flank pain□, urinary frequency□, urgency□, nocturia□, dysuria□, incontinence□, small stream of urine□, hesitancy□, hematuria□, foamy urine□, polyuria□, oliguria□, impotence□
+7.Musculoskeletal: bone pain□, arthralgia□, myalgia□, back pain□, weakness□
+8.Metabolic: heat intolerance□, cold intolerance□, thirsty□
+9.Nervous: numbness□, paresis/plegia□
+10.Skin: petechiae□, purpurae□, skin rash□, itching□, spider angioma□ 
+身體檢查(Physical Examination) 
+BH: 162.3 cm,  BW: 56.8 kg,
+TPR/BP:pending
+Pain score:0/10 
+
+[Physical Examination]
+‧General：fair-looking
+‧Consciousness：E3VtM1
+‧Muscle power：cannot evaluate
+‧Gait：not perform
+‧Head-Eye-ENT
+    Conjunctivae: not pale, sclera: anicteric
+    Throat injection (-), tonsil enlarge (-), oral ulcer or thrush (-)
+‧Neck
+    Supple, no stiffness 
+    Meningismus: Kernig sign(-); Brudzinski sign(-); modified Brudzinski sign(-)
+    Lymphadenopathy(-)
+    Thyroid goiter(-)
+    Jugular vein engorgement(-)
+    Carotid bruit(-)
+‧Chest
+    Thoracic cage contour：symmetric,  no deformity nor distension 
+                           no increased anterior-posterior (AP) diameter
+    Vocal fremitus and expansion: symmetric
+    Percussion: symmetric and normal(not dull or hyper-resonant)
+    Ausculation: Stridor(-)Rhonchi(-)Wheezes(-)Crackles(+, bilateral)
+‧Heart
+    LV lift(-) RV heave(-)
+    Increased cardiac size by percussion(-)
+    Heart beat: regular heart beats, adventitious sounds (-)murmurs(-)
+‧Abdomen/back
+    Flat & soft, Tenderness(-)Rebound pain(-), CV angle knocking tenderness(-) 
+    Liver and spleen: impalpable
+      Liver span:10 cm
+    Superficial vein engorgement(-) Protruded umbilicus(-)
+    Bowel sound: normoactive
+‧Skin
+    Abnormal pigmentation(-)
+      Petechiae(-) Purpura(-) Ecchymoses(-) Spider angioma(-)
+    Rash(-) Plaque(-)
+    Wound(-) Ulceration(-) Crust(-)
+‧Extremities:
+    Pitting edema(-), Deformity(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060321 [1802] 6.986         73.1          59.0          17.6          -14.2        
+               SO2          
+time/item      (%)          
+1060321 [1802] 72.4         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1060321 [1802] 1.30          9.3           28            3.77          134.2        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1060321 [1802] 207           12.6         
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1060321 [1807] 188          
+
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060321 [1837] 7.33          2.63          7.8           23.8          90.5         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060321 [1837] 29.7          32.8          197           17.3          -            
+群組:Punctate Exam.
+
+               Sp. gr.       Rivalta's Te  Total nuclea  RBC count     Sediment-Eos 
+                             st            r cell count                in           
+                                          (TNC)                                    
+time/item      (*)           (*)           (/μL)         (/μL)         (%)          
+1060321 [1848] 1.022         +             201           11000         2            
+               Sediment-Lym  Sediment-M&H  Sediment-Neu  Sediment-Not                                           
+                                                       e            
+time/item      (%)           (%)           (%)           (*)          
+1060321 [1848] 8             76            14            N/A          
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060321 [1837] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060321 [1837] 53.7          1.8           0.5           7.8           36.2         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060321 [1837] 0.0           0.0           0             -            
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1060321 [1911] 15.0          59.8          1.39         
+群組:General BioChemistry
+
+               TP            ALT           LDH          
+time/item      (g/dL)        (U/L)         (U/L)        
+1060321 [1837]               295                        
+1060321 [1848] 3.0                         190          
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ammonia N    
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)     
+1060321 [1837] 32.1          4.3           137           3.9           134          
+               Ca            Mg            P             LacticAcid   
+time/item      (mmol/L)      (mmol/L)      (mg/dL)       (mmol/L)     
+1060321 [1837] 2.28          0.94          6.3           15.00        
+群組:Yes
+
+               NT-pro BNP   
+time/item      (pg/mL)      
+1060321 [1837] 31455        
+群組:STAIN
+
+               Gram's(GS)#1  Gram's(GS)#2  Gram's(GS)#3  Gram's(GS)#4  Gram's(GS)#5                                                                       
+time/item      (*)           (*)           (*)           (*)           (*)          
+1060321 [1848] Many PMNs(>=  Few epitheli  no bacteria   ..            ..           
+               25/LPF)       al cells(<10  visible                                  
+                             /LPF)                                                  
+群組:
+
+               Troponin-T    eGFR         
+time/item      (ng/L)        (mL/min/1.73 
+                              m^2)        
+1060321 [1837] 78.38         14.7         
+*********檢驗室:BC***********
+
+群組:DM
+
+               GLU AC       
+time/item      (mg/dL)      
+1060321 [1848] 144          
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060321 [1820] 7.077         83.1          21.7          24.7          -5.6         
+1060321 [1846] 7.118         54.3          127.7         17.7          -11.9        
+               SO2          
+time/item      (%)          
+1060321 [1820] 19.8         
+1060321 [1846] 97.4         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1060321 [1820] 1.32          9.0           27            3.79          132.2        
+1060321 [1846] 1.19          8.4           25            3.95          133.7        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1060321 [1820] 128           8.8          
+1060321 [1846] 175           12.3 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+Chest: AP View (Supine) 醫令: Chest: AP View (Supine) 報告醫師: 彭信逢 影像時間: 2017/03/21 19:57 (32001CYM) 發報告時間: 2017/03/21 20:08 EXAMINATION: 
+FINDINGS:
+Diffuse hazy and patchy densities at both upper and lowr lungs, calcified aortic knob, left CP angle is blunt. 
+病理報告(Pathology Report) 
+097/07/07 S0821215
+Gallbladder,cholecystectomy,cholelithiasis chronic cholecystitis   
+ S1700663
+Esophagus,30-35 cm below the incisors,endoscopic biopsy,dysplasia high grade at least,see description,   
+Esophagus,20-30 cm below the incisors,endoscopic biopsy,dysplasia high grade,   
+ S1701353
+Esophagus,labeled as A: cancerous lesion,endoscopic biopsy,squamous cell carcinoma    
+Esophagus,labeled as B: esophageal lesion,endoscopic biopsy,squamous hyperplasia 
+臆斷(Tentative Diagnosis) 
+1. Out of hospital cardiac arrest, initial non-shockable rhythm, with collapse for 5 minutes s/p CPCR for 30+30mins with ROSC, suspect sputum impaction related, r/o septic shock, s/p ETT+MV(2017/3/21-)
+2. Seizure, HIE related
+3. Aspiration pneumonia
+4. New RBBB, nature to be determined, improved
+5. Normocytic anemia, nature to be determined
+6. Esophageal cancer, squamous cell carcinoma, cT3N2Mx, stage IIIB, s/p Port-A implantation + Laparoscopic jejunostomy on 2017/02/03, s/p curative HDFL(HDFL C1 on 2017/2/21, C2 on 2017/3/7) based CCRT(40Gy/20Fx, 2017/02/10-03/10)
+7. Hypertension
+8. ESRD, suspected hypertension related, under regular QW2,4,6 hemodialysis via left forearm AVF since 1997
+9. Parathyroidectomy around 2012
+10. Peripheral artery occlusive disease, status post left leg artery bypass due to PAOD around 2011 at 榮總hospital and right lower extremity artery stent around 2013 at 馬偕hospital
+11. Cholelithiasis, status post Laparoscopic cholecystectomy on 2008/7/2
+12. Previous hepatitis B(2017/1/8 Anti-HBsAg(+), Anti-HBcAg(+)) 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+1. Out of hospital cardiac arrest, initial non-shockable rhythm, with collapse for 5 minutes s/p CPCR for 30+30mins with ROSC, suspect sputum impaction related, r/o septic shock, s/p ETT+MV(2017/3/21-)
+2. Seizure, HIE related
+3. Aspiration pneumonia
+4. New RBBB, nature to be determined, improved
+5. Normocytic anemia, nature to be determined
+6. Esophageal cancer, squamous cell carcinoma, cT3N2Mx, stage IIIB, s/p Port-A implantation + Laparoscopic jejunostomy on 2017/02/03, s/p curative HDFL(HDFL C1 on 2017/2/21, C2 on 2017/3/7) based CCRT(40Gy/20Fx, 2017/02/10-03/10)
+7. Hypertension
+8. ESRD, suspected hypertension related, under regular QW2,4,6 hemodialysis via left forearm AVF since 1997
+9. Parathyroidectomy around 2012
+10. Peripheral artery occlusive disease, status post left leg artery bypass due to PAOD around 2011 at 榮總hospital and right lower extremity artery stent around 2013 at 馬偕hospital
+11. Cholelithiasis, status post Laparoscopic cholecystectomy on 2008/7/2
+12. Previous hepatitis B(2017/1/8 Anti-HBsAg(+), Anti-HBcAg(+))
+
+Treatment Goal:post-CPCR care
+S:severe cough with hemoptysis and fatigue have been noted for about 1 month after radiotherapy. There was no fever, dyspnea, chest tightness, vomiting, dysuria nor trauma history
+O:Hb:7.8g/dl, MCV(fL):90.5, WBC:7.33K/mm with band:0%, seg:53.7%, CRP:?mg/dL, platelet:197K/μL, Na:137mmol/L, K:3.9mmol/L, Alb:?g/dL, Ca2+:2.28mmol/L, P:6.3mg/dL, Mg2+:0.94mmol/L, BUN:32.1mg/dl, ALT:295U/L, ALP/GGT:?U/L, T-Bil:?mg/dl, NH3:134, INR:1.39, aPTT:59.8sec, CK-MB/CK(U/L):?, Troponin T(ng/l):78.38, pro-BNP:31455pg/mL, VBG(pH/CO2/O2/HCO3):7.077/83.1/21.7/24.7, Lactate:8.8mmol/L, one touch:188. EKG showed new RBBB. CXR revealed diffused hazy and patchy densities at both upper and lowr lungs. B+C+A+P CT was performed and showed bilateral lung consolidations and pleural effusions. There was no bleeding sites nor pulmonary embolism nor ICH
+A:as above
+P:
+1. For post-CPCR
+- Hypothermic therapy since 2017/3/21 
+- F/U EEG(3/23, 3/27), brain perfusion scan(3/27)
+- Withdraw if no improvement of consciousness
+- Anxican pump and Keppra use for seizure
+2. For aspiration pneumonia
+- Septic workup on 3/21
+- Tazocin use
+- Combivent with transamin use
+- Titrate Levophed to keep MAP>75mmHg for septic shock and post-CPCR
+3. For new RBBB
+- TTE showed no RWMA
+- F/U EKG showed no more RBBB
+- F/U cardiac enzymes
+4. For normocytic anemia
+- Check SOB, iron profiles, B12, B9
+- Nexium use 
+- Transfusion as needed, consider EPO use
+5. For ESRD
+- On DLC for CVVH(post-CPCR, high Levophed and brain edema)
+- Check iPTH
+6. Check HBV viral load for hepatitis though shock liver is impressed 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右鎖骨下 左腹股溝 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.5mm 
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：jejunostomy
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：配偶 
+出院規劃收案篩檢：高危病患 需轉介後續照護機構 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+簡榮彥 主治醫師 

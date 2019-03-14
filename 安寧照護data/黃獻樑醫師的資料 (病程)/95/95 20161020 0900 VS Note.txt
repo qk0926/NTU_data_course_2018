@@ -1,0 +1,12 @@
+# Acute consciousness change, suspect hypoxic encephalopathy, with increased intra-cranial pressure
+# Lactic acidosis, suspect tissue hypoxia related
+
+E1VtM1, dilated pupil, no light reflex, no cough reflex
+FiO2= 0.25
+SBP= 110
+Head CT: Diffuse brain edema and hypodensity at bilateral basal ganglia, r/o hypoxic-ischemic encephalopathy
+On hypothermia therapy by neurologist's suggestion
+
+Mannitol for IICP, monitor U/O and electrolye levels
+Empirical antibiotics with Rocephin
+Consult neurosurgeon again to evaluate indication of surgical intervention

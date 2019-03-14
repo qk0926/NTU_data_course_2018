@@ -1,0 +1,21 @@
+# New shock, suspect sepsis, complicated UTI related.
+# Urinary retention with fluid overload
+# UTI and pneumonia
+# Recurrent GI Bleeding with anemia and thrombocytopenia
+# peri-tracheostomy bleeding, prooved with Endoscopy.
+
+NE dosage: 7mcg/min.
+2016/09/22 09:23 Pain score:0
+2016/09/22 09:14 BP:101/43
+2016/09/22 09:04 SpO2:100%(%,3L,VCR)
+2016/09/22
+ID+DS Urine #1:Yeast-like organism 30000 /ml
+
+Plan:
+1. use NE to keep MAP > 60-65mmHg.
+2. Abx with ciprofloxain, no culture evidence now
+3. repeated b/c and u/c, pursue culture
+4. Goal of BW: 63kg.
+5. local pression with epinephrine gouze if needed.
+6. add fluconazole 200mg QD IV.
+7. urine fungus culture for spp. identification.

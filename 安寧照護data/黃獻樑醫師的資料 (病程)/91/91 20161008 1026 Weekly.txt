@@ -1,0 +1,84 @@
+Brief Summary of this week    
+Retroperitoneal mass was noted in abdominal CT. After discussion with family, further study or invasive procedure was not needed.
+ Hypothyroidism(Free T4 0.73 TSH 150) was noted, and endocrine specialist was consulted on 10/4. Eltroxin was added and follow-up study was suggested.
+ Levophed was off on 10/3. Body weight gain and severe edema was noted since admission(83->91) despite diuretic use. Renal function was gradually deterioated. Hypotension was noted again at 10/7, Easydopa infusion was initiated again.
+ After discussion with family, hospice consultation will be done next week, DNR extubation was considered. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+[Catheterization]
+Endo(10/1~)
+CVP(10/1~)
+Foley(10/5~)
+    
+[DNR status] 2016/10/01 家屬同意，全拒除插管呼吸器，不洗腎
+
+[Ventilation] 
+CPAP, PSV 8, PEEP 5, FiO2 30%, trigger failure
+10/05 Weaning parameter: no pass
+
+[Vasopressor] 
+Levophed (10/01-10/03)
+Easydopa (10/07-)
+
+[Nutrition] 
+NG feeding: 管灌安素 1440 ml -> 2 卡/cc, 熱量 1500
+U/O 440 ml, I/O +249 ml, BW 92.8 kg
+
+[Infection] 
+Suspect aspiration pneumonia
+10/01-10/04 Tazocin
+10/05 UTI psudomonas + CRKP
+10/04-10/05 Mepem
+10/05- Colistin (according ID man suggestion)
+
+[Cultures]
+10/01 S/S: PMN 10-25, Epi <10, GPC 3+, GNR 3+
+      Pseudomonas aeruginosa (Tazocin R)
+      Serratia marcescens (Tazocin I)
+            
+10/01 Pneumococcal Ag(-), AFS(-), Legionella(-), Chlamydophila(-) 
+      Mycoplasma(-)
+10/01 U/A: WBC > 100, bac 4+
+      U/C: CRKP >100000, Pseudomonas >100000 (Tazocin R)
+10/01 B/C: Staphylococcus caprae (Tazocin S)*1
+10/08 U/A: ( )
+10/08 S/S: ( )
+
+[Image]
+10/01 CxR: right side pneumonia patch
+10/01 B+C CT: Brain atrophy 
+Mass opacity at the RML, bil lung consolidation and pleural effusion
+A huge soft-tissue mass lesion at the retroperitoneum
+10/03 EEG: moderate to severe diffuse cortical dysfunction, with more emphasis in the left hemisphere
+10/05 CxR: bilateral increased infiltration
+10/07 CxR: bilateral increased infiltration
+10/07 EEG: ( )
+
+[Consultation]
+Endocrine: Free T4 0.73 TSH 150
+Give Eltroxin 0.25# QD, may follow free T4/TSH QW, arrange thyroid echo after stablization.
+Check autoimmune profile
+
+ID: shift to colistin to cover pseudomonas and CRKP
+
+Derma:
+1. Stasis dermatitis with bullous formation, rule out lipodermatosclerosis, lower legs
+2. Suspected bullous pemphigoid, rule out frictional blisters
+Please check the causes of veous stasis, such as deep vein thrombosis, for this patient.
+Please apply cort-S twice daily to the violaceous plaques on the legs.
+
+10/8 Hospice for DNR extubation
+: Please formal consultation when working day
+
+Plan 
+1. Keep Abx with colistin for 7 days
+2. Blood component therapy for anemia 
+3. Dopamine infusion and monitor BP and U/O
+4. Albumin supplement followed by diuretics
+5. Give Eltroxin 0.25# QD, may follow free T4/TSH QW, arrange thyroid echo after stablization
+6. Discuss with family about DNR extubation
+7. Informed family the poor prognosis, they confirmed the DNR and no hemodialysis,
+8. Formal hospice consultation on next W2

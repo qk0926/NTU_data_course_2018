@@ -1,0 +1,18 @@
+Trying home ventilator for long term care at home.
+No fever.
+Condition stable. No distress under home MV use.
+2015/10/19 BUN:8.8 mg/dL
+2015/10/19 CRE:0.2 mg/dL
+2015/10/19 Na:137 mmol/L
+2015/10/19 K:4.1 mmol/L
+2015/10/19 Mg:0.61 mmol/L
+2015/10/19 Ca:2.33 mmol/L
+2015/10/19 WBC:11.28 K/£gL
+2015/10/19 HB:8.6 g/dL
+2015/10/19 ID+DS Sputum Culture #2:Gram neg. bacillus 1+ *
+2015/10/19 ID+DS Sputum Culture #1:Burkholderia cepacia complex 2+ *
+2015/10/19 ID+DS Urine #1:Yeast-like organism 2000 /ml
+2015/10/19 PH:7.506 *
+2015/10/19 PCO2:30.3 mmHg
+2015/10/19 PO2:77.3 mmHg
+2015/10/19 HCO3:24.1 mmol/L

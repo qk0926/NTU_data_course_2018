@@ -1,0 +1,366 @@
+Admission Note 
+2016/03/13 10:50 
+主訴(Chief Complaint) 
+Informant:family and the chart
+Fever and hypotension noted before hemodialysis on 2016/03/11. 
+病史(Brief History) 
+This 86 years old woman was just discharged on 2016/02/27 from internal medicine ward of our hospital with the tentative diagnosis as the following:
+1. Septic shock, health care associated pneumonia related, complicated with parapneumonic pleural effusion, right side
+2. Acute on chronic kidney disease, AKIN 3, under CVVH(2016/1/15-1/17), SLED(1/18~1/26, TIW, hold on 1/27, restart HD on 1/31, SLED on 2/4, QW2,4,6), regular hemodialysis
+3. Isolated APTT prolongation, factor XII deficiency related, suspected combined with heparin use or APS 
+4. Urinary tract infection, funguria
+5. Hypoxic and type 4 respiratory failure status post ETT+MV(2016/1/15-1/30)
+6. Old cerebrovascular accident
+7. Parkinsonism
+8. Dementia
+9. L't breast cancer status post operation
+10. VRE colonization
+   According to her family, she became bedridden with dependent basic daily activities after discharge. NG tube was inserted, but there was no requirment of oxygen supplement. Regular sputum suction was needed. She was under regular hemodialysis via right subclavian tunnel cuff catheter every Monday, Wednesday and Friday. She had frequent diarrhea on 3/10. Before regular hemodialysis on 3/11, hypotension and fever were noted, so that hemodialysis was not performed and she was sent to local hospital. Pneumonia complicated with septic shock was the tentative diagnosis there. BiPAP was given for respiratory support. Tienam was administered for infection control. Levophed was administered for hypotension via left femoral central venous catheter. The family requested for transferral to our hospital on 2016/03/12. She was sent to our emergency room at 11:56 when profound shock was noted (BP 53/35mmHg) as well as desaturation needed ambu-bagging. Endotrachial tube intubation was performed. Blood examination showed marked leukocytosis, elevated CRP, K, P, BUN, Cr, anemia, PT and PTT prolongation and mixed metabolic and respiratory acidosis. Under the tentative diagnosis of septic shock and respiratory failure, She was admitted to stroke ICU since there was no available bed of internal medicine ICU on the admission day. Seizure with presentation of multifocal and occasionally generalized clonic movements was noted after admission.
+
+Family History: HTN
+Medication Allergy:No 
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  
+Current Medication:
+NTUH:
+警 Levophed 4 mg/4 mL /amp 16 mg QD cIF(CVC) 2 days
+TAZOCIN (based on piperacillin content) 2000 mg/vial 2000 mg Q12H IF 2 days
+警 Relaxin 500 mg/vial 不計價常備藥 50 mg STAT IV 1 days
+警 Nimbex 10 mg/5 mL /amp 5 mg STAT IV 1 days
+Bokey EM cap 100 mg/cap 1 cap QD PO 28 days
+SeroQuel 25 mg/tab 1 tab HS PO 28 days
+Hydergine 1.5 mg/tab 1 tab BID PO 28 days
+Madopar HBS /cap 1 cap QD PO 28 days
+Diphenidol SC 25 mg/tab 1 tab BID PO 28 days
+Burinex 1 mg/tab 0.5 tab QD PO 28 days
+ADALAT OROS 30 mg/tab 1 tab QD PO 28 days
+Feburic 80 mg/tab 0.5 tab QD PO 28 days
+栓 Bisacodyl Supp 10 mg/pill 2 pill QDPRN R 28 days
+Sennapur 12.5 mg/tab 2 tab QD PO 28 days
+Other: nil
+中草藥: nil
+保健食品: nil
+Past Medical History:
+1. Septic shock, health care associated pneumonia related, complicated with parapneumonic pleural effusion, right side
+2. Acute on chronic kidney disease, AKIN 3, under CVVH(2016/1/15-1/17), SLED(1/18~1/26, TIW, hold on 1/27, restart HD on 1/31, SLED on 2/4, QW2,4,6), regular hemodialysis
+3. Isolated APTT prolongation, factor XII deficiency related, suspected combined with heparin use or APS 
+4. Urinary tract infection, funguria
+5. Hypoxic and type 4 respiratory failure status post ETT+MV(2016/1/15-1/30)
+6. Old cerebrovascular accident
+7. Parkinsonism
+8. Dementia
+9. L't breast cancer status post operation
+10. VRE colonization
+Hospitalization:入院日期:2016_01_15 出院日期:2016_02_27 診斷:Pneumonia
+Past Surgical History:2016_02_25  Permcath catheter implantation, echo guided
+Travel History: no recent travel 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:小學
+職業:家管
+宗教信仰:佛教
+婚姻狀態:喪偶
+使用語言:國語 台語 客家語 
+口述血型:O，RH:不清楚，輸血反應:無
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-), fever(+ one day)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular:  exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(+ for one day), cough(+ for one day), chest pain(-), hemoptysis(-), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) , constipation(-), diarrhea(+ for one day), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-),oliguria(-) hesitancy(-), small stream of urine(-), nocturia(-), polyuria(-), 
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-), unstable gait(-) 
+身體檢查(Physical Examination) 
+BH:160 cm   BW:57.9 kg
+T:35.9 P:78 R:16
+BP:145/62 mmHg
+Pain:0
+
+體檢發現(Physical Examination)
+< Physical Examination>
+2. HEENT: conjunctiva: pale; sclera: anicteric
+3. Neck: supple 
+4. Chest: symmetric expansion ; breath sound: coarse
+5. Heart: irregular heart beat
+6. Abdomen: soft & flat, bowel sound: hypoactive
+7. Extremities: pitting edema (+/-)
+
+< Neurological Examination>
+GCS: E1-2M4Vt
+CN II: Visual field: threatening test -/-
+       Light reflex: L/R= trace/trace ; pupil 2.5mm/2.5mm
+CNIII，IV&VI： EOM: OCR +/+
+CN V- Sensory: symmetric to pain 
+CNVII：symmetric nasolabial folds, cornea reflex: trace/trace
+CNIX&X：cough reflex(+)
+CNXII: (intubated)
+Muscle power (to pain) generally 2-3, symmetric
+DTR：
+  Right: biceps: +, triceps: +, brachioradialis: +, knee: +, ankle: -
+  Left: biceps: +, triceps: +, brachioradialis: +, knee: +, ankle: -
+Plantar response: no response on both sides   
+Sensation: symmetric to pain
+FNF/HNS: could not be performed by order 
+檢驗紀錄(Laboratory Report) 
+Interpretation: Blood examination showed marked leukocytosis, elevated CRP, K, P, BUN, Cr, anemia, PT and PTT prolongation and mixed metabolic and respiratory acidosis, related to severe infection, shock, CKD and possibly DIC.
+
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Cl           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1050312 [1351]                                                                      
+1050312 [1354]                                                                      
+1050312 [1648]                                           4.9                        
+1050312 [1705]                                                                      
+1050312 [2119]                                           4.7                        
+1050313 [0334] 111.7         4.9           144           4.2           101          
+               Ca            Mg            P             LacticAcid    CK           
+time/item      (mmol/L)      (mmol/L)      (mg/dL)       (mmol/L)      (U/L)        
+1050312 [1351]                             7.8                                      
+1050312 [1354]                                           2.05                       
+1050312 [1648]                                                                      
+1050312 [1705]                                                         41           
+1050312 [2119]                                                                      
+1050313 [0334] 1.79          1.05          5.2                                      
+               Troponin I   
+time/item      (ng/mL)      
+1050312 [1351]              
+1050312 [1354]              
+1050312 [1648]              
+1050312 [1705] 0.028        
+1050312 [2119]              
+1050313 [0334]              
+群組:
+
+               CK-MB        
+time/item      (ng/mL)      
+1050312 [1705] 2.72         
+群組:Yes
+
+               hsCRP         D-Dimer       FDP           Fibrinogen   
+time/item      (mg/dL)       (μg/mL FEU)   (μg/mL)       (mg/dL)      
+1050312 [1705] 30.20                                                  
+1050312 [1918]               10.64         37.8          397.5        
+群組:General BioChemistry
+
+               ALB           ALT          
+time/item      (g/dL)        (U/L)        
+1050312 [1351] 2.4                        
+1050313 [0334] 3.4           9            
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050312 [1351] 7.289         38.9          309.5         18.8          -8.0         
+1050312 [1513] 7.207         51.6          56.9          20.7          -7.5         
+1050312 [1648] 7.271         47.9          197.1         22.3          -4.9         
+1050312 [1918] 7.336         48.5          53.1          26.2          0.1          
+1050312 [2119] 7.354         42.4          138.4         23.9          -1.9         
+1050313 [0334] 7.342         44.2          128.0         24.2          -1.8         
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1050312 [1351] 13.0          94.8          1.23         
+1050312 [1648] 14.3          >200          1.36         
+1050312 [2119]               123.2                      
+1050313 [0334] 13.0          117.8         1.23         
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050312 [1705] 37.21         2.65          7.7           23.2          87.5         
+1050313 [0334] 30.41         3.05          9.0           26.8          87.9         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050312 [1705] 29.1          33.2          174           16.6          -            
+1050313 [0334] 29.5          33.6          126           15.5          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050312 [1705] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050312 [1705] 92.3          0.0           0.1           3.8           3.8          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050312 [1705] 0.0           0.0           0             僅供參考         
+*********檢驗室:OP***********
+
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1050312 [1932] >100          20-35         2-5           -             -            
+               Bacteria      Mucus(S)      Others(S)    
+time/item      (*)           (*)           (*)          
+1050312 [1932] +             -             Yeast(4+)    
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1050312 [1932] 1.023         5.5           200 ( 2+ )    -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    Color        
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1050312 [1932] 3+            2.0           -             -             Dark Orange  
+               Turbidity    
+time/item      (*)          
+1050312 [1932] 2+           
+群組:
+
+               WBC (C)      
+time/item      (*)          
+1050312 [1932] 3+           
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050313 [0339] 127          
+
+
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050312 [1218] 131          
+1050312 [1926] 100          
+1050312 [2319] 234          
+*********檢驗室:RL***********
+
+群組:STAIN
+
+               Gram's(GS)#1  Gram's(GS)#2  Gram's(GS)#3  Gram's(GS)#4  Gram's(GS)#5                                                                       
+time/item      (*)           (*)           (*)           (*)           (*)          
+1050312 [1253] Many PMNs(>=  Many epithel  G(-)Bacilli   G(+)Bacilli   Yeast-like o 
+               25/LPF)       ial cells(>=  3+            3+            rganism3+Gra 
+                             25/LPF)                                   m (+) cocci  
+                                                                    in chains3+  
+群組:
+
+               CK-MB        
+time/item      (ng/mL)      
+1050312 [1229] 4.65         
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ammonia N    
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)     
+1050312 [1229] 147.5         7.0           139           6.0           31           
+               Ca            Mg            LacticAcid    CK            Troponin I   
+time/item      (mmol/L)      (mmol/L)      (mmol/L)      (U/L)         (ng/mL)      
+1050312 [1229] 1.91          1.21          1.88          336           0.033        
+群組:Yes
+
+               NT-pro BNP   
+time/item      (pg/mL)      
+1050312 [1229] 15367        
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1050312 [1229] 10           
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1050312 [1229] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1050312 [1229] O             Positive     
+
+*********檢驗室:B3***********
+B3-1050312-2059714   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Few PMNs ( <10 /LPF )
+     Gram's(GS)#2:       Many epithelial cells ( >25 /LPF )
+     Gram's(GS)#3:       Gram (+) rods 3+
+     Gram's(GS)#4:       Yeast-like organism 2+
+     Gram's(GS)#5:       痰檢體品質不良建議重新送檢
+
+*********檢驗室:YM***********
+
+群組:
+
+               Free Ca(急重症自  K+(急重症自行檢驗)   Na(急重症自行檢驗)   Suger(急重症自行檢  LacticAcid(急 
+               行檢驗)                                      驗)            重症自行檢驗)      
+time/item      (mmol/L)      (mmol/L)      (mmol/L)      (mg/dL)       (mmol/L)     
+1050312 [1213] 1.13          6.21          139.3         142           1.4          
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050312 [1213] 7.290         42.4          315.4         20.6          -6.3         
+               SO2          
+time/item      (%)          
+1050312 [1213] 99.9 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 彭信逢 影像時間: 2016/03/12 12:21 (32001CYM) 發報告時間: 2016/03/12 12:53 chest AP: a nasogastric tube. normal heart size. atherosclerosis and calcified aorta. right central consolidation and/or pleural effusion. haziness at left lower lung field; decreased right upper lung field; Status post insertion of endotracheal tube, Gastric tube and right central line. right hilar enlargement. Degenerative change of the T and L spine. 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1. Pneumonia, complicated with septic shock and hypoxic respiratory failure
+2. End stage renal disease under regular hemodialysis
+3. Suspected uremic encephalopathy with provoked seizure
+4. Upper gastrointestinal bleeding
+5. Isolated APTT prolongation
+6. Old cerebrovascular accident
+7. Parkinsonism
+8. Dementia
+9. Left breast cancer status post operation 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+[Medical needs]
+1. Pneumonia, complicated with septic shock and hypoxic respiratory failure
+2. End stage renal disease under regular hemodialysis
+3. Suspected uremic encephalopathy with provoked seizure
+4. Upper gastrointestinal bleeding
+
+[Care plan]
+1. keep antibiotis
+2. keep dialysis 
+3. keep inotropi agents 
+4. give PPI for GI bleeding
+5. Give albumin for hypoalbuminemia
+
+Treatment Goal:
+Inotropi agents to keep MAP > 65mg 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左腹股溝 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.0mm 
+胃造廔口：無  
+尿管留置：有  16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：右鎖骨下perm cath
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：兒子 媳婦 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+湯頌君 主治醫師 
+ 

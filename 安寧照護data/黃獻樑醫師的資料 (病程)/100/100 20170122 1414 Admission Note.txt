@@ -1,0 +1,464 @@
+Admission Note 
+2017/01/22 14:14 
+主訴(Chief Complaint) 
+Informant:patient's wife
+Fever up to 40.3'C for one day 
+病史(Brief History) 
+The 38-year-old man has history of 
+1.Sjogren syndrome, complicated with interstitial lung disease
+2.Psoriatic arthritis
+3.Pnuemonia in 2016/11, complicated with subcutaneous emphysema and pneumothorax 
+Tracing back the medical history, he came to our rheumatology OPD for the following symptoms on this May: oral ulcer, dry month, dry eye and swelling of bilateral PIP joints for few months. Sjogren symdrome was suspected. Current medication was Plaqunil, predonine, and mobic. This September, he had productive cough with clear sputum and fever and he was admitted for community-acquired pneumonia in 嘉義聖馬爾定Hospital from 2016/09/06 to 2016/09/27. After discharge, he came to our chest OPD for follow up. Lung function test performed on 2016/11/07 showed moderate to severe restrictive lung r/o interstitial lung disease.
+He was once admitted to Chest ward due to community acquired pneumonia, complicated with pneumothorax, pneumomediastinum, and subcutaneous emphysema. The disease was under control, but he receive home O2 nasal canula since then. On 2016/12/11, he had sudden onset loss of consciosness when eating outside, without O2 use that time. He was witnessed to have suspected generalized tonic clonic seizure that time and was sent to our MER, but CT revealed no ICH or tumor and EEG on 12/12 showed normal findings. He visited VS謝's OPD and was suggested to admit for further survey of disease extent and possible treatment. Recently he also complained of oral ulcers cause by Sjogren syndrome. He tolerated O2 canula use, with occasional shortness of breath. He also reported mild improvement of his subcutaneous emphysema. Otherwise he reported no arthralgia currently. 
+He was admitted to 13C ward for further survey on 2016/12/15. The laboratory study revealed negative DRVVT, Gastric Parietal Cell Antibody 1:10(-), Smooth Muscle Antibody 1:10(-), negative ANCA, anticardiolipin IgG/IgM within normal limit, Anti-Thyroglobulin Ab(TA):<3.00 IU/mL. Endoxan(I) was administered on 2016/12/20 and Rituximab C1D1 on 2016/12/22. Physical examination showed improvement of supraclavicular subcutaneous emphysema and improvement of left side breathing sounds. He received Endoxan(II) and Rituxumab C1D15 on 2017/1/11. He used home oxygenator for subcutaneous emphysema, and the O2 flow was about 4.5-5L/min.
+According to his wife's statement, he was brought to his sister's home in 鶯歌 after last admission. His wife found him had high fever up to 40.3'C with dyspnea on 1/21. So he was brought to 聖保祿 hospital first, where desaturation was noted so intubation was performed. Then he was transferred to our emergency department by his family's request. At triage, the vital signs were T/P/R 38.4/133/22, BP 84/51, and SpO2 91%. Septic workup was performed. The lab data showed hypoxemia, high CRP and high CK level. Chest to pelvic CT was performed and revealed progressed subcutaneous emphysema than CT on 2016/11/20, severe pneumomediastinum, stationary pneumothorax, and diffuse GGOs over bilateral lungs. Tazocin was given empirically. Levophed was administered for hypotension. Then he was admitted to ICU for further management.
+ 
+[Brief history]
+1.Systemic disease:HBV(-),HCV(-),DM(-),HTN(-),CVA(-),COPD/asthma(-),CAD(-),CKD(-)
+2.Hospitalized and surgery history:
+Hospitalization:入院日期:2017_01_11 出院日期:2017_01_12 診斷:Sjogren syndrome
+入院日期:2016_12_15 出院日期:2016_12_24 診斷:Sjogren syndrome
+入院日期:2016_11_21 出院日期:2016_12_06 診斷:Pneumonia
+
+Past Surgical History:nil
+3.Allergy history/ADR: NKA
+4.Current medication:
+NTUH:
+PLAQUENIL 200 mg/tab 1 tab BID PO 28 days
+Bokey EM cap 100 mg/cap 1 cap QOD PO 28 days
+Mobic 15 mg/tab 0.5 tab BID PO 28 days
+Dobecon 100 mg/tab 1 tab BIDPC PO 28 days
+Predonine 5 mg/tab 2 tab BID PO 28 days
+Regrow SR 60 mg/tab 1 tab Q12H PO 28 days
+Others: nil
+中草藥:denied
+保健食品:denied
+5.Family history:
+6.Substance use:alcohol(-), betel nut(-), cigarette(-)
+7.TOCC:
+T: stayed in 鶯歌 in recent 10 days
+O: no work now
+C: possible exposure of dog/cat/mouse/digeot
+C: no family member has fever in recent 2 weeks 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:碩士
+職業:公
+宗教信仰:民間信仰
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:B，RH:不清楚，輸血反應:
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Fall Risk Assessment
+總分:4
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-), night fever(+, for months)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(+, 2 days),oral ulcer(-)
+4.Cardiovascular:  exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(+, 2-3 days), cough(-), chest pain(-), hemoptysis(-), productive cough (-), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(+, for about 9 months, improved recently), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH: 166.2 cm,  BW: 58.7 kg,
+T: 36.0 °C,  P: 96 bpm,  R: 19 /min,
+BP: 105 / 77 mmHg,
+Pain score:  ,
+
+Neurological Examination: 
+. Consciousness: E4M6Vt
+. Muscle power: full and symmetric
+. Gait: not assess
+
+‧Head-Eye-ENT 
+        grossly normal, conjunctiva: pink, sclera: anicteric
+        Pupil: isocoric,  3mm/ 3mm
+        Light reflex: L/R: +/+, EOM: full and free
+‧Neck
+	Jugular vein engorgement(-)
+	Thyroid goiter(-)
+	Meningismus: Kernig sign(-); Brudzinski sign(-)
+        Carotid bruit(-)
+‧Chest
+	Thoracic cage contour: symmetric
+	Vocal fremitus and expansion: symmetric
+	Percussion: resonant
+        Breathing sound: diminished, coarse
+	Crackles(+) wheezes(-)rhonchi(-) stridor(-)
+‧Heart
+	Heart beat: regular  Murmurs(-)
+        LV lift(-) RV heave(-)
+	Increased cardiac size by percussion(-)
+	Adventitious sounds (-)
+‧Abdomen
+        Flat & soft
+	Superficial vein engorgement(-) Protruded umbilicus(-)
+	Bowel sound: Normoactive
+	Tenderness(-) Hepato-jugular reflux(-)
+	Liver and spleen: impalpable
+‧Extremities
+        Freely movable, pulses symmetric and intact, pitting edema(-)	
+‧Back
+        Knocking pain(-)
+‧Skin
+	Abnormal pigmentation(-)
+	Petechiae(-) Purpura(-) Ecchymoses(-) Telangiectasia(-)
+	Rash(-) Plaque(-)
+        Subcutaneous emphysema from lower cheek to ASIS area
+‧Lymphadenopathy(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060122 [0406] 10.81         4.73          14.5          43.6          92.2         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060122 [0406] 30.7          33.3          243           15.9          -            
+群組:Biochemistry
+
+               Na            K             Cl            Ca            Mg           
+time/item      (mmol/L)      (mmol/L)      (mmol/L)      (mmol/L)      (mmol/L)     
+1060121 [2244] 136           4.5           104           1.99          0.82         
+1060122 [0406] 137           4.3                                                    
+               P             LacticAcid   
+time/item      (mg/dL)       (mmol/L)     
+1060121 [2244] 4.0                        
+1060122 [0406]               1.71         
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060122 [0406] 7.382         30.4          99.8          18.2          -7.2         
+*********檢驗室:VF***********
+
+群組:Yes
+
+               Influenza A+ 
+               B Rapid Scre 
+               ening Test   
+time/item      ()           
+1060122 [0155] Negative     
+*********檢驗室:OP***********
+
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH            Protein(C)    Glu.(C)       Ketone body  
+                                                                    (U)          
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1060122 [0135] >= 1.050      6.0           50 ( 1+ )     -             1+           
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+                                                                     (U)         
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1060122 [0135] -             ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1060122 [0135] Yellow        -            
+群組:SEDIMENT
+
+               RBC (S)       WBC (S)       Epith (S)     Cast (S)      Crystal (S)  
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1060122 [0135] 2-5           2-5           0-2           -             -            
+               Bacteria      Mucus(S)      Others (S)   
+time/item      (*)           (*)           (*)          
+1060122 [0135] -             -             -            
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1060122 [0413] 136          
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060111 [1012] 8.17          4.71          14.2          44.1          93.6         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1060111 [1012] 30.1          32.2          236           16.1          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060111 [1012] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060111 [1012] 82.1          0.1           0.2           4.4           13.2         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060111 [1012] 0.0           0.0           0             -            
+*********檢驗室:CT***********
+
+群組:DIC Profile
+
+               D-Dimer      
+time/item      (μg/mL FEU)  
+1060111 [1012] 0.43         
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               Alb           ALT           LDH           CRE           hsCRP        
+time/item      (g/dL)        (U/L)         (U/L)         (mg/dL)       (mg/dL)      
+1060111 [1012] 3.3           41            293           0.8           0.70         
+群組:Anemia BC Profile
+
+               Ferritin     
+time/item      (ng/mL)      
+1060111 [1012] 1349         
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1060111 [1012] 115.0        
+*********檢驗室:OP***********
+
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH            Protein(C)    Glu.(C)       Ketone body  
+                                                                    (U)          
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1060111 [1059] 1.007         6.0           -             -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+                                                                     (U)         
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1060111 [1059] -             ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1060111 [1059] Light Yellow  -                          
+群組:SEDIMENT
+
+               RBC (S)       WBC (S)       Epith (S)     Cast (S)      Crystal (S)  
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1060111 [1059] 0-2           0-2           0-2           -             -            
+               Bacteria      Mucus(S)      Others (S)   
+time/item      (*)           (*)           (*)          
+1060111 [1059] -             -             -            
+
+
+*********檢驗室:B3***********
+B3-1051228-7027745   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Many PMNs ( >25 /LPF )
+     Gram's(GS)#2:       Many epithelial cells ( >25 /LPF )
+     Gram's(GS)#3:       Gram (+) rods,  Gram (-) rods 3+
+     ID+DS Sputum Culture #1:       Mixed flora
+     Gram's(GS)#4:       Gram (+) cocci 3+
+     Gram's(GS)#5:       痰檢體品質不良建議重新送檢
+
+
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060121 [1458] 8.68          4.88          14.9          44.8          91.8         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060121 [1458] 30.5          33.3          245           16.0          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060121 [1458] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060121 [1458] 91.4          0.0           0.1           5.3           3.2          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060121 [1458] 0.0           0.0           0             -            
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1060121 [1458] 11.9          26.4          1.10         
+群組:General BioChemistry
+
+               ALB           ALT          
+time/item      (g/dL)        (U/L)        
+1060121 [1458] 3.1           21           
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ammonia N    
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)     
+1060121 [1458] 18.7          0.6           133           4.3           29           
+               T-BIL         Ca            Mg            LacticAcid    CK           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)      (U/L)        
+1060121 [1458] 0.61          2.16          0.78          1.75          66           
+群組:Yes
+
+               hsCRP         NT-pro BNP   
+time/item      (mg/dL)       (pg/mL)      
+1060121 [1458] 14.42         442.6        
+群組:
+
+               Troponin-T    eGFR          CK-MB        
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)      
+                              m^2)                      
+1060121 [1458] 47.29         160.3         1.77         
+1060121 [1801] 32.77                                    
+*********檢驗室:CT***********
+
+群組:DIC Profile
+
+               FDP           D-Dimer      
+time/item      (μg/mL)       (μg/mL FEU)  
+1060121 [1801] 21.2          7.93         
+群組:Clotting Factor
+
+               Fibrinogen   
+time/item      (mg/dL)      
+1060121 [1801] 523.8        
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060121 [1454] 7.413         31.0          78.5          20.0          -4.9         
+1060121 [2240] 7.376         29.2          89.6          17.3          -8.2         
+               SO2          
+time/item      (%)          
+1060121 [1454] 95.8         
+1060121 [2240] 96.9         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1060121 [1454] 1.12          16.2          48            4.15          133.7        
+1060121 [2240] 1.09          13.5          40            4.07          136.0        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1060121 [1454] 121           1.8          
+1060121 [2240] 138           3.2          
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1060121 [1459] 113          
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1060121 [1458] B             Positive     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1060121 [1458] Negative 
+檢查紀錄(Examination Report) 
+Nil 
+影像報告(Imaging Report) 
+CT With/Without Contrast-Pelvis 醫令: CT With/Without Contrast-Pelvis 報告醫師: 柯維鈞 影像時間: 2017/01/21 21:08 (33072B5M) 發報告時間: 2017/01/21 21:52 CT of the chest, abdomen and pelvis without and with contrast enhancement shows: 
+> diffuse ground glass opacities and peribronchial infiltration at both lungs, more prominent as compared with previous study. Differential diagnosis includes interstitial pneumonitis (such as DIP or COP) and pulmonary infection. Suggest clinical correlation and follow-up.
+> severe pneumomediastinum. Small mediastinal lymph nodes.
+> no pleural effusion. Probably emphysematous change at bilateral pleural spaces.
+> placement of an endotracheal tube and a NG tube. 
+> no obvious focal lesion in the liver, pancreas, spleen, both kidney and adrenal glands. 
+> unremarkable bowel loops.  
+> diffuse subcutaneous emphysema from thoracic to pelvic regions.
+CT With/Without Contrast-Abdomen 醫令: CT With/Without Contrast-Abdomen 報告醫師: 柯維鈞 影像時間: 2017/01/21 21:08 (33072B3M) 發報告時間: 2017/01/21 21:52 CT of the chest, abdomen and pelvis without and with contrast enhancement shows: 
+> diffuse ground glass opacities and peribronchial infiltration at both lungs, more prominent as compared with previous study. Differential diagnosis includes interstitial pneumonitis (such as DIP or COP) and pulmonary infection. Suggest clinical correlation and follow-up.
+> severe pneumomediastinum. Small mediastinal lymph nodes.
+> no pleural effusion. Probably emphysematous change at bilateral pleural spaces.
+> placement of an endotracheal tube and a NG tube. 
+> no obvious focal lesion in the liver, pancreas, spleen, both kidney and adrenal glands. 
+> unremarkable bowel loops.  
+> diffuse subcutaneous emphysema from thoracic to pelvic regions.
+Chest: AP View (Supine) 醫令: Chest: AP View (Supine) 報告醫師: 柯維鈞 影像時間: 2017/01/21 15:16 (32001CYM) 發報告時間: 2017/01/21 16:45 Chest AP shows placement of an endotracheal tube and a NG tube. cardiomegaly. bilateral diffuse lung consolidation. pneumomediastinum. marked bilateral subcutaneous emphysema. elevated left hemidiaphragm.
+CT With/Without Contrast-Chest 醫令: CT With/Without Contrast-Chest 報告醫師: 柯維鈞 影像時間: 2017/01/21 21:08 (33072B2M) 發報告時間: 2017/01/21 21:52 CT of the chest, abdomen and pelvis without and with contrast enhancement shows: 
+> diffuse ground glass opacities and peribronchial infiltration at both lungs, more prominent as compared with previous study. Differential diagnosis includes interstitial pneumonitis (such as DIP or COP) and pulmonary infection. Suggest clinical correlation and follow-up.
+> severe pneumomediastinum. Small mediastinal lymph nodes.
+> no pleural effusion. Probably emphysematous change at bilateral pleural spaces.
+> placement of an endotracheal tube and a NG tube. 
+> no obvious focal lesion in the liver, pancreas, spleen, both kidney and adrenal glands. 
+> unremarkable bowel loops.  
+> diffuse subcutaneous emphysema from thoracic to pelvic regions. 
+病理報告(Pathology Report) 
+Nil 
+臆斷(Tentative Diagnosis) 
+1. Hypoxic respiratory failure, pneumonia and interstitial lung disease related, status post endotracheal tube insertion and mechanical ventilation on 2017/1/21-
+2. Bilateral mild pneumothorax, with pneumomediastinum
+3. Subcutaneous emphysema, progressed
+4. Hospital-acquired pneumonia, suspected Pneumocystis jiroveci, Influenza or bacterial infection
+5. Interstitial lung disease, suspected autoimmune related (ferritin), status post Endoxan(II) on 2017/01/11, status post Rituximab(C1D15) on 2017/01/11
+6. Psoriatic arthritis
+7. Suspected Sjogren syndrome, secondary 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+* 1. Hypoxic respiratory failure, pneumonia and interstitial lung disease related, status post endotracheal tube insertion and mechanical ventilation on 2017/1/21-
+2. Subcutaneous emphysema, progressed
+3. Hospital-acquired pneumonia, suspected Pneumocystis jiroveci, Influenza or bacterial infection
+4. Interstitial lung disease, suspected autoimmune related (ferritin), status post Endoxan(II) on 2017/01/11, status post Rituximab(C1D15) on 2017/01/11
+5. Psoriatic arthritis
+6. Suspected Sjogren syndrome, secondary
+
+A:
+Subcutaneous emphysema after an episode of pneumonia in 2016/11
+Home O2 4.5-5L/min
+Dyspnea and sore throat for 2-3 days
+High fever up to 40.3'C on 1/21 -> 聖保祿 hospital
+Hypoxia, dyspnea -> ETT+MV
+->NTUH ER
+
+EKG: sinus tachycardia
+CXR: cardiomegaly. bilateral diffuse lung consolidation. pneumomediastinum. marked bilateral subcutaneous emphysema.
+CT: 
+1. diffuse ground glass opacities and peribronchial infiltration at both lungs, more prominent. Differential diagnosis includes interstitial pneumonitis and pulmonary infection. Suggest clinical correlation and follow-up.
+2. severe pneumomediastinum. 
+3. diffuse subcutaneous emphysema from thoracic to pelvic regions. 
+
+Influenza rapid test: negative
+
+P:
+1. Workup for pneumonia(B/C, S/C, Sputum F/C, Aspergillus Ag, Cryptococcal Ag, PJP PCR, CMV viral load, atypical pathogen, influenza PCR)
+2. Give Tazocin+Sevatrim+ cash high dose Tamiflu empirically
+3. Keep ETT+MV support, avoid too high PEEP due to severe subcutaneous emphysema
+4. Stress dose of Solumedrol(10mg Q12H) by Rheuma CR Dr.Chen's suggestion
+5. Consider iNO or prone position if ARDS in progress
+6. Inform critical condition to his family
+
+Treatment Goal: afebrile, extubation 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左手 右手 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.5mm 
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：10
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：自己 
+出院規劃收案篩檢：高危病患 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+Poor prognosis.
+Consider prone/iNO if ARDS 
+醫師姓名 
+林柏志 主治醫師 
+ 

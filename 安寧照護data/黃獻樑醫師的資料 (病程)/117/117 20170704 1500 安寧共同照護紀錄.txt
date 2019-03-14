@@ -1,0 +1,30 @@
+[Assessment]
+2017-07-04: a 88 years old man was a case of 1. Acute respiratory failure, type IV, s/p ETT-MV (6/22-), 2. Acute cholesystitis with E. coli and VRE bacteremia and septic shock, s/p PTCCD on 6/20, 3. Acute kidney injury (baseline Cr: 1.0-1.1 in 2017/3/21), AKIN stage III, sepsis related, s/p HD (6/24-),
+4. Rhabdomyolysis, 5. UGI bleeding, 6. Left middle cerebral artery occlusion (M1) with acute infarction, Day 1 on 2016/3/17, with right hemiparesis, 7. Sick sinus syndrome, status post pacemaker (DDDR) implantation in 2005, 8.Paroxysmal atrial fibrillation, CHADSVASc 2, 9. Hepatitis virus B carrier
+and 10.Chronic obstructive pulmonary disease with acute exacerbation
+
+ECOG:4
+Consciousness: drowsy but arousable
+Vital signs:
+2017/07/04 12:45 T:37.1 P:97 R:18
+2017/07/04 12:45 BP:145/61
+2017/07/04 12:45 SpO2:94%(%,)
+Chest: bilateral coarse
+Extremities: generalized edema 2+
+massive rectal bleeding this morning
+hypotension under low dose inotropic agent
+
+[訪視摘要]
+會談對象:長子，女兒
+1. 病情認知及調適評估
+家屬對病況了解，陳述此次入院及治療經過，表示原進行呼吸器脫離計劃，今早突發大量出血情形十分危急，目前已止血，但未能清楚找到出血部位，若再次出血需再執行相關醫療處置。家人表示病人意識清醒，因此認為需要的醫療處置仍要進行，但若進展至病危即不施行心肺復甦急救。
+2. 緩和照顧說明
+因病人配偶目前也住院中接受安寧共同照謢，因此家人已了解並一致認同安寧緩和照顧，表示感謝團隊關心，後續再視病人病況變化持續討論醫療照顧方向。
+3. 提供心理支持
+長子、次子、女兒已退休，因此較多參與病人夫妻醫療及後續照顧討論，長子表示手足間有Line群組因此其他手足對病情均了解也有照顧方向共識。目前因病人配偶於病房照顧需作出院照顧準備因此壓力較大，主要壓力為病人後續病況發展不明，對與兩老照顧計劃難以安排。予傾聽同理，提供所需照顧資訊(病人配偶目前候緩和病房床)。
+
+[Plan]
+1. 請共同協助提供家屬心理支持，同理照顧壓力，評估主要照顧者身心壓力指數。
+2. 持續安寧共照，若有緩和照顧問題，可連繫共照小組。
+
+原團隊共同照護成員:護理師何佳樺

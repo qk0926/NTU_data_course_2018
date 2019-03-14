@@ -1,0 +1,76 @@
+Brief Summary of this week    
+Wet dressing Q8H was kept for right thoracotomy wound, and Tigecycline+Colistin were shifted to Ceftriaxone according to wound culture: Serratia marscenes. However, right hemothorax with hypovolemic shock developed at night of 4/4 night, there was no prominent bleeding point noted, and bleeding improved after bosmin compression and component therapy. In addition, AfRVR and pacemaker related Wide QRS tachycardia developed. Hemodynamics were stabilized under norepinephrine support and hydration, and empirical Meropenem+Teicoplanin were adminsitered. Due to suspicion of uremic bleeding, SLED was reinitiated on 4/5. Teicoplanin was discontinued on 4/7 for no evidence of GPC, however, worsening right thoracotomy wound condition was noted, and TMP/SMX was added for coverage of Burkholderia after discussion with ID specialist. 
+
+
+Assessment 
+levophed off;
+O2 demand improving;
+FiO2:45%->40%
+
+[Inotropic agent]
+levophed (16mg/250ml): off 4/8 morning;
+
+[Respiration]
+IP 18, PEEP 8  FiO2 45->40%
+
+[RRT]
+SLED 2hr K3 Ca 3 on 4/5
+SLED 3hr K3 Ca 3 on 4/6 => no IDH; 
+SLED 4hr K3 Ca3 UF:1.5kg on 4/7 (提前1h終止洗腎)
+
+3/12 S/C: Burkholderia (CAZ-S), Serratia (CAZ-S)
+3/14 chest tube/C: MDRAB, Serratia (CAZ-S)
+3/16 B/C(DLC) tip: Serratia (CAZ-S)
+3/22 PEs - AFS neg
+         - Serratia marcescens 1+
+         - Burkholderia cenocepacia 2+
+3/29 wound fungus culture: Candida albicans 
+3/29 wound: Serratia marcescens 2+, Serratia marcescens 2+ 
+3/30 skin pus: Serratia marcescens 3+ 
+3/31 wound: Serratia marcescens 2+
+4/5 S/C Burkholderia cenocepacia 2+ 
+        Serratia marcescens 1+  
+
+
+[Consultation]
+4/5 Dr.陳政瑋: The suspected VT episode was actually pacing rhythm.
+  Possible mechanism:
+    AfRVR -> amiodarone loading 
+    => conversion to sinus rhythm and inhibition of AV conduction
+    => A sensing V pacing with wide QRS tachycardia;
+    Suggest Off xylocaine, could resume Amiodarone PO.
+4/8 ID Dr.林武甫:
+    Pursue repeated wound culture result
+    Add TMP/SMX for coverage of Burkholderia cenocepacia and good wound penetration.
+
+Plan 
+1.For empyema
+ - Keep wet dressing Q8H.
+   (The culture from thoracoomy window is valuable 
+   and should be checked frequently)
+ - Keep Meropenem.
+   Add TMP/SMX for  coverage of Burkholderia cenocepacia and good wound penetration
+ - Pursue repeated wound culture result (4/8) 
+ - Weaning was not considered now due to possible lung
+   collapse.
+
+2. For hypotension during SLED
+ - Give levophed support. Pursue blood culture result.
+ - Closely monitor patient's heart rhythm.
+
+3. For azotemia
+ - Stop NG water due to positive I/O on 4/04
+ - Titrate with BW and azotemia
+ - FeNa 9.8%, FeUN 60%
+ - Closely monitor renal function, start RRT since 4/5
+   (SLED: 4/5 2hrs, 4/6 3hrs)
+ - SLED K 3 Ca 3, 4hr UF:2kg today
+
+3. For anemia
+  -closely monitor hemogram
+  -RI: 0.215, pursue iron profile result
+
+4. Aldactone 25mg BID
+   Discontinue furosemide first for regular RRT currently
+
+5. Amiodarone 1# QD.

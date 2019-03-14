@@ -1,0 +1,59 @@
+86 y/o female with 
+1. Pneumonia, complicated with septic shock and hypoxic respiratory failure, under mepem (3/12-4/8) and Anidulafungin(3/26-4/8), s/p targocid (3/12-3/28), cravit(3/26-3/27), s/p diflucan(3/12-3/15)
+2. Clostridium difficule colitis, s/p Anegyn (4/6-4/8)
+3. End stage renal disease under regular hemodialysis
+4. Suspected uremic encephalopathy with provoked seizure
+5. Upper gastrointestinal bleeding
+6. Isolated APTT prolongation, factor XII deficiency related, suspected combined with heparin use or APS
+7. Old cerebrovascular accident
+8. Parkinsonism
+9. Dementia
+10.Left breast cancer status post operation
+
+[Brief History]
+  She was bedridden as baseline. She was under regular hemodialysis. She had frequent diarrhea on 3/10. On 3/11, hypotension and fever. Pneumonia complicated with septic shock was the tentative diagnosis. Tienam and Levophed were given. Seizure generalized clonic movements was noted as well. She was transferred to our hospital on 3/12 under family's request.
+
+[Treatment Course]
+  After admission, diflucan, mepem and targocid were prescribed for infection control. CVVH was started for electrolyte imbalance. Levophed and dopamine were given for low blood pressure and dopamine was tapered off on 3/13. On 3/14, under relative stable BP and electrolytes, we shifted CVVH to SLED. However after SLED in 3/14 night, intermittent short-run VT with unstable blood pressure was noted in 3/15 morning. Cordarone infusion was given and rhythm was corrected. Prolonged QTc was so we contacted CV physician on 3/16, who suggested to correct electrolytes and avoid medication including Difucan, Cordaron and Dopamine. 
+  She had poor digestion since 3/18 so we added laxatives and prokinetics agents and adjusted diet under dietition's suggestion. However Primperan was hold due to QTc prolong. Ascites was found with bedside echo, but paracentesis was not favored due to coagulopathy. 
+  Lab data showed elevated lactic acid after SLED suspect related to hypoperfusion. Therefore, we started CVVH on 3/23 again. Meanwhile, fever was noted again on 3/23. We consulted ID specialist, who suggested to send acid fast stain. However, fever was noted again with progressive leukocytosis and hypotension  since 3/26, so we contacted ID physician again. He suggested to add empirical Cravit and Eraxis, and stopeed We contacted with ID VS again on 3/28. She suggested us to stop targocid due to lack evidence of GPC infection. Prolonged QTc happened again on 3/28 so we hold Cravit. Femoral CVC was removed on 3/30. Abdominal echo performed on 3/29 showed distended bowel with minimal ascites. We followed up abdominal CT with contrast on 3/30 which showed ileus and minimal ascites and contrast medium in GI tract. We started TPN and consulted GI specialist who suggested shock-related poor digestion.
+    In suspect of CRBSI, we change cervical CVC and tip culture revelaed GPC. Due to poor bowel function, we further checked C.diff toxin, which was positive. So metronidazole was used since 4/6. For follow-up seizure acitivity, we arranged EEG on 4/7 showing diffuse slow waves without significant epileptiform discharge, so we downgrade antiepileptic agents. Due to poor weaning capibitilty, we discuss with family and consulted hospice team for discussing for withdraw. Family meeting was held on 4/8, and they finally decided to withdraw all aggresive interventions including inotropics, antibiotics, and hemodialysis, and elective extubation was also agreed. 
+
+[Neurological Examination]
+GCS: E2M4-5Vt
+CN II: Visual field: threatening test -/-, Light reflex: L/R= trace/trace ; pupil 2.5mm/2.5mm
+CNIII¡AIV&VI¡G EOM: OCR +/+
+CN V- Sensory: symmetric to pain 
+CNVII¡Gsymmetric nasolabial folds, cornea reflex: +/+
+CNIX&X¡Gcough reflex +
+CNXII: (intubated)
+Muscle power  generally 2
+DTR¡G
+  Right: biceps: +, triceps: +, brachioradialis: +, knee: +, ankle: -
+  Left: biceps: +, triceps: +, brachioradialis: +, knee: +, ankle: -
+Plantar response: no response on both sides   
+Sensation: symmetric to pain
+FNF/HNS: could not be performed by order
+
+[Assessment]
+3/12 B/C(peripheral): CONS
+3/15 ACTH 55.1 Cortisol 22.1 TSH 2.3 fT4 0.824
+3/24 Acid fast stain x3: negative 
+3/26 Aspergillus and cryptococcal Ag: negative
+     S/C: C.glabrata
+3/29 tumor markers: elevated CA-125(ascites related)
+4/02 GPC culture: GPC
+     S/C: negative for C.glabrata
+4/06 Consult hospice team for discuss withdraw
+     C.diff toxin(+): add Aneygyn
+4/07 EEG: diffuse 2-6 Hz, no epileptiform(preliminary)
+4/08 family meeting with son and daughter
+     => resign DNR including antibiotics and hemodialysis
+        elective extubation if necessary
+
+[Plan]
+DNR¥þ©Ú§t§Ü¥Í¯À,¬~µÇ
+# Avoid dopamine, cordarone and medication that would cause QTc prolong. F/u EKG.
+1. Hold hemodialysis, inotropics, TPN, antibiotics due to family's request
+2. Consider elective extubation (permit signed)
+3. Palliative care with morphine if necessary

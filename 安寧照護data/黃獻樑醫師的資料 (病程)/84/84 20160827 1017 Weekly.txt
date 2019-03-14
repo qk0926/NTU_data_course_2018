@@ -1,0 +1,97 @@
+Brief Summary of this week    
+After transferred to 3A2 ICU on 8/3, Mepem was kept for the Ertapenem-resistent K.p.. MV setting was switched from PCV to PSV on 8/3. However, due to collapse over lower lungs, MV setting was switched from PSV to VC+SIMV on 8/5. Minimal ascites and bilateral pleural effusion were noted but IVC showed dynamic collapse, which indicated insufficient intravascular volume so that self-paid albumin was given during 8/5-7. After tapering down Fentanyl, his consciousness recovered with eye tracing with contact since 8/5. Eyes tracing with eye contact was noted since 8/7. SIMV+VC mode was switched to PSV mode since 8/10. His tidal volumn was still around 200 ml with increased respiratory rate to around 25/min. We tried daily SBT as decreasing PS from 8 to 6 mmHg for 1 hour since 8/11. There was head movement noted on 8/12 and a little fingers and toes movement noted since 8/13.
+Abnormal liver function with mild direct hyperbilirubinemia was noted. Abdominal echo only showed gall stones without thickened GB wall or dilated CBD. HBV or HCV hepatitis were ruled out. The level of T-bil decreased later. 
+His family decided not to make tracheostomy and decided to transfer to RCW with endotracheal tube. Under stable condition, he was transferred to our RCC on 8/24 and waited for transferring to RCW.
+< RCW >
+After transferral to our ward, we still introduced to his family about tracheostomy. His family was still refused. Besides, family thought transferring to RCW was the least choice. Dr. 吳惠東 visited and discussed with family member. Then his family would like to have hospice withdraw. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+Abx free
+
+Had eye contact but couldn't obey order
+- under ETT+MV with low setting PS: 8, PEEP:5 FiO2: 25%
+- key decision maker: 兒子
+- suggested tracheostomy again to the patient's family according attending VS suggestion 
+=> Dr. 吳惠東 (his son's classmate) visited this morning, and discussed with patient's son: suggested 1. tracheostomy 2. hospice withdraw. -> pending family discussion
+
+Family had low willing of RCW transfering
+
+[Previous Abx]
+Mepem (8/1-14) for Ertapenem-R K.p.
+Cravit (7/29-8/4) empirical, discontinue due to no evidecne of atypical pathogen infection
+Tazocin (7/29-8/1)
+
+[Cultures]
+7/30 S/C: KP 1+, MRSA 1+
+8/04 Pneumococcus Ag: Negative
+     Urine Legionella Ag(-)
+     Chlamydiae Antigen (-)
+     Aspergillus Ag (-)
+     Cryptococcal Ag (-)
+     PJP PCR (-)
+8/11 Burkholderia cepacia complex 1+
+
+[Infusion]
+nil
+
+[MV/O2]
+PSV PS 8, Esen 20, PEEP 6, 25%
+Weaning parameter: PIMAX:-20, PEMAX:+16, RSBI:141
+
+[PE]
+Consciousness: E4M6Vt, eye contact(+) and nod head(+)
+Heart: systolic murmur at RUSB
+BS: bilateral rhonchi
+Abdomen: BoS normoactive, soft
+Extremities: warm; pitting edema (+, upper limbs); still poor muscle power 1~2
+
+[Studies]
+8/01 Right pleural effusion 520mL, serosaginuous, TP <3.0, LDH 344, glucose 111, RBC 11000, TNC 494, L:N:M+H 48:28:2, eos 22%
+8/02 NECT chest: diffuse bilateral pulmonary ground glass opacities and consolidation; bilateral pleural effusion; status post TAVI and pacemaker placement
+8/05 bed-side echo: minimal to moderate pleural effusion, bilateral; consolidation over parts of bilateral lower lungs; IVC 1.1cm with dynamic collapse
+8/05 Brain perfusion: 
+A. The dynamic flow study: 
+* Mild to moderate hypoperfusion to bilateral cerebral hemisperes. 
+* Increased flow to the paranasal region, which could be secondary to decreased brain perfusion/edema. 
+B. The transaxial,coronal and sagittal images (SPECT) showed: 
+* Symmetric moderate hypoperfusion to bilateral cerebral hemispheres, worst at left temporal and right frontal lobes; mild hypoperfusion to left basal ganglion, and right thalamus; preserved perfusion to right basal ganglion, left thalamus, and upper brainstem.
+8/05 EEG:
+EEG diagnosis: Abnormal EEG; nearly continuous diffuse slow waves at 5-7 Hz, 20-40 uV.  
+EEG description: The EEG was performed when the patient was comatose. There are no alpha-range activities. There are rare scattered beta activities at 15-25 Hz, 5-10 uV in the anterior head areas. The EEG is characterized by nearly continuous diffuse slow waves at 5-7 Hz, 20-40 uV without obvious response to alerting maneuvers. (Hyperventilation is not performed. Photic stimulation elicites no definite photic driving responses.)
+EEG interpertation: This EEG reveals moderate to severe diffuse cortical dysfunction. 
+
+8/18 Abnormal liver function
+T-BIL:1.74 mg/dL
+AST:111 U/L ALT:124 U/L ALP:213 U/L GGT:89 U/L
+Bedside-echo: gall stones, no thickened wall; no dilated CBD
+8/19
+T-BIL:1.56 mg/dL D-BIL:0.61 mg/dL 
+AST:72 U/L ALT:93 U/L
+
+HBsAg:Negative(0.01) IU/mL
+Anti-HBs:Positive(400.91) mIU/mL
+Anti-HBc:Positive *
+Anti-HCV Ab:Negative *
+
+[Consultation]
+8/9 Neurologist:
+EEG showed cortical activity. He may regain consciousness, but whether keeping bed-ridden is not predictable.
+May repeat EEG on 8/12 or later.
+
+[Family decision]
+8/9 病人兒子表示不氣切，希望找個時機拔管，若拔管失敗也不重插
+8/15 Patient's family reconsidered about tracheostomy
+8/18 病人兒子決定先不拔管，將準備外轉至RCW
+8/26 不考慮氣切；考慮安寧拔管
+
+[Intervention]
+nil
+
+Plan 
+1. May discuss with the patient's family again about tracheostomy -> rejected
+   Family came and asked for hospice withdraw on Tue afternoon
+2. Keep symptomatic treatment
+3. Consult hospice for withdraw

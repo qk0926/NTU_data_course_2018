@@ -1,0 +1,421 @@
+2017/02/19 00:22 
+主訴(Chief Complaint) 
+Informant:patient and her family
+nausea, chest tightness, and cold sweating since 5 am this morning 
+病史(Brief History) 
+[Present Illness]
+This 80-year-old woman has a history of
+1. Coronary artery disease for 20 years
+2. Diabetes mellitus for more than 25 years
+3. Hypertension for more than 45 years
+4. Cholecystitis, status post laparoscopic cholecystectomy in 2002/02
+5. Knee osteoarthritis, status post left total knee replacement in 2013
+6. Left femoral fracture, status post operation in 2016.
+
+She went to CV Dr. Wang's OPD for chest discomfort since December 2016. Th-201 scan on January 11, 2017 only showed mild RPD over inferobasal wall. Medication control was kept. But she complained of nausea, chest tightness, and cold sweating when she had defecation in the morning on 2017/02/18. She denied radiation of chest tightness to neck or left shoulder. Mild back pain was noted. She took a tablet of NTG, and cold sweating subsided. However, persistent nausea and chest tightness were still noted. Another tablet of NTG was also taken, but the symptoms did not fully subside. She was then brought to our hospital.
+     At emergency triage, generally appearance was fair and no severe dyspnea or limb pitting edema was noted. She still had intermittent nausea and vomiting, combined with chest tightness, and NTG tablet was given again. ECG showed no obvious new ST-T changes initially, but cardiac enzymes showed high level of TnT(381.5). Reviewing of her previous history, she received Thallium scan on 2017/01/11, and the images showed ischemic change at mid to basal inferolateral wall. Cardiac sonography was performed and showed reduced LV systolic function (LVEF 40.8%) and regional wall motion abnormality at anterolateral area and apex. Follow up ECG showed new T wave inversion over V4-V6, and elevation of cardiac enzymes was also noted. Under the impression of non-ST segment elevation acute myocardial infarction, she was admitted to CCU for further management.
+
+[Past History]
+1.Medical History:
+(1). Coronary artery disease for 20 years
+(2). Diabetes mellitus for more than 25 years
+(3). Hypertension for more than 45 years
+2.Surgical History:
+(1). Cholecystitis, status post laparoscopic cholecystectomy in 2002/02
+(2). Knee osteoarthritis, status post left total knee replacement in 2013
+(3). Left femoral fracture, status post operation in 2016
+3.Family History:
+  2 of her daughters has diabetes mellitus
+4.Medication Allergy: No  親屬描述 2017/02/18
+  Medication ADR: unknown
+  Allergy to Medical Device and Materials: UnClear  親屬描述 2017/02/18
+5.Current Medication:
+  NTUH: Natrilix SR 1.5 mg/tab 1 tab QD PO 28 days
+        Edarbi 40 mg/tab 1 tab HS PO 28 days
+        Norvasc 5 mg/tab 1 tab QD PO 28 days
+        Bokey EM cap 100 mg/cap 1 cap QD PO 28 days
+        Lipitor 20 mg/tab 1 tab QD PO 28 days
+        Amaryl 2 mg/tab 0.5 tab QD PO 28 days
+        (DM) Loditon 500 mg/tab 1 tab BIDPC PO 28 days
+  Other: denied
+  中草藥: denied
+  保健食品: denied
+6.Travel History: denied in recent 3 months
+7.Lifestyle:
+  alcohol: denied
+  betel nut: denied
+  cigarette: denied
+8.Risk factors:
+  age(+), gender(-), smoking(-), HTN(+), DM(+), dyslipidemia(-), obesity(-, BMI 25.4) 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:國中
+職業:家管
+宗教信仰:無
+婚姻狀態:喪偶
+使用語言:國語 
+口述血型:O，RH:不清楚，輸血反應:
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Fall Risk Assessment
+總分:8
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)
+2.Skin: petechiae(-), purpurae(-), skin rash(-), itching(-)
+3.HEENT: headache(-), dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-), oral ulcer(-)
+4.Cardiovascular: exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-), syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(-), cough(-), chest pain(-), hemoptysis(-), productive cough(-), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(+) and vomiting(+) persistently for 1 day, dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-), midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria(-), hesitancy(-), small stream of urine(-), nocturia(-), polyuria(-), oliguria(-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-), back pain(+) for several hours
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness(-), paresis/plegia(-) 
+身體檢查(Physical Examination) 
+BH: NA cm,  BW: 57.3 kg,
+T: 36.4 °C,  P: 81 bpm,  R: 18 /min,
+BP: 148 / 69 mmHg,
+Pain score: 0 ,
+
+Neurological Examination: 
+. Consciousness: E4M5-6V5
+. Muscle power: all limbs at least 4+
+. Gait: not performed
+‧Head-Eye-ENT 
+        grossly normal, conjunctiva: pink, sclera: anicteric
+        Pupil: isocoric,  3mm/ 3mm
+        Light reflex: L/R: +/+, EOM: full and free
+‧Neck
+        Jugular vein engorgement(-)
+        Goiter(-)
+        Meningismus: Kernig sign(-); Brudzinski sign(-)
+        Carotid bruit(-)
+‧Chest
+        Thoracic cage contour: symmetric
+        Vocal fremitus and expansion: symmetric
+        Percussion: resonant
+        Breathing sound: clear
+        Crackles(-) wheezes(-) rhonchi(-) stridor(-)
+‧Heart
+        Heart beat: regular  Murmurs(+) systolic murmur at apex
+        LV lift(-) RV heave(-)
+        Increased cardiac size by percussion(-)
+        Adventitious sounds(-)
+‧Abdomen
+        Flat & soft
+        Superficial vein engorgement(-) Protruded umbilicus(-)
+        Bowel sound: Normoactive
+        Tenderness(-) Hepato-jugular reflux(-)
+        Liver and spleen: impalpable
+‧Extremities
+        Freely movable, pulses symmetric and intact, pitting edema(-)
+        Tophi with erythematous change at both big toes	
+‧Back
+        Knocking pain(-)
+‧Skin
+        Abnormal pigmentation(-)
+        Petechiae(-) Purpura(-) Ecchymoses(-) Telangiectasia(-)
+        Rash(-) Plaque(-)
+‧Lymphadenopathy(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060218 [1419] 13.18         3.51          10.7          31.6          90.0         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060218 [1419] 30.5          33.9          155           12.5          -            
+群組:Biochemistry
+
+               BUN           CRE           Na            K             T-BIL        
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)      
+1060218 [1419] 29.2          0.9           135           3.9           0.91         
+               Lipase        Ca            Mg            P             AST          
+time/item      (U/L)         (mmol/L)      (mmol/L)      (mg/dL)       (U/L)        
+1060218 [1419] 89            2.34          0.81          3.7           31           
+               CK           
+time/item      (U/L)        
+1060218 [1419] 280          
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060218 [1419] 7.426         29.0          92.2          19.3          -5.3         
+群組:General BioChemistry
+
+               ALB          
+time/item      (g/dL)       
+1060218 [1419] 4.2          
+群組:Yes
+
+               hsCRP        
+time/item      (mg/dL)      
+1060218 [1419] 0.23         
+群組:
+
+               Troponin-T    eGFR          CK-MB        
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)      
+                              m^2)                      
+1060218 [1419] 1167          64.0          27.06        
+
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060207 [0738] 5.66          3.62          11.4          32.5          89.8         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1060207 [0738] 31.5          35.1          172           12.7          -            
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               ALT           CRE           UA            Na            K            
+time/item      (U/L)         (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)     
+1060207 [0738] 7             0.9           7.1           138           4.3          
+               TG            T-CHO         LDL-C         HDL-C        
+time/item      (mg/dL)       (mg/dL)       (mg/dL)       (mg/dL)      
+1060207 [0738] 105           196           123           48           
+群組:DM
+
+               GLU AC        HbA1c        
+time/item      (mg/dL)       (%)          
+1060207 [0738] 117           6.7          
+群組:Hormones
+
+               Free T4(CIA)  hsTSH(CIA)                 
+time/item      (ng/dL)       (μIU/mL)     
+1060207 [0738] 1.03          2.11         
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1060207 [0738] 64.0         
+
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060218 [0842] 10.80         3.88          11.9          35.3          91.0         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060218 [0842] 30.7          33.7          162           12.4          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060218 [0842] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060218 [0842] 80.6          0.6           0.2           3.0           15.6         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060218 [0842] 0.0           0.0           0             -            
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1060218 [1116] 9.7           23.9          0.90         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1060218 [0842] 8            
+群組:Biochemistry
+
+               CRE           Na            K             CK           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (U/L)        
+1060218 [0842] 1.1           135           4.6           89           
+群組:Yes
+
+               NT-pro BNP   
+time/item      (pg/mL)      
+1060218 [0842] 464.1        
+群組:
+
+               Troponin-T    eGFR          CK-MB        
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)      
+                              m^2)                      
+1060218 [0842] 381.5         50.8          9.53         
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1060218 [1116] O             Positive     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1060218 [1116] Negative 
+檢查紀錄(Examination Report) 
+initial ECG: no ST-T change, stationary as previous ECG
+follow up ECG: T wave inversion over V4-V6
+
+2017/02/18 ECHO: 
+Interpretation Summary
+‧The left ventricle is grossly normal in size and shape.
+‧Left ventricular systolic function is moderately reduced.
+‧The transmitral spectral Doppler flow pattern is suggestive of pseudonormalization.
+‧There are regional wall motion abnormalities as specified.
+‧Aortic regurgitation, mild
+‧Mitral regurgitation, moderate
+‧Tricuspid regurgitation, moderate to severe
+‧Pulmonary hypertension, moderate
+‧Pulmonic regurgitation, mild
+
+MMode/2D Measurements & Calculations
+ RVDd: 2.0 cm 
+ IVSd: 1.1 cm 
+ LVIDd: 4.1 cm 
+ LVIDs: 3.0 cm 
+ LVPWd: 1.0 cm 
+ FS: 27.7 % 
+ EDV(Teich): 75.3 ml 
+ ESV(Teich): 34.5 ml 
+ EF(Teich): 54.2 % 
+ LV mass(C)d: 142.8 grams 
+ Ao root diam: 2.9 cm 
+ ACS: 1.8 cm 
+ LA dimension: 3.8 cm 
+ LVAd ap4: 27.1 cm2 
+ LVLd ap4: 6.1 cm 
+ EDV(MOD-sp4): 87.2 ml 
+ EDV(sp4-el): 101.2 ml 
+ LVAs ap4: 20.4 cm2 
+ LVLs ap4: 5.9 cm 
+ ESV(MOD-sp4): 57.3 ml 
+ ESV(sp4-el): 59.9 ml 
+ EF(MOD-sp4): 34.3 % 
+ EF(sp4-el): 40.8 % 
+ SV(MOD-sp4): 29.9 ml 
+ SV(sp4-el): 41.3 ml 
+ 
+Doppler Measurements & Calculations
+ MV E max vel: 36.0 cm/sec 
+ MV dec time: 0.13 sec 
+ Ao V2 max: 103.8 cm/sec 
+ Ao max PG: 4.3 mmHg 
+ PA V2 max: 70.8 cm/sec 
+ PA max PG: 2.0 mmHg 
+ PA acc slope: 695.6 cm/sec2 
+ PA acc time: 0.10 sec 
+ TR max vel: 378.4 cm/sec 
+ TR max PG: 57.3 mmHg 
+ E/E': 0.69  
+ 
+Pediatric Measurements & Calculations
+ Lat Peak E' Vel: 5.0 cm/sec 
+ Med Peak A' Vel: 26.3 cm/sec 
+ Med Peak E' Vel: 51.9 cm/sec 
+ 
+Left Ventricle
+‧The left ventricle is grossly normal in size and shape.
+‧Left ventricular systolic function is moderately reduced.
+‧The transmitral spectral Doppler flow pattern is suggestive of pseudonormalization.
+‧There are regional wall motion abnormalities as specified.
+
+Left Atrium
+‧The left atrial size is normal.
+
+Aortic Valve
+‧Fibrocalcified degeneration,with satisfactory opening.
+‧Aortic regurgitation, mild.
+
+Mitral Valve
+‧Myxomatous.
+‧Mitral regurgitation, moderate.
+
+Right Heart
+‧The right ventricle is normal in size and function.
+‧Normal right atrial size.
+‧Tricuspid regurgitation, moderate to severe.
+‧Pulmonary hypertension, moderate.
+‧Pulmonic regurgitation, mild.
+
+Great Vessel
+‧The aortic root is normal size.
+
+PE
+‧There is no pericardial effusion. 
+影像報告(Imaging Report) 
+Abdomen: KUB 醫令: Abdomen: KUB 報告醫師: 黃昱森 影像時間: 2017/02/18 11:50 (32006C0M) 發報告時間: 2017/02/18 20:18 non-specific bowel gas distribution is noted. spondylosis of the spine. post-operative change at left proximal femur. please clinical correlation. 
+病理報告(Pathology Report) 
+091/03/04 S0204491
+Gallbladder,cholecystectomy,chronic cholecystitis with acute exacerbation cholelithiasis 
+臆斷(Tentative Diagnosis) 
+1. Coronary artery disease, complicated with non-ST elevation acute coronary syndrome, TIMI score 4
+2. Diabetes mellitus for more than 25 years, suspected complicated with diabetic ketoacidosis
+3. Hypertension for more than 45 years
+4. History of cholecystitis, status post laparoscopic cholecystectomy in 2002/02
+5. Knee osteoarthritis, status post left total knee replacement in 2013
+6. History of left femoral fracture, status post operation in 2016 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*
+Assessment:
+  nausea, chest tightness, and cold sweating this morning
+  mildly improved after NTG tablet
+
+  PE: fair consciousness with mild drowsy
+      clear breath sound, regular heart beat
+      soft abdomen without local tenderness
+      no prominent pitting edema of both legs 
+      prominent tophi at both big toes
+
+  1/11 Thallium: ischemic change at mid-to-basal inferolateral wall
+
+  ECG: new T wave inversion at V4-V6
+  Echo: LVEF 40.8%, LVEDD/ESD 41/30, IVSD/LVPWD 11/10
+        TRPG 57.3, MR ++, TR ++~+++, AR +, PAH ++
+        RWMA: LAD territory, anterolateral and apex area
+  Lab: 2/18 8am CK/CKMB/TnT  89/ 9.53/381.5; NT-proBNP 464.1
+            2pm CK/CKMB/TnT 280/27.06/1167
+
+       ABG pH/CO2/HCO3 7.426/29.0/19.3 -> metabolic acidosis
+       sugar 219, BUN/Cre 29.2/0.9, Lipase 89
+
+ => Non-STE ACS over LAD territory
+    metabolic acidosis? DM and symptoms of nausea, r/o DKA?
+
+Plans:
+1.Keep DAPT and heparinization for 48 hours for NSTEMI
+  Beware of bleeding signs
+2.Check sugar, ketone, anion gap for r/o DKA
+  Strict sugar control with insulin or insulin pump  
+
+Treatment Goal:
+1.BT < 37.3
+2.pain < 3/10
+3.CK peaking passed 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左手 右手 
+雙腔導管留置：無  
+鼻胃管留置：無  
+氣管管路留置：無    
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：25
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：自己 
+出院規劃收案篩檢：高危病患 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+林柏志 主治醫師 

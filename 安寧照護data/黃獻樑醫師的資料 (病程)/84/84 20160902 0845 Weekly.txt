@@ -1,0 +1,77 @@
+Brief Summary of this week    
+This week, extubation was performed on 8/30. Mild wheezing and stridor were noted after extubation. Combivent and solu cortef were given. Respiration was smooth then. Oxygen demend was kept at 8L/35%. If clinical condition is generally stationary, he will be transfered to 5CD for further management and evaluation next W1. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+Abx free
+
+extubation on 8/30 afternoon, PES(+), resolved after Tx
+O2 mask 28% 5LPM
+-> SpO2 99-100% on 8/31 → 95-97% on 9/1
+-> weak cough power 
+-> Bedside echo: no pneumothorax, no obvious lung edema,
+                 bil. pleural effusion, L>R
+-> CXR in series showed chronic effusion, no progression
+-> F/u CXR tomorrow
+
+[Previous Abx]
+Mepem (8/1-14) for Ertapenem-R K.p.
+Cravit (7/29-8/4) empirical, discontinue due to no evidecne of atypical pathogen infection
+Tazocin (7/29-8/1)
+
+[Cultures]
+7/30 S/C: CRKP 1+, MRSA 1+
+8/04 Pneumococcus Ag: Negative
+     Urine Legionella Ag(-)
+     Chlamydiae Antigen (-)
+     Aspergillus Ag (-)
+     Cryptococcal Ag (-)
+     PJP PCR (-)
+8/11 Burkholderia cepacia complex 1+
+8/27 Anal- CR Klebsiella pneumoniae 1+
+
+[Studies]
+8/01 Right pleural effusion 520mL, serosaginuous, TP <3.0, LDH 344, glucose 111, RBC 11000, TNC 494, L:N:M+H 48:28:2, eos 22%
+8/02 NECT chest: diffuse bilateral pulmonary ground glass opacities and consolidation; bilateral pleural effusion; status post TAVI and pacemaker placement
+8/05 bed-side echo: minimal to moderate pleural effusion, bilateral; consolidation over parts of bilateral lower lungs; IVC 1.1cm with dynamic collapse
+8/05 Brain perfusion: 
+A. The dynamic flow study: 
+* Mild to moderate hypoperfusion to bilateral cerebral hemisperes. 
+* Increased flow to the paranasal region, which could be secondary to decreased brain perfusion/edema. 
+B. The transaxial,coronal and sagittal images (SPECT) showed: 
+* Symmetric moderate hypoperfusion to bilateral cerebral hemispheres, worst at left temporal and right frontal lobes; mild hypoperfusion to left basal ganglion, and right thalamus; preserved perfusion to right basal ganglion, left thalamus, and upper brainstem.
+8/05 EEG:
+EEG diagnosis: Abnormal EEG; nearly continuous diffuse slow waves at 5-7 Hz, 20-40 uV.  
+EEG description: The EEG was performed when the patient was comatose. There are no alpha-range activities. There are rare scattered beta activities at 15-25 Hz, 5-10 uV in the anterior head areas. The EEG is characterized by nearly continuous diffuse slow waves at 5-7 Hz, 20-40 uV without obvious response to alerting maneuvers. (Hyperventilation is not performed. Photic stimulation elicites no definite photic driving responses.)
+EEG interpertation: This EEG reveals moderate to severe diffuse cortical dysfunction. 
+
+* Abnormal liver function
+T-BIL:1.74 →1.1
+AST/ALT: fluctuated value
+8/18 Bedside-echo: gall stones, no thickened wall; no dilated CBD
+HBsAg:Negative(0.01) IU/mL
+Anti-HBs:Positive(400.91) mIU/mL
+Anti-HBc:Positive *
+Anti-HCV Ab:Negative *
+
+[Consultation]
+8/9 Neurologist:
+EEG showed cortical activity. He may regain consciousness, but whether keeping bed-ridden is not predictable.
+May repeat EEG on 8/12 or later.
+
+[Family decision]
+8/9 病人兒子表示不氣切，希望找個時機拔管，若拔管失敗也不重插
+8/15 Patient's family reconsidered about tracheostomy
+8/18 病人兒子決定先不拔管，將準備外轉至RCW
+8/25 決定拔管，預計8/30
+
+[Intervention]
+nil
+
+Plan 
+1. Post-extubation care
+   Closely observation for few days then transfer to 
+   ordinary ward next W1
+2. Keep symptomatic treatment

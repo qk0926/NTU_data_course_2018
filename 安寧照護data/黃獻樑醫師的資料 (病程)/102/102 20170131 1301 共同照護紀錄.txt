@@ -1,0 +1,13 @@
+<Doctor>
+NSCLC, adenocarcinoma, LUL, cT2aNoM1, stage IV, with bone metastasis, status post Afatinib (2015/10-2016/12),s/p palliative R/T to bone metastases(2016/5-2016/8), disease progression, s/p Cisplatin and Alimta C1D1 on 2017/01/04
+
+poor response to prone position
+Hypoxia improved
+Fever subsided after Mepam
+
+=> weaning if feasible
+<Nurse>
+1.oral ET tube with ventilator use,keep PCV support.
+2.sedation under Fantanyl and Dormicum use.
+3.low grade fever,冰毯使用，感染控制。
+4.鼻胃管存，反抽佳，keep feeding use。

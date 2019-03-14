@@ -1,0 +1,15 @@
+# Hypoxic-ischemic encephalopathy with increased intra-cranial pressure
+# Lactic acidosis, suspect tissue hypoxia related, improved
+
+E1VtM1, no light reflex, no cough reflex
+FiO2= 0.25 PEEP 3
+SBP= 110 no vasopressor
+BW 55.1 stationary
+Poor NG feeding, suspected gastroparesis
+PaCO2 around 30
+ 
+P:
+Mannitol Q6H, monitor I/O
+PaCO2 target 28-33
+Solu-cortef 50mg q12h for adrenal insufficiency
+Thyroid function: pending

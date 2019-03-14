@@ -1,0 +1,48 @@
+1. Disseminated TB, pulmonary and liver involvement
+2. Primary hyperthyrodism, suspected Graves' disease, r/o thyroid storm.
+3. Atrial flutter with variable block, and paroxysmal atrial fibrillation, CHADS2 score 2
+-->
+HR 98 bpm
+Titrate herbesser dose
+Component therapy
+BiPAP off
+
+Nurse:今日行I-131檢查後返室，衛教家屬核醫檢查注意事項(排泄物及體液隔離)；持續抗生素治療，目前無發燒，腹瀉仍存，目前無破皮的情形，保持乾燥；鼻胃管存，使用胃食幫浦設定:88ml/hr(1750卡/天)，攝取完整；呼吸方面使用鼻導管3Lpm，呼吸平順，血氧>95%，N3呂俞臻。
+
+RT:
+BiPAP stand by 
+=>hold night time use
+Now NC 3 /lpm respiratory smoothly
+keep anti TB 
+
+2016/05/24
+PH:7.479 *
+PCO2:38.2 mmHg
+PO2:145.8 mmHg
+HCO3:28.6 mmol/L
+BaseExcess:4.8 mmol/L
+
+Pharmacy: HR control. Beware of DDI between digoxin and diltiazem. Monitor RFT,ototoxicity under amikacin. Infection control.
+
+Dietitian record:
+S:
+Digestion is normal.
+O:
+HT:170 BW:57.8
+5/23 T-bil:21.35 D-bil:16.22 WBC:11.54 AST:58 ALT:78 Ammonia:53
+     BUN:40.1 Cr:1.1 Na:136 K:4.7 ALB:3 T4:4.01 hsCRP:153
+5/24 T-bil:15.41 Na:140 K:4.1 ammonia:44 WBC:11.23
+
+Goal calorie:1400-1700kcal/day
+protein requirement:65g/day
+
+Actual energy intake:1750kcal/day
+Actual protein intake:69g/day
+
+飲食種類 管灌飲食
+5/14      調整配方 1250kcal/day(1.5kcal/cc)
+5/15~5/19 調整配方 1750kcal/day(2kcal/cc)
+5/19~5/21 調整配方 1750kcal/day(1.5kcal/cc)
+5/21~     調整配方 1750kcal/day(1.0kcal/cc) 
+P:
+Keep pressent diet.

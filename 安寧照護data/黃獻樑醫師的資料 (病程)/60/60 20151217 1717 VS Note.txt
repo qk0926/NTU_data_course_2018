@@ -1,0 +1,27 @@
+(1)nasopharyngeal carcinoma, cT3N1M0, stage III, s/p weekly Cisplatin base concurrent chemoradiotherapy (7000cgy/33fx, 2010/1/25-2010/3/12), local recurrent, s/p parapharyngeal tumor excision, oral form Endoxon (2011/3/25-2011/6/2), local recurrent with intra-cranial invasion, status post PF protocol (I, 2012/4/30), CF protocol (III, 2012/5/21-2012/7/3), UFUR (2012/7/20-2012/8/31) with progress disease, s/p phyxol+ cisplatin (V, 2012/9/4-2012/12/18), with disease progression, s/p VinOrelbine+cisplatin (II, 2013/1/10-2013/2/6), Xeloda (2013/3/5-2015/9), s/p ACF (C2D1=2015/12/2)
+(2) Diabetes mellitus, under medical control
+(3) HBV carrier, under Lamivudine. 
+(4) Hypertension, under medical control
+
+R/O CNS infection with sepsis
+Conscious change and fever for 5 days
+Cough with sputum
+2015/12/17 17:15 GCS:E3M4V1
+2015/12/17 16:44 BP:174/101
+High Glucose with ketone (+) in blood 
+2015/12/17 Legionella Urinary Ag:Negative *
+2015/12/17 C-Reactive Protein:22.53 mg/dL
+2015/12/17 Influenza A+B Rapid Screening Test:Negative *
+2015/12/17 K:3.8 mmol/L
+2015/12/17 CRE:1.3 mg/dL
+2015/12/17 D-Dimer:0.37 £gg/mL FEU
+2015/12/17 WBC:7.00 K/£gL
+2015/12/17 Chest : AP View (Supine) (V1)
+cardiomegaly. increased infiltration in the bilateral lung fields. ill-defined opacity in the left lower lung field. bilateral sharp costophrenic angles. degenerative spondylosis at the thoracic spine. 
+
+Plan: 
+1. Non-breathing mask to keep adequate oxygen, intubation if indicated
+2. Brain CT with contrast 
+3. Lumbar puncture after CT scan
+4. Antibiotic treatment 
+5. Inform family the poor prognosis

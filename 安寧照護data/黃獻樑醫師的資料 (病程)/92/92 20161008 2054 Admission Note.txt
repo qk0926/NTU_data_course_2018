@@ -1,0 +1,486 @@
+Admission Note 
+2016/10/08 20:54 
+主訴(Chief Complaint) 
+Informant:family
+Out-of-hospital cardiac arrest with return of spontaneous circulation (ROSC) 
+病史(Brief History) 
+This is a 60-year-old man with:
+1. Coronary artery diseases, left main 80%stenosis and 3 vessel disease
+2. Congestive heart failure , NYHA III(EF:14.8%)
+3. Type 2 diabetes mellitus
+4. Essential hypertension
+
+He had history of frequent hospitalization due to chest tightness induced by ischemic heart disease. The symptom as chest tightness developed over 10 years, but the frequency increased in recent 1 year. Initially, the symtom could be resolved by NTG and rest, but became poor response in the end. According to his latest study, cardiac catheterization on 7/8 revealed CAD, 3VD+LM; LM: distal stenosis 80 %; LAD: proximal stenosis 70 %, middle stenosis 70 %, D1 stenosis 80 %; LCX: diffuse stenosis from middle to distal up to 90%; RCA: proximal stenosis 80 %, middle stenosis 70 %, distal stenosis 70 %, PDA stenosis 80 %. Echocardiography on 2016/9/10 revealed left ventricular systolic function is severely reduced. LVEF: 14.8, LVIDd: 6.8 cm, LVIDs: 6.4 cm were also recorded. Upon MRI on 2016/9/19, severely reduced LV function with LVEF: 16.7%, marked global hypokinesis of LV, and focal subendocardial delayed hyperenhancement at apical inferior wall of LV myocardium were noted. He refused surgery intervention and chose to use medical control initially, but chose to accepted surgery as CABG in the end. The surgery was arranged next week. However, sudden onset of collapse was noted this morming around 09:00 on 2016/10/8. He was sent to other hospital's ER, DC shock X 2(VT ) was carried out. He was then return of spontaneous circulation under dopamine usage. He was then referred to our hospital under his family's request. Therefore, he was admitted to our ward for further management.
+
+
+Family History: Nil
+Medication Allergy:No  病人自述 2016/06/20
+顯影劑過敏 【Skin Rash(皮膚疹)】 本院醫事人員確認 發生日期:2016/9/19
+Gadobutrol (Gadovist 1.0 15 mmol/15 mL /vial 常備藥)  本院醫事人員確認 發生日期:2016/9/19
+No  病人自述 2016/09/12
+Aspirin (Aspirin 100 mg/tab) 【Skin Rash(皮膚疹)】 病人自述 2016/09/02
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  病人自述 2016/09/12
+Current Medication:
+NTUH:Unasyn (based on ampicillin content) 1000 mg/vial 1000 mg STAT IV 1 days
+Unasyn (based on ampicillin content) 1000 mg/vial 1000 mg Q6H IV 2 days
+警 Easydopa Inj 400 mg/250 mL /bag 400 mg QD cIF(CVC) 2 days
+(管4) 1%警 Fresofol 1% MCT/LCT 200 mg/20 mL /amp 400 mg QD cIF 2 days
+PARAMOL 500 mg/tab 1 tab STAT PO 1 days
+Lansoprazole (Takepron OD 30 mg/tab) 1 tab QDAC LZ 27 days
+Magnesium Oxide (MgO 250 mg/tab 限住院藥局用) 2 tab QD PO 27 days
+Tramadol HCl 37.5mg, Acetaminophen 325mg ((管4) Ultracet tab /tab) 1 tab Q12H PO 27 days
+Gliclazide (Diamicron MR 30 mg/tab) 1 tab QD PO 27 days
+Chlorpheniramine Maleate, Lidocaine Hydrochloride, Methyl salicylate (C.B. Strong Oint 5 g/tube) 1 XX AS ORDER D 27 days
+Metoclopramide HCl (Prometin 5 mg/tab) 1 tab BIDAC30 PO 27 days
+Furosemide (Lasix 40 mg/tab) 1 tab BID PO 27 days
+Metformin HCl ((DM) Loditon 500 mg/tab) 1 tab BIDPC PO 27 days
+Nicorandil (Sigmart 5 mg/tab) 1 tab BID PO 27 days
+Other: Nil
+中草藥: Nil
+保健食品: Nil
+Past Medical History: NTG and diuretics
+Hospitalization:入院日期:2016_09_12 出院日期:2016_09_23 診斷:Congestive heart failure
+入院日期:2016_07_07 出院日期:2016_07_11 診斷:Coronary arterial disease
+
+Past Surgical History: Nil
+Travel History: Nil 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:高中
+職業:無
+宗教信仰:佛教
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:B，RH:，輸血反應:沒輸過血
+抽煙:有，煙齡:40年，10支/天
+
+喝酒:沒有，已戒酒:10年
+檳榔:沒有
+物質濫用:沒有
+
+Fall Risk Assessment
+總分:19
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+Review of system
+1. Systemic: weight loss(-), easy-fatigability(-), night sweats(-)
+2. Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3. HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4. Cardiovascular:  exertional chest tightness(+), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5. Respiratory: dyspnea(-), cough(-), chest pain(-), hemoptysis(-), productive cough (-), pleuritic chest pain(-)
+6. Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7. Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8. Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9. Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH: 171.7 cm,  BW: 54.6 kg,
+T: 37.0 °C,  P: 116 bpm,  R: 18 /min,
+BP: 108 / 70 mmHg,
+GCS: E1V1M4(ER)-->E1M1Vt(ward)
+
+‧Head-Eye-ENT 
+grossly normal, conjunctiva: not pale, sclera: anicteric
+Pupil: isocoric, 3mm/ 3mm
+Light reflex: L/R: +/+, EOM: full and free
+‧Neck
+Jugular vein engorgement(-)
+Thyroid goiter(-)
+Meningismus: Kernig sign(-); Brudzinski sign(-)
+Carotid bruit(-)
+‧Chest
+Thoracic cage contour: symmetric
+Vocal fremitus and expansion: symmetric
+Percussion: resonant
+Breathing sound: clear
+Crackles(-) wheezes(-)rhonchi(-) stridor(-)
+‧Heart
+Heart beat: regular, Murmurs(-)
+LV lift(-) RV heave(-)
+Increased cardiac size by percussion(-)
+Adventitious sounds (-)
+‧Abdomen
+Flat & soft
+Superficial vein engorgement(-) Protruded umbilicus(-)
+Bowel sound: Normoactive
+Liver and spleen: impalpable
+‧Extremities
+Pitting edema (-) ; Cyanosis (-); capillary refilling time: >3 sec; 4 limbs: cold and dry 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050913 [0539] 143          
+1050913 [1636] 145          
+1050914 [0520] 90           
+1050915 [0531] 166          
+1050916 [0550] 146          
+1050917 [0525] 122          
+1050918 [0507] 127          
+1050919 [0550] 122          
+1050920 [0540] 109          
+1050921 [0513] 140          
+1050922 [0557] 89           
+1050923 [0503] 126          
+*********檢驗室:OP***********
+
+群組:STOOL
+
+               O.B.         
+time/item      (*)          
+1050912 [1327] 3+           
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050919 [2115] 4.69          4.84          14.6          42.7          88.2         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1050919 [2115] 30.2          34.2          184           14.4          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050919 [2115] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050919 [2115] 59.1          1.9           1.1           13.2          24.7         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050919 [2115] 0.0           0.0           0             -            
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               T-BIL         ALT           UN            CRE           Na           
+time/item      (mg/dL)       (U/L)         (mg/dL)       (mg/dL)       (mmol/L)     
+1050919 [2115] 0.79          18            17.6          0.7           136          
+               K            
+time/item      (mmol/L)     
+1050919 [2115] 4.1          
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1050919 [2115] 122.3        
+*********檢驗室:RL***********
+
+群組:
+
+               Troponin-T    eGFR          CK-MB        
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)      
+                              m^2)                      
+1050914 [2118] 18.68         104.8         1.27         
+群組:Biochemistry
+
+               CRE           Na            K             Ca            Mg           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)      (mmol/L)     
+1050914 [2118] 0.8                                                                  
+1050914 [2154]               127           6.3           2.15          0.95         
+               LacticAcid    CK           
+time/item      (mmol/L)      (U/L)        
+1050914 [2118] 1.96          35           
+1050914 [2154]                            
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1050914 [2118] 37           
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050914 [2118] 7.414         32.0          59.5          20.7          -4.2         
+
+
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1051008 [1344] 286          
+1051008 [1751] 312          
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1051008 [1401] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1051008 [1401] B             Positive     
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1051008 [1330] 7.379         33.6          256.2         20.0          -5.4         
+1051008 [1824] 7.396         22.4          156.2         13.9          -11.2        
+               SO2          
+time/item      (%)          
+1051008 [1330] 99.9         
+1051008 [1824] 99.4         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1051008 [1330] 1.06          14.7          44            3.92          140.3        
+1051008 [1824] 0.94          15.9          48            4.11          139.1        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1051008 [1330] 327           3.9          
+1051008 [1824] 252           5.5          
+
+*********檢驗室:B3***********
+B3-1051008-8095246   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Few PMNs ( <10 /LPF )
+     Gram's(GS)#2:       Many epithelial cells ( >25 /LPF )
+     Gram's(GS)#3:       Gram (+) cocci in chains 3+
+     Gram's(GS)#4:       Gram (+) rods 1+
+     Gram's(GS)#5:       Gram (-) rods,  痰檢體品質不良建議重新送檢 1+
+
+*********檢驗室:RL***********
+
+群組:
+
+               Troponin-T    eGFR          CK-MB        
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)      
+                              m^2)                      
+1051008 [1349] 366.6         65.6          11.26        
+群組:Biochemistry
+
+               CRE           Na            K             Ca            Mg           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)      (mmol/L)     
+1051008 [1349] 1.2           137           3.8           1.89          0.71         
+               LacticAcid    CK           
+time/item      (mmol/L)      (U/L)        
+1051008 [1349] 4.61          180          
+群組:Yes
+
+               NT-pro BNP   
+time/item      (pg/mL)      
+1051008 [1349] 10877        
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1051008 [1349] 12.2          25.9          1.13         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1051008 [1349] 32           
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1051008 [1349] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1051008 [1349] 83.7          0.1           0.1           8.6           7.5          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1051008 [1349] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1051008 [1349] 14.85         4.54          13.4          39.9          87.9         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1051008 [1349] 29.5          33.6          106           14.4          -            
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050910 [1732] 292          
+1050910 [2018] 330          
+1050911 [0407] 142          
+1050911 [1024] 117          
+1050911 [1712] 199          
+1050911 [2109] 283          
+1050912 [0411] 152          
+1050912 [1031] 137          
+1050912 [1703] 152          
+*********檢驗室:RL***********
+
+群組:
+
+               Troponin-T    Glucose(seru  eGFR          CK-MB         Mucus(S)     
+                             m for ED)                                              
+time/item      (ng/L)        (mg/dL)       (mL/min/1.73  (ng/mL)       (*)          
+                                           m^2)                                    
+1050910 [1730] 19.36         307           91.5                                     
+1050910 [1927]                                                         -            
+1050910 [2019] 20.13                                                                
+1050910 [2330] 19.05                                     1.00                       
+1050911 [0407] 21.31                                     1.05                       
+1050911 [1025] 20.23                                                                
+1050911 [1711] 18.32                                     0.924                      
+1050911 [2224] 18.52                                     0.848                      
+1050912 [0412] 17.67                                     0.841                      
+1050912 [1022] 16.95                                     0.916                      
+群組:Yes
+
+               D-Dimer       NT-pro BNP   
+time/item      (μg/mL FEU)   (pg/mL)      
+1050910 [1730] 2.16          14413        
+1050911 [1025]               8046         
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1050910 [1927] 0-2           0-2           0-2           -             -            
+               Bacteria      Others(S)    
+time/item      (*)           (*)          
+1050910 [1927] -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1050910 [1927] 1.014         5.5           70 ( 1+ )     300 ( 3+ )    -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1050910 [1927] 1+            ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1050910 [1927] Yellow        -            
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050910 [1730] 7.469         25.6          67.7          18.8          -5.1         
+群組:Biochemistry
+
+               BUN           CRE           Na            K             T-BIL        
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)      
+1050910 [1730] 33.0          0.9           127           4.7           1.90         
+1050910 [2330]                                                                      
+1050911 [0407]                                                                      
+1050911 [1025]                                                                      
+1050911 [1711]                                                                      
+1050911 [2224]                                                                      
+1050912 [0412]                                                                      
+1050912 [1022]                                                                      
+               Lipase        CK           
+time/item      (U/L)         (U/L)        
+1050910 [1730] 48                         
+1050910 [2330]               24           
+1050911 [0407]               24           
+1050911 [1025]               22           
+1050911 [1711]               21           
+1050911 [2224]               21           
+1050912 [0412]               15           
+1050912 [1022]               19           
+群組:General BioChemistry
+
+               D-BIL         ALT          
+time/item      (mg/dL)       (U/L)        
+1050910 [1730] 0.70          28           
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1050910 [1730] 12.7          31.3          1.18         
+1050910 [2330] 13.4          >200          1.22         
+1050911 [0407] 12.5          44.1          1.14         
+1050911 [1025] 12.7          35.7          1.18         
+1050911 [1711] 11.7          32.4          1.08         
+1050911 [2224] 11.9          33.8          1.10         
+1050912 [0412] 11.9          36.2          1.08         
+1050912 [1022] 11.6          37.5          1.08         
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050910 [1730] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050910 [1730] 71.6          0.6           0.3           7.0           20.5         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050910 [1730] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050910 [1730] 9.98          5.02          15.0          43.9          87.5         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050910 [1730] 29.9          34.2          126           15.6          -            
+
+*********檢驗室:B2***********
+B2-1050910-0074063   BLOOD
+     ID+DS Blood.#1:       No growth after 5 days 
+檢查紀錄(Examination Report) 
+Nil 
+影像報告(Imaging Report) 
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳佾昌 影像時間: 2016/10/08 14:02 (32001CYM) 發報告時間: 2016/10/08 14:58 EXAMINATION: Chest - AP View (Supine).
+FINDINGS:
+Cardiomegaly. Calcification(s) of aorta. Bilateral lung consolidation. Placement of endotracheal tube, nasoenteric tube, central venous catheter(s). Degenerative change of the thoracolumbar spine. Suggest clinical correlation.
+MRI With/Without Contrast--Chest 醫令: MRI With/Without Contrast--Chest 報告醫師: 柯維鈞 影像時間: 2016/09/19 13:59 (33085B2M) 發報告時間: 2016/09/20 17:34 Purpose: 1. Coronary artery diseases, left main 80% stenosis and 3 vessel disease
+2. Congestive heart failure , NYHA Fc III (LVEF:14.8%)
+
+Pulse sequences: ECG-gating TrueFISP cine for LV function, and post-Gd IR-prepped segmented TurboFLASH for myocardial scarring.
+MRI findings:
+1. Dilatation of LA and LV.
+2. Marked global hypokinesis of LV.
+3. Mild-moderate mitral regurgitation.
+4. Focal subendocardial delayed hyperenhancement at apical inferior wall of LV myocardium (SE62 IM1).
+5. LV function: LVEF: 16.7%.
+Abdomen:KUB 醫令: Abdomen:KUB 報告醫師: 陳世杰 影像時間: 2016/09/10 17:36 (32006C0M) 發報告時間: 2016/09/10 22:15 much fecal material is noted in the bowel. mild spondylosis and degenerative changes with marginal spurs are noted, of the L-spine. suggest correlated with clinical manifestation.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 陳世杰 影像時間: 2016/09/10 17:36 (32001CXM) 發報告時間: 2016/09/10 22:27 cardiomegaly is noted, fine interstitial pattern of the bilateral lungs; senile change is compatible. suggest correlated with clinical manifestation. 
+病理報告(Pathology Report) 
+Nil 
+臆斷(Tentative Diagnosis) 
+1. Out-of-hospital cardiac arrest with return of spontaneous circulation (ROSC)
+2. Coronary artery diseases, left main 80% stenosis and 3 vessel disease
+3. Congestive heart failure , NYHA III(EF:14.8%)
+4. Type 2 diabetes mellitus
+5. Essential hypertension 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*1. Out-of-hospital cardiac arrest with return of spontaneous circulation (ROSC)
+2. Coronary artery diseases, left main 80% stenosis and 3 vessel disease
+
+
+Treatment Goal: 1. Arrange surgery if suitable  2. Hypothermia therapy 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左手 右手 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有   7.5mm 
+胃造廔口：無  
+尿管留置：有  10Fr. 
+膀胱造廔： 
+傷口引流管：
+其他導管：右頸中心靜脈導管,右臂動脈導管
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：自己 
+出院規劃收案篩檢：高危病患 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+周迺寬 主治醫師 
+ 

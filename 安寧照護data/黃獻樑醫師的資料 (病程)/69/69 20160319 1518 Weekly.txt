@@ -1,0 +1,146 @@
+60 year old man
+
+<Current diagnosis>
+1. Community acquired pneumonia (3/3: Influenza virus type A RNA PCR: positive) with acute hypoxic respiratory failure and septic shock, status post ETT+MV (2016/3/3-), complicated with acute respiratory distress syndrome(ARDS), status post V-V ECMO (2016/3/7-).
+2. Suspected lower GI bleeding (2016/3/19)
+3. Pseudomonas aeruginosa bacteremia (2016/3/17)
+4. Rhambdomyolysis (2016/3/17), cause unspecified, r/o hypophosphatemia related.
+5. Hypophosphatemia (2016/3/17)
+6. MDRAB bacteremia (2016/3/13)
+7. Hypernatremia with polyuria, suspected sepsis or ECMO related, improved.
+8. Thrombocytopenia, suspect ECMO related, r/o heparin 
+   induced
+9. Hyperbilirubinemia, cause unspecified
+
+<Treatment course>
+    After admission, we kept ECMO and ventilation support. Becaue poor digestion, we switched Tamiflu to Rapiacta use since 3/8. On 3/9, solu-medrol was prescribed. Besides, lasix was also given to keep I/O balance to mild negative. On 3/11, we tapered ventilator FiO2 from 80% to 70%. Sputum culture growed MDRAB (few) and SM (few), and we decided to keep OBS and repeated sputum culture. On 3/12, severe hypernatremia (Na: 161) with polyuria was noted. Urine osmolality was checked and we switched Anxicame to Dromicum use.
+    On 3/13, blood culture growed NFGNB x3, thus antibiotic was switched from Tazocin to Colistin and Tienam. On 3/14, severe thrombocytopenia (PLT: 10K) was noted, and blood trnasfusion with PLT 12U was prescribed. Besiedes, progressive hyperbilirubinemia was also found, and we consulted the GI specialist. Due to NFGNB bacteremia, we tapered Solu-medrol to 20mg Q8H. On 3/15, we tried to taper down the Nimbex dosage to enhance the cough function. However, upon decrease the Nimbex to 1ml/hr, severe dyspnea with paradoxical breathing and hypotension was noted, even we increased the Dormicum dosage to 6mg/hr. For better sedation, we discussed with the patient's fmaily about cash Precedex use and they finally agreed. For severe hypotension, N/S hydration was given. The blood culture finally growed MDRAB. After discussing with the ID specialist, we increased Colistin dosage and discontinued Tienam. Due to poor digestion, primperan, Mosapride, and cash Erythromycin were prescribed. On 3/16, ECMO circuit was changed for progressive thrombocytopenia. The patient's shock improved gradually, and we tapered off Levophed in the afternoon. ID specialist was consulted, and empirical Diflucan was added to cover fungal infection. On 3/16 night, prodound shock developed, and N/S hydration about 2500ml was prescribed. The patient's oxygenation deteriorated and the SpO2 dropped to 80% under ventilator FiO2 100% and ECMO FiO2 100% support. Due to persistent hypotension, pitressin and Bosmin was added. iCON showed septic shock with low SVRI, however polyuria with lots amount of urine output was noted. Becauase progressive hyperbilirubinemia, we switched Diflucan to Anidulafungin on 3/17. On 3/18, potassium phosphate supplement was prescribed because hypophosphatemia was found. The patient's shock improved gradually, and we tapered off pitresin and Epinephrine use. On 3/19, bloody stool was noted, and component therapy with PLT 12U and FFP 3U were prescribed. The blood culture on 3/17 finally growed Pseudomonas aeruginosa x3 sets.
+
+<Assessment>
+[Antibiotic]
+Anidulafungin 3/17~           under broadspectrum anti, 
+                              cover fundal infection
+Mepem    3/17~                for profound shock
+Colistin 3/13~                cover MDRAB, fever under 
+                              Tazocin
+Targocid 3/16~                Empirical for new fever
+Rapiacta 3/08~                Influenza A, poor digestion
+=========================================================
+Diflucan 3/16~3/17            Empirical for new fever, DC 
+                              due to hyperbilirubinemia
+Tienem   3/13~3/15            combined with Colistin
+Tazocin  3/2-3/13             Severe PNA
+Tamiflu	3/3-3/7(³Õ¤¯) 3/7-3/8  high dose	for Influenza A
+Cravit	3/2-3/7               Cover atypical pathogen
+
+V-V ECMO since 3/7 
+(current Blood flow: 4.1, pump ~3000rpm)
+(current Gas flow: 8.0L/min)
+(current FiO2 100%)
+
+[PE]
+E4M3VT, under sedation, spontaneous eye open sometimes
+bilateral crackles, mild wheeze
+soft and flat abdomen
+no limbs pitting edema
+Bloody stool was noted on 3/19 afternoon (total 110ml)
+
+[Nutrition]
+NPO due to profound shock
+T5 1600ml/day
+
+[Ventilation]
+PCV FiO2 80%, IP 14, PEEP 14
+-->TV 120-160, MV 4-5, SpO2 91-96%, RR 22
+
+[RRT]
+nil
+
+[Inotrope/vasopressor]
+Levophed (16mg in 250ml), run 3ml/hr
+Bosmin (6mg in 100), off
+Pitressin (60U in 100), off 
+
+[Sedation]
+Fentanyl 10ml/hr
+Dormicum 5ml/hr
+Nimbex 3ml/hr
+
+<Important lab data>
+3/10 hsCRP 16.12  ->decreasing
+     Procalcitonin 1.150  
+     LacticAcid 3.09  ->decreasing
+3/11 Mixing PT 11.4(imm.)/12.2(1hr) 
+  -->no colagulation factor deficiency or auto antibody 
+3/14 Direct Coombs test: postitive (3)
+     haptoglobulin: <30
+     Procalcitonin: 1.157
+     24 hours urine osmolality: 707(24 hours U/O:3400ml)
+     => daily urine Osm=2403.8mOsm => osmotic diuresis
+3/17 Cortisol DL 21.1  ACTH 484  
+     Procalcitonin 5.902  
+
+<Culture>
+3/7	
+AL: no growth
+CVC: no growth
+S/C: 1. Acinetobacter baumannii few (MDRAB) 
+     2. Stenotrophomonas maltophilia (few)  	
+U/C: Acinetobacter baumannii 4000 (MDRAB)
+3/8			
+  Mycoplasma pneumoniae IgM: neg    
+  Chlamydiae Antigen: neg
+  Legionella Ag (Urine): neg  
+3/11 Influenza virus type A RNA PCR: Positive  
+3/13
+  AL: MDRAB (TTP: 9.40 hrs)
+  CVC: MDRAB (TTP: 12.10 hrs)
+  CVC(fungus): MDRAB (TTP: 8.90 hrs)
+  U/C: MDRAB
+       CRK.P
+3/16 S/C: Acinetobacter baumannii 3+ (MDRAB) 
+          Pseudomonas aeruginosa 2+ 
+3/17
+  CVC: Pseudomonas aeruginosa (TTP: 17 hrs)
+  AL: Pseudomonas aeruginosa (TTP: 18.70 hrs)
+  CVC(F): Pseudomonas aeruginosa (TTP: 19.20 hrs)
+
+[Newly intervention and Medication]
+3/07 Start V-V ECMO support
+3/08 Switch Tamiflu to Rapiacta
+3/09 Add Solu-medrol 40mg Q8H, add furosemide
+3/10 hold furosemide due to adequate U/O
+     add Nexium due to stool OB:3+ 
+3/13 add Colistin, Tienem
+     taper Solumedral to 20mg Q8H
+3/16 add Targocid+Diflucan, DC Tienem
+     change ECMO circuit
+     taper Solumedral to 10mg Q8H
+3/17 add Solu cortef 50mg Q6H for relative adrenal 
+     insufficiency
+3/18 Switch D10W to Taita No.5. Give potassium phosphate 
+     for hypophosphatemia.
+3/19 Bloody stool -> Give FFP 3U, transamine
+
+[Image]
+3/13 bedside abd. echo
+     no obvious IHD or CBD dilatation
+     distended GB, no stone was noted
+
+[Consultation] Nil
+[Important patient's and family's decision] Nil
+
+<Plan>
+1. Keep mechanical ventilation and weaning from V-V ECMO.
+2. Prolong Rapiacta since 3/8 (due to 3/11 flu PCR +)
+3. Keep Colistin+Targocid+Mepem+Anidulafungin and pursue 
+   culture result. 
+4. Keep Fetanyl, Dormicum, and Nimbex for sedation for 
+   ECMO use.
+5. Keep Solu-cortef 50mg Q6H for profound shock and 
+   relative adrenal insufficiency
+6. Keep Taita No.5 for hypokalemia and hypophosphatemia. 
+7. Closely monitor thrombocytopenia and component therapy
+8. Give transamine and FFP supplement for bloody stool
+9. Inform the poor prognosis due to hepatic failure and 
+   high O2 demand

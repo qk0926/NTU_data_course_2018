@@ -1,0 +1,60 @@
+A 87 y/o female with
+[Diagnosis]
+1. Basilar artery and bilateral posterior cerebral artery occlusion, day 1 = 2016/02/08
+2. Atrial fibrillation
+3. Old pulmonary tuberculosis, status post treatment
+4. Pneumonia, under Unasyn s(2016/02/26-2/28)
+
+[Brief History]
+  The 87-year-old female was sent to our hospital by the witness. She was sent to our hospital at 2016/2/8 10:35AM by the witness when sudden collpase and conscoius change were noted. The initial NIHSS was 35 (E1M3V1, pupils rapidly progressed from 3mm/2mm to 6mm/5.5mm, LR-/-, corneal-/-, OCR-/-). The emergent brain CT showed no ICH. Further CT perfusion revealed BA to bilateral PCA occlusion with posterior infarct. Endotracheal tube was inserted for airway protection, and the patient was soon admitted to the stroke ICU for further management.
+
+[Treatment Course]
+  Brain CT follow-up on 2/9 showed recent infarct at midbrain to thalami, and left temporo-occipital lobe; no ICH was noted. Aspirin was added for stroke prevention. Do Not Resuscitate consent was signed. No improvement could be noted in neurological examination. Weaning was tried, but tracheostomy instead of extubation was suggested by pulmonary specialist due to her underlying condition.
+  We arranged family meeting on 2/24. After thorough explanation and discussion, the family decided not to receive tracheostomy, and preferred endotracheal tube withdrawal under the palliative policy for end-of-life patient. We consulted hospice team for combined care. On 2/26, fever was noted, and pneumonia was suspected. Unasyn was administered. 
+  Endotracheal tube was removed on 2/28 10AM. Morphine pump is used for respiratory distress. Aspirin was held due to hematuria. We kept palliative care.
+
+[NE]
+NIHSS=34+X (3222334444003X0)
+Consciousness: comatose, E1M1V1
+CN II 
+-VF: no response to threatening test   
+- Pupil size: R/L(3/3mm)   
+- Light reflex: R/L(-/-)
+CN III, IV, VI  fixed eye, no eye movement; OCR-/-
+CN V Nasal stimumi (+) Corneal reflex: R/L(-/-)
+CN VII  suspect facial diplegia
+CN IX, X  cough(+)
+CN XII  tongue deviation: unable to perform
+
+Motor Inspection: Muscle wasting(-), fasciculation(-); 
+Muscle tone: spasticity (+, bilateral lower limbs), rigidity (-)
+M3 posture while stimulation
+Muscle power (to pain)
+ Right: upper proximal: 0-1, upper distal: 1-2, lower proximal: 2, lower distal: 1-2
+ Left: upper proximal: 0-1, upper distal: 0-1, lower proximal: 2, lower distal: 1-2
+
+DTR¡GLower limbs could not be elicited due to severe spasticity
+  Right: biceps: ++, triceps: ++, brachioradialis: ++,
+  Left: biceps: ++, triceps: ++, brachioradialis: ++, 
+Babinski sign: +/+
+Sensation modality: bilateral poor response to local pain stimulation
+FNF, HKS: Unable to perform
+
+[Assessment]
+2/08 Conc. disturbance, s/p ETT
+2/08 Brain CTA/CTP: BA to bilateral PCA occlusion with posterior infarct
+2/09 Brain CT: stationary. no ICH.
+2/23 K 5.6, BUN/Cre 30.6/1.1, AST 51
+2/26 Fever, suspect pneumonia; add Unasyn
+2/28 Extubation; hold aspirin for hematuria
+
+{Stroke risk factors}
+EKG: Afib
+Lipid profile: WNL 
+HbA1C: 5.5 
+HTN
+
+[Plan]
+DNR(¥þ©Ú¤£®ð¤Á)
+1. Keep Combined care with the hospice team. Sputum suction routine suggested by the families.
+2. Keep palliative care. Morphine use for respiratory distress. Consider add Dormicum if sedation needed.

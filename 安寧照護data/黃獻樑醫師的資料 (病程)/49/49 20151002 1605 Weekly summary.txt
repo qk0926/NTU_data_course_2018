@@ -1,0 +1,38 @@
+[Diagnosis]
+1. Gastric antrum tumor, complicated with bile duct, right ureter obstruction, and suspected peritoneal carcinomatosis s/p failed ERCP on 2015/10/01, s/p PTCD on 2015/10/02
+2. Macrocytic anemia
+3. Hand crush injury, left wrist, status post operation
+
+[Treatment course]
+  After admission, we initiated parenteral nutrition due to poor intake. Intraductal sonography(IDUS), ERCP, ERBD and biopsy was arranged on 2015/10/01 for tissue proof and bile drainage. Orthopedic doctor was also consulted for change dressing of left wrist crush injury wound. However, one 1.5cm polypoid leison was noted at anastomosis site s/p biopsy. Only orifice of anturm to pylorus can be seen but scope can't pass through it. We arranged PTCD for obstructive jaundice first then consider antegrade brushing/CBD biopsy or try to dilate antrum on 10/2. Urologist was consulted for right hydronephrosis. PRBC 1U was transfused for anemia(Hb:7.8). We will check folic acid and Vit B12 level. 
+
+[Assessment]
+GCS E4V5M6, ECOG 1
+Head: mild pale conjunctivae, icteric sclerae
+Chest: bilateral clear brething sound
+Abdomen: soft, normoactive bowel sound, no tenderness
+Limbs: edema(-)
+
+<Important Study Findings>
+09/28 CT Gastric antrum wall swelling with bile duct, right ureter, and peritoneal involvement
+09/30 CEA(4.29), CA-199
+
+<Important Intervention and Newly Added medication>
+10/01 ERCP, IDUS, ERBD, biopsy: Failed due to previous gastrojejunosotmy and only orifice of anturm to pylorus can be seen but scope can't pass through it.
+10/02 PTCD
+
+<Important consultation>
+10/02 Urologist for Right hydronephrosis
+
+<Important family's decision>
+
+[Plan]
+1. For gastric antrum tumor, with bile duct, right ureter obstruction.
+   => Monitor PTCD color and amount
+   => Pursue CA199 result
+   => Consult Uro for DBJ for right hydronephrosis
+   => Repeat EGD with digging biopsy or biopsy after bougination
+
+2. For macrocytic anemia
+   => Blood transfusion as necessary
+   => Check Folic acid, Vit B12

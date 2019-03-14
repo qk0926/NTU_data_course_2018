@@ -1,0 +1,375 @@
+2016/01/07 22:53 
+主訴(Chief Complaint) 
+Informant:his family
+consciousness change was found at 1pm on 1/7 
+病史(Brief History) 
+This 82-year-old male has history of 
+1. Aspiration pneumonia with hypercapnic respiratory failure, status post tracheostomy(8/18)
+suspected obstructing airway granulation tissue 2015/12/16
+2. Amyotrophic lateral sclerosis(ALS)
+3. Bilateral jugular vein thrombosis, etiology to be determined
+   He received tracheostomy on Aug 2015 due to underlying ALS with frequent hypercapnic respiratory failure. Do Not Resucitate permit was signed last year. He was ADL/iADL totally dependent and was ventilator-dependent.
+   This time, he was found change without respiratory movement at around 1pm on 1/8 while lying on the bed. He was sent to our ER and PEA was found by EMT. Sternal compressure was given for total 26 minutes with ROSC. Brain and chest CT revealed effacement of cerebral gray/white matter junction. Right face, arm, and bilateral legs intermittent twitching were noted. Hypoxic-ischemic encephalopathy with myoclonus or epilepsy was suspected. Empirical Tazocin was given for fever and suspect recurrent aspiration pneumonia. EEG will be arranged on 1/8. He was admitted to stroke ICU for further management. 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:小學
+職業:其他
+宗教信仰:無
+婚姻狀態:已婚
+使用語言:台語 
+口述血型:O，RH:不清楚，輸血反應:無
+抽煙:沒有，已戒煙:1年
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:昏迷
+認知功能:無法評估 
+精神情緒狀態:無法評估  
+安全問題:有 其他 fall
+睡眠形態:異常 其他 意識不清
+
+Nutritional Screen
+攝食情形:
+排便狀態:正常
+BMI:13.01
+
+Fall Risk Assessment
+總分:10
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-), fever(-)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular:  exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(-), cough(-), chest pain(-), hemoptysis(-), productive cough (-), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) , constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-),oliguria(-) hesitancy(-), small stream of urine(-), nocturia(-), polyuria(-),
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-), unstable gait(-) 
+身體檢查(Physical Examination) 
+BH:170 cm   BW:37.6 kg
+T:37.3 P:91 R:26
+BP:125/57 mmHg
+Pain:0
+
+E4(without eye contact)M1Vt
+Ventilator: PC/AC mode,FiO2 80%
+off Levophed iv pump
+brainstem reflex: light reflex-/-, corneal reflex -/-, gag reflex -/-, cough reflex trace, OCR -/-
+MP: 0 to pain generally
+DTR: + generally
+Babinski sign -/- 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:B3***********
+B3-1041216-6045048   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       Many PMNs ( >25 /LPF )
+     Gram's(GS)#2:       Few epithelial cells ( < 10 /LPF )
+     Gram's(GS)#3:       Gram (-) rods,  (Intracellular) 3+
+     ID+DS Sputum Culture #1:       Pseudomonas aeruginosa 2+
+
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               Alb           AST           ALT           UN            CRE          
+time/item      (g/dL)        (U/L)         (U/L)         (mg/dL)       (mg/dL)      
+1041216 [1204] 3.2           22            22            20.0          0.5          
+1041221 [0629]                             17            14.5                       
+1041221 [0947]                                                                      
+               UA            Na            K             Ca            Mg           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)      (mmol/L)     
+1041216 [1204]               135           4.7           2.12          0.94         
+1041221 [0629] 5.4           135           3.8                                      
+1041221 [0947]                                                                      
+               CRP          
+time/item      (mg/dL)      
+1041216 [1204] 6.20         
+1041221 [0629]              
+1041221 [0947] 3.06         
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041216 [1204] 10.61         2.91          8.6           27.6          94.8         
+1041221 [0629] 8.05          2.96          8.6           27.8          93.9         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1041216 [1204] 29.6          31.2          583           14.9          -            
+1041221 [0629] 29.1          30.9          556           14.9          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041216 [1204] 0.0           0.0           2.9           0.0           1.0          
+1041221 [0629] 0.0           0.0           0.9           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041216 [1204] 82.7          1.9           0.0           4.8           6.7          
+1041221 [0629] 86.7          3.8           0.0           1.9           6.7          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041216 [1204] 0.0           0.0           0.0           -            
+1041221 [0629] 0.0           0.0           0.0           -            
+*********檢驗室:SB***********
+
+群組:Yes
+
+               RA Factor (N 
+               ephelometry)               
+time/item      (IU/mL)      
+1041221 [0629] <9.19        
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               Ammonia N     LacticAcid   
+time/item      (μmol/L)      (mmol/L)     
+1041216 [1206] 30            1.32         
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1041216 [1204] 7.463         30.6          141.5         22.2          -1.9         
+*********檢驗室:CT***********
+
+群組:PT
+
+               PT            PT INR       
+time/item      (sec)         ()           
+1041216 [1204] 10.2          0.96         
+群組:PTT
+
+               PTT          
+time/item      (sec)        
+1041216 [1204] 29.0         
+*********檢驗室:OP***********
+
+群組:SEDIMENT
+
+               RBC (S)       WBC (S)       Epith (S)     Cast (S)      Crystal (S)  
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1041216 [1304] 0-2           2-5           0-2           -             -            
+               Bacteria      Mucus(S)      Others (S)   
+time/item      (*)           (*)           (*)          
+1041216 [1304] -             -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH            Protein(C)    Glu.(C)       Ketone body  
+                                                                    (U)          
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1041216 [1304] 1.013         6.5           -             -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+                                                                     (U)         
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1041216 [1304] -             ≦1.5          -             -             +/-          
+               Color         Turbidity    
+time/item      (*)           (*)          
+1041216 [1304] Yellow        -            
+群組:STOOL
+
+               O.B.         
+time/item      (*)          
+1041217 [0928] -            
+
+*********檢驗室:B2***********
+B2-1041216-6044238   BLOOD
+     ID+DS Blood.#1:       No growth after 5 days
+B2-1041216-6044461   BLOOD
+     ID+DS Blood.#1:       No growth after 5 days
+
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1041221 [0629] O             Positive     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1041221 [0629] Negative     
+
+
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1050107 [1435] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1050107 [1435] O             Positive     
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050107 [1416] 282          
+*********檢驗室:YM***********
+
+群組:
+
+               Free Ca(急重症自  K+(急重症自行檢驗)   Na(急重症自行檢驗)   Suger(急重症自行檢  LacticAcid(急 
+               行檢驗)                                      驗)            重症自行檢驗)      
+time/item      (mmol/L)      (mmol/L)      (mmol/L)      (mg/dL)       (mmol/L)     
+1050107 [1403] 1.33          4.59          137.6         295           12.1         
+1050107 [1432] 1.19          4.71          134.2         320           13.0         
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050107 [1403] 6.975         83.9          23.0          19.7          -12.2        
+1050107 [1432] 7.248         29.6          187.9         13.0          -14.5        
+               SO2          
+time/item      (%)          
+1050107 [1403] 18.6         
+1050107 [1432] 99.5         
+*********檢驗室:RL***********
+
+群組:
+
+               CK-MB        
+time/item      (ng/mL)      
+1050107 [1414] 4.82         
+群組:Biochemistry
+
+               CRE           Na            K             Ammonia N     Ca           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)      (mmol/L)     
+1050107 [1414] 0.8           133           4.6           70            2.38         
+               LacticAcid    CK           
+time/item      (mmol/L)      (U/L)        
+1050107 [1414] 13.04         84           
+群組:Yes
+
+               pro-BNP      
+time/item      (pg/mL)      
+1050107 [1414] 264.2        
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1050107 [1416] 10.7          43.8          1.01         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1050107 [1414] 22           
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050107 [1414] 0.0           0.0           13.0          3.0           8.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050107 [1414] 36.0          0.0           1.0           1.0           38.0         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050107 [1414] 0.0           0.0           6.0 /100 WBC  WBC 100                    
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050107 [1414] 12.94         3.20          9.4           31.2          97.5         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050107 [1414] 29.4          30.1          389           14.6          -            
+群組:STAIN
+
+               Gram's(GS)#1  Gram's(GS)#2  Gram's(GS)#3  Gram's(GS)#4                                                         
+time/item      (*)           (*)           (*)           (*)          
+1050107 [1506] Many PMNs(>=  Few epitheli  G(+)cocci 2+  G(-)Bacilli  
+               25/LPF)       al cells(<10                              2+           
+                             /LPF) 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+CT Without Contrast-Brain 醫令: CT Without Contrast-Brain 報告醫師: 陳育青 影像時間: 2016/01/07 17:51 (33070B0M) 發報告時間: 2016/01/07 18:27 History: OHCA
+
+Brain CT without contrast enhancement shows
+1. No definite acute intracranial hemorrhage.
+2. No definite abnormal density change in the brain.
+3. Dilated sulci, fissures and ventricles.
+4. Bilateral chronic mastoiditis. 
+
+Chest CT without contrast enhancement shows
+1. Placement of a feeding tube with tip in the duodenum. 
+2. Placement of a tracheostomy tube, a right central venous line. 
+3. Fibrosis, patchy consolidation and subsegmental atelectasis at bilateral lungs dependent regions. 
+4. Nonspecific tiny nodules and bulla in bilateral lungs. 
+5. No pleural effusion. 
+6. Gallbladder stones. 
+7. compression fracture at T7. Kyphosis of thoracic spine.
+CT Without Contrast-Chest 醫令: CT Without Contrast-Chest 報告醫師: 陳育青 影像時間: 2016/01/07 17:51 (33070B2M) 發報告時間: 2016/01/07 18:27 History: OHCA
+
+Brain CT without contrast enhancement shows
+1. No definite acute intracranial hemorrhage.
+2. No definite abnormal density change in the brain.
+3. Dilated sulci, fissures and ventricles.
+4. Bilateral chronic mastoiditis. 
+
+Chest CT without contrast enhancement shows
+1. Placement of a feeding tube with tip in the duodenum. 
+2. Placement of a tracheostomy tube, a right central venous line. 
+3. Fibrosis, patchy consolidation and subsegmental atelectasis at bilateral lungs dependent regions. 
+4. Nonspecific tiny nodules and bulla in bilateral lungs. 
+5. No pleural effusion. 
+6. Gallbladder stones. 
+7. compression fracture at T7. Kyphosis of thoracic spine.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳佾昌 影像時間: 2016/01/07 15:48 (32001CYM) 發報告時間: 2016/01/07 16:12 Chart No: 6174399
+Accession No: T0169404752
+EXAMINATION: Chest - AP View (Supine).
+FINDINGS:
+Normal heart size. Calcification(s) of aorta. Bilateral lung consolidation. Degenerative change of the thoracolumbar spine. Kgv=suggest clinical correlation.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳佾昌 影像時間: 2016/01/07 14:34 (32001CYM) 發報告時間: 2016/01/07 14:49 Chart No: 6174399
+Accession No: T0169403600
+EXAMINATION: Chest - AP View (Supine).
+FINDINGS:
+Normal heart size. Tortuous aorta with calcification. Bilateral lung consolidation. Degenerative change of the thoracolumbar spine. Placement of tracheostomy tube, nasoenteric tube. Suggest clinical correlation.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 施怡倫 影像時間: 2015/12/21 17:26 (32001CYM) 發報告時間: 2015/12/22 09:42 EXAMINATION: Chest : AP View (Supine)
+FINDINGS:
+Placement of a tracheostomy tube and a NG tube. Normal heart size. Patchy opacities over bilateral lungs. 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1. Out of hospital cardiac arrest, pulseless electrical activity, day 1 = 2016/1/7
+2. Motor neuron disease
+3. Gastric ulcer scar
+4. Respiratory failure, with long-term ventilator use 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+Treatment Goal:
+1. Keep Depakine
+2. f/u EEG on 1/8
+3. Keep Tazocin
+4. f/u lab on 1/8 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：無  
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 其他氣管管路 bivona 7.5mm 
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：左手20號軟針、右頸cvc
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：外勞 
+出院規劃收案篩檢：高危病患 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+湯頌君 主治醫師 

@@ -1,0 +1,17 @@
+# Follicular c DLBCL, CR3 s/p auto-PBSCT, CR
+# Therapy related MDS, RAEB-2 s/p haplo-SCT, CR
+# Encephalitis, cause? 
+
+- Headache seemingly less after plasmapheresis
+-> Give additional IVIG for immunmodulation (indication: virus induced life threatening organ damage)
+1 g/kg/d x 2 days
+
+-> Do brain nucleolide isotope functional scan to see if really encephalitis (due to only CSF protein 68, but negative for all other CSF exam and MRI. Thus encephalitis evidence is not fully adequate currently)
+- CDC, virus lab and pediatric CSF virus PCR all negative.
+
+- Taper FK-506 level a little due to FK-506 level 20 too high (too high FK-506 level also could cause headache)
+
+- Vomiting no more (due to headache symptom less or due to NPO?)
+- PES Bx: no aGVHD. Thus vomiting is less likely aGVHD
+
+- F/U CSF study next W2 to see if CSF protein lower (CSF protein 68 also not so high)

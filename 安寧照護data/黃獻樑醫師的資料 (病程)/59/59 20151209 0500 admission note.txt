@@ -1,0 +1,260 @@
+2015/12/09 05:00 
+主訴(Chief Complaint) 
+Informant:family
+Epigastralgia, vomiting and diarrhea for few hours 
+病史(Brief History) 
+This 79-year-old woman without any systemic disease suffered from abdominal pain accompanied with vomiting and diarrhea after dinner since 12/8 night. Abdminal pain over epigastric area without peritoneal sign or radiation to back. Vomiting with cld sweating and chillness were noted. The vomitus were food debris. Diarrhea was noted and mainly loose stool, no melena or bloody stool were noted. Mild non-productive cough was noted recently. No fever or others discomfort were noted. Then she visited NTUH ED for help. Undetectable blood pressure and hypothermia were noted at triage. Arterial blood gas at ED showed metabolic acidosis. Blood test revealed hyperlactemia(7.57), leukocytosis(10k) and mild elevated Troponin I. C+A+P CT revealed right renal cyst, bilateral basal lung inflammation and mild gall bladder wall thickening with peripheral fluid accumulation. Cardioogist was consulted at ED to rule out acute coronary syndrome, myocardial injury secondary to septic shock was favored by coardiologist. Consciousness change and dyspnea developed while received treatment at ED. Intubation was done and she was admitted to ICU for further evaluation and management.
+
+Family History: no cancer history,no family history of hypertension, Diabetes mellitus
+Medication Allergy:No  病人自述 2010/03/08
+Medication ADR:unknown
+Allergy to Medical Device and Materials:unknown
+Current Medication:
+NTUH:(管4) 針 Tramal Inj 100 mg/2 mL /amp 100 mg STAT IF 1 days
+Primperan Inj 10 mg/2 mL /amp 10 mg STAT IV 1 days
+警 Levophed 4 mg/4 mL /amp 8 mg QD cIF 2 days
+Flumarin 1000 mg/vial 1000 mg Q8H IV 2 days
+Flumarin 1000 mg/vial 1000 mg STAT IV 1 days
+Aspirin 100 mg/tab 3 tab STAT PO 1 days
+Brilinta 90 mg/tab 2 tab STAT PO 1 days
+警 Heparin (with preservative) 25000 U/5 mL /vial 4000 U STAT IV 1 days
+警 Dopamine HCl, Baxter 400 mg/250 mL /bag 400 mg QD cIF 2 days
+警 Heparin (with preservative) 25000 U/5 mL /vial 15000 U QD cIF 2 days
+Invanz 1000 mg/vial 1000 mg QD IF 2 days
+Invanz 1000 mg/vial 1000 mg STAT IF 1 days
+瓶 Rolikan 7% 250 mL/btl 1 btl STAT IF 1 days
+警 Adrenaline 1 mg/1 mL /amp 10 mg QD cIF(CVC) 2 days
+CELEBREX 200 mg/cap 1 cap QD PO 28 days
+Viartril-S 250 mg/cap 1 cap TID PO 84 days
+SOLAXIN 200 mg/tab 1 tab BID PO 28 days
+Other:
+中草藥:denied
+保健食品:denied
+Past Medical History:denied
+Hospitalization:denied
+Past Surgical History:denied
+Travel History: denied
+Occupation: retired
+Contact/cluster history: denied 
+社會心理相關評估(Psychosocial Assessment) 
+Fall Risk Assessment
+總分:14
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑)
+
+Psychological History and Evaluation
+意識狀態:嗜睡
+認知功能:無法評估 
+精神情緒狀態:異常 躁動 
+安全問題:有 其他 防跌，自拔管
+睡眠形態:異常 淺、易醒 
+
+Nutritional Screen
+攝食情形:佳，攝食75%
+排便狀態:正常
+BMI:23.91
+
+Fall Risk Assessment
+總分:14
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular:  exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(-), non-productive cough(+), chest pain(-), hemoptysis(-), productive cough (-), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(-), vomiting(+), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(+), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH:150 cm   BW:53.8 kg
+T:34.7 P:119 R:23
+BP:153/111 mmHg
+Pain:0
+
+Neurological Examination:
+. Consciousness: E4M6Ve
+. Muscle power:N/A
+. Gait:N/A
+
+‧Head-Eye-ENT 
+        grossly normal, conjunctiva: pink, sclera: anicteric
+        Pupil: isocoric,  3mm/ 3mm
+        Light reflex: L/R: +/+, EOM: full and free
+‧Neck
+	Jugular vein engorgement(-)
+	Thyroid goiter(-)
+	Meningismus: Kernig sign(-); Brudzinski sign(-)
+        Carotid bruit(-)
+‧Chest
+	Thoracic cage contour: symmetric
+	Vocal fremitus and expansion: symmetric
+	Percussion: resonant
+        Breathing sound: coarse
+	Crackles(+) wheezes(-)rhonchi(-) stridor(-)
+‧Heart
+	Heart beat: regular  Murmurs(-)
+        LV lift(-) RV heave(-)
+	Increased cardiac size by percussion(-)
+	Adventitious sounds (-)
+‧Abdomen
+        Flat & soft
+	Superficial vein engorgement(-) Protruded umbilicus(-)
+	Bowel sound: Normoactive
+	Tenderness(+)epigastralgia Hepato-jugular reflux(-)
+	Liver and spleen: impalpable
+‧Extremities
+        Freely movable, pulses symmetric and intact, pitting edema(-)	
+‧Back
+        Knocking pain(-)
+‧Skin
+	Abnormal pigmentation(-)
+	Petechiae(-) Purpura(-) Ecchymoses(-) Telangiectasia(-)
+	Rash(-) Plaque(-)
+‧Lymphadenopathy(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:YM***********
+
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1041209 [0008] 1.09          12.0          36            3.16          133.4        
+1041209 [0155] 1.12                                      3.72                       
+1041209 [0316] 1.18                                      3.94                       
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1041209 [0008] 242           6.9          
+1041209 [0155] 233           7.3          
+1041209 [0316] 388           12.5         
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1041209 [0008] 7.293         34.8          16.7          17.0          -9.8         
+1041209 [0155] 7.232         41.8          14.7          17.7          -10.0        
+1041209 [0316] 7.043         40.9          43.9          11.3          -19.6        
+               SO2          
+time/item      (%)          
+1041209 [0008] 19.8         
+1041209 [0155] 14.1         
+1041209 [0316] 59.3         
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ammonia N    
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)     
+1041209 [0000] 23.9          1.3           135           3.9                        
+1041209 [0011]                                                         20           
+1041209 [0143]                                                                      
+               T-BIL         Lipase        Ca            Mg            LacticAcid   
+time/item      (mg/dL)       (U/L)         (mmol/L)      (mmol/L)      (mmol/L)     
+1041209 [0000] 0.39          47            2.12          1.03                       
+1041209 [0011]                                                         7.57         
+1041209 [0143]                                                                      
+               CK            CK-MB         %CKMB         Troponin I   
+time/item      (U/L)         (U/L)         (%)           (ng/mL)      
+1041209 [0000] 98            37            37.8          0.209        
+1041209 [0011]                                                        
+1041209 [0143] 115           38            33.0          0.505        
+群組:Yes
+
+               pro-BNP      
+time/item      (pg/mL)      
+1041209 [0000] 4020         
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1041209 [0000] 10.1          23.6          0.95         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1041209 [0000] 38           
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041209 [0000] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041209 [0000] 40.0          1.0           0.0           2.0           56.0         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041209 [0000] 1.0           0.0           0.0 /100 WBC  WBC 100                    
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041209 [0000] 10.14         4.23          13.0          40.0          94.6         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041209 [0000] 30.7          32.5          137           13.5          -            
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1041209 [0000] 265 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+pending formal report of CT 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1. Septic shock rule out Intra-abdominal infection
+2. Bilateral lung infilration rule out pneumonia, rule out lung edema status post intubation and mechanical ventilation support(12/09- )
+3. Elevated Troponin I favored myocardial injury secondary to septic shock 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+S: Epigastralgia, vomiting, diarrhea for few hours
+O: 
+Profound shock under three inotropic agents, 
+Hyperlactemia(+) 12.95
+leukocytosis(+) 10k
+Metabolic acidosis(+)pH7.043,PCO2 40.9,PO2 43.9, HCo3 11.3
+CXR: bilateral increased infiltration
+CT:bilateral lower lung inflammation, right renal cyst, mild gall bladder wall thickening with peripheral fluid accumulation
+CV: favor myocardial injury due to septic shock, suggested to give DAPT and heparinization if no contraindications
+ 
+A:
+1. Septic shock rule out Intra-abdominal infection
+2. Bilateral lung infilration rule out pneumonia, rule out lung edema status post intubation and mechanical ventilation support(12/09- )
+3. Elevated Troponin I favored myocardial injury secondary to septic shock
+
+P:
+1.Give antibiotic with Invanz and oral Azithromycin
+2.Give inotropic agents(Levophed, Dopamine, adrenaline)
+3.Ventilator support
+4.Give heparinization as CV suggested, follow up cardiac enzyme, PTT and EKG Q6H 
+5.Check atypical pathogen(chlamydia, Legionella, Mycoplasma)    
+6.Inform possible cardiac arrest due to severe acidosis and hyperlactemia to family
+
+
+Treatment Goal:1.off intropic agent 2.remove endotracheal tube 3.infection control 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左頸 CVP
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.0mm 
+胃造廔口：無  
+尿管留置：有  16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：無
+日常生活功能分數：20
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：女兒 
+出院規劃收案篩檢：高危病患 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+袁昂 主治醫師 

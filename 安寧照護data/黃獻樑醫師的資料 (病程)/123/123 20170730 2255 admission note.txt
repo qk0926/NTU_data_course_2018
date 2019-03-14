@@ -1,0 +1,366 @@
+2017/07/30 22:55 
+主訴(Chief Complaint) 
+Informant:patient's gril friend
+Was found collapse during a car accident 
+病史(Brief History) 
+[Present illness]
+  This 46-year-old man has history of 
+1. type 2 diabetes, newly diagnosed, without control
+
+He was generally well before without any history of family history of SCD. DM was newly diagnosed. He did not take any medication and AC glucose at home was around 200-300.
+
+This time when he was driving car to visit his client, his car hit at the car porch and was stuck in his car. Bystander called 119 and a bottle of 硫磺 was found in his car. Unconsciousness with weak pulse was noted. However, Asystole/PEA developed on the ambulance and CPCR was started(initial rhythm: unshockable). ROSC was achieved after total 10-minute CPCR(7 EMT+ 4 ER). Initial VBG showed CO2 retention. ECG after ROSC showed SVT without  ST-T change. Blood test showed leukocytosis and lactic acidosis.  CXR disclosed mild pulmonary congestion. Whole body CT only revealed mild atelectasis of bilateral lungs at dependent portion. His consciousness remained deep coma. Thus, he was admitted to 1A1 for hypothermia.
+
+[Past history]
+Family History: His mother and brothers: HTN
+Alcohol: Beers sometimes; Betalnut: denied; smoking: denied
+Medication Allergy:UnClear  親屬描述 2017/07/30
+Medication ADR:unknown
+Allergy to Medical Device and Materials:UnClear  親屬描述 2017/07/30
+        海鮮
+Current Medication:
+NTUH:警 Adrenaline 1 mg/1 mL /amp 1 mg STAT IV 1 days
+警 Easydopa Inj 400 mg/250 mL /bag 400 mg QD cIF 2 days
+警 Easydopa Inj 400 mg/250 mL /bag 400 mg STAT IV 1 days
+警 Adrenaline 1 mg/1 mL /amp 3 mg STAT IV 1 days
+(管4) Anxicam 2 mg/1 mL /amp 2 mg STAT IV 1 days
+Other: denied
+中草藥: denied
+保健食品: denied
+Past Medical History: as above
+Hospitalization: denied
+Past Surgical History: denied
+Travel History: just came back from China for business
+occupation: sales
+Contact/Cluster: denied 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:高中
+職業:服務業
+宗教信仰:道教
+婚姻狀態:未婚
+使用語言:國語 台語 
+口述血型:不清楚，RH:不清楚，輸血反應:
+抽煙:沒有
+喝酒:有，酒齡:20年，3瓶/天
+
+檳榔:沒有
+物質濫用:沒有 
+系統性回顧(Review of System) 
+1. Systemic: no weight loss, no easy-fatigability, no night sweats, fair appetite.
+2. Skin: no petechiae, no purpurae, no skin rash, no itching.
+3. HEENT: no headache, no dizziness, no blurred vision, no strabismus, no otalgia, no otorrhea, no hearing impairment, no tinnitus, no vertigo, no nasal stuffiness, no nasal discharge, no epistaxis, no gum bleeding, no throat discomfort, no oral ulcer.
+4. Cardiovascular: no exertional chest tightness, no nocturnal dyspnea, no orthopnea, no syncope, no palpitation, no intermittent claudication
+5. Respiratory: no dyspnea, no cough, no chest pain, no hemoptysis, no pleuritic chest pain
+6. Gastrointestinal: no anorexia, no nausea, no vomiting, no dysphagia, no heartburn, no acid regurgitation, no abdominal fullness, no midnight pain, no constipation, no diarrhea, no melena, no change of bowel habit, no small caliber of stool, no tenesmus, no flatulence
+7. Urogenital: no flank pain, no hematuria, no urinary frequency, no urgency, no dysuria, no hesitancy, no nocturia, no polyuria, no oliguria 
+8. Musculoskeletal: no pain, no weakness of limbs, no myalgia, no weakness, no back pain
+9. Metabolic: no heat intolerance, no cold intolerance, no thirsty
+10. Nervous: no numbness, no paresis/plegia 
+身體檢查(Physical Examination) 
+BH: NA cm,  BW: NA kg,
+
+Neurological Examination: 
+. Consciousness: Coma under heavy sedation, E1M1VT
+. CN: pupil: 5-/5-, doll eye sign: loss, cough reflex: weak
+. Muscle power: flaccid
+. Gait: not checked
+
+‧General apperance
+‧Head-Eye-ENT
+  Conjunctiva: pink
+  Sclera: anicteric
+‧Neck
+  No jugular vein engorgement
+  No thyroid goiter
+  No Kernig sign; No Brudzinski sign
+  No carotid bruit
+‧Chest
+  Thoracic cage contour: normal, symmetric
+  Vocal fremitus and expansion: symmetric
+  Percussion: resonant
+  Right coarse BS
+  No wheezes, rhonchi, or stridor
+‧Heart
+  No LV lift, no RV heave
+  Heart beat: regular
+  Murmurs: no murmur
+‧Abdomen
+  Flat & soft
+  No distension of abdomen
+  No shifting dullness
+  No superficial vein engorgement
+  No protruded umbilicus
+  Bowel sound: hypo-active
+  No abdomen tenderness. No hepato-jugular reflux
+‧Skin	
+  No petechiae, purpura, ecchymoses, or tenlagiectasia
+  No rash
+  No wound
+‧Extremities
+  No edema
+‧Lymphadenopathy
+  No palpable lymph node 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060730 [2111] 7.344         24.3          167.5         13.3          -12.6        
+
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060730 [1811] 13.03         5.21          16.3          47.2          90.6         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060730 [1811] 31.3          34.5          75 ? Severe   12.3          -            
+                                          PLT clumps &                             
+                                           Giant plt(+                             
+                                          )                                        
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060730 [1811] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060730 [1811] 41.0          1.0           0.0           3.0           55.0         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060730 [1811] 0.0           0.0           0.0 /100 WBC  WBC 100                    
+群組:Coagulation
+
+               PT            aPTT          PT INR       
+time/item      (sec)         (sec)         ()           
+1060730 [1812] 10.3          23.9          0.95         
+群組:General BioChemistry
+
+               ALB           ALT          
+time/item      (g/dL)        (U/L)        
+1060730 [1811]               71           
+1060730 [1815] 3.8                        
+群組:Biochemistry
+
+               CRE           Na            K             Ammonia N     Ca           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)      (mmol/L)     
+1060730 [1811] 1.0           130           5.4                         2.19         
+1060730 [1845]                                           38                         
+               Mg            LacticAcid    CK           
+time/item      (mmol/L)      (mmol/L)      (U/L)        
+1060730 [1811] 1.29                        121          
+1060730 [1845]               7.03                       
+群組:Yes
+
+               NT-pro BNP   
+time/item      (pg/mL)      
+1060730 [1811] 22.87        
+群組:
+
+               Troponin-T    eGFR          CK-MB        
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)      
+                              m^2)                      
+1060730 [1811] 13.03         85.5          1.14         
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060730 [1755] 7.043         80.0          55.2          22.0                       
+1060730 [1837] 7.325         29.0          369.9         15.3          -11.0        
+               SO2          
+time/item      (%)          
+1060730 [1755] 71.4         
+1060730 [1837] 99.9         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1060730 [1755] 1.22          16.9          51            4.81          136.2        
+1060730 [1837] 1.10          15.9          48            4.00          132.0        
+               LacticAcid(急 
+               重症自行檢驗)      
+time/item      (mmol/L)     
+1060730 [1755] 12.6         
+1060730 [1837] 6.4          
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1060730 [1851] 478          
+1060730 [2117] 520          
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1060730 [1811] B             Positive     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1060730 [1811] Negative 
+檢查紀錄(Examination Report) 
+ECG: SVT, suspect Atrial fluuter, no obvious ST-T change 
+影像報告(Imaging Report) 
+CT Without Contrast-Brain 醫令: CT Without Contrast-Brain 報告醫師: 吳志宏 影像時間: 2017/07/30 18:25 (33070B0M) 發報告時間: 2017/07/30 20:39 CT scan of the head without contrast enhancement shows:
+> The sulci, fissures and ventricles are normal.
+> There is no definite abnormal attenuation in the brain parenchyma.
+> No intracranial hemorrhage or large territory infarction.
+> There is no definite focal lesion in the cranial vault. 
+
+CT scan of the chest, abdomen and pelvis with/without IV contrast enhancement shows:
+> Atelectasis at right lower lobe and left lower lobe of lung.
+> Placement of an endotracheal tube.
+> No definite mediastinal lymphadenopathy.
+> No definite lesion in liver. No radiopaque gallbladder stone.
+> No definite lesion in the spleen, pancreas, and both adrenal glands.
+> No definite lesion in both kidneys. No hydronephrosis.
+> Unremarkable stomach and intestinal loop.
+> No definite abdominal and pelvic lymphadenopathy. No ascites formation.
+> Patent portal vein and IVC. 
+> Mild degenerative change of the spine with marginal spur formation.
+CT Without Contrast-C Spine 醫令: CT Without Contrast-C Spine 報告醫師: 吳志宏 影像時間: 2017/07/30 18:25 (33070BWM) 發報告時間: 2017/07/30 20:39 CT scan of the head without contrast enhancement shows:
+> The sulci, fissures and ventricles are normal.
+> There is no definite abnormal attenuation in the brain parenchyma.
+> No intracranial hemorrhage or large territory infarction.
+> There is no definite focal lesion in the cranial vault. 
+
+CT scan of the chest, abdomen and pelvis with/without IV contrast enhancement shows:
+> Atelectasis at right lower lobe and left lower lobe of lung.
+> Placement of an endotracheal tube.
+> No definite mediastinal lymphadenopathy.
+> No definite lesion in liver. No radiopaque gallbladder stone.
+> No definite lesion in the spleen, pancreas, and both adrenal glands.
+> No definite lesion in both kidneys. No hydronephrosis.
+> Unremarkable stomach and intestinal loop.
+> No definite abdominal and pelvic lymphadenopathy. No ascites formation.
+> Patent portal vein and IVC. 
+> Mild degenerative change of the spine with marginal spur formation.
+Chest: AP View (Supine) 醫令: Chest: AP View (Supine) 報告醫師: 吳志宏 影像時間: 2017/07/30 18:45 (32001CYM) 發報告時間: 2017/07/30 20:48 EXAMINATION: Chest: AP View (Supine)
+FINDINGS:
+Bilateral lung opacities. Placement of an endotracheal tube. Mild degenerative change of the spine with marginal spur formation.
+CT With/Without Contrast-Pelvis 醫令: CT With/Without Contrast-Pelvis 報告醫師: 吳志宏 影像時間: 2017/07/30 18:25 (33072B5M) 發報告時間: 2017/07/30 20:39 CT scan of the head without contrast enhancement shows:
+> The sulci, fissures and ventricles are normal.
+> There is no definite abnormal attenuation in the brain parenchyma.
+> No intracranial hemorrhage or large territory infarction.
+> There is no definite focal lesion in the cranial vault. 
+
+CT scan of the chest, abdomen and pelvis with/without IV contrast enhancement shows:
+> Atelectasis at right lower lobe and left lower lobe of lung.
+> Placement of an endotracheal tube.
+> No definite mediastinal lymphadenopathy.
+> No definite lesion in liver. No radiopaque gallbladder stone.
+> No definite lesion in the spleen, pancreas, and both adrenal glands.
+> No definite lesion in both kidneys. No hydronephrosis.
+> Unremarkable stomach and intestinal loop.
+> No definite abdominal and pelvic lymphadenopathy. No ascites formation.
+> Patent portal vein and IVC. 
+> Mild degenerative change of the spine with marginal spur formation.
+Chest: AP View (Supine) 醫令: Chest: AP View (Supine) 報告醫師: 吳志宏 影像時間: 2017/07/30 19:46 (32001CYM) 發報告時間: 2017/07/30 21:01 EXAMINATION: Chest: AP View (Supine)
+FINDINGS:
+Bilateral lung opacities. Normal heart size. Placement of lines and tubes. Mild degenerative change of the spine with marginal spur formation.
+CT With/Without Contrast-Abdomen 醫令: CT With/Without Contrast-Abdomen 報告醫師: 吳志宏 影像時間: 2017/07/30 18:25 (33072B3M) 發報告時間: 2017/07/30 20:39 CT scan of the head without contrast enhancement shows:
+> The sulci, fissures and ventricles are normal.
+> There is no definite abnormal attenuation in the brain parenchyma.
+> No intracranial hemorrhage or large territory infarction.
+> There is no definite focal lesion in the cranial vault. 
+
+CT scan of the chest, abdomen and pelvis with/without IV contrast enhancement shows:
+> Atelectasis at right lower lobe and left lower lobe of lung.
+> Placement of an endotracheal tube.
+> No definite mediastinal lymphadenopathy.
+> No definite lesion in liver. No radiopaque gallbladder stone.
+> No definite lesion in the spleen, pancreas, and both adrenal glands.
+> No definite lesion in both kidneys. No hydronephrosis.
+> Unremarkable stomach and intestinal loop.
+> No definite abdominal and pelvic lymphadenopathy. No ascites formation.
+> Patent portal vein and IVC. 
+> Mild degenerative change of the spine with marginal spur formation.
+CT With/Without Contrast-Chest 醫令: CT With/Without Contrast-Chest 報告醫師: 吳志宏 影像時間: 2017/07/30 18:25 (33072B2M) 發報告時間: 2017/07/30 20:39 CT scan of the head without contrast enhancement shows:
+> The sulci, fissures and ventricles are normal.
+> There is no definite abnormal attenuation in the brain parenchyma.
+> No intracranial hemorrhage or large territory infarction.
+> There is no definite focal lesion in the cranial vault. 
+
+CT scan of the chest, abdomen and pelvis with/without IV contrast enhancement shows:
+> Atelectasis at right lower lobe and left lower lobe of lung.
+> Placement of an endotracheal tube.
+> No definite mediastinal lymphadenopathy.
+> No definite lesion in liver. No radiopaque gallbladder stone.
+> No definite lesion in the spleen, pancreas, and both adrenal glands.
+> No definite lesion in both kidneys. No hydronephrosis.
+> Unremarkable stomach and intestinal loop.
+> No definite abdominal and pelvic lymphadenopathy. No ascites formation.
+> Patent portal vein and IVC. 
+> Mild degenerative change of the spine with marginal spur formation. 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1. Out-patient cardiac arrest, suspect arrhythmia or other cause related, status post CPCR 11mins, with ROSC, status post endotracheal intubation and mechanical ventilatro(2017/7/30-), status post therapeutic hypothermia(2017/7/30-7/31)
+2. Atrial flutter, with rapid ventricular response
+3. Type 2 diabetes, without control 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*
+S:
+Was found collapse during a car accident
+
+O:
+[PE]
+Consciousness: deep coma(E1M1) under heavy sedation and NMB
+CN: pupil: 5-/5-, doll eye sign: loss, cough reflex: weak
+HEENT: pink conjunctiva, anicteric sclera
+Heart: RHB, no murmurs
+Chest: right coarse BS
+Abdomen: Soft, hypoactive BoS
+Extremity: no edema
+
+[Lab]
+VBG:7.04/80/22, WBC:13K, Hb:16.3, PLT:75K, LA:7
+    Glu: 478
+ECG: SVT~190bpm, s/p adenosine 3mg/6mg/6mg > no termination
+  > Favor 2:1 AFlutter with RVR
+
+[Study]
+Whole body CT:
+atelectasis of bilateral lungs at dependent portion
+
+A: as above
+P:
+1. About OHCA
+ - Therapeutic hypothermia. Inform families bout the risk and poor neurological prognosis
+ - Herbesser infusion of Aflutter RVR. Closely monitor ECG monitor and check electrolytes
+ - Rocephine empirical use. Pursue culture
+
+Treatment Goal: Work-up and hypothermia 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左頸 左手 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.5mm 
+胃造廔口：無  
+尿管留置：有  16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：其他 同居人
+出院規劃收案篩檢：高危病患 慢性病控制不良 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+陳韋廷 主治醫師 

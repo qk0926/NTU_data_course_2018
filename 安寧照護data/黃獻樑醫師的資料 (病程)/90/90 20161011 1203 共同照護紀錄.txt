@@ -1,0 +1,22 @@
+<Doctor>
+EEG on 9/26, 10/3: no more discharge
+consciousness: still no recovery
+MRI on 10/5: more hydrocephalus. related to cancer progression
+family's decision? no withdrawal
+P:
+keep anti-epileptic drugs.
+keep ventilator.
+If no ventilator withdrawal, consider to transfer to RCC/RCW for long-term ventilator.
+
+
+Nurse
+GCS:E2M3VT，呼吸器use，痰量中黃白稠，keep chest percussion and position，抗生素使用，keep feeding pump use，家屬表示有考慮withdrawal，仍等待確認。
+
+
+<RT>
+Keep ventilator partial support, family agreed ventilator  withdrawal.
+
+
+<Pharmacy>
+No more seizure movement, AED shift to oral form. Organ function is stable, it is not necessary to check valproic acid regularly. Last serum level ~ 70 mg/L
+Very low procalcitonin (<0.1), consider to DC antibiotic use. Drug fever or tumor fever should be considered.

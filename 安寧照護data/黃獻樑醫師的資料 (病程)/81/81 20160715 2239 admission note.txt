@@ -1,0 +1,182 @@
+2016/07/15 22:39 
+主訴(Chief Complaint) 
+Informant:medical record
+for evaluation of heart transplant 
+病史(Brief History) 
+This 52 y/o male has history of 
+1.CAD, DVD(LAD-P 99% stenosis; LAD-M 100% stenosis), s/p POBA; LCX-P 50% stenosis; LM-D 40% stenosis
+2.old mycardial infarction, inferior
+3.HTN
+4.dyslipidemia
+
+The patient had PCI 2 years ago with regular follow-up. However, acute chest tightness occurred on 6/26, and he visited ER for further medical help. Despite of normal cardiac enzymes, sudden onset of conscious loss was noted at ER. EKG showed VT, DC shock was performed, but no ROSC was noted. ECMO was set up. Emergent CAG showed LAD and LCX total occlusion. PCI and POBA of LCX was done. 
+
+As abnormal liver and renal function was noted afterwards, CABG was postponed to 7/13. After CABG(SVG: Ao-->LAD, Ao-->OM; MVP) on 7/13, liver enzymes and renal function didn't improve. Blood pressure droped, and cardiogenic shock was suspected. IABP and ECMO support were performed. After discussion with the family, the patient was transfered to NTUH for further care and evaluation for heart transplantation on 7/15.
+
+
+
+
+
+Family History:noncontributory
+Medication Allergy:UnClear  他院資料 2016/07/15
+No  親屬描述 2016/07/15
+Medication ADR:unknown
+Allergy to Medical Device and Materials:UnClear  他院資料 2016/07/15
+No  親屬描述 2016/07/15
+Current Medication:
+NTUH:nil
+Other:nil
+中草藥:nil
+保健食品:nil
+Past Medical History:
+Hospitalization:
+
+Past Surgical History:
+Travel History:
+
+Birth History(for pediatric patients):
+Vaccination History:
+Growth and Development History:
+Maternal History(2y/o): 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:高中
+職業:自由業
+宗教信仰:民間信仰
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:A，RH:不清楚，輸血反應:無
+抽煙:沒有，已戒煙:5-6年
+喝酒:有，酒齡:20年，1杯/天
+
+檳榔:沒有
+物質濫用:沒有
+
+Fall Risk Assessment
+總分:7
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1. Cardiovascular system: chest pain(+) dyspnea(+) orthopnea(-) leg edema(-) palpitation(-) exertional intolerance(-) cyanosis of limbs(-)
+2. Respiratory system: tachypnea(-) cough(-) wheezing(-) fever(-) night sweating(-) 
+3. Breast bleeding or lactorrhea(-)
+4. Gastrointestinal system: abdominal pain(-) bowel habit change(-) anal incontinence(-) bloody stool(-) melena(-) dysphagia(-) anorexia(-) nausea(-) body weight loss(-) heartburn sensation(-) jaundiced sclera(-)
+5. Genitourinary system: dysuria(-)urinary frequency(-)urinary urgency(-)nocturnal polyuria(-) impotence(-) urolithiasis(-)
+6. OB/GYN: Nil
+7. Blood system: tendency to have echymosis (-) lymphadenopathy(-)
+8. Musculoskeletal system: joint stiffness or pain(-) back pain(-)
+9. Endocrine system: goiter(-) heat or cold intolerance(-) fatigue(-) 
+身體檢查(Physical Examination) 
+BH:  cm,  BW:  kg,
+T: 35.7 °C,  P: 120 bpm,  R: 13 /min,
+BP: 119 / 75 mmHg,
+Pain score:  ,
+
+Neurological Examination: 
+. Consciousness: E4M6Vt
+. Muscle power: 4
+. Gait: N/A
+
+HEENT: 
+ Eye: pink conjunctiva, anicteric sclera
+Neck: jugular vein engorgement(-), thyroid goiter(-), carotid bruit(-), lymphadenopathy(-)
+Chest: clear breathing sound, crackles(-), wheezing(-)
+Heart: regular heart beat, murmur(-), gallop(-)
+Abdomen: 
+ Inspection: flat & soft, lesion(-)
+ Auscultation: normoactive bowel sound
+ Palpation: tenderness(-), rebound tenderness(-)
+            Liver and spleen: impalpable
+ Percussion: resonance, shifting dullness(-)
+Extremities: freely movable, pitting edema(-)
+Skin: wound(-), hyperpigmentation(-), petechiae(-), purpura(-), ecchymosis(-), telangiectasia(-), rash(-)
+
+< Neurological Examination>
+CNI: Smell-not checked
+CNII: Visual acuity: normal; Visual field: Intact by confrontation test; 
+       Pupil size: L/R 3/3; Light reflex: L/R +/+; eyeground: normal
+CNIII，IV&VI： 
+    EOM: full and free ; Ptosis: -/-
+CNV: Sensory：symmetric;  Motor：mastication-good 
+CNVII：no facial palsy, cornea reflex +/+
+CNVIII：N/A
+CNIX&X：symmetric palatal elevation
+CNXI：SCM muscle & Trapezius muscle：no weakness
+CNXII：No tongue deviation on protrusion，fasciculation(-)，atrophy(-)，dysarthria(-)
+Babinski: negative 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050715 [1927] 7.525         26.1          76.8          21.8          -1.2         
+1050715 [1936] 7.479         31.9          67.9          24.0          0.2          
+1050715 [1938] 7.460         35.1          30.8          25.2          1.1          
+               SO2          
+time/item      (%)          
+1050715 [1927] 96.8         
+1050715 [1936] 94.8         
+1050715 [1938] 63.3         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1050715 [1927] 1.03          9.9           30            4.23          140.0        
+1050715 [1936] 1.05          10.2          31            4.09          139.3        
+1050715 [1938] 1.06          9.8           29            4.14          141.1        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1050715 [1927] 149           3.9          
+1050715 [1936] 147           3.7          
+1050715 [1938] 148           4.0 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+nil 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1. CAD with DVD(LAD, LCX), s/p POBA; restenosis, s/p POBA on 2016/6/26 and CABG on 2016/07/13
+
+2. HTN
+3. dyslipidemia 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*P: 
+1.CAD with DVD(LAD, LCX), s/p POBA 2 years ago; restenosis, s/p POBA on 2016/6/26 and CABG on 2016/07/13
+2.cardiogenic shock, VA-ECMO and IABP support
+
+ A: -CAG: LAD total occlusion and LCX 50% stenosis
+    -relative stable under ECMO
+    -cardiac echo showed small LA with hyperechoid material surrounding the heart
+ 
+ P: -keep ECMO and IABP
+    -adjust inotropes
+    -keep empirical antibiotics
+    -sedation
+    -discuss feasibility of transplant with family
+    
+
+
+Treatment Goal: evaluation of transplant 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右頸 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.5mm 
+胃造廔口：無  
+尿管留置：有 Two way Foley 16Fr. 
+膀胱造廔：無 
+傷口引流管：有
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：兒子 朋友 
+出院規劃收案篩檢：高危病患 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+周迺寬 主治醫師 

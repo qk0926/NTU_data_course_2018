@@ -1,0 +1,271 @@
+2015/11/22 16:34 
+主訴(Chief Complaint) 
+Informant:family and medical records
+fell down yesterday, with decreased conscious today 
+病史(Brief History) 
+This 61 year-old female has history of:
+1. Dilated RA, RV ad LA, moderate mitral valve and tricuspid valve regurgitation, mild pulmonary regurgitation
+2. severe pulmonary hypertension (peak TRPG 67.2mmHg)
+3. suspect restrictive cardiomyopathy
+4. hyptertension
+5. chronic atrial fibrillation
+6. Recurrent cerebral infarction with left hemiparesis, dysphagia and apraxia of speech on 2013/5/29
+7. history of acute decompensated congestive heart failure with large pericardial effusion
+
+
+This time, she suffered from falling down in 11/21 evening and had head injury. She was brought to our ER. PE showed left calf ecchymosis and left occipital area swelling. Initial GCS was E4V1M6. Brain CT showed no noted finding so she was discharged asfter several hours' observation. 
+
+However, drowsy conscious was noted since this morning(7am) and she vomited several times. She was brought to NTUH ER again. Initial conscious was E2V1M4-5 with isocortic pupil. Brain CT showed: (1)Bilateral SAH, more on the left side and basal cistern. (2)Scalp hematoma. Because of decreased consciousness, she is admitted to 4FI for close observation. After admission, re-checked GCS is E1V1M4. Mild enlarged left-eye pupil with equivocal light reflex was also noted. Brain CT was performed again and showed mildly enlarged ventricle without increasing of ICH according to Neurosurgeon. Intubation was done and FFP was transfused due to prolonged INR (8.07). She might need operation for EVD placement after INR come back to acceptable range(<2).
+
+
+Family History:
+father: unkown heart disease
+no stroke family history
+Medication Allergy:
+No  病人自述 2009/12/10
+No  親屬描述 2014/06/10
+Medication ADR:Warfarin suspect warfarin related gingiva bleeding, also have dental problem 院內發生 發生日期:2013/08/13
+Allergy to Medical Device and Materials:No  親屬描述 2014/06/10
+
+Current Medication:
+NTUH:
+舊 1 Coumadin 1 mg/tab 1.5 tab QD PO 28 days
+Lipanthyl Supra FC 160 mg/tab 1 tab QDPC PO 28 days
+MgO 250 mg/tab 2 tab TID PO 28 days
+Sennapur 12.5 mg/tab 1 tab HS PO 28 days
+SeroQuel 25 mg/tab 1 tab HS PO 28 days
+Piracetam Oral Soln 200 mg/1 mL 200 mL/btl 6 mL BID PO 28 days
+液 Depakine Soln 200 mg/1 mL 40 mL/btl 1 mL HS PO 28 days
+Lasix 40 mg/tab 2 tab QD PO 28 days
+5 Concor 5 mg/tab 1 tab QD PO 28 days
+Other:nil
+中草藥:nil
+保健食品:nil
+
+Past Medical History:
+1. Large pericardial effusion
+2. acute decompensated congestive heart failure, improved
+3. suspect restrictive cardiomyopathy
+4. hyptertension
+5. chronic atrial fibrillation
+6. Recurrent cerebral infarction with left hemiparesis, dysphagia and apraxia of speech on 2013/5/29
+
+Hospitalization:
+入院日期:2014_06_10 出院日期:2014_06_13 診斷:Shortness of breath
+
+Past Surgical History:nil 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:高中
+職業:教
+宗教信仰:道教
+婚姻狀態:離婚
+使用語言:國語 台語 
+口述血型:O，RH:RH+，輸血反應:沒輸過血
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:
+
+Psychological History and Evaluation
+意識狀態:昏迷
+認知功能:無法評估 
+精神情緒狀態:無法評估  
+安全問題:有 其他 fall down
+睡眠形態:異常  
+
+Nutritional Screen
+攝食情形:差，攝食50%以下
+排便狀態:異常
+排便異常狀態:無排氣
+BMI:21.81
+
+Fall Risk Assessment
+總分:15
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1. Cardiovascular system: chest pain(-) dyspnea(-) orthopnea(-) leg edema(-) palpitation(-) exertional intolerance(-) cyanosis of limbs(-)
+2. Respiratory system: tachypnea(-) cough(-) wheezing(-) fever(-) night sweating(-) 
+3. Breast bleeding or lactorrhea(-)
+4. Gastrointestinal system: abdominal pain(-) bowel habit change(-) anal incontinence(-) bloody stool(-) melena(-) dysphagia(-) anorexia(-) nausea(-) body weight loss(-) heartburn sensation(-) jaundiced sclera(-) vomiting(+)
+5. Genitourinary system: dysuria(-)urinary frequency(-)urinary urgency(-)nocturnal polyuria(-) impotence(-) urolithiasis(-)
+6. OB/GYN: Nil
+7. Blood system: tendency to have echymosis (-) lymphadenopathy(-)
+8. Musculoskeletal system: joint stiffness or pain(-) back pain(-)
+9. Endocrine system: goiter(-) heat or cold intolerance(-) fatigue(-)
+10. General: decreased consciousness(+) 
+身體檢查(Physical Examination) 
+BH:155 cm   BW:52.4 kg
+T:36.4 P:119 R:21
+BP:111/64 mmHg
+Pain:0
+
+Consciousness: drowsy, E1V1M4
+HEENT: 
+ Eye: pink conjunctiva, anicteric sclera, pupil: L/R 2.5mm/3mm, light reflex(+/-)
+Neck: jugular vein engorgement(-), thyroid goiter(-), carotid bruit(-), lymphadenopathy(-)
+Chest: clear breathing sound, crackles(-), wheezing(-)
+Heart: irregular, tacycardia, murmur(-), gallop(-)
+Abdomen: 
+ Inspection: flat & soft, lesion(-)
+ Auscultation: normoactive bowel sound
+ Palpation: tenderness(-), rebound tenderness(-)
+            Liver and spleen: impalpable
+ Percussion: resonance, shifting dullness(-)
+Extremities: freely movable, pitting edema(-)
+Skin: wound(-), hyperpigmentation(-), petechiae(-), purpura(-), ecchymosis(+, bilateral legs), telangiectasia(-), rash(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1041122 [1134] 228          
+1041122 [1405] 198          
+*********檢驗室:RL***********
+
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1041122 [1135] 82.1          49.9          8.07         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1041122 [1135] 12           
+群組:Biochemistry
+
+               CRE           Na            K            
+time/item      (mg/dL)       (mmol/L)      (mmol/L)     
+1041122 [1135] 1.0           136           3.5          
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041122 [1135] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041122 [1135] 87.7          0.0           0.1           2.7           9.5          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041122 [1135] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041122 [1135] 7.78          4.35          12.8          37.6          86.4         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041122 [1135] 29.4          34.0          238           12.5          -            
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1041122 [1135] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1041122 [1135] O             Positive 
+檢查紀錄(Examination Report) 
+[EKG on 11/22]
+Atrial fibrillation with premature ventricular or aberrantly conducted complexes 
+Marked ST abnormality, possible inferior subendocardial injury 
+影像報告(Imaging Report) 
+CT Without Contrast-Brain 醫令: CT Without Contrast-Brain 
+報告醫師: 陳若瑀 影像時間: 2015/11/22 11:18 (33070B0M) 
+發報告時間: 2015/11/22 13:16 
+CT of the brain without intravenous contrast enhancement is read and compared with prior CT on 2015-11-21:
+1. Bilateral SAH, more on the left side and basal cistern. 
+2. Mild brain atrophy with dilated sulci, fissures and ventricles proportionally.
+3. Mild nonspecific low density change at bilateral periventricular white matter.
+Encephalomalacia at right basal ganglion and right insula, in favor of old infarct. Wallerian degeneration of right aspect of brainstem. Old lacune at left basal ganglion. 
+4. Atherosclerotic calcification of the intracranial vessels.
+5. No obvious abnormality at cranial vault and skull base. 
+6. Scalp hematoma at left parieto-occipital region.
+
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 
+報告醫師: 陳若瑀 影像時間: 2015/11/22 12:13 (32001CYM) 
+發報告時間: 2015/11/22 12:56 EXAMINATION: Chest : AP View (Supine)
+FINDINGS:
+Cardiomegaly. Aortic wall calcification. Prominent lung markings. Placement of a NG tube.
+
+CT Without Contrast-Brain 醫令: CT Without Contrast-Brain 
+報告醫師: 李怡範 影像時間: 2015/11/21 21:05 (33070B0M) 
+發報告時間: 2015/11/21 21:18 Brain CT without contrast enhancement shows:
+1. Mild brain atrophy with dilated sulci, fissures and ventricles proportionally.
+2. Mild nonspecific low density change at bilateral periventricular white matter.
+Encephalomalacia at right basal ganglion and right insula, in favor of old infarct. Wallerian degeneration of right aspect of brainstem. Old lacune at left basal ganglion. 
+3. No intracranial hemorrhage noted.
+4. Atherosclerotic calcification of the intracranial vessels.
+5. No obvious abnormality at cranial vault and skull base. 
+6. Scalp hematoma at left parieto-occipital region. 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1. Dilated RA, RV ad LA, moderate mitral valve and tricuspid valve regurgitation, mild pulmonary regurgitation
+2. severe pulmonary hypertension (peak TRPG 67.2mmHg)
+3. suspect restrictive cardiomyopathy
+4. hyptertension
+5. chronic atrial fibrillation
+6. Recurrent cerebral infarction with left hemiparesis, dysphagia and apraxia of speech on 2013/5/29
+7. history of acute decompensated congestive heart failure with large pericardial effusion 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*
+1. Dilated RA, RV ad LA, moderate mitral valve and tricuspid valve regurgitation, mild pulmonary regurgitation
+2. severe pulmonary hypertension (peak TRPG 67.2mmHg)
+3. suspect restrictive cardiomyopathy
+4. hyptertension
+5. chronic atrial fibrillation
+6. Recurrent cerebral infarction with left hemiparesis, dysphagia and apraxia of speech on 2013/5/29
+7. history of acute decompensated congestive heart failure with large pericardial effusion
+
+A:
+1. GCS: E1V1M4, pupil: R/L: 3mm/2.5mm, light reflex(+/-)
+2. INR: 8.07->1.6 after FFP 6U transfusion
+3. CT: Bilateral SAH, more on the left side and basal cistern
+
+P:
+1. Operation for EVD placement
+2. Closely monitor GCS, pupil, muscle power
+3. Post-op care
+
+Treatment Goal:
+1. finish EVD placement
+2. stable vital signs and recovered consciousness
+
+[ISS score]
+頭頸部  AIS：4 分
+	【腦部】無意識情況1-6小時並伴隨神經學缺陷；無意識情況6-24小時；只對疼痛刺激有反應(4分)
+臉部  AIS：0 分
+胸部  AIS：0 分
+腹部、骨盆腔  AIS：0 分
+四肢  AIS：0 分
+外觀  AIS：0 分
+
+ISS:16分 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有  
+雙腔導管留置：無  
+鼻胃管留置：有 14Fr. 
+氣管管路留置：無    
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：獨居 
+預期出院後主要照顧者：兒子 外勞 
+出院規劃收案篩檢：高危病患 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+The admission note is well written. 
+醫師姓名 
+許彥鈞 主治醫師 

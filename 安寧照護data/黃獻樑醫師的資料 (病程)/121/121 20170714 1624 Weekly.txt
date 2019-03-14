@@ -1,0 +1,87 @@
+1) Right lower pneumonia, with respiratory failure and shock, status post ETT+MV (6/25-), being treated with Piperacillin/tazobactam and then cefepime (7/6-)
+2) Amyotrophic lateral sclerosis (ALS), with onset in 2015, diagnosed in 2016
+3) hypertension
+
+[Treatment course]
+    After admission, Maxipime was given for pneumonia. Fasciculation improved after titration of Trileptal and Befon both to 1# Q12H. The patient complained of numbness and tingling sensation of 4 limbs, especially thighs, refractory to medication but responsive to massage. 
+    His pneumonia improved. Weaning started but he could not tolerate CPAP more than 1 hour. VC remained around 500 ml.
+
+[Brief summary]
+6/25 - Admitted to Cardinal Tien Hospital, ETT+MV
+7/6  - Transferred to NTUH ICU
+       RLL pneumonia didn't resolve. Give cefepime
+7/7  - Stable. Fasciculation improved after titration of Trileptal to 1# Q12H
+       SBP ~140. DC Olmetec
+7/9  - Sorethroat persisted. Ultracet 0.5# Q6H -> 1# Q6H
+     - Fasciculation improved
+7/10 - Consult PM&R for numbness/tingling from immobilization
+7/11 - Try Lyrica. 家屬自備肢體按摩器
+7/12 - VC 550
+7/13 - Slept better
+     - WBC 8.38 K, seg 74.2% improved
+     - 向病人及配偶完整解釋氣切與否的利弊
+      - Could not tolerate CPAP for 1 hr
+7/14 - SpO2 dropped to 88% after VC test -> ACMV
+       VC 500 ml. No improvement
+
+
+[PE]
+Chest：symmetric expansion, shallow breath, bilaterally clear
+Chest: regular heart beat
+Abdomen: soft, normoactive bowel sound
+
+[Neurological Examination]
+E4M6Vt, clear and alert
+Cranial nerve
+CNII: Visual acuity: normal, Visual field：intact by confrontation test
+       Light reflex: +/+ 
+CNIII&IV&VI: EOM：full and free, Ptosis:(-/-), Diplopia (-)
+CNV: Sensory symmetric intact
+CNXII: tongue not assessed
+
+Motor Inspection: Muscle wasting(+), fasciculation(+) 
+Muscle tone: spasticity(-), rigidity(-), flaccid (+)
+Muscle power
+RUL 0-1, RLL 0-1
+LUL 1-2, LLL 1-2
+
+DTR:
+  Right: -
+  Left: +~++ (under the circumstances of weakness)
+  Jaw jerk ++
+  Pectoris major -
+  Hoffmann +/+
+Babinski sign: flexor/flexor
+Sensory: intact
+
+[Ventilator]
+FiO2=25%, SpO2=100%
+VC/SIMV, RR set/total=8/14
+TV=600ml, Ve=6L/min, Ppeak=20, PS=12, PEEP=5
+
+[CXR]
+7/6: Poor expension. RLL & bilateral hilar infiltration.
+7/8: Stationary.
+
+[Consultation]
+AFO. Massage. Befon 1# BID
+
+[Plan]
+1) For RLL pneumonia
+- Piperacillin/tazobactam -> cefepime (7/6-)
+- Slow weaning
+- Chest care
+- Record vital capacity regularly
+  
+2) For ALS
+- Keep Rilutek (currently still not ventilator dependent)
+- 不做PEG 
+- Rivotril for leg cramps
+  Trileptal and Lyrica for numbness/tingling
+  家屬自備肢體按摩器
+  If no improvement, DC Lyrica
+
+3) Eurodin 1.5# HS for insomnia
+
+4) The patient refused further tracheostomy. He preferred withdrawal
+    Consult hospice for evaluation of withdrawal

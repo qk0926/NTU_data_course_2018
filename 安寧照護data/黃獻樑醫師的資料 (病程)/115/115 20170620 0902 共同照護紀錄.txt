@@ -1,0 +1,38 @@
+[Doctor]
+1. Meningococcus meningitis, complicated with septic schok, 
+   lactic acidosis, conscious disturbance, and type IV 
+   respiratory failure, s/p ETT-MV (2017/6/11-), s/p CVVH 
+   (2017/6/11-2017/6/12)
+2. Ventilator associated pneumonia and ARDS, S/C: Neisseria 
+   meningitidis, Burkholderia cenocepacia
+
+Plan:
+1. For meningococcus meningitis and VAP
+ - Keep Mepem
+ - Pursue culture report
+ - Taper the sedatives and monitor conscious level
+ - Monitor skin condition and wound care
+ - Keep ice blanket use
+ - Family refused lumbar puncture and skin biopsy
+ - Arrange family meeting consult 倫委會
+
+2. For autoimmune disease
+ - Keep Plaquenil
+ - Pursue autoimmune profiles work up and contact the 
+   rheumatologist
+
+[Pharmacist]
+Mepem use for meningitis and pneumonia, keep high dose regimen
+Lung edema under rasitol use, hypokalemia, may add aldactone for potassium-sparing diuresis
+
+[Respiratory  Plan]
+1.keep ventilator full support
+2.prn suction sputum and chest care
+
+[Nurse]
+1.oral ET tube with ventilator set PCV mode,keep chest percussion,suction prn.
+2.keep monitor consciousness.
+3.依醫囑感染控制，抗生素使用。
+4.鼻胃管存，反抽消化差，keep feeding pump and D50W cIF。
+
+[dietitian]

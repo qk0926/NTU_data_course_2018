@@ -1,0 +1,73 @@
+Brief Summary of this week    
+The initial inotropes were administered as Levophed, Pitressin and Bosmine. Empiric Mepem and Vacomycin were administered for severe septic shock. PiCCO showed low CI and low SVRI. CVVH was initated on 2016/07/25 but was then discontinued within 12 hours due to hypotension. Metabolic acidosis exaggerated then. We had discussed with his family, and they chosed end of life care. Iotropes were tappered gradually and his blood pressure remained around 70mmHg. However, metabolic acidosis resolved itself and blood pressure returned to 90mmHg two days later with levophed support. 
+
+The right foot gangrene progressed with newly developed pressure sore at heel. Sonography showed no obvious pus formation. Consultation of plastic surgeon suggested no emergent amputation or debridement due to lack of evidence of active infection. 
+
+CT from chest to lower extremities on 2016/07/27 showed pneumoperitoneum and deep vein thrombosus at left thigh. Besides, there were consolidation and multiple GGOs at both lung fields and both pleural effusion. There was no abdomen tenderness and dialysate analysis showed only ANC 9. Consultation of general surgeon suggested no indication of emergent operation due to lack of peritoneal signs, and high risk of intraoperative death. His family agreed with no operation. And warfarin was prescribed for deep vein thrombosus. 
+
+We resumed NG feeding and peritoneal dialysis on 2016/07/28.  Scrotum swelling developed without tenderness. Weight gained about 3Kg within 5 days. We had discussed with the family about further management, and they agreed with palliative treatment. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+[Abx] Empirical Meropenem (7/25-) D5 for profound shock
+      Empirical Vancomycin(7/22-) D7 for MRSA coverage for suspected prosthesis infection
+---------------------------------------------------
+Cefepime(7/22-7/24), Vancomycin(7/22-7/24), Tazocin(7/21-7/22)
+
+[Physical examination]
+Consciousness: stupor, under Fentanyl use
+Breath sound: bilateral clear, wheezes(-), crackles(-)
+Heart sound: RHB, no obvious murmur
+Abdomen: soft and flat, tenderness(-)
+Extremities: pitting edema(-)
+             right foot dry gangrene, extending to heel region. Firm. Bedside echo revealed no liquification
+             left hip joint local heat(?), erythema(-), swelling(+/-)
+
+[Ventilator settings]
+PCV, FiO2 45%, IP 12, PEEP 8, RR 12-->18, TV 506, MV:9-10, SpO2:93%
+
+[Culture]
+7/19 PD dialysate: (-)
+     right foot gangrene: Serratia marcescens 3+
+     B/C(peri):(-)
+7/21 B/C(peri):(-)
+7/22 S/C: Normal mixed flora 
+7/24 Vancomycin trough level: 13.69 (after loading 1g on 7/22)  
+
+[Important study findings]
+ CXR(07/19): No definite lung lesions.
+    (07/21): Increased infiltration at bilateral hilar
+    --> acute pulmonary edema!!
+    (07/22): Stationary, pulmonary edema
+ EKG: Sinus tachycardia, around 120bpm
+      Low voltage, V3, V4, V5 STD and TWI
+      no evolutional change at 04:00, 09:00, 13:00 (07/21)
+      01:40(07/22) --> wide-complex tachycardia, but with P wave
+-PiCCO 
+7/22  Norepinephrine 26.7 mcg/min
+C.I: 1.54, SVRI: 4219, ITBV: 1111, GEDV: 889, EVLWI:22.8
+-------------------------------------------------
+7/25  Norepinephrine 25.6 mcg/min, Vasopression 0.03U/min
+C.I: 2.06, SVRI: 2207, ITBV: 1092, EVLWI:21.7
+7/27 CT: bilateral GGO and patches; DVT in left external iliac vein with left lower extremity swelling; pneumoperitonium, chronic pancreatitis
+
+[Consultations]
+CV 李任光: NSTEMI less likely, please correct underlying electrolytes imbalence, on-going infection, and fluid overload. Keep Plavix and Pletaal.
+7/27 Plastic surgeon: right gangrentic foot was not likely the infection source. Amputation is not necessary at present. 
+
+[Family decision]
+7/22 Two sons: DNR except drugs. No HD if not feasible.
+               agree tapering inotrpic agents and adding sedative agents for dyspnea relief
+7/23 Two sons: agreed terminal care
+7/24 Two sons: agreed continatuing PD as long as the BP is feasible
+7/25 his son: refuse amputation
+7/27 informed his family about the current condition, including infection, pneumoperitonium and DVT; they accepted feeding since no obvious evidence of bowel perforation; they accept no using anti-coagulant for DVT due to bleeding tendency; his family preferred palliative care and terminal care
+
+Plan 
+1. Maintain empiric Meropenem and Vancomycin for suspected left prosthesis joint infection. 
+2. Adjust to Dianeal LC Ultra 2.5% 2L *3, Extraneal 7.5% 2L *1
+3. keep gentle feeding; monitor if any new-onset ascites; 
+4. Keep Coumardin 1.5mg HS for deep vein thrombosis (check INR on 7/31)
+5. Arrange Gallium scan on 2016/08/01(打藥); 2016/08/03(照相)

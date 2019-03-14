@@ -1,0 +1,36 @@
+# Septic and cardiogenic shock
+# fungemia, CRBSI or intra-abdominal bacterial translocation related, complicated with septic shock
+# Tracheostomy bleeding, chronic granulation tissue related
+# Seizure, sepsis and electrolyte imbalance related
+# Recurrent vantilator associated pneumonia
+# urinary tract infection, catheter related, urine culture: candida albicans
+# Suspected colon cancer, with lower GI bleeding, complicated with hypovolemic shock
+# Recurrent right pleural effusion
+# Moderate aortic stenosis, complicated with acute lung edema and respiratory failure status post endotracheal intubation and ventilatory support (2014/03/13-2014/03/19), status post tracheostomy (2014/04/11)
+# Adrenal insufficiency under Cortisone
+# Coronary artery disease, left main+ 2-vessels disease
+# Chronic atrial fibrillation with complete atrioventricular block status post pacemaker (VVIR) implantation, 2010
+# Old cerebrovascular accident
+# Vascular parkinsonism
+
+
+2016/10/24 10:25 Åé­«:59.9kg
+2016/10/24 09:53 Pain score:0
+2016/10/24 09:50 SpO2:100%(40%,L,VCR)
+hold dopamine (little effect)
+
+2016/10/24
+BUN:158.6 mg/dL
+CRE:1.2 mg/dL
+eGFR:60.5 mL/min/1.73 m^2
+Na:151 mmol/L
+K:4.3 mmol/L
+Cl:114 mmol/L
+Ca:2.22 mmol/L
+Mg:1.38 mmol/L
+
+Refractory to diuretics and low dose dopamine
+poor response to treatment for CHF and sepsis.
+inform possible mortality for advanced age and refractory to treatment.
+taper dopamine for clinical ineffectiveness.
+option of supportive care provided.

@@ -1,0 +1,478 @@
+2017/07/08 06:14 
+主訴(Chief Complaint) 
+Informant:patient's wife, son and daughter
+Sudden collapse last night 
+病史(Brief History) 
+[Present illness]
+  This 59-year-old man has history of 
+1. Non small cell lung cancer, adenocarcinoma, T3N2M1b, EGFR wild type, with brain metastasis status post brain stereotactic radiosurgery (SRS)(30Gy/5fx, 2016/12/15~2016/12/21), status post cisplatin + Alimta (VI)(2016/12/31-2017/04/19), status post maintainence Alimta (I)(2017/05/10), disease progression with new liver metastasis and prominent brain metastasis with perifocal edema, status post erlotinib (2017/05/22-2017/06/12), weekly paclitaxel(I)=2017/06/14, hold due to recurrent fever
+
+He was regularly followed up at oncology OPD and was just discharged on 2017/6/15(admitted for brain metastatic tumor progression with left weakness). He was totally bedriden since then. He was fed by mouth but his wife denied choking episodes. He had no CAD risk factors except for smoking. General weakness was noted after discharge and fever off and on developed since 2017/7/4. Paramol was prescribed at OPD and the symptoms partially improved.
+
+On 7/7, his spirit was better than his baseline according to his wife. However, two episodes of urinary incontinence was noted at night but his consciousness remained clear. Sudden onset of consciousness loss and upward gaze were noted. She called 119 at 22:15 and bystander CPR was initiated. He was sent to our ER at 22:36 where ECG showed asystole and CPR was continued. ROSC was achieved at 22:48, but his consciousness remained deep coma(GCS:E1M1VT). ECG showed sinus tachycardia with right heart stain. Levophed and bosmin were administered to maintain his blood pressure. Blood test showed leukocytosis, impaired liver and renal function. CXR showed increased bilateral infiltration and U/A was clean. Whole body CT was done, which showed progressive brain edema(but similar around tumor site), progressive lung(with cavitation) and liver tumors, bilateral diffuse GGOs and lower lung consolidation. Cravit was given for CAP and tamiflu was given empirically. He was admitted to 1A1 for further care.
+
+[Past history]
+Family History: Colorectal cancer(Father), Breast cancer(Mother, sister)
+Substance: smoking 1PPD for 40+ years
+Medication Allergy:No  病人自述 2016/11/20
+No  病人自述 2016/11/18
+No  病人自述 2017/05/22
+No  病人自述 2016/11/22
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  病人自述 2016/11/20
+No  病人自述 2017/05/22
+No  病人自述 2016/11/22
+Current Medication:
+NTUH:瓶 Rolikan 7% 250 mL/btl 1 btl STAT IF 1 days
+警 Adrenaline 1 mg/1 mL /amp 3 mg STAT IV 1 days
+瓶 Rolikan 7% 250 mL/btl 1 btl STAT IF 1 days
+警 Levophed 4 mg/4 mL /amp 8 mg QD cIF 2 days
+針 Cravit inj 250 mg/50 mL /vial 750 mg STAT IF 1 days
+針 Cravit inj 250 mg/50 mL /vial 750 mg QD IF 2 days
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 2 days
+免費 Tamiflu-CDC 75 mg/cap 1 cap BID PO 5 days
+Actein Effervescent Tablet 600 mg/tab 1 tab STAT PO 1 days
+警 Vitagen 50% 20 mL/amp 80 mL STAT IV 1 days
+Calglon (10%) 4.65 mEq/10 mL /amp 18.6 mEq STAT IV 1 days
+警 Adrenaline 1 mg/1 mL /amp 10 mg QD cIF 2 days
+Rolikan 16.6 mEq/20 mL /amp 99.6 mEq STAT IV 1 days
+警 Humulin R 1000 U/10 mL /vial 16 U STAT IV 1 days
+警 Adrenaline 1 mg/1 mL /amp 1 mg STAT IV 1 days
+針 Nexium for inj 40 mg/vial 40 mg STAT IV 1 days
+針 Nexium for inj 40 mg/vial 40 mg QD IV 2 days
+Solu-Cortef 100 mg/vial 100 mg Q8H IV 2 days
+Solu-Cortef 100 mg/vial 100 mg STAT IV 1 days
+Plasbumin-25 12.5 g/50 mL 25% /vial 25 g STAT IF 1 days
+Cough Mixture 120 mL/btl 10 mL TID PO 7 days
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 7 days
+Phyxol 30 mg/5 mL /vial 化療注射 10 mg QD IF 1 days
+Phyxol 90 mg/15 mL /vial 化療注射 90 mg QD IF 1 days
+NS Norm-Saline (Otsuka) Inj 0.9% 250 mL/btl 化療稀釋用 250 mL QD IF 1 days
+Famodine Inj 20 mg/2 mL /amp 20 mg ONCE IV 1 days
+Rinderon Inj 4 mg/1 mL /amp 4 mg ONCE IV 1 days
+Diphenhydramine HCl 30 mg/1 mL /amp 30 mg ONCE IV 1 days
+PARAMOL 500 mg/tab 1 tab QID PO 7 days
+Regrow SR 60 mg/tab 1 tab BID PO 7 days
+Other: denied
+中草藥: denied
+保健食品: 葡萄王995
+Past Medical History: as above
+Hospitalization:入院日期:2017_05_22 出院日期:2017_06_15 診斷:Malignant neoplasm of upper lobe, left bronchus or lung
+入院日期:2016_12_28 出院日期:2017_01_01 診斷:Lung cancer, right
+入院日期:2016_11_22 出院日期:2016_12_02 診斷:Malignant neoplasm of upper lobe, left bronchus or lung
+
+Past Surgical History:2017_06_12  Port-A implantation, echo-guided
+Travel History: denied
+Occupation: nil
+Cluster: denied
+Contact: denied 
+社會心理相關評估(Psychosocial Assessment) 
+Fall Risk Assessment
+總分:13
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1. Systemic: no weight loss, easy-fatigability for weeks, no night sweats, normal appetite.
+2. Skin: no petechiae, no purpurae, no skin rash, no itching.
+3. HEENT: no headache, no dizziness, no blurred vision, no strabismus, no otalgia, no otorrhea, no hearing impairment, no tinnitus, no vertigo, no nasal stuffiness, no nasal discharge, no epistaxis, no gum bleeding, no throat discomfort, no oral ulcer.
+4. Cardiovascular: no exertional chest tightness, no nocturnal dyspnea, no orthopnea, no syncope, no palpitation, no intermittent claudication
+5. Respiratory: no dyspnea, no cough, no chest pain, no hemoptysis, no pleuritic chest pain
+6. Gastrointestinal: no anorexia, no nausea, no vomiting, no dysphagia, no heartburn, no acid regurgitation, no abdominal fullness, no midnight pain, no constipation, no diarrhea, no melena, no change of bowel habit, no small caliber of stool, no tenesmus, no flatulence
+7. Urogenital: no flank pain, no hematuria, no urinary frequency, no urgency, no dysuria, no hesitancy, no nocturia, no polyuria, no oliguria 
+8. Musculoskeletal: no pain, no weakness of limbs, no myalgia, no weakness, no back pain
+9. Metabolic: no heat intolerance, no cold intolerance, no thirsty
+10. Nervous: no numbness, left paresis 
+身體檢查(Physical Examination) 
+BH: 172 cm,  BW: 57.6 kg,
+T: 35.9 °C,  P: 130 bpm,  R: 15 /min,
+BP: 161 / 99 mmHg,
+
+Neurological Examination: 
+. Consciousness: Deep coma, GCS:E1M1VT
+. CN: pupil:(5-/3-), doll eye sign: loss
+. Muscle power: 0
+. Gait: not checked
+
+‧General apperance
+‧Head-Eye-ENT
+  Conjunctiva: pink
+  Sclera: anicteric
+‧Neck
+  No jugular vein engorgement
+  No thyroid goiter
+  No Kernig sign; No Brudzinski sign
+  No carotid bruit
+‧Chest
+  Thoracic cage contour: normal, symmetric
+  Vocal fremitus and expansion: symmetric
+  Percussion: resonant
+  Bilateral clear  
+  No wheezes, rhonchi, or stridor
+‧Heart
+  No LV lift, no RV heave
+  Heart beat: regular
+  Murmurs: no murmur
+‧Abdomen
+  Flat & soft
+  No distension of abdomen
+  No shifting dullness
+  No superficial vein engorgement
+  No protruded umbilicus
+  Bowel sound: hypo-active
+  No abdomen tenderness. No hepato-jugular reflux
+‧Skin	
+  No petechiae, purpura, ecchymoses, or tenlagiectasia
+  No rash
+  No wound
+‧Extremities
+  No edema
+‧Lymphadenopathy
+  No palpable lymph node 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060708 [0359] 32.01         2.68          8.1           25.4          94.8         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060708 [0359] 30.2          31.9          171           18.3          -            
+群組:Biochemistry
+
+               BUN           Na            K             Cl            T-BIL        
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)      (mg/dL)      
+1060708 [0359] 24.4          143           3.2           96            0.51         
+               Ca            Mg            P             LacticAcid   
+time/item      (mmol/L)      (mmol/L)      (mg/dL)       (mmol/L)     
+1060708 [0359] 2.16          0.68          6.7           12.38        
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060708 [0359] 7.256         55.8          218.1         25.0          -2.4         
+群組:General BioChemistry
+
+               ALB          
+time/item      (g/dL)       
+1060708 [0359] 2.7          
+
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060706 [1150] 9.91          3.03          8.9           28.1          92.7         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1060706 [1150] 29.4          31.7          249           17.8          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060706 [1150] 0.0           0.0           0.0           0.0           1.9          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060706 [1150] 85.7          0.0           0.0           2.9           9.5          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060706 [1150] 0.0           0.0           0.0           -            
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               ALT           CRE          
+time/item      (U/L)         (mg/dL)      
+1060706 [1150] 61            1.1          
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1060706 [1150] 72.8         
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060630 [1015] 13.50         3.04          9.0           28.0          92.1         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1060630 [1015] 29.6          32.1          252           17.9          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060630 [1015] 0.0           0.0           1.8           0.0           0.9          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060630 [1015] 80.6          0.0           0.0           9.3           6.5          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060630 [1015] 0.9           0.0           0.0           -            
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               AST           ALT           CRE          
+time/item      (U/L)         (U/L)         (mg/dL)      
+1060630 [1008] 57            67            1.1          
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1060630 [1008] 72.8         
+*********檢驗室:OP***********
+
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH            Protein(C)    Glu.(C)       Ketone(Urine 
+                                                                    )            
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1060630 [1014] 1.007         6.5           -             -             -            
+               O.B.(C)(Urin  Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+               e)                                                       (Urine)     
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1060630 [1014] -             ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1060630 [1014] Light Yellow  -                          
+群組:SEDIMENT
+
+               RBC (S)       WBC (S)       Epith (S)     Cast (S)      Crystal (S)  
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1060630 [1014] 0-2           0-2           0-2           -             -            
+               Bacteria      Mucus(S)      Others (S)   
+time/item      (*)           (*)           (*)          
+1060630 [1014] +             -             -            
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060627 [0934] 10.62         3.20          9.5           29.5          92.2         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060627 [0934] 29.7          32.2          257           17.7          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060627 [0934] 0.0           0.0           0.9           0.0           0.9          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060627 [0934] 77.4          0.0           0.0           8.5           12.3         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060627 [0934] 0.0           0.0           0.0           -            
+
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060707 [2243] 24.29         2.81          8.2           28.5          101.4        
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060707 [2243] 29.2          28.8          276           18.7          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060707 [2243] 0.0           1.0           3.0           2.0           1.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060707 [2243] 51.0          0.0           1.0           4.0           35.0         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060707 [2243] 2.0           0.0           1.0 /100 WBC  WBC 100                    
+群組:Coagulation
+
+               PT            aPTT          PT INR       
+time/item      (sec)         (sec)         ()           
+1060707 [2243] 12.0          46.9          1.11         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1060707 [2243] 85           
+群組:Biochemistry
+
+               CRE           Na            K             Ammonia N     LacticAcid   
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)      (mmol/L)     
+1060707 [2243] 1.7           131           6.0           74            20.28        
+               CK           
+time/item      (U/L)        
+1060707 [2243] 96           
+群組:
+
+               Troponin-T    eGFR          CK-MB        
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)      
+                              m^2)                      
+1060707 [2243] 98.58         44.1          2.87         
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060707 [2230] 6.913         52.9          33.5          10.8                       
+1060707 [2237] 6.929         47.1          50.2          10.0          -22.7        
+1060707 [2247] 6.921         59.8          85.7          12.4          -20.4        
+1060707 [2314] 7.142         145.4         82.0          50.2          21.0         
+1060708 [0014] 7.285         49.0          69.8          23.5          -3.4         
+               SO2          
+time/item      (%)          
+1060707 [2230] 33.0         
+1060707 [2237] 60.0         
+1060707 [2247] 86.6         
+1060707 [2314] 89.3         
+1060708 [0014] 91.3         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1060707 [2230] 1.21          10.2          31            5.91          127.5        
+1060707 [2237] 1.48          9.8           29            6.50          133.3        
+1060707 [2247] 1.56          9.0           27            5.55          131.7        
+1060707 [2314] 1.19          7.8           23            3.94          152.0        
+1060708 [0014] 1.20          6.7           20            3.48          142.4        
+               Sugar(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1060707 [2230] 167           13.0         
+1060707 [2237] 412           13.7         
+1060707 [2247]               14.0         
+1060707 [2314] 320           15.0         
+1060708 [0014] 238           9.8          
+*********檢驗室:VF***********
+
+群組:Yes
+
+               Influenza A+ 
+               B Rapid Scre 
+               ening Test   
+time/item      ()           
+1060708 [0028] Negative     
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1060707 [2240] 181          
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1060707 [2246] A             Positive     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1060707 [2246] Negative 
+檢查紀錄(Examination Report) 
+ECG: sinus tachycardia, TWI/biphasic T wave at inferior leads, V1-V3, new RBBB, no STE at V7-V9 
+影像報告(Imaging Report) 
+MRI With/without Contrast-Brain(for Cyberknife) 醫令: MRI With/without Contrast-Brain(for Cyberknife) 報告醫師: 李崇維 影像時間: 2017/06/20 12:12 (33085B11) 發報告時間: 2017/06/20 15:50 The study is for cyberknife. 
+
+MRI of the brain without and with i.v. Gd chelate enhancement shows:
+1. A 2.7cm heterogeneous enhancing mass in right thalamus. A 1.7cm margin-enhancing nodule in right cerebellum. A 0.5cm nodule in left inferior frontal lobe. A 0.6cm nodule in left posteromedial frontal lobe. A 0.4cm nodule in right temporal lobe. A tiny nodule in left cerebellum. 
+2. Perifocal edema of right thalamic lesion.
+CT With/without Contrast-Brain(with hand push for Cyberknife) 醫令: CT With/without Contrast-Brain(with hand push for Cyberknife) 報告醫師: 李崇維 影像時間: 2017/06/20 12:46 (33072BMM) 發報告時間: 2017/06/21 11:11 The study is for cyberknife. 
+
+CT scan of the brain without and with contrast enhancement shows:
+1. A 2.7cm heterogeneous enhancing mass in right thalamus. A 1.7cm margin-enhancing nodule in right cerebellum. A 0.5cm nodule in left inferior frontal lobe. A 0.6cm nodule in left posteromedial frontal lobe. A 0.4cm nodule in right temporal lobe. A tiny nodule in left cerebellum. 
+2. Perifocal edema of right thalamic lesion.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 葉建德 影像時間: 2017/06/12 11:18 (32001CYM) 發報告時間: 2017/06/14 13:49 mildly increased cardiothoracic ratio. ill-defined opacities in bilateral lungs. patchy opacities in the left upper lung field. placement of a right Port-A catheter. 
+病理報告(Pathology Report) 
+S1649083
+Intestine,small,duodenum,bulb,endoscopic biopsy,gastric heterotopia    
+ S1647200
+Lung,upper lobe, right,echo-guided biopsy,presence of scanty carcinoma cells (see description),   
+ S1648492
+Lung,B1+2, peribronchial, left,endobronchial biopsy,adenocarcinoma 
+臆斷(Tentative Diagnosis) 
+1. Out-hospital cardiac arrest, suspect brain tumor or sepsis related, s/p CPR 33mins, with ROSC
+2. Community-acquired pneumonia, bilateral lung, with septic shock
+3. Abnormal liver function, hepacellular type, suspect shock liver
+4. Acute kidney injury, KDIGO stage 2, suspect CPR related
+5. Non small cell lung cancer, adenocarcinoma, T3N2M1b, EGFR wild type, with brain metastasis status post brain stereotactic radiosurgery (SRS)(30Gy/5fx, 2016/12/15~2016/12/21), status post cisplatin + Alimta (VI)(2016/12/31-2017/04/19), status post maintainence Alimta (I)(2017/05/10), disease progression with new liver metastasis and prominent brain metastasis with perifocal edema, status post erlotinib (2017/05/22-2017/06/12), weekly paclitaxel(I)=2017/06/14 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*
+S:Sudden collapse last night
+O:
+[PE]
+HEENT: pink conjunctiva, anicteric sclera, no JVE
+Heart: RHB, no murmurs
+Chest: bil. clear
+Abdomen: Soft, no tenderness, hypoactive BoS
+Extremity: cold, no edema
+
+[Lab]
+LA:20>12, Cre:0.9>1.7
+CK/CKMB/TnT:96/2.87/96.58
+
+[Study]
+7/8 CT:
+progressive brain edema(but similar around tumor site), progressive lung(with cavitation) and liver tumors, bilateral diffuse GGOs and lower lung consolidation(formal report pending)
+
+7/9 ECG: sinus tachycardia, TWI/biphasic T wave at inferior leads, V1-V3, new RBBB, no STE at V7-V9
+
+7/9 Bedside echo: 
+  1. Good LV contractility, dilated RV
+  2. LLL consolidation
+  3. several hepatic tumor, no cirrhosis, no ascites
+
+A:
+1. Out-hospital cardiac arrest, suspect brain tumor or sepsis related, s/p CPR 33mins, with ROSC
+2. Community-acquired pneumonia, bilateral lung, with septic shock
+3. Abnormal liver function, hepacellular type, suspect shock liver
+4. Acute kidney injury, KDIGO stage 2, suspect CPR related
+5. Non small cell lung cancer, adenocarcinoma, T3N2M1b, EGFR wild type, with brain metastasis status post brain stereotactic radiosurgery (SRS)(30Gy/5fx, 2016/12/15~2016/12/21), status post cisplatin + Alimta (VI)(2016/12/31-2017/04/19), status post maintainence Alimta (I)(2017/05/10), disease progression with new liver metastasis and prominent brain metastasis with perifocal edema, status post erlotinib (2017/05/22-2017/06/12), weekly paclitaxel(I)=2017/06/14
+
+P:
+1. About sudden collapse, s/p CPR with ROSC
+ - Favor brain tumor(sudden onset), r/o severe sepsis; MI is not likely due to risk factors/ECG/cardiac enzymes
+ - Follow up series of ECG
+ - Mannitol/steroid for brain edema. 3% saline if renal function deterioration and poor urine response
+ - Hypothermia is not feasible due to brain tumor
+ - Closely monitor neurological signs and inform poor neurgological prognosis. Arrange EEG/perfusion scan as protocol
+ - Inform risk of hepatic/renal failure
+
+2. About diffuse GGOs
+ - Favor atypical pneumonia, r/o lymphangiocarcinomatosis
+ - Tazocin+Cravit+Sevatrim empirically. Pursue all culture including bacteria, Mycoplasma, Chlamydia, Legionella, Asp, Crypto, PJP, CMV
+ - Solumedrol 20mg Q12H for severe CAP/shock/brain edema
+ - PPI prophylaxis
+
+Treatment Goal: Post-ROSC care and treat atypical pneumonia 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左頸 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.5mm 
+胃造廔口：無  
+尿管留置：有 Two way Foley 16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：配偶 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment made by the resident. 
+醫師姓名 
+黃建華 主治醫師 

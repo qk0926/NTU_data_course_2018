@@ -1,0 +1,395 @@
+2016/10/20 05:33 
+主訴(Chief Complaint) 
+Informant:the parents of the patient and the doctors from local clinics
+No consciousness recovery from general anesthesia after cosmetic surgery on 10/19 afternoon 
+病史(Brief History) 
+This 38-year-old woman has no systemic disease. She lived in Hong Kong with her husband. She was generally healthy before this admission. She was taking Zolpidem (Ambien) 0.5tab PO HSPRN for insomnia. She took a lot of different health supplements(Her husband will brought the medication from Hong Kong.) Her husband denied any head trauma recently.
+  This time, she came to Taiwan for cosmetic surgery on 2016/10/18. She received IVG mesotherapy(電波拉皮) around her eyes and Liposonix(聚焦超音波溶脂) at a clinic(杏立博全醫美診所). The operation was started at PM 15:00. She received IVGA with afentanyl and propofol infusion. Total 1480ug afentanyl and 284mg propofol were used. ketolorac 30mg IV was also given for pain control. The initial vital sign before the operation was pulse 63bpm, blood pressure 107/67mmHg, SpO2 98%. According to the statement of the operator, the operation was smooth. According to the anesthesiologist, the patient rattled during the operation but there was no desaturation noticed. However, persistent upper airway obstruction and togue drop was suspected by the anesthesiologist. SpO2 flucutation between 88-94% for 2 hours were also noted. The anesthesiologist suspected that her lower SpO2 was related to poor O2 sensing for nail polish. Her heart rate dropped to 45bpm at PM 17:30 with BP dropped to 90/50mmHg and SpO2 dropped to 88%. Atropine 0.5mg IV push was given for bradycardia and her heart rate returned to 70bpm.  The operation was finished at PM 17:45. The rattling was still heard from upper airway so nasal airway was given for suspect upper airway obstruction. The patient remained comatose 1hr after the operation. Thus, naloxone 0.2mg IV was given for suspect opioid overdose. Repeated naloxone 0.2mg IV was given again because the patient remained comatose. The anesthesiologist then performed ambu-bagging for 30 minutes under the suspicion of CO2 retention. According to the anesthesiologist, the SpO2 was 100% during ambu-bagging. The patient still remained comatose. Intubation was performed for airway protection and suspect airway obstruction at PM 20:45 by anesthesiologist at the clinic. There was no seizure like movement thoughout the course. 
+   
+    The patient was brought to our ER at PM 21:11. Vital signs at triage showed Blood Pressure: 133/55mmHg, Pulse Rate: 75/min, Respiratory Rate: 22/min, Temperature: 34.5℃, SPO2: 100％. Her consciousness level was E2M4Vt. Her bilateral pupil was symmetric 3/3mm, with weak light reflex. D50W IV push was given but she remained unconscious. Brainstem reflexes such as cough reflex and corneal reflex were weak. The doll eye sign was absent. She presented with decerebrated posture to pain stimulation. Her muscle power to pain stimulation were 1-2 in four limbs. Her DTR were symmetric but her babinski sign were absent. Brain CT showed diffuse brain swelling with ventricles size compressed while the formal report was pending. Her lab data showed VBG: pH 7.323/pCO2 32.7/pO2 37.8/HCO3 17.1/BaseExcess -9.2; one touch sugar 169, WBC 21.15, Seg 90%, Band 1%, HB 13.2, PLT 204, hsCRP 0.02, CK 194, Troponin-T 154.8, CK-MB 4.81, NT-pro BNP 31.54, BUN 10.7, CRE 1.0, AST 506, ALP 46, LDH 778, ALT 424, T-BIL 0.36, Na 136, K 3.7, Cl 106, Ca 1.99, Mg 0.96, LacticAcid 6.56, Ammonia 25, D-Dimer 28.69, Digoxin < 0.20. EKG showed normal sinus rhythm without STT change at ER but showed VPC bigeminy after ICU admission. Neurologist was consulted at ER and hypoxic encephalopathy was suspected after physical exmaination, blood biochemistry testing and image study. The patient was admitted to ICU for further monitoring and management.
+
+Family History: Denied systemic disease, such as DM, HTN, heart disease, seizure, stroke, or malignancy.
+Medication Allergy:No  親屬描述 2016/10/19
+Medication ADR:unknown
+Allergy to Medical Device and Materials:unknown
+Current Medication:
+NTUH: Nil
+Other: Zolpidem (Ambien) 0.5tab PO HSPRN
+中草藥: Denied
+保健食品: A lot of different health supplements
+Past Medical History: Denied systemic disease
+Hospitalization: Denied
+Past Surgical History: Denied
+Travel History: Traveling from Hong Kong to Taiwan on 2016/10/18
+Substances: Denied alcohol, betel nut, cigarette use. 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:大學
+職業:家管
+宗教信仰:無
+婚姻狀態:已婚
+使用語言:國語 英語 
+口述血型:不清楚，RH:不清楚，輸血反應:
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Fall Risk Assessment
+總分:12
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular:  exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(-), cough(-), chest pain(-), hemoptysis(-), productive cough (-), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH: 166 cm,  BW: 55.8 kg,
+T: 36.0 °C,  P: 82 bpm,  R: 19 /min,
+BP: 80 / 52 mmHg,
+Pain score:  ,
+
+Neurological Examination: 
+. Consciousness: E1VtM4
+. Muscle power: Four limbs 1-2
+. Gait: NA
+
+‧Head-Eye-ENT 
+        grossly normal, conjunctiva: pink, sclera: anicteric
+        Pupil: isocoric,  2mm/ 2mm
+        Light reflex: L/R: +/+, EOM: NA
+‧Neck
+	Jugular vein engorgement(-)
+	Thyroid goiter(-)
+	Meningismus: Kernig sign(-); Brudzinski sign(-)
+        Carotid bruit(-)
+‧Chest
+	Thoracic cage contour: symmetric, Retraction(-)
+	Vocal fremitus and expansion: symmetric
+	Percussion: resonant
+        Breathing sound: clear
+	Crackles(-) wheezes(-)rhonchi(-) stridor(-)
+‧Heart
+	Heart beat: regular  Murmurs(-)
+        LV lift(-) RV heave(-)
+	Increased cardiac size by percussion(-)
+	Adventitious sounds (-)
+‧Abdomen
+        Flat & soft
+	Superficial vein engorgement(-) Protruded umbilicus(-)
+	Bowel sound: Normoactive
+	Tenderness(-) Hepato-jugular reflux(-)
+	Liver and spleen: impalpable
+‧Extremities
+        Freely movable, pulses symmetric and intact, pitting edema(-)	
+‧Back
+        Knocking pain(-)
+‧Skin
+	Abnormal pigmentation(+, over pubic area, with local erosion, suspect 雷射除毛 related)
+	Petechiae(-) Purpura(-) Ecchymoses(-) Telangiectasia(-)
+	Rash(-) Plaque(-)
+
+[Neurologic examination]
+E1VTM2-4, decerebrate posture to central pain
+==Cranial nerve==
+CN II:light reflex +/+ but weak, 1.5mm/1.5mm, no response to threatening response
+CN III, IV, VI:no spontaneous EOM movement, OCR not correctable, neutral position
+fixed in midline
+CN V:bilateral no facial grimace to pain stimulation
+CN VII:suspect facial diplegia, corneal reflex bilaterally present but weak
+CN IX, X:cough reflex present during suction
+CN XII:not evaluted due to intubation and comatous state
+==Muscle power==
+all to pain
+RUL 1-2 RLL 1-2
+LUL 1- 2 LLL 1-2
+==DTR==
+Right bicep ++ tricep + brachioradialis + knee +/- ankle -
+Left bicep ++ tricep + brachioradialis + knee +/- ankle -
+Babinski:absent/absent
+Clonus:absent
+Muscle tone:flaccid
+==Sensation==
+bilateral withdrawal response to pain stimulation at lower extremities
+decerebrate posture to central pain stimulation 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:Yes
+
+               hsCRP         Digoxin      
+time/item      (mg/dL)       (ng/mL)      
+1051019 [2327] 0.02                       
+1051020 [0130]               < 0.20       
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Cl           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1051019 [2327] 10.7          0.7           134           3.2           105          
+1051020 [0130] 9.1           0.6           135           2.8                        
+               T-BIL         Ca            Mg            P             AST          
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)       (U/L)        
+1051019 [2327] 0.34          1.95          0.81          1.9           506          
+1051020 [0130] 0.36          1.99          0.75          1.8           532          
+               LacticAcid    CK           
+time/item      (mmol/L)      (U/L)        
+1051019 [2327] 3.67                       
+1051020 [0130]               346          
+群組:
+
+               Troponin-T    eGFR          CK-MB        
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)      
+                              m^2)                      
+1051019 [2327]               99.5                       
+1051020 [0130] 135.8         118.9         9.44         
+群組:General BioChemistry
+
+               GGT           ALB           ALT           ALP           LDH          
+time/item      (U/L)         (g/dL)        (U/L)         (U/L)         (U/L)        
+1051019 [2327] 39            4.3                         46            778          
+1051020 [0130]                             424                                      
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1051019 [2327] 11.4          24.7          1.06         
+
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1051019 [2129] 7.323         32.7          37.8          17.1          -9.2         
+1051019 [2318] 7.381         27.7          228.3         16.6          -8.8         
+               SO2          
+time/item      (%)          
+1051019 [2129] 68.3         
+1051019 [2318] 99.8         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1051019 [2129] 1.14          13.9          42            3.74          143.3        
+1051019 [2318] 1.06          14.0          42            3.25          141.0        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1051019 [2129] 169           6.2          
+1051019 [2318]                            
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1051019 [2129] 169          
+1051019 [2327] 187          
+*********檢驗室:RL***********
+
+群組:General BioChemistry
+
+               Urine Pregna  ALT          
+               ncy Test                   
+time/item      (*)           (U/L)        
+1051019 [2130]               377          
+1051019 [2133] Negative                   
+群組:Yes
+
+               D-Dimer       NT-pro BNP   
+time/item      (μg/mL FEU)   (pg/mL)      
+1051019 [2130] 28.69         31.54        
+群組:
+
+               Troponin-T    eGFR          CK-MB         Mucus(S)     
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)       (*)          
+                              m^2)                                    
+1051019 [2130] 154.8         66.0          4.81                       
+1051019 [2133]                                           -            
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1051019 [2133] 2-5           0-2           2-5           -             -            
+               Bacteria      Others(S)    
+time/item      (*)           (*)          
+1051019 [2133] +             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1051019 [2133] 1.010         6.0           70 ( 1+ )     100 ( 1+ )    1+           
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1051019 [2133] 2+            ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1051019 [2133] Light Yellow  +                          
+群組:Biochemistry
+
+               CRE           Na            K             Cl            Ammonia N    
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)      (μmol/L)     
+1051019 [2130] 1.0           136           3.7           106           25           
+               Ca            Mg            LacticAcid    CK           
+time/item      (mmol/L)      (mmol/L)      (mmol/L)      (U/L)        
+1051019 [2130] 1.99          0.96          6.56          194          
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1051019 [2130] 11.2          23.8          1.04         
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1051019 [2130] 0.0           0.0           0.0           0.0           1.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1051019 [2130] 90.0          0.0           0.0           2.0           7.0          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1051019 [2130] 0.0           0.0           0.0 /100 WBC  WBC 100                    
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1051019 [2130] 21.15         4.09          13.2          40.1          98.0         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1051019 [2130] 32.3          32.9          204           12.7          -            
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1051019 [2130] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1051019 [2130] B             Positive 
+檢查紀錄(Examination Report) 
+Nil 
+影像報告(Imaging Report) 
+CT Without Contrast-Brain (2016/10/19)
+CT of brain without contrast enhancement show:
+1. No definite intracranial hemorrhage.
+2. Effacement of the sulci and decreased gray white matter differentiation, mainly at cerebellum and bilateral occipital lobes; suggestive of diffuse brain edema.  Hypodensity at bilateral globus pallidus is also noted, r/o hypoxic-ischemic encephalopathy.
+3. Intact cranial vault and skull base.
+4. Clear paranasal sinuses and normal pneumatization of mastoid air cells.
+
+Impression 
+Diffuse brain edema and hypodensity at bilateral basal ganglia, r/o hypoxic-ischemic encephalopathy. 
+病理報告(Pathology Report) 
+Nil 
+臆斷(Tentative Diagnosis) 
+1. Acute consciousness change, suspect hypoxic-ischemic encephalopathy with increased intra-cranial pressure
+2. Lactic acidosis, suspect tissue hypoxia related 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*1. Acute conscious change, suspect hypoxemic-encephalopathy, rule out propofol sedative effect
+2. Lactic acidosis, suspect tissue hypoxia related
+
+A:
+Generally healthy before, ADL totally independent
+No systemic disease
+Lived in Hong Kong with her husband
+
+10/19 Came to Taiwan for cosmetic surgeryat LMD杏立博全醫美診所
+      (IVG mesotherapy(電波拉皮), Liposonix(聚焦超音波溶脂), laser depilation)
+PM 15:00 Surgery started, initial vitals: pulse 63bpm, blood pressure 107/67mmHg, SpO2 98%
+          SpO2 fluctuated 88-92%, persistent rattling
+PM 17:30 HR dropped to 45, BP 90/50mmHg, SpO2 88%
+          -> Atropine 0.5mg IV STAT
+PM 17:45 Surgery completed, total 1480ug afentanyl, 284mg propofol, ketolorac 30mg
+          Persistent rattling, r/o upper airway obstruction and tongue drop
+          -> nasal airway
+PM 18:45 Poor arousal
+          -> Naloxone 0.5mg-> 0.5mg IV STAT for suspect opioid overdose
+          -> Ambu-bagging 30min for suspect CO2 retention
+PM 20:45 ETT for airway protection by anesthesiologist at local clinic
+
+PM 21:11 NTUH ER arrival, E2M4Vt, pupil 3/3mm, LR +/+
+          Initial vitals: BP: 133/55mmHg, PR: 75/min, RR: 22/min, Temperature: 34.5℃, SPO2: 100％.
+          -> D50W IV push
+Brain CT: diffuse brain swelling with ventricles size compressed while the formal report was pending
+VBG: pH 7.323/pCO2 32.7/pO2 37.8/HCO3 17.1/BaseExcess -9.2
+One touch sugar 169
+WBC 21.15, Seg 90%, Band 1%, HB 13.2, PLT 204, hsCRP 0.02
+CK 194, Troponin-T 154.8, CK-MB 4.81, NT-pro BNP 31.54
+BUN 10.7, CRE 1.0, AST 506, ALP 46, LDH 778, ALT 424, T-BIL 0.36, 
+Na 136, K 3.7, Cl 106, Ca 1.99, Mg 0.96, LacticAcid 6.56, Ammonia 25, D-Dimer 28.69
+
+Neurologist: hypoxemic-encephalopathy, rule out propofol sedative effect.
+BP elevation to 210/110mmHg without bradycardia, r/o IICP?
+Neurologist: Highly suspected HIE related IICP, try mannitol and hypothermia.
+Neurosurgeon: OP not indicated. Suggest medical treatment for IICP.
+
+<Lab>
+pH 7.323  pCO2 32.7  pO2 37.8  HCO3 17.1  BaseExcess -9.2  
+Sugar(One touch) 169  
+WBC 21.15  Seg 90%, Band 1% HB 13.2  PLT 204  hsCRP 0.02  
+CK 194  Troponin-T 154.8  CK-MB 4.81  NT-pro BNP 31.54  
+BUN 10.7  CRE 1.0  AST 506  ALP 46  LDH 778  ALT 424  T-BIL 0.36  
+Na 136  K 3.7  Cl 106  Ca 1.99  Mg 0.96  LacticAcid 6.56  Ammonia 25  
+D-Dimer 28.69  Digoxin < 0.20  
+
+<EKG>
+Sinus rhythm without STT change
+-> VPC bigeminy
+
+[Important study findings]
+10/19 Brain CT: diffuse brain swelling with ventricles size compressed, pending formal report
+
+[Important intervention and newly added medications]
+10/19 Local clinic: 雷射除毛,電波拉皮,超音波溶脂手術, ETT+MV for airway protection
+      NTUH: Mannitol, Hypothermia for IICP and HIE
+
+[Important consultation]
+10/19 Neuro: hypoxemic-encephalopathy, rule out propofol sedative effect. Arrange EEG.
+10/20 Neuro: Highly suspected HIE related IICP, try mannitol and hypothermia.
+10/20 NS: OP not indicated. Suggest medical treatment for IICP.
+
+[Important patient's and family's decisions]
+
+P:
+1. Keep empirical Unasyn.
+2. Keep hypothermia for hypoxic encephalopathy.
+   Arrange EEG as neurologist suggestion.
+   Pursue formal brain CT result.
+3. Pursue urine drug screen result.
+4. Keep mannitol 1amp Q6H for brain swelling with suspect IICP.
+   May add 3% saline 100ml IVF for 1hr Q8H if refractory.
+5. Inform poor neurological outcome.
+   Closely monitor neurological symptoms and signs.
+6. Complete survey for conscious disturbance.
+
+Treatment Goal: Complete hypothermia and EEG. 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左手 右手 
+雙腔導管留置：無  
+鼻胃管留置：無  
+氣管管路留置：有 氣管內管  6.5mm 
+胃造廔口：無  
+尿管留置：有 Two way Foley 16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：爸爸 媽媽 
+出院規劃收案篩檢：高危病患 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+Loss of brainstem reflex, inform family the poor prgnosis. Consult neurologist to assess the indication for surgical intervention. 
+醫師姓名 
+阮聖元 主治醫師 

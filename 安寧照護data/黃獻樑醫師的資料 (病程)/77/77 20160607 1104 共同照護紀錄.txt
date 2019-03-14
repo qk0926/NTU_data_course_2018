@@ -1,0 +1,36 @@
+<Doctor>
+1. Status epilepsy, suspect central nervous system infection or brain/leptomenigeal metastasis related, status post endotracheal tube intubation since 2016/6/3
+2. Suspected upper gastrointestinal bleeding
+3. Right breast cancer
+
+CXR: RML patch, improved
+Neutropenia improved
+Off Levophed use
+Plans:
+. Informed poor prognosis
+. monitor if seizure-like movement
+. MV support
+. Maxipime + Metronidazole
+. Keep I/O balance
+
+<Nurse>
+GCS:E4M2VT,ventilator support,偶有臉部seizure情形,抗seizure藥物使用,重力袋feeding,消化佳,持續觀察意識及seizure情形,給予家屬情緒支持
+
+[Pharmacist]
+Status epilepticus under multiple AEDs.
+Shift cefepime to Cravit for S/C ESBL E. coli., avoid DDI with Depakine.
+
+<Respiratory therapist>
+<Respiratory problem>
+1.Hypoxic Respiratory failure due to status epilepsy and 
+  pneumonia
+2.Poor con's under strong AED
+
+<Respiratory Plan>
+1.ABX with Cefepime and Vancomycin and Metronidazole for 
+  aspiration pneumonia 
+2.Keep Ventilator supprot
+3.Monitor respiratory pattern 
+4.Keep strong AED 
+5.monitor neurological status
+6.tracheosotmy is indication

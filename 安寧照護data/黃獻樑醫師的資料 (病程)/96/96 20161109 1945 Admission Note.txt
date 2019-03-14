@@ -1,0 +1,245 @@
+Admission Note 
+2016/11/09 19:45 
+主訴(Chief Complaint) 
+Informant:patient's son
+Lying on the floor with face down and inappropriate responses in the morning of 2016/11/09 
+病史(Brief History) 
+{Present Illness}
+The patient is a 80-year-old gentleman, with the medical history of glaucoma under regular follow-up at CGMH, and hypertension with unspecified medical history, although usage of Olmetec was provided. He had independent ADLs/IADLs, and was said to be able to climb stairs for 1-2 flights before feeling dyspnic. There was no known orthopnea or nocturnal dyspnea, but decubitus position was often observed during sleep. He had no history of stroke and there was no family history of stroke, although a brother has a history of premature death. He was last seen to be normal at around 18:45 in the evening of 11/8. When he was next seen by his son at around 7:30 today, he was seen laying on the floor and was not responseive to stimulations. Tachypnea was also noted. He was thus sent to our ED. Vital signs at arrival was blood pressure 253/109 mmHg, pulse rate: 83/min, respiratory rate: 16/min. Due to poor conscious, he was intubated. CT without contrast revealed a 15-18 ml pontine hemorrhage. CXR revealed bilateral increased infiltration of the lung fields with cardiomegaly, along with suspected Kerley B lines. His family denied him to have recent fever, URI/UTI/diarrhea symptoms, or body weight loss. Neurosurgeon was consulted, but surgical intervention was deemed to be not feasible, with poor prognosis informed. He was admitted for further management and evaluation.
+
+{Past History}
+1. Major disease: DM:(-); HTN (+, for about 20 years); Hyperlipidemia (-)
+2. Major operation: had cataract surgery in the past year
+3. Tobacco(+ about 1 stick per day for 30 years , quitted about 20 years ago); alcohol(-), betel nuts(-); drugs(-)
+4. Allergy(drug, food): 
+   Medication Allergy:UnClear  親屬描述 2016/11/09
+   Medication ADR:unknown
+   Allergy to Medical Device and Materials:UnClear  親屬描述 2016/11/09
+5. Vegetarian (-)
+6. Dominant hand: right
+7. Occupation: retired manager at a paper mill
+8. Education: high school
+9. Travel Hx: denied
+10.Contact/Cluster: denied
+11.Current medication:
+NTUH: no medical history at NTUH
+Other:
+中草藥: used some unspecified Chinese herbs obtained at 迪化街 for eye condition
+保健食品: used some unspecified functional foodstuff for eye condition
+
+{Family History}
+Denied family history of hypertension or stroke 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:高中
+職業:退休
+宗教信仰:道教
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:A，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有，已戒煙:20年
+喝酒:沒有，已戒酒:20年
+檳榔:沒有
+物質濫用:沒有
+
+Fall Risk Assessment
+總分:17
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+{Review of Systems}
+General：BW change(－), general malaise(－), chills(－), night sweats(－), 
+Skin: skin rash(－), itching/pruritus(－), pigmentation(－), jaundice(－), nails, hair change(－), edema (－), varicose veins(－), erythema (－)
+Head: headache(－), dizziness(－), vertigo(－), recent trauma(－), faint(－)
+Respiratory: dyspnea(+), cough(－), hemoptysis(－)
+Cardiovascular: chest tightness (－), previous MI(－), exertional dyspnea(+), orthopnea(－), cyanosis(－) 
+Gastrointestinal: poor appetite(－), nausea(－), vomiting(－), retching(－), hunger pain(－), abdominal pain(－), hepatitis(－), bowel habit change(－), constipation(－), diarrhea(－), 
+Urinary: urinary frequency(－), urgency(－), hesitancy(－), difficulty (－), nocturia(－), incontinence(－), hematuria(－), discharge(－), small stream of urine(-), dysuria(－) Hematologic: anemia(-), easy bruising(－), hx of transfusion (－), hx of thrombosis(－), petechiae(－), purpura(－)
+Musculoskeletal and Rheumatological: bone pain(－), myalgia(-), arthralgia(－), joint swelling(－), joint instability(－), limit of ROM(－), back pain (－), gout(－), morning stiffness(－), dry eye (－), dry mouth(-) 
+身體檢查(Physical Examination) 
+BH:  cm,  BW:  kg,
+T:  °C,  P:  bpm,  R:  /min,
+BP:  /  mmHg,
+Pain score: 
+
+{Physical Examination}
+Head & Neck 
+Eye: conjunctiva: pale(-); sclera: icteric(-); Mouth & Pharynx: lip: cyanosis(-); 
+Neck: jugular v: engorgement(-); carotid a: bruits(-); lymph node: palpable(-)
+Thorax & Lungs 
+Breath sounds: coarse breathing sound, bilateral with some basal rales; no significant wheezing
+Cardiovascular System 
+Heart: regular heart beat, muffled heart sound at apex, grade II/VI systolic murmur at apex
+Abdomen 
+Inspection: flat, with multiple moles
+Auscultation: bruits(-), bowel sound: normoactive; Percussion: rebound tenderness(-); shifting dullness(-); Liver: hepatomegaly(-); Spleen: splenomegaly(-); Kidneys: flank knocking tenderness(-)
+Extremities: edema(+, bilateral pretibial pitting edema)
+
+{Neurological Examination}
+NIHSS: 3222224444023X0 (34+X)
+Consciousness: E1M1-2Vt
+Orientation: not responsive to verbal stimulation
+Speech: no spontaneous speech or verbal output at all
+CN II VF: no response to ; Pupil size: R/L(1.5/4mm); Light reflex: R/L(-/-) 
+CN III, IV, VI: no spontaneous movements, fixed with negative response to OCR
+CN V Corneal reflex: R/L(-/-); Sensory: little response or grevience
+CN VII forehead wrinkle: symmetric; nasal-labial fold: symmetric; facial diplegia
+CN IX, X cough reflex (trace)
+CN XII tongue could not protude
+
+Muscle power (to noxious stimulation)
+Upper limbs
+Right: proximal 1 distal 0
+Left:  proximal 1 distal 0
+Lower limbs
+Right: proximal 0-1 distal 0
+Left : proximal 0-1 distal 0
+
+DTR：
+Right: biceps: ++, triceps: +, brachioradialis: ++, knee: ++, ankle: +
+Left: biceps: ++, triceps: +, brachioradialis: ++, knee: ++, ankle: +
+Plantar response: flexor/flexor
+
+Sensation modality: 
+Pinprick/Thermal: no significant responses 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1051109 [0839] 9.51          2.87          9.4           28.2          98.3         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1051109 [0839] 32.8          33.3          249           15.4          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1051109 [0839] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1051109 [0839] 56.4          8.0           0.4           2.8           32.4         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1051109 [0839] 0.0           0.0           0             -            
+群組:Yes
+
+               D-Dimer       NT-pro BNP   
+time/item      (μg/mL FEU)   (pg/mL)      
+1051109 [0834]               >35000       
+1051109 [0848] 6.93                       
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1051109 [0834] 10.7          24.4          0.99         
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Cl           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1051109 [0834] 60.5          4.7           134           3.9                        
+1051109 [0845]                                                         108          
+               Ammonia N     Ca            Mg            P             LacticAcid   
+time/item      (μmol/L)      (mmol/L)      (mmol/L)      (mg/dL)       (mmol/L)     
+1051109 [0834] 14            2.00                                      2.18         
+1051109 [0845]               2.01          0.79          4.1                        
+               CK           
+time/item      (U/L)        
+1051109 [0834] 106          
+1051109 [0845]              
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1051109 [0834] 15           
+群組:
+
+               Troponin-T    eGFR          CK-MB        
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)      
+                              m^2)                      
+1051109 [0834] 169.8         ***           5.09         
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1051109 [0823] 7.199         42.4          40.5          16.7          -11.7        
+               SO2          
+time/item      (%)          
+1051109 [0823] 64.0         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1051109 [0823] 1.23          11.1          33            4.02          139.9        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1051109 [0823] 179           2.0          
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1051109 [0826] 155          
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1051109 [0839] A             Positive     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1051109 [0839] Negative 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+CT Without Contrast-Brain 醫令: CT Without Contrast-Brain 報告醫師: 廖漢文 影像時間: 2016/11/09 08:47 (33070B0M) 發報告時間: 2016/11/09 09:16 CT scan of head without enhancement showed intracerebral hematoma at the posterior pons and midbrain with rupture into the 4th ventricle. 
+Mass effect and brain edema was also noted.The ventricles and sulci were dilated diffusely and symmetrically.Old insult noted in the right parietal lobe.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 謝文培 影像時間: 2016/11/09 08:37 (32001CYM) 發報告時間: 2016/11/09 10:08 Status post placement of endobronchial tube. cardiomegaly and mediastinal widening. ill-defined opacities at bilateral lungs. degenerative change of the thoracolumbar spine. 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1. Pontine hemorrhage, ~18 mL
+2. Hypertension
+3. Congestive heart failure, with acute pulmonary edema 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+1. Pontine hemorrhage, ~18 mL
+2. Hypertension
+3. Congestive heart failure, with acute pulmonary edema
+
+Treatment Goal:
+1. Control BP, keep BP < 160 mmHg
+2. Adequate hydration
+3. close follow up neurological sign, perform image study if necessary
+4. Inform poor prognosis 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左手 右手 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.5mm 
+胃造廔口：無  
+尿管留置：有  16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：兒子 
+出院規劃收案篩檢：高危病患 單位自訂條件 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident.
+Grave outcome was explained to the family. 
+醫師姓名 
+鄭建興 主治醫師 
+ 

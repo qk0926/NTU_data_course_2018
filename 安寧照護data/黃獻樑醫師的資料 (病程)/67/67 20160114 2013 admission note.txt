@@ -1,0 +1,632 @@
+2016/01/14 20:13 
+主訴(Chief Complaint) 
+Informant:daughter
+Progressive shortness of breath since this morning 
+病史(Brief History) 
+Present illness:
+  This 59-year-old male is a case of:
+1.Peritonitis, dialysis-associated peritonitis, with multidrug-resistant Acinetobacter baumanni bacteremia, with septic shock
+2. History of enterococcus faecalis bacteremia
+3. History of In-hospital cardiac arrest, ventricular tachycardia, status post cardiopulmonary resuscitation (30 minutes), status post endotracheal intubation and mechanical ventilation (2015/10/16 - 2015/10/29), extracorporeal membrane oxygenation (2015/10/16 - 2015/10/20) and intra-aortic balloon pump (2015/10/16 - 2015/10/23)
+4. Left pneumothorax, status post tube thoracostomy (2015/10/17-30)
+5. Coronary artery disease, left main and 3-vessel disease, with RCA total occlusion, status post rota-ablation and POBAS (DES*3) to RCA (2015/10/15)s/p rotaablation and POBAS to LM-LAD and LM-LCX (2015/10/19)
+6. Respiratory failure, type II and type IV, status post endotracheal intubation and mechanical ventilation (2015-11-18 -11/27), with BiPAP support
+7. End stage renal disease, previously on peritoneal dialysis, switched to SLED (11/19), CVVH (11/20 - 11/21), SLED (11/22 -), s/p permcath on 12/8
+8. Congestive heart failure, ischemic cardiomyopathy, (2015/11/14 LVEF 27.9%)
+9. Type 2 diabetes mellitus (2015/10/2 HbA1c: 7.0)
+10. Adrenal insufficiency
+11. Common carotid artery stenosis, bilateral (right 60%, left 40%)
+12. Right intertrochanter fracture of femur
+13. Peripheral arterial occlusive disease with right toe gangrene change
+14. Enterobacter cloacae bacillus bacteremia, focus to be determined, suspect right foot wound related, improve
+15. History of cerebrovascular accident twice (2007, 2008), mild right hemiparesis
+
+  He just discharged on 1/12 due to pertonitis related sepsis, this time he received regular dialysis on 1/12, then progressive productive cough with whitish sputum noted on 1/12 night, accompanied with fever and dropped BP(SBP around 60-70mmHg, then recovered to 120mmHg), this morning, due to persistent fever with cough, he was brought to ER.
+  At triage, initial vital sign showed BP:131/65mmHg, Pulse Rate: 109/min, Respiratory Rate: 26/min, Temperature: 38.4℃, SPO2: 96％, lab data revelaed no leukocytosis, but CXR showed suspected left lower lung pneumonia, ABx with Vancomycina and Tineam was empirically adminstrated, under impression of pneumonia with impending respiratory failure, he was admitted for further management.
+
+Family History:
+Medication Allergy:UnClear  病人自述 2013/02/16
+No  病人自述 2015/10/01
+UnClear  親屬描述 2015/10/16
+UnClear  病人自述 2009/12/10
+No  親屬描述 2015/10/16
+UnClear  親屬描述 2015/12/18
+No  病人自述 2011/02/15
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  病人自述 2013/02/16
+No  病人自述 2015/10/01
+UnClear  親屬描述 2015/10/16
+No  親屬描述 2015/10/16
+UnClear  親屬描述 2015/12/18
+Current Medication:
+NTUH:Vancomycin inj 500 mg/vial 500 mg TIW IF 2 days
+TIENAM (based on imipenem content) for Inj 500 mg/vial 500 mg STAT IF 1 days
+TIENAM (based on imipenem content) for Inj 500 mg/vial 500 mg Q12H IF 2 days
+Vancomycin inj 500 mg/vial 1000 mg STAT IF 1 days
+Kalimate 5 g/pack 3 pack TID PO 2 days
+(管4) Anxicam 2 mg/1 mL /amp 2 mg STAT IV 1 days
+警 Nimbex 10 mg/5 mL /amp 10 mg STAT IV 1 days
+Bricanyl Neb Soln 2.5 mg/1 mL 2 mL/amp 1 amp Q6H IH 2 days
+Atrovent Neb Soln 250 mcg/1 mL 2 mL/amp 1 amp Q6H IH 2 days
+Bricanyl Neb Soln 2.5 mg/1 mL 2 mL/amp 1 amp STAT IH 1 days
+Atrovent Neb Soln 250 mcg/1 mL 2 mL/amp 1 amp STAT IH 1 days
+Midorine 2.5 mg/tab 2 tab STAT PO 1 days
+警 Levophed 4 mg/4 mL /amp 8 mg QD cIF 2 days
+Takepron OD 30 mg/tab 1 tab QDAC LZ 28 days
+栓 Bisacodyl Supp 10 mg/pill 2 pill QDPRN R 28 days
+Sennapur 12.5 mg/tab 2 tab HS PO 28 days
+警 NovoRAPID FlexPen 300 U/3 mL /pen 10 U TIDAC SC 28 days
+警 Lantus SoloStar 300 IU/3 mL /pen 12 IU HS SC 28 days
+Trajenta F.C. 5 mg/tab 1 tab QD PO 28 days
+(8mm) Micro-Fine Insulin Pen Needle 31G /set 1 set QID IJ 28 days
+液 Megest Oral Susp 40 mg/1 mL 120 mL/btl 5 mL QD PO 28 days
+Amiodarone HCl (Cordarone 200 mg/tab) 1 tab BID PO 1 days
+Lansoprazole (Takepron OD 30 mg/tab) 1 tab QDAC LZ 1 days
+Mexiletine HCl (Meletin 100 mg/cap) 1 cap TID PO 1 days
+Mecobalamin (Methycobal 500 mcg/cap) 1 cap TID PO 1 days
+Bisacodyl (栓 Bisacodyl Supp 10 mg/pill) 2 pill QD R 1 days
+Cilostazol (100 Pletaal 100 mg/tab) 1 tab BIDAC30 PO 1 days
+Mesna (Siruta Inh Soln 200 mg/1 mL 3 mL/amp) 1 amp Q6H IH 1 days
+Sennoside A+B (Sennapur 12.5 mg/tab) 2 tab HS PO 1 days
+Quetiapine Fumarate (SeroQuel 25 mg/tab) 1.5 tab HS PO 1 days
+Midodrine HCl (Midorine 2.5 mg/tab) 1 tab TIW PO 1 days
+Acetaminophen (PARAMOL 500 mg/tab) 1 tab Q6HPRN PO 1 days
+Metoclopramide HCl (Prometin 5 mg/tab) 1 tab TIDAC30 PO 1 days
+Clopidogrel (Plavix 75 mg/tab) 1 tab QD PO 1 days
+Linagliptin (Trajenta F.C. 5 mg/tab) 1 tab QD PO 1 days
+Other:
+中草藥:nil
+保健食品:nil
+Past Medical History:
+1.Peritonitis, dialysis-associated peritonitis, with multidrug-resistant Acinetobacter baumanni bacteremia, with septic shock
+2. History of enterococcus faecalis bacteremia
+3. History of In-hospital cardiac arrest, ventricular tachycardia, status post cardiopulmonary resuscitation (30 minutes), status post endotracheal intubation and mechanical ventilation (2015/10/16 - 2015/10/29), extracorporeal membrane oxygenation (2015/10/16 - 2015/10/20) and intra-aortic balloon pump (2015/10/16 - 2015/10/23)
+4. Left pneumothorax, status post tube thoracostomy (2015/10/17-30)
+5. Coronary artery disease, left main and 3-vessel disease, with RCA total occlusion, status post rota-ablation and POBAS (DES*3) to RCA (2015/10/15)s/p rotaablation and POBAS to LM-LAD and LM-LCX (2015/10/19)
+6. Respiratory failure, type II and type IV, status post endotracheal intubation and mechanical ventilation (2015-11-18 -11/27), with BiPAP support
+7. End stage renal disease, previously on peritoneal dialysis, switched to SLED (11/19), CVVH (11/20 - 11/21), SLED (11/22 -), s/p permcath on 12/8
+8. Congestive heart failure, ischemic cardiomyopathy, (2015/11/14 LVEF 27.9%)
+9. Type 2 diabetes mellitus (2015/10/2 HbA1c: 7.0)
+10. Adrenal insufficiency
+11. Common carotid artery stenosis, bilateral (right 60%, left 40%)
+12. Right intertrochanter fracture of femur
+13. Peripheral arterial occlusive disease with right toe gangrene change
+14. Enterobacter cloacae bacillus bacteremia, focus to be determined, suspect right foot wound related, improve
+15. History of cerebrovascular accident twice (2007, 2008), mild right hemiparesis
+
+Hospitalization:入院日期:2015_12_18 出院日期:2016_01_12 診斷:Fever
+入院日期:2015_10_01 出院日期:2015_12_12 診斷:Fracture, femoral intertrochanteric
+
+Past Surgical History:2015_10_16  VA-ECMO set-up
+2015_10_20  1. VA-ECMO remove
+2. Left CFA endarterectomy
+2015_12_07  Permcath implantation via right internal jugular vein 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:國中
+職業:退休
+宗教信仰:無
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:O，RH:不清楚，輸血反應:無
+抽煙:沒有，已戒煙:4年
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:嗜睡
+認知功能:異常 時間障礙 記憶力障礙 計算能力障礙
+精神情緒狀態:異常 倦怠 其他 Confuse
+安全問題:有 其他 跌倒,預防管路自拔(雙手束帶及左手乒乓套保護性約束)
+睡眠形態:異常 其他 Confuse~倦怠
+
+Nutritional Screen
+攝食情形:差，攝食50%以下
+排便狀態:異常
+排便異常狀態:其他
+其他排便異常狀態:暫無(1/12 最後解便日)
+BMI:20.47
+
+Fall Risk Assessment
+總分:12
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1. Systemic: fever (-), BW loss (-), easy-fatigability (-), change of appetite (-), dizziness (-) 
+2. Skin: petechiae (-), purpura (-), itching (-), local redness and swelling (-), papules(-)
+3. HEENT: hearing loss (-), nasal discharge (-), sore throat (-) headache (-)
+4. Cardiovascular: palpitation (-), exertional dyspnea (-)
+5. Respiratory: dyspnea (-), chest pain (-), cough (-)
+6. GI: anorexia (-), nausea (-), vomiting (-), constipation (-), diarrhea (-), melena (-), change of bowel habit (-), small caliber of stool (-), tenesmus (-), flatulence (-), abdominal pain (-)
+7. Urogenital: flank soreness (-), hematuria (-), urinary frequency (-), urgency (-), dysuria(-), hesitancy (-), nocturia (-), polyuria (-), oliguria (-)
+8. Musculoskeletal: Back pain (-), bone pain (-), joint pain(-) 
+身體檢查(Physical Examination) 
+BH:167 cm   BW:57.1 kg
+T:36.5 P:103 R:31
+BP:132/60 mmHg
+Pain:0
+
+Consciousness: clear   GCS:E3M6V4
+HEENT: grossly normal, conjunctiva: pink, sclera: anicteric
+             Pupil: isocoric,  3mm/ 3mm
+Light reflex: L/R: +/+, EOM: full and free
+Neck: supple, JVE (-) LAP (-) Goiter(-) Carotid bruit(-)
+Chest: symmetric expansion, breath sound: clear
+Heart: RHB, no murmur
+Abdomen: soft and flat, bowel sound: normoactive
+         Liver/ spleen: impalpable
+         Tenderness (-) Rebound tenderness (-)
+Back: No knocking tenderness
+Extremities: Freely movable, Pitting edema (-) ; Cyanosis (-)
+Skin: Skin rash (-)
+Peripheral pulsation: intact 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1041219 [0515] 304          
+1041219 [1139] 332          
+1041219 [1822] 218          
+1041219 [2224] 218          
+1041220 [0525] 222          
+1041220 [1125] 211          
+1041220 [1622] 193          
+1041220 [2257] 223          
+1041221 [0453] 205          
+1041221 [1109] 253          
+1041221 [1633] 193          
+1041221 [2219] 234          
+1041222 [0437] 231          
+1041222 [1255] 182          
+1041222 [1644] 264          
+1041222 [2042] 205          
+1041223 [0457] 197          
+1041223 [1328] 199          
+1041223 [1647] 282          
+1041223 [2229] 155          
+1041224 [0521] 159          
+1041224 [1302] 161          
+1041224 [1807] 205          
+1041224 [2217] 149          
+1041225 [0547] 169          
+1041225 [1131] 238          
+1041225 [1831] 176          
+1041225 [2111] 195          
+1041226 [1208] 155          
+1041226 [1839] 128          
+1041227 [0544] 168          
+1041227 [1717] 210          
+1041228 [0446] 176          
+1041228 [1652] 232          
+1041229 [0445] 236          
+1041229 [1733] 170          
+1041230 [0511] 252          
+1041230 [1707] 188          
+1041231 [0507] 238          
+1041231 [1726] 260          
+1050101 [0538] 257          
+1050101 [1731] 275          
+1050102 [0440] 283          
+1050102 [1649] 242          
+1050103 [0448] 287          
+1050104 [0446] 275          
+1050104 [1706] 286          
+1050105 [0526] 257          
+1050105 [1835] 195          
+1050106 [0441] 278          
+1050106 [1703] 349          
+1050107 [0556] 289          
+1050107 [1735] 336          
+1050108 [0538] 352          
+1050108 [1626] 337          
+1050109 [0437] 331          
+1050109 [1741] 183          
+1050110 [0453] 301          
+1050110 [1738] 326          
+1050111 [0459] 280          
+1050111 [1615] 353          
+1050112 [0605] 345          
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041219 [1355] 12.80         3.67          10.1          31.7          86.4         
+1041222 [0908] 10.60         3.45          9.6           29.4          85.2         
+1041226 [0741] 9.02          3.27          8.8           27.6          84.4         
+1041231 [0820] 8.77          3.38          9.2           28.8          85.2         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1041219 [1355] 27.5          31.9          351           20.8          -            
+1041222 [0908] 27.8          32.7          373           20.1          -            
+1041226 [0741] 26.9          31.9          390           19.3          -            
+1041231 [0820] 27.2          31.9          302           18.7          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041219 [1355] 0.0           0.0           0.0           0.0           0.0          
+1041222 [0908] 0.0           0.0           0.0           0.0           2.9          
+1041226 [0741] 0.0           0.0           0.0           0.0           3.0          
+1041231 [0820] 0.0           0.0           0.0           0.9           0.9          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041219 [1355] 86.2          0.4           0.1           8.0           5.3          
+1041222 [0908] 76.2          0.0           0.9           11.4          8.6          
+1041226 [0741] 63.0          7.0           2.0           18.0          7.0          
+1041231 [0820] 68.6          10.5          0.0           12.4          6.7          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041219 [1355] 0.0           0.0           0             -            
+1041222 [0908] 0.0           0.0           0.0           -            
+1041226 [0741] 0.0           0.0           0.0 /100 WBC  WBC 100                    
+1041231 [0820] 0.0           0.0           0.0           -            
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               Alb           T-BIL         ALT           CRE           Na           
+time/item      (g/dL)        (mg/dL)       (U/L)         (mg/dL)       (mmol/L)     
+1041219 [0625]                                                                      
+1041222 [0908] 2.8                                       5.3           127          
+1041226 [0741]               0.92          <3                          125          
+1041231 [0820]                                           4.4           132          
+               K             Ca            P             Mg            CRP          
+time/item      (mmol/L)      (mmol/L)      (mg/dL)       (mmol/L)      (mg/dL)      
+1041219 [0625]                                                         27.45        
+1041222 [0908] 4.7           1.91          7.7                         19.90        
+1041226 [0741] 3.6           2.09          7.8                                      
+1041231 [0820] 3.4           2.09          5.8           1.16          15.27        
+群組:TDM
+
+               Vancomycin   
+time/item      (μg/mL)      
+1041222 [0908] 9.56         
+1041231 [1229] 14.06        
+群組:Others
+
+               Procalcitoni 
+               n            
+time/item      (ng/mL)      
+1041219 [0625] 6.813        
+1041222 [0908] 2.915        
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1041228 [0637] O             Positive     
+1050103 [1650] O             Positive     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1041228 [0637] Negative     
+1050103 [1650] Negative     
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050103 [1044] 8.36          3.96          10.6          34.9          88.1         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050103 [1044] 26.8          30.4          291           18.9          -            
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050103 [1044] 7.430         36.6          20.7          24.5          -0.1         
+群組:Biochemistry
+
+               Na            K             Mg           
+time/item      (mmol/L)      (mmol/L)      (mmol/L)     
+1050103 [1044] 134           3.9           1.24         
+*********檢驗室:OP***********
+
+群組:STOOL
+
+               O.B.         
+time/item      (*)          
+1041219 [1223] +/-          
+*********檢驗室:B5***********
+
+群組:
+
+               VRE screenin 
+               g            
+time/item      ()           
+1041218 [1621] Enterococcus 
+                faecium 3+  
+
+
+*********檢驗室:YM***********
+
+群組:
+
+               Free Ca(急重症自  K+(急重症自行檢驗)   Na(急重症自行檢驗)   Suger(急重症自行檢  LacticAcid(急 
+               行檢驗)                                      驗)            重症自行檢驗)      
+time/item      (mmol/L)      (mmol/L)      (mmol/L)      (mg/dL)       (mmol/L)     
+1050113 [0716] 1.25          5.14          136.9         343           1.7          
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050113 [0716] 7.422         26.1          50.6          17.2          -7.5         
+               SO2          
+time/item      (%)          
+1050113 [0716] 87.1         
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050113 [0718] 301          
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ammonia N    
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)     
+1050113 [0721]                                                                      
+1050113 [0725] 37.8          4.1           136           5.2                        
+1050113 [1050]                                                         25           
+               T-BIL         Lipase        Ca            Mg            LacticAcid   
+time/item      (mg/dL)       (U/L)         (mmol/L)      (mmol/L)      (mmol/L)     
+1050113 [0721]                                                         1.89         
+1050113 [0725] 1.21          6             2.41          1.51                       
+1050113 [1050]                                                                      
+               CK            Troponin I   
+time/item      (U/L)         (ng/mL)      
+1050113 [0721]               0.106        
+1050113 [0725] 10                         
+1050113 [1050]                            
+群組:
+
+               CK-MB        
+time/item      (ng/mL)      
+1050113 [0725] 0.894        
+群組:Yes
+
+               pro-BNP      
+time/item      (pg/mL)      
+1050113 [0725] >35000       
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1050113 [0721] 11.5          36.5          1.09         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1050113 [0725] <3           
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050113 [0721] 0.0           0.0           9.0           4.0           12.0         
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050113 [0721] 45.0          0.0           3.0           18.0          8.0          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050113 [0721] 1.0           0.0           0.0 /100 WBC  WBC 100                    
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050113 [0721] 5.47          4.16          11.6          37.5          90.1         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050113 [0721] 27.9          30.9          302           19.7          -            
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1050113 [0725] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1050113 [0725] O             Positive     
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1041217 [1341] 207          
+1041217 [1813] 322          
+1041217 [2007] 348          
+1041218 [0410] 328          
+1041218 [1100] 290          
+1041218 [1756] 357          
+1041218 [2329] 396          
+
+*********檢驗室:B2***********
+B2-1041217-7072613   BLOOD
+     ID+DS Blood.#1:       No growth after 5 days
+B2-1041217-7067626   BLOOD
+     ID+DS Blood.#1:       No growth after 5 days
+
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               CRE           Na            K             Ammonia N     Ca           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)      (mmol/L)     
+1041217 [1341] 2.5           129           5.8           22            2.51         
+               LacticAcid   
+time/item      (mmol/L)     
+1041217 [1341] 2.49         
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1041217 [1341] 7.393         34.2          46.4          21.0          -4.2         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1041217 [1341] 14           
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041217 [1341] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041217 [1341] 81.4          0.3           0.2           10.9          7.2          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041217 [1341] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041217 [1341] 19.51         4.22          12.0          37.4          88.6         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041217 [1341] 28.4          32.1          317           21.4          - 
+檢查紀錄(Examination Report) 
+2015/11/14 Cardiac echo:
+Interpretation Summary
+‧The left ventricle is dilated.
+‧Left ventricular systolic function is severely reduced.
+‧There are regional wall motion abnormalities as specified.
+‧Mitral regurgitation, mild
+‧Tricuspid regurgitation, mild
+
+LVEF:27.9% 
+影像報告(Imaging Report) 
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 葉建德 影像時間: 2016/01/09 11:18 (32001CXM) 發報告時間: 2016/01/09 15:53 cardiomegaly. mediastinal widening. ill-defined opacities in bilateral lungs. placement of a nasogastric tube and a central venous line.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 李文正 影像時間: 2016/01/06 10:28 (32001CYM) 發報告時間: 2016/01/06 11:26 Line(s)/tube(s) present. Bilateral lung opacities. Clinical correlation and follow up suggested.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳育青 影像時間: 2016/01/03 11:24 (32001CYM) 發報告時間: 2016/01/03 17:43 EXAMINATION: Chest : AP View (Supine)
+FINDINGS:
+A right double lumen catheter. A nasogastric tube. Normal heart size. Bilateral consolidation and/or pleural effusion.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 陳佾昌 影像時間: 2015/12/31 15:38 (32001CXM) 發報告時間: 2015/12/31 16:02 Chart No: 5126496
+Accession No: T0159353560
+EXAMINATION: Chest - PA View (Standing).
+FINDINGS:
+Cardiomegaly. Tortuous aorta with calcification. Bilateral lung consolidation. Obscured bilateral costophrenic angles. Degenerative change of the thoracolumbar spine. Previous fracture(s) at left rib(s). Placement of double lumen catheter, nasoenteric tube.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳育青 影像時間: 2015/12/25 18:46 (32001CYM) 發報告時間: 2016/01/03 14:53 EXAMINATION: Chest : AP View (Supine)
+FINDINGS:
+A right double lumen catheter. A nasogastric tube. Normal heart size. Mediastinal widening. Bilateral patchy opacities.
+CT With/Without Contrast-Pelvis 醫令: CT With/Without Contrast-Pelvis 報告醫師: 葉建德 影像時間: 2015/12/25 13:39 (33072B5M) 發報告時間: 2015/12/25 19:06 CT scan of the abdomen and pelvis without/with IV contrast enhancement shows:
+> No definite lesion in liver. No radiopaque gallbladder stone.
+> No definite lesion in the spleen, pancreas, and both adrenal glands. 
+> Atrophic change at both kidneys with vascular calcification. Bilateral small renal cysts. Enlarged prostate with nodular enhancement.  > Placement of a peritoneal dialysis catheter. Moderate ascites with peritoneal thickening.
+> Placement of a nasogastric tube. A large duodenal diverticulum at 2nd portion of duodenum.
+> Atherosclerotic change with calcified plaque at aortic wall, bifurcation and bilateral iliac vessels.
+> Mild degenerative change of the spine with marginal spur formation. Previous fracture at right proximal femur. 
+> Bilateral pleural effusion. Atelectasis and/or consolidation in bilateral basal lungs.
+CT With/Without Contrast-Abdomen 醫令: CT With/Without Contrast-Abdomen 報告醫師: 葉建德 影像時間: 2015/12/25 13:39 (33072B3M) 發報告時間: 2015/12/25 19:06 CT scan of the abdomen and pelvis without/with IV contrast enhancement shows:
+> No definite lesion in liver. No radiopaque gallbladder stone.
+> No definite lesion in the spleen, pancreas, and both adrenal glands. 
+> Atrophic change at both kidneys with vascular calcification. Bilateral small renal cysts. Enlarged prostate with nodular enhancement.  > Placement of a peritoneal dialysis catheter. Moderate ascites with peritoneal thickening.
+> Placement of a nasogastric tube. A large duodenal diverticulum at 2nd portion of duodenum.
+> Atherosclerotic change with calcified plaque at aortic wall, bifurcation and bilateral iliac vessels.
+> Mild degenerative change of the spine with marginal spur formation. Previous fracture at right proximal femur. 
+> Bilateral pleural effusion. Atelectasis and/or consolidation in bilateral basal lungs.
+Abdomen:KUB 醫令: Abdomen:KUB 報告醫師: 梁博欽 影像時間: 2015/12/21 14:00 (32006C0M) 發報告時間: 2015/12/23 19:32 S/P PD catheter in the low abdomen. S/P NG intubation. Mild Prominent bowel loops at LUQ of the abdomen. blurred right psoas shadow. surgical material at left inguinal region.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 陳佾昌 影像時間: 2015/12/17 14:18 (32001CXM) 發報告時間: 2015/12/17 15:26 Chart No: 5126496
+Accession No: T0159272289
+EXAMINATION: Chest - PA View (Standing).
+FINDINGS:
+Cardiomegaly. Calcification(s) of aorta. Ill-defined opacities at bilateral lungs. Patchy opacities at left middle lung field. Placement of double lumen catheter, nasoenteric tube.
+Abdomen:KUB 醫令: Abdomen:KUB 報告醫師: 劉高郎 影像時間: 2015/12/17 15:45 (32006C0M) 發報告時間: 2015/12/20 14:00 EXAMINATION: Abdomen:KUB
+FINDINGS:
+1. Status post Tenchkoff catheter replacement with tip in the pelvic cavity 
+2. Increased bowel gas and fluid retention are noted in the abdomen, compatible with ileus. 
+3. Nasogastric tube insertion is noted with tip in the stomach. 
+4. The bilateral renal shadows are obscured. 
+5. Operative change of the right femur with bone fragments.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳世杰 影像時間: 2015/11/18 13:55 (32001CYM) 發報告時間: 2016/01/09 17:53 Chest AP view (supine) shows grossly stationary in compare to previous the nearest one similar study, suggest correlated with clinical manifestation.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳世杰 影像時間: 2015/11/18 22:35 (32001CYM) 發報告時間: 2016/01/09 17:53 Chest AP view (supine) shows grossly stationary in compare to previous the nearest one similar study, suggest correlated with clinical manifestation.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳世杰 影像時間: 2015/10/30 08:26 (32001CYM) 發報告時間: 2016/01/09 17:53 Chest AP view (supine) shows grossly stationary in compare to previous the nearest one similar study, suggest correlated with clinical manifestation.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳世杰 影像時間: 2015/10/28 10:57 (32001CYM) 發報告時間: 2016/01/09 17:53 Chest AP view (supine) shows grossly stationary in compare to previous the nearest one similar study, suggest correlated with clinical manifestation.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳世杰 影像時間: 2015/10/24 11:01 (32001CYM) 發報告時間: 2016/01/09 17:53 Chest AP view (supine) shows grossly stationary in compare to previous the nearest one similar study, suggest correlated with clinical manifestation.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳世杰 影像時間: 2015/10/21 19:16 (32001CYM) 發報告時間: 2016/01/09 17:53 Chest AP view (supine) shows grossly stationary in compare to previous the nearest one similar study, suggest correlated with clinical manifestation.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳世杰 影像時間: 2015/10/17 18:28 (32001CYM) 發報告時間: 2016/01/09 17:53 Chest AP view (supine) shows grossly stationary in compare to previous the nearest one similar study, suggest correlated with clinical manifestation. 
+病理報告(Pathology Report) 
+S1111742
+Kidney,side not stated,biopsy,diabetic nephropathy    
+ S1542487
+Artery,common femoral, left,endarterectomy,fibrous plaque with calcification, 
+臆斷(Tentative Diagnosis) 
+1.Productive cough with shortness of breath, suspect pneumonia related
+2.Peritonitis, dialysis-associated peritonitis, with multidrug-resistant Acinetobacter baumanni bacteremia, with septic shock
+3.History of enterococcus faecalis bacteremia
+4.History of In-hospital cardiac arrest, ventricular tachycardia, status post cardiopulmonary resuscitation (30 minutes), status post endotracheal intubation and mechanical ventilation (2015/10/16 - 2015/10/29), extracorporeal membrane oxygenation (2015/10/16 - 2015/10/20) and intra-aortic balloon pump (2015/10/16 - 2015/10/23)
+5.Left pneumothorax, status post tube thoracostomy (2015/10/17-30)
+6.Coronary artery disease, left main and 3-vessel disease, with RCA total occlusion, status post rota-ablation and POBAS (DES*3) to RCA (2015/10/15)s/p rotaablation and POBAS to LM-LAD and LM-LCX (2015/10/19)
+7.Respiratory failure, type II and type IV, status post endotracheal intubation and mechanical ventilation (2015-11-18 -11/27), with BiPAP support
+8.End stage renal disease, previously on peritoneal dialysis, switched to SLED (11/19), CVVH (11/20 - 11/21), SLED (11/22 -), s/p permcath on 12/8
+9.Congestive heart failure, ischemic cardiomyopathy, (2015/11/14 LVEF 27.9%)
+10.Type 2 diabetes mellitus (2015/10/2 HbA1c: 7.0)
+11.Adrenal insufficiency
+12.Common carotid artery stenosis, bilateral (right 60%, left 40%)
+13.Right intertrochanter fracture of femur
+14.Peripheral arterial occlusive disease with right toe gangrene change
+15.Enterobacter cloacae bacillus bacteremia, focus to be determined, suspect right foot wound related, improve
+16.History of cerebrovascular accident twice (2007, 2008), mild right hemiparesis 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+1.Productive cough with shortness of breath, suspect pneumonia related
+2.Peritonitis, dialysis-associated peritonitis, with multidrug-resistant Acinetobacter baumanni bacteremia, with septic shock
+3.Coronary artery disease, left main and 3-vessel disease, with RCA total occlusion, status post rota-ablation and POBAS (DES*3) to RCA (2015/10/15)s/p rotaablation and POBAS to LM-LAD and LM-LCX (2015/10/19)
+4.End stage renal disease, s/p H/D QW246
+5.Congestive heart failure, ischemic cardiomyopathy, (2015/11/14 LVEF 27.9%)
+
+S: productive cough with fever for one day
+
+O:
+vital sign:T:36.5 P:103 R:31 BP:132/60 mmHg
+
+Heart:RHB, no murmur
+Chest:bilateral coarse breath sound 
+
+A:
+Fever with productive cough, CXR revealed suspected left lower lung pneumonia patch, no leukocytosis
+P:
+-Add empirical ABx with Colistin and Meropenem
+-Add Mucolytic agent
+-Keep currrent anti-coagulation agent
+-Consider hold PD tube remove surgery
+-Consider palliative management
+
+Treatment Goal:
+-Infection control and supportive management 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右鎖骨下 左手 左手IV Cath*1
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：無    
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：10
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：配偶 
+出院規劃收案篩檢：高危病患 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the resident's assessment. 
+醫師姓名 
+古世基 主治醫師 

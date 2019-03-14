@@ -1,0 +1,112 @@
+Brief Summary of this week    
+After tranferral to 4C2, eraxis and meropenem were continously given.
+
+On 6/11 rapid HR about 130 without BP drop at night. Under the impression of AfRVR, herbesser 1# bid was prescribed and concor was added later. On 6/13 we consulted ophthalmologist and ocular involvement was founded. Anidulafungin was changed to diflucan due to suggestion of pharmacist, while later on the infectionologist necessitate anidulafungin for candida IE. On 6/14 cardiac echo was performed and a 3.6*1.6 cm vegetation was noted. Cardiac surgery was indicated. On the same day right limb muscle weakness was noted. CT revealed ICH of 20ml. Therefore, her family decide not to undergo the surgery although it was indicated. under the impression of ICH, the hypertension was treated with Concor, and we added Diovan(ARB), and Perdipine(CCB) then. Mannitol was also given to treated her brain edema. Repeated CT on 6/18 showed stablized hematoma with increased edematous change. She should recieve further follow-up and management in ICU. 
+
+
+Assessment 
+< Fluid and Nutrition >
+        I/O   urine  u+s   stool   pigtail  tapping  NG  oral  
+06/17  -1136  2900   1340    60      20        0      0   0
+06/18  - 540  2040   1290   370
+06/19  +  56  2820          500       0        0      0   0
+
+under aldactone 1# tidpc
+* BW: +10kg->keep negative
+
+< Antibiotics >
+Ciproxin      06/08 ~ 06/09
+Diflucan      06/08 ~ 06/10  ( yeast-like organism )
+Anidulafungin 06/10 ~ 06/14  ( B/C 6/3-4 Candida )
+diflucan      06/14 ~ 06/17  ( Phx sugesstion)
+Mepem         06/10 ~ 
+Anidulafungin 06/17 ~        ( for candida IE)
+
+0604 blood: culture (+,candida, s to all)
+0610 urine: analysis(+, WBC 75), culture (+, GPB)
+     liver abscess: acid fast(-), culture(pending?)
+           ascites: culture(-)
+0611 sputum: gram(-), culture(-)
+0612 pleural effusion: rivalta(+), acid fast(-), gram(-)
+                      culture (pending)
+0613 blood: culture (-)
+0618 blood: culture (pending)
+     sputum: gram(pending), culture (pending)
+
+*keep meropenem and anidulafungin. consider vanco if GPC infection likely
+*septic work-up pending
+*r/o drug fever or tumor fever, consider procalcitonin?
+
+Opthamologist: 
+od vitreous stream of balls at posterior half (fungal?) 
+os few patch of whitish infiltrate at paramacula
+   mainly nasal part
+
+< Vital signs >
+      Conscious E M V    T    P    R     BP   SpO2
+06/14  clear    4 6 t  37.7  94   12  116/84   99 %
+06/16  unclear  3 5 t  36.9  89   19  143/66   99 %
+06/17  unclear  2 5 t        92   21  146/68   99 %
+06/18  unclear  1 5 t        85   20  137/63   99 %
+06/19  unclear  1 5 t  38.3  89   24  139/64   100% 
+< data >
+        RBC/Hb     WBC/Seg    PLT/INR/PTT
+06/13  3.58/10.9  7.88/        76
+06/15      /9.3   7.75         89/0.99/32.2
+06/18  2.91/8.9   6.09        122
+
+       Alb   AST/ALT   T/D bil    BUN/CRE
+06/13  2.9      /14   0.87/          /0.4
+06/15                             9.8/0.4
+06/17                            16.7/0.4
+
+        Na   K    Ca   P     Mg    Cl
+06/12  132  3.3        1.2  0.92
+06/13       3.3  2.00  3.4  0.86  
+06/14       3.4        3.3  0.84
+06/15  130  3.9             0.92
+06/16  134  4.2
+06/17  134  3.4             0.66
+06/18  139  3.7        3.1  0.83
+06/19       3.9             1.09
+
+      prealbumin  transferrin  pro-BNP
+06/15    10.7         81.9       5091
+
+06/19 CRP 1.09
+
+< Af >
+CHA2DS2VASc > 2 ( HTN, DM, age, female )
+SAMeTT2R2 > 2 ( female, HTN+DM, Herbesser, Asian* )
+if persisted Af shows
+Non-VKA-oral anticoagulant would be considered
+e.g. dabigatran, and xabans
+
+-> herbesser and concor, add anticoagulant when ich stable
+
+< heart echo >
+A 3.6*1.6 cm vegetation on posterior mitral valve with moderate to severe mitral regurgitation
+
+< pancreatic cancer>
+2016/06/09 CT: 
+1. tiny nodules at right lung with opacities and pleural effusion. 
+2. Multiple enlarged L.N.s at mesenteric root
+3. A cystic lesion at S3 liver.
+4. Another hypodense lesion(3.8cm) at S3 liver, nature ? 
+5. Multiple small hypodense lesions at lower pole of spleen, with diameter up to 2.1cm. nature ? 
+6. Multiple small hypodense lesions of both kidneys, nature ? 
+
+2016/06/12 pleural effusion cytology: Positive for malignant cells (Adenocarcinoma, metastatic)
+
+<ICH>
+2016/06/19 CT: stablized hematoma with increased edematous cahgne 
+NS: keep f/u
+* keep bp control (concor 1# bid, diovan 1# q12h, perdipine 10mg qd, norvasc 1# bid) and mannitol
+
+Plan 
+1. monitor GCS and MP
+2. bp control and mannitol use
+3. keep antibiotics and antifungal agent. r/o infection or drug fever or tumor fever
+4. Chest care
+4. weaning the ventilator
+5. palliative care if deterioration noted

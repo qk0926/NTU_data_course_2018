@@ -1,0 +1,327 @@
+Admission Note 
+2016/10/01 05:28 
+主訴(Chief Complaint) 
+Informant:medical record
+Dyspnea found at nursing home; cardiac arrest found at NTUH triage on 2016/10/01 
+病史(Brief History) 
+The 77-year-old woman has the following medical conditions:
+1. Ruptured azygos ACA A2 segment aneurysm with SAH, IVH and hydrocephalus, complicated with multiple infarction, s/p bifrontal craniotomy for interhemisphere approach aneurysm clipping and EVD insertion (2016/03/25), s/p ventriculoperitoneal shunt implantation via Right Keen's point (2016/04/18), with right hemiplegia and drowsiness
+2. Congestive heart failure
+3. Hypertension
+4. Paroxysmal atrial fibrillation
+5. Chronic lymphocytic leukemia
+6. Previous HCAP and UTI (2016/07-08)
+
+She was independent in ADLs before 2016/03. On 2016/03/24, she developed sudden consciousness loss, found by her son at home. Brain CT showed ventriculomegaly, diffuse SAH and IVH in 4th ventricle. CTA showed aneurysm rupture at distal azygos ACA with daughter sacs. On 2016/03/25 morning, bifrontal craniotomy for interhemisphere approach aneurysm clipping and EVD insertion were performed (NS 王國川). The consciousness level had been around E2M4 after the operation for near 1 month. As a result, a second operation for VPS creation was performed on 2016/04/18. She was still near vegetative after the VPS, and was further cared at 景美 nursing home after her medical problems stabilized.
+In 2016/07, she was again admitted to NTUH due to HCAP and UTI. Tazocin and Diflucan were administered. The admission course was complicated with (1) left nasolacrimal duct pus discharge, culture: Serratia marcescens (2+, R to Augmentin and Cravit), s/p ceftazidime (2) difficult fluid balance, sometimes lung edema (3) fell down on 8/7, though a brain CT was ok (4) AKI and bilateral hydronephrosis even with a Foley but subsided spontaneous later. She was discharged on 2016/09/02.
+This time, she was found dyspnea at the nursing home at night. She was brought to ER by ambulance. At triage, cardiac arrest was found (2016/10/01 02:04 ER, T 33.6). CPR was performed immediately due to absence of the family. Initial rhythm was asystole. We acheived ROSC in 15 minutes. Post ROSC EKG showed sinus rhythm, 93/min, first degree AVB, widened QRS (likely RBBB and certain IVCD), and no obvious ST-T change. Blood test showed leukocytosis and severe anemia. Suction from ETT yielded a lot or purulent sputum. In summary, we considered the cause of CA to be sputum impaction. She was put on Tazocin, Levophed and was transferred to 1A1 ICU for further care.
+
+Family History:no CAD
+Medication Allergy:No  病人自述 2009/09/03
+No  親屬描述 2016/07/14
+UnClear  親屬描述 2016/05/06
+No  親屬描述 2016/03/25
+No  親屬描述 2016/03/25
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  親屬描述 2016/07/14
+UnClear  親屬描述 2016/05/06
+No  親屬描述 2016/03/25
+No  親屬描述 2016/03/25
+No  親屬描述 2016/03/25
+Current Medication:
+NTUH:Atropine 1 mg/1 mL /amp 0.5 mg STAT IV 1 days
+警 Vitagen 50% 20 mL/amp 40 mL STAT IV 1 days
+警 Levophed 4 mg/4 mL /amp 8 mg QD cIF 2 days
+警 Humulin R 1000 U/10 mL /vial 10 U STAT IV 1 days
+警 Adrenaline 1 mg/1 mL /amp 4 mg STAT IV 1 days
+(鈣) Vitacal 5.4 mEq/20 mL /amp 5.4 mEq STAT IV 1 days
+警 Humulin R 1000 U/10 mL /vial 10 U STAT IV 1 days
+警 Vitagen 50% 20 mL/amp 40 mL STAT IV 1 days
+Rolikan 16.6 mEq/20 mL /amp 66.4 mEq STAT IV 1 days
+Maxipime 500 mg/vial 1000 mg QD IV 2 days
+Maxipime 500 mg/vial 1000 mg STAT IV 1 days
+Diphenhydramine HCl 30 mg/1 mL /amp 30 mg STAT IF 1 days
+Lasix 40 mg/tab 1 tab QD PO 28 days
+Aldactone 25 mg/tab 1 tab QD PO 28 days
+Cordarone 200 mg/tab 1 tab BID PO 28 days
+Nexium 40 mg/tab 1 tab QDAC1HR PO 28 days
+Sennapur 12.5 mg/tab 2 tab HS PO 28 days
+自費 Biofermin-R Powder 6 mg/1 g /pack 1 pack TIDPC PO 28 days
+液 Keppra Oral Solution 100 mg/1 mL 10% 300 mL/btl 5 mL Q12H PO 28 days
+液 Depakine Soln 200 mg/1 mL 40 mL/btl 3 mL Q8H PO 28 days
+Eltroxin 100 mcg/tab 0.5 tab QDAC1HR PO 28 days
+Encore 300 mg/3 mL /amp 300 mg Q8H IH 28 days
+Other:nil
+中草藥:nil
+保健食品:nil
+Past Medical History:as above
+Hospitalization:入院日期:2016_07_14 出院日期:2016_09_01 診斷:Pneumonia, lobar
+入院日期:2016_03_25 出院日期:2016_06_13 診斷:Acute dacryocystitis, left
+Past Surgical History:2016_03_25  Bifrontal craniotomy for interhemisphere approach aneurysm clipping and EVD insertion
+2016_04_18  Ventriculoperitoneal shunt implantation via Right Keen's point
+Travel History:nil 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:不識字
+職業:家管
+宗教信仰:佛教
+婚姻狀態:喪偶
+使用語言:國語 台語 
+口述血型:A，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Fall Risk Assessment
+總分:13
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+General:
+Fever(-), weight change(-), syncope(-), night sweats(-)
+HEENT:
+Headache(-), dizziness(-), ENT(-), neck stiffness(-), neck mass(-), goiter(-)
+CV-Chest:
+Angina/dyspnea(-), palpitation(-), orthopnea/nocturnal dyspnea/cough(-)
+Increased sputum amount(+, for 1 day), sputum purulence(+, for 1 day), hemoptysis(-), cough(-), wheeze(-)
+Abdomen:
+Abdominal pain(-), nausea(-), vomiting(-), heartburn(-), jaundice(-), constipation(-), diarrhea(-), hematemesis(-), tarry stools(-)
+Others:
+Dysuria(-), hematuria(-)
+Bruises(-), previous transfusions reactions(-)
+Edema(-), claudication(-)
+Musculoskeletal discomfort(-), numbness(-), paresis/plegia(-)
+Skin, nail and breast abnormality(-) 
+身體檢查(Physical Examination) 
+BH: 163 cm,  BW: 86.48 kg
+T: 35.0 °C,  P: 86 bpm,  R: 24 /min
+BP: 158 / 79 mmHg
+Pain score:0
+
+Consciousness: coma
+Muscle power: N/A
+Conjunctiva: pale, sclera: anicteric
+Jugular vein: not engorged, goiter(-), meningeal signs(-), carotid bruit(-)
+Lymphadenopathy(-)
+Breathing sound: crackles at basal
+Heart sound: distant, regular, no murmurs
+Abdomen: soft, tenderness(-), bowel sound: hypoactive
+Liver and spleen: impalpable
+Skin lesions(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1051001 [0210] 7.269         71.6          204.7         33.1          5.9          
+1051001 [0231] 7.194         63.9          52.4          24.8          -3.6         
+               SO2          
+time/item      (%)          
+1051001 [0210] 99.6         
+1051001 [0231] 77.2         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1051001 [0210] 1.42          7.0           21            6.87          135.1        
+1051001 [0231] 1.26          7.2           22            4.21          134.9        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1051001 [0210]               12.3         
+1051001 [0231] 359           12.7         
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1051001 [0226] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1051001 [0226] A             Positive     
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ammonia N    
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)     
+1051001 [0226] 60.8          1.1           133           5.7           110          
+               Ca            Mg            LacticAcid    CK           
+time/item      (mmol/L)      (mmol/L)      (mmol/L)      (U/L)        
+1051001 [0226] 2.08          0.86          10.67         36           
+群組:General BioChemistry
+
+               Acid Fast     ALB           ALT          
+time/item      (*)           (g/dL)        (U/L)        
+1051001 [0226]               2.3           5            
+1051001 [0231] Negative/300                             
+                OPF                                     
+群組:STAIN
+
+               Gram's(GS)#1  Gram's(GS)#2  Gram's(GS)#3  Gram's(GS)#4                                                         
+time/item      (*)           (*)           (*)           (*)          
+1051001 [0231] Many PMNs(>=  Moderate epi  G(+)cocci 3+  G(-)Bacilli  
+               25/LPF)       thelial cell                              2+           
+                             s(10-25/LPF)                                           
+群組:
+
+               Troponin-T    eGFR          CK-MB         Mucus(S)     
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)       (*)          
+                              m^2)                                    
+1051001 [0226] 291.4         51.2          2.15                       
+1051001 [0229]                                           -            
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1051001 [0229] 10-20         >100          5-10          -             -            
+               Bacteria      Others(S)    
+time/item      (*)           (*)          
+1051001 [0229] 4+            -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1051001 [0229] 1.013         7.0           200 ( 2+ )    -             -            
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1051001 [0229] 2+            2.0           -             -             3+           
+               Color         Turbidity    
+time/item      (*)           (*)          
+1051001 [0229] Orange        2+           
+群組:Yes
+
+               NT-pro BNP   
+time/item      (pg/mL)      
+1051001 [0226] 2746         
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1051001 [0226] 11.3          35.8          1.03         
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1051001 [0226] 0.0           0.0           0.0           1.0           5.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1051001 [0226] 25.0          0.0           0.0           4.0           65.0         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1051001 [0226] 0.0           0.0           0.0 /100 WBC  WBC 100                    
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1051001 [0226] 36.79         1.77          5.4           18.2          102.8        
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1051001 [0226] 30.5          29.7          113           18.1          - 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+nil 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1. Out of hospital cardiac arrest, likely related to sputum impaction and pneumonia, status post CPR 15 minutes, endotracheal intubation with mechanical ventilation (2016/10/01-)
+2. Anemia (2016/10/01 Hb 5.4), chronic lymphocytic leukemia or bleeding related
+3. Ruptured azygos ACA A2 segment aneurysm with subarachnoid hemorrhage, IVH and hydrocephalus, complicated with multiple infarction, status post bifrontal craniotomy for interhemisphere approach aneurysm clipping and EVD insertion (2016/03/25), status post ventriculoperitoneal shunt implantation via Right Keen's point (2016/04/18), with right hemiplegia and drowsiness
+4. Congestive heart failure
+5. Hypertension
+6. Paroxysmal atrial fibrillation
+7. Chronic lymphocytic leukemia
+8. Previous healthcare associated pneumonia and urinary tract infection (2016/07-08) 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+1. OHCA, likely related to sputum impaction and pneumonia, s/p CPR 15 minutes, ETT-MV (2016/10/01-)
+2. Anemia (2016/10/01 Hb 5.4), CLL or bleeding related
+3. Ruptured azygos ACA A2 segment aneurysm with SAH, IVH and hydrocephalus, complicated with multiple infarction, s/p bifrontal craniotomy for interhemisphere approach aneurysm clipping and EVD insertion (2016/03/25), s/p ventriculoperitoneal shunt implantation via Right Keen's point (2016/04/18), with right hemiplegia and drowsiness
+4. Congestive heart failure
+5. Hypertension
+6. Paroxysmal atrial fibrillation
+7. Chronic lymphocytic leukemia
+8. Previous HCAP and UTI (2016/07-08)
+
+2016/03 Independent ADLs
+2016/03/24 Sudden consciousness loss, found by her son at home
+Brain CT: ventriculomegaly, diffuse SAH and IVH in 4th ventricle
+CTA: aneurysm rupture at distal azygos ACA with daughter sacs
+2016/03/25 Bifrontal craniotomy for interhemisphere approach aneurysm clipping and EVD insertion
+2016/04/04 Perfusion CT: ventriculomegaly, resolving SAH and hemaventricles, diffuse vessel spasm of MCAs, ACAs and PCAs with recent infarctions at both infero-medial frontal lobes, left high parietal lobe and left high medial frontal lobe
+Epilepsy Af RVR
+2016/04/07 EEG: diffuse cortical dysfunction
+2016/04/18 VPS due to persisting poor consciousness, became E2M4Vt
+Discharged, cared at 景美 nursing home
+2016/07 HCAP, UTI, urine retention, urine yeast, s/p Tazocin, Diflucan
+Left nasolacrimal duct pus discharge, culture: Serratia marcescens (2+, R to Augmentin and Cravit), s/p ceftazidime
+2016/08/07 Fell down, brain CT: np
+2016/08 Episode of increasing BW, worsening RFT with bilateral hydronephrosis despite Foley in situ, but improved later
+2016/09/01 Discharged
+
+2016/09/14 黃道民
+Lasix 40 mg/tab 1 tab QD PO 28 28 tab 09-14 
+Aldactone 25 mg/tab 1 tab QD PO 28 28 tab 09-14 
+Cordarone 200 mg/tab 1 tab BID PO 28 56 tab 09-14 
+Nexium 40 mg/tab 1 tab QDAC1HR PO 28 28 tab 09-14 
+Sennapur 12.5 mg/tab 2 tab HS PO 28 56 tab 09-14 
+自費 Biofermin-R Powder 6 mg/1 g /pack 1 pack TIDPC PO 28 84 pack 09-14 
+液 Keppra Oral Solution 100 mg/1 mL 10% 300 mL/btl 5 mL Q12H PO 28 1 btl 09-14 
+液 Depakine Soln 200 mg/1 mL 40 mL/btl 3 mL Q8H PO 28 7 btl 09-14 
+Eltroxin 100 mcg/tab 0.5 tab QDAC1HR PO 28 14 tab 09-14 
+Encore 300 mg/3 mL /amp 300 mg Q8H IH
+
+2016/10/01 Dyspnea noted at nursing home, came to NTUH via ambulance
+No pulse noted at triage, no family, s/p CPR (2:03-18), ROSC in 15 minutes
+Initial rhythm: asystole
+ROSC EKG: sinus 93, PR 216, RBBB and other IVCD, NSTTC
+Family: DNR
+2016/10/01 02:04 ER, T 33.6
+2016/10/01 02:10 7.269/71.6/204.7/33.1/+5.6
+2016/10/01 02:21 34.1/102/22, BP 154/83
+2016/10/01 02:26 CBC 36790/5.4/113K, meta 1, band 5, seg 25, mono 4, lym 65
+2016/10/01 02:26 Alb 2.3, BUN/Cre 60.8/1.1, Na 133, K 5.7, Ca 2.08, Mg 0.86
+2016/10/01 02:26 CK/MB/TnT 36/2.15/291.4, NT-pro-BNP 2746
+2016/10/01 02:26 LA 10.67, NH3 110
+2016/10/01 02:29 U/A WBC >100, RBC 10-20, protein 2+
+2016/10/01 02:31 7.194/63.9/52.4/24.8/-3.6
+2016/10/01 03:26 34.9/96/30, BP 148/91
+Start RBC 2U for Hb 5.4
+10/1 1A1
+2016/10/01 04:43 ABP 150/68 (Levophed 35mL/h, 8mg/250mL), sinus 91, CVPm 4, PiCCO CI 2.27, SVRI 3167
+
+Plan:
+1. Keep BT 36C for 2-3 days
+2. Tazocin for presumed HCAP
+3. Bronchodilators and Actein for sputum impaction
+4. NPO, PPI for Hb 5.4
+5. Follow heart enzymes
+6. Now with DNR 不電不壓; consider withdrawal if poor prognosis
+Treatment Goal: gain baseline consc (E2M4) in 7 days 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右頸 左手 右手 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有   7.5mm 
+胃造廔口：無  
+尿管留置：有  16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：無
+日常生活功能分數：0
+預期出院後居住場所：安養/療養院 
+預期出院後主要照顧者：安養院 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment made by the resident. 
+醫師姓名 
+張維典 主治醫師 
+ 

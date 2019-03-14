@@ -1,0 +1,115 @@
+Brief Summary of this week    
+Since the hemodynamics became stable, CVVH was switched to iHD since 2017/03/20. The patient was still anuria, so hemodialysis was kept. PTCD revision was performed on 2017/03/21, but poor drainage function was still noted. The level of total bilirubin was still elevating. The level of Hb stablized, and the level of ammonia was also decreased. The patient's consciousness became clear since 2017/03/22. After discussion with his family about the patient's current condition, they preferred palliative care. Extubation would be performed on 2017/03/26 without re-intubation. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+[Current condtion]
+improved consciousness(E4M6Vt)
+still small drainage amount from the PTCDs, T-bil elevating
+HD on 3/22, total 3hr, UF: 3Kg, no IDH
+H/D on 3/24, UF: 3Kg, no IGH
+
+[Antibiotics]
+Maxipime   3/22-,  from Mepem, for PTCD/C:CRPsA
+Vancomycin 3/22-,  PTCD/C:wild enterococcus
+-----------------------------------------
+Targocid  3/17-3/20,   empiric use
+Eraxis    3/17-3/22,   empiric use
+Mepem     3/16-3/22,   empiric use
+Colistin  3/17-3/17,   empiric use
+
+[Inotropics]
+Levophed  3/16-3/20, off
+Pitressin 3/16-3/17, off
+
+[Ventilator]
+PSV 8/6/25 -> SpO2: ~98%, MV: ~7, TV: ~400
+** 3/23, 3/24, 3/25 T-piece 1h passed
+
+[Nutrition]
+D50W+multivitamin
+Vit B1 *3day (3/17-3/19)
+
+[Physical examination]
+E4VtM6
+Pale conjunctiva, icteria sclera, Jaundice
+subconjunctival hemorrhage(os)
+light reflex: trace/trace
+Oral ulcer, and oral bleeding, Damaged teeth
+Breath sound: clear
+Heart sound: RHB, no murmur
+Hypoactive bowel sound
+Oval abdomen. No rebound tenderness.
+Pitting edema 2+.
+
+[Important Lab findings]
+3/15 1PM 7.358/23.4/27.3/13.3/-12.5
+3/20 HBV viral load: 2010
+
+[Culture result]
+3/17 U/C: No aerobic pathogen
+     S/C: Normal mixed flora
+     S AFS: negative
+     B/C*2: 
+     PTCD bile culture: Enterococcus faecium (S to penicillin), CRPsA
+
+[Important study findings]
+02/23 PTCD(III)
+PTCD(1), 8Fr, from right inferior IHD to CBD
+PTCD(2), 8Fr, from right superior IHD to CBD
+PTCD(3), 10Fr, in right liver dome biloma
+03/02 Renal echo
+   Kidney size R 8.6, L 9.1 cm
+   Parenchymal renal disease, bilateral
+03/09 Abd echo
+   s/p left hepatectomy and cholecystectomy
+   Right hepatic lesions, multiple, in favor of tumor recurrence
+   Marked splenomegaly
+   Massive ascites, in favor of cancerous peritonitis
+   Fatty infiltration of the pancreas
+
+[Important intervention and newly added medications]
+3/16 ETT+MV
+     CVVH
+3/20 switch to SLED(3hrs, UF: 1Kg)
+
+[Important consultation]
+3/17 radiologist R黃裕城(on phone): correct coagulopathy: goal: INR<1.5, PLT>50k, if CVVH could be stopped, but the goal was still not achieved, please contact with him again.
+3/17 hospice combine care
+3/21 radiologist R黃裕城 for PTCD revision: 3/21 oncall
+
+[Important patient's and family's decision]
+3/17 son: DNR(不壓不電, signed) 
+3/18 son: 院宣,但希望能在尚有一口氣時先行更換衣物
+3/19 sister:inform critical condition, the potential of liver failure, massive bleeding and septic shock
+3/22 son: palliative management if new sepsis developed
+3/23 sons: sign DNR全拒, request extubation on W7, stop HD in the hospice ward
+3/24 son: wish dry weight first then hold HD?
+3/25 son: consider keep H/D after extubation
+
+Plan 
+1. for BTI with septic shock and respiratory failure
+   - keep Vancomycin; change Mepem to Maxipime; consider Colistin?
+   - keep H/D QW135 (set DW 60 kg 2017/03/16)
+   - keep ventilator support
+   - tapper Solucortef to 25mg Q12H; May DC on 3/27?
+2.  For GIB/coaguplophy/shock liver
+   - Componant til the goal achieved 
+   - keep Nexium IV (Q12H->QD since 3/25)
+   - Keep transamine 500mg Q8H->Q12H since 3/25
+   - NPO with D50W
+   - Start Baraclude from GI OPD蘇東弘
+   - Lactulose 60ml Q12H R
+3. For seizure
+   - Keep Anxican PRN
+   - AED use if new seizure episode
+   - Consider holding transamin if new seizure
+   - Try to correct respiratory alkalosis
+4. Inform grave prognosis due to multiple organ failure
+   --> son signed DNR全拒
+   --> family prefer 院宣 (希望能在尚有一口氣時先行更換衣物)
+       hospice combine care(3/18 consulted)
+   --> extubation on 3/26. Transfer to hospice ward if stable vital signs, then stop HD(they wish dry weight first then hold?) 
+   --> 3/25 son resigned DNR除藥除洗腎

@@ -1,0 +1,286 @@
+2015/08/11 07:11 
+主訴(Chief Complaint) 
+Informant:patient and chart record
+dizziness for one week and low back pain for three days 
+病史(Brief History) 
+This 54-year-old female patient is a non-smoker and has been generally well until 2014-12,
+1. Non-small cell lung cancer, adenocarcinoma, EGFR exon 18-21 WT, with brain, liver, bone, LN mets, status post left occipital craniotomy and tumor resection on 2015/2/9 at CGMH, status post VP shunt operation, status post WBRT (30Gy/10fr) in 2015/3, status post port-A implantation on 2015/3/2, status post chemotherapy with Cisplatin (60mg/m2)+ Alimta (500mg/m2) C1D1=2015/3/27/2015
+2. IICP, under steroid treatment (Dorison 1/2# BID), improved.
+when she started to have progressiveloy worsening vomiting, poor appetite, dizziness, BW loss of 3kg in weeks, right blurred vision, and unsteady gait towards the left side. She also complains of dry cough and mild dyspnea, but there has been no hemoptysis or chest pain. Initially the patient was brought to LMD with rehab but there was no improvement.l Later she went to 國軍804醫院, and brain CT+ MRI revealed one mass on the left occipital lobe of the brain. She was later referred to 長庚醫院 for subsequent managements and work-up. Craniotomy was performed on 2/9/2015 with tumor resection and the pathology showed metastatic poorly differentiated carcinoma and hemorrhage. IHC was CK7(+), CK20(-), TTF-1(+), S-100(-), HMB-45(-). However, one week after surgery the brain CT showed multiple recurrent mets with the manifestation of headache and hypertension. VP shunt was performed for alleviation and the CSF cytology showed metastatic carcinoma. She was discharged after the operation.
+
+Shortly after discharge she was admitted CGMH again in mid Feb 2015 for IICP with the presentation of headache, hypertension, and vomiting. Brain CT on 2/23/2015 did not show obvious hydrocephalus or brain herniation. Chest CT showed LLL interstitial thickening, bone mets, hepatic mets, LN enlargement. Bone scan showed multilpe mets in the spine and femur. Mammography revealed benign calcification on the left nipple. However, EBUS biopsy at LB9 was negative for malignancy; IHC was CK7(+), TTF-1(+), PR(-), ER(-). The patient received whole brain radiotherapy (30Gy/10fr) in early March. However, due to disatisfaction from her family the patient was discharged AMA from 長庚醫院 on 3/10/2015 and she was brought to NTUH ER on the same day. The brain CT showed some intracranial lesions suspected mets and recurrence and she was discharged on the same day.
+
+After discharged from the ER, the patient suffered from low-grade fever, vomiting, and dizziness. Her initial T/P/R was 37.5/98/18 and Bp was 102/66; GCS was full with clear consciousness. Brain CT and MRI on 3/17/2015 revealed suspected metastasis at the left frontal lobe, a small hematoma with adjacent leptomeningeal enhancement at the right superior vermis suspected leptomeningeal carcinomatosis. Mannitol and betamethasone were prescribed.  Cisplatin (60mg/m2)+ Alimta (500mg/m2) (C1D1=2015/3/27) was administered. The patient tolerated the chemotherapy. 
+This time, she had dizziness and low back pain for one week. Progressive low leg weakness in recent 2 days. Then she came to NTUH emergency department, where lab data showed mixed metabolic and respiratory alkalosis. CT revealed upper abdominal fluid collection. VP shunt dysfunction was suspected. CT guided aspiration around 75~80cc fluid and sent for cultures. During the course, she had drowsy, unsteady gait, urine incontinence. Then she was admitted for our ward for further survey.
+
+Family History: DM(mother)
+Medication Allergy:Diclofenac Sodium (栓 Voren Supp 12.5 mg/pill) 【Skin Rash(皮膚疹)】 親屬描述 2015/03/10
+ponstan 【Skin Rash(皮膚疹)】 親屬描述 2015/03/10
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  病人自述 2015/03/22
+Current Medication:
+NTUH:Rocephin 500 mg/vial 1000 mg Q12H IV 2 days
+Rocephin 500 mg/vial 1000 mg STAT IV 1 days
+PARAMOL 500 mg/tab 1 tab Q6HPRN PO 2 days
+Gaster D 20 mg/tab 1 tab BID LZ 15 days
+Predonine 5 mg/tab 2 tab QD PO 21 days
+Other:nil
+中草藥:nil
+保健食品:nil
+Past Medical History:
+Hospitalization:入院日期:2015_03_22 出院日期:2015_04_11 診斷:Malignant neoplasm of bronchus and lung, unspecified 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:不識字
+職業:無
+宗教信仰:道教
+婚姻狀態:已婚
+使用語言:國語 
+口述血型:O，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:混淆
+認知功能:異常 時間障礙 計算能力障礙
+精神情緒狀態:異常 倦怠 焦慮 
+安全問題:有 其他 預防跌倒
+睡眠形態:正常  
+
+Nutritional Screen
+攝食情形:差，攝食50%以下
+排便狀態:正常
+BMI:25.22
+
+Fall Risk Assessment
+總分:12
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: fever (+); fatigue (+); loss of body weight (-); change of appetite (-); night sweating (-)
+2.Skin:  rash (-); subcutaneous nodule (-); itchiness (-)
+3.Head and neck:  headache (+); oral ulcer (-).
+4.Cardiovascular: exertional chest tightness (-); PND (-); orthopnea (-); palpitation (-).
+5.Respiratory: dyspnea (-); cough (-); sputum (-); chest pain (-); hemoptysis (-); asthma (-).
+6.GI: anorexia (-); nausea (-); vomiting (-); dysphagia (-); heart burn (-); hunger pain (-); constipation (-); diarrhea (-)
+7.Urogenital: hematuria (-); urinary frequency (-); urgency (-); dysuria (-); nocturia (-); polyuria (-); oliguria (-); burning or pain when urinating (-); incontinence (+); urolithiasis (-).
+8.Musculoskeletal: bone pain (-); arthralgia (-); myalgia (-); weakness of limbs (+); rigidity (-) 
+身體檢查(Physical Examination) 
+BH:155 cm   BW:60.6 kg
+T: P: R:
+BP:/ mmHg
+Pain:
+
+Neurological Examination:
+. Consciousness:drowsy
+. Muscle power:leg weakness
+. Gait:unsteady
+
+‧Head-Eye-ENT 
+        grossly normal, conjunctiva: pink, sclera: anicteric
+        Pupil: isocoric,  3mm/ 3mm
+
+‧Neck
+	Jugular vein engorgement(-)
+	Thyroid goiter(-)
+
+‧Chest
+	Thoracic cage contour: symmetric
+	Vocal fremitus and expansion: symmetric
+	Percussion: resonant
+        Breathing sound: clear
+
+‧Heart
+	Heart beat: regular  Murmurs(-)
+
+‧Abdomen
+        Flat & soft
+	Superficial vein engorgement(-) Protruded umbilicus(-)
+	Bowel sound: Normoactive
+
+‧Extremities
+       general weakness	
+‧Back
+        Knocking pain(-)
+‧Skin
+	Abnormal pigmentation(-)
+)
+‧Lymphadenopathy(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:BC***********
+
+群組:DM
+
+               GLU AC       
+time/item      (mg/dL)      
+1040803 [0706] 120          
+群組:General BioChemistry
+
+               AST           ALT           ALP           UN            CRE          
+time/item      (U/L)         (U/L)         (U/L)         (mg/dL)       (mg/dL)      
+1040803 [0706] 27            40            94            9.2           0.3          
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1040803 [0706] 4.70          3.60          10.1          30.6          85.0         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1040803 [0706] 28.1          33.0          326           15.4          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1040803 [0706] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1040803 [0706] 79.0          1.0           0.0           14.3          5.7          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1040803 [0706] 0.0           0.0           0.0           -            
+
+*********檢驗室:RL***********
+
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1040810 [1101] 7.487         34.6          76.7          26.4          2.7          
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1040810 [1101] 22           
+群組:Biochemistry
+
+               CRE           Na            K            
+time/item      (mg/dL)       (mmol/L)      (mmol/L)     
+1040810 [1101] 0.3           124           4.5          
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1040810 [1101] 5.64          3.67          10.2          30.9          84.2         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1040810 [1101] 27.8          33.0          240           15.9          -            
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1040810 [1734] 11.3          28.0          1.07         
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               TP            LDH          
+time/item      (g/dL)        (U/L)        
+1040810 [2210] <3.0          461 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+CT With/Without Contrast-Chest 醫令: CT With/Without Contrast-Chest 報告醫師: 柯維鈞 影像時間: 2015/08/10 14:56 (33072B2M) 發報告時間: 2015/08/10 16:14 CT of the chest without and with contrast enhancement is read and compared with prior study dated 2015/05/28. This CT study shows:
+1. an 2.2cm irregular nodule or opacities at the apical RUL (SE8 IM15), stationary. Subsegmental atelectasis at the basal RLL. Suggest clinical correlation and follow-up.  
+2. small bilateral mediastinal lymph nodes. 
+3. no pleural effusion. 
+4. placement of a right port A catheter and a ventriculo-peritoneal (VP) shunt tube from the neck to the abdomen. 
+5. multiple sclerotic change at the thoracic spines, suspects bone metastasis.
+6. please correlate with the imaging findings and report of the other CT study.
+P.T.C.D. 醫令: P.T.C.D. 報告醫師: 陳雅芳 影像時間: 2015/08/10 21:24 (33026BZM) 發報告時間: 2015/08/10 21:59 History: lung cancer with brain metastases status post VP shunt insertion, with fluid collection at the abdomen. 
+Treatment: Percutaenous aspiration.
+Procedure:
+1. Patient in supine position.
+2. Localization and disinfection of the entry site.
+3. Under the guidance of CT, a needle was inserted and pointing to the lesion.
+4. Under the guidance of CT, aspiration was done.  Around 75~80cc fluid was aspirated out and sent for cultures. 
+
+Suggestion:
+1. wound care of the puncture site.
+2. follow up the lab results.
+CT With/Without Contrast-Brain 醫令: CT With/Without Contrast-Brain 報告醫師: 陳雅芳 影像時間: 2015/08/10 14:56 (33072B0M) 發報告時間: 2015/08/10 16:10 Hx: NSCLC, adeno, EGFR WT ALK (-), with brain, liver, bone, LN mets, S/P left occipital craniotomy on 2015/2/9 at CGMH, S/P VP shunt WBRT (30Gy/10fr) in 2015/3, S/P Cisplatin (60mg/m2)+ Alimta (500mg/m2) C1D1=2015/3/27  SD C6
+
+Brain CT without/with contrast enhancement shows:
+1. Craniotomy change at left parieo-occipital region with focal parenchymal loss.  s/p ventricular shunt from right frontal region 
+2. Brain atrophy, ventriculomegaly, and confluent  low densities at periventricular white matter. The ventricles are larger as compared with last study
+3. A 1cm cystic nodule at superior vermis (smaller), a calcified spot at left insula (smaller), disappearance of the nodule at posterior wall of 4th ventricle
+CT With/Without Contrast-Abdomen 醫令: CT With/Without Contrast-Abdomen 報告醫師: 施怡倫 影像時間: 2015/08/10 14:56 (33072B3M) 發報告時間: 2015/08/10 15:23 CT of abdomen and pelvis without and with contrast enhancement shows:
+1. Placement of a VP shunt. 
+2. A large fluid collection (17cm) at the upper abdomen, anterior to the stomach.
+3. Nodular infiltration of the omentum, peritoneal carcinomatosis is suggested.
+4. Hypodense tumors over both hepatic lobes, up to 4cm in S3. Metastasis is suggested, with increased size and number.
+5. No definite lesion of the spleen, pancreas, both kidneys and adrenals. 
+6. Status post hysterectomy.
+7. No abdominal or pelvic lymphadenopathy. 
+8. Multiple bone metastases.
+(Please correlate with the report of other body parts.)
+CT With/Without Contrast-Pelvis 醫令: CT With/Without Contrast-Pelvis 報告醫師: 施怡倫 影像時間: 2015/08/10 14:56 (33072B5M) 發報告時間: 2015/08/10 15:23 CT of abdomen and pelvis without and with contrast enhancement shows:
+1. Placement of a VP shunt. 
+2. A large fluid collection (17cm) at the upper abdomen, anterior to the stomach.
+3. Nodular infiltration of the omentum, peritoneal carcinomatosis is suggested.
+4. Hypodense tumors over both hepatic lobes, up to 4cm in S3. Metastasis is suggested, with increased size and number.
+5. No definite lesion of the spleen, pancreas, both kidneys and adrenals. 
+6. Status post hysterectomy.
+7. No abdominal or pelvic lymphadenopathy. 
+8. Multiple bone metastases.
+(Please correlate with the report of other body parts.) 
+病理報告(Pathology Report) 
+S1513013
+Brain,occipital, left,removal,adenocarcinoma,metastatic 
+臆斷(Tentative Diagnosis) 
+1.V-P shunt dysfunction with abdominal fluid accumulation, complicated with
+hydrocephalus, s/p CT guided aspiration 
+2.lung cancer with brain, bone mets, status post brain mets excision and V-P
+shunt placement 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+#V-P shunt dysfunction with abdominal fluid accumulation, complicated with hydrocephalus, s/p CT guided aspiration shunt placement
+#lung cancer with brain, bone mets, status post brain mets excision and V-P shunt placement
+A:
+E4M6V4
+C-Reactive Protein 2.91  
+Ascites: ALB <1.5  ,TP <3.0 ,LDH 461 
+Culture result pending 
+P
+1.pending fluid culture
+2.close monitor vital sign
+3.Suspected IAI, on empiric Rocephin
+
+VS comments:
+Lung cancer 
+VPS was implanted in this Feb for hydrocephalus, now 17cm fluid accumulation in the peritoneal cavity adjacent to the peritoneal catheter. Fluid tapping showed clear fluid. No leukocytosis, but mild fever since arrival to ER. Plan to consult GS for laparoscopic approach for the fluid collection area and replacement of the peritoneal catheter. The ventricular catheter location will be adjusted during the surgery and replace shunt set with a programmable one. 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右手 
+雙腔導管留置：無  
+鼻胃管留置：無  
+氣管管路留置：無    
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：25
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：配偶 女兒 
+出院規劃收案篩檢：高危病患 功能量表未滿60分 
+醫師姓名 
+郭律廷 主治醫師 
+ 
+
+ 
+ 生命徵象留置導管檢驗檢查影核醫抗生素病理照會 
+
+是否刪除圖形?  
+  
+   
+  
+ 
+錯誤回報 版本：     
+   National Taiwan University Hospital
+All Right(s) Reserved. 
+   
+ 
+        
+

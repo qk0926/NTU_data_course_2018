@@ -1,0 +1,12 @@
+1. Septic shock, due to PsA bacteremia, resulted in lactic acidosis and acute kidney injury, under Meropenam(2016/04/22-)
+2. Acute respiratory failure, type IV, status post ETT+MV(2016/04/22-)
+3. Acute kidney injury, AKIN stage 3, pre-renal type, under CVVH(2016/04/21-4/25)
+4. High grade right breast intraductal carcinoma, pT2N3aM0, stage IIIb
+
+[Physician]
+hold CVVH since yesterday -> still oliguria -> adjust antibiotics according to renal function.
+ 
+Nurse:GCS:E4M6VE,NPO,D50W run 21ml/hr,尿量少,顏色茶黃,利尿劑使用,目前班內尿量:300ml,續監測尿量情形.
+
+[Pharmacist]
+keep potassium phosphate for hypophosphatemia, monitor renal function closely.

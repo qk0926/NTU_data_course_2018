@@ -1,0 +1,11 @@
+Rapid shallow breathing was noted during T-piece breathing early during the SBT.
+Under ECPAP with fixed daily duration.
+
+2015/10/10 LacticAcid:2.52   mmol/L
+2015/10/10 WBC:13.45   K/£gL
+2015/10/10 HB:8.9   g/dL
+2015/10/10 PLT:276   K/£gL
+2015/10/10 PH:7.477   *
+2015/10/10 PCO2:32.2   mmHg
+2015/10/10 PO2:88.6   mmHg
+2015/10/10 HCO3:24.1   mmol/L

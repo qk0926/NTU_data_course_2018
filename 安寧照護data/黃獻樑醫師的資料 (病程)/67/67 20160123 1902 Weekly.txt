@@ -1,0 +1,90 @@
+Brief Summary of this week    
+After transferring to MICU, BiPAP was perofmred for pneumonia and heart failure with impenidng respiratory failure. Colistin and Meropenem was prescribed for covering MDRAB due to previous B/C hx b(2015/11). SLED was performed during hemodialysis due to shock status and then levophed was added. We had contacted with VS李志元, then hold the operation of Tenckhoff catheter removal due to poor general condition. Due to poor prognosis, we also consulted hospice team for mental support.
+  We contacted with CV VS李任光, then low dose dopamine for heart failure support was suggested. The fever curve got improved gradually and then we tried daily interruption BiPAP with mask, he could tolerate with the condition well. For further adjusted the dose of dopamine and levophed, PiCCO was placed on 1/22, then we tried tapered levophed gradually. Due to relative stable condition, we contacted with VS李志元, the operation for Tenckhoff catheter removal will be done on 1/25 
+
+Assessment 
+<Abx>
+Colistin   (1/13-) D10
+Mepem(1/22-) D1
+==========================
+Mepem      (1/13-1/20)   
+Vancomycin (1/15-1/20)   
+
+<Culture>
+2015/11/14 Ascites: MDRAB, few
+2015/11/17 DIALYSATE(PD fluid):MDRAB
+           Blood culture: MDRAB, enterococcus
+           S/C: MDRAB
+2016/1/13 S/S:GPC in chain,GNR
+          S/C: normal mixed flora
+          B/C: neg
+
+Levophed 4.5ml/hr(4.8mcg/min)
+Dopamine 4.695mg/Kg/hr 
+
+<BiPAP>
+FiO2 25%, IPAP 20, EPAP 8, RR 12, Ti 0.9
+--> SpO2 100%, Tv 300, MV 10, RR 30
+
+<PE>
+CONs: fatigue and arousable, E3V4-5M6
+Chest: left basal rales+/-
+       RHB
+Abdomen: soft, distension, no tenderness
+         Bo/S: hypoactive
+Limbs: pitting edema(-), dry gangrene of right toes
+dry skin turgor
+
+1/21 Bedside echo:
+       -left pleural effusion: small-to-moderate, limited movement of left diagphram
+       - easily flat left IVJ, especially at inspiration
+     Also, CVP at femoral: 2-4mmHg; Albumin 2.5, dry skin turgor --> consider hypovolemia, also risky for PiCCO now
+       --> albumin given carefully first
+
+<Study>
+2015/12/25 CT:
+1.Moderate ascites with peritoneal thickening r/o peritonitis
+2.Bilateral pleural effusion. 
+3.Atelectasis and/or consolidation in bilateral basal lungs
+
+2015/11/14 UCG:
+LVEF:27.9% RWMA(+) LV systolic severely reduced
+
+2016/01/16 UCG:
+LVEF:28.9%, LVIDd/s 5.3cm/4.5cm, IVSd 1.1cm, TRPG:10.7mmHg
+-The left ventricle is borderline dilated.
+-Left ventricular systolic function is severely reduced.
+-The transmitral spectral Doppler flow pattern is suggestive of impaired LV relaxation.
+-akinesia at anterioseptal/anterial, others: hypokinesia
+-Mild AR/TR, mild-moderate MR
+
+<Lab>
+1/13 pro-BNP >35000 BUN/Cre 37.8/4.1 
+     T-bil:1.21 Alb:2.8
+
+<Weaning BiPAP>
+1/17 BIPAP w/ Mask 10L 40% BID*2 hrs: tolerable
+                           night time 3hr: RR~40 at the end
+1/18 BiPAP off QID: tachypnea at the HS round
+1/19 BiPAP off TID: tolerable
+
+<Consult>
+1/18 CV李任光:keep plavix, arrange Tenckhoff removal if stable, Dopamine 2.7mg/Kg/hr for heart support, f/u UCG
+1/18 ENT: AOM, give tarivid
+
+<Family decision>
+1/13 Consult hospice 
+1/14 Family: DNR除藥, morphine use if intolerable dyspnea
+Discussed with CV specialist on phone, but still wants palliative care.
+1/19 the patient and family are willing to receive surgical Tenckoff removal and possible difficult extubation.
+
+Plan 
+1. Shock, etiology? Keep Albumin >3.
+   Keep PiCCO monitor 
+2. Keep Colistin, add Mepem, pending culture data. 
+   Follow eosinophil count. 
+3. Try BiPAP, off TID 2hr
+4. SLED QW1,3,5 Consider dry weight 56-56.5kg.
+4. Consider rearrange Tenckhoff catheter removal (VS.李志元 51446)
+-> OP schedule on 1/25
+5. Cordarone and mexiletine for frequent VPCs

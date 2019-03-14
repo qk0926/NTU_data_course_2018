@@ -1,0 +1,56 @@
+P: 
+# Septic and cardiogenic shock
+# fungemia, CRBSI or intra-abdominal bacterial translocation related, complicated with septic shock
+# Tracheostomy bleeding, chronic granulation tissue related
+# Seizure, sepsis and electrolyte imbalance related
+# Recurrent vantilator associated pneumonia
+# Urinary tract infection, catheter related, urine culture: candida albicans
+# Suspected colon cancer, with lower GI bleeding, complicated with hypovolemic shock
+# Recurrent right pleural effusion
+# Moderate aortic stenosis, complicated with acute lung edema and respiratory failure status post endotracheal intubation and ventilatory support (2014/03/13-2014/03/19), status post tracheostomy (2014/04/11)
+# Adrenal insufficiency under Cortisone
+# Coronary artery disease, left main+ 2-vessels disease
+# Chronic atrial fibrillation with complete atrioventricular block status post pacemaker (VVIR) implantation, 2010
+# Old cerebrovascular accident
+# Vascular parkinsonism
+
+
+A: 
+He was admitted for treatment of pneumonia. However, bloody stool was noted during the treatment course, work up revealed possible colon cancer. However, tissue proof was refused by families due to his poor general perfomance status and clinical status. Recurrent hospital acquired infection was encountered during admission. Septic shock was noted on 10/27. Levophed and multiple broad-spectrum antibiotic were administered. However, refractory metabolic acidosis and unstable vital signs were still noted. 
+
+We are consluted for hospice combined care. 
+
+
+[Assessment] 
+DNR(+), 末期註記(+)
+Vital signs: 
+2016/10/31 04:19 T:36.7 P:80 R:32
+2016/10/31 07:16 BP:103/39
+
+Consciousness: comatous
+ECOG: 4 
+Dying signs: 
+Desaturation (-), Chenye-stoke (-), Death rattle (-), hypotension (+), 
+Decreased urine output (+), cold extremities (-), Sclera edema (-)
+Main symptoms: tachypnea 
+Medication for main symptoms: morphine SC 4mg Q4H (hold due to hypotension)
+Psychosocial issue: 1. 子女希望縮短父親痛苦時間 2. 先前母親過世的經驗(在加護病房，由醫師帶領家屬進行四道人生後撤除維生醫療)很好，希望父親也能平靜離世 3. 詢問父親去世時應該做些什麼好？是否該哭？
+安寧共照同意書: 未給
+安寧病房入住同意書: 未給
+
+會談對象: 兒子、女兒
+1.Main caregiver: 外傭
+2.Main decision maker: 子女
+3.Awareness: 知病略知末
+4.Acceptance: 慢性調適
+5.Propriety: 未準備
+6.Timelessness: 醫院
+
+P: 
+1. Introduce hospice care 
+2. consider simplifying  medication, discontinue inotropic agent, antibiotic use after confirmed again with families. Keep ventilator use. (家屬希望白天時再停升壓劑、抗生素)
+3. titrate morphine dose for better dyspnea control.   
+4. consider Haldol 2.5mg Q4HPRN and Dormicum 2.5mg Q4HPRN if terminal delirium or aggitation was noted. 
+5. 鼓勵四道人生(道謝、道歉、道愛、道別)
+6. prepare for good death
+7. if any problem, contact 東址共照辦公室63274

@@ -1,0 +1,100 @@
+Brief Summary of this week    
+[Brief history]
+     This 30-year old female had the history of high grade right breast intraductal carcinoma and this time was admitted to ICU due to severe neutropenic fever and septic shock. She was intubated for treatment and was extubated on 04/28. The patient was transferred to Oncology ward on 05/04.
+
+[Treatment course]
+    After transfering to general ward, low grade fever was still noted. Antibiotics(ceftazidime + Tigecycline + fluconazole) were kept for infection control. Computer tomography from head to pelvis was performed for evaluation on 5/5. Small brain new metastasis was found and liver tumor was stationary. Further management was discussed with attending and he suggested control infection first.
+Paraspinal fat stranding was noted and abscess formation was suspected. Neurosurgeon VS³¯´¯ªª was consulted for further evaluation and he suggested confirming abscess formation with radiologist first. Radiologist was consulted and CT guide biopsy was performed on 5/10. About 70 ml fluid was drainage and culture specimen was sent. Blood culture showed persisted pseudomonas bacteremia. Culture from port-A showed pseudomonas growth in 5hours. Paraspinal aspiration culture showed no evidence of infection. Port-A removal was indicated due to port-A pseudomonas infection and it was removed on 5/16.
+Abdominal distension with ascites was noted. Paracentesis was performed on 5/11 and 2500ml was drained. Massive ascites related to portal hypertension and hypoalbuminemia was suspected. She complained about abdominal distension which made her poor appetite and no ambulation. Intermittent paracentesis for symptom relief was performed. Lower limb weakness was found gradually. Long term bed-ridden related muscle atrophy was suspected amd physical therapeutist was consulted for rehabilitation. Her consicousness became drowsy and muscle power became worse around 5/24. Lab data showed no obvious metabolic factor except mild elevated ammonia level. Brain CT on 2016/5/27 showed multiple small metastases which were stationary. Lactulose for elevated ammonia level was given and her consciousness recovered. Transient hepatic encephalopathy was suspected. P-HDFL will be completed.
+Neurologist was consulted for progressive lower limb weakness. Cord compression was not favored, but without a definite image they could not reach the final answer, and suggested to obtain spinal image if not contraindicated. However, due to her difficulty to lie down flat, we would order spinal CT instead.
+      For symptomatic relief, we had perform thoracocentesis on 05/31 and 06/01 draining 2200mL and 2950mL respectively. The patient would stay in the ward for further observation and we planned to start another course of chemotherapy next weekend. 
+
+
+Assessment 
+<Antibiotics>
+Meropenam 5/8~5/21, PsA baceteremia R to ceftazidime
+port-A infection=>port-A removal on 2016/5/16
+-----------------------------------------------------------Targocid (4/25~5/3)  Empirically for fever
+Mepem 4/21-4/30 Thearpeutic for PsA bacteremia and FN
+Maxipime   4/21   Empirical for FN
+Tienam	   4/21	  Empirical for FN and profound shock
+Tatumcef 4/30~5/8 still fever and GNB bacteremia 
+Tygacil  5/2~5/16 cover suspected wound MRSA infection
+Diflucan 5/2~5/16 for funguria
+
+<Oncology treatment>
+Vinorelbine (C2D1=4/15)
+
+<Culture report>
+04/21 B/C (PB): wild type PsA [TTP: 10.8hr]
+      B/C (Port-A): wild type PsA [TTP: 10.7hr]
+      S/C: normal mixed flora
+      U/C: negative
+      Anal swab: no VRE, no CRE
+04/24 U/C: negative (U/A: RBC 20-35, WBC 2-5, epi 0-2)
+      B/C (A-line & CVC): negative*2
+04/25 S/S: negative (poor quality)
+      S/C: Sphingomonas paucimobilis 1+ 
+04/28 Back skin pus: CR-PsA 3+ (S: Ceftazidime), MRSA 3+, MDRAB 3+
+05/02 S/S: GNB 1+
+      U/A: WBC 75-100, epi 0-2, bacteria 2+, yeasts 3+
+      B/C(CVC):PsA (28.3hr) wild type
+05/03 Tip cx of CVC: negative
+      Tip cx of DL: negative
+05/08 B/C: PsA(16.8hr), S to carbapenam
+05/10 Abscess: no aerobic pathogen
+05/11 B/C: PsA in port-A(4.6hr!!)
+      B/C: PsA in peripheral(26.1hr)
+05/11 ascites: no pathogen 
+05/19 B/C from CVC negative
+
+<Important study findings>
+04/21 Pro-BNP>35000
+04/22 WBC: 100/ul, lactic acid 9, BUN/Cr: 18/1.1 
+      -> FENa 0.5% , pro-BNP >35000  
+      hsTSH(CIA):8.60 £gIU/mL / Free T4(CIA):1.48 ng/dL
+      Cortisol DL:33.3 £gg/dL / ACTH:12.3 pg/mL
+      LacticAcid12.71>11.3>7.6>9.12>9.09>8.26>6.09 
+04/23 P: < 0.1-->(s/p K3PO4 1bag) 1.2
+      Lactic acid 6.01
+04/24 Lactic acid 4.93, still aguria, albumin 2.4
+04/25 WBC 1.19, Mono 53%, Band 17%, Meta 7%, 
+      T-BIL(mg/dL) 8.43
+      LacticAcid(mmol/L) 4.59 -> 5.29
+      ABG(stop CVVH 8hr): 7.44/25.9/110/17.9/-6.4
+04/26  T-BIL(mg/dL) 10.5
+       LacticAcid(mmol/L) 5.44
+04/27 T-BIL 13.97  mg/dL
+      D-BIL 8.57  mg/dL 
+      ALP 261  U/L 
+      GGT 109  
+      HB 8.4, PLT 16, WBC 12.84
+      Bed-side echo showed no obvious IHD dilatation
+04/28 T-BIL 14.03  
+      Pi/Pemax:-30/+60 cmH2O  RR: 26 bpm, 
+      VE: 8.55 L/min  VT: 329 ml  RSI: 79, SpO2:98->92 %
+04/29 T-bil=13.5, BUN=49.9, CRE=1.0
+04/30 Hb=8.6, PLT=25K, Alb=2.9, T-bil=14.2
+05/02 Procalcitonin=1.251, LDH=502, T-bil=12.91, ALT=49, BUN=34
+5/11  ascites: no malignant cell
+      WBC:17k, TBI:4.3, CRE:0.2
+5/19  WBC:19.5k, Hb:9.5, TBI:4.5, CRE:0.4
+5/23  WBC:25.4k, HB:9.4, TBI:3.7, CRE:0.4 
+5/26  WBC:14.3k, Hb:8.0, TBI:2.5, CRE:0.3
+
+
+dietitian was consulted for better nutrition
+=>suggested double Calorie Ensure
+=>could not eat well due to abdominal distension
+=>TPN was considered about was not favored due to much fluid
+=>try lipovenous 250ml QOD
+=>attending agree TPN+lipovenous QOD
+=>albumin level improved
+
+Plan 
+. supportive treatment(correct nutrition and electrolyte imbalance)
+. planning cycle 2 of PHDFL next weekend. 
+. paracentesis twice per week
+. encourage embulation
+. adequate pain control
+. Check Chest/abdominal/pelvic CT image for following paraspinal abscess

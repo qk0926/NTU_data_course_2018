@@ -1,0 +1,298 @@
+Admission Note 
+2016/12/27 16:05 
+主訴(Chief Complaint) 
+Informant:patient's son
+Decreased memory ability for months 
+病史(Brief History) 
+Present illness:
+This is a 67-year-old female with 
+1.Type 2 diabetes mellitus
+2.Hypertension
+
+Because of bilateral eyes blurred vision, she visited ophthalmologist's clinic at Taichung VGH several years ago. However, no definite diagnosis was made and she kept regular follow-up at ophthalmologist's out-patient department. According to the statement of her son, impaired memory ability developed since several months ago. As a result, she visited Mackay hospital for further survey, where brain MRI revealed one 5.9cm solid and heterogenous mass arising from sella with suprasellar extension, causing compression of optic chiasm, right cerebral peduncle, third ventricle and bilateral thalamus. Visual field examination revealed right total blindness and left temporal hemianopia. She denied muscle weakness, seizure, easy-fatigue, conscious drowsy, hearing impairement or other neurological deficit. She came to Dr.Tseng's clinic for second opinion. Endocrine profile revealed generally normal pituitary hormone. As the condition mentioned above, she was admitted to our ward for further surgical intervention.
+
+Family History: nil
+Medication Allergy:UnClear  病人自述 2016/12/27
+Medication ADR:unknown
+Allergy to Medical Device and Materials:UnClear  病人自述 2016/12/27
+Current Medication:
+NTUH: nil
+Other: 
+ Concor 1.25 mg/tab  1  tab  PO  BID
+ Exforge 5/160 mg  1  tab  PO  BID 
+ Metformin 500 mg  1  tab  PO  BID 
+中草藥: nil
+保健食品: nil
+Past Medical History: as above
+Hospitalization: nil
+Past Surgical History: nil
+Travel History: nil 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:不識字
+職業:退休
+宗教信仰:佛教
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:不清楚，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:警醒
+認知功能:正常 
+精神情緒狀態:異常 焦慮 
+安全問題:有 其他 跌倒
+睡眠形態:正常  
+
+Nutritional Screen
+攝食情形:優，攝取完整
+排便狀態:正常
+BMI:28.58
+
+Fall Risk Assessment
+總分:14
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1. Cardiovascular system: chest pain(-) dyspnea(-) orthopnea(-) leg edema(-) palpitation(-) exertional intolerance(-) cyanosis of limbs(-)
+2. Respiratory system: tachypnea(-) cough(-) wheezing(-) fever(-) night sweating(-) 
+3. Breast bleeding or lactorrhea(-)
+4. Gastrointestinal system: abdominal pain(-) bowel habit change(-) anal incontinence(-) bloody stool(-) melena(-) dysphagia(-) anorexia(-) nausea(-) body weight loss(-) heartburn sensation(-) jaundiced sclera(-)
+5. Genitourinary system: dysuria(-)urinary frequency(-)urinary urgency(-)nocturnal polyuria(-) impotence(-) urolithiasis(-)
+6. OBS/GYN: Nil.
+7. Blood system: tendency to have echymosis (-) lymphadenopathy(-)
+8. Musculoskeletal system: joint stiffness or pain(-) back pain(-)
+9. Endocrine system: goiter(-) heat or cold intolerance(-) fatigue(-) 
+身體檢查(Physical Examination) 
+BH: 147.4 cm,  BW: 62.1 kg,
+T: 36.6 °C,  P: 75 bpm,  R: 17 /min,
+BP: 114 / 73 mmHg,
+Pain score: 0 ,
+
+[Physical Examination]
+HEENT: no pale conjunctiva, no icteric sclera, no enlarged thyroid, no palpable lymphadenopathy
+Chest: bilateral clear breathing sounds, no wheezing, no rhonchi, no decreased breathing sounds
+Heart: regular beat, no murmurs
+Abdomen: flat, normactive bowel sounds, tympanic percussion, no tenderness, no rebounding pain, no muscle guarding
+Limb: no pitting edema, palpable dosalis paedia artery and posterior tibial artery
+
+[Neurological Examination]
+Consciousness: alerted 
+GCS: E4M6V5
+Speech: dysphonia(-), dysarthria(-), hoarseness(-), confabulation(-)
+aphasia(-): expressive(-), receptive(-), global(-)
+
+*Cranial nerve
+CN I :   smell, not performed
+CN II:   Visual acuity: intact(+), impaired(-): R(-), L(-)
+                        Counts fingers(-), hand motion(-), light perception(-)
+         Visual fields: confrontation test-intact(-), 
+                        right total blindness, left temporal hemianopia 
+CN III, IV, VI:
+         Pupil: isocoric R/L: 3mm/3mm, light reflex R/L: +/+
+         EOM: full
+         Pursuit: smooth, Saccade: no hypometria
+CN V:    Corneal reflex(+/+)
+         Facial sensation: intact and symmetric to pinprick and light touch
+         Masseter R/L: full, Temporalis R/L: full
+CN VII : No/Central/Peripheral type facial palsy 
+         Nasolabial fold shallowing(-), platysma sign(-). 
+CN VIII: Bilateral hearing ability: intact
+         Spontaneous nystagmus(-); positional nystagmus(-)
+CN IX,X: Uvula deviation(-),  palate elevation(-), Gag reflex (+)
+CN XI:   SCM: weakness(-), atrophy(-)
+         Trapezius: weakness(-), atrophy(-) 
+CN XII:  Tongue protruding: deviation(-), atrophy(-), fasciculation(-)
+
+*Motor
+Motor inspection: 
+muscle wasting(-), fasciculation(-),  muscle cramps(-), dystonia(-)
+
+Muscle tone:
+spasticity(-), rigidity(-)
+
+Muscle power:(R/L)
+ Grasping(C8) 5/5
+ Wrist extension(C6)    5/5; flexion            5/5
+ Elbow extension(C7)    5/5; flexion(C5)        5/5
+ Hip extension          5/5; flexion(L2)        5/5
+ Knee extension(L3)     5/5; flexion            5/5
+ Ankle dorsiflexion(L4) 5/5; plantarflexion(S1) 5/5
+ Big toe extension(L5)  5/5
+Soft weakness sign: pronator drift test: L/R: -/-
+
+*Reflex
+Deep tendon reflex：(R/L)
+ Brachioradialis(C5/6): ++/++
+ Biceps(C5/6): ++/++
+ Triceps(C7): ++/++
+ Knee(L4): ++/++
+ Ankle(S1): ++/++
+
+Other primitive reflex: nil
+ Barbinski: flexor/flexor, Hoffman R/L: , spasticity R/L: -/-
+ Jaw jerk: , abdomen reflex: , cremateric reflex: normal, anal tone: normal
+
+*Sensory: 
+Small fiber: 
+ Pinprick: intact
+ Light touch: intact
+ Temperature: intact
+Large fiber:
+ Vibration: R/L: intact
+ Proprioception/joint position R/L: intact
+Romberg’s test(-)
+
+*Cerebellum/coordination:
+1. Finger nose finger:  dysmetria(-)
+2. Rapid alternative movement: dysdiadochokinesia(-)
+3. Truncal titubation(-)
+4. Tandem gait: steady
+
+*Gait/posture:
+1. Gait velocity: normal
+2. Step/stride length, stride width, stride height; symmetry
+3. Variability: small steps(+), wide base(-), foot drop(-)
+4. Steppage gait/distal weakness: (-), waddling gait/proximal weakness: (-)
+5. Circumduction/spasticity gait: (-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1051227 [1241] 11.74         5.15          15.4          45.8          88.9         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1051227 [1241] 29.9          33.6          362           12.6          -            
+*********檢驗室:CT***********
+
+群組:PT
+
+               PT            PT INR       
+time/item      (sec)         ()           
+1051227 [1241] 10.0          0.93         
+群組:PTT
+
+               PTT          
+time/item      (sec)        
+1051227 [1241] 24.7         
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               T-BIL         AST           ALT           UN            CRE          
+time/item      (mg/dL)       (U/L)         (U/L)         (mg/dL)       (mg/dL)      
+1051227 [1241] 0.61          43            71            12.4          0.7          
+               Na            K             Ca           
+time/item      (mmol/L)      (mmol/L)      (mmol/L)     
+1051227 [1241] 132           4.3           2.33         
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1051227 [1241] 88.7         
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1051227 [1243] A             Positive     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1051227 [1243] Negative     
+
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               CRE           IGF-1        
+time/item      (mg/dL)       (ng/mL)      
+1051201 [1134] 0.6           95.6         
+群組:Hormones
+
+               Cortisol DL   ACTH          DHEA-SO4      hGH          
+time/item      (μg/dL)       (pg/mL)       (μmol/L)      (ng/mL)      
+1051201 [1134] 12.3          20.4          1.63          0.067        
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1051201 [1134] 106.0        
+*********檢驗室:N1***********
+
+群組:Thyroid Hormone
+
+               RIA:TSH       RIA:T3        RIA:T4       
+time/item      (μIU/ml)      (ng/dL)       (μg/dL)      
+1051201 [1134] 0.65          105.3         7.26         
+*********檢驗室:N5***********
+
+群組:Prolactin
+
+               Prolactin    
+time/item      (ng/ml)      
+1051201 [1134] 6.24 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 陳佾昌 影像時間: 2016/12/27 13:06 (32001CXM) 發報告時間: 2016/12/27 15:17 Chart No: 6409332
+Accession No: T0161793105
+EXAMINATION: Chest - PA View (Standing).
+FINDINGS:
+Normal heart size. Tortuous aorta with calcification. Suggest clinical correlation.
+Skull: 2-Views (AP. LAT. ) 醫令: Skull: 2-Views (AP. LAT. ) 報告醫師: 李崇維 影像時間: 2016/12/01 12:30 (000MP055) 發報告時間: 2016/12/02 17:14 EXAMINATION: Skull: 2-Views (AP. LAT. )
+FINDINGS:
+Enlargement of sella turcica with erosion of dorsum sellae.
+Requesting MRI Film and Report 醫令: Requesting MRI Film and Report 報告醫師: 陳信銘 影像時間: 2016/10/17 15:42 (P2104C0M) 發報告時間: 2016/12/15 10:17 Images requested from the outside hospital had been uploaded to the PACS as a baseline or for comparison. Please check the original formal imaging report from the source hospital of these images. If you need a second opinion, please send us a formal consultation. 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1.Pituitary tumor
+2.Type 2 diabetes mellitus
+3.Hypertension 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*
+S: progressive memory ability
+
+O:
+[VF]
+total blindness and left temporal hemianopia
+[MRI]
+one 5.9cm solid and heterogenous mass arising from sella with suprasellar extension, causing compression of optic chiasm, right cerebral peduncle, third ventricle and bilateral thalamus. 
+[NE]
+CN II:   Visual fields: confrontation test-intact(-), 
+                        right total blindness, left  
+                        temporal hemianopia 
+CN III, IV, VI:
+         Pupil: isocoric R/L: 3mm/3mm, light reflex R/L: +/+
+         EOM: full
+         Pursuit: smooth, Saccade: no hypometria
+A:
+1.Pituitary tumor
+
+P: 
+1.Consult radiologist for further angiography
+2.Prepare operation on 12/29
+
+Treatment Goal: Complete operation 
+出院規劃(Discharge Planning) 
+管路留置狀況:無
+日常生活功能分數：100
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：配偶 兒子 
+出院規劃收案篩檢：一般病患 
+主治醫師評論(VS Comments) 
+cerebral angiography for unusual vessls inside the tumor 
+醫師姓名 
+曾漢民 主治醫師 
+ 

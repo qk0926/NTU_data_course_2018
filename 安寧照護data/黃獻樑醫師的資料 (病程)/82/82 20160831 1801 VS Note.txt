@@ -1,0 +1,34 @@
+P:
+1. Acute hypoxic respiratory failure, status post endotracheal intubation with mechanical ventilation(2016/7/22-8/20), suspected nosocomial pneumonia, recurrence with fever
+2. septic and cardiogenic shock, improved
+3. Acute decompensated heart failure with cardiogenic shock and pulmonary edema, favored severe sepsis related
+4. Septic shock, suspect gangrene with cellulitis over right foot related, suspect left femoral prosthesis infection related, improved
+5. Hypocalcemia, suspected Denosumab injection related, improving
+5. Peripheral artery occlusive disease of bilateral lower extremeties, status post percutaneous transluminal angioplasty(PTA) on 2016/03/18, 2016/04/06, and 2016/07/08
+6. Coronary artery disease, one-vessel disease(LAD stenosis 60 %)
+7. Right foot ganrene, associated with PAOD, with recurrent cellulitis, post debridement on 2016/07/18
+8. End-stage renal disease, associated with diabetic nephropathy, under peritoneal dialysis since 2008/09/17
+9. Left femoral intertrochanteric fracture, s/p open reduction internal fixation on 2016/4/12
+10. Type 2 diabetes mellitus, with nephropathy and retinopathy, HbA1c 5.3% on 2016/05/23, currently under Novomix BIDAC 4U and trajenta
+10. Hypertension
+11. History of gastric ulcer and gastroesophageal reflux disease
+12. Sinus tachycardia, etiology undetermined
+13. Deep vein thrombosis, left common femoral vein, no warfarin because of severe INR prolongation
+14. Pneumoperitoneum, suspected microperforation or peritoneal dialysis related
+
+A:
+consciousness: clear
+short of breath, with O2 mask, improved after morphine use
+NG feeding well
+clesar dialysalyte
+2016/08/31 14:04 BP:145/103
+2016/08/31 14:04 T:36.8 P:109 R:20
+2016/08/31 Gram's(GS)#4:Gram (+) cocci 3+ *
+2016/08/30 WBC:6.18 k/£gL
+2016/08/30 HB:7.7 g/dL
+2016/08/30 UN:29.5 mg/dL
+
+P:
+tazocin was given for pneumonia, recurrence
+explain to family about the treatment course, discussion for disposition
+continue P/D, O2 use

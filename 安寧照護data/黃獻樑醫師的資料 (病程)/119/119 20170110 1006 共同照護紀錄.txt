@@ -1,0 +1,35 @@
+Dr:
+1. Hypoxemic RF, community-acquired pneumonia related, s/p ETT-MV (2016/12/26-), s/p prone(12/26-12/27) (2017/01/02-01/04)
+2. Sick sinus syndrome, paroxysmal Af, s/p permanent pacemaker (2015/08/21, DDDR, Medtronic)
+3. Benign prostatic hyperplasia
+4. Acute kidney injury, AKIN stage III, favor sepsis related
+
+Plan:
+1. for pneumonia, sepsis
+ - discontinue Meropenam and Fluconazole, and start Levofloxacin
+ - Keep steroid for ARDS and/or organizing pneumonia(keep solu-medrol 20mg Q8H)(taper if oxygenation improve)
+2. for Afib with PPM 
+ - hold apixaban due to current sinus rhythm 
+ - Sinus rhythm, DC cordarone, keep rytnomorm
+3. for AKI
+  - Watch out worsening renal function: prerenal pattern, sepsis, hypotension, CVP 6->4
+    => family refuse tracheostomy, accept RRT 
+ - keep albumin supplement
+ - adjust enteral feeding as tolerated
+ - hydration with D5W for hypernatremia
+4.For conscious prolonged disturbances
+ - consider lumbar puncture, family hesitated
+ - Consider self paid Flumazenil (自費同意書已給，家屬怕影響 renal function考慮中)
+
+[Pharmacist]
+Persistant fever, consider colistin use for infection control.
+
+[護理師]
+GCS:E1VTM1,pupil size:2.0(+)ou,NG Feeding pump set 62ml/hr反抽無消化佳,bowel sound(+), Q2h+p.r.n suction,sputum黃白普通少, q2h change postion & chest percussion/RN盧佩莉 
+
+[RT]
+plan
+1. keep ventilator partial support, keep titrate FiO2/PEEP&trying weaning
+2. keep Abx used (Ceftazidim Cravit)
+3. Keep medication for Af with PPM backup
+4. chest care and airway cleance

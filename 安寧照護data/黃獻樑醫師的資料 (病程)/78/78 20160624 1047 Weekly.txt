@@ -1,0 +1,107 @@
+Brief Summary of this week    
+On 2016/06/18, we changed Diflucan back to Anidulafungin for systemic fungemia and IE due to an ID doctor's advice. A follow-up brain CT was performed on the same day and showed stationary ICH with a little larger brain edema area and a small mass at right temporal lobe. Pancreatic carcinoma with metastasis of brain was suspected. The condition was well explained to her family and they decided the treatment goal would change to palliative care if condition is deteriorated.
+
+    Since 2016/06/20, her GCS was E1M4Vt but few E1M1Vt was noted as well(no response to pain). Due to gradually worsening condition, palliative care was discussed with family and family meeting was held on 2016/06/22 14:00. Under signed DNR and two specialists confirming her a terminal patient, the terminal extubation was performed about 2016/06/22 13:10, and removed CVC and pigtail on 2016/06/23. We also hold unnecessary treatment and monitor, and remained morphine and some oral medication, e.g. diovan, betaloc, nexium, herbesser, and diflucan. Her condition was stable during these days, while decreased HR/RR/SpO2 was noted ( HR 90->70, RR 20->12 SpO2 99%->96% ). 
+
+Assessment 
+**6/21 ®aÄÝ¨M©w -> palliative care + terminal extubation
+**family meeting about 2016/06/22 14:00 smoothly
+**terminal extubation about 2016/06/22 15:10
+
+remain treatment
+feeding: 30 ml/hr x 20 hr
+bp control: diovan 1# q12h, betaloc 1# qd
+prevent stress ulcer: nexium
+for Af: herbesser
+pain and control dyspnea: morphine
+keep diflucan
+if fever, give paramol
+
+< Fluid and Nutrition >
+       I/O   urine  stool  pigtail 
+06/23  -885  1580    0        5
+06/24  -1102 2000    
+
+dc diuretics
+* BW: +10kg->keep negative
+
+< Antibiotics >
+Ciproxin      06/08 ~ 06/09
+Diflucan      06/08 ~ 06/10  ( yeast-like organism )
+Anidulafungin 06/10 ~ 06/14  ( B/C 6/3-4 Candida )
+diflucan      06/14 ~ 06/17  ( Phx sugesstion)
+Mepem         06/10 ~ 06/20  ( no focus, downgrade )
+Anidulafungin 06/17 ~ 06/22  ( For IE, palliative )
+Fortum        06/20 ~ 06/22  ( downgrade, palliative )
+diflucan      06/22 ~        ( palliative )
+
+0604 blood: culture (+,candida, s to all)
+0610 urine: analysis(+, WBC 75), culture (+, GPB)
+     liver abscess: acid fast(-), culture(pending?)
+           ascites: culture(-)
+0611 sputum: gram(-), culture(-)
+0612 pleural effusion: rivalta(+), acid fast(-), gram(-)
+                      culture (-)
+0613 blood: culture(-)
+0617 CVP: Yeast-like organism
+0618 blood: culture(-)
+     sputum: gram(-), culture(pending)
+
+Opthamologist: 
+od vitreous stream of balls at posterior half (fungal?) 
+os few patch of whitish infiltrate at paramacula
+   mainly nasal part
+
+< data >
+        RBC/Hb     WBC/Seg    PLT/INR/PTT
+06/18  2.91/8.9   6.09        122
+
+       Alb   AST/ALT   T/D bil    BUN/CRE
+06/17                            16.7/0.4
+06/20  3.2      /38    0.68      
+
+        Na   K    Ca   P     Mg    Cl
+06/18  139  3.7        3.1  0.83
+06/19       3.9             1.09
+06/20  145  4.3        3.3  0.89
+
+      prealbumin  transferrin  pro-BNP
+06/15    10.7         81.9       5091
+
+06/19 CRP 1.09
+06/20 procalcitonin 0.28   
+06/21 ph/pco2/po2/hco3/be: 7.45/30/120/22/-1.7
+
+< Af >
+CHA2DS2VASc > 2 ( HTN, DM, age, female )
+SAMeTT2R2 > 2 ( female, HTN+DM, Herbesser, Asian* )
+if persisted Af shows
+Non-VKA-oral anticoagulant would be considered
+e.g. dabigatran, and xabans
+
+-> herbesser and concor, add anticoagulant when ich stable
+
+0614 heart echo: 3.6*1.6 cm vegetation on posterior mitral valve
+
+< pancreatic cancer>
+2016/06/09 CT: 
+1. tiny nodules at right lung with opacities and pleural effusion. 
+2. Multiple enlarged L.N.s at mesenteric root
+3. A cystic lesion at S3 liver.
+4. Another hypodense lesion(3.8cm) at S3 liver, nature ? 
+5. Multiple small hypodense lesions at lower pole of spleen, with diameter up to 2.1cm. nature ? 
+6. Multiple small hypodense lesions of both kidneys, nature ? 
+
+2016/06/12 pleural effusion cytology: Positive for malignant cells (Adenocarcinoma, metastatic)
+
+<ICH>
+2016/06/19 CT: stablized hematoma with increased edematous cahgne 
+NS: keep f/u
+
+Plan 
+1. palliative care 
+2. hold unnecessary treatment
+3. kee feeding
+4. keep diflucan
+5. family support care
+6. if still stable -> general ward

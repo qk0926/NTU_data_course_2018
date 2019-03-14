@@ -1,0 +1,79 @@
+Brief Summary of this week    
+After admitted, aggressive hydration with dyuratic was used for treat of rhabdomyolysis (seizure related). The EEG was arranged for evaluation of seizure on 12/09, the NEU was consulted, and non-convulsive status epilepticus was impressed. The Anxicam & Levetiracetam were prescribed. The etiology was surveyed, and anti-NMDA ab would be followed up. 
+
+However, the unstablized blood pressure noted, and levophed pump was prescribed in 12/09 morning. The levophed tapped gradually, and DC on 12/10. The followed up EEG on 12/13 showed no more epileptic form, then the BZD discontinued. Current no recurrd seizure, the EEG was arranged on 12/16, would f/u the result, and keep touched with NEU. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+[Today's event]
+continued supportive treat course
+f/u anti-NMDA ab report
+
+[Previous Abx]
+----------------------------------------------------------
+Zovirax 12/08-12/14
+Ceftriaxone 12/08-14
+
+
+[Cultures]
+12/08 B/C:
+      B/C:
+      S/C:
+      U/C: Gram pos. coccus 1000 
+           Gram pos. bacillus 4000 
+12/09 S/C: Klebsiella pneumoniae 1+ 
+           Gram neg. bacillus 1+ 
+      CSF/C: -
+      CSF/C: -
+      CSF/AFS: -
+      CSF/AFS: -
+      CSF/F:
+      CSF/Cryptococcal Ag: -
+      CSF: TB/VZV/HSV/EBV: all negative
+
+[Infusion]
+nil
+
+[MV/O2]
+VC mode: Vt:500, PEEP:5, FiO2:30%
+
+[Studies]
+12/08 和平醫院 CT and MRI: 
+      Radiologist common: suspect HIV encephalitis, CJD not 
+      likely
+12/09 EEG: still epileptic forms
+12/09 status elilepticus survey:
+      DIC profile: negative
+      tumor markers: negative
+      autoimmune panels Negative
+      HIV infection: Combo test negative
+12/10 UCG:40/25/66.7/MR 1+/TR 1+
+12/12 Anti-NMDA ab profiles:
+      Repeat EEG showed no more epileptic form, DC BZD
+12/16 EEG
+
+[Consultation]
+2016/12/09 
+NEU Common:
+Rule out non-convulsive status epilepticus
+Encephalopathy, cause to be determined
+1. Please arrange EEG as soon as possible. 
+2. Consult neuroradiologist for the MRI in 和平 Hospital. 
+3. Check DIC profile, tumor markers, autoimmune panels and HIV infection. 
+4. Arrange cardiac echo. 
+5. Check liver function, renal function and electrolyte. 
+6. May consider to send CSF for autoimmune encephalitis. 
+
+[Family decision]
+[Intervention]
+
+Plan 
+1. For suspected encephalitis with NCSE
+-> continue Levetiracetam
+-> repeat EEG next week
+-> Pursue anti-NMDA ab (自費)
+
+2. Rhabdomyolysis with ARF, resolved
+-> monitor RFT

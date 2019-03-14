@@ -1,0 +1,274 @@
+Admission Note 
+2016/07/29 17:35 
+主訴(Chief Complaint) 
+Informant: His son and foreign caregiver
+Sudden conscious change in the afternoon on 2016/7/29 
+病史(Brief History) 
+This is a 88-year-old man had underlying disease of,
+1) Moderate to severe aortic stenosis (2014/04/08 UCG), status post TAVI on 2014/12/23,
+complicated with complete AV block, status post TPM (2014/12/23-2014/12/25), status
+post permanent pacemaker implantation (DDDR, MRI-compatible) on 2014/12/25
+2) Tachy-brady arrythmia, status post permanent pacemaker implantation (DDDR,
+MRI-compatible) on 2014/12/25
+3) Hypertension
+4) Benign prostate hyperplasia, status post transurethral resection of prostate (TURP)
+5) Suspected chronic obstructive pulmonary disease (COPD)
+
+was partially ADLs dependent (bedridden and wheelchair bound most of the time, able to ambulate a bit with total support by caregiver). He was previously admitted into ICU due to pneumonia with respiratory failure status post intubation in year 2015.
+
+He had cough, rhinorrhea in recent 2 days. Sudden conscious change (mild opening of eyes in response to voice) was noted by his family in the afternoon of 2016/7/29. His foreign caregiver checked his saturation with pulse oximetry in which there was no heart rate shown. Hence, she performed bystander CPR on the spot. EMT performed CPCR then for 18 minutes, with initial non shockable rhythm. On arrival in NTUH ER, PEA was noted, ROSC was gained after 2 minutes of CPCR and one ampule of Epinephrine. Body temperature was 36.7. Brain CT showed brain atrophy, leukoaraiosis, old lacune. Chest radiograph showed hyperinflated lung, pacemaker in situ, TAVI and bilateral lung increased infiltration. Rapid progressive pneumonia caused hypercapnic respiratory failure, OHCA with PEA was suspcted. Therefore, he was admitted for further management. 
+
+Family History: no metabolic or cancer family history
+Medication Allergy:No  病人自述 2015/04/28
+No  病人自述 2014/12/21
+No  病人自述 2014/12/26
+No  病人自述 2010/02/05
+No  病人自述 2014/05/01
+No  親屬描述 2014/05/02
+No  親屬描述 2016/07/29
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  病人自述 2015/04/28
+No  病人自述 2014/12/21
+No  病人自述 2014/12/26
+No  病人自述 2014/05/01
+No  親屬描述 2014/05/02
+No  親屬描述 2016/07/29
+Current Medication:
+NTUH:警 Adrenaline 1 mg/1 mL /amp 1 mg STAT IV 1 days
+警 Levophed 4 mg/4 mL /amp 8 mg QD cIF 2 days
+75 Plavix 75 mg/tab 1 tab QD PO 28 days
+Lasix 40 mg/tab 0.5 tab QD PO 28 days
+HARNALIDGE D 0.2 mg/tab 1 tab HS LZ 28 days
+Methycobal 500 mcg/cap 1 cap BID PO 28 days
+B.C. /cap 1 cap QD PO 28 days
+Dulcolax EC 5 mg/tab 1 tab HS PO 28 days
+Sennapur 12.5 mg/tab 2 tab HS PO 28 days
+自費 Biofermin-R Powder 6 mg/1 g /pack 1 pack TIDPC PO 28 days
+Kascoal 40 mg/tab 1 tab TIDPC PO 28 days
+(管4) Imovane 7.5 mg/tab 1 tab HS PO 28 days
+Actein Effervescent Tablet 600 mg/tab 1 tab BID PO 28 days
+75 Plavix 75 mg/tab 1 tab QD PO 28 days
+Other:
+中草藥: Nil
+保健食品: Nil
+Past Medical History:
+Hospitalization:入院日期:2014_12_21 出院日期: 診斷:Aortic stenosis
+入院日期:2015_04_20 出院日期:2015_05_08 診斷:Aortic stenosis
+入院日期:2014_12_21 出院日期:2014_12_31 診斷:Aortic stenosis
+
+Past Surgical History:2014_12_23  
+Travel History: No travel. Retired. No family members with fever or URI symptoms 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:高中
+職業:退休
+宗教信仰:無
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:O，RH:不清楚，輸血反應:
+抽煙:沒有，已戒煙:20年
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:昏迷
+認知功能:無法評估 
+精神情緒狀態:異常 其他 E1VtM1
+安全問題:有  防跌
+睡眠形態:正常  
+
+Nutritional Screen
+攝食情形:普通，攝食50-74%
+排便狀態:正常
+BMI:16.17
+
+Fall Risk Assessment
+總分:20
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1. Systemic: fever (-) ,no BW loss , easy-fatigability (-),no dizziness 
+2. Skin: petechiae (-) ,no purpura ,no itching ,no local redness and swelling ,no papules.
+3. HEENT: no hearing loss ,no nasal discharge ,no sore throat,no headache
+4. Cardiovascular:no palpitation ,no exertional of dyspnea 
+5. Respiratory: dyspnea (+) ,no chest pain , cough (+) 
+6. GI: no anorexia, no nausea ,no vomiting ,no constipation ,no diarrhea ,no melena ,no change of bowel habit ,no small caliber of stool ,no tenesmus ,no flatulence ,no abdominal pain
+7. Urogenital:no flank soreness ,hematuria (-) ,no urinary frequency ,no urgency ,no dysuria , no hesitancy ,no nocturia ,no polyuria ,no oliguria  
+8. Musculoskeletal:no Back pain ,no bone pain,no joint pain 
+身體檢查(Physical Examination) 
+BH: 160 cm,  BW: 41.4 kg,
+T: 35.1 °C,  P: 70 bpm,  R: 20 /min,
+BP: 145 / 73 mmHg,
+Pain score: 0 ,
+
+Neurological Examination: 
+. Consciousness: E1M1VT
+. Muscle power: Not evaluable
+. Gait: Not performed
+
+HEENT: grossly normal, conjunctiva: pink, sclera: anicteric
+             Pupil: isocoric,  1mm/ 1mm
+Light reflex: L/R: -/-, EOM: full and free
+Neck: supple, no JVE  no LAP  no Goiter no Carotid bruit
+Chest: symmetric expansion, breath sound: Bilateral coarse crackles
+Heart: RHB, no murmur
+Abdomen: soft and flat, bowel sound: normoactive
+         Liver/ spleen: impalpable
+         no Tenderness   no Rebound tenderness  
+Back: No knocking tenderness
+Extremities: Freely movable, no pitting edema ; no cyanosis  
+Skin: no Skin rash 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050729 [1229] 168          
+
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1050729 [1301] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1050729 [1301] O             Positive     
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               CRE           Na            K             Ammonia N     LacticAcid   
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)      (mmol/L)     
+1050729 [1239] 1.1           134           5.0           68            12.21        
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1050729 [1239] 14.9          47.8          1.39         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1050729 [1239] 156          
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1050729 [1239] 67.1         
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050729 [1239] 0.0           1.0           3.0           3.0           7.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050729 [1239] 55.0          0.0           0.0           3.0           27.0         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050729 [1239] 1.0           0.0           0.0 /100 WBC  WBC 100                    
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050729 [1239] 10.81         3.17          10.6          33.1          104.4        
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050729 [1239] 33.4          32.0          174           15.1          -            
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050729 [1218] 7.098         67.8          55.7          21.1          -8.8         
+               SO2          
+time/item      (%)          
+1050729 [1218] 75.4         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1050729 [1218] 1.27          12.2          37            5.85          134.5        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1050729 [1218] 191           9.2 
+檢查紀錄(Examination Report) 
+Nil 
+影像報告(Imaging Report) 
+CT Without Contrast-Brain 醫令: CT Without Contrast-Brain 報告醫師: 陳佾昌 影像時間: 2016/07/29 13:32 (33070B0M) 發報告時間: 2016/07/29 13:55 CT of the brain without contrast enhancement shows: 
+- Brain atrophy with dilated sulci, fissures and ventricles. 
+- Low densities at bilateral periventricular white matter, suggestive of leukoaraiosis. 
+- Old lacune in right thalamus. 
+- Normal appearance of the cranial vault and skull base. 
+- Atherosclerotic calcification of the intracranial vessels.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳育青 影像時間: 2016/07/29 12:37 (32001CYM) 發報告時間: 2016/07/29 13:46 an intracardiac device. TAVI. cardiomegaly. blunted left costophrenic angle. bilateral lung haziness. an endotracheal tube. a nasogastric tube.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳育青 影像時間: 2016/07/29 13:11 (32001CYM) 發報告時間: 2016/07/29 13:47 an intracardiac device. TAVI. cardiomegaly. blunted left costophrenic angle. bilateral lung haziness. an endotracheal tube. a right central venous catheter. 
+病理報告(Pathology Report) 
+084/11/10 S9517707
+085/06/14 S9609458
+091/01/04 S0200055
+Soft tissue,inguinal area, right,herniorrhaphy,hernia sac    
+ S1131204
+Prostate,transurethral resection,benign nodular hyperplasia    
+ S1344266
+Stomach,endoscopic biopsy,chronic active gastritis with Helicobacter infection, 
+臆斷(Tentative Diagnosis) 
+1. Out of hospital cardiac arrest, status post bystander CPR (duration unknown) and CPCR (EMT 18+NTUH 2 minutes), with initial non-shockable rhythm, PEA on arrival, ROSC, under mechanical ventilator support since 2016/7/29 and hypothermia therapy  
+2. Moderate to severe aortic stenosis (2014/04/08 UCG), status post TAVI on 2014/12/23,
+complicated with complete AV block, status post TPM (2014/12/23-2014/12/25), status
+post permanent pacemaker implantation (DDDR, MRI-compatible) on 2014/12/25
+3. Tachy-brady arrythmia, status post permanent pacemaker implantation (DDDR,
+MRI-compatible) on 2014/12/25
+4. Hypertension
+5. Benign prostate hyperplasia, status post transurethral resection of prostate (TURP)
+6. Suspected chronic obstructive pulmonary disease (COPD) 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*1. Out of hospital cardiac arrest, status post bystander CPR (duration unknown) and CPCR (EMT 18+NTUH 2 minutes), with initial non-shockable rhythm, PEA on arrival, ROSC, under mechanical ventilator support since 2016/7/29 and hypothermia therapy  
+2. Pneumonia with hypoxic respiratory failure
+O:
+E1M1VT
+Pupils: 1-/1-
+CXR: Hyperinflated lung, pacemaker in situ, TAVI and bilateral lung increased infiltration.
+WBC: 10.81, B: 7%
+A:
+1. Out of hospital cardiac arrest, status post bystander CPR (duration unknown) and CPCR (EMT 18+NTUH 2 minutes), with initial non-shockable rhythm, PEA on arrival, ROSC, under mechanical ventilator support since 2016/7/29 and hypothermia therapy  
+2. Pneumonia with hypoxic respiratory failure
+P:
+1. Keep empirical Tazocin
+2. Pursue culture reports
+3. Monitor electrolyte balances and coagulation profile
+
+
+Treatment Goal:
+BT: 33.5 for hypothermia 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右頸 
+雙腔導管留置：無  
+鼻胃管留置：無   
+氣管管路留置：有 氣管內管   
+胃造廔口：無   
+尿管留置：無    
+膀胱造廔：無  
+傷口引流管：無 
+其他導管：無 
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：配偶 兒子 外勞 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+黃建華 主治醫師 
+ 

@@ -1,0 +1,12 @@
+# UTI and pneumonia
+# Septic shock, r/o recurrent CRBSI
+# Recurrent GI Bleeding.
+
+2016/09/17 20:46 T:36.2 P:80 R:22
+2016/09/17 20:46 BP:124/63
+2016/09/17 20:45 GCS:E4M5VT
+2016/09/17
+TP:<3.0 g/dL
+LDH:77 U/L
+transudative pleural effusion
+please guide volume status with cxr or i/o

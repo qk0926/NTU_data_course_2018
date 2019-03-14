@@ -1,0 +1,75 @@
+Brief Summary of this week    
+Adequate urine output was observed, and her renal function was improving as well. Levophed was tapered off on 11/09. High O2 demand and ventilator setting were still needed, and rapid shallow breathing pattern was observed during daily interruption of sedation. Family meeting was held on 11/11, and her family preferred to try weaning if her condition became stable. NG feeding was tried, but hypotension developed since 11/11 evening. Levophed was added back, and breakthrough fever was noted at 11/12 night. Septic work-up was repeated, and Mepem was shifted to Cravit to cover Stenotrophomonas maltophilia according to previous pleural effusion culture. Her general condition deteriorated with decreased urine output, increased total bilirubin level and worsened renal function. Dismal outcome had been informed to her family, and the treatment goal had been changed to palliative care. 
+
+Problem Assessment Plan 1
+Assessment 
+Cravit D2 (11/13-), pleural effusion: SM
+Daptomycin D22 (10/24-), VRE sepsis
+Micafungin D20 (10/26-), Ascites: C. tropicalis
+--------------------------------
+Tazocin 10/9-10/12, 10/23-10/24
+Claforan 10/12-10/23
+Targocid 10/23-10/24
+Diflucan 10/25
+Mepem 10/24-11/12
+
+[Ventilator settings]
+PCV, IP 24, PEEP 8, RR 30, FiO2 60%
+=> Vt: 250, ftot 42, MV 7.7, SpO2 95%
+=> decreased tidal volume
+
+Diet: NPO + TPN 1100ml QD + lipofundin 250ml QOD
+
+[Physical examination]
+Cons: E1M1Vt, under sedation
+BS: diffuse crackles, prominent over the right side
+Heart: RHB, no audible murmur
+BoS: hypoactive BoS
+Abdomen: distended
+Extremity: grade II~III pitting edema
+
+[Important Study findings]
+9/28 Abdominal CT: s/p gastrojejunostomy; Suspected gastric lesion, Mild swelling of the pancreatic head, Wall-thickening of CBD with dilated biliary tree; Right hydronephrosis; Nodular infiltration of the omentum, suspected peritoneal carcinomatosis
+10/1  ERCP: one 1.5cm polypoid leison at anastomosis site 
+      s/p biopsy => polypoid gastritis
+      Only orifice of anturm to pylorus can be seen 
+      but scope can't pass through it
+10/19 EUS-FNA: Gastric wall thickness cytology: suspicious adenocarcinoma; biopsy: only clot fibrin
+      Ascites cytology: adenocarcinoma, metastatic
+10/23 Abd. CT: Suspected wall-thickening at gastric antrum. Mild swelling of the pancreatic head; dilatation of biliary tree. Placement of a CBD stent; Mild right hydronephrosis. Placement of a right ureteral stent; Nodular infiltration of the omentum, suspected peritoneal carcinomatosis; New bilateral pleural effusion, more on left side. Ascites, Pericardial effusion.
+10/23 L’t thoracentesis: green color => highly suspected bile leak induced peritonitis and pleural effusion
+11/09 bedside chest echo: mild Rt pleural effusion (2cm in depth, 2 ICS)
+
+[Important Interventions and Newly Added Medications]
+10/2 PTCD for obstructive jaundice
+10/7 Antegrade biliary stent => 10/12 stent revision
+10/8 Right DBJ insertion for right hydronephrosis
+10/22 Remove PTCD due to fair internal stent function
+10/24 ETT + MV, right femoral CVC insertion
+10/25 Pigtail, left for pleural effusion
+10/26 try iNO for ARDS (1PM)
+10/29 off iNO
+11/04 Shift PTN to D50W, Rasitol 20mg Q6H
+11/09 DC rasitol
+11/12 Breakthrough fever-->work up, shift Mepem to Cravit
+
+[Important Consultation and Meeting Suggestions]
+10/24 GI鄭: 1) Stabilized hemodynamic status first, arrange PTCD placement after vital sign stabilized(Scheduled on 10/26) 2) NPO with IV nutrition support
+10/27 FM for hospice combined care
+
+[Important Family Decisions]
+10/24 Family: agreed on cash PPI and PTCD
+10/26 Family signed DNR 除藥院宣, 兩種升壓藥
+11/02 Family re-signed DNR, 不洗腎
+11/04 discussed with her family, and they agreed Levophed upper limit 20ml/hr
+11/06 Still hoped vasopressor if needed
+11/09 Family accept RCC transfer
+11/10 Family (5th son hoped another family meeting)
+11/14 Family: palliative care
+Plan 
+1. keep current antibiotics, no more adjustment
+   Pursue culture report
+2. Keep TPN and lipofundin, NPO except drugs
+3. Inform grave prognosis to all family members
+4. Palliative and hospice combined care
+5. Pain control with fentanyl patch and IV form

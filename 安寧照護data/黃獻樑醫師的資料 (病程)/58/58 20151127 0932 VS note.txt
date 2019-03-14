@@ -1,0 +1,12 @@
+1.K. pneumoniease bacteremia
+2.CRBSI with proteus, pseudo, AB
+3.UTI with ESBL E. coli
+4.ESRD s/p kidney transplantation, CKD progress to stage 5, with AKI (suspect poor drug compliance with rejection, graft failure, or CRS), complicated with lung edema and axzotemia, s/p emergent HD on 7/10,11,13, hold HD now
+3.Acute decompensated heart failure, with lung edema
+4.SLE with kidney, lung, and CNS involvement
+5.Anemia, GERD LA-B, suoperficial gastritis, gastric erosion
+6.DM, HTN
+
+both DLCs removed
+still low grade fever
+=> Change abx to cover ESBL E.coli and Pseudomonus

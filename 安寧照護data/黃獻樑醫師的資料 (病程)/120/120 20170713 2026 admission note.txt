@@ -1,0 +1,736 @@
+2017/07/13 20:26 
+主訴(Chief Complaint) 
+Informant:The wife
+Fever since 7/4
+Poor consciousness since 7/7 
+病史(Brief History) 
+Present illness:
+    A 52-year-old man had been well before this admission. He denied chronic diseased. He was a 聯電工程師. He denied history of tourism or contact animals in recent days; however, he had grew some 水耕蔬菜 recently. 
+    This time, he suffered from cough, sputum, sore throat on 2017/07/04. He take Relenza since 7/5 by local medical doctor because of suspect influenza. However, he did not speak in the morning of 2017/07/07 and then fever persisted before this admission for 5 days by his family described. Thus, he came to 東元 hospital for help. Accompinted with consciousness changed, hiccups, and headache were found. In that time, his blood tests showed no leukocytosis (WBC: 5k), no anemia (Hb:14 g/dl), normal renal function (Cre:1.3 mg/dL), no hyperbilirubinemia (T-bil:0.7 mg/dl), and no elevation CRP level (CRP:0.6 mg/dl). Arranged brain with/without contrast CT, but no active changed was noted. The symptom was got worse, thus, he was transfered to our ED in the midnight of 2017/07/07. At our ED, the vital signs showed T/P/R: 38.3/87/20, blood pressure: 112/59 mmHg, and SPO2: 98％. Drowsy consciousness were found (E3V1M4). The blood tests showed no leukocytosis (WBC: 5.10 K/μL), no anemia (Hgb: 13.1 g/dL), nomal procalcitonin level (0.05 ng/mL)/liver and renal function (Cr: 0.88 mg/dL; ALT: 11 IU/L), mild hyponatremia (Na: 133 mmol/L), and no hyperkalemia (K: 3.8 mmol/L). Physical examination revealed stiffness of neck, but Kernig's sign (+/-) and Brudzinski's sign(+/-) by ED physician. Thus, lumbar puncture was done. Elevated levle of WBC (254 /μL) and Lym (60-70%) with protein at CSF were found. Negative was reported by India Ink/C.neoformans Ag. The urinalysis was not pyuria (WBC: 2-5 /HPF; Bacteria: +/-/HPF). The chest radiography mild infiltration over bilateal. Therefore, infectious physician was consulted. Brain MRI with/without contast was suggested. It was arranged on 2017/07/08. The study reported mild increased signal intensities over bilateral thalamus on DWI, T2WI and FLAIR images. Significance to be determined. After discussing by a neurologist and an emergency physician, under the impression of meninigits and encephalitis, favor herpes simplex virus encephalitis, but japanese meningitis, tuberculosis, fungal, or autoimmune cannot be ruled out, he was admitted for further treatment. However, his condition got worse. He was transfered to ICU for intensive care. 
+    After admitted to ward, poor consciousness and poor swallowing/cough function was noted. After discussed with family, he was transferred to MICU for intensive monitoring immediately. On arrival at MICU, his GCS was E1V1M4 with pupil 2.5+/2.5+ and preserved OCR. Only left upper extremity had normal flexion to pain. Other extremities were not responded to pain. Hyperreflexia was noted among all extremities. Babinski sign: right absent, left dorsiflexion. After discussed with ID man, empirical Acyclovir and Ceftriaxone were given. At 23:30, desaturation and shallow breaths were noted, with poor cough function. He was intubated and received mechanical ventilation since then on. High fever was noted during 7/8-7/10. On 7/11, lumbar puncture was repeated in the morning, with open pressure 200mmH2O, close pressure 150mmH2O. CSF study reported WBC 95(L/N:94/1), RBC 38, LDH 240, TP 94, Glc 83, microalbumin 674.99 mg/L, IgG 12.7mg/dL; IgG index: 0.53. CSF study for HSV PCR and virus isolation were sent. He was reported to CDC for 不明原因腦炎 and Japanese encephalitis, the serum and CSF samples were sent to CDC as well. Since limbic encephalitis is favored according to brain MR, autoimmune encephilitis pannel and paraneoplastic neurological syndrome were checked as well(外送華宇).
+
+     In the evening of 7/11, his consciousness level  dropped to E1VtM1 with no spontaneous breath trigger, corneal reflex or OCR. Elevated blood pressure was noted as well (baseline SBP 110-120mmHg, elevated to SBP 160-170mmHg that night). Emergent brain CT without contrast was done. The result showed diffusely brain edema, with  loss differentiation of grey-white matter. Low attenuation and swelling pons, bilateral thalamus, effaced CSF space of ambient cistern and 3rd ventricle were noted. Lab exam showed elevated cardiac enzymes (7/10 21:35 CK 398 MB 8.06 TnT 600) and EKG reported ST depression over V2-V5. Echocardiogram reported basal to mid anteroseptal and posterolateral wall akinesia, with preserved overall LVEF (55% by the A-L). Neurologist and CV man were both contacted urgently. Neurologist suggested to start mannitol for brain edema and consider steroid use. CV man suggested the cardiac enzym and EKG abnormality might be stressed cardiomyopathy; however, ACS could not totally rule out. After discussion, neurologist and CV man both recommended with Plavix use. Serial cardiac enzyme and EKG study every 6 hours showed decreased cardiac enzyme.
+
+    The patient's condition, management and prognosis were explained to family by neurologist, ID man, and ICU specialist in the morning on 7/11. MTP 100mg Q8H was started afterward. Significantly decreased blood pressure was noted after MTP administered. Although the neurological condition remained the same 7/11. EEG was done on 7/12, which showed generalized slow waves at 4-5Hz, without epileptiform discharges. Follow-up brain MR without contrast was done by neurologist's recommendation on 7/12, which showed improvement of the brain edema, with still T2WI hyperintensity over bilateral thalamus, midbrain, and upper pons tegtum area. Some infarction insults over left thalamus and one possible hemorrhagic lesion over right upper thalamus was noted by neurologist's reading. The neurologic exam in the afternoon of 7/12 supprisingly revealed trace OCR. Toe response to bilateral Babinski exam was noted as well. The MTP was increased to 200mg in the evening of 7/12 and 250mg in the morning on 7/13. Mannitol was tapering from 100ml Q6H to 75ml Q6H on 7/12.
+
+    Acute leukopenia was noted on 7/12. ID man suggested it was possibly viral infection nature course, and he recommended to keep acyclovir and wait for HSV PCR result. Since Tazocin might have leukopenia side effect, it was changed to Cefepime for empirical coverage of possible occult infection. The follow-up WBC returned to 5K on 7/13. Elevated liver enzymes were noted, HBsAg and anti-HCV were both negative.
+
+    The patient was transferred to NTUH Taipei for further evaluation and management on 7/13.
+
+Family History: No encephalitis
+Medication Allergy:No  親屬描述 2017/07/13
+No  親屬描述 2017/07/07
+No  親屬描述 2017/07/08
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  親屬描述 2017/07/07
+No  親屬描述 2017/07/08
+No  親屬描述 2017/07/13
+Current Medication:
+NTUH:
+Other:
+中草藥:nil
+保健食品:nil
+Past Medical History:
+Hospitalization:入院日期:2017_07_08 出院日期:2017_07_13 診斷:Fever
+
+Past Surgical History:nil
+Travel History:無,
+無,無
+無,無 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:大學
+職業:其他
+宗教信仰:道教
+婚姻狀態:已婚
+使用語言:國語 
+口述血型:A，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有，已戒煙:半年
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Fall Risk Assessment
+總分:9
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-), fever(+, since 7/4)
+2.Skin: petechiae(-), purpurae(-), skin rash(-), itching(-), dryness(-)
+3.HEENT: headache(-), dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-), oral ulcer(-)
+4.Cardiovascular: exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-), syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea (-), cough(-), chest pain(-), hemoptysis(-), productive cough(-), pleuritic chest pain(-)
+6.GI: anorexia(-), poor appetite(-), nausea(-), vomiting(-), dysphagia(-), heart burn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), frequency(-), urgency(-), dysuria(-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria(-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-), back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH: 165 cm,  BW: 60 kg,
+T: 35.9 °C,  P: 68 bpm,  R: 12 /min,
+BP: 123 / 72 mmHg,
+Pain score:  0,
+
+
+[PE]
+Heart: Regular, no murmur
+chest: Coarse, more in the right
+Abd: Normoactive sound. Soft.
+Skin: No lesion
+
+[NE]
+E1M1VT
+Pupil 1.5/1.5, -/-
+OCR (+)
+Other brainstem reflex (-)
+MP:0
+DTR: ++ in right biceps, right triceps, bilateral ankles. Others -
+Babinski: No response
+Muscle tone: Flacid 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060713 [1337] 5.86          4.17          11.5          35.5          85.1         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060713 [1337] 27.6          32.4          174           12.7          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060713 [1337] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060713 [1337] 87.9          0.0           0.0           3.1           9.0          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060713 [1337] 0.0           0.0           0             -            
+群組:Yes
+
+               hsCRP         D-Dimer       FDP           Fibrinogen   
+time/item      (mg/dL)       (μg/mL FEU)   (μg/mL)       (mg/dL)      
+1060713 [1337] 2.85          4.07          16.5          355.5        
+群組:Coagulation
+
+               PT            aPTT          PT INR       
+time/item      (sec)         (sec)         ()           
+1060713 [1337] 10.2          27.0          0.94         
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Cl           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1060713 [1337] 23.9          0.9           142           4.1           109          
+               Ammonia N     T-BIL         Ca            Mg            P            
+time/item      (μmol/L)      (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)      
+1060713 [1337] 35            0.36          2.09          0.99          3.5          
+               AST           LacticAcid    CK           
+time/item      (U/L)         (mmol/L)      (U/L)        
+1060713 [1337] 133           3.78          51           
+群組:General BioChemistry
+
+               GGT           UA            ALB           ALT           LDH          
+time/item      (U/L)         (mg/dL)       (g/dL)        (U/L)         (U/L)        
+1060713 [1337] 52            2.6           2.7           156           338          
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060713 [1337] 7.495         28.4          201.0         22.1          -1.5         
+群組:
+
+               Troponin-T    eGFR          CK-MB        
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)      
+                              m^2)                      
+1060713 [1337] 85.42         94.2          2.33         
+*********檢驗室:BC***********
+
+群組:DM
+
+               HbA1c        
+time/item      (%)          
+1060713 [1337] 6.3          
+*********檢驗室:OP***********
+
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH            Protein(C)    Glu.(C)       Ketone(Urine 
+                                                                    )            
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1060713 [1337] 1.029         6.0           30 ( 1+ )     -             -            
+               O.B.(C)(Urin  Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+               e)                                                       (Urine)     
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1060713 [1337] -             ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1060713 [1337] Yellow        -            
+群組:SEDIMENT
+
+               RBC (S)       WBC (S)       Epith (S)     Cast (S)      Crystal (S)  
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1060713 [1337] 2-5           2-5           5-10          -             -            
+               Bacteria      Mucus(S)      Others (S)   
+time/item      (*)           (*)           (*)          
+1060713 [1337] -             -             -            
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1060713 [1624] 164          
+
+*********檢驗室:B3***********
+B3-1060713-3000942   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       PMNs ( 10-25 /LPF )
+     Gram's(GS)#2:       Epithelial cells ( 1-9 /LPF )
+     Gram's(GS)#3:       No bacteria visible
+
+*********檢驗室:CT***********
+
+群組:Antiphospholipid Ab
+
+               DRVVT        
+time/item      (*)          
+1060711 [0922] Normalized R 
+               atio:1.63, M 
+               oderate Posi 
+               tive (Normal 
+               ized Ratio:1 
+               .5-2.0)      
+*********檢驗室:M5***********
+
+群組:Yes
+
+               Anti-B2 GP1   IgM anticard 
+                             iolipin      
+time/item      (U/mL)        (MPL)        
+1060711 [0922] 1.11          6.19         
+*********檢驗室:SB***********
+
+群組:Yes
+
+               IgA           IgG           IgM          
+time/item      (mg/dL)       (mg/dL)       (mg/dL)      
+1060708 [1858]               1030.00                    
+1060710 [0945]               12.70                      
+1060712 [0949] 214.00                      60.00        
+*********檢驗室:VH***********
+
+群組:
+
+               HSV DNA(Qual 
+               itative test 
+               )            
+time/item      ()           
+1060710 [0945] None Detecte 
+               d            
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1060711 [0459] 160          
+1060711 [1109] 185          
+*********檢驗室:LS***********
+
+群組:
+
+               HIV Ag/Ab篩檢   S.T.S. (RPR)               
+time/item      ((S/CO))      ()           
+1060710 [0945] Nonreactive   Nonreactive  
+*********檢驗室:LU***********
+
+群組:
+
+               Neutrophil    Lymphocyte    Monocyte      Eosinophil    Basophil     
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060708 [1858]                                                                      
+1060708 [2259]                                                                      
+1060709 [0502]                                                                      
+1060710 [0441] 89.6          8.6           1.8           0.0           0.0          
+1060710 [2135] 92.3          5.3           2.4           0.0           0.0          
+1060711 [0501]                                                                      
+1060711 [1110]                                                                      
+1060711 [1646]                                                                      
+1060711 [2252]                                                                      
+1060712 [0455] 78.7          16.1          5.2           0.0           0.0          
+1060712 [0957]                                                                      
+1060713 [0447] 88.0          7.8           4.2           0.0           0.0          
+               Blast         GFR 腎絲球濾過率    O2 Sat%       Influenza A快  Promyelocyte 
+                                                       篩                                        
+time/item      (%)           (mL/min/1.73  (%)           ()            (%)          
+                              m^2)                                                  
+1060708 [1858]                             98.8          Negative                   
+1060708 [2259]                             95.4                                     
+1060709 [0502]                             99.5                                     
+1060710 [0441] 0             94.2          98.7                        0            
+1060710 [2135] 0             116.2         96.5                        0            
+1060711 [0501]                             99.5                                     
+1060711 [1110]                                                                      
+1060711 [1646]                                                                      
+1060711 [2252]                                                                      
+1060712 [0455] 0             130.2         99.0                        0            
+1060712 [0957]                                                                      
+1060713 [0447] 0                           99.2                        0            
+               TCO2          Influenza B快  Myelocyte     Metamyelocyt  RDW-CV       
+                             篩                           e                          
+time/item      (mmol/L)      ()            (%)           (%)           (%)          
+1060708 [1858] 19.6          Negative                                               
+1060708 [2259] 18.8                                                                 
+1060709 [0502] 17.1                                                                 
+1060710 [0441] 23.9                        0             0             12.9         
+1060710 [2135] 26.6                        0             0             13.1         
+1060711 [0501] 26.0                                                                 
+1060711 [1110]                                                                      
+1060711 [1646]                                                                      
+1060711 [2252]                                                                      
+1060712 [0455] 24.5                        0             0             12.7         
+1060712 [0957]                                                                      
+1060713 [0447] 23.9                        0             0             12.6         
+               Band neutrop  Aty. lymphoc  Plasma Cell   Normoblast    P (STAT)     
+               hil           yte                                                    
+time/item      (%)           (%)           (%)           (%)           (mg/dL)      
+1060708 [1858]                                                         2.8          
+1060708 [2259]                                                                      
+1060709 [0502]                                                                      
+1060710 [0441] 0             0             0             0                          
+1060710 [2135] 0             0             0             0             3.8          
+1060711 [0501]                                                                      
+1060711 [1110]                                                                      
+1060711 [1646]                                                                      
+1060711 [2252]                                                                      
+1060712 [0455] 0             0             0             0                          
+1060712 [0957]                                                                      
+1060713 [0447] 0             0             0             0                          
+               Others        r-GT (STAT)   CK-MB (mass)  Troponin-T                 
+time/item      (%)           (IU/L)        (ng/mL)       (ng/L)       
+1060708 [1858]                                                        
+1060708 [2259]                                                        
+1060709 [0502]                             1.19                       
+1060710 [0441] 0                           0.436                      
+1060710 [2135] 0                           8.06          600.9        
+1060711 [0501]                             11.67         308.9        
+1060711 [1110]                             8.04          217.9        
+1060711 [1646]                             5.78          125.2        
+1060711 [2252]                             3.99          112.7        
+1060712 [0455] 0                           3.21          114.2        
+1060712 [0957]               55                                       
+1060713 [0447] 0                                                      
+群組:CBC+PLT
+
+               W.B.C 白血球     R.B.C 紅血球     Hgb 血紅素       Hct 血球比容積     MCV平均血球體積    
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060710 [0441] 5.02          4.14          11.7          35.1          84.8         
+1060710 [2135] 5.51          4.56          12.9          38.5          84.4         
+1060712 [0455] 1.93          4.25          11.9          35.6          83.8         
+1060713 [0447] 5.74          4.07          11.4          34.3          84.3         
+               MCH平均血球血紅素    MCHC平均血色素比容積  Platelet 血小板                             
+time/item      (pg)          (g/dL)        (K/μL)       
+1060710 [0441] 28.3          33.3          88           
+1060710 [2135] 28.3          33.5          102          
+1060712 [0455] 28.0          33.4          119          
+1060713 [0447] 28.0          33.2          163          
+群組:Coagulation
+
+               PT            PT INR        APTT          APTT ratio   
+time/item      (sec)         (*)           (sec)         (*)          
+1060710 [2135] 11.0          1.06          38.5          1.27         
+群組:Biochemistry
+
+               BUN 血中尿素氮     Creatinine肌酸  Na 鈉          K 鉀           Cl 氯離子       
+                             酐                                                      
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1060708 [1858] 15                          136           3.4           107          
+1060709 [0502]                             139           3.3                        
+1060710 [0441] 11            0.90          140           3.6                        
+1060710 [2135] 8             0.75          137           3.4           100          
+1060711 [0501]                             137           3.6                        
+1060711 [1110]                                                                      
+1060711 [1646]                                                                      
+1060711 [2252]                                                                      
+1060712 [0455] 15            0.68          140           3.4                        
+1060712 [0957]                                                                      
+1060713 [0447]                             144           3.8                        
+               Ca 鈣          Mg 鎂          T-BIL總膽紅素     AST(GOT)      Ammonia氨     
+time/item      (mg/dL)       (mg/dL)       (mg/dL)       (IU/L)        (μg/dL)      
+1060708 [1858] 8.0           1.8           0.49          30            21           
+1060709 [0502]                                                                      
+1060710 [0441]               2.0                         36                         
+1060710 [2135] 7.7           1.9                                       93           
+1060711 [0501] 8.3                                                                  
+1060711 [1110]                                                                      
+1060711 [1646]                                                                      
+1060711 [2252]                                                                      
+1060712 [0455] 8.4           1.9                         85                         
+1060712 [0957]                             0.31                                     
+1060713 [0447] 8.6           2.1                         152                        
+               CPK肌酸磷酸脢      Lactic acid乳 
+                             酸            
+time/item      (IU/L)        (mmol/L)     
+1060708 [1858] 656           1.4          
+1060709 [0502]                            
+1060710 [0441]                            
+1060710 [2135] 398           1.6          
+1060711 [0501] 437                        
+1060711 [1110] 330                        
+1060711 [1646] 269                        
+1060711 [2252] 222                        
+1060712 [0455] 178                        
+1060712 [0957]                            
+1060713 [0447]                            
+群組:General BioChemistry
+
+               Albumin白蛋白    LDH乳酸脫氫脢(CSF  ALT(GPT)     
+                             )                          
+time/item      (g/dL)        (IU/L)        (IU/L)       
+1060708 [1858] 3.0                                      
+1060710 [0441]                             18           
+1060710 [0945]               240                        
+1060712 [0455]                             64           
+1060713 [0447]                             162          
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          Base Excess  
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060708 [1858] 7.465         25.9          114.6         18.8          -2.9         
+1060708 [2259] 7.454         25.4          72.5          18.0          -3.8         
+1060709 [0502] 7.510         20.5          148.7         16.5          -4.0         
+1060710 [0441] 7.487         30.0          124.1         22.9          0.9          
+1060710 [2135] 7.402         40.3          86.6          25.3          1.1          
+1060711 [0501] 7.432         36.9          141.2         24.9          1.5          
+1060712 [0455] 7.455         33.1          162.1         23.5          0.7          
+1060713 [0447] 7.459         32.0          147.4         22.9          0.8          
+群組:Yes
+
+               CRP C-反應蛋白   
+time/item      (mg/dL)      
+1060708 [1858] 3.51         
+*********檢驗室:LC***********
+
+群組:General BioChemistry
+
+               ALP鹼性磷酸脢     
+time/item      (IU/L)       
+1060712 [1049] 165          
+群組:DM
+
+               Glucose葡萄糖(A 
+               C)           
+time/item      (mg/dL)      
+1060710 [0945] 83           
+群組:CSF BioChemistry
+
+               TP (CSF)總蛋白  
+time/item      (mg/dL)      
+1060710 [0945] 94           
+群組:Yes
+
+               RF類風濕性關節炎因子   C3 補體C3       C4 補體C4      
+time/item      (IU/mL)       (mg/dL)       (mg/dL)      
+1060708 [1858] <1.4          85.3          23.6         
+群組:
+
+               Microalbumin 
+               (CSF)        
+time/item      (mg/L)       
+1060710 [0945] 674.99       
+*********檢驗室:LR***********
+
+群組:Hormones
+
+               ACTH         
+time/item      (pg/mL)      
+1060708 [1858] 21.3         
+群組:Yes
+
+               Chlamydiae A  Legionella A 
+               g             g            
+time/item      (*)           (*)          
+1060708 [2126] Negative      Negative     
+*********檢驗室:LL***********
+
+群組:Hormones
+
+               Free T4游離甲狀腺  TSH甲狀腺刺激素     Cortisol 皮質醇 
+               素                                                      
+time/item      (ng/dL)       (μIU/mL)      (μg/dL)      
+1060708 [1858] 0.71          0.3670        21.2         
+群組:Yes
+
+               HBs Ag        Anti-HBc     
+time/item      ((IU/mL))     ((S/CO))     
+1060712 [0949] Nonreactive   Nonreactive  
+群組:
+
+               Anti-HCV     
+time/item      ((S/CO))     
+1060712 [0949] Nonreactive  
+*********檢驗室:LO***********
+
+群組:Punctate Exam.
+
+               WBC(CSF)      L:N(CSF)      RBC(CSF)     
+time/item      (/μL)         (*)           (/μL)        
+1060710 [0945] 95            94:1          38           
+群組:
+
+               Apperance    
+time/item      (*)          
+1060710 [0945] Clear        
+*********檢驗室:LN***********
+
+群組:Yes
+
+               CSF Cytology  Specimen Ade               
+                             quacy        
+time/item      (*)           (*)          
+1060710 [0945] Negative for  Satisfactory 
+                malignant c   for evaluat 
+               ells          ion          
+*********檢驗室:LI***********
+
+群組:Yes
+
+               Anti-Nuclear  Anti-dsDNA    Anti-ENA 定性   Mycoplasma P  IgG anticard 
+                Antibody                                 neumoniae Ig  iolipin      
+                                                       M                          
+time/item      (FA titer)    (IU/mL)       (Ratio)       (Index)       (GPL-U/mL)   
+1060708 [1858] 40X(-)        123.3         0.1           0.7                        
+1060711 [0922]                                                         1.1(Negative 
+                                                                    )            
+*********檢驗室:LB***********
+
+群組:Yes
+
+               Pneumococcus 
+                Ag          
+time/item      (*)          
+1060708 [2126] Negative     
+群組:
+
+               CRE screenin  MDRAB screen  VRE screenin  Pneumococcus 
+               g             ing           g              Ag          
+time/item      (*)           (*)           (*)           (*)          
+1060708 [1909]               No MDRAB                                 
+1060708 [1924] No Carbapene                No VRE                     
+               m-resistant                                            
+               Enterobacter                                           
+               iaceae                                                 
+1060708 [2126]                                           Negative     
+
+
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1060708 [0032] 124          
+
+*********檢驗室:B4***********
+B4-1060708-8096177   C.S.F.
+     TB PCR:       PCR for M.tuberculosis complex: negative
+B4-1060708-8094201   C.S.F.
+     AF Stain(AF) #1:       Acid fast bacilli - negative
+
+*********檢驗室:LU***********
+
+群組:CBC+PLT
+
+               W.B.C 白血球     R.B.C 紅血球     Hgb 血紅素       Hct 血球比容積     MCV平均血球體積    
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060708 [0035] 5.10          4.55          13.1          38.9          85.5         
+               MCH平均血球血紅素    MCHC平均血色素比容積  Platelet 血小板                             
+time/item      (pg)          (g/dL)        (K/μL)       
+1060708 [0035] 28.8          33.7          114          
+群組:
+
+               GFR 腎絲球濾過率    RDW-CV        Apperance    
+time/item      (mL/min/1.73  (%)           (*)          
+                m^2)                                    
+1060708 [0035] 96.7          12.5                       
+1060708 [0317]                             Clear        
+群組:Coagulation
+
+               PT            PT INR        APTT          APTT ratio   
+time/item      (sec)         (*)           (sec)         (*)          
+1060708 [0035] 10.9          1.05          31.0          1.03         
+群組:General BioChemistry
+
+               Glucose(CSF)  LDH乳酸脫氫脢(CSF  ALT(GPT)                   
+                             )                          
+time/item      (mg/dL)       (IU/L)        (IU/L)       
+1060708 [0035]                             11           
+1060708 [0317] 64            23                         
+群組:Biochemistry
+
+               Creatinine肌酸  Na 鈉          K 鉀           TP 總蛋白(CSF)  
+               酐                                                      
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)      
+1060708 [0035] 0.88          133           3.8                        
+1060708 [0317]                                           64           
+群組:Punctate Exam.
+
+               WBC(CSF)      L:N(CSF)      RBC(CSF)     
+time/item      (/μL)         (*)           (/μL)        
+1060708 [0317] 254           68:32         48           
+群組:Others
+
+               Procalcitoni 
+               n            
+time/item      (ng/mL)      
+1060708 [0035] 0.05         
+群組:MULTISTIX
+
+               Sp.Gr. 比重     pH 酸鹼值        Protein 蛋白質   Glucose 葡萄糖   Ketone 酮體    
+time/item      (*)           (*)           (titer (mg/d  (titer (mg/d  (titer (mg/d 
+                                          L))           L))           L))          
+1060708 [0657] 1.024         6.5           1+ (30)       - (<30)       1+ (10)      
+               OB 潛血         Bilirubin 膽紅  Urobilinogen  Nitrite 亞硝酸鹽  Leukocyte es 
+                             素                                                                     terase       
+time/item      (titer (mg/d  (titer (mg/d  (titer (mg/d  (*)           (titer (Leu/ 
+               L))           L))           L))                         uL))         
+1060708 [0657] +/- (0.03 )   - (<0.5)      ≦1.5          -             +/- (25)     
+               Color 顏色      Turbidity 濁度               
+time/item      (*)           (*)          
+1060708 [0657] Yellow        -            
+群組:SEDIMENT
+
+               R.B.C 紅血球     W.B.C 白血球     Epithelial c  Bacteria 細菌   Crystal 結晶體  
+                                          ell                                      
+time/item      (/HPF)        (/HPF)        (/HPF)        (/HPF)        (/HPF)       
+1060708 [0657] 2-5           2-5           2-5           +/-           -            
+               Cast 圓柱體      Others 其他    
+time/item      (/LPF)        (/HPF)       
+1060708 [0657] -             -            
+*********檢驗室:LQ***********
+
+群組:Yes
+
+               ID+DS Blood. 
+               #1           
+time/item      (*)          
+1060708 [0035] No growth af 
+               ter 5 days   
+*********檢驗室:LB***********
+
+群組:Yes
+
+               C.neoformans 
+                Ag          
+time/item      (*)          
+1060708 [0856] Negative     
+群組:STAIN
+
+               India Ink    
+time/item      (*)          
+1060708 [0317] Not found    
+群組:
+
+               C.neoformans 
+                Ag          
+time/item      (*)          
+1060708 [0856] Negative
+
+
+Hypoalbuminemia 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+CT Without Contrast-Brain 醫令: CT Without Contrast-Brain 報告醫師: 楊菁華HC 影像時間: 2017/07/10 20:03 (33070B0M) 發報告時間: 2017/07/11 09:31 Previous head CT performed on 2017-07-07, MRI performed on 2017-07-08
+Following plain head CT showed:
+1. diffusely brain edema, loss differentiation of grey-white matter
+2. low attenuation and swelling pons, effaced CSF space of ambient cistern
+3. low attenuation and poor demarcation of bilateral thalamus, effaced the 3rd ventricle
+MRI With/Without Contrast--Brain 醫令: MRI With/Without Contrast--Brain 報告醫師: 陳鴻樟HC 影像時間: 2017/07/08 13:08 (33085BYM) 發報告時間: 2017/07/08 16:46 MRI study of brain without and with IV Gd-DTPA contrast enhancement shows:
+> Some motion artifacts which might obscure image details.
+> Mild increased signal intensities over bilateral thalamus on DWI, T2WI and FLAIR images; isointense on T1WI. Significance to be determined.
+> Normal size of bilateral brain sulci, fissures and cisterns. The ventricular system is still within normal appearance.
+> No obvious pathological enhancement can be detected after intravenous Gd-DTPA administration.
+> No obvious midline shifting.
+> The three-dimensional MRA study reveals mild irregularities over  ICAs, MCAs, and mild arterial stenosis over right vertebral artery.
+Advise clinical correlation. 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1. Limbic encephalitis, favor Japanese encephalitis; to rule out herpes simplex virus, autoimmune, or paraneoplastic encephalitis; progressed with altered mental status and respiratory failure, status post intubation and mechanical ventilation since 2017/07/08; progressed with diffuse brain edema, status post Solu-Medrol (2017/07/11-) and IVIg (7/13-)
+2. Stress-induced cardiomyopathy, improved
+3. Leukopenia, suspected viral infection related or Tazocin related, improved
+4. Pneumonia, on Tazocin and then Maxipime (7/13-) 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+1. Limbic encephalitis, favor Japanese encephalitis; to rule out herpes simplex virus, autoimmune, or paraneoplastic encephalitis; progressed with altered mental status and respiratory failure, status post intubation and mechanical ventilation since 2017/07/08; progressed with diffuse brain edema, status post Solu-Medrol (2017/07/11-) and IVIg (7/13-)
+2. Stress-induced cardiomyopathy, improved
+3. Leukopenia, suspected viral infection related or Tazocin related, improved
+4. Pneumonia, on Tazocin and then Maxipime (7/13-)
+
+S/O:
+
+[PE]
+Heart: Regular, no murmur
+chest: Coarse, more in the right
+Abd: Normoactive sound. Soft.
+Skin: No lesion
+
+[NE]
+E1M1VT
+Pupil 1.5/1.5, -/-
+OCR (+)
+Other brainstem reflex (-)
+MP:0
+DTR: ++ in right biceps, right triceps, bilateral ankles. Others -
+Babinski: No response
+Muscle tone: Flacid
+
+A/P:
+1) Japanese encephalitis
+   IVIg (7/13-)
+   Keep Solu-Medrol 100 mg Q8H --> 250 mg Q8H (7/12-)
+2) Pneumonia
+   Tazocin and then Maxipime (7/13-)
+3) CSF study and send CDC again on 7/14
+4) The family realized the poor prognosis 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右腹股溝 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.5mm 
+胃造廔口：無  
+尿管留置：有  16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：配偶 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+A case of sever encephalitis at deep brain area (thalami, brainstem, temporal lobes) since 7/4, transferred from 新竹分院. 
+Japanese ecephalitis Ab and PCR: weak positive.
+s/p Acyclovir, low-dose steroid, but still had progressed course to deep coma and loss of nearly all brainstem reflex(only equivocal OCR, other brainstem reflex absent).
+
+P:
+1. Keep mini-pulse 250mg Q8H, and clsoe observe for infection condition.
+2. Start IVIG since 7/13.
+3. Well explain to family about his grave prognosis
+4. F/U brain CT (after complete IVIG) and CSF study(if feasible) on W1. 
+醫師姓名 
+葉馨喬 主治醫師 
+ 
+
+ 
+ 生命徵象留置導管檢驗檢查影核醫抗生素病理照會 
+
+是否刪除圖形?  
+  
+   
+  
+ 

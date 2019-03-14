@@ -1,0 +1,349 @@
+2016/11/27 16:40 
+主訴(Chief Complaint) 
+Informant:family
+found unconsciousness at home and sent to our hospital with cardiac arrest detected at triage. 
+病史(Brief History) 
+This is a 83 years-old men with history of gout, hypertension, and unknown heart disease follow up at 新光H, found unconsciousness at home and sent to our hospital with cardiac arrest detected at triage. 
+  According to his family, he had no fever, cough, chest pain nor abdomimal pain recently. Today, he climbed up his bed to take somethings and slipped down. Unconsciousness was found then and family called 119. EMT claimed pulse was detected at scene (10:42 am) but GCS was E1V1M1. He was then sent to our ER and trauma call was activated at 10:55am. He arrived our ER at 11:02. Pulseless was detected at our triage and initial rhythm was PEA. CPCR initiated at 11:04am and non-shockable rhythm throughout the CPR course. eFAST negative and initial ABG showed pH:7.106    pCO2:50.7 mmHg   pO2:59.1 mmHg  HCO3:16.1 mmol/L. ROSC accieved after 30minutes (11:34am). Profound shock with 3kinds of inotropic agents supports and CT was done with 1. Old lacunar infarcts; 2. Bilateral rib fractures with right pneumothorax, 3. Bilateral lung consolidation. No ICH, pulmonary embolism, aortic dissection was found. 
+  For post-resuscitation care, he was admitted to our ICU for further management.
+  
+
+
+Family History: denied
+Medication Allergy:No  親屬描述 2016/11/27
+UnClear  本院醫事人員確認 發生日期:11/27
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  親屬描述 2016/11/27
+Current Medication:
+NTUH:Rocephin 500 mg/vial 1000 mg Q12H IV 2 days
+Rocephin 500 mg/vial 1000 mg STAT IV 1 days
+警 Adrenaline 1 mg/1 mL /amp 8 mg STAT IV 1 days
+警 Levophed 4 mg/4 mL /amp 8 mg QD cIF 2 days
+Atropine 1 mg/1 mL /amp 1 mg STAT IV 1 days
+(鈣) Vitacal 5.4 mEq/20 mL /amp 10.8 mEq STAT IF 1 days
+警 Easydopa Inj 400 mg/250 mL /bag 400 mg QD cIF 2 days
+Encore 300 mg/3 mL /amp 1200 mg STAT IF 1 days
+警 Levophed 4 mg/4 mL /amp 16 mg QD cIF(CVC) 2 days
+警 Adrenaline 1 mg/1 mL /amp 6 mg QD cIF 2 days
+Maxipime 500 mg/vial 2000 mg Q12H IV 2 days
+警 Easydopa Inj 400 mg/250 mL /bag 400 mg QD cIF 1 days
+Atropine 1 mg/1 mL /amp 1 mg STAT IV 1 days
+Maxipime 500 mg/vial 2000 mg Q8H IV 2 days
+Maxipime 500 mg/vial 2000 mg STAT IV 1 days
+警 Adrenaline 1 mg/1 mL /amp 1 mg STAT IV 1 days
+Other:
+中草藥: denied
+保健食品: denied
+Past Medical History:
+1. Gout
+2. HTN
+3. Unknown heart disease
+
+Hospitalization: nil
+
+Past Surgical History: nil
+Travel History: denied 
+Occupation: 裁縫師
+Cluster: nil 
+contact: nil 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:小學
+職業:退休
+宗教信仰:基督教
+婚姻狀態:已婚
+使用語言:國語 台語 客家語 
+口述血型:不清楚，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Fall Risk Assessment
+總分:17
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-), fever (-)
+2.Skin: petechiae(-), purpurae(-), skin rash(+, right cheek bedsore, with depressed skin, right lower mouth angle shingles), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular: exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(-), cough(-), chest pain(-), hemoptysis(-), productive cough (-), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH: NA cm,  BW: 67.4 kg,
+T: 35.5 °C,  P: 106 bpm,  R: 32 /min,
+BP: 94 / 44 mmHg,
+Pain score:  ,
+
+Neurological Examination: 
+. Consciousness:  comatose
+. Muscle power:  could not evaluate
+. Gait:  could not evaluate
+
+Eyes: Conjunctivae: pink; Sclerae: anicteric
+Pupils: isocoric 5mm/5mm; Light reflexes: R/L: --/--; 
+Neck: supple; jugular vein engorgement(-) ; no palpable lymph node; no goiter; no carotid bruit
+Chest: symmetric expansion; crackle breath sounds on bilateral lungs; no wheeze; no rhonchus; no stridor
+Heart: regular heart beats; no obvious murmur
+Abdomen: round; normoactive bowel sounds; soft; no tenderness; no rebound tenderness
+         no Murphy's sign; liver/spleen: impalpable
+Back: no knocking tenderness at costovertebral angles
+Extremities: no pitting edema; no cyanosis; pedal pulses: R/L, ++/++
+Skin: Abnormal pigmentation(-), skin rash(-),Petechiae(-) Purpura(-) Ecchymoses(-) Telangiectasia(-)Plaque(-),Lymphadenopathy(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Cl           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1051127 [1507] 36.2          2.1           140           3.1           97           
+               Ammonia N     T-BIL         Ca            Mg            P            
+time/item      (μmol/L)      (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)      
+1051127 [1507] 24            0.45          2.05          0.77          5.8          
+               AST           LacticAcid    CK           
+time/item      (U/L)         (mmol/L)      (U/L)        
+1051127 [1507] 203           8.15          305          
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1051127 [1507] 7.286         58.1          237.7         28.0          1.1          
+群組:General BioChemistry
+
+               ALB          
+time/item      (g/dL)       
+1051127 [1507] 2.7          
+群組:
+
+               Troponin-T    eGFR          CK-MB        
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)      
+                              m^2)                      
+1051127 [1507] 1117          32.2          26.11        
+
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1051127 [1117] 11.37         4.71          9.6           30.8          65.4         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1051127 [1117] 20.4          31.2          166 ?  PLT c  16.0          -            
+                                          lumps                                    
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1051127 [1117] 0.0           0.0           1.0           0.0           1.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1051127 [1117] 27.0          1.0           0.0           6.0           64.0         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1051127 [1117] 0.0           0.0           1.0 /100 WBC  WBC 100                    
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1051127 [1117] 10.8          24.1          1.00         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1051127 [1117] 96           
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ammonia N    
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)     
+1051127 [1117] 29.8          1.9           133           5.4           88           
+               LacticAcid   
+time/item      (mmol/L)     
+1051127 [1117] 9.38         
+群組:
+
+               Troponin-T    eGFR         
+time/item      (ng/L)        (mL/min/1.73 
+                              m^2)        
+1051127 [1117]               36.2         
+1051127 [1119] 20.70                      
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1051127 [1112] 7.106         50.7          59.1          16.1          -13.7        
+1051127 [1127] 7.042         51.4          121.1         14.1          -16.7        
+1051127 [1237] 7.113         50.8          74.3          16.4          -13.3        
+1051127 [1443] 7.121         55.6          64.5          18.3          -11.3        
+1051127 [1516] 7.291         54.5          265.8         26.5          -0.3         
+               SO2          
+time/item      (%)          
+1051127 [1112] 79.5         
+1051127 [1127] 96.3         
+1051127 [1237] 88.4         
+1051127 [1443] 83.7         
+1051127 [1516] 99.8         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1051127 [1112] 1.35          12.1          36            5.73          139.3        
+1051127 [1127] 1.64          13.6          41            3.82          137.4        
+1051127 [1237] 1.36          11.1          33            3.31          135.7        
+1051127 [1443] 1.33          12.1          36            3.46          136.6        
+1051127 [1516] 1.22          10.8          32            3.08          139.7        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1051127 [1112] 280           6.5          
+1051127 [1127] 296           7.2          
+1051127 [1237] 241           5.0          
+1051127 [1443] 321           6.0          
+1051127 [1516] 329           6.2          
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1051127 [1111] 281 
+檢查紀錄(Examination Report) 
+pending 
+影像報告(Imaging Report) 
+CT With/Without Contrast-Pelvis 醫令: CT With/Without Contrast-Pelvis 報告醫師: 施怡倫 影像時間: 2016/11/27 12:25 (33072B5M) 發報告時間: 2016/11/27 13:32 CT of brain without contrast enhancement shows: 
+1. No evidence of intracranial hemorrhage. 
+2. Normal appearance of the sulci, fissures, and ventricles. 
+3. Lacunes at bilateral basal ganglia, thalami, and periventricular white matter.
+4. Intact cranial vault. 
+
+CT of chest, abdomen and pelvis without and with contrast enhancement shows:
+1. Placement of an endotracheal tube and a right central venous catheter. 
+2. Fractures of bilateral anterior ribs.
+3. Right pneumothorax. Bilateral lung consolidation, more at lower lungs.
+4. No pleural effusion. 
+5. No mediastinal lymphadenopathy. 
+6. Atherosclerotic calcification of the aorta and coronary arteries. 
+7. Small hepatic cysts.
+8. Unremarkable spleen, pancreas, kidneys, and adrenals. 
+9. Enlarged prostate.
+10. No abdominal or pelvic lymphadenopathy. 
+11. No ascites. 
+12. Degenerative changes of the spine.
+CT With/Without Contrast-Abdomen 醫令: CT With/Without Contrast-Abdomen 報告醫師: 施怡倫 影像時間: 2016/11/27 12:25 (33072B3M) 發報告時間: 2016/11/27 13:32 CT of brain without contrast enhancement shows: 
+1. No evidence of intracranial hemorrhage. 
+2. Normal appearance of the sulci, fissures, and ventricles. 
+3. Lacunes at bilateral basal ganglia, thalami, and periventricular white matter.
+4. Intact cranial vault. 
+
+CT of chest, abdomen and pelvis without and with contrast enhancement shows:
+1. Placement of an endotracheal tube and a right central venous catheter. 
+2. Fractures of bilateral anterior ribs.
+3. Right pneumothorax. Bilateral lung consolidation, more at lower lungs.
+4. No pleural effusion. 
+5. No mediastinal lymphadenopathy. 
+6. Atherosclerotic calcification of the aorta and coronary arteries. 
+7. Small hepatic cysts.
+8. Unremarkable spleen, pancreas, kidneys, and adrenals. 
+9. Enlarged prostate.
+10. No abdominal or pelvic lymphadenopathy. 
+11. No ascites. 
+12. Degenerative changes of the spine.
+CT With/Without Contrast-Chest 醫令: CT With/Without Contrast-Chest 報告醫師: 施怡倫 影像時間: 2016/11/27 12:25 (33072B2M) 發報告時間: 2016/11/27 13:32 CT of brain without contrast enhancement shows: 
+1. No evidence of intracranial hemorrhage. 
+2. Normal appearance of the sulci, fissures, and ventricles. 
+3. Lacunes at bilateral basal ganglia, thalami, and periventricular white matter.
+4. Intact cranial vault. 
+
+CT of chest, abdomen and pelvis without and with contrast enhancement shows:
+1. Placement of an endotracheal tube and a right central venous catheter. 
+2. Fractures of bilateral anterior ribs.
+3. Right pneumothorax. Bilateral lung consolidation, more at lower lungs.
+4. No pleural effusion. 
+5. No mediastinal lymphadenopathy. 
+6. Atherosclerotic calcification of the aorta and coronary arteries. 
+7. Small hepatic cysts.
+8. Unremarkable spleen, pancreas, kidneys, and adrenals. 
+9. Enlarged prostate.
+10. No abdominal or pelvic lymphadenopathy. 
+11. No ascites. 
+12. Degenerative changes of the spine.
+Chest: AP View (Supine) 醫令: Chest: AP View (Supine) 報告醫師: 施怡倫 影像時間: 2016/11/27 13:10 (32001CYM) 發報告時間: 2016/11/27 13:34 EXAMINATION: Chest: AP View (Supine)
+FINDINGS:
+Placement of an endotracheal tube and a right central venous catheter. Insertion of a right chest tube. Normal heart size with calcified aorta. Bilateral lung consolidation.
+CT Without Contrast-Brain 醫令: CT Without Contrast-Brain 報告醫師: 施怡倫 影像時間: 2016/11/27 12:25 (33070B0M) 發報告時間: 2016/11/27 13:32 CT of brain without contrast enhancement shows: 
+1. No evidence of intracranial hemorrhage. 
+2. Normal appearance of the sulci, fissures, and ventricles. 
+3. Lacunes at bilateral basal ganglia, thalami, and periventricular white matter.
+4. Intact cranial vault. 
+
+CT of chest, abdomen and pelvis without and with contrast enhancement shows:
+1. Placement of an endotracheal tube and a right central venous catheter. 
+2. Fractures of bilateral anterior ribs.
+3. Right pneumothorax. Bilateral lung consolidation, more at lower lungs.
+4. No pleural effusion. 
+5. No mediastinal lymphadenopathy. 
+6. Atherosclerotic calcification of the aorta and coronary arteries. 
+7. Small hepatic cysts.
+8. Unremarkable spleen, pancreas, kidneys, and adrenals. 
+9. Enlarged prostate.
+10. No abdominal or pelvic lymphadenopathy. 
+11. No ascites. 
+12. Degenerative changes of the spine. 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1. Out of hospital cardiac arrest, status post CPCR for total 30minutes with ROSC, under ETT+MV support and TTM.
+2. Bilateral ribs fracture, right pneumothorax, s/p chest tube insertion (2016/11/27)
+3. Pneumonia
+4. Hypertension 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*
+P: 
+1. Out of hospital cardiac arrest, status post CPCR for total 30minutes with ROSC, under ETT+MV support and TTM.
+2. Bilateral ribs fracture, right pneumothorax, s/p chest tube insertion (2016/11/27)
+3. Pneumonia
+4. Hypertension
+
+A: 
+T: 35.5 °C,  P: 106 bpm,  R: 32 /min,
+BP: 94 / 44 mmHg,
+
+Chest: bilateral breath sounds 
+face focal seizure with bilataral eye upgazing
+
+P:
+1. Keep TTM 
+2. Empirical antibiotics for pneumonia. 
+3. Under 4 kinds of inotropics agents support, informed poor prognosis. 
+4. Due to short run VT noted at admission, cordarone was given. 
+5. F/u EKG and cardiac enzyme. Correct electrolyte. 
+
+Treatment Goal: tapper inotropic agents and complete TTM 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右頸 
+雙腔導管留置：無  
+鼻胃管留置：無  
+氣管管路留置：有   7.0mm 
+胃造廔口：無  
+尿管留置：有  16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：配偶 孫子 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+張維典 主治醫師 

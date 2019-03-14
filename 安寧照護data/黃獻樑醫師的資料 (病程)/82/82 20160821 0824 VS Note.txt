@@ -1,0 +1,24 @@
+Extubated smoothly on 2016/8/20.
+No distress noted.
+Under close observation.
+Follow up CXR and ABG data as needed.
+Maintain adequate chest care.
+If distress or desaturation develop, inform the patient and the family and discuss for confirmation of the DNI and DNR statements.
+2016/08/21 05:20 SpO2:100%(40%,10L,Mask)
+2016/08/21 01:32 SpO2:100%(40%,10L,Mask)
+2016/08/20 20:31 SpO2:100%(40%,10L,Mask)
+2016/08/20 16:54 SpO2:96%(40%,10L,)
+2016/08/20 12:40 SpO2:100%(40%,10L,Mask)
+2016/08/20 12:10 SpO2:100%(35%,L,VCR)
+2016/08/21 05:20 T:36.2 P:110 R:28
+2016/08/21 01:32 T:36.3 P:104 R:22
+2016/08/20 20:32 T:36.2 P:107 R:27
+2016/08/20 16:54 T:36.3 P:110 R:22
+2016/08/20 12:10 T:36.1 P:107 R:26
+2016/08/20 09:01 T:36.3 P:102 R:21
+2016/08/21 05:20 BP:156/89
+2016/08/21 01:32 BP:118/84
+2016/08/20 20:32 BP:140/75
+2016/08/20 16:54 BP:142/92
+2016/08/20 12:10 BP:154/78
+2016/08/20 09:01 BP:137/66

@@ -1,0 +1,32 @@
+GCS:E1M2VT, T:38.4 P:68 R:13, BP:119/55, SpO2:100%, I/O:1820/610(1210)(24hr)
+
+WBC:12.21 K/£gL
+RBC:3.64 M/£gL
+HB:10.5 g/dL
+HCT:31.9 %
+MCV:87.6 fL
+MCH:28.8 pg
+MCHC:32.9 g/dL
+PLT:81 K/£gL
+hsCRP:7.50 mg/dL
+
+Na:139 mmol/L
+Ammonia N:21 £gmol/L
+LacticAcid:2.17 mmol/L
+K:3.3 mmol/L
+Ca:1.83 mmol/L
+Mg:0.86 mmol/L
+Na:137 mmol/L
+CRE:0.9 mg/dL
+
+ABG:
+PH:7.435 
+PCO2:27.8 mmHg
+PO2:160.6 mmHg
+HCO3:18.8 mmol/L
+BaseExcess:-5.7 mmol/L
+
+<Plan>
+1.Close monitor consciousness level
+2.Keep mannitol and 3% NaCl
+3.Inform family about poor prognosis

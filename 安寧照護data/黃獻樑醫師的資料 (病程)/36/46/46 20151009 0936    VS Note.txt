@@ -1,0 +1,19 @@
+This is a patient with 
+1. Moderatedly-differentiated squamous cell carcinoma over lower left edentulous area, cT4aN2bM0, stage IVa, s/p carboplatin CCRT (40 Gy/16 fx, 2015/08/31 ~ 2015/09/22)
+2. right lower bucco-gingival mucosa, pT4aN0M0, stage IV status post operation(method:wide tumor excision+segmental mandibulectomy + SND + optional PMMCF + tracheostomy)(2008.3.20)
+3. DM
+4. Hypertension
+   She was now receiving CCRT (last chemo: 2015/9/17, RT: 2015/09/22). She was ADLs independent but weakness was reported recently. Her caregiver reported she had much sputum recently and choking noted sometimes. This time, she was just about to have her C/T. Collapse was noted before eating, and CPR was performed by EMT for 17  min for asystole, and was sent to NTUH ER for CPR for 7 min. ROSC was noted later. She was sent to ICU for therapeutic hypothermia and postresuscitation care.
+
+Active problems
+427.5 Out of hospital cardiac arrest, choking or sputum impaction related, and hypoxic encephalopathy.
+MSSA bactememia and KP/MRSA peumonia.
+
+Diabetes mellitus ( DM )
+Chronic bronchitis
+No EEG electrical activity 
+
+Plain1. 
+1. IV avelox for MSSA/MRSA infection.
+2. Correct acidosis and electrolyte imbalance.
+3. Consult Hospice team.

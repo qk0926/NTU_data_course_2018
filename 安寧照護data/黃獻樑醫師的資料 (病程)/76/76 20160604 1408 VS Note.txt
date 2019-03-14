@@ -1,0 +1,19 @@
+Assessment:
+
+2016/06/04 09:00 T:37.3 P:65 R:28
+2016/06/04 13:00 BP:97/55
+2016/06/04 09:00 GCS:E1M2VT
+Max ICP:27
+
+2016/06/04 
+AST:135 U/L
+ALT:117 U/L
+T-BIL:0.46 mg/dL
+HB:9.7 g/dL
+
+brain echo: same hematoma
+
+Plan:
+1.Check sodium level Q12H
+2.Keep SBP<140mmHg
+3.Keep I/O balance with N/S

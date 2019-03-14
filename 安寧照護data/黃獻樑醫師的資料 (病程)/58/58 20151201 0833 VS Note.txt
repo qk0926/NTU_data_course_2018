@@ -1,0 +1,26 @@
+1. Type IV respiratory failure, suspect of pneumonia related
+2. K. pneumoniease sepsis, suspect CRBSI, and ESBL E. coli bacteriuria
+3. End stage renal diseas, post kidney transplant, with chronic kidney disease progressed to stage 5, with ACKD (suspect poor drug compliance with rejection, graft failure, or CRS), complicated with lung edema and axzotemia, post emergent hemodialysis on 7/10,11,13
+4. Acute decompensated heart failure, with lung edema
+5. Systemic lupus erythematosus with kidney, lung, and CNS involvement
+6. Chenoic anemia
+7. Gastro-esophageal reflux disease, LA grade B, with superficial gastritis, gastric erosion
+8. Diabetes mellitus
+9. Hypertension
+
+Extubation yesterday, smooth respiratory patern under O2 mask 35%, 8L
+=> Monitor vital signs
+
+Still fever, added Targocid this early morning
+=> Arrange abdominal ultrasound
+
+2015/12/01
+PH:7.387 *
+PCO2:34.4 mmHg
+PO2:109.0 mmHg
+HCO3:20.8 mmol/L
+BaseExcess:-4.4 mmol/L
+
+2015/12/01 K:5.2 mmol/L
+
+=> Inform the possibility of RRT

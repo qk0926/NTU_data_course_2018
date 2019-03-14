@@ -1,0 +1,89 @@
+Brief Summary of this week    
+Under adequate chest care, the patient was able to tolerate room air eventually. He will be transferred to nursing home next week. 
+
+Assessment 
+Abx> 
+Nil now
+---------------------------------------------------------
+Cefepime (3/12-4/1) for lung pneumonia with empyema(KP; S/C:KP, PSA)
+IH Amikacin (3/15-24) -> S/C: PsA, CT: bronchiectasis
+Ceftazidime (3/7-3/12) -> Empyema C: KP and S/C of PsA
+Tazocin  (2/26-3/7) --> HCAP and empyema
+Metronidazole (3/5-3/7) ->better coverage of anerobic pathogen
+
+<Culture report>
+3/3  pleural effusions/C:wild KP
+3/4  S/C:wild PSA, wild KP
+3/15 S/C:wild PSA
+         AB(R to Gentamicin)
+
+<Nutrition>  
+纖維配方, 濃度:1 卡/cc熱量:1500 營養品:健力體
+
+<Important intervention and newly added medications>
+3/03 Respiratory acidosis --> on BiPAP
+3/03 Desaturation --> ETT+MV 
+     (原本考慮不插管,但經說明手術治療膿胸可能改善,決定插管); 
+     right thoracentesis (turbid pleural effusion) 
+     --> change to chest tube
+3/04 Transfer to 3A2 MICU;
+     chest tube revision and drained 400mL pus
+     --> CS: not indicated for decortication now, 
+     suggest keep chest tube drainage
+3/05 Add Anegyn for better coverage of anaerobic pathogen
+3/06 PCV-> PSV
+3/07 Shift Abx to Tatumcef for empyema culture of 
+     wild type KP and S/C of wild type PsA
+3/08 PS 8, RR 35 in the evening
+3/09 SBT borderline
+3/09 WP: -48/+60, RSBI 136 (Vt 242, MV 8.0) 
+     TP 1h, accessory muscle use and RR 30-35
+3/10 Urokinase(I); left thoracocentesis 
+     (poor gliding of left lung)
+3/11 Urokinase(II)
+3/12 Chest tube connection to negative pressure 10;
+     shift Tatumcef to Maxipime for increasing lung 
+     infiltrates
+3/14 Off Chest tube connection to negative pressure
+3/15 Add IH amikacin
+3/16-17 TP 1h ok
+3/17 Low tidal volume and tachypnea. PS 10->14 
+     Hold extubation
+3/18 Transferred to RCC
+3/19 Intermittent tachypnea s/p 0.5 amp Anxicam
+     alpraline 0.5#Q12H
+3/21 DC alpraline for poor consciousness
+     Give withdrawal permit to his son 
+3/22 Remove chest tube
+3/23 Add Ultracet for pain control
+3/24 Waiting for withdrawal permit. DC IH Amikacin
+3/28 Social worker visited
+4/11 Cuff leak test: inadequate
+4/12 extubated, poor airway clearance
+
+<Important consultation>
+03/04 CS: for empyema; arrange chest CECT
+--> favor medical treatment first due to mild improvement of CXR; consider VATS if poor improvement
+03/07 CS 曾穎凡/徐紹勛: VATS and Urokinase are probably not needed for the current condition
+
+<Important patient's and family's decision>
+02/26 DNR 全拒
+03/03 決定接受手術，故同意插管
+03/09 兒子決定拔管不重插
+3/31
+the patient's third daughter come and still hestate about withdraw decision after well discussed with the patient's smallest son
+-> well explaint the possible choice plan (according attending VS suggestion): 
+1. consider long term care (consider tracheostomy or not) then transfer to RCW
+2. consider withdraw then extubation
+4/1 小兒子:prefer withdrawal
+    三女兒:prefer RCW transfer
+4/2 小兒子:ETT withdrawal on 4/12
+    三女兒:respect the decision of youngest son
+4/6 小兒子: ETT withdrawal on 4/12
+
+Plan 
+. Abx free
+. Give inhalation mucolytic agents
+
+. family want to apply身心障礙, but no matched criteria
+. prepare transfer to nursing home

@@ -1,0 +1,53 @@
+# Septic and cardiogenic shock
+# fungemia, CRBSI or intra-abdominal bacterial translocation related, complicated with septic shock
+# Tracheostomy bleeding, chronic granulation tissue related
+# Seizure, sepsis and electrolyte imbalance related
+# Recurrent vantilator associated pneumonia
+# urinary tract infection, catheter related, urine culture: candida albicans
+# Suspected colon cancer, with lower GI bleeding, complicated with hypovolemic shock
+# Recurrent right pleural effusion
+# Moderate aortic stenosis, complicated with acute lung edema and respiratory failure status post endotracheal intubation and ventilatory support (2014/03/13-2014/03/19), status post tracheostomy (2014/04/11)
+# Adrenal insufficiency under Cortisone
+# Coronary artery disease, left main+ 2-vessels disease
+# Chronic atrial fibrillation with complete atrioventricular block status post pacemaker (VVIR) implantation, 2010
+# Old cerebrovascular accident
+# Vascular parkinsonism
+
+
+2016/10/22 05:01 SpO2:100%(40%,L,VCR)
+
+2016/10/22 05:01 BP:99/51
+
+2016/10/22 01:06 SpO2:100%(40%,L,VCR)
+
+2016/10/22
+WBC:8.27   K/£gL
+RBC:3.34   M/£gL
+HB:9.0   g/dL
+HCT:28.7   %
+MCV:85.9   fL
+MCH:26.9   pg
+MCHC:31.4   g/dL
+PLT:137   K/£gL
+RDW-CV:17.5   %
+PS:-   
+
+
+2016/10/22
+PH:7.446   *
+PCO2:33.0   mmHg
+PO2:79.8   mmHg
+HCO3:22.9   mmol/L
+BaseExcess:-1.4   mmol/L
+
+
+2016/10/22
+BUN:135.2   mg/dL
+CRE:1.1   mg/dL
+eGFR:66.8   mL/min/1.73 m^2
+Na:154   mmol/L
+K:3.6   mmol/L
+Cl:114   mmol/L
+T-BIL:2.32   mg/dL
+Ca:2.17   mmol/L
+Mg:1.24   mmol/L

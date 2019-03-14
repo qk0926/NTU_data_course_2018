@@ -1,0 +1,351 @@
+2016/12/26 17:24 
+主訴(Chief Complaint) 
+Informant:patient's daughter
+dyspnea, dizziness without vertigo for 1 week 
+病史(Brief History) 
+P.I.:
+The 83 y/o man had past history of:
+1. Sick sinus syndrome status post permenant pacemaker implantation (DDDR) on 2015/08/21 
+2. Paroxymal Atrial fibrillation
+3. Benign prostatic hypertrophy
+under medication control with regular outpatient clinic followed up of Dr. 蔡佳醍.
+
+According to his daughter, he was under his usual health status until 1 week ago. The sudden onset of dyspnea and dizziness without vertigo noted. The patient had went to local clinic for help, and common cold was impressed. Some medication prescribed. However, the dyspnea worsed day by day, and cough, sticky sputum also noted. Since the persistent symptoms, he was sent to our ER for help.
+
+At ER, the patient denied TOCC history, fever, chest pain, or chest tightness. But the followed up CXR showed bilateral consolidation with high O2 demand. The chest CT was arranged and reported multiple consolidative patches in both lungs, no obvious pulmonary embolism. The multiple lobar pneumonia was impressed, the etiology was surveyed, and the empirical anti Unasyn & Zithromax were prescribed. However, the deterioration of SpO2 was noted. The anti then shifted to Cravit on 12/25, and intubation was arranged on 12/26. The patient then transfered to ICU for further evaluation and treat.
+
+Family History: CAD(+), heart disease(+), cancer(+)
+
+Personal history:
+1. Medication Allergy:
+ - No  親屬描述 2016/12/26
+   Medication ADR: unknown
+   Allergy to Medical Device and Materials:
+ - No  親屬描述 2016/12/26
+2. Current Medication:
+   NTUH: 
+   2016/11/03 Dr. 蔡佳醍
+ - HARNALIDGE D 0.2 mg/tab 2 tab QD LZ 28 days
+ - Cordarone 200 mg/tab 0.5 tab BID PO 28 days
+ - Rytmonorm 150 mg/tab 1 tab BIDPC PO 28 days
+ - Eliquis 5 mg/tab 1 tab BID PO 28 days
+   Other: denied
+   中草藥: denied
+   保健食品: denied
+
+Past history:
+1. Past Medical History:
+ - Sick sinus syndrome status post permenant pacemaker implantation (DDDR) on 2016/08/21 
+ - Paroxymal Atrial fibrillation
+ - Benign prostatic hypertrophy 
+2. Hospitalization:
+ - 入院日期:2015_08_19 出院日期:2015_08_23 診斷: Sick sinus syndrome
+3. Past Surgical History: 
+ - Appendectomy
+ - Cataract s/p operation(OU) 
+
+TOCC History: denied 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:專科
+職業:退休
+宗教信仰:民間信仰
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:不清楚，RH:不清楚，輸血反應:
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Fall Risk Assessment
+總分:5
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: □fever, □chills, □easy-fatigability, □consciousness disturbance
+            □weight change, □night sweats, □heat/cold intolerance, □thirsty
+            □diffuse arthralgias/myalgias, □insomnia
+2.Skin: □rash, □pruritis, □dryness, □ulcers, □color changes, □moles, □plaque
+        □hair loss, □hirsutism, □telangiectasia □petechiae, □purpura
+3.Head: □headache, ●dizziness, □vertigo, □alopecia, □head trauma 
+4.Eyes: □ocular pain, □diplopia, □vision loss, □blurred vision, □redness, 
+        □photophobia, □excess tearing 
+        □poor visual acuity, □cataracts, □glaucoma
+5.Ears/Nose: □otalgia, □otorrhea, □hearing impairment, □tinnitus, 
+             □sinus pain, □nasal congestion, □rhinorrhea, □epistaxis, □anosmia
+6.Mouth/Throat: □oral ulcer, □gum bleeding, □dental problems
+                □sore throat, □dysphagia, □odynophagia, □hoarseness
+7.Cardio-Respiratory: ●cough, □sputum, ●dyspnea, 
+                      □pleuritic pain, □tachypnea, □hemoptysis, □chest tightness,
+                      □orthopnea, □paroxysmal nocturnal dyspnea, □syncope,
+                      □palpitation, □intermittent claudication
+8.Gastrointestinal: □anorexia, □nausea, □vomiting:bilious/feculent, □hematemesis  
+                    □heartburn, □acid regurgitation, □belching, □hiccup
+                    □abdominal pain:______, □hunger pain, 
+                    □diarrhea, □constipation, □melena, □clay-colored stool
+                    □change of bowel habit, □tenesmus, □flatulence
+9.Genito-urinary: □urinary frequency, □urgency, □dysuria, □hesitancy,
+                  □incontinence, □nocturia, □polyuria, □oliguria 
+                  □small stream of urine, □cloudy urine, □hematuria,
+                  □flank pain, □impotence, □abnormal sexual exposure
+10.Musculoskeletal: □bone pain, □arthralgia, □myalgia, □back pain
+                    □joint stiffness, □cramps, □fractures
+11.Neurological: □numbness, □paresis/plegia, □convulsion, □paresthesia, □ataxia, 
+                 □resting tremor, □gait disturbance,  
+12.Psychiatric: □insomnia, □memory loss, □anxiety, □panic, □confusion
+                □hallucination, □delusion, □suicidality 
+身體檢查(Physical Examination) 
+BH: 171.7 cm,  BW: 79.2 kg,
+T: 36.5 °C,  P: 71 bpm,  R: 20 /min,
+BP: 127 / 63 mmHg,
+Pain score:  ,
+
+Neurological Examination: 
+. Consciousness: clear and oriented
+. Muscle power: 5/5
+. Gait: not checked
+
+‧Head-Eye-ENT
+      Conjunctiva: pink; Sclera: anicteric; 
+      Pupil: isocoric(3mm/3mm); reflex (+/+)
+‧Neck
+      Jugular vein engorgement(-); Lymphadenopathy (-); goiter(-)
+      Meningismus: Kernig sign(-); Brudzinski sign(-); Carotid bruit(-)
+‧Chest
+      Thoracic cage contour: symmetric,  no deformity nor distension 
+                             no increased anterior-posterior (AP) diameter
+      Vocal fremitus and expansion: symmetric
+      Percussion: normo-resonant
+      Auscultation: Crackles(bil. +) wheezes(-) rhonchi(-) stridor(-)
+‧Heart
+      LV lift(-) RV heave(-)
+      Increased cardiac size by percussion(-)
+      Heart beat: regular
+      Adventitious sounds (-); Murmurs(-)
+‧Abdomen
+      Flat & soft. no rebound tenderness, no muscle guarding
+      Superficial vein engorgement(-) Protruded umbilicus(-)
+      Bowel sound: normo-active
+      Tenderness(-) Hepato-jugular reflux(-)
+      Liver and spleen: impalpable
+      Liver span: 10 cm
+‧Extremities: 
+      Freely movable, pitting edema (-)
+      Peripheral pulse:
+      Carotid a.(++/++), Brachial a.(++/++), Radial a.(++/++), 
+      Femoral a.(++/++), Popliteal a.(++/++), Posteral tibial a.(++/++), Dorsalis pedis a.(++/++)
+‧Skin
+      Abnormal pigmentation(-) Petechiae(-) Purpura(-) Ecchymoses(-)       
+      Telangiectasia(-) Rash(-) Plaque(-) Wound(-) Ulceration(-) Crust(-)
+‧lymphadenopathy: neck(-), axilla(-), epitrochlear(-), inguinal(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1051226 [1511] 7.477         28.2          64.7          21.0          -2.8         
+
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1051224 [1333] 12.77         3.86          11.9          35.2          91.2         
+1051226 [0440] 13.64         3.95          12.3          35.6          90.1         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1051224 [1333] 30.8          33.8          216           13.4          -            
+1051226 [0440] 31.1          34.6          265           12.8          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1051224 [1333] 0.0           0.0           0.0           0.0           0.0          
+1051226 [0440] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1051224 [1333] 91.9          0.1           0.1           2.7           5.2          
+1051226 [0440] 91.7          1.2           0.1           2.4           4.6          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1051224 [1333] 0.0           0.0           0             -            
+1051226 [0440] 0.0           0.0           0             -            
+群組:Yes
+
+               hsCRP         D-Dimer       NT-pro BNP   
+time/item      (mg/dL)       (μg/mL FEU)   (pg/mL)      
+1051224 [1333]               0.85          476.9        
+1051226 [0440] 22.78                                    
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1051224 [1333] 11.8          33.1          1.09         
+群組:Biochemistry
+
+               BUN           CRE           Na            K             AST          
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (U/L)        
+1051224 [1333] 29.1          1.2           135           4.1           37           
+1051226 [0440] 32.6          1.1           134           3.9                        
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1051224 [1333] 48           
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1051224 [1333] 7.425         29.5          52.9          19.5          -5.2         
+1051225 [1158] 7.449         33.0          35.2          23.1          -1.2         
+1051226 [0440] 7.438         33.8          57.1          23.1          -1.4         
+群組:STAIN
+
+               Gram's(GS)#1  Gram's(GS)#2  Gram's(GS)#3  Gram's(GS)#4  Gram's(GS)#5                                                                       
+time/item      (*)           (*)           (*)           (*)           (*)          
+1051226 [1003] Few PMNs(<10  Moderate epi  G(+)Bacilli   G(+)cocci 1+  G(-)Bacilli  
+               /LPF)         thelial cell  1+                                        1+           
+                             s(10-25/LPF)                                                         
+群組:
+
+               Troponin-T    eGFR         
+time/item      (ng/L)        (mL/min/1.73 
+                              m^2)        
+1051224 [1333] 9.57          61.5         
+1051226 [0440]               67.9         
+1051226 [0739] 13.96                      
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1051226 [0943] 7.430         31.5          46.1          21.1          -3.4         
+               SO2          
+time/item      (%)          
+1051226 [0943] 83.6         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1051226 [0943] 1.17          12.4          37            4.10          135.0        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1051226 [0943] 100           1.0          
+*********檢驗室:VF***********
+
+群組:Yes
+
+               Influenza A+ 
+               B Rapid Scre 
+               ening Test   
+time/item      ()           
+1051226 [1003] Negative     
+*********檢驗室:VR***********
+
+群組:Yes
+
+               Chlamydiae A 
+               ntigen       
+time/item      ()           
+1051225 [1216] Negative     
+*********檢驗室:VS***********
+
+群組:Yes
+
+               Mycoplasma P 
+               neumoniae Ig 
+               M            
+time/item      ()           
+1051225 [1158] Negative     
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1051224 [1333] 114          
+1051226 [1510] 154          
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1051226 [0946] B             Positive     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1051226 [0946] Negative 
+檢查紀錄(Examination Report) 
+pending 
+影像報告(Imaging Report) 
+Chest: AP View (Supine) 醫令: Chest: AP View (Supine) 報告醫師: 葉建德 影像時間: 2016/12/26 10:13 (32001CYM) 發報告時間: 2016/12/26 10:54 mildly increased cardiothoracic ratio. consolidation in bilateral lungs. placement of a cardiac pacemaker. placement of a nasogastric tube and an endotracheal tube.
+Chest: PA View (Standing) 醫令: Chest: PA View (Standing) 報告醫師: 陳雅芳 影像時間: 2016/12/26 04:46 (32001CXM) 發報告時間: 2016/12/26 11:57 EXAMINATION: Chest: PA View (Standing).
+FINDINGS:
+S/p pacemaker insertion from left subclavian vein. Normal heart size. Bilateral lung consolidations, larger on the right side.
+Chest: PA View (Standing) 醫令: Chest: PA View (Standing) 報告醫師: 李崇維 影像時間: 2016/12/24 13:47 (32001CXM) 發報告時間: 2016/12/24 15:07 EXAMINATION: Chest: PA View (Standing)
+FINDINGS:
+Pacemaker insertion via left subclavian approach. Borderlined cardiomegaly. Consolidation in both lungs.
+CT With/Without Contrast-Chest 醫令: CT With/Without Contrast-Chest 報告醫師: 李崇維 影像時間: 2016/12/24 18:25 (33072B2M) 發報告時間: 2016/12/24 20:15 CT scan of the chest without and with contrast enhancement shows:
+1. Pacemaker insertion via left subclavian approach. 
+2. Multiple consolidative patches in both lungs.
+3. Bilateral pleural effusion.
+4. No obvious pulmonary embolism. 
+病理報告(Pathology Report) 
+NIL 
+臆斷(Tentative Diagnosis) 
+1. Bilateral multiple lobar pneumonia with hypoxic respiration failure, status post endotracheal intubation with mechanical ventilation (2016/12/26-) 
+2. Sick sinus syndrome status post permenant pacemaker implantation (DDDR) on 2015/08/21 
+3. Paroxymal Atrial fibrillation
+4. Benign prostatic hypertrophy 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+1. Bilateral multiple lobar pneumonia with hypoxic respiration failure, status post endotracheal intubation with mechanical ventilation (2016/12/26-) 
+2. Sick sinus syndrome status post permenant pacemaker implantation (DDDR) on 2015/08/21 
+3. Paroxymal Atrial fibrillation
+4. Benign prostatic hypertrophy
+
+[Baseline]
+女兒描述，與兒子同住生活可自理，每天會運動。
+
+[timeline]
+2013-2015 syncope 7 times in two years
+2014/03/11 long pause for 2.9 seconds
+           -> PPM suggested but patient hesitated
+2015/08/21 permenant pacemaker implantation (DDDR)
+
+2016/12/20 dizziness, dyspnea
+           -> treat as common cold at local clinic
+2016/12/24 NTUH ER
+           pneumonia with hypoxic respiration failure, s/p 
+           ETT with ventilation (2016/12/26-)  
+
+Treatment Goal:
+* complete pneumonia treat course with extubation 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左手 右手 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.5mm 
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：Nil
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：配偶 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the note in the record of admission. 
+醫師姓名 
+錢穎群 主治醫師 

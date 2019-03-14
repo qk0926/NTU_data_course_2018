@@ -1,0 +1,15 @@
+Poor resolution of left lung haziness, probably due to hemorrhage and infection.
+Extubation appeared not feasible at this condition.
+Will meet with the family about the future management plan.
+We have explained to the family about the poor resolution of left pneumonia.
+Consider repeat CT scan to assess the possibility of recurrent aspergillosis or other atypical pneumonia that might warrant specific treatment.
+
+2015/10/15 16:54 BP:151/59
+2015/10/15 12:49 BP:122/60
+2015/10/15 08:50 BP:153/89
+2015/10/15 16:53 T:37.1 P:117 R:34
+2015/10/15 12:49 T:36.6 P:126 R:30
+2015/10/15 08:50 T:36.4 P:112 R:29
+2015/10/15 16:53 SpO2:94%(45%,L,VCR)
+2015/10/15 12:49 SpO2:96%(45%,L,VCR)
+2015/10/15 08:51 SpO2:98%(45%,L,VCR)

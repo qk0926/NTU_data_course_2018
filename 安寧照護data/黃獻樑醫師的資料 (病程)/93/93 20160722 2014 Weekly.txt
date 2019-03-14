@@ -1,0 +1,76 @@
+Brief Summary of this week    
+This week, NG coffee ground recurred during weekend. We kept him NPO with TPN supplement. Panendoscopy was suggested, but his family hesitated. No coffee ground noted for 5 days. We had him try water via NG tube since 7/21. 
+
+Problem Assessment Plan   
+          
+PAP 
+Assessment 
+try water
+TPN Nutriflex 1000 ml QD
+
+<Antibiotics>
+Levofloxacin 7/16 ~ D7
+             for S/C: Stenotrophomonas maltophilia
+Diflucan 7/15 ~ D8 for U/C: Candida albican 
+---------------------
+Targocid 7/9 - 7/18
+Mepem    6/28- 7/15, for S/C PsA and GI Bleeding suspected IAI
+Targocid 6/27-7/4, for S/C MRSA
+Tazocin  6/23-6/28, empirically for pneumonia
+
+<Culture report>
+6/23 B/C:neg 
+6/24 S/C:MRSA
+6/25 B/C:neg X 3
+     S/C:PsA(WT)
+     S/S:GNB3+(intracellular),GPB1+
+6/29 S/C:Elizabethkingia meningosepticum 1+ 
+               Stenotrophomonas maltophilia 1+   
+07/09 U/C: yeast-like pathogen > 100000 ***
+      uretheral pus: candida albican
+07/16 S/C:Stenotrophomonas maltophilia 2+
+
+<Respiration>
+shift to Home Ventilator
+PC/AC mode, I/E: 25/5, RR: 10, O2: 5L, Ti:1.0 s
+
+<PE>
+Consciousness: drowsiness, E4VtM5
+HEENT: grossly general edema
+Chest: diffuse bilateral crackles 
+Heart: regularly heart beats, RUSB III/VI murmur
+Abdomen: hard and distended, right inguinal herina without local tenderness but not reducible
+Extremities: diffusely pitting edema (+)
+
+<Nutrition>
+TPN: Nutriflex 1000 ml QD 
+
+<Important study findings>
+6/25 ACTH/Cortisol: 35.3/42.5, FT4/TSH:0.822/0.395
+6/28 CT: r/o colon cancer, proximal T-colon. Advise correlate with colonoscopy. Enlarged prostate. 
+Right inguinal hernia. Bilateral lower lung consolidation and pleural effusion.
+7/04 thoracentesis (right): 1040ml, straw color, Transudate
+7/4  thoracentesis (left): 430ml, straw color with mildly red, Transudate
+
+<Lab >
+WBC:8.5 k  Seg: 93%  --> 8.7k /92% --> 6.0k/88.5%
+CRP: 0.59 --> 0.23
+HB: 9.6 --> 10.4 --> 9.3 --> 9.1 -->8.8 --> 7.9 --> 7.3*
+BUN/Cr: 52.6/0.6 --> 58.3/0.5 --> 53/0.5
+Na/K:148/3.0 --> 140/ --> 147/3.6 --> 144/3.3
+Alb: 2.6 (7/6) --> albumin x 3 day --> 3.2 --> 2.9
+U/A: WBC > 100/HPF
+
+ABG: pH/pCO2/HCO3: 7.477/31.8/23.7 --> VBG: 7.48/35.1/26.4
+Plan 
+1. keep Cravit and Diflucan
+   recheck U/A, U/C and change Foley today
+2. pursue B/C 
+3. keep Cortisone 1# Q12H 
+4. keep IV PPI and transamine
+5. Family decision: DNR (不電不壓不TAE,除藥到家屬來)(大姊、二哥、小妹)
+6. Hospice combined care.
+7. keep Lasix 20 mg IV TID and monitor I/O
+8. 1U pRBC transfusion today
+9. try water 400 ml daily
+10. keep Fluitran for mild hypernatremia

@@ -1,0 +1,91 @@
+85M
+
+[Active problems]
+1. Out-of-hospital cardiac arrest, with pulseless electrical activity, status post cardiopulmonary resuscitation 10 minutes, with return of spontaneous circulation, status post hypothermia therapy
+2. Septic shock, suspect aspiration pmneumonia
+3. Cerebral vascular disease, lacunes in right basal ganglion and left pons
+4. Multiple tiny tree-in-bud nodules in bilateral lungs, suspect pulmonary tuberculosis?
+
+[Inactive problems]
+5. Suspicious cystic lesion in pancreas head, with dilatation of pancreatic duct
+6. Compression fracture of T11
+7. Multiple system atrophy , stage IV (since 2011), with radykinesia, atxia, severe orthostatic hypotension, frequent fainting, and urine incontinence
+8. Diabetes mellitus, type 2
+9. Benigh prostatic hyperplasia
+10. Moderate obstructive sleep apnea
+
+[Brief History]
+09/29 general discomfort with night time sleeping moaning
+ -> more sleepy and decreased appetite with fair urine output
+10/01 PM, LMD visit, fever, Dx as common cold?
+ -> progressive dyspnea with much thicky whitish sputum from mouth; with some biazzare coarse breathing sounds
+10/01 07PM NTUH ER
+ -> progressive dyspnea with drowsy consciousness
+ -> OHCA at triage, PEA
+ -> CPCR 10 mins, ROSC
+ -> ETT-MV, much milk from endo
+* EKG: sinus tachycardia with LVH strain pattern
+* Lab: leukocytosis with left shift, impaired renal function test and elevated lactate level
+* Blood gas: mixed metabolic and respiratory acidosis
+ -> Rx with Tazocin & Levophed
+10/01 CECT: no ICH, pulmonary embolism, neither aortic dissection; but lacunes in right basal ganglion and left pons; multiple tiny tree-in-bud nodules in bilateral lungs; dilatation of pancreatic duct, with suspicious cystic lesion in pancreas head; left adrenal nodule; compression fracture of T11
+
+[Treatment course]
+  After admission, hypothermia therapy was started and the BT was cooled down to 33'C at 1AM on 10/2. Rewarming was started after 24 hours. Sedation was titrated down and oral feeding with D5W was started after the BT returned to 36'C. The patient's consciousness did not recovered, hematuria with decreased urine output were also noted. Urine analysis and cytology were sent. Bedside echo showed no obvious hydronephrosis and non-distended bladder. Some suspicious blood clots were noted around the balloon. Normal saline foley irrigation was done and the hematuria gradually improved. The EEG on day 3 showed nearly absence of EEG activities. The GCS remained E1M1Vt and the light reflex, cough reflex were absent. Perfusion SPECT was done on 10/8 and the formal report was still pending. Cheyne-Stokes respiratory pattern was noted and the ventilator was unable to weaned off. After explaining the very poor neurological outcomes to the families, they still had no consensus yet about withdraw or longterm care.
+
+ABx: Cravit D3 (10/08-), S/C: WTKp & WTSM
+
+Tazocin (10/01-10/04, 10/06-10/08)
+Unasyn (10/04-10/6), CAP (S/C: WTKP 2+, WTSM 2+)
+
+NG diet: DM, 1500kcal/1500mL, pump 50mL/hr
+ + Free water 100mL Q6H
+
+[Ventilator setting]
+PSV, PS: 10, PEEP: 6, FiO2: 30%
+ -> TV: 206, MV: 7.12, SpO2: 100%, Cheyne-Stokes pattern
+
+[Physical examination]
+Cons: E1M1Vt, coma
+Pupil: 3/3 mm, Light reflex: Nil
+BS: bil. clear, no wheezing
+Heart: RHB, no murmur
+BoS: hypoactive
+Limb: no edema, relative dry fluid status
+
+[Important symptoms, signs, physiologic changes and response to management]
+Nil
+
+[Important Study findings]
+2011/03 Brain CT: mild brain atrophy without focal brain lesion; right parietal scalp nodule
+10/01 B+C+A+P CECT: no ICH, PE, aortic dissection; lacunes in right basal ganglion and left pons; multiple tiny tree-in-bud nodules in bilateral lungs; dilatation of pancreatic duct, with suspicious cystic lesion in pancreas head; left adrenal nodule; compression fracture of T11
+10/01 EKG: QTc 486ms
+10/03 Bedside echo: no hydronephrosis
+10/04 FeUN 28%, FeNA 0.7%
+10/05 EEG: nearly absence of EEG activities
+10/08 Brain perfusion CT: pending
+
+[Important Interventions and Newly Added Medications]
+10/01 Tazocin, Off levophed
+      Start hypothermia
+10/04 start rewarming, try NG milk feeding
+10/06 Escalate ABx to Tazocin due to new fever
+10/08 Shift ABx to Cravit to prevent B-lactam related drug fever
+
+[Important Consultation and Meeting Suggestions]
+Nil
+
+[Important Family Decisions]
+10/01 Aggressive management
+10/06 Further decision (tracheostomy or withdrawal) will be made after brain EEG and perfusion CT exam completed
+10/09 Family refused tracheostomy
+
+1. Keep Cravit to cover WTSM and possible drug fever for 7 days course
+2. F/U con's and brainstem reflex!
+  => Wait for brain perfusion SPECT formal report (may contact VS ¾G´A¤è on W1)
+  => Informed family possible poor neurological outcome
+  => Consult neurologists for neurological outcome evaluation
+3. May work-up for suspicious cystic lesion in pancreas head if long term survival was expected
+ => Abdomen MRI?
+4. Give NG free water 100 ml Q6H for azotemia and hypernatremia
+5. Family refused tracheostomy, but had no consensus yet about withdraw or longterm care

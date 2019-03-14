@@ -1,0 +1,64 @@
+Brief Summary of this week    
+After admitted, the prone position was arranged, and Craivt was continued for penumonia with respiration failure. The pathogen was surveyed, and current all showed negative findings. The pneumonia improved, and PF ratio elevated, the prone discontineud on 12/27.
+The Apixaban discontinued due to sinus rhythm and previous adequate treatment. The levophed prescribed for septic shock, and tapped gradually due to sepsis and hemodynamic improved. Since the fever persistent, the Ceftazidime prescribed on 12/28 for treat of sepsis. 
+
+However, new onset of high peak fever with septic shock noted on 12/30. The Targocid prescribed, Ceftazidime was upgrade to Mepem, and levophed elevated to 10ml/hr. The patient presented unconscious after all sedation discontinued on 12/30 (last: alprazolam on 12/29 0900 for agitaion with Ventilator showed double trigger). The brain CT was arranged and reported: brain atrophy, ventriculomegaly. We had informed the families the poor conscious may due to severe infection with septic shock. 
+
+
+Assessment 
+[Abx]
+Cravit (12/24-) D9
+Meroepnem (12/30-) D2
+Targocid (12/30-) D2
+-----------------------------------------------------
+Unasyn (12/24)
+Zithromax (12/24-26)
+Tamiflu (12/24-12/29)
+Meropenem (12/28-12/28)
+Ceftazidim (12/28-12/30)
+
+[Cultures]
+12/26 S/S (poor Q): GPC in chains 3+
+Flu rapid test -, Legionella Ag -, sputum Chlamydiae Ag -, Mycoplasma IgM -
+12/28 B/C:
+      B/C:
+      F/C:
+      S/C:
+      U/C:
+
+[Infusion]
+Levophed 8 --> 4
+
+[MV/O2]
+PC/AC f 16, IP 14 -> 12, Ti 0.9, PEEP 12 -> 10, FiO2 60% -> 55%
+Vt 450, f 18, SpO2 95%
+
+[PE]
+Consciousness: unconscious
+Heart: IRHB 85/min, no murmur
+BS: crackles
+Abdomen: BoS hypoactive, soft, no tenderness
+Extremities: warm, edema 1+
+
+[Studies]
+12/30 bronchoscopy: 1. No endobronchial lesion.
+                    2. Fair mucosa
+                    3. Few whitish sputum over RLL
+                    4. Much purulent sputum over LUD
+
+12/30 Brain CT: Brain atrophy, ventriculomegaly 
+
+[Consultation]
+[Family decision]
+[Intervention]
+
+
+Plan 
+1. for fever, r/o pneumonia 
+ - continued Cravit, Meropenem for CAP
+ - continued Targocid, persue the culture
+ - arrange bronchoscopy on 12/30, persue the culture report
+2. continued medication for Afib with PPM backup (amio 
+   related IP less likely due to low dose 0.5# bid)
+ - hold apixaban due to current sinus rhythm and previous 
+   adequate use of AC

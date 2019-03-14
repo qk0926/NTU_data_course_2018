@@ -1,0 +1,488 @@
+Admission Note 
+2017/07/22 22:10 
+主訴(Chief Complaint) 
+Informant:Medical Staff
+Consciouss distubance and fever since morning 
+病史(Brief History) 
+This is a 80-year-old female with history of 
+1. Gouty arthritis with suspected right knee joint effusion, etiology to be determined, suspect infectious arthritis
+2. Congestive heart failure, stage II, acute decompensation, with ischemic cardiomyopathy, 2 vessel disease, status post Percutaneous Occlusion balloon Angioplasty to Left Circumflex (LCX) in September 2007 
+3. Diabetes mellitus
+4. Chronic kidney failure with acute deterioration
+5. Asthma history
+6. Hyperlipidemia
+7. Suspected right subclavian artery stenosis or asymptomatic subclavian steal syndrome.
+8. Chronic conjunctivitis, unspecified side
+9. Pseudophakia
+10. Lumbar spondylosis with osteomyelitis status post operation on 1999/8/7
+ She was almost bedridden in baseline and able to talk and eat by herself according to her grandson.
+ This time, poor intake and decreased urine output was noted for around 1 week. She was found drowsy and dyspnea in the morning of 7/22. She was then sent to NTUH ED and was found fever at triage. Vitals were Blood Pressure: 121/77mmHg, Pulse Rate: 95/min, Respiratory Rate: 24/min, Temperature: 39℃, SPO2: 99％.
+ Blood test showed leukocytosis with left shift and acute kidney injury(baseline 2.0->2.5->3.6). Urine analysis showed pyuria. Breathing sound with diffuse wheezing. ProBNP was 13278. Respiratory distress was resisted to bronchodilator and diuretics. Impression was acute on congetive heart failure. The patient was then intubated and send to ICU for further care.  
+Family History: no relevant of chronic disease.
+Medication Allergy:No  病人自述 2017/07/01
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  病人自述 2017/07/01
+Current Medication:
+NTUH:PARAMOL 500 mg/tab 1 tab STAT PO 1 days
+PARAMOL 500 mg/tab 1 tab Q6HPRN PO 2 days
+Combivent UDV Inh Soln 2.5 mL/amp 1 amp STAT IH 1 days
+Rocephin 500 mg/vial 1000 mg Q12H IV 2 days
+Rocephin 500 mg/vial 1000 mg STAT IV 1 days
+Combivent UDV Inh Soln 2.5 mL/amp 1 amp Q6H IH 2 days
+Millisrol 5 mg/10 mL /amp 50 mg QD cIF 2 days
+針 Cravit inj 250 mg/50 mL /vial 750 mg QOD IF 2 days
+針 Cravit inj 250 mg/50 mL /vial 750 mg STAT IF 1 days
+警 Nimbex 10 mg/5 mL /amp 10 mg STAT IV 1 days
+警 Levophed 4 mg/4 mL /amp 8 mg QD cIF 2 days
+警 Nimbex 10 mg/5 mL /amp 7.5 mg STAT IV 1 days
+40 Solu-Medrol 40 mg/vial 20 mg Q8H IV 2 days
+40 Solu-Medrol 40 mg/vial 20 mg STAT IV 1 days
+Combivent UDV Inh Soln 2.5 mL/amp 1 amp STAT IH 1 days
+警 Levophed 4 mg/4 mL /amp 8 mg QD cIF 2 days
+Magnesium Sulfate inj 16 mEq/20 mL /amp 16 mEq STAT IF 1 days
+Combivent UDV Inh Soln 2.5 mL/amp 1 amp Q4H IH 2 days
+針 Cravit inj 250 mg/50 mL /vial 500 mg QOD IF 2 days
+針 Nexium for inj 40 mg/vial 40 mg STAT IV 1 days
+針 Nexium for inj 40 mg/vial 40 mg QD IV 2 days
+Rasitol Inj 20 mg/2 mL /amp 20 mg STAT IV 1 days
+Rasitol Inj 20 mg/2 mL /amp 20 mg Q8H IV 2 days
+(管4) Ativan 0.5 mg/tab 1 tab HS PO 28 days
+Singulair 10 mg/tab 1 tab HS PO 28 days
+250 Seretide Evohaler 120 doses/box 2 puff BID IH 28 days
+吸 Spiriva Respimat Soln for Inh 2.5 mcg/1 puff 60 puff/btl 2 puff QD IH 28 days
+Regrow SR 60 mg/tab 1/2 tab BID PO 28 days
+Musco 30 mg/tab 1 tab BID PO 28 days
+Allegra 60 mg/tab 1 tab HS PO 28 days
+Aldactone 25 mg/tab 1 tab BID PO 28 days
+Sandel 50 mg/tab 1 tab BID PO 28 days
+Feburic 80 mg/tab 0.5 tab QD PO 28 days
+Kimodin F.C. 20 mg/tab 1 tab BID PO 28 days
+Prometin 5 mg/tab 1 tab BID PO 28 days
+Trajenta F.C. 5 mg/tab 1 tab QD PO 28 days
+Dulcolax EC 5 mg/tab 1 tab HS PO 28 days
+Other:denied
+中草藥:denied
+保健食品:denied
+Past Medical History:
+Hospitalization:入院日期:2017_07_01 出院日期:2017_07_05 診斷:Congestive heart failure
+入院日期:2015_11_25 出院日期:2015_12_10 診斷:Cellulitis
+
+Past Surgical History:2017_05_20  ECCE and PCIOL implantation 3-P 25.5D (od)
+Travel History: denied
+Contact history: Visit OPD on 7/18. 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:不識字
+職業:無
+宗教信仰:道教
+婚姻狀態:喪偶
+使用語言:台語 
+口述血型:不清楚，RH:不清楚，輸血反應:
+抽煙:沒有，已戒煙:>10年
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Fall Risk Assessment
+總分:14
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+Weight loss( - ), Weight gain( + ),Fatigue( - ),Fever or chills( + ),Weakness( + ),Trouble sleeping( - )
+
+Rashes( - ) Lumps( - ) Itching( - ) Dryness( - ) Color changes( - ) Hair and nail changes( - ) Petechiae( - ) Purpura( - ) 
+
+Head-
+Headache( - ) Head injury( - )
+Ears-
+Hearing impairment( - ) Tinnitus( - ) Otalgia( - ) Otorrhea( - )
+Eyes-
+Blurred Vision( - ) Double vision( - ) Pain( - ) Redness( - ) Flashing lights( - ) Glaucoma( - ) Cataracts(+)OD, status post operation ) 
+Nose-
+Stuffiness( - ) Discharge( - ) Itching( - ) Epistaxis( - ) Sinus pain( - )
+Oral Cavity and Throat-
+Teeth problem( - ) Gum Bleeding( - ) Dentures( - ) Sore throat( - ) Hoarseness( - ) Thrush( - ) Ulcer( - )
+Neck-
+Lumps( - ) Swollen glands( - ) Pain( - ) Stiffness( - )
+
+Lumps( - ) Pain( - ) Discharge( - ) 
+
+Cough (wet,productive) ( + ) Sputum (whitish color and small amount) ( + )
+Hemoptysis( - ) Dyspnea( + )improved Wheezing( + )intermittent Painful breathing( - )
+
+Chest pain or discomfort( - ) Tightness( - ) Palpitations( - )
+Dyspnea( - ) Orthopnea( - ) Edema( - ) Nocturnal dyspnea( - )
+
+Claudication( - ) Leg cramping( - )
+
+Dysphasia( + ),Heartburn( - ), Acid regurgitation( - ), Change in appetite( - ), Nausea( - ) 
+Vomiting( - ), Change in bowel habits( - ), Constipation( - ), Diarrhea( - ), Yellow eyes or skin( - )
+
+Frequency( - ), Urgency( - ),Burning or pain( - ), Hematuria( - ),Incontinence( - ),Dysuria( - ) 
+
+Female-
+Vaginal discharge( - ), Itching ( - ), skin rash( - )
+
+Myalgia( - ), Arthralgia( - ), Stiffness( - ), Back pain( - ), Redness of joints( - ), Swelling of joints( - ), Trauma( - )
+
+Dizziness( - ), Fainting( - ), Seizures( - ), Weakness( - ), Numbness( - ), Tingling( - ), Tremor( - )
+
+Easy bruising( - ), Easy bleeding( - )
+
+Heat intolerance( - ), Cold intolerance( - ), Sweating( - ), Polyuria( - ), Polydypsia( - ), Polyphagia( - ) 
+
+Nervousness( - ), Depression( - ), Memory loss( - ), Stress( - ) 
+身體檢查(Physical Examination) 
+BH: 148 cm,  BW: 69.4 kg,
+T: 38.0 °C,  P: 89 bpm,  R: 20 /min,
+BP: 117 / 69 mmHg,
+Pain score: 0 ,
+
+Neurological Examination: 
+. Consciousness: clear and oriented
+. Muscle power: 
+. Upper limbs-Right:4 Left: 4 .Lower limbs-Right:2 Left:2
+
+
+Appearance:il-looking 
+Orientation: Person(+);Time(+);Place(+)
+HEENT:
+Deformity: nil, Rash ( - ), Panda eye ( -) , 
+Pupil ( - / 3.0 mm), Light reflex : Right (-); Left: (+) 
+Conjunctiva (Pink), Sclera (anicteric) 
+Ear: deformity ( - ), ear discharge ( -), hear impaired( -)
+Throat: Thrush ( -), mass ( -), ulcer (-)
+NECK:
+Stiffness (-), Palpable LAP (-),
+Carotid Bruit (Right: -, Left: -), Jugular Vein Engorgement (-), Goiter (-)
+CHEST: 
+Deformity: (-),Mass (-),Tenderness (-), 
+Palpation crepitus (-), Expansion : (Symmetrical), 
+Breath sounds: intermittent wheezing 
+HEART: 
+Regular heart beat, Audible murmur (- ), 
+ABDOMEN:
+Superficial vein engorgement ( -)
+Bowel Sounds: (hypoactive)
+Local Tenderness ( - ), 
+Rebounding Pain (-) Muscle Guarding(-) Murphy’s Sign (-) 
+Palpable Mass (- ), Shifting Dullness ( -)
+Liver : not palpale Spleen : not palpale
+BACK :
+Deformity ( -), CV angle knocking tenderness (right : -, Left: - ).
+EXTREMITY :
+Limitation of movement (-), 
+Deformity ( - ) Peripheral Cyanosis ( - ) Clubbing Finger. ( - ) Pitting Edema ( +/- )legs
+Pulsation:R/L: CA(++/++) BA(++/++) RA (++/++) FA (++/++) PA (++/++) PTA (++/++) DPA (++/++)
+SKIN: rash(- ), Tumor ( - ), Ecchymosis ( - ), Purpurae ( - ), depigmentation ( - ), vesicle/bullae ( - ) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060702 [0601] 6.12          4.21          13.0          40.2          95.5         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060702 [0601] 30.9          32.3          220           14.5          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060702 [0601] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060702 [0601] 88.5          0.2           0.2           3.6           7.5          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060702 [0601] 0.0           0.0           0             -            
+群組:General BioChemistry
+
+               UA            ALB           ALT          
+time/item      (mg/dL)       (g/dL)        (U/L)        
+1060702 [0601] 7.8           3.6           8            
+群組:Biochemistry
+
+               BUN           CRE           Na            K             T-BIL        
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)      
+1060702 [0601] 77.5          2.3           137           3.7           0.54         
+               Ca            Mg            P            
+time/item      (mmol/L)      (mmol/L)      (mg/dL)      
+1060702 [0601] 2.35          0.88          2.4          
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1060702 [0601] 21.7         
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               UN            CRE           K             TG            T-CHO        
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mg/dL)       (mg/dL)      
+1060702 [0601]                                           125           225          
+1060704 [0601] 86.4          2.4           3.5                                      
+               LDL-C        
+time/item      (mg/dL)      
+1060702 [0601] 157          
+1060704 [0601]              
+群組:Hormones
+
+               Free T4(CIA)  hsTSH(CIA)    Cortisol DL   ACTH                       
+time/item      (ng/dL)       (μIU/mL)      (μg/dL)       (pg/mL)      
+1060702 [0601] 1.07          2.26          7.38          <5.00        
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1060704 [0601] 20.6         
+*********檢驗室:OP***********
+
+群組:STOOL
+
+               O.B.         
+time/item      (*)          
+1060701 [1903] -            
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1060702 [0454] 228          
+1060702 [1122] 243          
+1060702 [1705] 327          
+1060702 [2206] 246          
+1060703 [0417] 142          
+1060703 [1124] 136          
+1060703 [1548] 232          
+1060703 [2204] 308          
+1060704 [0414] 131          
+1060704 [1142] 143          
+1060704 [1600] 301          
+1060704 [2153] 395          
+1060705 [0435] 113          
+
+
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060722 [1424] 13.54         4.55          14.3          41.3          90.8         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060722 [1424] 31.4          34.6          260           16.0          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060722 [1424] 0.0           0.0           0.0           0.0           4.8          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060722 [1424] 91.4          0.0           0.9           1.9           1.0          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060722 [1424] 0.0           0.0           0.0           -            
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Cl           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1060722 [1424] 84.3          3.5           112           >10.0                      
+1060722 [1536] 87.2          3.6           128           4.9           99           
+               T-BIL         Ca            Mg            P             LacticAcid   
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)       (mmol/L)     
+1060722 [1424] 1.08          2.00          1.42                                     
+1060722 [1536]               2.21          0.86          2.5           1.96         
+               CK           
+time/item      (U/L)        
+1060722 [1424] 161          
+1060722 [1536]              
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1060722 [1424] 7            
+群組:Yes
+
+               NT-pro BNP   
+time/item      (pg/mL)      
+1060722 [1424] 13278        
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketone (Urin 
+                                                                    e)           
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1060722 [1934] 1.016         5.0           50 ( 1+ )     -             -            
+               O.B.(C)(Urin  Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+               e)                                                       (Urine)     
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1060722 [1934] -             4.0           -             -             3+           
+               Color         Turbidity    
+time/item      (*)           (*)          
+1060722 [1934] Yellow        +            
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1060722 [1934] 2-5           50-75         0-2           -             -            
+               Bacteria      Others(S)    
+time/item      (*)           (*)          
+1060722 [1934] 2+            -            
+群組:
+
+               Troponin-T    Glucose(seru  eGFR          CK-MB         Mucus(S)     
+                             m for ED)                                              
+time/item      (ng/L)        (mg/dL)       (mL/min/1.73  (ng/mL)       (*)          
+                                           m^2)                                    
+1060722 [1424] 75.37         240           13.4          3.34                       
+1060722 [1536]                             12.9                                     
+1060722 [1934]                                                         -            
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060722 [1529] 7.446         24.5          195.7         17.0          -7.3         
+               SO2          
+time/item      (%)          
+1060722 [1529] 99.8         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1060722 [1529] 1.13          15.6          47            4.87          130.1        
+               Sugar(急重症自行檢 
+               驗)           
+time/item      (mg/dL)      
+1060722 [1529] 262          
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060626 [1622] 8.63          3.88          12.0          37.5          96.6         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060626 [1622] 30.9          32.0          204           15.1          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060626 [1622] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060626 [1622] 85.6          0.1           0.2           4.9           9.2          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060626 [1622] 0.0           0.0           0             -            
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1060626 [1622] 8            
+群組:Biochemistry
+
+               CRE           Na            K             CK           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (U/L)        
+1060626 [1622] 2.0           134           5.3           44           
+1060626 [2055]                             4.7                        
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060626 [1622] 7.365         40.0          55.9          23.1          -2.6         
+群組:Yes
+
+               NT-pro BNP   
+time/item      (pg/mL)      
+1060626 [1622] 15867        
+群組:
+
+               Troponin-T    eGFR          CK-MB        
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)      
+                              m^2)                      
+1060626 [1622] 44.90         25.5          3.39         
+1060626 [2055] 46.48                                    
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1060626 [1622] 205          
+1060701 [1738] 162          
+1060701 [2142] 237 
+檢查紀錄(Examination Report) 
+Nil 
+影像報告(Imaging Report) 
+Chest: AP View (Supine) 醫令: Chest: AP View (Supine) 報告醫師: 陳育青 影像時間: 2017/07/22 14:46 (32001CYM) 發報告時間: 2017/07/22 15:42 cardiomegaly. no definite lung lesion.
+Chest: AP View (Supine) 醫令: Chest: AP View (Supine) 報告醫師: 陳育青 影像時間: 2017/07/22 15:59 (32001CYM) 發報告時間: 2017/07/22 20:22 an endotracheal tube with tip probably in the right main bronchus. a nasogastric tube. cardiomegaly. mediastinal widening.
+Chest: PA View (Standing) 醫令: Chest: PA View (Standing) 報告醫師: 陳邦斌 影像時間: 2017/06/29 06:05 (32001CXM) 發報告時間: 2017/06/29 13:10 cardiomegaly. mediastinal widening. increased infiltration in bilateral lower lung fields. bilateral sharp costophrenic angles. thoracolumbar spondylosis with marginal spur formation at multiple levels.
+Chest: AP View (Supine) 醫令: Chest: AP View (Supine) 報告醫師: 施怡倫 影像時間: 2017/06/26 16:44 (32001CYM) 發報告時間: 2017/06/26 16:58 EXAMINATION: Chest: AP View (Supine)
+FINDINGS:
+Cardiomegaly and mediastinal widening. Increased infiltration over bilateral lungs. 
+病理報告(Pathology Report) 
+088/07/23 S9915407
+Disc,intervertebral,L5-S1,debridement,abscess    
+Lymph node,site not stated,lymphadenectomy,lymphoid hyperplasia    
+088/07/17 S9914998
+Soft tissue,back,CT guide biopsy,inadequate for diagnosis    
+ S1236825
+Soft tissue,neck,incision and drainage,necrosis and inflammation 
+臆斷(Tentative Diagnosis) 
+Urinary tract infection
+Pneumonia
+Acute exerbation of congestive heart failure 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*Urinary tract infection
+Pneumonia
+Acute exerbation of congestive heart failure
+
+A: 
+T: 38.0 °C,  P: 89 bpm,  R: 20 /min,
+BP: 117 / 69 mmHg,
+General malaise.
+Bilateral clear breathing sound
+no obviuos edema
+
+leukocytosis with left shift
+Pyuria
+
+s/p Lasix 2 amp and foley insertion still anuria
+CXR:cardiamegaly, CHF
+
+Plan
+1. Keep empirical abx
+2. Keep levophed and diuretics, consider HD if still anuria
+
+Treatment Goal:
+Extubaiton 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左手 右手 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.0mm 
+胃造廔口：無  
+尿管留置：有  16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：女兒 孫子 外勞 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+陳韋廷 主治醫師 
+ 

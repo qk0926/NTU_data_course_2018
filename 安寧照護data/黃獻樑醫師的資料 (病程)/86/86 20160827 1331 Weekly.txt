@@ -1,0 +1,66 @@
+Brief Summary of this week    
+After admission, we kept antibitotics with rocephin 2g q12h for suspect CNS infection, and combined with Zithromax and metronidazole for suspect aspiration pneumonia. ECG showed inferior wall ST-elevation and elevated TnT, we contacted CV duty and no  regional wall motion abnormalities under echocardiography. Brain CT revealed brain mass lesion, 0.6 cm mildline shift and uncal hernination. We contacted NS duty  Dr.何 and added mannitol for IICP. We tapered off levophed on 8/23. Follow up EKG and cardiac enzymes were unsignificant. Mycoplasma, Cryptoccal, Legionella, Aspergillus, and 3 sets acid fast stain were negative. Initial urine culture yielded carbapenem resistant Escherichia Coli but repeated culture yielded no pathogen. We shifted zithromax to doxycycline due to suspicious Chlamydiae on 8/24 and discontinued after Chlamydophila IgM came back negative. Frequent bradycardia with spontaneous recovery and apnea were noted, We consulted hematologist on 8/25 and suggested betamethasone 8mg IV Q8H for 48-72 hours, discontinued if no sign of improvement. 8/26 family meeting concensus was contact 北榮 for transfer, but no bed available. Sputum culture yielded pseudomonas aeruginosa, and we discontinued metronidazole on 8/26. Follow up brain CT on 8/26 revealed much diffuse brain swelling, hydrocephalus and uncal herniation. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+[Antibiotics]
+Zithromax (8/22-8/24), Doxycycline (8/24-8/25), Metronidazole (8/22-26), Rocephin 2g (8/22-)
+
+[Cultures]
+8/22 S/C: mixed flora 
+     U/A: RBC 0-2, WBC 75-100, Bacteria +, Nitrite 2+ 
+     U/C: E.Coli (Ertapenemm resistant) 8K, Coagulase neg. 
+          staphylococci 4K, yeast 3K
+     B/C: Staphylococcus capitis (TTP:21.6 h)
+     B/C: Coagulase neg. staphylococci 
+     Mycoplasma (-), Cryptoccal (-), Legionella (-), 
+     Aspergillus (-), Chlamydiae (suspicious)
+8/23 S/S: PMN >25, Epi <10, GPR 1+, GNR 1+
+     S/C: pseudomonas aeruginosa
+     AFS: (-)/(-)/(-)
+8/24 Chlamydophila IgM (-)
+8/25 U/C: no aerobic pathogen
+     B/C:
+     B/C:
+
+[Nutrition] 糖尿(低醣)配方 濃度:1 卡/cc熱量:1750 葡勝納嚴選 
+
+[Ventilation] PS: 14, PEEP: 5, FiO2: 40%
+[RRT] NIL
+[Inotropes/vasopressor] Levophed 0.032mg/mL (8/22-8/23)
+
+[Lab data]
+CK/CK-MB: 57/2.92-> 54/2.84-> 51/3.0-> 55/2.97  
+Tn-T: 277.9-> 254.6-> 216.2-> 217.5-> 231.1  
+hsTSH: 21.3, fT4: 0.945, ACTH: 95.0, cortisol 21.3, 
+HbA1C: 7.8
+
+[Images]
+8/22 Brain CT:
+ - Prominent hypodense change in bilateral brain, with midline shift to left about 0.6cm, and suspected right uncal herniation, brain tumor with prominent vasogenic edema?
+ - Loss of gray-white matter differentiation at right temporooccipital lobe, recent infarction cannot be excluded. 
+ - Hydrocephalus. 
+8/22 CXR: increased bil infiltration, mild haziness at right upper lung zone
+8/26 Brain CT: Diffuse brain swelling, hydrocephalus, masses at right basal ganglia-thalamus to brainstem. Recurrent tumors and CSF seeding are considered.
+
+[Important family decision]
+- Family favor DNR, except elder son (live with patient) -aggresive treatment, would consider tracheostomy
+- want transfer to 北榮 -> no ICU bed 
+(二女兒 ask us to follow DNR if cardiac arrest, and she would signed the permit -> not suitable?)
+
+[Important consultation]
+8/22 contact NS duty Dr.何 -> mannitol is indicated
+     Contact CV duty Dr. 黃--> no RWMA under echocardiography
+8/25 照會 血液腫瘤科 黃泰中主治醫師, 建議事項 1. Please give betamethasone 8mg IV Q8H for 48-72 hours; DC if no signs of improvement of his respiratory pattern or other IICP signs.
+
+[Blood Component Transfusion] NIL
+
+Plan 
+1. Keep Rocephin. Shift to anti-pseudomonal agent if clinical deterioration. Pursue cultures
+2. Hold lumbar puncture due to IICP and uncal herniation
+   Keep mannitol for IICP 
+   Keep Rinderon 8mg Q8H(8/25-8/28) for 48-72h, if no improvement of respiratory pattern ==> DC and change back to Cortisone
+3. Keep cash Nexium
+4. poor prognosis and high risk for sudden cardiac arrest were informed

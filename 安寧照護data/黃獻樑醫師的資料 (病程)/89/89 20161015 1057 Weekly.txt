@@ -1,0 +1,72 @@
+Brief Summary of this week    
+Due to improving blood pressure, dopamine and Levophed was discontinued. Cordarone was change to oral form but back to IV due to intermittent Afib RVR. Mepem was empirically used since 10/8 and intermittent fever was still noted and central fever was suspected. Brain EEG on 10/11 showed no discernible cortical activities. These findings are compatible with hypoxic encephalopathy. Brain perfusion scan on 10/12 also showed  upper brainstem and thalami showed severe hypoperfusion. Poor neurological outcome was informed to the family and they were still decided withdraw or tracheostomy. SIMV mode was tried and stress to his heart with Afib RVR and poor cooperation was found and was changed back to PC/AC mode. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+(10/14) Try PC/SIMV(2): tachypnea and Af after one hour
+        -> PC/AC
+PC/AC IP:16 RR:10 TI:0.9 PEEP:6 FiO2:40
+
+<Important medication>
+Dopaimine (Conc) 8mL/hr->4mL/hr->off on 10/13 AM
+Levophed (Conc)  2mL/hr-->off on 10/10 7PM
+Cordarone 900mg/500mL run 10 mL/hr-->off change to oral Cordarone 200mg 1# BID
+Resume IF Cordarone on 10/14
+
+<ABx>
+Meropenem  10/8- , empirical for persistent fever
+
+<Previous ABx>
+Rocephine  10/5-10/8
+Cefuroxime 10/5-5
+
+<Culture report>
+10/5 S/C: KP/MSSA
+     B/C:
+
+10/7 S/C: MSSA  
+     B/C:
+
+<Important study/lab>
+CAG 10/5(²ø§Ó©ú)
+LM: Patent
+LAD: ostial total occlusion
+LCX: Hypoplasia, OM1 stenosis 70 %
+RCA: middle stenosis 80 %
+CAD, 3VD, with STEMI, Killip IV, with OHCA, s/p CPCR with ROSC, s/p POBAS to LAD
+10/5 CT (B+C+A+P)
+Suspect old insult at right frontal lobe.
+Thoracic aortic aneurysm. 
+Bilateral hydronephrosis with thinning of left renal cortex. 
+s/p bilateral graft from abdominal aorta to bilateral common femoral artery with thrombosed common iliac artery and aneurysmal dilatation.
+*CVVH [10/5 12AM-10/9 5PM] for lactic acidosis
+10/11 EEG:
+10/12 Brain perfusion SPECT: upper brainstem and thalami showed severe hypoperfusion
+
+<PE>
+Consciousness: GCS:E1M1VT move fingers upon asking to do so 
+HEENT: Abrasion wound over forehead, conjunctiva: pink, sclera: anicteric
+Pupil: isocoric, 2/2, sluggish response to light
+EOM: not responded, abscense of doll eye sign
+Neck: supple, JVE (-) LAP (-) Goiter(-) Carotid bruit(-)
+Chest: symmetric expansion, breath sound: bil. coarse breath sound
+Heart: irregular HR, systolic murmur(+)
+Abdomen: soft and flat, bowel sound: normoactive
+Back: No knocking tenderness
+Extremities: Molted
+Peripheral pulsation: weak
+
+Plan 
+1.Keep DAPT, DC heparinization (10/5 03:00-10/7:03:23), other drugs for STEMI if consciousness improved
+  Add Concor since 10/15
+  EEG(2016/10/11)/brain perfusion(2016/10/12) 
+  DNR except medication/MV/RRT now
+  Discuss of withdraw/tracheostomy due to poor neurological outcome
+  Inform critical condition and poor neurological outcome due to prolonged resuscitation; also inform risk of AMI, including cardiac rupture, fatal arrhythmia, refractory cardiogenic shock
+  DC Depakine due to elevated liver function, Add Keppra if needed
+2.Amiodarone use, change to oral Cordarone due to still intermittent Afib RVR
+3.Keep Mepem, pursue cultures
+4.Try oral intake (low protein diet, 1500kcal, 1.5kcal/mL)
+5.Family will discuss about tracheostomy, they may make the descision in 2 days

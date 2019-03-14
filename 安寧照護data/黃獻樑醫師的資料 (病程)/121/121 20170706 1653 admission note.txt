@@ -1,0 +1,258 @@
+2017/07/06 16:53 
+主訴(Chief Complaint) 
+Informant:The wife
+Shortness of breath, conscious disturbance on 2017/6/25 
+病史(Brief History) 
+Present illness:
+    A 62-year-old male has 1) amyotrophic lateral sclerosis (ALS), with onset in 2015, diagnosed in 2016, and 2) hypertension (HTN). He firstly developed gradual right-sided weakness in 2015. ALS was diagnosed in 2016 and riluzole was prescribed. He has become bedridden since 2017/2. He could still feed on ground diet with seldom choking. He suffered from frequent fasciculation, which disturbed his sleep. Trileptal was given with some effect. 
+    This time, he suffered from dyspnea, chest tightness, cold sweating, cyanosis, and conscious loss on 2017/6/25. He was sent to ER of 新店耕莘 hospital, where he received intubation and ICU hospitalization for right lower pneumonia with respiratory acidosis. Piperacillin/tazobactam was given empirically. Sputum culture yielded flora of saliva. His pneumonia improved and weaning program was started but not successful. He was then transferred to our neuro ICU due to family's request. 
+
+Family History: No ALS
+Medication Allergy:No  親屬描述 2017/07/06
+No  病人自述 2016/05/26
+No  親屬描述 2016/06/11
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  親屬描述 2017/07/06
+No  病人自述 2016/05/26
+No  親屬描述 2016/06/11
+Current Medication:
+NTUH:HARNALIDGE D 0.2 mg/tab 2 tab QD LZ 28 days
+Methycobal 500 mcg/cap 1 cap TID PO 56 days
+CELEBREX 200 mg/cap 1 cap QD PO 28 days
+Nexium 40 mg/tab 1 tab QDAC1HR PO 56 days
+(管4) Eurodin 2 mg/tab 1 tab HS PO 28 days
+(管4) Rivotril 0.5 mg/tab 1 tab AS ORDER PO 28 days
+Trileptal FC 300 mg/tab 1 tab AS ORDER PO 28 days
+Befon 5 mg/tab 1 tab QD PO 28 days
+Rilutek F.C. tab 50 mg/tab 1 tab BID PO 28 days
+Actein Effervescent Tablet 600 mg/tab 1 tab TID PO 28 days
+Other:
+中草藥:nil
+保健食品: 白藜蘆醇、益生菌
+Past Medical History: ALS
+Hospitalization:入院日期:2016_06_11 出院日期:2016_06_16 診斷:Neuropathy
+
+
+Past Surgical History:nil
+Travel History:nil 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:碩士
+職業:退休
+宗教信仰:無
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:不清楚，RH:不清楚，輸血反應:
+抽煙:沒有，已戒煙:20年
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Fall Risk Assessment
+總分:6
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-), fever(-)
+2.Skin: petechiae(-), purpurae(-), skin rash(-), itching(-), dryness(-)
+3.HEENT: headache(-), dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-), oral ulcer(-)
+4.Cardiovascular: exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-), syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea (-), cough(-), chest pain(-), hemoptysis(-), productive cough(-), pleuritic chest pain(-)
+6.GI: anorexia(-), poor appetite(-), nausea(-), vomiting(-), dysphagia(-), heart burn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), frequency(-), urgency(-), dysuria(-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-), back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (+, for 2 years) 
+身體檢查(Physical Examination) 
+BH: 162 cm,  BW: 64.3 kg,
+T: 36.8 °C,  P: 89 bpm,  R: 15 /min,
+BP: 152 / 95 mmHg,
+Pain score:  4, sorethroat
+
+
+General appearance: fair
+Consciousness: clear and alert, oriented
+HEENT：grossly normal, intubated, not anemic conjunctivae, anicteric sclerae
+Neck：supple, no jugular vein engorgement
+Chest：symmetric expansion, shallow breath, bilaterally coarse, no crackles
+Heart：regular heart beat without audible murmur
+Abdomen：soft and flat, normactive bowel sounds, no tenderness
+Extremities: no edema, no limited range of motion
+Skin: normal skin turgor. Two bullae in the medial left thigh
+
+[Neurological Examination]
+E4M6Vt, clear and alert
+Cranial nerve：
+CNII： Visual acuity：normal, Visual field：intact by confrontation test
+       Light reflex: +/+ 
+CNIII，IV&VI： EOM：full and free, Ptosis:(-/-), Diplopia (-)
+CNV： Sensory：symmetric intact, Motor：mastication：good
+CNVII：no facial palsy
+CNVIII：hearing: intact
+
+
+Motor Inspection: Muscle wasting(+), fasciculation(+) 
+Muscle tone: spasticity(-), rigidity(-), flaccid (+)
+Muscle power
+RUL 1, RLL 1
+LUL 1-2, LLL 1-2
+
+DTR：
+  Right: -
+  Left: +++ (under the circumstances of weakness)
+  Jaw jerk +++
+  Pectoris major -
+  
+Hoffmann +/+
+Babinski sign: flexor/flexor
+Sensory：intact 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060706 [1317] 13.04         4.89          15.1          43.5          89.0         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060706 [1317] 30.9          34.7          335           14.4          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060706 [1317] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060706 [1317] 82.1          0.8           0.2           4.1           12.8         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060706 [1317] 0.0           0.0           0             -            
+群組:Coagulation
+
+               PT            aPTT          PT INR       
+time/item      (sec)         (sec)         ()           
+1060706 [1317] 10.2          25.8          0.94         
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Cl           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1060706 [1317] 15.0          0.4           138           3.6           103          
+1060706 [1323]                                                                      
+               T-BIL         Lipase        Ca            Mg           
+time/item      (mg/dL)       (U/L)         (mmol/L)      (mmol/L)     
+1060706 [1317] 0.44                        2.35          0.98         
+1060706 [1323]               35                                       
+群組:General BioChemistry
+
+               ALB           ALT           ALP          
+time/item      (g/dL)        (U/L)         (U/L)        
+1060706 [1317] 3.6           42                         
+1060706 [1323]                             128          
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060706 [1317] 7.466         31.8          111.8         23.1          -0.9         
+群組:Yes
+
+               hsCRP        
+time/item      (mg/dL)      
+1060706 [1323] 2.11         
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1060706 [1317] 231.7        
+*********檢驗室:OP***********
+
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH            Protein(C)    Glu.(C)       Ketone(Urine 
+                                                                    )            
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1060706 [1317] 1.017         7.0           20 ( +/- )    -             -            
+               O.B.(C)(Urin  Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+               e)                                                       (Urine)     
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1060706 [1317] 1+            ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1060706 [1317] Light Yellow  -                          
+群組:SEDIMENT
+
+               RBC (S)       WBC (S)       Epith (S)     Cast (S)      Crystal (S)  
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1060706 [1317] 35-50         2-5           2-5           -             -            
+               Bacteria      Mucus(S)      Others (S)   
+time/item      (*)           (*)           (*)          
+1060706 [1317] +             -             -            
+
+*********檢驗室:B3***********
+B3-1060706-6062262   SPUTUM (EXPECTORATED)
+     Gram's(GS)#1:       PMNs ( >25 /LPF )
+     Gram's(GS)#2:       Epithelial cells ( >25 /LPF )
+     Gram's(GS)#3:       Gram (-) rods 1+
+     Gram's(GS)#4:       Gram (+) cocci in chains 1+
+     Gram's(GS)#5:       痰檢體品質不良建議重新送檢
+
+
+Infection 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+nil 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1) Right lower pneumonia, with respiratory failure and shock, status post ETT+MV (6/25-), being treated with Piperacillin/tazobactam and then cefepime (7/6-)
+2) amyotrophic lateral sclerosis (ALS), with onset in 2015, diagnosed in 2016
+3) hypertension (HTN) 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+1) Right lower pneumonia, with respiratory failure and shock, status post ETT+MV (6/25-), being treated with Piperacillin/tazobactam and then cefepime (7/6-)
+2) amyotrophic lateral sclerosis (ALS), with onset in 2015, diagnosed in 2016
+3) hypertension (HTN)
+
+S/O:
+Clear and alert
+E4M6VT, CPAP
+Chest：symmetric expansion, shallow breath, bilaterally coarse, no crackles
+
+CXR: Poor expension. RLL infiltration
+
+A/P:
+1) For RLL pneumonia
+   Piperacillin/tazobactam -> cefepime (7/6-)
+   Postpone weaning
+2) PEG creation later? 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右腹股溝 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.5mm 
+胃造廔口：無  
+尿管留置：有 Two way Foley 16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：10
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：自己 配偶 女兒 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+ALS, for 2 years, with dysphagia for 2 months (soft diet and need careful intake, rare choking was stated by family).
+Pneumonia with respiratory failure on 6/25 with intubation, s/p Tazocin treatment at 耕莘H.
+Transfer to our ICU for weaning difficulty.
+
+Fever was noted after transferred to our ICU, due to pneumonia at right middle lobe.
+Tetraplegia (MP=1), atrophy, hyporeflexia (UE -/+, LE -/-), increased jaw jerk, preserved EOM.
+
+Fasciculation was obvious under Trileptal 1#-0.5#.
+
+P: 
+1. Maxipine for pneumonia after septic work up.
+2. Increase Trileptal to 1# bid.
+3. Weaning ventilator 
+醫師姓名 
+葉馨喬 主治醫師 

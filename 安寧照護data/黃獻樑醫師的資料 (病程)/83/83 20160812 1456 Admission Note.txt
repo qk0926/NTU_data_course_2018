@@ -1,0 +1,313 @@
+2016/08/12 14:56 
+主訴(Chief Complaint) 
+Informant:Patient
+Abdominal fullness for 2 months 
+病史(Brief History) 
+This 57-year-old male had history of hypertension under medication follow up at 汐止國泰 hospital. He complained of progressive abdominal fullness since 2 weeks ago without tenderness. At first, he thought it as "stomach or colon problem" and went to 汐止國泰 for help, where upper GI endoscopy and colon fiberoscopy was done, but no specific findings. Then abdominal sono was arranged, and showed huge pancreatic had mass with huge amount of ascites. Paracentesis was done and lymphoma was suspected and he was transferred to NTUH for further treatment. HTLV-I screening showed positive, with LDH over 3000 at arrival to ER. Hypercalcemia was also noted. Betamethasone was given for decrease of tumor burden with adequate hydration, paracentesis was also done and showed blast in ascites. Therefore, under tentative diagnosis of ATLL, he was admitted for further evaluation and treatment.
+
+Family History:
+Medication Allergy:No  病人自述 2016/08/12
+UnClear  病人自述 2016/08/09
+No  病人自述 2016/08/10
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  病人自述 2016/08/12
+No  病人自述 2016/08/10
+Current Medication:
+NTUH:新 針 Transamin Inj 250 mg/5 mL /amp 1000 mg Q8H IF 5 days
+(管4) 針 Tramal Inj 100 mg/2 mL /amp 100 mg Q6HPRN IF 4 days
+針 Pantoloc Inj 40 mg/vial 40 mg QD IV 4 days
+Rolikan 16.6 mEq/20 mL /amp 49.8 mEq QD IF 4 days
+Miacalcic Inj 100 IU/1 mL /amp 500 IU Q6H IF 4 days
+Feburic 80 mg/tab 0.5 tab QD PO 3 days
+Rinderon Inj 4 mg/1 mL /amp 32 mg QD IF 4 days
+Flumarin 1000 mg/vial 1000 mg Q8H IV 4 days
+Diphenhydramine HCl 30 mg/1 mL /amp 30 mg ONCE IF 1 days
+Kalimate 5 g/pack 3 pack TID PO 2 days
+Fasturtec 1.5 mg/vial 9 mg STAT IF 1 days
+Rasitol Inj 20 mg/2 mL /amp 20 mg QD IV 3 days
+警 Vitagen 50% 20 mL/amp 40 mL STAT IV 1 days
+Fasturtec 1.5 mg/vial 7.5 mg STAT IF 1 days
+警 Humulin R 1000 U/10 mL /vial 8 U STAT IV 1 days
+Katimin-1 (VIT.K1) 10 mg/1 mL /amp 5 mg STAT IF 1 days
+(PPN) Aminofluid 1000 mL/bag 1000 mL QD IF 2 days
+Other:
+中草藥:nil
+保健食品:nil
+Past Medical History:HTN
+Hospitalization:nil
+
+Past Surgical History:nil
+Travel History:nil
+
+Birth History(for pediatric patients):
+Vaccination History:
+Growth and Development History:
+Maternal History(2y/o): 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:高中
+職業:工
+宗教信仰:道教
+婚姻狀態:已婚
+使用語言:國語 客家語 
+口述血型:O，RH:不清楚，輸血反應:無
+抽煙:有，煙齡:30年，10支/天
+
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:警醒
+認知功能:正常 
+精神情緒狀態:異常 倦怠 焦慮 
+安全問題:有 其他 fall down
+睡眠形態:異常 入睡困難 淺、易醒 
+
+Nutritional Screen
+攝食情形:
+排便狀態:異常
+排便異常狀態:便秘
+BMI:26.81 
+系統性回顧(Review of System) 
+□Consciousness Change  □Focal Weakness  □Diplopia  □Dizzinss / Vertigo  □Headache  □Choking  
+  □Cough  □Sputum  □Short of breath  □Chest tightness/Chest pain  
+  VAbdominal Pain  VAbdominal distension  □Nausea/Vomiting  □Diarrhea  
+  □Constipation  □Tarry/Bloody Stool  
+  □Edema  □Pain over Extremities  □Skin rash  □Wound  □管路  
+  □以上皆無 
+身體檢查(Physical Examination) 
+BH: 165 cm,  BW: 73 kg,
+T:  °C,  P:  bpm,  R:  /min,
+BP:  /  mmHg,
+Pain score: 0 ,
+
+Neurological Examination: 
+. Consciousness: 
+. Muscle power: 
+. Gait:
+
+Abdominal fullness, distention 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050809 [1855] 102          
+1050810 [1750] 124          
+1050810 [2347] 117          
+1050811 [0520] 119          
+1050811 [1052] 147          
+1050811 [1818] 127          
+1050811 [2242] 121          
+1050812 [0451] 124          
+1050812 [1107] 109          
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               BUN           CRE           Na            K             T-BIL        
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)      
+1050809 [1857]               0.9           119           >10.0                      
+1050809 [2001]                                           5.3                        
+1050810 [0419]                                                                      
+1050810 [0625]                                           5.3                        
+1050810 [2006] 62.3          0.9           128           5.1           1.40         
+1050811 [0522] 61.6          0.8                         5.4                        
+1050811 [1814]                             131           5.1                        
+1050812 [0452]                             135           5.0                        
+               Ca            P             AST           LacticAcid    CK           
+time/item      (mmol/L)      (mg/dL)       (U/L)         (mmol/L)      (U/L)        
+1050809 [1857] 3.15                                                                 
+1050809 [2001] 3.39                                                                 
+1050810 [0419] 3.27                                                                 
+1050810 [0625]                                                                      
+1050810 [2006] 2.90                        37            6.47          39           
+1050811 [0522] 2.88                        41            5.37          31           
+1050811 [1814]               1.4                                                    
+1050812 [0452] 2.85          1.3                                                    
+群組:General BioChemistry
+
+               TP            UA            ALB           ALT           ALP          
+time/item      (g/dL)        (mg/dL)       (g/dL)        (U/L)         (U/L)        
+1050809 [1857]                                           45                         
+1050809 [2105]                             3.8                                      
+1050810 [2006] 5.3           10.5                        38            118          
+1050811 [0522]                                           41                         
+1050811 [1459]                             1.5                                      
+1050811 [1814]               <1.5                                                   
+1050812 [0452]               <1.5                                                   
+               LDH          
+time/item      (U/L)        
+1050809 [1857] 2032         
+1050809 [2105]              
+1050810 [2006]              
+1050811 [0522]              
+1050811 [1459]              
+1050811 [1814] 685          
+1050812 [0452] 784          
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1050809 [1857] 92.4         
+1050810 [2006] 92.4         
+1050811 [0522] 105.9        
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050809 [1857] 0.0           0.0           0.0           0.0           1.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050809 [1857] 89.0          0.0           0.0           4.0           5.0          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050809 [1857] 1.0           0.0           0.0 /100 WBC  WBC 100                    
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050809 [1857] 17.90         5.29          13.2          40.4          76.4         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050809 [1857] 25.0          32.7          434           16.3          -            
+群組:Yes
+
+               Fibrinogen   
+time/item      (mg/dL)      
+1050810 [2006] 232.0        
+1050811 [0522] 245.5        
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050811 [0522] 7.388         29.6          74.7          18.0          -7.2         
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1050810 [2006] 19.2          33.2          1.79         
+1050811 [0522] 17.4          31.5          1.59         
+1050811 [1029] 18.5          30.8          1.72         
+群組:STAIN
+
+               Gram's(GS)#1  Gram's(GS)#2                             
+time/item      (*)           (*)          
+1050811 [1459] Few PMNs(<10  No bact. vis 
+               /LPF)         ible         
+群組:Punctate Exam.
+
+               Sp. gr.       Rivalta's Te  Total nuclea  RBC count     Sediment-Eos 
+                             st            r cell count                in           
+                                          (TNC)                                    
+time/item      (*)           (*)           (/μL)         (/μL)         (%)          
+1050811 [1459] 1.021         +             3256          3000          N/A          
+               Sediment-Lym  Sediment-M&H  Sediment-Neu  Sediment-Not                                           
+                                                       e            
+time/item      (%)           (%)           (%)           (*)          
+1050811 [1459] N/A           N/A           N/A           Abnormal cel 
+                                                       ls. Refer to 
+                                                        cytology. 建 
+                                                       議另行開立檢驗與採檢送細 
+                                                       胞室           
+群組:STOOL
+
+               Occult Blood               
+time/item      (*)          
+1050809 [2042] 4+           
+*********檢驗室:SF***********
+
+群組:Yes
+
+               Anti-HBc      Anti-HBs      Anti-HCV Ab   HBsAg         HTLV I + II  
+                                                                    Antibody     
+time/item      (*)           (mIU/mL)      (*)           (IU/mL)       (*)          
+1050810 [2006] Positive                    Negative      Negative(0.0  Positive     
+                                                       2)                         
+1050811 [0522] Positive      Positive(46.  Negative      Negative(0.0  Positive     
+                             23)                         2)                         
+群組:
+
+               HIV Ag/Ab Co 
+               mbo -for scr 
+               eening test  
+time/item      (*)          
+1050810 [2006] Negative     
+1050811 [0522] Negative     
+*********檢驗室:BC***********
+
+群組:Hormones
+
+               iPTH         
+time/item      (pg/mL)      
+1050810 [2006] <3.50        
+群組:General BioChemistry
+
+               K(U)         
+time/item      (mmol/L)     
+1050811 [1616] 26.3         
+群組:Others
+
+               Osmolality(U 
+               )            
+time/item      (mOsm/Kg)    
+1050811 [1616] 692          
+*********檢驗室:HR***********
+
+群組:CSF Cytology
+
+               Blast         Lymph         Mono          PMN           RBC          
+time/item      ()            ()            ()            ()            ()           
+1050811 [1459] Abnormal lym  (+++)         (+)           (++)          (++)         
+               phoid cells(                                                         
+               ++++)                                                                
+               Other        
+time/item      ()           
+1050811 [1459] Mesothelial  
+               cells(+)     
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1050809 [1857] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1050809 [1857] O             Positive 
+檢查紀錄(Examination Report) 
+Nil 
+影像報告(Imaging Report) 
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 陳世杰 影像時間: 2016/08/09 19:28 (32001CXM) 發報告時間: 2016/08/09 22:37 mild increased bilateral lung markings, normal heart size  shadow , we change pnotos. suggest follow & correlated with clinical manifestation.
+Abdomen:KUB 醫令: Abdomen:KUB 報告醫師: 陳世杰 影像時間: 2016/08/09 19:28 (32006C0M) 發報告時間: 2016/08/09 22:27 much fecal material is noted in the bowel. minimal spondylosis and degenerative changes with marginal spurs are noted, of the L-spine. suggest correlated with clinical manifestation. 
+病理報告(Pathology Report) 
+L1600822
+ S1632213 
+臆斷(Tentative Diagnosis) 
+1. Acute T-cell lymphoma-leukemia, with pancreatic mass and cancerous ascites, SMA total obstruction by tumor
+2. Hypertension
+3. Hypercalcemia, suspect PTHrP related
+4. Hypoalbunemia, suspect ascites related 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*
+Start chemotherapy
+Fluid supplement
+Monitor calcium level and vital signs
+
+
+Treatment Goal: To relief symptoms 
+出院規劃(Discharge Planning) 
+After treatment completes, then discuss with family about further treatment. 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the intern.
+ATLL, lymphomatous type.  Start chemotherapy today. 
+醫師姓名 
+周文堅 主治醫師 

@@ -1,0 +1,92 @@
+Brief Summary of this week    
+Please refer to Summary and Treatment course note 
+
+
+Assessment 
+[Abx]
+Brosym       (01/12-) MDRAB bacteremia
+Colistin     (01/10-) for MDRAB
+-----------------------------------------------------
+Unasyn (12/24)
+Zithromax (12/24-26)
+Tamiflu (12/24-12/29)
+Meropenem (12/28-12/28)
+Ceftazidime (12/28-12/30)
+Cravit (12/24-01/05)     Discontinued due to lack of evidence
+Targocid (12/30-01/05)   Discontinued due to lack of evidence
+Diflucan 1/2-01/05 for CRBSI, suspect Candidiasis
+                         Discontinued due to lack of evidence
+Fluconazole (01/06-01/09)
+Meroepnem (12/30-01/09)  Dr.莊祐中 suggested replace with Levofloxacin for persisited fever
+Levofloxacin (01/09-01/12) for still fever under Mepem
+ 
+[Cultures]
+12/26 S/S (poor Q): GPC in chains 3+
+Flu rapid test -, Legionella Ag -, sputum Chlamydiae Ag -, Mycoplasma IgM -
+12/28 B/C: No growth
+      B/C: No growth (CVC)
+      B/C: No growth (Port-A)
+      S/C: G(-) rods 1+
+      U/C: neg.
+12/30 BAL: Ralstonia mannitolilytica (few); Candida albicans 
+12/30 bronchial wash:Aspergillus Ag NEGATIVE  
+01/03 CVC tip culture:neg.
+01/06 B/C*2:
+      F/C:
+      S/C:Acinetobacter baumannii MDRAB
+      U/C:No aerobic pathogen 
+01/10 B/C*2: MDRAB (A-line + peri10746pheral)
+01/13 CSF: no bacteria visible
+
+[O2]
+PC/AC frequency 16, IP 18, PEEP 12 FiO2 100%
+RR 18-40 TV 298-700 MV 15.5
+
+[Infusion]
+Levophed 10->8 ->3-> off (1/1)-> 2(1/2)-> 8(01/03)->10 (01/04) -> off (01/05)
+1/13 low dose Levophed for flactuating BP
+01/14 Levophed increased to 20mL/hr (16mg/250)
+
+[Studies]
+12/24 CT:Bilateral pneumonia.
+12/30 BAL: 1.Few whitish sputum over right lower lung. 2. Much purulent sputum over LUD.
+12/30 Brain CT: atrophy
+1/1 CXR: bil lobar opacities, pleural effusion, lung edema
+Alb=1.7 g/dL
+1/4 Alb=2.6
+01/05 FEUN 40%
+01/06 CT: bialateral pneumonia with fibrosis and severe calcification; Brain CT revealed no hemorrhage
+01/10 no response to Flumazenil test
+01/12 CT: bilateral lower lung lesions; no significant findings in abdomen and pelvis.
+01/13 lumbar puncture: WBC 0, GLU 137; TP 49.3; IgG <0.34
+ 
+[Consultation]
+01/12 Rheumatologist: suggested keep infection under control, check anti-CCP, electrophoresis, Plaquenil 1# QD
+
+[Family decision]
+01/02 agreed albumin infusion for correction of hypoalbuminemia and hypotension
+01/04 Verbally expressed DNR (不壓不電), considering for HD
+01/06 Signed permits for hemodialysis.
+      Hesitated with tracheostomy, cannot decide on DNR
+      (May requested family meeting again)
+01/07 明確未來不氣切
+01/10 agreed with trying Flumazenil
+01/11 agreed doing lumbar puncture
+01/14 Signed DNR
+
+Plan 
+1. for pneumonia, and MDRAB bacteremia
+ - Keep Brosym and colistin for MDRAB infection
+ - tapper steroid for ARDS and/or organizing pneumonia
+2. for Afib with PPM 
+ - hold apixaban, cordarone, keep rytnomorm
+3. for AKI
+  - Watch out worsening renal function: prerenal pattern, sepsis, hypotension,
+  - monitor urine output closely, and start RRT if u/o decreased
+  - adjust enteral feeding as tolerated
+4.For conscious prolonged disturbances
+ - pursue lab data
+ - since lumbar puncture revealed no active problem, consider brain MRI and EEG
+5. For Autoimmune profile abnormalities
+ - do as rheumatologist's advice
+6. DNR signed, keep treatment for MDRAB, if still no response, consult palliative combine care team, and perhaps withdraw from treatment

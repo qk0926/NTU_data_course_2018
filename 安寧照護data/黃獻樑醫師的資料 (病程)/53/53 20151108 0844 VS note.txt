@@ -1,0 +1,8 @@
+ECMO flow 2.0L/min
+consiousness drowsy
+
+CXR: lung edema, under CAVH
+
+tube: ECMO (L femoral, IABP RFA, CVC left neck, ETT)
+
+pending further revascularization

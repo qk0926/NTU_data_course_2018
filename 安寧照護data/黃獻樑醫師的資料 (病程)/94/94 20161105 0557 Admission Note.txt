@@ -1,0 +1,392 @@
+2016/11/05 05:57 
+主訴(Chief Complaint) 
+Informant: the family and the medical record
+Massive oral tumor bleeding noted at the morning on 2016/11/05 
+病史(Brief History) 
+【Present Illness】
+This 68-year-old female patient had previous history of:
+1. Tongue cancer, pT2N0Mx, status post partial glossectomy and selective left neck dissection, with right neck lymph node recurrence, status post right neck lymph node dissection on 2015/03/09 and 2015/07/01, status post cisplatin (VII)- CCRT {RT:66Gy/33Fr, 2015/8/5-2015/9/18}, recurrence with metastatic lesion in right masticator space, status post Avastin+Cisplatin+5-FU(I~VI, 2016/4/25~ 2016/9/10),status post Avastin+carboplatin+5-FU(I, 2016/10/8) .
+2.Aspiration pneumonia 
+3.Pre-renal azotemia and acute kidney injury, suspect dehydration related or drug related. 
+
+Her last admission was during 2016/10/8-2016/10/14 for receiving palliative chemotherapy. She suffered from right mandible pain with shooting sensation after discharge and took oral Morphine for symptom relief. On 2016/11/01, intermittent oral tumor bleeding and progressed facial pain were noted and she came to our ER for twice on the same day. ENT specialist was consulted and orl tumor with necrotic tissue was noted. Surgicel packing was given. Inhaled bosmin and intravenous transamine were administered. The bleeding subsided. Oncologist was consulted. The risk of recurrent tumor bleeding was informed to the patient and the family. The patient refused elective tracheostomy for airway protection. Under relatively stable condition, she was discharged with oral transamine.
+
+About 6 am on 2016/11/4, she woke up this morning and found her shirt was stained with large amount of blood. She called her family for help and massive oral bleeding developed when she trying the got up the bed. Consciousness change was noted then. She was took to our ER by the ambulance. On arriving our ER at 7:06 am, she was comatous with E1M1V1. The blood pressure was undetectable with Pulse Rate: 109/min, Respiratory Rate: 18/min, Temperature: 37℃, SPO2: 100%. She was found cardiac arrest at 07:16. CPCR was given for 8 minutes and ROSR achieved. Endotrachial intubation was performed. Her blood pressure stabilized under inotopics and component therapy. Oral tumor bleeding subsided. Seizure was noted and AED with Keppra was given. The whlole body CT was arranged and showed a large recurrent mass at right masticator space with skull base and intracranial invasion with evidence of tumor necrosis. No ICH was noted. She was admitted for MICU for further treatment.
+
+【Past Medical History】
+1. Medical history: 
+   HTN(-), DM(-), CAD(-), HBV(-)/HCV(-)2015/7/29 checked. 
+2. Allergy: 
+   Medication Allergy:No  親屬描述 2016/11/04
+   Medication ADR:unknown
+   Allergy to Medical Device and Materials:No  親屬描述 2016/11/04
+3. Surgical history:  
+   2014_09_05 Incisional biopsy of tongue tumor, left
+   2014_09_24 Partial glossectomy and selective neck dissection, left, level I-V
+   2015_03_09 Supraomohyoid neck dissection, right
+   2015_07_01 Right Selective neck dissection (level 1,2)
+4. TOCC:  
+   T:travel history：nil
+   O:occupation    ：housewife before
+   C:contact       ：nil
+   C:cluster       ：nil
+5. Medications:
+   NTUH:
+   Augmentin 1 g/tab 1 tab BID PO 3 days
+   Transamin 250 mg/cap 1 cap TID PO 3 days
+   (管1) 液(60mL/瓶) Morphine Sulfate Oral Soln 2 mg/1 mL 60 mL/btl 5 mL Q4HPRN PO 3 days   
+   警 Adrenaline 1 mg/1 mL /amp 4 mg STAT IV 1 days
+   新 針 Transamin Inj 250 mg/5 mL /amp 1000 mg STAT IF 1 days
+   新 針 Transamin Inj 250 mg/5 mL /amp 1000 mg Q8H IF 2 days  
+   警 Levophed 4 mg/4 mL /amp 8 mg QD cIF 1 days
+   警 Levophed 4 mg/4 mL /amp 8 mg QD cIF(CVC) 2 days
+   TAZOCIN (based on piperacillin content) 2000 mg/vial 3000 mg Q6H IF 2 days
+   TAZOCIN (based on piperacillin content) 2000 mg/vial 4000 mg STAT IF 1 days
+   TAZOCIN (based on piperacillin content) 2000 mg/vial 4000 mg Q6H IF 2 days
+   TAZOCIN (based on piperacillin content) 2000 mg/vial 3000 mg STAT IF 1 days
+   針 Keppra concentrate for solution for infusion 500 mg/5 mL /vial 500 mg STAT IF 1 days
+   針 Nexium for inj 40 mg/vial 40 mg QD IV 2 days
+   針 Nexium for inj 40 mg/vial 40 mg STAT IV 1 days
+   針 Keppra concentrate for solution for infusion 500 mg/5 mL /vial 500 mg Q12H IF 2 days
+   (5g) 眼 Tetracycline Oph Oint 10 mg/1 g 1% 5 g/tube 1 XX PRN OU 2 days
+   Other: denied
+   中草藥: denied
+   保健食品: denied
+6. Hospitalization:
+   入院日期:2016_10_06 出院日期:2016_10_14 診斷:Oral cancer
+   入院日期:2016_09_09 出院日期:2016_09_13 診斷:Oral cancer
+   入院日期:2016_08_12 出院日期:2016_08_16 診斷:Oral cancer
+   入院日期:2016_07_04 出院日期:2016_07_07 診斷:Oral cancer
+   入院日期:2016_06_07 出院日期:2016_06_10 診斷:Oral cancer
+   入院日期:2016_05_16 出院日期:2016_05_20 診斷:Oral cancer
+   入院日期:2016_04_25 出院日期:2016_04_28 診斷:Oral cancer
+   入院日期:2015_08_25 出院日期:2015_09_20 診斷:Oral cancer
+   入院日期:2015_06_30 出院日期:2015_07_04 診斷:Oral cancer
+   入院日期:2015_03_08 出院日期:2015_03_13 診斷:Oral cancer
+
+
+【Personal and Family History】
+1. Financial status: stable.
+2. Support system: good.
+3. Life style:
+   (1) Smoking: denied
+   (2) Alcohol consumption: denied 
+   (3) Betel nut chewing: denied.
+4.  Family history: no family history of malignancy
+5.  Blood type: A
+6.  Marital status: Married. 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:小學
+職業:家管
+宗教信仰:道教
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:A，RH:RH+，輸血反應:無
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Fall Risk Assessment
+總分:13
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+系統性回顧(Review of System) (■:positive, □:negative)
+1.Systemic: □fever, □chills, □easy-fatigability, □consciousness disturbance
+            □weight change, □night sweats, □heat/cold intolerance, □thirsty
+            □diffuse arthralgias/myalgias, □insomnia
+2.Skin: □rash, □pruritis, □dryness, □ulcers, □color changes, □moles, □plaque
+        □hair loss, □hirsutism, □telangiectasia □petechiae, □purpura
+3.Head: □headache, □dizziness, □vertigo, □alopecia, □head trauma 
+4.Eyes: □ocular pain, □diplopia, □vision loss, □blurred vision, □redness, 
+        □photophobia, □excess tearing 
+        □poor visual acuity, □cataracts, □glaucoma
+5.Ears/Nose: □otalgia, □otorrhea, □hearing impairment, □tinnitus, 
+             □sinus pain, □nasal congestion, □rhinorrhea, □epistaxis, □anosmia
+6.Mouth/Throat: ■oral bleeding, □gum bleeding, □dental problems
+                □sore throat, □dysphagia, □odynophagia, □hoarseness
+7.Cardio-Respiratory: □cough, □sputum, □dyspnea:at rest/exertional, 
+                      □pleuritic pain, □tachypnea, □hemoptysis, □chest tightness,
+                      □orthopnea, □paroxysmal nocturnal dyspnea, □syncope,
+                      □palpitation, □intermittent claudication
+8.Gastrointestinal: □anorexia, □nausea, □vomiting:bilious/feculent, □hematemesis  
+                    □heartburn, □acid regurgitation, □belching, □hiccup
+                    □abdominal pain:______, □hunger pain, 
+                    □diarrhea, □constipation, □melena, □clay-colored stool
+                    □change of bowel habit, □tenesmus, □flatulence
+9.Genito-urinary: □urinary frequency, □urgency, □dysuria, □hesitancy,
+                  □incontinence, □nocturia, □polyuria, □oliguria 
+                  □small stream of urine, □cloudy urine, □hematuria,
+                  □flank pain, □impotence, □abnormal sexual exposure
+10.Musculoskeletal: □bone pain, □arthralgia, □myalgia, □back pain
+                    □joint stiffness, □cramps, □fractures
+11.Neurological: ■ coma □numbness, □paresis/plegia, □convulsion, □paresthesia, □ataxia, 
+                 □resting tremor, □gait disturbance,  
+12.Psychiatric: □insomnia, □memory loss, □anxiety, □panic, □confusion
+                □hallucination, □delusion, □suicidality 
+身體檢查(Physical Examination) 
+BH: 152 cm,  BW: 35 kg,
+T: 37.5 °C,  P: 81 bpm,  R: 14 /min,
+BP: 112 / 56 mmHg,
+Pain score: 0,
+
+Trachea tube(+), NG(+), Foley(+), DLC(+), A-line(+)
+
+Neurological Examination:
+. Consciousness: comatous, E1M1V1
+. Muscle power: RUL/LUL: 3/3, RLL/LLL: 3/3 to pain
+. Gait: not performed
+
+‧Head-Eye-ENT
+      Conjunctiva: pink; Sclera: anicteric; 
+      Pupil: isocoric(3mm/3mm); reflex (-/-)
+‧Neck
+      Oral tumor (+) Jugular vein engorgement(-); Lymphadenopathy (-); goiter(-)
+      Meningismus: Kernig sign(-); Brudzinski sign(-); Carotid bruit(-)
+‧Chest
+      Thoracic cage contour: symmetric,  no deformity nor distension 
+                             no increased anterior-posterior (AP) diameter
+      Vocal fremitus and expansion: symmetric
+      Percussion: normo-resonant
+      Auscultation: Crackles(-) wheezes(-) rhonchi(-) stridor(-)
+‧Heart
+      LV lift(-) RV heave(-)
+      Increased cardiac size by percussion(-)
+      Heart beat: regular
+      Adventitious sounds (-); Murmurs(-)
+‧Abdomen
+      Flat & soft. no rebound tenderness, no muscle guarding
+      Superficial vein engorgement(-) Protruded umbilicus(-)
+      Bowel sound: normo-active
+      Tenderness(-) Hepato-jugular reflux(-)
+      Liver and spleen: impalpable
+      Liver span: 10 cm
+‧Extremities: 
+      Freely movable, pitting edema (-)
+      Peripheral pulse:
+      Carotid a.(++/++), Brachial a.(++/++), Radial a.(++/++), 
+      Femoral a.(++/++), Popliteal a.(++/++), Posteral tibial a.(++/++), Dorsalis pedis a.(++/++)
+‧Skin
+      Abnormal pigmentation(-) Petechiae(-) Purpura(-) Ecchymoses(-)       
+      Telangiectasia(-) Rash(-) Plaque(-) Wound(-) Ulceration(-) Crust(-)
+‧lymphadenopathy: neck(-), axilla(-), epitrochlear(-), inguinal(-) 
+檢驗紀錄(Laboratory Report) 
+PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1051104 [1513] 7.531         25.7          311.5         21.7          -1.2         
+               BUN           CRE           Na            K             Cl           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1051104 [1513] 23.0          1.2           129           3.2           93           
+               Ammonia N     T-BIL         Ca            Mg            P            
+time/item      (μmol/L)      (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)      
+1051104 [1513] 45            1.10          2.21          0.73          3.0          
+               LacticAcid   
+time/item      (mmol/L)     
+1051104 [1513] 2.43         
+               ALB           ALT           LDH          
+time/item      (g/dL)        (U/L)         (U/L)        
+1051104 [1513] 2.5           112           645          
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1051104 [1513] 19.69         4.17          11.7          34.3          82.3         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1051104 [1513] 28.1          34.1          66 (Manual c  17.0          -            
+                                          hecked)                                  
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1051104 [1513] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1051104 [1513] 95.2          0.0           0.1           2.9           1.8          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1051104 [1513] 0.0           0.0           0             僅供參考         
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1051104 [1513] 11.9          29.1          1.10         
+               hsCRP        
+time/item      (mg/dL)      
+1051104 [1513] 15.80        
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1051021 [1328] 6.09          2.91          9.1           26.6          91.4         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1051021 [1328] 31.3          34.2          140           14.4          -            
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1051104 [0734] 8.01          1.41          4.6 Hb與前次結果差  13.8          97.9         
+                                          異過大, 請臨床醫師依臨                             
+                                          床狀況評估後決定是否再檢                                           
+1051104 [1308] 21.50         4.30          12.2 Hb與前次結果  36.0          83.7         
+                                          差異過大, 請臨床醫師依                             
+                                          臨床狀況評估後決定是否再                             
+                                          檢                                        
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1051104 [0734] 32.6          33.3          102           16.7          -            
+1051104 [1308] 28.4          33.9          107           17.3          -            
+               Troponin-T    eGFR          CK-MB         Mucus(S)     
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)       (*)          
+                              m^2)                                    
+1051104 [0734] 31.77         52.5          0.821                      
+1051104 [1359]                                           -            
+               BUN           CRE           Na            K             Ammonia N    
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)     
+1051104 [0734] 17.3          1.1           126           4.2           46           
+               Ca            LacticAcid    CK           
+time/item      (mmol/L)      (mmol/L)      (U/L)        
+1051104 [0734] 2.56          11.67         11           
+群組:Yes
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1051104 [0717] 7.303         41.6          41.3          20.8          -5.9         
+1051104 [0726] 7.156         46.3          329.9         16.5          -12.5 
+檢查紀錄(Examination Report) 
+Nil 
+影像報告(Imaging Report) 
+CT Without Contrast-Brain 醫令: CT Without Contrast-Brain 報告醫師: 陳雅芳 影像時間: 2016/11/04 08:47 (33070B0M) 發報告時間: 2016/11/04 10:35 Hx: 2014/09 Tongue WD-SqCC s/p OP, pT2N0, margin(-), LVI(-), PNI(-) 2015/01 Recurrence over Rt neck-> CNB: SqCC; Rt SOHND: Neg
+2015/07/01 Recurrence over Rt neck s/p SND, Metastatic WD-SqCC, LVI(+), PNI(+). LN (+,3/4), ECE (+). margin close (<0.1 cm Rt cervical soft tissue), 2015/08/05~09/18 CCRT with weekly cisplatin(VII), RT: 6600cGy/33fx. with metastatic lesion in right masticator space, rT4bN0 2016/04/25~09/10 Avastin+PF(I~VI). 
+
+Brain CT without contrast enhancement and neck CT without/with contrast enhancement show:
+> No intracranial hemorrhage or focal density change in the brain  
+> Normal sized sulci, fissures and ventricles
+> A large heterogeneous density mass with bone destruction involving right masticator space, right mandible, posterior maxillary sinus, right zygomatic arch, lateral orbital cavity, pterygopalatine fossa, orbital apex, cavernous sinus, frontal and temporal skull  and dura matter. 
+> Foci of necrosis, air pockets and some calcified spots in right masticator mass 
+> irregularity with distal amputation of right internal maxillary artery within the mass
+> No abnormally enlarged lymph nodes at bilateral neck.
+> s/p endotracheal tube insertion. s/p nasogastic tube insertion. 
+> Mucous retention in right side sinuses and right mastoid effusion
+CT With/Without Contrast-Head and Neck(Skull Base to Clavicle) 醫令: CT With/Without Contrast-Head and Neck(Skull Base to Clavicle) 報告醫師: 陳雅芳 影像時間: 2016/11/04 08:47 (33072B1M) 發報告時間: 2016/11/04 10:35 Hx: 2014/09 Tongue WD-SqCC s/p OP, pT2N0, margin(-), LVI(-), PNI(-) 2015/01 Recurrence over Rt neck-> CNB: SqCC; Rt SOHND: Neg
+2015/07/01 Recurrence over Rt neck s/p SND, Metastatic WD-SqCC, LVI(+), PNI(+). LN (+,3/4), ECE (+). margin close (<0.1 cm Rt cervical soft tissue), 2015/08/05~09/18 CCRT with weekly cisplatin(VII), RT: 6600cGy/33fx. with metastatic lesion in right masticator space, rT4bN0 2016/04/25~09/10 Avastin+PF(I~VI). 
+
+Brain CT without contrast enhancement and neck CT without/with contrast enhancement show:
+> No intracranial hemorrhage or focal density change in the brain  
+> Normal sized sulci, fissures and ventricles
+> A large heterogeneous density mass with bone destruction involving right masticator space, right mandible, posterior maxillary sinus, right zygomatic arch, lateral orbital cavity, pterygopalatine fossa, orbital apex, cavernous sinus, frontal and temporal skull  and dura matter. 
+> Foci of necrosis, air pockets and some calcified spots in right masticator mass 
+> irregularity with distal amputation of right internal maxillary artery within the mass
+> No abnormally enlarged lymph nodes at bilateral neck.
+> s/p endotracheal tube insertion. s/p nasogastic tube insertion. 
+> Mucous retention in right side sinuses and right mastoid effusion
+CT With/Without Contrast-Pelvis 醫令: CT With/Without Contrast-Pelvis 報告醫師: 梁博欽 影像時間: 2016/11/04 08:47 (33072B5M) 發報告時間: 2016/11/04 10:14 Abdomen,Pelvis CT without/with enhancement showed
+1.CBD stones with dilatation of CBD and bil. IHDs.
+2.One hypodense lesion(0.7cm) at S#54 of liver, nature? 
+3.Bil. renal small cysts.
+4.No definite lesion in GB, spleen, pancreas, and bil. adrenal glands. 5.No definite paraaortic LAP. 
+6.One hypodense mass(5.6cm) at right parametrium with mild ascites, uterine or ovarian tumor or metastasis should be D/D.
+7.S/P Foley insertion and poor distension of the urinary bladder.
+8.no definite inguinal or iliac LAP.
+CT With/Without Contrast-Chest 醫令: CT With/Without Contrast-Chest 報告醫師: 陳信銘 影像時間: 2016/11/04 08:47 (33072B2M) 發報告時間: 2016/11/04 09:40 CT of chest without and with contrast enhancement shows:
+1.Lungs and large airways: diffuse bronchial wall thickening, bronchiectasis with mucus plug, and tree-in-bud micronodules in bilateral lungs, consistent with infectious bronchitis and bronchiolitis. No evidence of lung metastasis.
+2.Pleura: Normal. No pleural effusion or thickening.
+3.Heart and pericardium: Heart size is normal. No pericardial effusion.
+4.Mediastium and hila: Normal.
+5.Chest wall and lower neck: Normal.
+6.Vessels: Unremarkable.
+7.Bones: Normal.
+8.Adrenal gland: Normal.
+CT With/Without Contrast-Abdomen 醫令: CT With/Without Contrast-Abdomen 報告醫師: 梁博欽 影像時間: 2016/11/04 08:47 (33072B3M) 發報告時間: 2016/11/04 10:14 Abdomen,Pelvis CT without/with enhancement showed
+1.CBD stones with dilatation of CBD and bil. IHDs.
+2.One hypodense lesion(0.7cm) at S#54 of liver, nature? 
+3.Bil. renal small cysts.
+4.No definite lesion in GB, spleen, pancreas, and bil. adrenal glands. 5.No definite paraaortic LAP. 
+6.One hypodense mass(5.6cm) at right parametrium with mild ascites, uterine or ovarian tumor or metastasis should be D/D.
+7.S/P Foley insertion and poor distension of the urinary bladder.
+8.no definite inguinal or iliac LAP.
+Chest: PA View (Standing) 醫令: Chest: PA View (Standing) 報告醫師: 陳世杰 影像時間: 2016/11/01 04:32 (32001CXM) 發報告時間: 2016/11/01 12:05 fine interstitial pattern of the bilateral lungs; senile change is compatible. normal heart size, minimal bilateral apical pleural is irregular thickening, suggest correlated with clinical manifestation.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 張原嘉 影像時間: 2016/10/21 13:36 (32001CXM) 發報告時間: 2016/10/22 09:13 Chest PA/AP shows mild bilateral apical pleural thickening. Mild fibrotic change at right middle lung field. Normal alignment of the visible spine. Suggest clinical correlation.
+MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) 醫令: MRI With/Without Contrast-Head and Neck(Skull Base to Clavicle) 報告醫師: 李崇維 影像時間: 2016/10/17 21:23 (33085B0M) 發報告時間: 2016/10/18 09:58 History: Tongue cancer, Submental metastatic Ca, op 2015.7, CCRT 2015.9.18
+
+MRI of the neck without and with i. V. Gd chelate enhancement shows: 
+1. Post-op change of tongue and bilateral submandibular regions. 
+2. Fatty change of the bone marrow in skull base and cervical vertebrae. Edematous change of the neck interstitium. 
+3. A 8.5cm heterogeneous mass involving right masticator space, right mandible, posterior maxillary sinus, right zygomatic arch, lateral orbital cavity, pterygopalatine fossa, inferior orbital fissure, anterior cavernous sinus, frontal and temporal skull base and dura matter, right temporal skull. It is significantly enlarged as compared with prior study.
+4. No definite enlarged neck lymph node. 
+5. Mucosal thickening in paranasal sinuses.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 陳若瑀 影像時間: 2016/10/13 09:28 (32001CXM) 發報告時間: 2016/11/03 14:52 normal heart size. ill-defined hazy opacity at bilateral middle to lower lung zones. blunted left lateral costophrenic angle. a central venous catheter in IVC.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 張晉誠 影像時間: 2016/10/10 10:50 (32001CXM) 發報告時間: 2016/10/10 19:15 normal heart size. ill-defined opacities at the both lung fields, more on the right. blunted bilateral costophrenic angles. degenerative change of spine.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 簡寧 影像時間: 2016/10/06 10:20 (32001CXM) 發報告時間: 2016/10/06 11:15 normal heart size. increased infiltration in the right lower lung field. Blunting of bilateral costophrenic angles. 
+病理報告(Pathology Report) 
+S1504454
+Lymph node,neck, level I, right,core needle biopsy,squamous cell carcinoma,metastatic    
+Lymph node,neck, level I, left,core needle biopsy,no evidence of malignancy    
+ S1508739
+Lymph node,neck,level I,right,lymphadenectomy,no evidence of malignancy (0/1),   
+Lymph node,neck, level II,right,lymphadenectomy,no evidence of malignancy (0/6),   
+Lymph node,neck, level III,right,lymphadenectomy,no evidence of malignancy (0/2),   
+Lymph node,neck,level V,right,lymphadenectomy,no evidence of malignancy (0/2),   
+ S1525794
+Lymph node,neck, level I and II, right side,status post selective neck dissection, repeat selective neck dissection,squamous cell carcinoma,metastatic (2/4),   
+Skin,neck, right side,excision,hypertrophic scar    
+ S1438149
+Oral cavity,tongue, left side,wide excision,squamous cell carcinoma well- differentiated,   
+Lymph node,level IA, neck, left side,selective neck dissection,no evidence of malignancy (0/2),   
+Lymph node,level IB, neck, left side,selective neck dissection,no evidence of malignancy (0/2),   
+Lymph node,level II, neck, left side,selective neck dissection,no evidence of malignancy (0/4),   
+Lymph node,level II-IV, neck, left side,selective neck dissection,no evidence of malignancy (0/1),   
+Lymph node,level V, neck, left side,selective neck dissection,no evidence of malignancy (0/2),   
+ S1615527
+Soft tissue,cheek, right side,core biopsy,squamous cell carcinoma    
+ S1435560
+Oral cavity,tongue,left ventral,incisional biopsy,squamous cell carcinoma 
+臆斷(Tentative Diagnosis) 
+1. Respiratory failure, status post endotracheal intubation and mechanical ventilation (2016/11/04-).
+2. In-hospital cardiac arrest, probably oral tumor bleeding with hypovolemic shock related, status post cardiopulmonary cerebral resuscitation(CPCR)(8 minutes) with return of spontaneous circulation(ROSC).
+3. Seizure rule out hypoxic encephalopathy related, under Keppra. 
+4. Tongue cancer, pT2N0Mx, status post partial glossectomy and selective left neck dissection, with right neck lymph node recurrence, status post right neck lymph node dissection on 2015/03/09 and 2015/07/01, status post cisplatin (VII)- CCRT {RT:66Gy/33Fr, 2015/8/5-2015/9/18}, recurrence with metastatic lesion in right masticator space, status post Avastin+Cisplatin+5-FU(I~VI, 2016/4/25~ 2016/9/10),status post Avastin+carboplatin+5-FU(I, 2016/10/8) . 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+S:
+massive oral tumor bleeding noted around 6am on 11/4,
+followed by consciousness change 
+cardiac arrest developed soon after arriving ER
+s/p CPCR 8min with ROSC
+
+O:
+BH: 152 cm,  BW: 35 kg,
+T: 37.5 °C,  P: 81 bpm,  R: 14 /min,
+BP: 112 / 56 mmHg,
+Pain score: 0,
+
+Trachea tube(+), NG(+), Foley(+), DLC(+), A-line(+)
+comatous, E1M1V1
+
+CT: large recurrent mass at right masticator space with skull base and intracranial invasion with evidence of tumor necrosis.
+
+A:
+1. Respiratory failure, status post endotracheal intubation and mechanical ventilation (2016/11/04-).
+2. In-hospital cardiac arrest, probably oral tumor bleeding with hypovolemic shock related, status post cardiopulmonary cerebral resuscitation(CPCR)(8 minutes) with return of spontaneous circulation(ROSC).
+
+P:
+1. Keep mechanical ventilator support, monitor consciousness closely.
+2. Keep Keppra for seiure.
+3. inform grave prognosis and the risk of recurrent bleeding to the family, comfirm DNR. 
+
+Treatment Goal:
+MAP>65 mmHg
+No fever with BT > 38'C 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左手 右手 
+雙腔導管留置：有 左腹股溝 
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.0mm 
+胃造廔口：無  
+尿管留置：有   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：配偶 兒子 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 主要照顧者照顧能力不足 
+主治醫師評論(VS Comments) 
+I agree with the assessment made by the resident. 
+醫師姓名 
+郭律成 主治醫師 

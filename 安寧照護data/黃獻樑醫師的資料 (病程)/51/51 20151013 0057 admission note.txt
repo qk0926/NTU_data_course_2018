@@ -1,0 +1,308 @@
+2015/10/13 00:57 
+主訴(Chief Complaint) 
+Informant:patient's daughter and medical records
+pulseless electrical activity found at 04:40 on 2015-10-09 
+病史(Brief History) 
+The patient is a 58-year-old man with unknown neuromuscular disease, with quadriparesis, and poorly-controlled diabetes mellitus and hypertension. He was confined to bed but ADL-independent since left foot fracture after traffic accident 1 year ago. Family reported occasional urinary and fecal incontinence after foot fracture.
+
+One month ago, he developed quadriparesis (fell at home) without loss of consciousness, cognitive dysfunction, or new sensory deficit (baseline paresthesia and numbness, suspected diabetic neuropathy). Intermittent muscle weakness of all 4 limbs was noted: at best, patient could feed himself, raise his limbs, but no antigravity movement at times. He was worked up for neurological deficit at 雙和 Hospital, but no diagnosis was reached. Due to ADL dependence, he was admitted to nursing home after discharge, since 2015-09-18.
+
+Fever, productive cough, and muscle soreness were noted on 2015-10-02 at nursing home. Due to persistent symptoms, he was taken to 博仁 Hospital, where healthcare-associated pneumonia was favored due to infiltrates found via chest X-ray. Urinalysis showed no pyuria. Empirical ceftazidime (1000mg Q12H IV) was prescribed, after which fever rapidly subsided. Follow-up chest X-ray also showed improvement of bilateral lung infiltrates. However, the patient developed a "heavy sensation" over chest ("覺得被子蓋太厚" when no blankets were over his torso) on 2015-10-08, without mention of dyspnea, breathlessness, or desaturation.
+
+Loss of consciousness, bradycardia (<30bpm), and absence of blood pressure were found at 04:40 on 2015-10-09, status post cardiopulmonary resuscitation and intubation. Initial ABG disclosed respiratory acidosis (pH: 7.110, pCO2: 74.1mmHg, pO2: 73.1mmHg, HCO3: 23.7mEq/L). Return of spontaneous circulation was achieved after 14 minutes. No elevation of cardiac enzymes or electrolyte imbalance were found after CPR. However, the patient remained comatose after ROSC (E1VtM1), with seizures. Brain CT on 2015-10-10 disclosed only subgaleal hematoma and age-related atrophic changes in bilateral brain parenchyma. Family decided to seek second opinion at NTUH ER, thus he was admitted to NTUH 3C1 medical ICU on 2015-10-12 for workup and care.
+
+Past history:
+1. Systemic diseases:
+   - Unknown neuromuscular disease, no formal diagnosis after workup at 雙和 Hospital
+   - Type 2 diabetes mellitus, diagnosed for 5-6 years, no medical treatment until 1 year ago, 2015-10-05 HbA1c: 7.7%)
+   - Hypertension, diagnosed 5-6 years, no medical treatment until 1 year ago
+2. Surgical history:
+   - Surgical fixation of left foot fracture 1 year ago
+3. Allergies: none known
+4. Current medication:
+   - valsartan 80mg QD PO
+   - linagliptin 5mg QD PO
+   - glimpiride 4mg BID PO
+   - insulin glargine, dose unknown
+   - aspirin 100mg QD PO
+   - furosemide 40mg BID PO
+   - pentoxyfylline 400mg BID PO
+   - atorvastatin 10mg QD PO
+   - famotidine 20mg QD PO
+   - others: denied use of herbal medication and supplements
+5. Socioeconomic status:
+   - Family support: poor: Divorced, lived alone prior to 9/18. Only surviving direct family members are daughter and sister
+   - Financial status: poor: Patients' savings all apent. However, daughter and sister are willing to pay for his medical expenses
+   - Occupation: previously parking attendant prior to traffic accident 1 year ago
+6. Family history:
+   - Mother has DM
+   - No family history of neurological diseases 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:高中
+職業:無
+宗教信仰:無
+婚姻狀態:離婚
+使用語言:國語 
+口述血型:B，RH:不清楚，輸血反應:
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:昏迷
+認知功能:無法評估 
+精神情緒狀態:無法評估  
+安全問題:有 其他 管路安全
+睡眠形態:異常 其他 無法評估
+
+Nutritional Screen
+攝食情形:
+排便狀態:異常
+排便異常狀態:其他
+其他排便異常狀態:未解便
+BMI:24.43
+
+Fall Risk Assessment
+總分:12
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+‧General/Constitutional:
+Fever(-), weight change(-), general weakness(-)
+‧Head/Neck:
+Headaches(-), dizziness(-), vertigo(-), lightheadedness(-), injury(-)
+Vision(good), double vision(-), strabismus(-), ocular pain(-)
+Otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-)
+Epistaxis(-), congestion(-), discharge(-)
+Caries(-), dentures(-), gum bleeding(-), sore throat(-), oral ulcer(-)
+Neck stiffness(-), neck pain(-), tenderness(-), masses(-)
+‧Cardiovascular:
+Chest tightness/pain(-), palpitations(-), syncope(-), dyspnea on exertion(-), orthopnea(-), paroxysmal nocturnal dyspnea(-), edema(-), cyanosis(-), claudication(-), varicosities(-)
+‧Respiratory:
+Chest pain(-), shortness of breath(-), cough(-), hemoptysis(-), wheezing(-), night sweats(-)
+‧Gastrointestinal:
+Appetite(good), dysphagia(-), abdominal pain(-), flatulence(-), heartburn(-), nausea(-), vomiting(-), hematemesis(-), jaundice(-), constipation(-), diarrhea(-), stools [normal], recent changes in bowel habits(-)
+‧Genitourinary:
+Flank pain(-), hematuria(-), urgency(-), frequency(-), dysuria(-), nocturia(-), polyuria(-), oliguria(-), retention(-), incontinence(-)
+‧Hematologic/Endocrine
+Bleeding tendency(-), previous transfusions and reactions(-), lymph node enlargement or tenderness(-)
+Thirsty(-), polydipsia(-), polyuria(-), hormone therapy(-), growth and development(normal)
+Goiter(-), Intolerance to heat or cold(-)
+‧Musculoskeletal/Nervous:
+Pain(-), swelling(-), redness or heat of muscles or joints(-), limitation of motion(-), muscular weakness(-), atrophy(-), cramps(-)
+Numbness(-), paresis/plegia(-)
+‧Skin/Breast:
+Rash(-), itching(-), pigmentation(-), changes in hair growth or loss(-), nail changes(-)
+Breast lumps(-), tenderness(-), swelling(-), nipple discharge(-) 
+身體檢查(Physical Examination) 
+BH:163 cm   BW:64.9 kg
+T:35.8 P:65 R:13
+BP:163/83 mmHg
+Pain:0
+
+Neurological Examination:
+‧Consciousness: E1VtM1
+‧Muscle power: not tested
+‧Gait: not tested
+‧Head-Eye-ENT
+Conjunctiva: not pale, sclera: anicteric
+‧Neck
+Jugular vein engorgement(-), thyroid goiter(-), meningismus: Kernig sign(-), Brudzinski sign(-), carotid bruit(-)
+‧Chest
+Vocal fremitus and expansion: symmetric, percussion: resonant
+Crackles(-), wheezes(-), rhonchi(-), stridor(-)
+‧Heart
+Point of maximal impulse: left MCL/5th intercostal space, LV lift(-), RV heave(-)
+Increased cardiac size by percussion(-), heart beat: regular, adventitious sounds(-), murmurs(-)
+‧Abdomen
+Flat & soft, Bowel sound: normoactive, tenderness(-), rebound tenderness(-), psoas sign(-), obturator sign(-)
+Liver and spleen: impalpable, shifting dullness(-), hepatojugular reflux(-)
+‧Skin
+Wound(-), hyperpigmentation(-), petechiae(-), purpura(-), ecchymosis(-), telangiectasia(-), rash(-), edema (+)
+‧Lymphadenopathy(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:YM***********
+
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1041012 [2117] 1.00          8.9           27            2.45          125.8        
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1041012 [2117] 7.490         29.8          101.2         22.9          -0.7         
+               SO2          
+time/item      (%)          
+1041012 [2117] 98.4         
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               K             T-BIL         AST           LacticAcid   
+time/item      (mmol/L)      (mg/dL)       (U/L)         (mmol/L)     
+1041012 [2128] 2.6           0.39          106           0.98         
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1041012 [2128] 10.8          32.4          1.02         
+群組:General BioChemistry
+
+               ALB          
+time/item      (g/dL)       
+1041012 [2128] <1.5         
+群組:Yes
+
+               C-Reactive P 
+               rotein       
+time/item      (mg/dL)      
+1041012 [2128] 13.20        
+
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1041012 [1644] 182          
+1041012 [2131] 191          
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1041012 [1651] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1041012 [1651] B             Positive     
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ca           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1041012 [1651] 27.2          1.2           138           2.5           1.69         
+               Mg            CK            CK-MB         %CKMB         Troponin I   
+time/item      (mmol/L)      (U/L)         (U/L)         (%)           (ng/mL)      
+1041012 [1651] 0.73          228           59            25.9          0.018        
+群組:Yes
+
+               pro-BNP      
+time/item      (pg/mL)      
+1041012 [1651] 4560         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1041012 [1651] 34           
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041012 [1651] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041012 [1651] 86.1          2.8           0.1           4.6           6.4          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041012 [1651] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041012 [1651] 21.07         3.59          10.3          29.5          82.2         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041012 [1651] 28.7          34.9          198           13.6          -            
+*********檢驗室:YM***********
+
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1041012 [1647] 1.08          9.9           30            2.33          129.8        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1041012 [1647] 204           1.7          
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1041012 [1647] 7.581         19.5          242.3         18.5          -3.6         
+               SO2          
+time/item      (%)          
+1041012 [1647] 99.9 
+檢查紀錄(Examination Report) 
+Nil 
+影像報告(Imaging Report) 
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 施怡倫 影像時間: 2015/10/12 16:44 (32001CYM) 發報告時間: 2015/10/12 17:24 EXAMINATION: Chest : AP View (Supine)
+FINDINGS:
+Placement of an endotracheal tube, a NG tube, and a right central venous catheter. Normal heart size. Bilateral lung consolidation and pleural effusion. 
+病理報告(Pathology Report) 
+Nil 
+臆斷(Tentative Diagnosis) 
+1. Hypercapnic respiratory failure, suspected neuromuscular disease, complicated with respiratory acidosis and in-hospital cardiac arrest, status post cardiopulmonary resuscitation (14 min) and endotracheal intubation + mechanical ventilation (2015-10-09), with return of spontaneous circulation
+2. Suspected hypoxemic encephalopathy, with coma and seizures
+3. Healthcare-associated pneumonia, improving
+5. Type 2 diabetes mellitus (2015-10-05 HbA1c: 7.7%), with suspected neuropathy
+6. Hypertension
+7. Hepatitis B
+8. Suspected neuromuscular disease, progressive, etiology unknown, bedridden
+9. History of left foot traumatic fracture 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+1. Comatose state
+   => Duration of hypoxemia? Unknown + CPR 14 min
+   => No hypothermia
+   => Likelihood of recovery? Still comatose 3 days after IHCA
+   Rx: 1. Arrange EEG
+
+2. Suspected neuromuscular disease?
+   => Worked up for quadriparesis in Sept 2015, no definitive findings
+   => Intermittent weakness
+   => Dyspnea reported ~12 hours prior to respiratory acidosis with cardiac arrest
+   => Consider respiratory muscle weakness followed by hypercapnic respiratory failure? Respiratory failure due to pneumonia is less likely due to clinical and radiological improvement under empirical antibiotics
+   => Due to intermittent weakness, should consider myasthenia gravis
+   => Ventilatory drive (+)
+
+   Rx: 1. Asked family to apply for medical records from September workup at 雙和 Hospital
+       2. Consult neurologist for evaluation
+       3. Check thyroid function for consciousness. Check thyroid antibodies, consider acetacholine receptor antibody assay, EMG to exclude myasthenia gravis
+       4. Informed family of possible ventilator dependence and tracheostomy
+
+3. Fever, r/o HCAP
+   => Fever subsided, infiltrates improved under ceftazidime 1g Q12H
+   => Good reponse to ceftazidime, though sputum culture yielded MSSA
+   Rx: 1. Repeat sputum, blood cultures
+       2. Complete 10-day course of ceftazidime
+
+Treatment Goal: weaning off ventilator, or if not possible then transfer to respiratory care ward 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右頸 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.5mm 
+胃造廔口：無  
+尿管留置：有 Two way Foley 16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：護理之家 
+預期出院後主要照顧者：配偶 
+出院規劃收案篩檢：高危病患 帶有管路 
+主治醫師評論(VS Comments) 
+I agree with the record of admission's note. 
+醫師姓名 
+錢穎群 主治醫師 

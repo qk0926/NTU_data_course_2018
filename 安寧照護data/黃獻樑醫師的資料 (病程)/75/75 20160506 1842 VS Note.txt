@@ -1,0 +1,8 @@
+High fever with BP drop(SBP: 84mmHg) and desaturation(N/C-> O2 mask 10L 60%) was noted at around 14:30. Chills was noted 
+
+plan: 
+1. Keep Targocid and metronidazole; add Ceftazidime 1000mg Q8H (5/6-) empirically
+2. pursue culture results
+3. add Dopamine(low dose) 2ml/hr with titration for LVEF 30%
+4. ICU transfer if unstable hemodinamics
+5. contact with CVS for operation evaluation due to uncontrolled infection

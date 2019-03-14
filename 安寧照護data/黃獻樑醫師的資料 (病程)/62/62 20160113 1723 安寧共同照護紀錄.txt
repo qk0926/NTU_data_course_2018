@@ -1,0 +1,23 @@
+The patient is a 82 y/o gentleman, with the underlying condition of 
+1.amylotrophic lateral sclerosis (ALS), and is currently under home ventilator support. 
+   He experienced an episode of sputum impaction, which resulted in OHCA. CPCR 26 mins was performed, with ROSC. However, hypoxic-ichemic encephalopathy was the sequele, with isoelectric EEG pattern with poor cortical response of SSEP was noted. Poor prognosis along with the possibility of being in vegetative state is informed to the patient's family.
+
+<Assessment>
+Conscious: coma
+ECOG:4
+2016/01/13 15:26 T:37 P:89 R:12
+2016/01/13 15:26 BP:126/66
+2016/01/13 15:26 SpO2:100%(25%,L,VCR)
+2016/01/13 17:13 GCS:E1M1VT
+Main caregiver:配偶、外傭
+Main decision maker:配偶、子女
+疾病認知:家屬知病末
+<家庭會議摘要>
+參與成員:配偶、長女、次子、三子
+家屬表示經主治醫師說明能了解目前生命徵象尚穩定，但意識昏迷的狀況。配偶表達在居家照顧中面對病人病情變化及突發狀況的壓力(對此次突發狀況感到自責)，以及病人在意識警醒時表達接受抽痰等治療的不適及痛苦。配偶及子女均表達希望能讓病人在這樣的痛苦中解脫，以撤除維生系統為後續目標，但需要再與其他家人商議撤除時間。家屬詢問撤除地點，已告知後續如轉至病房，有撤除相關問題仍會由安寧共照小組持續提供協助。
+<Plan>
+1. Introduce hospice care to the family
+2. Please provide psychospiritual support to family(同理家屬不捨及決策困難，同理配偶照顧壓力及恐懼)
+3. Treat current condition as your expertise
+4.Contact東址共照辦公室(#63274) for related questions.
+                                                安寧共照N2謝慧貞

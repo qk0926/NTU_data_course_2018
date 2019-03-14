@@ -1,0 +1,376 @@
+Admission Note 
+2016/05/06 03:30 
+主訴(Chief Complaint) 
+Informant:The patient's husband and ED records
+Severe chills with fatigue in the morning 
+病史(Brief History) 
+This 52-year-old woman was admitted to our hospital because of severe chills with fatigue in the morning. She had a history of
+1. Bilateral hydronephrosis, status post bilateral PCN drainage, status post bilateral DBJ insertion
+2. Rectal adenocarcinoma, cT3-4N1M1 with lung metastases (RLL, LLL), stage IV;
+   status post Avastin+FOLFIRI(C1-C3), FOLFIRI(C1) (2013/8-9, radiotherapy to rectum and pelvis 2500cGy/5Fx (2015/10), with both lung mets and local PD;
+   status post FOLFIRI(C2), status post abdominoperineal resection and partial vaginectomy (2013/11/20), ypT4bN1cM1;
+   status post Avastin + mFOLFOX(C1-C16) (2013/12-2014/10), Avastin+FOLFIRI(C1-C4) (2014/10-2015/1), status post regorafenib, PD, status post Xeloda
+
+  She was diagnosed of rectal cancer with lung mets in 2012 in VGH, and received surgery, multiple chemotherapy and radiotherapy there. Last time, she was admitted to VGH during 2016/2/18-3/08 due to hydronephrosis. Ceftazidime was prescribed for Pseudomonas UTI. Revision of DBJ was done. She was followed at oncology and urology OPDs in VGH regularly. She lived with her family and was independent in her ADLs. She had persistent mild dyspnea with chronic cough.
+  On the day of this admission (2016/5/5), she had marked fatigue followed by severe chills. She also have increased cough. She had clear consciousness and no abdominal pain, flank pain, nausea or vomiting. Body temperature was not measured at home. Then she came to our emergency department for help.
+  On arrival, she had fever to 38.4°C with severe dyspnea (RR 40) and hypoxia (SpO2 86%). CXR showed bilateral dense patches. Endotracheal tube was inserted. Initial lab revealed severe leukocytosis with left shift (WBC 35590, met 1, band 13, seg 80), acute kidney injury (BUN/Cre 58.6/4.3) and elevated pro-BNP (16724). Hypotension also developed and Levophed infusion was given.
+  She was then admitted to our MICU promptly for further treatment.
+
+【Past History】
+(1) Past medical history: nil
+(2) Past surgical history: s/p APR
+(3) Hospitalization history: many times at VGH
+(4) Allergy: NKA
+    Medication ADR: unknown
+    Allergy to Medical Device and Materials: unknown
+(5) Cigarette smoking: denied, 
+    Alcohol: denied, 
+    Betel nut: denied
+(6) Blood type: B
+(7) TOCC: travel(-), occupation: nil, contact(-), cluster(+): mother had URI
+
+【Current Medication】
+ED:
+警 Nimbex 10 mg/5 mL /amp 5 mg STAT IV 1 days
+警 Levophed 4 mg/4 mL /amp 8 mg QD cIF 2 days
+Bricanyl Neb Soln 2.5 mg/1 mL 2 mL/amp 1 amp STAT IH 1 days
+Atrovent Neb Soln 250 mcg/1 mL 2 mL/amp 1 amp Q6H IH 2 days
+Bricanyl Neb Soln 2.5 mg/1 mL 2 mL/amp 1 amp Q6H IH 2 days
+Atrovent Neb Soln 250 mcg/1 mL 2 mL/amp 1 amp STAT IH 1 days
+Rolikan 16.6 mEq/20 mL /amp 49.8 mEq STAT IV 1 days
+Kalimate 5 g/pack 4 pack TID PO 2 days
+警 Nimbex 10 mg/5 mL /amp 5 mg STAT IV 1 days
+警 Humulin R 1000 U/10 mL /vial 8 U STAT IV 1 days
+警 Vitagen 50% 20 mL/amp 40 mL STAT IV 1 days
+(鈣) Vitacal 5.4 mEq/20 mL /amp 10.8 mEq STAT IF 1 days
+Kalimate 5 g/pack 4 pack STAT PO 1 days
+中草藥: 川七
+保健食品: 綠藻
+
+【Family History】
+no known family history of cancer 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:高中
+職業:家管
+宗教信仰:無
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:B，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:昏迷
+認知功能:無法評估 
+精神情緒狀態:無法評估  
+安全問題:有 其他 預防跌倒
+睡眠形態:異常 其他 無法評估
+
+Nutritional Screen
+攝食情形:差，攝食50%以下
+排便狀態:異常
+排便異常狀態:其他
+其他排便異常狀態:Colon ostomy
+BMI:15.22
+
+Fall Risk Assessment
+總分:15
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+(■:positive, □:negative) 
+1.Systemic:
+	■fever, ■chills: today, □night sweats, ■fatigue: severe, □somnolence, □insomnia 
+	□weight change, □decreased appetite,  
+	□consciousness disturbance, □diffuse arthralgias/myalgias, 
+	□heat/cold intolerance, □thirsty, □general edema 
+2.Head/Eyes:
+	□headache, □dizziness, □vertigo, □photophobia, 
+	□diplopia, □visual field defect, □blurred vision,   
+	□ocular pain, □eye redness, □dry eye, □excess tearing  
+	□alopecia, □head trauma, □cataracts, □glaucoma 
+4.Ears/Nose:
+	□hearing impairment, □tinnitus, □otalgia, □otorrhea,  
+	□nasal congestion, □rhinorrhea, □epistaxis, □anosmia 
+5.Mouth/Throat:
+	□oral ulcer, □gum bleeding, □dry mouth, □dental problems 
+	□sore throat, □dysphagia, □odynophagia, □hoarseness 
+6.Cardiovascular/Respiratory:
+	■cough, □sputum, □hemoptysis, □wheezes
+	■dyspnea:at rest, □chest tightness/pain: with diaphoresis, 
+	□orthopnea, □paroxysmal nocturnal dyspnea,  
+	□syncope, □palpitation, □intermittent claudication 
+7.Gastrointestinal:
+	□anorexia, □nausea, □vomiting:bilious/feculent, □hematemesis   
+	□heartburn/acid regurgitation, □belching, □hiccup 
+	□abdominal pain:______, □abdominal distention
+	□diarrhea, □constipation, □tarry stool, □clay-colored stool 
+	□change of bowel habit, □tenesmus, □flatulence 
+8.Genito-urinary:
+	□urinary frequency, □urgency, □dysuria,  
+	□incontinence, □nocturia, □polyuria, □oliguria  
+	□small stream of urine, □hesitancy, □cloudy urine, □hematuria, 
+	□flank pain, □impotence, □abnormal sexual exposure 
+9.Gynecological:
+	□abnormal menstruation 
+10.Skin/Hemagological:
+	□rash, □pruritus, □dryness, □jaundice, □color changes,  
+	□moles, □plaque, □ulcers, □hair loss, □hirsutism, 
+	□telangiectasia, □petechiae, □ecchymoses, □purpura 
+11.Musculoskeletal:
+	□arthralgia, □myalgia, □back pain, □bone pain, 
+	□joint stiffness, □cramps, □fractures 
+12.Neurological:
+	□numbness, □paresis/plegia, □convulsion, □paresthesia, □allodynia 
+	□resting tremor, □gait disturbance,   
+13.Psychiatric:
+	□insomnia, □memory loss, □anxiety, □panic 
+	□hallucination, □delusion, ■depression, □suicidality 
+身體檢查(Physical Examination) 
+BH: 158 cm,  BW: 38 kg,
+T: 37.9 °C,  P: 141 bpm,  R: 43 /min,
+BP: 97 / 79 mmHg,
+Pain score: 0,
+
+Neurological Examination: 
+. Consciousness: clear
+. Muscle power: full
+. Gait: not evaluated
+
+1. General appearance: acute ill
+2. Consciousness: clear, Activity: bed-ridden
+3. HEENT: gross anomaly(-); 
+   Conjunctiva: not pale; Sclera: anicteric; 
+   Pupils: isocoric 3mm/3mm, Light reflex: +/+, prompt; 
+   Throat: injected(-); ulcer(-);
+   Neck: supple, LAP(-), goiter(-)
+4. Chest: symmetric expansion, no retraction
+          breath sounds: wheezes(+) bilateral, rhonchi(-), rales(-)
+5. Heart: RHB, PMI at 5ICS of LMCL, no heave or thrill
+          Normal S1, S2. 
+          No S3, S4, or murmurs
+6. Abdomen: flat, colostomy(+)
+            normoactive bowel sound
+            soft, tenderness(-), rebound tenderness(-)
+            liver/spleen: impalpable
+7. Extremity: freely movable, cyanosis(-), pitting edema(-)
+8. Skin: rash(-), jaundice(-), petechiae(-), ecchymosis(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050505 [2152] 7.373         21.7          203.6         12.7          -12.8        
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Cl           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1050505 [2152] 60.4          4.0           139           5.8           103          
+               Ammonia N     T-BIL         AMY           Lipase        P            
+time/item      (μmol/L)      (mg/dL)       (U/L)         (U/L)         (mg/dL)      
+1050505 [2152] 39            0.44          463           20            10.3         
+               AST           LacticAcid   
+time/item      (U/L)         (mmol/L)     
+1050505 [2152] 451           5.98         
+群組:General BioChemistry
+
+               ALB           D-BIL         ALT          
+time/item      (g/dL)        (mg/dL)       (U/L)        
+1050505 [2152] 2.7           0.30          338          
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050505 [2152] 35.04         3.06          8.7           27.4          89.5         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050505 [2152] 28.4          31.8          544           15.6          -            
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1050505 [2152] 11.9          32.2          1.13         
+群組:Yes
+
+               hsCRP        
+time/item      (mg/dL)      
+1050505 [2152] 28.48        
+
+*********檢驗室:YM***********
+
+群組:
+
+               Free Ca(急重症自  K+(急重症自行檢驗)   Na(急重症自行檢驗)   Suger(急重症自行檢  LacticAcid(急 
+               行檢驗)                                      驗)            重症自行檢驗)      
+time/item      (mmol/L)      (mmol/L)      (mmol/L)      (mg/dL)       (mmol/L)     
+1050505 [1827] 1.20          6.37          139.2         252           12.0         
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050505 [1827] 7.193         28.7          37.3          11.1          -17.3        
+               SO2          
+time/item      (%)          
+1050505 [1827] 59.3         
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1050505 [1834] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1050505 [1834] B             Positive     
+*********檢驗室:RL***********
+
+群組:
+
+               Troponin-T    CK-MB        
+time/item      (ng/L)        (ng/mL)      
+1050505 [1834] 1621          9.90         
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ca           
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1050505 [1834] 58.6          4.3           137           6.4           2.19         
+               Mg            LacticAcid    CK           
+time/item      (mmol/L)      (mmol/L)      (U/L)        
+1050505 [1834] 0.94          12.06         91           
+群組:Yes
+
+               NT-pro BNP   
+time/item      (pg/mL)      
+1050505 [1834] 16724        
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1050505 [1834] 11.7          30.8          1.11         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1050505 [1834] 103          
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050505 [1834] 0.0           0.0           0.0           1.0           13.0         
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050505 [1834] 80.0          0.0           0.0           2.0           4.0          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050505 [1834] 0.0           0.0           0.0 /100 WBC  WBC 100                    
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050505 [1834] 35.59         3.13          8.7           28.9          92.3         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050505 [1834] 27.8          30.1          563           15.8          -            
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050505 [1831] 260 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳信嘉 影像時間: 2016/05/05 19:40 (32001CYM) 發報告時間: 2016/05/05 19:58 Radiography of "Chest : AP View (Supine)": normal heart size; bilateral lung consolidation, mass lesions and nodules; an endotracheal tube; a gastric tube; a left ureteral stent; recommend clinical correlation.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 陳信嘉 影像時間: 2016/05/05 18:34 (32001CYM) 發報告時間: 2016/05/05 18:49 Radiography of "Chest : AP View (Supine)": normal heart size; bilateral lung consolidation, nodules and mass lesions; a left ureteral stent; recommend clinical correlation. 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1. Septic shock, suspected urosepsis or intra-abdominal infection
+2. Hypoxic respiratory failure, under endotracheal tube intubation with mechanical ventilation (2016/5/5-)
+3. Acute kidney injury (or acute on chronic kidney disease), AKIN stage 3, suspected sepsis or obstruction related
+4. Bilateral hydronephrosis, status post bilateral PCN drainage, status post bilateral DBJ insertion
+5. Rectal adenocarcinoma, cT3-4N1M1 with lung metastases (RLL, LLL), stage IV;
+   status post Avastin+FOLFIRI(C1-C3), FOLFIRI(C1) (2013/8-9, radiotherapy to rectum and pelvis 2500cGy/5Fx (2015/10), with both lung mets and local PD;
+   status post FOLFIRI(C2), status post abdominoperineal resection and partial vaginectomy (2013/11/20), ypT4bN1cM1;
+   status post Avastin + mFOLFOX(C1-C16) (2013/12-2014/10), Avastin+FOLFIRI(C1-C4) (2014/10-2015/1), status post regorafenib, PD, status post Xeloda 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+#Septic shock
+#Hypoxic RF, on ETT+MV(5/5-)
+#AKI/ACKD, AKIN 3
+#Hx of bil. hydronephrosis, s/p PCN, DBJ
+#Rectal cancer, s/p C/T, R/T and APR
+
+[[Assessment]]
+[Antibiotics]
+Tazocin 5/5-
+
+[Nutrition]
+NPO first due to high lactate
+
+[Ventilation]
+PC-A/C: IP 18 PEEP 6 FiO2 50%
+==> RR 34 Vt 380 MV 15.1
+
+[RRT]
+CVVH
+
+[Inotropics/vasopressors]
+Levophed (16mg in 250mL) 20mL/hr
+
+[Important image and study findings]
+Pursue VGH images
+5/5	bedside echo: severe right hydronephrosis
+
+<Culture>
+U/C at VGH: Pseudomonas
+5/5	B/C(PBx2)
+	S/S,S/C:
+	U/A,U/C:
+
+[Newly intervention and Medication]
+5/5	start CVVH
+
+[Consultation]
+
+[Important patient's and family's decision]
+
+[[Plan]]
+1. Give Tazocin for IAI/UTI (previous Pseudomonas urosepsis)
+2. Start CVVH and monitor U/O and BP
+3. Arrange A+P CECT and possible further drainage of hydronephrosis if BP stablized 
+4. NPO first with IVF supplement; resume enteral nutrition if improved lactate level
+5. May discuss with oncologist for cancer management
+
+[Treatment Goal]
+1. Infection control
+2. Weaning ventilator
+3. Hydronephrosis management 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右手 右足
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.0mm 
+胃造廔口：有  
+尿管留置：有  16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：左下腹腸造口術
+日常生活功能分數：20
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：配偶 
+出院規劃收案篩檢：高危病患 帶有管路 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+簡榮彥 主治醫師 
+ 

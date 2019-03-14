@@ -1,0 +1,20 @@
+<Doctor>
+1. Conscious change with general clonic tonic seizure and status epilepticus, suspect brain mets related, complicated with hypoxemic respiratory failure, status post endotrachial tube insertion with mechanical ventilation (2016/09/17~)
+2. Non-small-cell-lung cancer, adenocarcinoma, with malignant pleural effusion, T2aN0M1a, stage IV, with EGFR exon 19 deletion, T790M mutation (+), ALK(-), status post Tarceva during 2014/02/20~2015/02/22; Disease progression with left supraclavicular, left hilar and mediastinal lymphadenopathy, status post lung CT guided re-biopsy, status post clinical trial of EGF816 (nivolumab, 2015/03/10~2015/12/16); Disease progression with bilateral axilla lymphadenopathy, status post left axillary lymph node excisional biopsy on 2015/12/19, with EGFR exon 19 deletion without T790M, Met FISH (-), status post TATTON trial (AZD9291 + AZD6244 (omisertinib 80mg 1# QD + selumetinib 75mg 1# Q12H, 4days on-3days off, C1D1=2016/01/22, C2D1=2016/02/19, C3D1=2016/03/18, C4D1=2016/04/15, C5D1=2016/05/13); Disease progression with larger lung and chest wall metastases, status post port-A implantation on 2016/06/21, status post Alimta + Cisplatin (C1D1=2016/06/10, C2D1=2016/06/30, C3D1=2016/07/21, C4D1=2016/08/11); Disease progression with larger lung and chest wall metastases and new metastasis in left frontal lobe, status post Taxotere (C1D1=2016/09/01), Disease progression with multiple brain metastases and leptomeningeal carcinomatosis
+3. Intermittent atrial premature beat
+
+brain images showed metastasis and leptomeningeal changes
+EEG still revealed discharge on 9/19 and 9/22
+status epilepticus
+Midazolam infusion was stopped after 1-day course
+EEG on 9/26: no more discharge
+consciousness: still not recovered
+ventilator: PS mode. breathing trigger ok.
+<Plans>
+keep anti-epileptic drugs.
+keep ventilator PS mode
+monitor the recovery of consciousness
+
+
+Nurse
+目前病人GCS:E1-2VTM1，偶會不自主睜開眼睛，鼻胃管存，續NPO除藥，暫未見解便。氣管內管存，現PSV mode use，呼吸平順，痰黃白稀量中，口水多，續協助翻身拍背及抽痰。

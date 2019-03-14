@@ -1,0 +1,37 @@
+[Doctor]
+1. Acute on chronic hypoxemic respiratory failure, status post  
+   ETT+MV (2017/06/28-), supsected CAP and/or IPF AE related, 
+   r/o ARDS.
+2. Idiopathic pulmonary fibrosis, under Nintedanib and steroid.
+
+Plan:
+1. For CAP, r/o ARDS
+ - Keep empirical Tazocin and D/C Cravit, Tamiflu and Sevatrim.
+ - Taper ventilation demand.
+ - Pursue culture.
+ - Monitor fever and CXR.
+2. For IPF, suspected AE
+ - Keep OFEV.
+ - Taper steroid gradually (7/3 Solu-medrol 20mg QD).
+ - Monitor respiration and ABG.
+
+[Pharmacist]
+Keep Tazocin for infection control
+Taper off parenteral nutrition if tolerate feeding
+
+[Respiratory  Plan]
+1.monitor pul. status.
+2.keep current MV assistance.
+3. For CAP, r/o ARDS
+- Keep empirical Tazocin, Cravit, Tamiflu and Sevatrim.
+- Taper ventilation demand.
+- Pursue culture.
+- Monitor fever and CXR.
+
+[Nurse]
+1.Monitor fever and CXR 
+2.Monitor sugar and ABG Q6H
+3.Monitor respiration pattern and digested
+4.Monitor skin integrity
+
+[dietitian]

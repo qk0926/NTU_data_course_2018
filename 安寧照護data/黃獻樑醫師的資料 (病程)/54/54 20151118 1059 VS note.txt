@@ -1,0 +1,30 @@
+76 y/o F
+
+1. Suspected malignant pericardial effusion with hemodynamic collapse
+2. HAP with acute respiratroy failure
+3. Non-small cell lung cancer, right upper lung, adenocarcinoma, pT1bN2Mx, stage IIIA, EGFR: L858R, 
+-s/p VATS RUL lobectomy and RLL wedge resection on 2010/6/16
+-s/p Paraplatin +Navelbine (IV) (2010/07-2010/10)
+-s/p Tarceva (2010/09~2012/7/5) 
+-s/p Alimta (2012/08/30~2013/5/2) "EGFR: L858R --> Clinical trial"
+-s/p RT Cyberknife to left occipital nodule (1900Gy) (2013/08/30)
+-s/p Taxotere (IV) (2013/11/07-2014/01)
+-s/p Gemzar (IV) (2014/02/20-2014/06/05) --> PD with new brain mets, enlarged lung primary 
+-s/p WBRT+C1 (3000 Gy/12Fx) (2014/07/28 - 2014/08/08)
+-s/p Paclitaxel (VI) (2014/07/03 - 2014/12/24, PD over lung)
+-s/p Navelbine (2014/12/25- 2015/04/16)
+-s/p cash Tarceva (2015/5/14-2015/07/09)
+-s/p Navelbine (2015/07/09-2015/08/24)
+-s/p salvage SRS (2015/08/24-2015/09/08) for progressive brain metastases with disease progression and suspected malignant 4. Paroxysmal atrial fibrillation
+5. Hyperkalemia
+
+SHe was admitted to MICU due to acute respiratory distress and unstable hemodynamics
+
+Suggest:
+
+-> PiCCO showed Mixed fair LV function and sepsis pattern
+-> remittent fever under broadspectrum antiboitc
+-> cytology showed abnormal cells from pericardiocentesis
+-> taper vasopressor dosage
+-> discuss with pulmonary oncologist for patient's prognosis
+-> inform family critical conditons and further treatment plan

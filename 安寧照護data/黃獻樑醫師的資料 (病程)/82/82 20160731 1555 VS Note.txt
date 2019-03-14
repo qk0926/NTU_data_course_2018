@@ -1,0 +1,10 @@
+stationary
+under Mepem + Vancomycin
+keep PD
+
+no inotropic agent
+consiousness: drowsy
+
+MV: FiO2 40, IP 12, PEEP 8, MV 10-13
+
+if the high MV cannot be explained by sepsis, consider CNS disease

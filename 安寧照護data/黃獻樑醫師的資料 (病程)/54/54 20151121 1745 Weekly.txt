@@ -1,0 +1,80 @@
+Brief Summary of this week 
+She was transferred to MICU on 11/16 for large amount pericardial effusion, and CV was consulted for pericardiocentesis. UCG showed no RV collapse sign, so emergent pericardiocentesis was not indicated. However, dyspnea and cold sweating developed at 11/16 night, as well as hypotension. Respiratory distress was observed on 11/17 morning, so after explaination to her family and obtaining inform consent, intubation was done. Profound shock developed after intubation, and fluid resuscitation + Levophed were given. Fever was also observed, so antibiotic was upgraded to Tazocin. Pericardiocentesis was then performed with pigtail insertion on 11/17 smoothly. Much bloody pericardial effusion was drained, and her blood pressure became more stable. Septic shock or cardiogenic shock was favored, and PiCCO was used from 11/17 to 11/21 to monitor her hemodynamic parameters. Inotropics were adjusted according to SVRI and cardiac index. We also contacted P. 余忠仁 for her lung cancer-related treatment, and he suggested to send pericardial effusion for EGFR mutation and cell block. He also explained to her family that her disease status was terminal. Her family preferred DNR if her condition worsened, but the permit was not signed yet. Dobutamine and Levophed were tapered off, and Dopamine was kept to maintain adequate cardiac output. We'll follow-up UCG to evaluate her LV function, and P-P window creation will be done next week.
+
+Assessment 
+Tazocin 11/17~ D5 (empirical use for HAP)
+----------------------------------------------------
+Unasyn 11/13~11/17 (empirical use for CAP)
+
+[Ventilator setting]
+PCV 20, PEEP 6, f 16, FiO2 50%
+=> Vt 260, MV 4.8, RR 20, SpO2 99%
+
+[Vasopressor]
+Dopamine 10 ml/hr = 10.67 mcg/kg/min
+
+[Culture]
+11/17 S/C : mixed flora
+      S/C (ETT): mixed flora
+      U/C: negative
+
+[Physical examination]
+Cons: E4M5Vt
+HEENT: grossly normal
+BS: coarse breath sounds, no wheezes
+Heart: irregular HB, no murmur
+BoS: normoactive, tympanic
+Extremity: warm, no pitting edema
+less pericardial effusion drainage
+
+[Important Study findings]
+11/13 VBG: 7.348/80.0/82.8/33.3. Hb 11.1 WBC 8.99 Plt 262
+11/14 VBG: 7.37/57.2/120.7/33.7
+     Pleural effusion Gram stain: Many PMN, no bacteria visible
+     Pleural effusion: TNC 804, suspicious cells(+), 
+11/16 fT4/TSH within normal limit
+11/16 Bedside chest echo: right side consolidation with complex pleural effusion.
+11/17 Lactate increased 1.81 -> 2.61
+      PiCCO: SVRI 2582 (under Levophed 20ml/hr), CI 2.45
+11/18 Lactate 1.7
+      5AM PiCCO: SVRI 1953 (under Levophed 15ml/hr), 
+                 CI 2.62 (Dobutamine 5ml/hr)
+      1PM PiCCO: SVRI 1534 (under Levophed 10ml/hr), 
+                 CI 3.13 (Dobutamine 5ml/hr), SVV 18%
+11/19 5AM PiCCO: SVRI 1816 (Levophed 6ml/hr)
+                 CI 2.69 (Dobutamine 3ml/hr)
+      1PM PiCCO: SVRI 1750 (Levophed 4ml/hr)
+                 CI 2.56 (Dobutamine 1.5ml/hr), SVV 17%
+      9PM PiCCO: SVRI 1535 (Levophed 2ml/hr)
+                 CI 2.66 (Dobutamine 1.5ml/hr)
+
+[Important Interventions and Newly Added Medications]
+11/16 ICU admission: close monitor/prepare for pericardiocentesis
+11/17 ETT+MV, NS 1000ml+levophed for hypotension
+      pericardiocentesis: 720ml bloody pericardial effusion
+      Shift antibx to Tazocin, RIJV CVC+PiCCO for shock
+11/18 add Dobutamine
+11/20 off Dobutamine, taper Levophed, add Dopamine
+11/21 remove PiCCO, off Levophed
+
+[Important Consultation and Meeting Suggestions]
+11/16 CV: No RV Collapse sign, emergent pericardiocentesis not indicated
+11/17 余P: cancer-related treatment is not suitable now; already informed poor prognosis to her family; check pericardial effusion EGFR mutation and cell block if enough sample
+
+[Important Family Decisions]
+11/17 agreed intubation, pericardiocentesis and CVC insertion
+11/18 agreed cash-PPI use
+11/18 家屬已有DNR共識但最終決定權在父親
+
+Plan 
+1. keep Tazocin use for HAP, 10-14 days
+   inform family difficult weaning possibility and they 
+   will consider tracheostomy issue
+2. Keep dopamine for hemodynamic support
+   monitor BP and U/O as clinical markers
+   repeat UCG(after pericardiocentesis) to r/o 
+   contrictive pericarditis
+3. Inform family critical condition and management plan, 
+   pending family's decision about DNR
+4. Family agreed with PP window creation. Scheduled next 
+   week

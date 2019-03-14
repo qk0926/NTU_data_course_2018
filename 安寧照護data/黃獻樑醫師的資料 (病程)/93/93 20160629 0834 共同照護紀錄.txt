@@ -1,0 +1,26 @@
+<Doctor>
+1. Severe anemia, suspected GI bleeding, cause to be determined
+2. Suspected ventilator associated pneumonia
+3. Moderate aortic stenosis, complicated with acute lung edema and respiratory failure status post endotracheal intubation and ventilatory support (2014/03/13-2014/03/19), status post tracheostomy (2014/04/11)
+4. Adrenal insufficiency under Cortisone 
+5. Coronary artery disease, left main and 2-vessels disease
+
+Massive lower GI bleeding with progound shock 
+VT suspected severe metabolic acidosis related
+CT: suspected colon cancer=>tumor bleeding?
+[Plan]
+1. Empirica upgrade Tazocin to Mepem
+   (S/C PsA, Tazocin MIC 8) and keep Targocid for S/C MRSA
+2. Solucortef 200mg/day for suspect relative adrenal insufficiency => Shift to oral Cortisone 2#/1# on 6/27
+3. Ventilator support, monitor respiratory pattern
+4. Keep inotropic agent for shock, followup labs Hb
+5. Monitor hemogram and stool pattern, Massive GI bleeding noticed.
+
+<Nurse>
+GCS:E4M3VT，NPO中，PPN使用；持續監測觀察腸胃道出血的情形。
+<Pharmacist>
+  
+<Respiratory therapist>
+ Keep ventilator full support, difficult weaning due to heart
+ failure and pneumonia and massive GI bleeding and poor muscle
+ power endurance.

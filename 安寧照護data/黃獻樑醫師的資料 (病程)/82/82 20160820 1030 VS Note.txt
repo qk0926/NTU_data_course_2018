@@ -1,0 +1,22 @@
+Preparing to extubate.
+Will observe the condition after extubation, but will also inform the patient to confirm the decision after extubation in case distress develops.
+Maintain chest care.
+2016/08/20 PH:7.422 *
+2016/08/20 PCO2:40.4 mmHg
+2016/08/20 PO2:48.9 mmHg
+2016/08/20 HCO3:26.6 mmol/L
+2016/08/20 WBC:7.73 K/£gL
+2016/08/20 HB:8.3 g/dL
+2016/08/20 PLT:247 K/£gL
+2016/08/20 09:01 T:36.3 P:102 R:21
+2016/08/20 05:05 T:36.6 P:112 R:28
+2016/08/20 01:23 T:36.3 P:109 R:28
+2016/08/19 20:41 T:36.3 P:104 R:19
+2016/08/19 16:47 T:36.3 P:112 R:30
+2016/08/19 12:25 T:36.2 P:103 R:22
+2016/08/20 09:01 SpO2:100%(35%,L,VCR)
+2016/08/20 05:06 SpO2:100%(35%,L,VCR)
+2016/08/20 01:24 SpO2:94%(35%,L,VCR)
+2016/08/19 20:41 SpO2:98%(35%,L,VCR)
+2016/08/19 16:47 SpO2:100%(40%,10L,)
+2016/08/19 12:25 SpO2:100%(40%,10L,)

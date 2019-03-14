@@ -1,0 +1,16 @@
+1. Acute on chronic hypoxemic respiratory failure, status post ETT+MV (2017/06/28-), supsected CAP and/or IPF AE related
+2. Community acquired pneumonia
+3. Lung squamous cell carcinoma, right upper lobe, T2aN2M0, stage IIIA, s/p curative radiotherapy for right upper lobe lung tumor & right hilar/mediastinal lymphadenopathies (2016/12/28-2017/02/06), s/p Navelbine(D1,D8)+Cisplatin(D8) (C1D1=2017/02/17, C1D8=2017/02/24, C2D1=2017/03/09, C2D8=2017/03/16, C3D1=2017/03/31, C3D8=2017/04/09)
+4. Idiopathic pulmonary fibrosis, under Nintedanib
+5. Coronary artery disease, one-vessel-disease
+
+baseline: home O2 5L/min
+
+CT(6/26): increased focal GGO and some fibrotic area than CT on 4/20
+
+ever weaning from iNO when previous severe hypoxemic respiratory failure episode
+
+Plan:
+Empirical strong antibiotics
+iNO support
+Introduce palliative thought

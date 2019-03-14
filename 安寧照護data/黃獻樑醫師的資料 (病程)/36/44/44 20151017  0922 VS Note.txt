@@ -1,0 +1,16 @@
+Poor resolution of left lung haziness, probably due to hemorrhage and infection.
+Explained to the family that extubation is not feasible, but tracheostomy is also not recommended at this time point due to uncertain prognosis in the near future.
+Under antibiotics and anti fungal therapy.
+Poor prognosis.
+2015/10/17 08:46 SpO2:99%(50%,L,VCR)
+2015/10/17 04:38 SpO2:96%(55%,L,VCR)
+2015/10/17 01:26 SpO2:96%(55%,L,VCR)
+2015/10/16 20:09 SpO2:98%(55%,L,VCR)
+2015/10/17 08:46 T:36.4 P:112 R:30
+2015/10/17 04:36 T:36.4 P:114 R:22
+2015/10/17 01:26 T:36.5 P:119 R:29
+2015/10/16 20:08 T:36.5 P:112 R:30
+2015/10/17 08:46 BP:89/54
+2015/10/17 06:51 BP:104/64
+2015/10/17 04:36 BP:97/61
+2015/10/17 01:27 BP:96/50

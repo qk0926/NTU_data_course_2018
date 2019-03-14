@@ -1,0 +1,12 @@
+GCS:E1M2VT, T:36.5 P:60 R:12, BP:124/54, SpO2:100%, I/O:920/1040(-120)(24hr)
+
+2016/06/01 Free T4(CIA):1.11 ng/dL
+2016/06/01 hsTSH(CIA):0.374 £gIU/mL
+2016/06/01 Cortisol DL:21.2 £gg/dL
+2016/06/01 ACTH:31.9 pg/mL
+2016/06/01 Na:139 mmol/L
+
+<Plan>
+1.Close monitor consciousness level
+2.Keep mannitol and 3% NaCl
+3.Inform family about poor prognosis

@@ -1,0 +1,75 @@
+This 58-year-old man with:
+1. Hypercapnic respiratory failure, suspected neuromuscular disease, complicated with respiratory acidosis and in-hospital cardiac arrest, status post cardiopulmonary resuscitation (14 min) and endotracheal intubation + mechanical ventilation (2015-10-09), with return of spontaneous circulation
+2. Suspected hypoxemic encephalopathy, with coma and seizures
+3. Healthcare-associated pneumonia, improving
+5. Type 2 diabetes mellitus (2015-10-05 HbA1c: 7.7%), with suspected neuropathy
+6. Hypertension
+7. Hepatitis B
+8. Suspected neuromuscular disease, progressive, etiology unknown, bedridden
+9. History of left foot traumatic fracture
+
+<Treatment course>
+After admitted, poor conscious (E1M1Vt) was still notice. Emperical Ceftazidime was kept for suspect HAP. EEG was arranged on 2015/10/13 and reveals nearly no discernible cortical activities. Grave neurologis prognosis was informed to his family and they preffered withdraw the ventilation but need time let more family members came to see the patient. The patient's conscious mild improving to E2M2-3Vt then stasis again. Mild fever with increase sputum was noticed on 2015/10/19. Following CxR showed newly RLL patch, Brosyn was emperical added for VAP after septic work up. Although later the sputum culture yield MRSA and ESBL. K.P, antibiotics not adjusted due to the clinical condition was improving.
+
+<Assessment>
+<Abx>
+Brosym D6 (10/19~) for VAP and ear discharge showed MDRAb
+ceftazidime (10/5~10/14)
+
+No fever,
+conscious stasis, E1-2M3Vt, no improving in these days
+
+family (the patient's daughter) want observation the patient conscious for one month (from ETT), if still not improving, will withdrawal
+-> Aggreed to RCC transfer
+
+<Culture report>
+10/19 S/C: MRSA + ESBL.K.P -> but clinical seems improving
+10/12 B/C*2: no growth
+      S/C: mixed flora
+<Inotrope & Vasopressor>: nil
+
+<Nutrition>  NG diet: 1250Kcal/day, 1 Kcal/ml
+
+[MV settings]
+PCV IP:12 PEEP 5 FiO2 30%
+--> Vt 377 MV 5.34 SpO: 98-100%
+
+<Physical examination>
+Conscoiusness: E1-2M3Vt
+no pupil light reflex
+no doll's eyes signs
+no corneal reflex
+no facial grimace on ticking labial fold 
+gag reflex: positive
+HEENT: pink conjunctiva, anicteric sclera
+Chest: coarse breath sounds, no wheezes
+Heart: RHB without audible murmur
+Abdomen: soft, normoactive bowel sounds
+Extremities: pitting edema: 1+
+
+<Important Lab findings>
+
+<Important study findings>
+10/13 EEG: This EEG reveals nearly no discernible cortical activities
+10/19 CXR: right lung consolidation
+
+<Important intervention and newly added medications>
+10/09 IHCA at 博仁 hospital, CPCR 14min ROSC
+
+<Important consultation>
+Nil
+<Important patient's and family's decision>
+10/14 family (daughter) consider withdraw but need time thinking and discussion
+10/16 
+patient's mother came and saw the patient this morning, about patient's further plan still need time to discuss
+10/19 daughter sign DNR 全拒不重插管
+
+<Plan>
+1. Keep Brosym for VAP 
+   Upgrade Abx to carbapenem and anti-MRSA agent if 
+   pneumonia progressed for S/C: MRSA + ESBL K.p.
+2. keep Tarivid for COM
+3. noticed the gradually deckube Hb (cause: hematuria?), compoment therapy if need
+4. inform family about grave neurologic prognosis, family (daughter) consider withdrawal 
+5. Keep PCV mode. No indication for weaning
+6. Consult RCC next W1 for transfer (today is D15 of intubation)

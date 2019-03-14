@@ -1,0 +1,8 @@
+Inform the family about the probability of recurrent respiratory failure due to poor airway hygiene and and clearance function.
+Post-tapping pneumothorax persisted. Pigtain inserted.
+Monitor VBG data.
+2016/09/07 PH:7.333 *
+2016/09/07 hsCRP:10.55 mg/dL
+2016/09/07 PCO2:66.3 mmHg
+2016/09/07 PO2:45.1 mmHg
+2016/09/07 HCO3:35.5 mmol/L

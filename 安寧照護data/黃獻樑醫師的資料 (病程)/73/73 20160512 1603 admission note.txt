@@ -1,0 +1,493 @@
+2016/05/12 16:03 
+主訴(Chief Complaint) 
+Informant:family
+Loss of consciousness at 2016/05/12 06:00 
+病史(Brief History) 
+Present illness:
+    The 62-year-old man had colon cancer, adenocarcinoma, splenic flexure, pT4aN1bM0, stage IIIB, status post loop T-colostomy (2014/4/15), status post laparoscopic left hemicolectomy and protective loop ileostomy (2014/4/22), status post FOLFOX (I, 2014/5/27), status post closure of loop ileostomy (2014/7/11), PD with liver mets, status post RFA (II), status post FOLFIRI (I, 2015/5/29), PD with peritoneal seeding and pleural mets, status post right hemicolectomy + intra-abdominal seeding excision + intraabdominal chemotherapy + ileostomy (2015/7/29), s/p FOLFOXFIRI + Avastin (IV, C1D1=2015/9/14 ~ C4D1=2015/12/12), status post FOLFIRI (II, C1D1=2016/1/28 ~ C2D1=2016/2/20), status post FOLFIRI + AVASTIN (I, 2016/04/16)
+    
+    Initially, he presented abdominal pain for 1 month in 2014/03, he had ever search for medical help and colonoscope was performed by local medical department physician, which showed a descending-colon tumor, 40cm AAV, 2.0cm circular, cauliflower and irregular mass, the biopsy was performed and showed tubular adenoma, moderate to severe dysplsia. he went to Dr.梁金銅's OPD for second opinion on 2014/04/10 and he was then admitted to general surgical ward for further evaluation and treatment. Abdominal and pelvis CT on 4/14 showed suspicious tumor at the proximal descending colon. Due to the obstruction of the colon, loop T-colostomy was performed smoothly on 2014/4/15. He received laparoscopic left hemicolectomy with protective ileostomy smoothly on 4/23. Pathology report on 4/28 showed adenocarcinoma, pT4aN1bM0, stage IIIB, port-A was implanted and chemotherapy with FOLFOX (I) was given on 2014/5/27. Stomy closure was done on 2014/07/11.
+    However, RIA:CEA (Serum) increased to 15.8 ng/ml(6.83 ng/ml this April), and whole body FDG(PET) showed probable viable malignancies at hepatic surface and peritoneal cavity. Under the impression of colon cancer with liver metastasis, he was admitted for RFA for liver metastasis  on 2015/05/28, then receive FOLFIRI (I) on 2015/05/29. Right hemicolectomy + intra-abdominal seeding excision + hepatic RFA + intra-abdominal chemotherapy + ileostomy were performed on 2015/7/29. He developed dyspnea and was admitted on 2015/09/10, pleural effusion cytology revealed adenocarcinoma, metastatic; FOLFOXFIRI + AVASTIN (I) was administrated on 2015/9/14, and FOLFOXFIRI + AVASTIN (II) on 2015/10/14, C3D1=2015/12/12 on 2015/11/15, C4D1=2015/12/12, 
+. 2015/10/15 PET showed new hot areas at right neck and bilateral pleura, Regorafenib was started since 2015/12/14-2016/02. FOLFIRI C1D1=2016/01/28 and C2D1= 2016/02/20. CT With/Without Contrast-Abdomen on 2016/02/20 showed multiple peritoneal seeding tumors, smaller. PET study on 2016/04/13 revealed diffuse FDG-avid lesions at bilateral pleura, left lung, right lobe of liver and peritoneum. He was admitted to our ward for the scheduled chemotherapy with FOLFIRI + AVASTIN on 2016/04/16(C1D1=2016/04/16). 
+    He came to our ER on 2016/05/06 for dyspnea, and was treated as lung edema, diuretics was given but the symptoms was not improved after discharged, orthopnea was noted at home, but no pitting edema. Body weight loss, poor appetite also noted for about few weeks.
+    This time, while he was awake and went to bathroom in 2016/05/12 morning, weakness and consciousness loss was noted and he was sent to 亞東 hospital for evaluation, brain CT showed no ICH. Pulseless was detected and CPCR was initiated for 5 monutes and ROSC was achieved. He was transfer to NTUH ER for further treatment. At arrival, T/P/R: 36.8/124/24, BP: no dectected, E4M4Vt. Lab data showed leukocytosis compaired to 05/06 data, no liver or renal function impairment, no elevated cardiac enzyme, EKG showed sinus tachycardia. Whole body CT showed right side pleural effusion, enlarged liver metastic tumor, no evidence of bowel perferation. NG was inserted and bloody content was noted. Under the impression of septic shock with transient brain hypoperfusion, he was admitted for further treatment.
+
+
+Family History:
+Medication Allergy:No  病人自述 2014/04/13
+No  病人自述 2014/04/10
+No  病人自述 2014/04/11
+No  舊病歷資料 2016/01/28
+No  病人自述 2015/08/04
+No  病人自述 2015/07/27
+No  舊病歷資料 2015/07/29
+No  病人自述 2015/12/12
+No  病人自述 2014/07/09
+No  病人自述 2015/10/14
+No  病人自述 2015/05/25
+No  舊病歷資料 2015/05/29
+No  病人自述 2016/02/20
+No  病人自述 2014/05/26
+No  病人自述 2016/03/21
+Medication ADR:unknown
+Allergy to Medical Device and Materials:No  病人自述 2014/04/13
+UnClear  病人自述 2014/04/10
+No  病人自述 2014/04/11
+No  舊病歷資料 2016/01/28
+No  病人自述 2015/08/04
+No  病人自述 2015/07/27
+No  舊病歷資料 2015/07/29
+No  病人自述 2015/12/12
+No  病人自述 2014/07/09
+No  病人自述 2015/10/14
+No  病人自述 2015/05/25
+No  舊病歷資料 2015/05/29
+No  病人自述 2016/02/20
+No  病人自述 2014/05/26
+No  病人自述 2016/03/21
+Current Medication:
+NTUH:警 Levophed 4 mg/4 mL /amp 8 mg QD cIF 2 days
+Beesix (VIT.B6) 50 mg/tab 1 tab QD PO 28 days
+B.C. /cap 1 cap QD PO 28 days
+自費 Proheparum /tab 1 tab QD PO 28 days
+(管4) Ultracet tab /tab 1 tab TID PO 28 days
+Prometin 5 mg/tab 1 tab BIDAC30 PO 28 days
+摩 Mopride FC 5 mg/tab 1 tab BID PO 28 days
+SOLAXIN 200 mg/tab 1 tab TIDPC PO 28 days
+Other:
+中草藥:nil
+保健食品:nil
+Past Medical History:
+Hospitalization:入院日期:2014_05_26 出院日期:2014_05_29 診斷:Malignant neoplasm of descending colon
+入院日期:2015_10_14 出院日期: 診斷:Malignant neoplasm of descending colon
+入院日期:2015_06_10 出院日期: 診斷:Malignant neoplasm of descending colon
+入院日期:2016_04_16 出院日期:2016_04_18 診斷:Colon cancer, descending colon
+入院日期:2016_03_21 出院日期:2016_03_28 診斷:Gastritis
+入院日期:2016_02_20 出院日期:2016_02_22 診斷:Colon cancer, descending colon
+入院日期:2016_01_28 出院日期:2016_01_30 診斷:Colon cancer, descending colon
+入院日期:2015_12_12 出院日期:2015_12_14 診斷:Malignant neoplasm of descending colon
+入院日期:2015_11_15 出院日期:2015_11_17 診斷:Malignant neoplasm of descending colon
+入院日期:2015_10_14 出院日期:2015_10_16 診斷:Malignant neoplasm of descending colon
+入院日期:2015_09_10 出院日期:2015_09_16 診斷:Malignant neoplasm of descending colon
+入院日期:2015_07_27 出院日期:2015_08_19 診斷:Malignant neoplasm of descending colon
+入院日期:2015_05_25 出院日期:2015_05_31 診斷:Malignant neoplasm of descending colon
+入院日期:2014_07_09 出院日期:2014_07_19 診斷:Malignant neoplasm of descending colon
+
+Past Surgical History:2014_05_26  
+2014_05_26  Left side Port-A implantation via percutaneous puncture
+2014_07_11  Closure of loop ileostomy
+2015_05_28  Radiofrequency ablation
+2015_07_29  Right hemicolectomy + hepatic RFA + intra-abdominal seeding excision + intra-abdominal chemotherapy + ileostomyRadiofrequency ablation
+Travel History:
+
+Birth History(for pediatric patients):
+Vaccination History:
+Growth and Development History:
+Maternal History(2y/o): 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:國中
+職業:退休
+宗教信仰:無
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:O，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有，已戒煙:3年
+喝酒:沒有
+檳榔:沒有
+物質濫用:不知道
+
+Psychological History and Evaluation
+意識狀態:警醒
+認知功能:異常 時間障礙 地點障礙 記憶力障礙 計算能力障礙
+精神情緒狀態:異常 焦慮 躁動 
+安全問題:有 其他 管路安全、預防跌倒
+睡眠形態:正常  
+
+Nutritional Screen
+攝食情形:
+排便狀態:正常
+BMI:17.7
+
+Fall Risk Assessment
+總分:9
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1. Systemic: no fever ,no BW loss ,no easy-fatigability ,no change of appetite ,no dizziness 
+2. Skin: no petechiae ,no purpura ,no itching ,no local redness and swelling ,no papules 
+3. HEENT: no hearing loss ,no nasal discharge ,no sore throat,no  headache
+4. Cardiovascular:no palpitation ,no exertional of dyspnea 
+5. Respiratory:no dyspnea ,no chest pain ,no cough ,no sputum production 
+6. GI:no anorexia ,no nausea ,no vomiting ,no constipation ,no diarrhea ,no melena ,no change of bowel habit ,no small caliber of stool ,no tenesmus ,no flatulence ,no abdominal pain
+7. Urogenital:no flank soreness ,no hematuria ,no urinary frequency ,no urgency ,no dysuria , no hesitancy ,no nocturia ,no polyuria ,no oliguria  
+8. Musculoskeletal:no Back pain ,no bone pain ,no joint pain
+
+系統性回顧(Review of System) (■:positive, □:negative)
+1.Systemic: □fever, □chills, □easy-fatigability, □consciousness disturbance
+            □weight change, □night sweats, □heat/cold intolerance, □thirsty
+            □diffuse arthralgias/myalgias, □insomnia
+2.Skin: □rash, □pruritis, □dryness, □ulcers, □color changes, □moles, □plaque
+        □hair loss, □hirsutism, □telangiectasia □petechiae, □purpura
+3.Head: □headache, □dizziness, □vertigo, □alopecia, □head trauma 
+4.Eyes: □ocular pain, □diplopia, □vision loss, □blurred vision, □redness, 
+        □photophobia, □excess tearing 
+        □poor visual acuity, □cataracts, □glaucoma
+5.Ears/Nose: □otalgia, □otorrhea, □hearing impairment, □tinnitus, 
+             □sinus pain, □nasal congestion, □rhinorrhea, □epistaxis, □anosmia
+6.Mouth/Throat: □oral ulcer, □gum bleeding, □dental problems
+                □sore throat, □dysphagia, □odynophagia, □hoarseness
+7.Cardio-Respiratory: □cough, □sputum, □dyspnea:at rest/exertional, 
+                      □pleuritic pain, □tachypnea, □hemoptysis, □chest tightness,
+                      □orthopnea, □paroxysmal nocturnal dyspnea, □syncope,
+                      □palpitation, □intermittent claudication
+8.Gastrointestinal: □anorexia, □nausea, □vomiting:bilious/feculent, □hematemesis  
+                    □heartburn, □acid regurgitation, □belching, □hiccup
+                    □abdominal pain:______, □hunger pain, 
+                    □diarrhea, □constipation, □melena, □clay-colored stool
+                    □change of bowel habit, □tenesmus, □flatulence
+9.Genito-urinary: □urinary frequency, □urgency, □dysuria, □hesitancy,
+                  □incontinence, □nocturia, □polyuria, □oliguria 
+                  □small stream of urine, □cloudy urine, □hematuria,
+                  □flank pain, □impotence, □abnormal sexual exposure
+10.Musculoskeletal: □bone pain, □arthralgia, □myalgia, □back pain
+                    □joint stiffness, □cramps, □fractures
+11.Neurological: □numbness, □paresis/plegia, □convulsion, □paresthesia, □ataxia, 
+                 □resting tremor, □gait disturbance,  
+12.Psychiatric: □insomnia, □memory loss, □anxiety, □panic, □confusion
+                □hallucination, □delusion, □suicidality 
+身體檢查(Physical Examination) 
+BH: 160 cm,  BW: 45.3 kg,
+T: 37.6 °C,  P: 137 bpm,  R: 25 /min,
+BP: 153 / 89 mmHg,
+Pain score: 0 ,
+
+Neurological Examination: 
+. Consciousness: 
+. Muscle power: 
+. Gait:
+HEENT: grossly normal, conjunctiva: pink, sclera: anicteric
+             Pupil: isocoric,  3mm/ 3mm
+Light reflex: L/R: +/+, EOM: full and free
+Neck: supple, no JVE  no LAP  no Goiter no Carotid bruit
+Chest: symmetric expansion, breath sound: clear
+Heart: RHB, no murmur
+Abdomen: soft and flat, bowel sound: normoactive
+         Liver/ spleen: impalpable
+         no Tenderness   no Rebound tenderness  
+Back: No knocking tenderness
+Extremities: Freely movable, no pitting edema ; no cyanosis  
+Skin: no Skin rash  
+
+[Neurological Examination]
+Consciousness: alert, E4M6V5
+Cranial nerve                                                   
+I    Not checked
+II   VA- not checked; VF(confrontation test): no defect
+Pupil size: 2 mm/2 mm, LR: +/+
+III, IV, VI
+    EOM: Full and free; No ptosisV    Corneal reflex: R / L= +/ +
+      Sensory: intact
+      Motor : masseter muscle = no weakness
+VII    No facial palsy
+VIII   Hearing ability : grossly intact
+IX, X  Gag reflex: R / L = +/+ ;soft palate elevation- symmetric  
+XI    SCM / Trapezius muscle : no weakness
+XII   Tongue protrusion: no deviation, no fasciculation; Tongue atrophy (-)
+
+Motor
+Muscle power: normal
+Deep tendon reflex: normal
+Muscle tone-no spasticity or flaccidity 
+Fasciculation-nil 
+Muscle atrophy (-); Muscle hypertrophy (-)
+
+Sensation
+Pinprick: intact
+Temperature: intact
+Vibration: intact
+Proprioception: intact
+
+Vestibular system and coordination
+F-N-F –no dysmetria 
+RAM- no dysdiadochokinesia
+Romberg test (-)
+Tandem gait: stable
+
+Extrapyramidal system
+Rigidity (-), Rest tremor (-), Bradykinesia(-)
+
+Sphincter
+Anal sphincter tone: intact
+Urethra sphincter tone: intact 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:General BioChemistry
+
+               TP            LDH          
+time/item      (g/dL)        (U/L)        
+1050512 [1103] 4.0           274          
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050512 [1103] 7.389         50.3          230.0         30.7          5.5          
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050416 [0958] 8.31          4.35          13.2          39.9          91.7         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050416 [0958] 30.3          33.1          269           16.3          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050416 [0958] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050416 [0958] 74.9          1.6           0.4           7.8           15.3         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050416 [0958] 0.0           0.0           0             -            
+
+
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050512 [0821] 128          
+1050512 [1106] 113          
+*********檢驗室:RL***********
+
+群組:
+
+               Troponin-T    CK-MB         Mucus(S)     
+time/item      (ng/L)        (ng/mL)       (*)          
+1050512 [0830] 27.36         5.49                       
+1050512 [0914]                             -            
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1050512 [0914] >100          10-20         5-10          -             Ca-OX(+) Amm 
+                                                                    .urate(+)    
+               Bacteria      Others(S)    
+time/item      (*)           (*)          
+1050512 [0914] 2+            -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1050512 [0914] 1.020         6.0           100 ( 2+ )    -             1+           
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1050512 [0914] 3+            ≦1.5          -             -             2+           
+               Color         Turbidity    
+time/item      (*)           (*)          
+1050512 [0914] Yellow        +            
+群組:Biochemistry
+
+               BUN           CRE           Na            K             Ammonia N    
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)     
+1050512 [0830] 14.3          0.5           135           4.6           32           
+               T-BIL         Lipase        Ca            Mg            LacticAcid   
+time/item      (mg/dL)       (U/L)         (mmol/L)      (mmol/L)      (mmol/L)     
+1050512 [0830] 0.71          200           2.20          0.88          1.39         
+               CK           
+time/item      (U/L)        
+1050512 [0830] 56           
+群組:Yes
+
+               hsCRP         NT-pro BNP   
+time/item      (mg/dL)       (pg/mL)      
+1050512 [0830] 5.55          911.8        
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1050512 [0830] 12.0          30.8          1.11         
+群組:General BioChemistry
+
+               ALB           ALT          
+time/item      (g/dL)        (U/L)        
+1050512 [0830]               38           
+1050512 [0847] 3.2                        
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050512 [0830] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050512 [0830] 83.3          0.1           0.1           7.5           9.0          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050512 [0830] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050512 [0830] 12.06         3.92          11.7          36.5          93.1         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050512 [0830] 29.8          32.1          257           15.7          -            
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1050512 [0830] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1050512 [0830] O             Positive     
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               CRE           Na            K             CK           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (U/L)        
+1050506 [0723] 0.6           137           4.0                        
+1050506 [0744]                                           36           
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050506 [0723] 7.331         58.2          31.8          31.0          4.8          
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1050506 [0723] 39           
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050506 [0723] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050506 [0723] 57.7          1.6           0.3           12.5          27.9         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050506 [0723] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050506 [0723] 3.77          4.52          13.4          41.4          91.6         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050506 [0723] 29.6          32.4          239           15.8          -            
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1050506 [0723] 10.9          32.4          1.03 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+CT With/Without Contrast-Abdomen 醫令: CT With/Without Contrast-Abdomen 報告醫師: 葉建德 影像時間: 2016/05/12 09:26 (33072B3M) 發報告時間: 2016/05/12 10:30 Abdomen and pelvis CT with/without contrast enhancement shows
+1. Post-op change of left hemicolectomy. s/p ileostomy. 
+2. Multiple peritoneal seeding tumors, with invasion of liver parenchyma. Some hepatic lesions are enlarged as compared to previous CT on 2016/2/2.
+3. No ascites. 
+4. Left renal cysts. 
+5. Unremarkable gallbladder, adrenal glands, pancreas, spleen.
+6. No enlarged paraaortic or inguinal lymphadenopathy. 
+7. Enlarged prostate. 
+8. Thoracolumbar spondylosis with marginal spur formation at multiple levels. (previous) compression fracture(s) and wedge deformity or decrease in height at multiple lumbar spine. 
+9. Placement of a nasogastric tube and a foley catheter.
+CT With/Without Contrast-Chest 醫令: CT With/Without Contrast-Chest 報告醫師: 陳世杰 影像時間: 2016/05/12 09:26 (33072B2M) 發報告時間: 2016/05/12 12:16 CT of chest without & with iv contrast shows:
+1. comparison: 20160202 CT. 
+2. left Port-A insertion. small LN at mediastinum, stable. 
+3. interlobular thickening at bilateral lungs. 
+4. bilateral pleural seedings. right pleural effusion, increased.
+5. several tiny ~ small bilateral lung metastasis nodules.
+
+suggest follow & correlated with clinical manifestation.
+Please refer to detailed corresponded report(s) and CT imaging of other body part(s).
+CT With/Without Contrast-Pelvis 醫令: CT With/Without Contrast-Pelvis 報告醫師: 葉建德 影像時間: 2016/05/12 09:26 (33072B5M) 發報告時間: 2016/05/12 10:30 Abdomen and pelvis CT with/without contrast enhancement shows
+1. Post-op change of left hemicolectomy. s/p ileostomy. 
+2. Multiple peritoneal seeding tumors, with invasion of liver parenchyma. Some hepatic lesions are enlarged as compared to previous CT on 2016/2/2.
+3. No ascites. 
+4. Left renal cysts. 
+5. Unremarkable gallbladder, adrenal glands, pancreas, spleen.
+6. No enlarged paraaortic or inguinal lymphadenopathy. 
+7. Enlarged prostate. 
+8. Thoracolumbar spondylosis with marginal spur formation at multiple levels. (previous) compression fracture(s) and wedge deformity or decrease in height at multiple lumbar spine. 
+9. Placement of a nasogastric tube and a foley catheter.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 簡寧 影像時間: 2016/05/12 08:48 (32001CYM) 發報告時間: 2016/05/12 12:16 normal heart size. bilateral pleural effusion. degenerative spondylosis at the thoracic spine. Placement of an endotracheal tube and a NG tube.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 劉高郎 影像時間: 2016/05/06 07:36 (32001CXM) 發報告時間: 2016/05/06 13:02 EXAMINATION: Chest : PA View (Standing)
+FINDINGS:
+1. No evidence of subphrenic free air is noted. 
+2. Left Port-A insertion from left subclavian vein is noted with tip in the superior vena cava. 
+3. Small nodules in the left lower lung can not be excluded. 
+4. Bilateral pleural effusions; 
+5. Operative change in the left upper abdomen;.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 葉建德 影像時間: 2016/04/18 08:31 (32001CXM) 發報告時間: 2016/04/19 18:45 normal heart size. atelectasis of bilateral lungs. bilateral pleural effusion. placement of a left Port-A catheter.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 柯維鈞 影像時間: 2016/04/17 08:59 (32001CXM) 發報告時間: 2016/04/17 17:30 Chest PA shows placement of a left port A catheter. normal heart size. calcification of aorta. bilateral pleural effusion. hazy opacities at left lower lung field. degenerative change of the T spine. postoperative change of the left upper abdomen with placement of clips.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 陳育青 影像時間: 2016/04/16 13:28 (32001CXM) 發報告時間: 2016/04/19 18:06 a port-A-cath. normal heart size. blunted bilateral costophrenic angles. bilateral patchy opacities.
+Chest : PA View (Standing) 醫令: Chest : PA View (Standing) 報告醫師: 簡寧 影像時間: 2016/04/16 21:02 (32001CXM) 發報告時間: 2016/04/18 22:24 normal heart size. increased infiltration in the bilateral lung fields. right pneumohydrothorax. suggest correlation with clinical manifestation. placement of a left port A catheter. post-operative changes with surgical clips at the LUQ of abdomen.
+Whole body FDG (健保) 醫令: Whole body FDG (健保) 報告醫師: 路景竹 影像時間: 2016/04/13 11:21 (000TP006) 發報告時間: 2016/04/14 13:05 NUCLEAR MEDICINE STUDY: Whole body FDG PET(Positron Emission Tomography).
+RADIOPHARMACEUTICAL: Intravenous  MBq 18FDG (2-[Flurorine-18] fluoro-2-deoxy-D-glucose).
+CLINICAL HISTORY: Splenic flexure colon cancer with colonic obstruction, pT4aN1bM0, stage IIIB, status post loop T-colostomy on 2014/4/15, status post laparoscopic left hemicolectomy with protective ileostomy on 2014/4/22, status post port-A implantation on 2014/5/26, status post chemotherapy with FOLFOX on 2014/5-10. 
+SCINTIGRAPHIC FINDINGS:
+          Whole body PET from vertex of the skull to mid thighs was performed 45 minutes and delayed 2 hours after intravenous injection of 18FDG. The computer reconstructed coronal and sagittal images disclosed:\
+compared with prior study on 2015/10/15:
+* Multiple new diffuse hot areas along bilateral pleura, left lung (fig.1-3, SUVmax=5.1), right lobe of liver (fig.4-5, SUVmax=8.4) and peritoneum (fig.6-7, SUVmax=5.4).
+* SUV: standard uptake value. 
+病理報告(Pathology Report) 
+S1530037
+Intestine,large,cecum,right hemicolectomy,adenocarcinoma,metastatic (serosal seedings),   
+Intestine,small,ileum,right hemicolectomy,adenocarcinoma,metastatic (serosal seedings),   
+Appendix,appendectomy,adenocarcinoma,metastatic (serosal seedings),   
+Lymph node,regional,dissection,adenocarcinoma, metastatic (4/13),   
+Soft tissue,neum, labeled as tumor seeding,perito excision,adenocarcinoma, metastatic    
+ S1415214
+Intestine,large,colon,splenic flexure,laparoscopic left hemicolectomy,adenocarcinoma    
+Intestine,large,colon,additional proximal margin,resection,no evidence of malignancy    
+Intestine,large,colon,additional distal margin,resection,no evidence of malignancy    
+Lymph node,regional,lymphadenectomy,adenocarcinoma,metastatic (3/29),   
+Omentum,omentectomy,chronic inflammation    
+ S1427165
+Intestine,small,ileum,ileostomy closure,chronic inflammation 
+臆斷(Tentative Diagnosis) 
+1. Colon cancer, adenocarcinoma, splenic flexure, pT4aN1bM0, stage IIIB, status post loop T-colostomy (2014/4/15), status post laparoscopic left hemicolectomy and protective loop ileostomy (2014/4/22), status post FOLFOX (I, 2014/5/27), status post closure of loop ileostomy (2014/7/11), PD with liver mets, status post RFA (II), status post FOLFIRI (I, 2015/5/29), PD with peritoneal seeding and pleural mets, status post right hemicolectomy + intra-abdominal seeding excision + intraabdominal chemotherapy + ileostomy (2015/7/29), s/p FOLFOXFIRI + Avastin (IV, C1D1=2015/9/14 ~ C4D1=2015/12/12), status post FOLFIRI (II, C1D1=2016/1/28 ~ C2D1=2016/2/20), status post FOLFIRI + AVASTIN (I, 2016/04/16)
+2. Septic shock, suspected intra-abdominal infection related
+3. Malignant pleural effusion, favored pleural seeding related, with suspected restrictive lung
+4. Gastrointestinal bleeding, suspected ulcer bleeding related, small amount 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*
+Treatment Goal:
+1. Keep ventilator support, try PSV weaning gradually
+2. NPO and D50W support, consider EGD for bleeder dectect, use IV nesium first
+3. Tazocin for intra-abdominal infection
+4. Monitor end organ perfusion and function 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 左鎖骨下 右手 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.5mm 
+胃造廔口：無  
+尿管留置：有 Two way Foley 16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：自己 配偶 
+出院規劃收案篩檢：高危病患 帶有管路 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the intern. 
+醫師姓名 
+郭炳宏 主治醫師 

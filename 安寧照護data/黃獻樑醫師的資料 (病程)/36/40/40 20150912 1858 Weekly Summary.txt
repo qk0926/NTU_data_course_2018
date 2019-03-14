@@ -1,0 +1,93 @@
+<Diagnosis>
+1. TB meningoencephalitis, under HERZ (2015/09/04-), complicated with acute increased intracranial pressure and brain herniation
+2. Hypoxic respiratory failure, cause to be determined, status post ETT+MV (2015/09/10-)
+3. shock, favor neurogenic shock
+4. diabetes incipidus, central type
+
+<Brief History>
+A diagnosis of CNS infection was made and vancomycin and ceftriaxone administered. Non-contrast brain CT on 9/1 showed diffuse brain swelling, especially at the cerebral cortex. One small hypodense nodule was noted at the right frontal subcortical white matter. Lumbar puncture was performed on the same day, which showed an opening pressure: 20cm H2O, pleocytosis(WBC:200, Lym:79.6%, Neu 17.9) and low level of glucose: 12 mg/dL. Blood test showed hepatitis(AST:94, ALT:104) and abdominal sonography disclosed 1. suspect chronic parenchymal liver disease, 2. Gall sludge, 3. Mild right hydronephrosis. We added Acyclovir for virus coverage. On 9/2, the brain MRI, which showed gyral swelling and increased T2 SI on FLAIR are also noted around right Sylvian fissure, with one ovoid T2 high SI nodule 1.2 x 0.7cm at the right frontal subcortical white matter, may be early encephalitis. The results were negative for HBV, HCV, VDRL but postive for anti-HIV(ELISA) test. Anti-TB therapy is started after administration of steroids. Her blood culture, Toxoplasma IgM, VDRL, Cryptococcal Ag, CSF HSV DNA all yieled negative finding.  
+
+She was transferred to our hospital on 9/3 due to progressive conscious disturbance for 2 weeks. On 9/2, the brain MRI at 博仁 Hospital which showed gyral swelling and increased T2 SI on FLAIR are also noted around right Sylvian fissure, with one ovoid T2 high SI nodule 1.2 x 0.7cm at the right frontal subcortical white matter, may be early encephalitis. The results were negative for HBV, HCV, VDRL but postive for anti-HIV(ELISA) test. 
+
+<Hospital course>
+After admission, HIV Ag/Ab Combo test showed negative finding. On 9/3, lunbar puncture with opening pressure:580mmHg was noted. CSF analysis revealed lymphocyte predominate. Tb meningoencephalitis was first suspected. Anti-TB therapy is started after administration of steroids. Initial GCS was E3V5M6. Vital sign T:36.9 P:117 R:22, BP:155/80 mmHg. Later, blood culture, Cryptococcal Ag, VDRL, Toxoplasma IgM, CSF CMV and CSF HSV DNA, all yieled negative finding. But CSF TB PCR showed positive finding.  
+
+Repeat lumbar puncture was done on 9/6 as acute consciousness change again. Lab data showed no correctable metabolic factor, and Brain CT showed still swelling brain without not clear gyrus. Also, there was decreased attenuation at right basal ganlion, insular lobe, and suspected right temporal lobe. Suspected focal high density at right anterior frontal lobe. We consulted neurologist for further evaluation. Under suspicious of TB meningoencephalitis, complicated with basal cistern vasculitis with ischemic stroke and IICP, lumbar puncture was done again. The open pressure was 150mmH2O. with lymphocyte predominent. (TP:153.9, GLU:46). 15ml CSF fluid was drain out for relieving IICP. Her consiousness was gradually improved to E4M6V5. (可以回答問題，可以因應我們的對談而笑)
+
+On 9/10 03:30AM, acute hypotension(SBP:70-80mmHg) and desaturation(SpO2:<80mmhg) were noted. At bedside, GCS was E1V1M1. Normal saline fluid challange and O2 mask was used initially but in vain. Therefore, levophed(4amp in 500, run 10-40ml/hr) and non-rebreathing mask were given. Due to still low SpO2(85%) and impending respiratory failure, endotracheal tube was inserted. Her blood pressure was still unstable, then central venous catheter was inserted and vasopressin(2 amp in 100ml, run 4ml/hr) was used. Two amp of Roliken was prescribed for acidosis.(gas:PH:6.8). Two times of seizure attack(bilateral upper gaze and decerebrate rigidity) was also noted after endotracheal tube insertion. Neurologic examination showed uneuqal pupil size(R`t>L`t) with positive light reflex. Doll's eye movement was negative. She had received brain and whole spin MRI at 9/9 night, and no specific progressed lesion was found compared with previos image. Then at 5:30AM, she was transfered to internal medicine ICU for further treatment.
+  After transferred to ICU, we found diffuse ST-elevation in EKG. We consulted CV specialist and they suggested catecholamine related STT change. Thus, we DC pitressin and add dopamine to keep her BP. Pupil response was found. ICON on 9/10 showed CI 2.8, SVRI 2553, SVV 23. Follow-up cardiac enzyme showed decreased. We gave IV hydration and tapered inotropic agents gradually. Rocephin was shifted to cefepime as empirical therapy of bacterial meningitis and HERZ was kept after discuss with ID specialist. She became agitated with involuntary limb movement in the afternoon on 9/10. However, loss of pupil reflex and non-sustained polymorphic VT was noted in the morning of 9/11. Amiodarone was given for 24 hours. Neurologist was consulted and emergency brain CT was done. It showed loss of autoregulation, severe brain edema and brain herniation. Neurologisted suggested brainstem dysfunction with severe brain edema, also with hydrocephalus. However, no management was indicated. Central diabetes insipidus was found so we gave minirin. Hypernatremia was corrected by half saline. We informed her son about grave prognosis and he asked for aggressive therapy.
+
+HERZ (09/03-) for TB meningoencephalitis
+Rocephin (09/03-10)
+Maxipime (09/10-) due to shock
+Fluconazole (09/08-) for oral candidiasis
+Cordarone for Polymorphic VT (09/11-09/12)
+
+[PE]
+GCS:E3V5M6(9/4-5)->E2M1V1-2(9/6)->E3M6V5(9/7)->E4M5V5(9/8)->E4M6V5(9/9)>E1M4Vt(9/10) -> E3M4VT -> E1M4Vt >> E1M1Vt(9/11)
+Pupil size: R/L:4.5/4.5mm; Pupil light reflex: -/- 
+Muscle power: N/A
+DTR：
+  Right: biceps: -, triceps: -, brachioradialis: -, knee: -, ankle: -
+  Left: biceps: -, triceps: -, brachioradialis: -, knee: -, ankle: -
+Babinski sign: suspected dorsiflexion
+
+HEENT: stiff neck, equivocal meningeal signs
+Chest: bilateral rales, right side dependent part crackles.
+Heart: RHB, no murmurs
+Abdomen: soft and flat, no tenderness
+Extremity: no rashes or skin lesions. no edema
+
+[Ventilation]
+PCV IP 18 PEEP 8 FiO2:30 RR 10
+>> Vt:580 MV:7 RR 10
+
+[Nutrition]
+Try D5W 50ml Q6H
+
+[Important symptoms, signs, physiologic changes and response to management]
+09/11 Loss brain stem reflex. Polymorphic VT>> Cordarone.
+
+[Important Study findings]
+09/03 HIV Ag/Ab Combo -for screening test:neg Western Blot for HIV-1: Indeterminate (weakly P55,P25/24) HIV viral load: undetectable 
+S.T.S. (VDRL/RPR Test): Non-Reactive
+HBsAg:neg Anti-HBs:positive IgM-Anti-HBc:neg Anti-HCV:neg
+Aspergillus Ag:neg Cryptococcal Ag: neg Toxoplasma IgG/IgM:32.6/neg
+     CSF RBC:22 WBC: 330(L/N:314/16) TP:201.9 GLU:10 LDH:143 G/S:many PMN(>25, ?) no bacteria visible bacteria: neg AFS:neg
+     TB PCR: positive CMV viral load: neg HAS DNA:negative Cryptococcal Ag: neg India ink:not found 
+CSF cytology: neg(Lymphocytes and a few neutrophils are present)
+Sputum AFS: negX3(9/04-09/06)
+No CD4/CD8 reverse(28/18)
+
+09/06 CSF: RBC:378 WBC: 158(L/N:98/2) TP:153.9 GLU:46 bacteria:neg AFS:neg
+09/08 CSF: OP 23.8 cm, RBC:154 WBC: 148(L/N:142/6) TP:125.6 GLU:32
+09/10 ICON: CI 2.8, SVRI 2553, SVV 23
+09/10 fT4 0.766 TSH 1.63 ACTH 71 cortisol 29.4
+09/11 ICON: CI 1.9, SVRI 3879, SVV 19
+      Blood Osm:342 Urine Osm:92
+
+[Image]
+09/06 Brain CT(w/o contrast): Meningoencephalitis change with hydrocephalus, and suspected recent infarction at right insular-temporal lobes.
+09/09 Brain to spine MRI: Meningoencephalitis. small infarct in right basal ganglia.
+09/11 Brain CT (w/o C): Loss of autoregulation. severe brain edema. brain herniation
+
+[Important Interventions and Newly Added Medications]
+9/11 Shift to Rinderon 8mg BID. Vasopressin.
+
+[Important Consultation and Meeting Suggestions]
+9/9  CV: suspect Vasopressin related vasospasm
+9/11 Neuro: brainstem dysfunction with severe brain edema, also with hydrocephalus. However, no management was indicated currently.
+     Dr.陳雅芳: smaller bilateral MCA, suspect vasculitis.
+
+[Important Family Decisions]
+9/10 仲介: her son will come next week if Visa was confirmed. Aggressive therapy before the arrival of her son.
+9/11 We had contacted her son in Indoneslia for discussing the disease status and grave neuroloic outcome 
+     Son: aggressive treatment
+
+<Plan>
+1. Keep Maxipime empirically; monitor fever curve; pursue culture result.
+2. Keep HERZ and Rinderon for TB meningoencephalitis.
+3. Full MV support
+4. Keep Levophed with titration; ICON for hemodynamics study.
+5. Inform family about grave prognosis and high risk of sudden death
+6. Apply minirin for DI, f/u U/O and electrolytes closely; hydration PRN and keep I/O balance

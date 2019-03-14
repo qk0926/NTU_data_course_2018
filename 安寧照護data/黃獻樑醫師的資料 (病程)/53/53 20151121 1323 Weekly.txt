@@ -1,0 +1,142 @@
+Brief Summary of this week 
+We added Cubicin under the consider of CRBSI(IABP B/C:VSE)CAG was done on 2015/11/18 again. POBAS to LM-LCx was done. However, inotropic agent and ECMO flow increased due to worsened hemodynamic status. Fever took place on 2015/11/19 with AFRVR. We switched antibiotics to Cubicin+Mepem+Eraxis after discussion with VS²ø¯§¤¤. B/C yielded VSE again and IABP infection was impressed. We began tapering IABP after discussion with VS¬ö¤D·s from 2015/11/21.
+
+PAP1
+Assessment 
+dopamine 17.7mcg/kg/min
+epinephrine 10.6 mcg/min
+ECMO flow: 2.5L/min, FiO2: 100%
+IABP support:1:2
+
+AfRVR with aberrant conduction --> rate improved under amiodarone infusion, but still not reverted to sinus
+Hemodynamics improved
+
+[Current Mv setting]
+PCV IP 16, RR: 10, PEEP: 8, FiO2: 60%
+--> VT: 340, rate: 17, Mv: 3.9, SpO2: 97%
+
+[Antibiotics course]
+Cubicin:11/15-
+Mepem 11/19-
+Anidulafungin:11/19-
+
+Diflucan:11/19
+Cravit 11/19
+Ceftazidime:10/31-11/8, 11/15-11/19
+Vancomycin:10/31-11/14
+Mepem:11/8-11/15
+Ceftriaxone:10/29-10/31
+
+[Physical examination]
+Pupil 2/2mm, LR +/+
+MP at least 3+ symmetrically
+HEENT: conjunctiva: not pale
+Chest: no wheezing, diffuse crackles
+Heart: IRHB (HR~80-110)
+Abdomen: mild distened, normoactive bowel sound
+Extremities: skin turgor: dry
+
+Plan
+1. Keep heparinization for LV thrombus/IABP/ECMO, continue clopidogrel. Monitor for bleeding (hematuria + hematemesis). Add aspirin if bleeding improves 
+2. Amidarone for A-fib RVR with aberrant conduction
+3. Keep Cubicin, Mepem, anidulafungin for new spesis and CRBSI
+4. On CAVH, titrate UF for lung congestion if shock stablized. monitor BP+HR, CVC goal 10-12
+5. Remove IABP ASAP if BP tolerable
+6. Inform family about critical condition, the patient favor DNR if new sepsis with profound shock
+7. Consult CVS for MICS CABG if infection improve.
+
+PAP2
+Assessment 
+[Important study findings]
+10/26   T-CHO:330, TG: 351, LDL: 213, HDL:34, HbA1C: 7.7
+10/26   Serum alb: 1.6. Spot urine: proteinuria 3+, 
+        Urine TPCR: 14.01, 
+        urine electrophoresis: no Bence-jones protein
+        C3/C4: 140/28.9, RA<9.19, ANA: 1:40(-), ANCA: neg
+10/29   CT-brain: 
+        confluent hypodensity around bil periventricular
+        region, no ICH
+10/29   CT-chest: 
+        diffuse hypodense change at endocardium of LV wall
+        and papillary muscles. 
+        hypodense lesion at the apex (SE7 IM177), 
+        suggestive of a LV thrombus**  
+        bilateral pleural effusion, more on right side.  
+10/29   CT-A+P: No definite intra-abdominal lesion.
+10/29   14:54  Cardiac echo (during ECMO implant)
+        LVEDD/ESD:46/40, LVEF:25.1%, LA/RV: 36/18
+        RWMA over akinetic over anterior and lateral, apex
+        mild-mod AR, mod-severe MR, mild TR
+10/29   CAG/PCI
+        LM: patent
+        LAD: proximal total occlusion
+        LCX: proximal to distal multiple lesions, up to 90%
+             stenosis, with collaterals to LAD  
+        RCA: proximal to distal diffuse stenosis, up to 90%,
+             with collaterals to LAD
+„Ã	-->POBAS (DES*3) to RCA, POBA to LCX, 
+           failed to pass LAD 
+10/29   23:11 Cardiac echo (after PCI)
+        LVEDD/ESD:39/36, LVEF:10.7%**, LA/RV: 26/-
+        Spontaneous contrast and LV thrombus noted
+        RWMA (global akinesia)
+        mild MR, TR
+10/30   09:47 Cardiac echo
+        LVEDD/ESD: 47/41, LVEF: 26.5%
+10/31   Brain CT(for GTC): no evidence of ICH or infarction.
+        Lt MCA dense ribbon sign but no MCA territory hypoperfusion.
+        Stationary old infarction compared to CT on 10/29.
+11/2    Cardiac echo:LVEF=37%, inferior wall akinesia
+11/5    CAG/PCI 
+        LM: patent
+        LAD: proximal total occlusion
+        LCX: proximal to distal multiple lesions, up to 90% 
+        stenosis, with collaterals to LAD
+        RCA: no ISR, with collaterals to LAD
+        >> tried LAD CTO but failed
+11/5    Pro-calcitonin: 6.9
+11/9  Right effusion 940ml dark red
+(TNC:2460 N:M:L= 72:5:23, TP<3.0, LDH: 604, TG: 18> exudate)
+11/12  echocardiogram: LVEF: 41.3 %, RWMA at ant, inf, post
+11/18  coronary angiography:
+  LM: Patent
+  LAD: ostial Chronic total
+  LCX: proximal diffuse stenosis 80 %, distal stenosis 80 %
+  RCA: proximal No ISR, middle No ISR, with collateral to LAD
+  ==> failed to revascuarlize LAD CTO
+  ==> DES x 2 to distal LCx, DES x 1 to LM-LCx
+
+<Culture>
+11/11 S/C:  Serratia marcescens 1+, Elizabethkingia meningosepticum 1+ 
+11/14 IABP sheath: VSE
+11/15 S/C: Candida tropicalis
+11/19 IABP sheath: GPC
+
+PAP3
+Assessment 
+[Important interventions and Newly Added Medications]
+10/29  CPCR, ETT/MV. ECMO
+       POBAS to RCA (DES*3), POBA to LCX, failed to pass LAD
+       Dopamine for cardiogenic shock		
+10/30  Bradycardia on Bosmin pump
+       CAVH for pulmonary edema and decrease urine output
+11/9   Chest tapping:1000ml brown fluid, lab exam sent
+11/20  Wide QRS arrthymia: DC shock 3 times, cardioversion 2 times& DC shock one time
+
+[Important consultation]
+10/30  VS §õ¥ô¥ú: Heart stunning. Keep observation.
+10/30  VS §õ¥ô¥ú: suggest CAVH for poor urine output
+       keep obs till next W2, consider intervention
+       of LAD. Try taper the setting of ECMO
+10/31  Radiologist: Lt MCA density was the same as VA. Besides, no hypodense lesion over MCA territory. MCA infarction was less likely.
+10/31  Neurologist­S: infarction was less likely. Suspect HIE and hypoperfusion related seizure.
+11/3  VS §õ¥ô¥ú: arrange cath under ECMO on W4
+11/9  VS §õ¥ô¥ú: favor further PCI over CABG
+11/11 VS §õ¥ô¥ú: titrate UF to keep I/O balance!! PCI would be arranged next week
+11/19 VS §õ¥ô¥ú: discuss with Dr.¬ö¤D·s for mid CABG for LAD-CTO
+11/21 VS ¬ö¤D·s:Weaning IABP, control septsis before OP
+
+[Important Patient and Family Decisions]
+10/30  Inform poor prognosis, aggressive treatment
+11/16  Family agreed to attempt PCI to LAD CTO again, agreed to mini-CABG in case of failure to revascularize LAD
+11/20 Agree current critical condition due to new sepsis, hope not CPCR or cardioversion/defrbrillation

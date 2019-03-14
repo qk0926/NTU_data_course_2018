@@ -1,0 +1,9 @@
+Trying home ventilator for long term care at home.
+Condition stable. No distress under home MV use.
+2015/10/22 05:05 T:37.3 P:120 R:14
+2015/10/22 00:58 T:37.1 P:111 R:20
+2015/10/21 22:51 T:37.5 P:123 R:28
+2015/10/21 22:00 T:38 P:125 R:27
+2015/10/21 20:19 T:37.9 P:122 R:34
+2015/10/21 16:52 T:36.1 P:107 R:17
+Antibiotic use for fever, treated as pneumonia.

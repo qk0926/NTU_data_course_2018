@@ -1,0 +1,34 @@
+1. Right side lobar pneumonia (right upper lobe and right lower lobe), under antibiotic treatment
+2. Hypoxia respiratory failure, post BIPAP support (2017/1/17-01/24), post intubation (2017/01/24-)
+3. Non-small cell lung carcinoma, adenocarcinoma, left upper lobe, cT2aNoM1, stage IV, with bone metastasis, status post Afatinib (2015/10/12-),s/p palliative R/T to bone metastases(2016/5-2016/8), disease progression, under Cisplatin and Alimta C1D1 on 2017/01/04
+
+[Assessment]
+ECOG:4
+Consciousness:coma (deeply sedated)
+Vital signs:
+2017/02/07 10:00 T:36.8 P:90 R:20
+2017/02/07 10:00 BP:100/55
+2017/02/07 10:00 SpO2:93%(%,L,)
+#tachycardia and tachypnea:
+-MV support: PC/AC mode (IP:25 RR:36 Ti:1.0 PEEP:10 FiO2:80)
+-Fentanyl-Fresenius Inj 0.5 mg in D5W 50 mL cIF run 1ml/hr with titration, up to 10ml/hr
+-Nimbex cIF run 1.5ml/hr with titration 
+-Dormicum 60 mg cIF in D5W 60 mL  run 2ml/hr with titration 
+  
+[訪視摘要]
+會談對象:媳婦
+1. 了解後續醫療照顧想法
+媳婦表示:家人了解病人病況不可回復性，病人次女及兒、媳都傾向緩和照護及撤除維生醫療，不希望再延長病人痛苦生命，也尊重病人過去醫療意願。
+病人配偶及長女較為不捨、放不下，但配偶經過病況說明了解病人末期病況後也能理解撤除維生醫療之決策；惟長女目前調適上仍較困難，因此上周與胸腔科原主治醫師開立家庭會議徵詢其醫療意見，許醫師也表達回復機率微乎其微，僅能考慮奇蹟出現，媳婦表示也許醫師考慮長女不捨情緒，最後建議再觀察1-2周後是否有好轉跡象，再考慮撤除維生醫療。
+2. 提供心理支持
+媳婦表示家人能理解長女不捨、需要時間調適，因此同意再觀察、延後撤除時間，但病人之前因使用升壓劑造成末梢循環不良、足趾發黑，因此不希望再使用升壓劑。另表達家屬較需要協助的是配偶及長女的心理支持。肯定家人能互相同理支持，預計再安排訪視關懷配偶。
+
+[Plan]
+1. Please provide psychospiritual support to family.
+2. Please keep discussing with the family about treatment plans.
+3. Please contact us if any problems (tel: 63274)
+
+
+原團隊共同照護成員:護理師 徐湘萸
+
+安寧共照N2謝慧貞

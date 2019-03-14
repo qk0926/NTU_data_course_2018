@@ -1,0 +1,14 @@
+. MDRAB bacteremia
+. Community acquired pneumonia (3/3: Influenza virus type A RNA PCR: positive) with acute hypoxic respiratory failure and septic shock, status post ETT+MV (2016/3/3-), complicated with acute respiratory distress syndrome(ARDS), status post V-V ECMO (2016/3/7-)
+. Diabetes mellitus, type 2
+
+MDRAB bateremia
+Desaturation under ECMO +MV
+Not repsonsive to iNO
+MODS (+)
+
+. Taper Solumedrol due MDRAB bacteremia
+. Keep strong abx
+. keep I/O balance
+. Inform grave prognosis
+. Component therapy

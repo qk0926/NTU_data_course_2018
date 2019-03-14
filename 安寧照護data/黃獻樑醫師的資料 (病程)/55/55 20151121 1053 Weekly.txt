@@ -1,0 +1,75 @@
+Brief Summary of this week 
+<6E1 11/14->
+After he was transferred to 6E1, the Cravit and Baktar were administered. The Solu-Medro 40mg Q12H was adminsitered for suspected PJP. The chest CT showed bilateral GGO and lower lung consolidation. The atypical pathogen survey was perfromed (TB PCR, PJP PCR, Legionella urine antigen). The fever subsided in 11/14 afternoon. The deteriorated renal function was noted on 11/16. The diuretic was added but with poor response. The bronchoscope with BAL for RB3 (suspected alveolar hemorrhagic, 越洗越紅) was perfromed on 11/16. The autoimmune screen showed ANA: 1:320 (+) and anti-ENA screen: Postive (14.21). The Plaquenil was added and the Solu-Medrol dose was titrated up from 40 mg Q12H to 40 mg Q8H. The anti-ENA screen profile and anti-GBM antibody were checked. However, desaturation was noted on 11/17 and the iNO use with sedation and muscle relaxant were administered. Besdies, hemodialysis was started on 11/17 for uremiic bleeding and auria. His clincial condition improved initially and deteriorated again on 11/19. The prone position was started. His son came back from USA and we well explained his current condition and explained the grave prognosis. The DNR was confirmed. The autoimmune profile showed SSA,SSB strongly positve and the PJP PCR of sputum was postive. We consulted the rheumatologist. After we explained to his family, they decided to receive Endoxan. The Endoxan 250mg C1D1 for autoimmune disease related pulmonary hemorrhage was administered on 11/21 smoothly. We also kept hemodialysis for fluid overload and auria. The family meeting was arranged on 11/21.
+
+Assessment 
+[Antibiotics]
+Cravit	11/14-	CAP
+Baktar	11/14-	PJP
+-----------------------------------------------------------Tazocin	11/14-11/14	CAP
+
+[Ventilator]
+PCAC IP:12, PEEP:10, FiO2:80%, RR 26
+=> RR 22, Tv 500, MV 11, SpO2 91%
+F: 10 A: 4 N:1.5
+iNO: 20 ppm
+Prone: 2015/11/19 16:00-06:00, 11/21 2:00-12:00
+
+[Nutrition]
+Low protein diet 1500kcal 1.8kcal/ml + p93 10g
+
+# Progressive community-acquired pneumonia with respiratory failure, suspected PJP, status post ETT+MV (2015/11/14-), s/p iNO(2015/11/17-),s/p prone position ventilation (2015/11/19-11/21)
+PJP PCR (Sputum and BAL): positive
+=> Keep Baktar and Cravit
+=> Solu-Medro 40mg Q12H for PJP
+=> 11/19 Start prone position ventilation
+=> 11/21 Hold prone position due to no obvious response
+=> PJP PCR(+), titrate up Baktar dose to 5# QN(Give after HD)
+
+# Suspected Sjogren's syndrome with pulmonary hemorrhage
+ANA: 1:320 (+), anti-ENA screen: Postive (14.21) 
+Anti-SS-A Positive(>=240), Anti-SS-B Positive(79.41)
+=> Lower the dosage of solumedrol to 80 mg/day
+=> f/u CRP; f/u TG ferritin aspergillus Ag qw1
+=> IVIG is considered if HLH (hemophagocytic syndrome ) in progression +/- antiTNFalfa
+=> Endoxan 5mg/kg every 10day
+=> 11/20 Endoxan 250mg C1D1
+
+# ACKD, s/p HD (2015/11/17-)
+=> 11/16 Rasitol 1 amp STAT -> no response
+=> Add Rasitol 1 amp IV Q8H -> no response
+=> Auria even under Lasix pump => Start HD
+11/17 HD 2hr K:2 Ca:3 UF:1kg
+11/18 HD 3hr K:2 Ca:3 UF:1.5kg
+11/19 Hold HD due to prone position  
+11/20 HD UF 3hr K:2 Ca3 UF:2.5
+11/21 HD, K:2 Ca:3, UF:2Kg 
+
+[Treatment course in recent one week]
+11/21 
+Hold prone position due to no obvious response
+Still hemosputum
+Titrate up Baktar dose due to no obvious treatment response
+Family meeting: inform grave prognosis, and confirmed the DNR status       
+[Important patient's and family's decision]
+DNR不電不壓 (由弟弟簽署)
+Key person: 大兒子
+病患家庭組成: 太太過世, 有兩個兒子皆在美國(大兒子:醫師, 較常用Line聯絡; 二兒子精算師:較少聯絡), 兩個兒子不太知道父親病情; 和兄弟姊妹較少聯絡, 只和一位弟弟常連絡。目前大兒子已委託病患弟弟幫忙做醫療決策
+11/14 病患弟弟表示病患其實並不想插管, DNR不電不壓 signed
+11/18 和家屬大兒子面談, 確認DNR, 病患大兒子希望不要讓父親太痛苦
+11/20 風濕免疫科醫師和病患兒子以及弟弟討論, 決定接受Endoxan治療, 並清楚解釋風險
+11/20 Hematologist suggested poor prognosis and palliative care
+11/21  Family meeting: inform grave prognosis, and confirmed the DNR status to his two sons
+
+Plan
+1. Keep Cravit(D8) and Baktar(D8) for PJP and suspected atypical pneumonia; pursue culture report
+Titrate up Baktar dose
+2. Keep Solu-Medrol to 20mg Q6H for suspected PJP and autoimmune disease
+3. ARDS, keep lung protective ventiulation, keep iNO
+  Hold prone position due no obvious treatment response
+4. Endoxan 250mg C1D1 treatment on 11/21, give dose every 10 days
+5. Monitor PLT counts, keep PLT > 80k if active bleeding
+6. Keep HD since 11/17 due to anuria and uremic bleeding
+7. Keep Rasitol 40mg Q6H and monitor I/O 
+8. Consider consult hospice combine care
+9. May shift to 洗腎配方 if BUN improved

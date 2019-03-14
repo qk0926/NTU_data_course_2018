@@ -1,0 +1,31 @@
+GCS:E1M2VT, T:36.7 P:65 R:11, BP:120/52, SpO2:100%, I/O:769.4/730(39.4)(24hr)
+
+2016/06/02 ID+DS Urine #1:No aerobic pathogen /ml
+
+WBC:10.05 K/£gL
+RBC:3.53 M/£gL
+HB:10.2 g/dL
+HCT:30.8 %
+MCV:87.3 fL
+MCH:28.9 pg
+MCHC:33.1 g/dL
+PLT:83 K/£gL
+
+
+CRE:0.6 mg/dL
+K:3.4 mmol/L
+Ca:1.97 mmol/L
+Na:138 mmol/L
+Mg:0.86 mmol/L
+
+ABG:
+PH:7.516 
+PCO2:20.2 mmHg
+PO2:236.5 mmHg
+HCO3:16.5 mmol/L
+BaseExcess:-6.7 mmol/L
+
+<Plan>
+1.Close monitor consciousness level
+2.Keep mannitol and 3% NaCl
+3.Inform family about poor prognosis

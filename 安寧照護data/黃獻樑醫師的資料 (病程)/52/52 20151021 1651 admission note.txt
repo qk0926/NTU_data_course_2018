@@ -1,0 +1,248 @@
+2015/10/21 16:51 
+主訴(Chief Complaint) 
+Informant: the patient and medical chart
+right lower lobe tumor for 2 months 
+病史(Brief History) 
+[Present illness]
+This 62-year old man is patient of
+ (1.) non-small cell lung cancer, right middle lobe, pleomorphic carcinoma, EGFR L858R mutation, pT2bN1M0; stage IIB, status post RML lobectomy on 2014/12/18, status post adjuvant GP (IV) (2015/1/8-2015/3/27)
+
+Initially, he developed frequent dry cough in 2014/10. Right chest wall pain when coughing was also noted. There was no hemoptysis, fever and dyspnea. Weight loss (4kg within three months) was found later. He came to 羅東博愛 hospital for help, where CXR and chest CT showed a 7.1*4.5*4.1cm right middle lung lobe tumor with pleural involvement on 2014/11/14. Suspected LAPs in subcarinal and right hilar regions were also noted. He came to our hospital for second opinion and further examinations.
+
+Bone scan and brain MRI on 2014/12/15 showed no evidence of distant metastasis. RML lobectomy was performed on 2014/12/18. One 5x4.5 cm, round, indurated, well encapsulated right middle lobe tumor was found, together with thick pleural adhesion with surrounding lobes, but without pleural retraction. The pathology revealed pleomorphic carcinoma, pT2bN1. The chest CT scan on 2015/1/7 showed a 3.0cm patch with mild enhancement at surgical bed, suspect post-operative change; several small irregular ground glass opacities and subpleural subsegmental atelectasis of RLL. Under the impression of non small cell lung cancer, pleomorphic carcinoma, pT2bN1M0, stage IIB, EGFR L858R mutation. he received adjuvant chemotherapy with GP protocol (C4D1) {Gemcitabine (1250 mg/m2) IF 30 mins on D1, D8; Cisplatin (75 mg/m2) IF 2 hours on D1}  from 2015/1/8 to 2015/3/27. He had mild hiccup and poor appetites were noted after chemotherapy. After chemotherapy, he was under regular follow-up in Dr.洪瑞隆's OPD. However, progressive hoarseness was noted in 2015/06. CEA on 2015/08/25 was 1.84ng/ml, but CXR showed enlarged RLL nodule, suspected recurrence. Chest CT on 2015/09/07 showed an irregular mass lesion with central necrosis and enhancement at central RLL adjacent to sutures , suspicious local recurrence. No brain metastasis or abdomen lymphadenopathy were noted. Bronchoscopy on 2015/09/10 showed a concentric hypoechoic peribronchial lesion, depth 2cm to 3.5cm from the orifice over right segment 10. Transbronchial biopsy was done and revealed non-small cell carcinoma, p40(+)/TTF-1(-), favor squamous cell carcinoma. Whole body bone scan on 2015/09/16 did not reveal bone metastasis but only degenerative change at right sternoclavicular joint and left shoulder. PFT on 2015/10/16 showed normal screening spirometry(FEV1 2.31L, 94.3% of predicted); and PET on the same day showed a large focal intense hypermetabolic area with central cold part at right infrahilar region (SUVmax = 11.8) and mild hot spots at bilateral hilar nodes , suspected lymphadenitis. The impression was recurrent malignancies at right infrahilar region. Under the diagnosis of right lower lobe lung cancer, suspect squamous cell carcinoma, the patient is admitted on 2015/10/21 for RLL lobectomy.
+
+
+【Past medical history】
+1. Medical history: 
+Denied all systemic disease, such as HBV(-)/HCV (-), DM (-), HTN (-), CVA (-), COPD/asthma (-), CAD/renal disease (-).
+2. Allergy: Medication Allergy:No 病人自述 2015/02/05, 2015/10/21
+Allergy to Medical Device and Materials:No 病人自述 2015/02/05
+3. Past Surgical History:
+(1) Appendectomy nearly 40 years ago
+(2) 2014/12/18 Video assisted thoracoscopic right middle lobe lobectomy and group 3/4/7 lymph node dissection
+4. Occupation: 駕訓班老師
+5. Traveling /H1N1 Exposure history: no any traveling in recent one year/ denied.
+6. Current Medication:
+NTUH:nil
+Other:nil
+中草藥: Chinese herbs (unknown drug names)
+保健食品:鍺,魚肝油,L-glutamine
+7. Hospitalization:
+入院日期:2015_03_26 出院日期:2015_03_29 診斷:Lung cancer
+入院日期:2015_03_04 出院日期:2015_03_06 診斷:Lung cancer
+入院日期:2015_02_05 出院日期:2015_02_07 診斷:Lung cancer
+入院日期:2015_01_07 出院日期:2015_01_11 診斷:Lung cancer
+入院日期:2014_12_15 出院日期:2014_12_23 診斷:Abnormal X-ray
+【Personal and family history】
+1. Financial status: stable.
+2. Support system: good.
+3. Life style risk factors:
+(1) Smoking: 2 PPD daily for more then 30 years
+(2) Alcohol consumption: nil
+(3) Betel nut chewing: nil
+4. Family history: No contributory of malignancy, mother has hypertension
+5. Blood type: A
+6. Marital status: Married. 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:高中
+職業:服務業
+宗教信仰:道教
+婚姻狀態:已婚
+使用語言:國語 台語 
+口述血型:A，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有，已戒煙:1年
+喝酒:沒有，已戒酒:20年
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:警醒
+認知功能:正常 
+精神情緒狀態:異常 焦慮 
+安全問題:無  
+睡眠形態:正常  
+
+Nutritional Screen
+攝食情形:優，攝取完整
+排便狀態:正常
+BMI:23.37 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)
+2.Skin: petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular: exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-), syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(-), cough(-), chest pain(-), hemoptysis(-), productive cough (-), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(+), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(+, 3 times this morning), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH:162.5 cm   BW:61.7 kg
+T:36.8 P:88 R:20
+BP:138/90 mmHg
+Pain:1
+
+
+Neurological Examination:
+. Consciousness:clear
+. Muscle power:full
+. Gait:steady
+
+‧General appearance: fair ECOG:1 Karnofsky performance score:90 % 
+‧Head-Eye-ENT
+Conjunctiva: pink; Sclera: anicteric; 
+Pupil: isocoric(3mm/3mm); reflex (+/+)
+‧Neck
+Jugular vein engorgement(-); Lymphadenopathy (-); Thyroid goiter(-)
+Meningismus: Kernig sign(-); Brudzinski sign(-); Carotid bruit(-)
+‧Chest
+Auscultation: Crackles(-) wheezes(-) rhonchi(-) stridor(-)
+‧Heart
+Point of maximal impulse:
+LV lift(-) RV heave(-)
+Increased cardiac size by percussion(-)
+Heart beat: regular
+Adventitious sounds (-); Murmurs(-)
+‧Abdomen
+Flat & soft
+Superficial vein engorgement(-) Protruded umbilicus(-)
+
+
+Bowel sound: normo-active
+Tenderness(-) Hepato-jugular reflux(-)
+Liver and spleen: impalpable
+‧Extremities: 
+Freely movable, pitting edema (-), pulsations: symmetric
+‧Skin
+Abnormal pigmentation(-) Petechiae(-) Purpura(-) Ecchymoses(-) 
+Telangiectasia(-) Rash(-) Plaque(-) Wound(-) Ulceration(-) Crust(-)
+‧Inguinal lymphadenopathy(-); Axillary lymphadenopathy (-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1041021 [1247] A             Positive     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1041021 [1247] Negative     
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041021 [1220] 13.06         4.44          13.8          39.8          89.6         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1041021 [1220] 31.1          34.7          238           13.1          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041021 [1220] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041021 [1220] 72.8          0.3           0.2           5.7           21.0         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041021 [1220] 0.0           0.0           0             -            
+*********檢驗室:CT***********
+
+群組:PT
+
+               PT            PT INR       
+time/item      (sec)         ()           
+1041021 [1220] 9.7           0.91         
+群組:PTT
+
+               PTT          
+time/item      (sec)        
+1041021 [1220] 26.7         
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               Alb           T-BIL         AST           ALT           UN           
+time/item      (g/dL)        (mg/dL)       (U/L)         (U/L)         (mg/dL)      
+1041021 [1220] 4.7           0.45          12            13            19.6         
+               CRE           Na            K             Ca           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1041021 [1220] 1.0           141           4.0           2.33 
+檢查紀錄(Examination Report) 
+Nil 
+影像報告(Imaging Report) 
+Whole body FDG (健保) 醫令: Whole body FDG (健保) 報告醫師: 鄭媚方 影像時間: 2015/10/07 12:52 (000TP006) 發報告時間: 2015/10/07 14:12 NUCLEAR MEDICINE STUDY:Whole body FDG PET.
+RADIOPHARMACEUTICAL:Intravenous MBq 18F-FDG (2-[Flurorine-18] fluoro-2-deoxy-D-glucose).
+CLINICAL HISTORY:NSCLC, right middle lobe, pleomorphic carcinoma, 
+pT2bN1M0, stage IIB, s/p 2014/12/18 RML lobectomy and adjuvant GP I~IV). RIA:CEA (Serum): 1.84 ng/ml. Lung, lower lobe, segment B10, right, bronchoscopic biopsy, non-small cell carcinoma, p40+/TTF-1-, favor squamous cell carcinoma, clinically recurrent.
+PET INDICATION: r/o recurrence.
+SCINTIGRAPHIC FINDINGS:
+          Whole body PET from vertex of the skull to mid thighs was performed 45 minutes after intravenous injection of FDG. The computer reconstructed coronal and sagittal images disclosed:
+* A large focal intense hypermetabolic area with central cold part at right infrahilar region (SUVmax = 11.8, figure PET1).
+* Mild hot spots at bilateral hilar nodes (SUVmax = 3.9, figure PET2), lymphadenitis may be considered first.
+* No definite abnormal increased metabolism noted at liver, adrenal glands, spleen, pancreas or bones. Please note that there may be false-negative results with very small lesions (eg < 1 cm) in view of limits on PET spatial resolution and some tumors may be FDG low or non-avid. 
+* This staging report is only applicable for current imaging. However, information derived from other relevant examinations such as physical examination, endoscopy, biopsy and surgical exploration should also be considered and the cTNM should be revised accordingly if necessary.
+* SUV: standard uptake value 
+病理報告(Pathology Report) 
+S1450689
+Lung,middle lobe,right,lobectomy,pleomorphic carcinoma    
+Lymph node,lobar,lymphadenectomy,carcinoma,metastatic (1/1),   
+Lymph node,group 3&4,lymphadenectomy,no evidence of metastasis (10/10),   
+Lymph node,group 7,lymphadenectomy,no evidence of metastasis (2/2),   
+ S1536750
+Lung,lower lobe, segment B10, right,bronchoscopic biopsy,non-small cell carcinoma p40+/TTF-1-,favor squamous cell carcinoma, clinically recurrent, 
+臆斷(Tentative Diagnosis) 
+non-small cell lung cancer, right middle lobe, pleomorphic carcinoma, EGFR L858R mutation, pT2bN1M0; stage IIB, status post RML lobectomy on 2014/12/18, status post adjuvant GP (IV) (2015/1/8-2015/3/27), with recurrence over right lower lobe infrahilar region 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*right lower lobe infrahilar tumor, suspect squamous cell carcinoma
+
+S: denied BW loss, dyspnea, chest pain, hemoptysis, cough. only complained of lower back pain for a few days due to muscle strain
+
+O:
+BH:162.5 cm   BW:61.7 kg
+T:36.8 P:88 R:20
+BP:138/90 mmHg
+
+PE: bilateral clear breath sound. Back: no CV angle knocking pain.
+
+[lab]
+Hb/WBC/PLT/INR 13.8/13.06/238/0.91
+ALT/Cre 13/1.0
+
+[image]
+【20150825】CXR: RLL nodule enlarging
+【20150907】CT B-C-A: R hilar lesion, an irregular mass lesion with central necrosis and enhancement at central RLL adjacent to sutures , suspicious local recurrence.
+【20150910】BRONCHOSCOPY:
+1. No endobronchial lesion s/p RML lobectomy with stump
+2. Mild swelling mucosa over RB9 and RB10 
+3. Scanty sputum
+4. Radial EBUS to RB10 revealed a concentric hypoechoic peribronchial lesion, depth 2cm to 3.5cm from the orifice. Transbronchial biopsy x 4, bronchial brushing and washing were performed to the lesion. Bleeding was noted s/p epinephrine 1mg(dilution with 20mL N/S) irrigation. Bleeding then stopped.
+5. No endotracheal lesion
+【20150916】Whole body bone : Probable degenerative changes at right sternoclavicular joint and left shoulder.
+【20151007】Whole body FDG PET : Recurrent malignancies at right infrahilar region.
+
+A: right lower lobe lung cancer
+
+P: (1)arrange VATS RLL lobectomy on 2015/10/22
+    (2)Post OP pain control
+    (3)Transfer to ICU after OP
+
+Treatment Goal: total resection of the tumor; no infection after the surgery 
+出院規劃(Discharge Planning) 
+管路留置狀況:無
+日常生活功能分數：100
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：配偶 
+出院規劃收案篩檢：一般病患 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+陳晉興 主治醫師 

@@ -1,0 +1,15 @@
+# Hypoxic-ischemic encephalopathy with increased intra-cranial pressure
+# Lactic acidosis, suspect tissue hypoxia related, improved
+
+E1VtM1, no light reflex, no cough reflex
+FiO2= 0.25 PEEP 3
+SBP= 100-130 on levophed 0.5
+Perfusion CT on 10/20: Hypoxic ischemic encephalopathy. Suspected infarct in brain stem. IICP with delayed intracranial arterial flow.
+BW 55.2 -> 54.9
+Poor NG feeding, suspected gastroparesis
+ 
+P:
+Mannitol Q6H, monitor I/O
+PaCO2
+solu-cortef 50mg q12h for adrenal insufficiency
+Arrange head CT and EEG

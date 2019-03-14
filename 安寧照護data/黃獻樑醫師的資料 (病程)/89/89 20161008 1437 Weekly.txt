@@ -1,0 +1,58 @@
+Brief Summary of this week 
+After admission, mechanical ventilation was kept with dopamine use. Hypothermia was started at 8AM 10/5, but due to increased stress to the patient, temperature was kept around 34-35'C. CVVH was started on 10/5 for progressive acidosis. Due to shock in progression, Levophed was also added. Cordarone and lidocain was also added for frequent VPC requiring multiple electric shock. Hypothermia was also discontinued earlier at 7AM.  Due to STEMI, DAPT and heparinization was administered. Critical condition and poor neurological and CV outcome was informed to the family. Empirical antibiotic as cefuroxime followed by ceftriaxone was given. Due to intermittent hypotension suspect shock or autonomic dysfunction, a short course of Bosmin was given and Midodrine was administered. Antibiotic was upgrade to Mepem due to persistent fever with chills. His lactic acid gradually improved and started to have urine output but still high cardiac enzyme.
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+*Ventilator PC/AC IP:16 R:20-->24 TI:0.9 PEEP:8 FiO2:40
+*Hypothermia, set BT 35'C (due to may give more stress to the patient)  10/5 8AM (<36'C)-10/6 7:20
+
+<Important medication>
+Dopaimine (Conc) 10mL/hr
+Levophed (Conc) 25mL/hr
+Fentanyl 2mL/hr
+Cordarone 900mg/500mL run 10 mL/hr
+
+<Important study/lab>
+CAG 10/5(²ø§Ó©ú)
+LM: Patent
+LAD: ostial total occlusion
+LCX: Hypoplasia, OM1 stenosis 70 %
+RCA: middle stenosis 80 %
+CAD, 3VD, with STEMI, Killip IV, with OHCA, s/p CPCR with ROSC, s/p POBAS to LAD
+10/5 CT (B+C+A+P)
+Suspect old insult at right frontal lobe.
+Thoracic aortic aneurysm. 
+Bilateral hydronephrosis with thinning of left renal cortex. 
+s/p bilateral graft from abdominal aorta to bilateral common femoral artery with thrombosed common iliac artery and aneurysmal dilatation.
+
+<PE>
+Consciousness: coma status   GCS:E1M1VT setated
+HEENT: Abrasion wound over forehead, conjunctiva: pink, sclera: anicteric
+Pupil: isocoric, 2/2, sluggish response to light
+EOM: not responded, abscense of doll eye sign
+Neck: supple, JVE (-) LAP (-) Goiter(-) Carotid bruit(-)
+Chest: symmetric expansion, breath sound: bil. coarse breath sound
+Heart: irregular HR, systolic murmur(+)
+Abdomen: soft and flat, bowel sound: normoactive
+Back: No knocking tenderness
+Extremities: Molted
+Peripheral pulsation: weak
+
+<Family decision>
+10/5 Proceed with H/D
+10/6 Fatal arrhythmia requiring frequent electric shock=> decided not to shock and CPR (°|«Å)
+10/8 Still have hope due to eye rolling
+
+Plan 
+1.Keep DAPT, DC heparinization(10/5 03:00-10/7:03:23), other drugs for STEMI if consciousness improved
+  Theraputic hypothermia (since 10/5 6:40AM-10/6 7:20) for 1 day due to deep coma after resuscitation
+  EEG/brain perfusion next week?
+  DNR except medication/MV/RRT now
+   Discuss of withdraw
+  CVVH [10/5 (12AM-)] for lactic acidosis, Rocephin prophylactic use
+  Inform critical condition and poor neurological outcome due to prolonged resuscitation; also inform risk of AMI, including cardiac rupture, fatal arrhythmia, refractory cardiogenic shock
+  DC Depakine due to elevated liver function, Add Keppra if needed
+2.Amiodarone use, DC Xylocaine
+3.D50W infusion with RI

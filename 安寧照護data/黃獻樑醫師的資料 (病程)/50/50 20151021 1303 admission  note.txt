@@ -1,0 +1,231 @@
+2015/10/21 13:03 
+主訴(Chief Complaint) 
+Informant:family
+ Out of hospital cardiac arrest 
+病史(Brief History) 
+This is a patient with ESRD under H/D, ADLs was totally dependent but conciousness clear. 
+She had some cough/rhinorrhea and sputu. She was fed by her caregiver this early morning about 5:30~6:00. Choking was mentioned by her caregiver and keep coughing was noted. Progressived cough and SOB was noted and hence her family called 119. While EMT arrived, she was still clear but while moving from 3rd floor to ground floor, no pulse was noted and CPR was then immediate initiated. INitial rythym was asytole. Total CPR time from ENT was 12 minutes. She was arrived on 8:43am and CPR keep going with initial rhythm at our ER was asytole. total 14minutes of CPR with once VF was noted but before DC shock , ROSC was noted on 08:57. she was then transferred to our ICU for hypothermia therapy.
+
+Family History:nil
+Medication Allergy:UnClear  本院醫事人員確認 發生日期:10/21
+Medication ADR:unknown
+Allergy to Medical Device and Materials:UnClear  本院醫事人員確認 發生日期:10/21
+Current Medication:
+NTUH:警 Humulin R 1000 U/10 mL /vial 10 U STAT IV 1 days
+警 Vitagen 50% 20 mL/amp 40 mL STAT IV 1 days
+警 Levophed 4 mg/4 mL /amp 8 mg QD cIF 2 days
+警 Levophed 4 mg/4 mL /amp 8 mg QD cIF 1 days
+警 Adrenaline 1 mg/1 mL /amp 2 mg STAT IV 1 days
+(鈣) Vitacal 5.4 mEq/20 mL /amp 10.8 mEq STAT IV 1 days
+警針 Cordarone Inj 150 mg/3 mL /amp 300 mg STAT IF 1 days
+10 Tofranil 10 mg/tab 1 tab BID PO 28 days
+針 Mecobal Inj 500 mcg/1 mL /amp 500 mcg AS ORDER IV 28 days
+Ciproxin 250 mg/tab 2 tab QDAC PO 7 days
+PARAMOL 500 mg/tab 1 tab TID PO 7 days
+Folic Acid 5 mg/tab 1 tab QD PO 28 days
+(管4) Rivotril 0.5 mg/tab 1 tab HS PO 28 days
+Other:
+中草藥:nil
+保健食品: nil
+Past Medical History: ESRD under H/D , HTN
+Hospitalization: --
+
+Past Surgical History: hip OP for several times
+Travel History: nil 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:小學
+職業:
+宗教信仰:無
+婚姻狀態:喪偶
+使用語言:國語 台語 
+口述血型:不清楚，RH:不清楚，輸血反應:
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Psychological History and Evaluation
+意識狀態:昏迷
+認知功能:無法評估 
+精神情緒狀態:異常 其他 E1M1VT
+安全問題:有 其他 fall down
+睡眠形態:異常 其他 E1M1VT
+
+Nutritional Screen
+攝食情形:
+排便狀態:異常
+排便異常狀態:無排氣
+BMI:18.73
+
+Fall Risk Assessment
+總分:10
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular:  exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(-), cough(+), chest pain(-), hemoptysis(-), productive cough (-), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH:155 cm   BW:45 kg
+T:35.3 P:90 R:16
+BP:119/60 mmHg
+Pain:0
+
+Neurological Examination:
+. Consciousness: comatous
+. Muscle power: --
+. Gait:--
+
+‧Head-Eye-ENT 
+        grossly normal, conjunctiva: not pale, sclera: anicteric
+        Pupil: isocoric,  3mm/ 3mm
+        Light reflex: L/R: +/+, 
+‧Neck
+	Jugular vein engorgement(-)
+‧Chest
+	Thoracic cage contour: symmetric
+        Breath sound: course
+	Crackles(-) wheezes(-)rhonchi(-) stridor(-)
+‧Heart
+	Heart beat: regular,  Murmurs(-)
+‧Abdomen
+        Flat & soft
+	Bowel sound: Normoactive
+‧Extremities
+        Pitting edema (-) ; Cyanosis (-)
+        Peripheral pulsation( Right side/ Left side ):
+            Brachial artery (++/++), Radial artery(++/++),
+            Femoral artery(++/++), Dorsalis pedis artery(++/++).
+‧Back
+        Flank knocking tenderness(-)
+‧Skin
+	Abnormal pigmentation(-)
+‧Lymphadenopathy(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:BK***********
+
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1041021 [0915] Negative     
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1041021 [0915] B             Positive     
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               CRE           Na            K             Ammonia N     T-BIL        
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)      (mg/dL)      
+1041021 [0854] 4.1           134           6.2           187           0.60         
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1041021 [0854] 12.0          53.8          1.13         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1041021 [0854] 36           
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041021 [0854] 0.0           0.0           0.0           1.0           3.8          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1041021 [0854] 52.9          4.8           0.0           1.0           36.5         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1041021 [0854] 0.0           0.0           1.0 /100 WBC  WBC 100                    
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1041021 [0854] 16.02         3.44          10.1          32.5          94.5         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1041021 [0854] 29.4          31.1          191           16.6          -            
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1041021 [0849] 242 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+CT Without Contrast-Brain 醫令: CT Without Contrast-Brain 報告醫師: 廖漢文 影像時間: 2015/10/21 10:00 (33070B0M) 發報告時間: 2015/10/21 10:15 CT scan of head without  enhancement showed abnormal focal low density at bilateral corpus striatum. Nonspecific white matter change noted in the bilateral periventricular white matter in variable  size.
+Negative mass effect was noted .No definite other evidence of fresh lesion was shown.
+They could be due to old infarct, or trauma, or hemorrhage etc.
+No acute bleeding shown.
+No obvious change in the visible cranium and skull base. 
+The ventricles and sulci were dilated diffusely and symmetrically.
+Calcification was noted in the major vessels and atherosclerosis was considered.
+Chest : AP View (Supine) 醫令: Chest : AP View (Supine) 報告醫師: 柯維鈞 影像時間: 2015/10/21 09:41 (32001CYM) 發報告時間: 2015/10/21 09:54 Chest AP shows placement of an endotracheal tube and a double lumen catheter. mild cardiomegaly. calcification of aorta. ill-defined opacities at both lungs. obscured bilateral costophrenic angles. degenerative change of the T and L spine. soft tissue calcification(s) over the left shoulder. 
+病理報告(Pathology Report) 
+nil 
+臆斷(Tentative Diagnosis) 
+1. Out of hospital cardiac arrest, choking or sputum impaction related
+2. ESRD under H/D 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+P: 
+1. Out of hospital cardiac arrest, choking or sputum impaction related
+2. ESRD under H/D
+
+A
+BH:155 cm   BW:45 kg
+T:35.3 P:90 R:16
+BP:119/60 mmHg
+Pain:0
+2015/10/21 Ammonia N:187 μmol/L
+2015/10/21 PT:12.0 sec
+2015/10/21 PTT:53.8 sec
+2015/10/21 PT INR:1.13 
+2015/10/21 K:6.2 mmol/L
+2015/10/21 CRE:4.1 mg/dL
+2015/10/21 Na:134 mmol/L
+2015/10/21 WBC:16.02 K/μL
+2015/10/21 HB:10.1 g/dL
+2015/10/21 PLT:191 K/μL
+CT:old insult. atrophic brain and leukoaraiosis.
+
+P:
+1. Follow Hypothermia protocol and completed hypothermia therapy. 
+2. Empirical antibiotics: tazocin
+3. Give depakine for suspected Seizure
+4. Informed family for possibility of comatose status due to suspected seizure. 
+
+
+Treatment Goal: completed hypothermia therapy. 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右鎖骨下 
+雙腔導管留置：無  
+鼻胃管留置：無  
+氣管管路留置：有 氣管內管  7.0mm 
+胃造廔口：無  
+尿管留置：無   
+膀胱造廔：無 
+傷口引流管：無
+其他導管：
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：兒子 外勞 
+出院規劃收案篩檢：高危病患 帶有管路 功能量表未滿60分 
+醫師姓名 
+黃建華 主治醫師 

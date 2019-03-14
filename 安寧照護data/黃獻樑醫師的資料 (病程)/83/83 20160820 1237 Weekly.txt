@@ -1,0 +1,76 @@
+Brief Summary of this week    
+[12D event]
+On 8/13 early morning around 03:52, the patient complainted of chest pain and then he pulled the CVC out. The patient was found no breath and no pulse on the chair afterwards. Cardiopulmonary resuscitation was started at 03:58. Endo tracheal tube was intubated. Double lumen was inserted emergently. Epinephrine was given every 3 minutes. Blood gas anaylysis showed hyperkalemia up to 8.92 mmol/L. Tumor lysis was impressed. Acute hypokalmeic treatment with calcium gluconate were given. EKG monitor showed Afib, s/p cardioversion with 200J once, with amiodarone IV push. First ROSC was noted at. However, loss of pulsation was noted again at. EKG showed VF, s/p cardioversion and MgSO4 administration. 
+Second ROSC was found. Follow-up ABG showed recovery hyperkalemia but metabolic and respiratory acidosis with hypercapnea (CO2: 46->71->86 mmHg). However, loss puslation again s/p 3rd CPR and ROSC. Chest echo showed no penumothorax. Bed-side paracentesis was done and at least 1000cc ascites was drained. BP was recovered and he was then transfered to ICU for further care.
+
+[3A2 course]
+After admission ot 3A2, CVC and DLC were given. CVVH was given. And we consulted CV specialist Dr. Juang for suspect long QT syndrome with arrhythmia. Anti-arrhythmia medication was given as Lidocaine and tapered slowly. Levophed was given for post-CPCR hypotension. Eletrolytes were corrected and follow-up ECG did not showed prolonged QTc interval. Family signed DNR 不電不壓 留一口氣回家 but they still hoped to try another chemotherapy. CT on 8/15 reported abdominal lymphadenopathy and peritonitis. We shifted hemodialysis to SLED on 8/16 and iHD since 8/19. Kidney function deteriorated but urine output was still adequate. We consulted hematologist's Dr. Chou for disussing with the family the benefit and risk of further chemotherapy. Abdominal distended was still noted after the first time chemotherapy. The second time chemotherapy was given smoothly on 8/19. Intermittent tremor was persistent and Depakine was given and titrated according to serum level.
+抗癌藥品治療副作用 (化療) 無副作用
+
+癌症治療效果追蹤評估 Disease Status:
+Residual tumor / Recurrence / Metastases 
+
+Problem Assessment Plan   
+          
+PAP 1 
+
+Assessment 
+[Abx] empirical Cefepime (8/13-) D7
+
+[Previous Abx]
+8/13 Flumarin
+
+[Cultures]
+8/14 DLC: neg
+8/13 SC: yeast-like, BC*2, FC
+8/11 Ascites FC, BC
+
+[Infusion]
+Nutriflex 1000mL
+Trace Element TIW
+Lipid 20% 250mL QOD
+
+[MV/O2]
+PSV PS 10, Esen 25, PEEP 10, 30%
+Vt 500+, f 21, 100%
+
+[PE]
+Consciousness: semi-coma to comatous status
+Heart: regular heart beat w/o murmur
+BS: bilateral end-expiratory wheezes(+?): low pitch
+crackles(-)
+Abdomen: distended and firm, softer than before. BoS: hypoactive
+Extremities: cold, edema(++)
+
+[Studies]
+8/15 NECT B+A+P: 
+1. hypoxic-ischemic encephalopathy.
+2. Abdominal lymphadenopathy. A large confluent mass at the mesenteric root.
+3. Suspected peritonitis. 
+4. Bilateral pleural effusion. 
+8/15 EEG: EEG diagnosis:Abnormal EEG; nearly continuous diffuse slow waves at 4-7 Hz, 20-40 uV.
+
+[Consultation]
+8/13 CV: no RWMH. Fair EF.
+8/14 Hema 周文堅: suspected tumor lysis syndrome, follow electrolyte closely and give Rinderon 8mg/day
+8/16 Hema: consider further discussion with the family about chemotherapy
+8/17 Hema: would give further C/T if family agreed with it
+
+[Family decision]
+8/13 DNR 不電不壓 留一口氣回家
+8/18 Family: wanted to try one more chemotherapy
+
+[Intervention]
+8/13-15 Start CVVH
+8/16-   Start SLED
+8/18    Hold SLED
+8/19-   iHD
+8/19    Chemotherapy, VCAP(II)
+
+Plan 
+1. Monitor renal function, urine output and weight.
+2. Give inhaled beta2-agonist for wheezing
+3. Further discuss with family about long-term care and even withdrawal ventilator
+4. Consider adding Keppra if still seizure, Anxicam prn use, EEG if persistent seizure
+    - Adjust Depakine dosage according to drug level (Valproic acid 34.19 μg/mL, theraputic level 50-100)
+    - Correct BUN level to avoid aggrevating factor

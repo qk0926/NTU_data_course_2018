@@ -1,0 +1,23 @@
+S/C: mixed flora
+AKI and shock improved
+but new nosocomial pneumonia was considered
+
+Plan:
+Keep Cravit+Mepem
+Try prone position for 1 day for position drainage
+Taper vasopressor if possible
+
+[Pharmacist]
+Keep antibiotics for infeciton control
+Consider DC Targocid if no positive culture of MRSA
+
+[護理師]
+依醫囑藥物使用，持續監測生命徵象及呼吸情形。
+
+[RT]
+plan
+1. keep ventilator support, keep titrate FiO2/PEEP Prone position
+2. keep Abx used (Ceftazidim Cravit)
+3. Keep medication for Af with PPM backup
+4. arrange bronchoscopy after lower O2 demand for 
+   PNA pathogen

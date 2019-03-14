@@ -1,0 +1,505 @@
+2017/06/12 02:33 
+主訴(Chief Complaint) 
+Informant:family
+consciousness change for 1 day 
+病史(Brief History) 
+The 44-year-old woman had 1.thrombotic thrombocytopenic purpura s/p plasma exchange in 2007.
+     She had took traditional Chinese medicine for vertigo. This time, she suffered fever with URI symptoms since 2017/06/08. Then she went to 新光 hospital for help on 5/9. Influenza testing showed positive (家屬說病人說醫院跟他說陽性). Tamiflu was prescribed. But she felt dizziness and persistent fever and chills. Then she went to 三重 hostpial ER. Influenza testing showed negative. But due to consciousness change and petechiae on bilateral limbs, complvated influenza was suspected. She was transferred to our ER for help on 6/11. Intial vital sign showed consciousness: Drowsy , E: 4, V: 3, M: 5, Vital signs: Blood Pressure: 144/82mmHg, Pulse Rate: 115/min, Respiratory Rate: 28/min, Temperature: 36℃, SPO2: 96％. Rocephin and Vancomycin prescribed. Whole body CT shwoed pneumonia and uterine mass on 6/11. Due to shock and desaturation, intubation and mechanical ventilation support was done on 6/11. Due to sepsis shock suspected menigococcal mengitiis or flu, she was admission to our MICU for further survey and treatment. 
+
+Family History:HTN 
+Medication Allergy:No  病人自述 2009/06/15
+Current Medication:
+NTUH:Atrovent Neb Soln 250 mcg/1 mL 2 mL/amp 1 amp STAT IH 1 days
+Atrovent Neb Soln 250 mcg/1 mL 2 mL/amp 1 amp Q8H IH 2 days
+Encore 300 mg/3 mL /amp 300 mg Q8H IH 2 days
+Bricanyl Neb Soln 2.5 mg/1 mL 2 mL/amp 1 amp STAT IH 1 days
+Encore 300 mg/3 mL /amp 300 mg STAT IH 1 days
+Bricanyl Neb Soln 2.5 mg/1 mL 2 mL/amp 1 amp Q8H IH 2 days
+TAZOCIN (based on piperacillin content) 2000 mg/vial 3000 mg STAT IF 1 days
+TAZOCIN (based on piperacillin content) 2000 mg/vial 3000 mg Q6H IF 2 days
+Rocephin 500 mg/vial 2000 mg STAT IV 1 days
+瓶 Rolikan 7% 250 mL/btl 0.5 btl STAT IF 1 days
+Rocephin 500 mg/vial 2000 mg Q12H IV 2 days
+Unasyn (based on ampicillin content) 1000 mg/vial 2000 mg STAT IF 1 days
+Unasyn (based on ampicillin content) 1000 mg/vial 2000 mg Q6H IF 2 days
+PCN Test (Penicillin G Skin Test) 1000 U/1 mL 2 mL/vial 0.1 mL ONCE ID 1 days
+(管4) Anxicam 2 mg/1 mL /amp 2 mg STAT IV 1 days
+(管4) Anxicam 2 mg/1 mL /amp 40 mg QD cIF 2 days
+瓶 Rolikan 7% 250 mL/btl 0.5 btl STAT IF 1 days
+警 Relaxin 500 mg/vial 不計價常備藥 50 mg STAT IV 1 days
+警 Levophed 4 mg/4 mL /amp 8 mg QD cIF 2 days
+Vancomycin inj 500 mg/vial 1500 mg STAT IF 1 days
+(管4) Anxicam 2 mg/1 mL /amp 2 mg STAT IV 1 days
+針 Pantoloc Inj 40 mg/vial 40 mg STAT IV 1 days
+瓶 Rolikan 7% 250 mL/btl 0.5 btl STAT IF 1 days
+針 Pantoloc Inj 40 mg/vial 40 mg QD IV 2 days
+Vancomycin inj 500 mg/vial 1500 mg STAT IF 1 days
+Other:nil
+中草藥:+
+保健食品:-
+Past Medical History:1.thrombotic thrombocytopenic purpura s/p plasma exchange in 2007
+Hospitalization:2007 TTP
+
+Past Surgical History:2017_01_23  Levator muscle resection (os)
+Denied travel to rural area, oversea traveling, 
+Denied animal contact history, no pet, 
+Occpation: indoor work in 行政院,
+Contact/cluster: not sure 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:專科
+職業:公
+宗教信仰:其他
+婚姻狀態:未婚
+使用語言:國語 台語 
+口述血型:A，RH:不清楚，輸血反應:有,2007年血漿置換術
+抽煙:沒有
+喝酒:沒有
+檳榔:沒有
+物質濫用:沒有
+
+Fall Risk Assessment
+總分:13
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(-), easy-fatigability(-), night sweats(-)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(+) for 2 days, blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular:  exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(-), cough(+), chest pain(-), hemoptysis(-), productive cough (-), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH: 156 cm,  BW: 78.6 kg,
+T: 36.5 °C,  P: 96 bpm,  R: 33 /min,
+BP: 122 / 75 mmHg,
+Pain score:  
+
+Neurological Examination: 
+. Consciousness: E2M5VT
+. Muscle power: full
+. Gait: no test
+
+‧Head-Eye-ENT 
+        grossly normal, conjunctiva: pink, sclera: anicteric
+        Pupil: isocoric,  3mm/ 3mm
+        Light reflex: L/R: +/+, EOM: full and free
+‧Neck
+	Jugular vein engorgement(-)
+	Thyroid goiter(-)
+	Meningismus: Kernig sign(-); Brudzinski sign(-)
+        Carotid bruit(-)
+‧Chest
+	Thoracic cage contour: symmetric, Retraction(-)
+	Vocal fremitus and expansion: symmetric
+	Percussion: resonant
+        Breathing sound: Crackles
+	Crackles(+) wheezes(-)rhonchi(-) stridor(-)
+‧Heart
+	Heart beat: regular  Murmurs(-)
+        LV lift(-) RV heave(-)
+	Increased cardiac size by percussion(-)
+	Adventitious sounds (-)
+‧Abdomen
+        Flat & soft
+	Superficial vein engorgement(-) Protruded umbilicus(-)
+	Bowel sound: Normoactive
+	Tenderness(-) Hepato-jugular reflux(-)
+	Liver and spleen: impalpable
+‧Extremities
+        Freely movable, pulses symmetric and intact, pitting edema(-)	
+‧Back
+        Knocking pain(-)
+‧Skin
+	Abnormal pigmentation(-)
+	Petechiae(+) 4 limbs Purpura(-) Ecchymoses(-) Telangiectasia(-)
+	Rash(-) Plaque(-)
+‧Lymphadenopathy(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060611 [1704] 18.39         4.21          12.4          37.1          88.1         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060611 [1704] 29.5          33.4          83            14.0          -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060611 [1704] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060611 [1704] 91.1          0.0           0.1           2.9           5.9          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060611 [1704] 0.0           0.0           0             僅供參考         
+群組:Biochemistry
+
+               Na            K             Cl            Ammonia N     Ca           
+time/item      (mmol/L)      (mmol/L)      (mmol/L)      (μmol/L)      (mmol/L)     
+1060611 [1704]                             105                         1.85         
+1060611 [1934]                                           48                         
+1060611 [2147] 146           3.0           107                         1.74         
+               Mg            P             LacticAcid    CK           
+time/item      (mmol/L)      (mg/dL)       (mmol/L)      (U/L)        
+1060611 [1704] 0.80          4.0                         158          
+1060611 [1934]                             11.61                      
+1060611 [2147]                                           162          
+群組:General BioChemistry
+
+               UA           
+time/item      (mg/dL)      
+1060611 [1704] 7.3          
+群組:Blood pH/Gas
+
+               PH            PCO2          PO2           HCO3          BaseExcess   
+time/item      (*)           (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060611 [2147] 7.432         27.5          138.8         18.5          -6.0         
+群組:
+
+               E.coli type   H.influenzae  N.meningitid  Strept.group  Strept.pneum 
+               K1/N.meningi   type b       is groups A,   B            oniae        
+               tidis group                 C,Y,W135                                 
+               B                                                                    
+time/item      (*)           (*)           (*)           (*)           (*)          
+1060611 [1704]                                                                      
+1060611 [2140] Positive      Negative      Negative      Negative      Negative     
+1060611 [2147]                                                                      
+               Troponin-T    CK-MB        
+time/item      (ng/L)        (ng/mL)      
+1060611 [1704] 193.4         9.26         
+1060611 [2140]                            
+1060611 [2147] 247.9         11.12        
+*********檢驗室:BC***********
+
+群組:DM
+
+               GLU AC       
+time/item      (mg/dL)      
+1060611 [1934] <10          
+群組:General BioChemistry
+
+               Alb           TP            LDH           LDH(CSF)     
+time/item      (g/dL)        (g/dL)        (U/L)         (U/L)        
+1060611 [1704] 2.8           6.6           280                        
+1060611 [1934]                                           140          
+群組:CSF BioChemistry
+
+               TP(CSF)      
+time/item      (mg/dL)      
+1060611 [1934] 1074.2       
+*********檢驗室:OP***********
+
+群組:Punctate Exam.
+
+               Tube No.      RBC           WBC           L/N           Sampling Tim 
+                                                                    e            
+time/item      (*)           (x 10/9 /μL)  (x 11/9 /μL)  ()            (*)                                      
+1060611 [1934] N/A           1566          12212         1%/99%        N/A          
+               Received Tim 
+               e            
+time/item      (*)          
+1060611 [1934] 20170611     
+群組:STAIN
+
+               India Ink    
+time/item      (*)          
+1060611 [1934] Not Found    
+
+*********檢驗室:RL***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060611 [1327] 20.88         3.98          12.2          36.0          90.5         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1060611 [1327] 30.7          33.9          84 (Manual c  14.1          -            
+                                          hecked)                                  
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060611 [1327] 0.0           0.0           7.0           18.0          24.0         
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060611 [1327] 44.0          0.0           0.0           1.0           3.0          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060611 [1327] 3.0           0.0           0.0 /100 WBC  WBC 100                    
+群組:Yes
+
+               hsCRP         D-Dimer       FDP           Fibrinogen    NT-pro BNP   
+time/item      (mg/dL)       (μg/mL FEU)   (μg/mL)       (mg/dL)       (pg/mL)      
+1060611 [1327] 13.48                                                   11310        
+1060611 [1529]               17.74         58.6          312.6                      
+群組:Coagulation
+
+               PT            aPTT          PT INR       
+time/item      (sec)         (sec)         ()           
+1060611 [1329] 15.8          41.0          1.47         
+群組:Biochemistry
+
+               BUN           CRE           Na            K             T-BIL        
+time/item      (mg/dL)       (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)      
+1060611 [1327] 13.3          1.0           133           3.7           1.22         
+               AST           LacticAcid    CK           
+time/item      (U/L)         (mmol/L)      (U/L)        
+1060611 [1327] 100           10.33         139          
+群組:General BioChemistry
+
+               GGT           D-BIL         ALT           ALP          
+time/item      (U/L)         (mg/dL)       (U/L)         (U/L)        
+1060611 [1327] 80            0.66          55            101          
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketone (Urin 
+                                                                    e)           
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1060611 [1400] 1.015         5.5           100 ( 2+ )    -             2+           
+               O.B.(C)(Urin  Urobil.(C)    Bil.(C)       Nitrite(C)    WBC esterase 
+               e)                                                       (Urine)     
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1060611 [1400] 1+            ≦1.5          -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1060611 [1400] Yellow        +            
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1060611 [1400] 2-5           2-5           0-2           Gr(0-2)       -            
+               Bacteria      Others(S)    
+time/item      (*)           (*)          
+1060611 [1400] -             -            
+群組:
+
+               Troponin-T    eGFR          CK-MB         Mucus(S)     
+time/item      (ng/L)        (mL/min/1.73  (ng/mL)       (*)          
+                              m^2)                                    
+1060611 [1327] 59.98         64.0          6.45                       
+1060611 [1400]                                           -            
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1060611 [1321] 7.267         21.2          45.1          9.8           -17.5        
+1060611 [1517] 7.327         25.4          109.3         13.4          -12.9        
+1060611 [1702] 7.392         22.1          100.5         13.5          -11.7        
+               SO2          
+time/item      (%)          
+1060611 [1321] 75.9         
+1060611 [1517] 98.0         
+1060611 [1702] 97.9         
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1060611 [1321] 1.09          13.4          40            3.81          134.5        
+1060611 [1517] 1.06          11.9          36            4.09          136.8        
+1060611 [1702] 0.99          13.2          40            3.50          138.8        
+               Suger(急重症自行檢  LacticAcid(急 
+               驗)            重症自行檢驗)      
+time/item      (mg/dL)       (mmol/L)     
+1060611 [1321] 138           9.9          
+1060611 [1517] 136           9.9          
+1060611 [1702]                            
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1060611 [1530] 128          
+1060611 [1712] 122          
+1060611 [2221] 109          
+*********檢驗室:BK***********
+
+群組:Blood Type
+
+               ABO Typing    RH Typing    
+time/item      (*)           (*)          
+1060611 [1529] A             Positive     
+群組:Yes
+
+               antibody scr 
+               een(New Lis)               
+time/item      (*)          
+1060611 [1529] Negative 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+CT With/Without Contrast-Pelvis 醫令: CT With/Without Contrast-Pelvis 報告醫師: 李崇維 影像時間: 2017/06/11 14:34 (33072B5M) 發報告時間: 2017/06/11 15:04 CT scan of the brain without contrast enhancement shows:
+1. The sulci, fissures and ventricles are normal.
+2. There is no definite abnormal attenuation in the brain parenchyma.
+3. There is no definite focal lesion in the cranial vault.
+
+CT scan of the chest, abdomen, pelvis without and with contrast enhancement shows:
+1. Consolidation in both lungs, more in perihilar regions.
+2. Placement of endotracheal tube and NG tube.
+3. Fatty liver. 
+3. There is no definite focal lesion in the liver, spleen, pancreas, gall bladder, bilateral adrenal glands and kidneys.
+4. Placement of Foley catheter.
+5. A 5.2cm mass at anterior part of uterus.
+Chest: AP View (Supine) 醫令: Chest: AP View (Supine) 報告醫師: 李崇維 影像時間: 2017/06/11 14:13 (32001CYM) 發報告時間: 2017/06/11 14:36 EXAMINATION: Chest: AP View (Supine)
+FINDINGS:
+Placement of endotracheal tube and NG tube. Consolidation in bilateral perihilar region.
+CT With/Without Contrast-Chest 醫令: CT With/Without Contrast-Chest 報告醫師: 李崇維 影像時間: 2017/06/11 14:34 (33072B2M) 發報告時間: 2017/06/11 15:04 CT scan of the brain without contrast enhancement shows:
+1. The sulci, fissures and ventricles are normal.
+2. There is no definite abnormal attenuation in the brain parenchyma.
+3. There is no definite focal lesion in the cranial vault.
+
+CT scan of the chest, abdomen, pelvis without and with contrast enhancement shows:
+1. Consolidation in both lungs, more in perihilar regions.
+2. Placement of endotracheal tube and NG tube.
+3. Fatty liver. 
+3. There is no definite focal lesion in the liver, spleen, pancreas, gall bladder, bilateral adrenal glands and kidneys.
+4. Placement of Foley catheter.
+5. A 5.2cm mass at anterior part of uterus.
+CT Without Contrast-Brain 醫令: CT Without Contrast-Brain 報告醫師: 李崇維 影像時間: 2017/06/11 14:34 (33070B0M) 發報告時間: 2017/06/11 15:04 CT scan of the brain without contrast enhancement shows:
+1. The sulci, fissures and ventricles are normal.
+2. There is no definite abnormal attenuation in the brain parenchyma.
+3. There is no definite focal lesion in the cranial vault.
+
+CT scan of the chest, abdomen, pelvis without and with contrast enhancement shows:
+1. Consolidation in both lungs, more in perihilar regions.
+2. Placement of endotracheal tube and NG tube.
+3. Fatty liver. 
+3. There is no definite focal lesion in the liver, spleen, pancreas, gall bladder, bilateral adrenal glands and kidneys.
+4. Placement of Foley catheter.
+5. A 5.2cm mass at anterior part of uterus.
+CT With/Without Contrast-Abdomen 醫令: CT With/Without Contrast-Abdomen 報告醫師: 李崇維 影像時間: 2017/06/11 14:34 (33072B3M) 發報告時間: 2017/06/11 15:04 CT scan of the brain without contrast enhancement shows:
+1. The sulci, fissures and ventricles are normal.
+2. There is no definite abnormal attenuation in the brain parenchyma.
+3. There is no definite focal lesion in the cranial vault.
+
+CT scan of the chest, abdomen, pelvis without and with contrast enhancement shows:
+1. Consolidation in both lungs, more in perihilar regions.
+2. Placement of endotracheal tube and NG tube.
+3. Fatty liver. 
+3. There is no definite focal lesion in the liver, spleen, pancreas, gall bladder, bilateral adrenal glands and kidneys.
+4. Placement of Foley catheter.
+5. A 5.2cm mass at anterior part of uterus. 
+病理報告(Pathology Report) 
+096/04/28 S0711580
+Bone marrow,iliac crest,core biopsy,myeloid and megakaryocytic hyperplasia 
+臆斷(Tentative Diagnosis) 
+1. Sepsis shock related cardiomyopathy, metaboci acidosis and lactic acidosis, resulted in type IV respiratory failure, status post intubation and mechanical ventilation support since 6/11 
+2. Suspected menigococcal mengitiis or influzena
+3. Thrombotic thrombocytopenic purpura status post plasma exchange in 2007 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*1. Sepsis shock related cardiomyopathy, metaboci acidosis and lactic acidosis, resulted in type IV respiratory failure, status post intubation and mechanical ventilation support since 6/11 
+2. Suspected menigococcal mengitiis or influzena
+3. Thrombotic thrombocytopenic purpura status post plasma exchange in 2007
+S:consciousness change for 1 day
+O:
+<Abx>
+Rocephin 6/11~
+Vancomycin 6/11~
+Ampicillin 6/11~
+Tamiflu 6/9~
+
+<Culture report>
+6/11 B/C(P)
+         B/C(P)
+         B F/C (A)
+          S/C:
+          U/C:
+          influenza PCR
+          adenovirus PCR 
+         adenovirus Ag
+          Pan-enterovirus PCR
+          Mycoplasma pneumoniae IgM 
+          Legionella Ag 
+           Chlamydiae Antigen 
+          Urinary pneumococcal antigen test
+          CSF:Gram Stain
+                  India ink 
+                   culture
+                   AFS
+                   Virus
+                   TB PCR
+                   F/C:
+                   VZV DNA PCR
+                   influenza A or B
+                   Pan-Enteroviruses RNA PCR
+                   HSV DNA PCR
+                  Adenovirus PCR
+                  Rapid test for bacterial antigen:E.coli type K1/N.meningitidis group B Positive  
+                  HIV Ag/Ab Combo-for screening  
+6/11~6/13 AFS
+<Vasopressor>
+Levophed 20 ml/hr
+ 
+<Nutrition>  
+NPO 
+ 
+<O2 / Ventilator Setting>
+PCV 
+IP/PEEP/FiO2: 16/12/80%-> Tv:575, MV:12
+ 
+<RRT>
+6/11 CVVH
+
+<Physical examination>
+E4M4Ve, 
+Pupil: light reflex(+/+), 3mm/3mm
+Breath sounds: bilateral corase,
+distended abodmen,
+no hepatomegaly, 
+multiple small petechiae on bilateral legs,
+ 
+<Important Lab/study/images>
+6/11 whole body CT:Pneumonia. Uterine mass.
+ 
+<Important consultation>
+6/11 ER ID: see chart
+ 
+<Important patient's and family's decision>
+
+A:
+1. Sepsis shock related cardiomyopathy, metaboci acidosis and lactic acidosis, resulted in type IV respiratory failure, status post intubation and mechanical ventilation support since 6/11 
+2. Suspected menigitis or influzena
+P:
+1. Sepsis shock related cardiomyopathy, metaboci acidosis and lactic acidosis, resulted in type IV respiratory failure, status post intubation and mechanical ventilation support since 6/11
+ - keep MV
+ - Keep CVVH
+ - keep Empirical Rocephin, vancomycin, ampicillin and Tamiflu 
+ - pursue culture data
+2. Suspected menigococcal mengitiis or influzena
+ - pursue CSF data
+3. Thrombotic thrombocytopenic purpura status post plasma exchange in 2007
+ -please monitor PLT, check direct coomb test, haptoglobulin, LDH, before any blod transfusion
+
+Treatment Goal:infection control 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有  右腳
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.0mm 
+胃造廔口：無  
+尿管留置：有 Two way Foley 16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：無
+日常生活功能分數：0
+預期出院後居住場所：與家人同住 
+預期出院後主要照顧者：兒子 
+出院規劃收案篩檢：高危病患 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+李佩玲 主治醫師 

@@ -1,0 +1,46 @@
+Brief Summary of this week    
+[Treatment course]
+This week, the operation of left temporo-frontal craniotomy extradural Kawasa approach for tumor excision on 2017/02/08. After the surgery, he was transfered to 4A2 for further care. However, poor improved in GCS and muscle power were noted at the night of 2017/02/08 after operation. The left PCA injury developed during tumor removal with CUSA was suspected. The following CT was performed due to poor M4 and revealed pontine hemorrhage with noncommunicating hydrocephalus, patent PCA and BA. Stenosis in right intracranialvertebral artery was noted. Decreased perfusion was noted in right superior cerebullum. On 2017/02/10, the bloody rhinorrhea was noted and the CSF leakage was suspected. On 2017/02/09, low grade fever was noted and the empiric antibiotics were administrated with Vancomycin and Fortum. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+[Vital sign]
+T:36.0 P:66 R:8
+BP:146/72
+SpO2:100%(%,L,)
+I/O:31.9/200(-168.1)(24hr)
+
+[Neurological examination] (pre-op E4M6V5, MP 4/4+)
+GCS: GCS:E2M4VT, pulpil 2+/2.5+
+Muscle power: RUL/LUL/RLL/LLL : 1/1/1/1 
+
+Head CWV drainage : 170
+
+[Lab data]
+2017/02/10 BCS
+eGFR:163.0   BUN:10.7  CRE:0.6 
+Mg:0.85  K:4.2 
+
+2017/02/10 Urine analysis
+pH:7.5 *  Nitrite(C):- * WBC esterase (U):- *
+RBC (S):2-5 /HPF WBC (S):5-10 /HPF Bacteria:- *
+
+2017/02/10 CBC
+WBC:9.57 K/£gL  HB:11.0 g/dL  HCT:31.8 %
+MCV:84.6 fL  PLT:152 K/£gL
+
+2017/02/10 Artery gas
+PH:7.459 *  PCO2:34.5 mmHg  PO2:171.9 mmHg
+HCO3:24.7 mmol/L  BaseExcess:0.6 mmol/L
+
+[Active antibiotics]
+Cefazolin 1000 mg Q8H 2017/02/08~02/09
+Vancomycin 750 mg Q8H 2017/02/10~
+Fortum 2000 mg Q8H 2017/02/10~
+
+Plan 
+1.Keep Depakine and Mannitol + solu-medrol for preventing seizure and IICP
+2.Closely monitor consciousness level, GCS, muscle power and vital sign(keep BP at 140~160)
+3 .Fever survey and empiric antibiotics with Vancomycin and Fortum

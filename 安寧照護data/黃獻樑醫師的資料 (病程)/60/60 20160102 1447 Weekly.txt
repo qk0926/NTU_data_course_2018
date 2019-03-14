@@ -1,0 +1,35 @@
+Brief Summary of this week    
+Progressive dyspnea was noted after admission, the follow-up arterial gas data CO2 retention with respiratory acidosis. Due to poor consciousness with CO2 retention, after discussion with her family, she underwent intubation on 12/17 night. 12/17 brain CT revealed left infratemporoal fossa to middle cranial fossa tumor, hematoventricle, and hydrocephalus. Lumbar puncture was performed on 12/17 night, and the data revealed CNS bacterial infection (CSF:RBC=1000, WBC=35918(L23%N77%), TP=939.9mg/dL, LDH=295U/L, Glucose<10mg/dL). We prescribed Maxipime, Ampicillin, Vancomycin(12/18-), and Anegyn(12/18-) for CNS infection. The insulin pump was also used for Diabetes ketoacidosis. We noted bilateral eye rolling movement, and seizure couldn't be ruled out, so EEG was arranged on 12/18, which reveals moderate to severe diffuse cortical dysfunction with emphasis in the right hemisphere and epileptogenecity in the left fronto-temporal region, so we added Aleviatin. 
+    During this week, we noted she could open her eyes (sometimes response to voice and pain) but not actual eye contact. There was still intermittent fever spike under Maxipime, Ampicillin, Anegyn, and Vancomycin. The CSF culture showed wild type Klebsiella pneumoniae. The sputum culture on 12/18 was ESBL, so We upgraded antibiotic to Mepem. We arranged CT again on 12/24 (before the second times of lumbar puncture and ruled out brain abscess formation), which showed large territory infarcts in bilateral cerebral hemispheres (more on right side) with brain herniation and left infratemporoal fossa to middle cranial fossa tumor. Mannitol was prescribed for IICP. We informed her family about the poor prognosis and consulted neurologist, neurosurgeon, and hospice. We also consulted Oncologist for explaining the tumor status, and whose suggestion was her cancer is very advanced and barely controlled by serial chemotherapy, and hospice care was suggested previously. Owing to the grave neurologic outcome and high mortality in this situation, anti-tumor therapy is not suggested by any means. 
+Family meeting will hold next week.
+Àù¯gªvÀø®ÄªG°lÂÜµû¦ô Disease Status:
+Residual tumor / Recurrence / Metastases
+Treatment Response:Not evaluable 
+
+
+Assessment 
+2016/01/02 14:04 T:36.4 P:92 R:10
+2016/01/02 14:05 BP:106/56
+2016/01/02 14:05 SpO2:100%(35%,L,VCR)
+
+<Ventilator> PCV
+
+CVP=6-9mmHg, U/O=2450mL/day, I/O:-28
+
+WBC:10.99k->13.36k->7K(B:8.7,S:77)->13.41k->6.53k->4.91k->5.78k->6.37k->4.77k
+CRP=22.53->7.59->3.82
+
+12/17 CSF: RBC=1000 WBC=35918(L23%N77%) TP=939.9 LDH=295 Glucose<10; Klebsiella pneumoniae enriched
+12/18 S/C: Klebsiella pneumonia + Escherichia coli (ESBL)
+12/21 S/C: Candida albicans
+
+2015/12/31
+CRE:1.0 mg/dL  Na:133 mmol/L  K:3.6 mmol/L  Mg:0.74 mmol/L  Ca:2.22 mmol/L
+LacticAcid:1.16 mmol/L
+
+Plan 
+1. Keep current antibiotics, mannito, and AED
+2. Keep OHA; may adjusted the dosage to meet the feasible glucose level
+3. Keep NG feeding
+4. Inform family the grave prognosis
+5. May arrange brain CT with/without contrast follow up next week

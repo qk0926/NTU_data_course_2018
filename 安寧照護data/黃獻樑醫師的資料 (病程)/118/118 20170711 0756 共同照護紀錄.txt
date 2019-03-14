@@ -1,0 +1,38 @@
+[Doctor]
+1. Acute on chronic hypoxemic respiratory failure, status post  
+   ETT+MV (2017/06/28-), supsected CAP and/or IPF AE related, 
+   r/o ARDS.
+2. Idiopathic pulmonary fibrosis, under Nintedanib and steroid.
+
+Plan:
+1. For new HAP, s/p CVC revision (6/27, 7/6) 
+  - keep Meropenem + IV colistin + IH colistin MDR AB+ 
+    Teicoplanin
+  - Pursue the report of cultures/ atypical pathogens (PJP), if 
+    fever repeat work up
+  - Bronchoscopy to determine hemoptysis and for cultures
+  - Keep MV and adequate airway hygiene
+  - may discuss with ID man about CMV pneumonitis
+
+2. For CD s/p OP w/ suspected enterocutaneous fistula/pus
+  - Solu-medrol 4mg QD (7/2~ ), slowly taper off steroid
+  - Upper/Mid/Low wound: improved/Ag gauze/Ag gauze   
+  - Resume oral intake if stable
+  - ## Consider sonography then drianage of peri-hepatic fluid  
+  - NPO and IVF: TPN 1660 + LR 1000 + Lipid 250
+
+[Pharmacist]
+Keep current management, puruse final sensitivity test of S/C SA.
+
+[Respiratory  Plan]
+1. Keep MV full support.
+2. Keep empirical Tazocin.
+3. Keep OFEV. Taper steroid to oral Predonine now :
+    Solu-Cortef 50 mg/Q12h
+4. monitor Cst & Raw
+[Nurse]
+1. keep Q2H chest care and suction
+2. 消化差，腸蠕音慢，keep Feeding pump rate 20 mL/hr、D50W rate 15 mL/hr and give Promeran 10 mg IV Q8H
+3. 予個案及家屬安寧合併臨終照護
+
+[dietitian]

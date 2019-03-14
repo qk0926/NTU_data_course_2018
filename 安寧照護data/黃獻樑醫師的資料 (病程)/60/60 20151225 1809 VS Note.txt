@@ -1,0 +1,44 @@
+(1)nasopharyngeal carcinoma, 
+(2) Diabetes mellitus, under medical control
+(3) HBV carrier, under Lamivudine. 
+(4) Hypertension, under medical control
+
+Active problem:
+Bacterial Meningitis , KP
+Acute cerebral infarction , Rt MCA massive and left , with herniation
+DKA, improved 
+NPC s/p RT with disease progression 
+DM
+
+CNS infection with sepsis
+Conscious change and fever for 5 days
+Lumbar puncture: WBC 30000+ with nuetrophil predominant
+Low albumin
+EEG: This EEG reveals moderate to severe diffuse cortical dysfunction with emphasis in the right hemisphere. Epileptogenecity in the left fronto-temporal region is also noticed. Advise clinical correlation.
+2015/12/21 18:09 BP:119/62
+2015/12/21 18:09 T:36.8 P:111 R:13
+CSF: 2015/12/22 ID+DS Common #1:Klebsiella pneumoniae enriched *
+one touch improving 
+Persue culture 
+Still mild fever
+2015/12/23 ID+DS Sputum Culture #1:Escherichia coli 1+ *, ESBL
+CXR: mild increase infiltration over RLL
+2015/12/24 CT With/Without Contrast-Brain (V1)
+CT of brain and neck with/without contrast enhancement shows: 1. large territory infarcts in bilateral cerebral hemispheres, more on right side, with brain herniation. 2. left infratemporoal fossa to middle cranial fossa tumor.
+2015/12/24 照會 神經部(神經部)程郁文住院醫師
+臨床診斷
+1. Multiple infarcts, bilateral MCAs and ACAs territories, meningoencephalitis related? with subfalcine and uncal herniation 2. Meningoencephalitis, Klebsiella pneumonia, suspect brain base tumor envasion and immunocompromise related
+2015/12/24 照會 外科部(神經外科急診、緊急照會)賴達明主治醫師
+建議事項
+1. Well explain the pros and cons of decompressive craniectomy to her family 2. Mannitol +/- 3% saline use for control ICP 3. Treat underlying meningoencephalitis Contact us if the family decide to receive surgical decompression. Thanks for your consultation.
+Family refuse op 
+Still mild fever
+Family meeting today, inform the poor prognosis due to brain herniation and sepsis
+U/O 1050/ 8hrs 
+
+Plan: 
+1. Shift to Vancon + Mepem, DC maxipime, DC ampicillin , Metronidazole 
+2. Try NG feeding, titrate insulin dose
+3. Inform family the poor prognosis
+4. Keep aleviatin use for seizure,
+5. Keep mannitol use

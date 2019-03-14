@@ -1,0 +1,98 @@
+Brief Summary of this week    
+After transferred to MICU, poor oxygenation and severe dyspnea persisted despite high flow nasal cannula treatment. Intubation was arranged for type I respiratory failure. Because of elevated anti-ENA with anti-SSA as subgroup, positive coombs test and high TNF-alpha level, autoimmune related interstitial lung disease highly suspected. IVIG was administered from 3/10 to 3/12. Tocilizumab was also administered on 3/11. We will keep current treatment and close monitor clinical condition. 
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+<Antibiotics>
+Doripenem     3/9- D4 empirical for septic shock
+Anidulafungin 3/9- D4 empirical for PJP or fungal infection
+--------------------------------
+Cravit 3/8-3/9
+Tazocin(3/2-3/8)
+Avelox(3/2-3/8)
+Baktar(3/2-3/8) for susp PJP, hold due to abn. liver func.
+Tamiflu(3/2-3/5) empirical for atypical pneumonia
+
+<Culture and infection markers>
+3/8 procalcitonin(ng/mL) 0.4740 (3/8)**
+3/9 Ferritin >15000  ***
+
+2/23 B/C (-)
+     U/C Viridans streptococci 15000 
+         Gram pos. coccus 1000 
+2/23 Legionella:(-)
+2/24 Mycoplasma:(-)
+2/25 Flu test:(-)
+2/25-2/27 AFSx3:(-)
+2/28 Chlamydia:(-)
+3/3 CMV viral load <150
+3/9 Aspergillus Ag(*)   POSITIVE (0.55 mild)
+3/9 CMV viral load 321 
+
+<Autoimmune profile>
+C3 Quantitation(mg/dL) 97.90  72.60  
+C4 Quantitation(mg/dL) 30.40  23.40 
+IgG-4(mg/dL)    111.00 
+IgG(mg/dL)  1290.00  1120.00 
+IgM(mg/dL)  109.00   
+IgA(mg/dL)  237.00 
+RA Factor (Nephelometry)(IU/mL) <11.00   <11.00 
+    
+Anti-DNA(FA)(1:N) 1:5(-)   
+Intercellular Substance Antibody(1:N)  1:10(-)  
+P-ANCA(IFA)(1:N)  Negative  
+C-ANCA(IFA)(1:N)  Negative  
+Anti-Nuclear Antibody(1:N) 1:40(-)   
+Anti-dsDNA(EIA)(IU/mL)  <87.48  
+Anti-TPO Ab.(AMA)(IU/mL) <3.00    
+Anti-Phospholipid antibody-IgG(GPL) 9.14  
+Anti-ENA(Ratio)  Positive(1.97) mild ***
+Anti-SS-A Positive(17.87)
+Direct : Coombs' Test Positive  3+  
+
+<Immunosuppressants>
+MTP 10mg Q6H (3/2-3/6) > 10mg Q8H 3/7-3/9 > 10mg Q6H 3/9-
+Leflunomide 10mg QOD (3/9-)
+Plaquenil 200mg BID (3/9-)
+
+<Viral hepatitis markers>
+Anti-HBc Positive   
+IgM-Anti-HAV(*)   Negative  
+Anti-HBe(*)   Negative  
+HBeAg(*)   Negative  
+Anti-HCV Ab(*)  Negative   
+Anti-HBs(mIU/mL)  Positive(22.72)   
+Anti-HAV(*)  Positive   
+HBsAg(IU/mL)  Negative(0.01)
+
+<Ventilator setting>
+PCV 16/10/70 -> 40/400/16/92
+3/10 11AM iNO 10ppm -> 5ppm
+
+<Inotropics>
+off 
+
+<Heart evaluation>
+3/6 TTE: LVEF ok, no vegetation, TRPG 21.3, AR/TR++, MR+ 
+3/9 NT-pro BNP 1189
+
+Plan 
+# for type 1 respiratory failure
+  - keep current ventilator setting
+  - tapper off iNO as soon as possible
+# for Shock, suspect septic or hypovolemic shock, complicated with lactic acidosis, HAP
+  - f/u lactate and UOP
+  - keep current board spectrum abx
+  - persue culture result (3/8 B/C, 3/9 S/C)
+  - monitor CMV PVL QW14 (3/3 <150, 3/9 321)
+  - monitor Asp Ag QW14 (3/9 0.55)
+# Interstitial lung disease, secondary Sjogren syndrome
+  - IVIg 2g/kg in 4 days, IL-6 inhibitor(Tocilizumab), Leflunomide, Plaquenil use.
+  - solu-medrol 10mg Q6H
+  - follow up ferritin, CRP and D-Dimer next W1
+  - watch out TB reactivation, or HBV flare up
+  - consider Rituximab later
+# Acute hepatitis 
+  - hold Baktar since 3/8 
+  - f/u LFT QOD

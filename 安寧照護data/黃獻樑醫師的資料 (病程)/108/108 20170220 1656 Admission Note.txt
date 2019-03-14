@@ -1,0 +1,189 @@
+2017/02/20 16:56 
+主訴(Chief Complaint) 
+Informant: nephew and his friend
+Hemoptysis, right side chest pain and dyspnea since 2 months ago. 
+病史(Brief History) 
+This is a 73-year-old Burmese gentleman with past history of:
+1. Type 2 diabetes mellitus, not under medication control at Myanmar 
+2. Hypertension, not under
+3. Chronic kidney disease, with baseline Cre:2
+4. Benign prostate hyperplasia
+
+ The patient was a heavy smoker(1~2 pack/day for several decades). He use to live in Myanmar and was at his usual health status until 2 months ago, when hemoptysis, right side chest pain and dyspnea develped. The patient showed exercise intolerance and could not climb stairs independently. There were no fever or any other upper respiratory tract symptoms. The patient also had poor appetite and body weight loss (3~5 kg). He thus came to Taiwan and visited 耕莘 hospital, where CT scan and PET suggested right upper lobe lung cnacer with pleural retraction. Biopsy later revealed  moderated differentiated SCC. He visited NTUH VS李章銘's OPD on 2017/1/16, and admission for survey was suggested after discussion.
+ Under the impression of right upper lobe lung cancer, he was admitted to our ward for further survey and treatment.
+
+Family History: noncontributory.
+Medication Allergy: Penicillin group 
+Medication ADR: unknown
+Allergy to Medical Device and Materials: No
+Current Medication: Triginda (linagliptin)for DM.
+NTUH: nil
+Other: nil
+中草藥: nil
+保健食品: nil
+Past Medical History:
+type 2 diabetes mellitus, hypertension, kidney disfunction, and benign prostate hyperplasia
+Hospitalization: nil
+
+Past Surgical History: denied
+Travel History: nil
+Occupation: Dealer(買賣腳踏車, denied chemical exposure)
+抽煙:沒有，已戒煙:2年
+喝酒:沒有，已戒酒:10年
+檳榔:不知道 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:高中
+職業:無
+宗教信仰:其他
+婚姻狀態:喪偶
+使用語言:其他 
+口述血型:B，RH:，輸血反應:無
+抽煙:沒有，已戒煙:2年
+喝酒:沒有，已戒酒:10年
+檳榔:不知道
+物質濫用:沒有 
+系統性回顧(Review of System) 
+1.Systemic: weight loss(+, 3-5 kg in 6 months), easy-fatigability(+), night sweats(-)
+2.Skin:  petechiae(-), purpurae(-), skin rash(-), itching(-),
+3.HEENT: headache(-),dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasal stuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-),oral ulcer(-)
+4.Cardiovascular:  exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-) syncope(-), palpitation(-), intermittent claudication(-)
+5.Respiratory: dyspnea(-), cough(+, since 2 months ago), chest pain(-), hemoptysis(+, since 2 months ago), productive cough (-), pleuritic chest pain(-)
+6.Gastrointestinal: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heartburn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-) midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7.Urogenital: flank pain(-), hematuria(-), urinary frequency(+), urgency(-), dysuria (-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria (-)
+8.Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-) back pain(-)
+9.Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10.Nervous: numbness (-), paresis/plegia (-) 
+身體檢查(Physical Examination) 
+BH:  cm,  BW:  kg,
+T: 36.8 °C,  P: 117 bpm,  R: 20 /min,
+BP: 131 / 86 mmHg,
+Pain score: 0,
+
+Neurological Examination: 
+. Consciousness: clear but drawsy
+. Muscle power: full but week
+. Gait: steady
+
+General appearance: ill looking
+Consciousness: clear and alert
+Vital sign: stationary
+HEENT: grossly normal 
+   Eyes: conjunctiva: not pale,    sclera: not icteric
+   Pupil Isocoric,   light reflex (R/L): +/+, prompt
+   Ears: eardrums not injected.
+   Neck: supple, JVE (-), LAP (-), huge lipoma?(+, right neck)
+Chest: symmetric expansion, clear breath sounds
+Heart: RHB, no murmur audible
+Abdomen: soft and flat, no superficial collateral circulations, 
+          No tenderness, no rebounding tenderness
+          Bowel sounds: normal active
+          Liver / Spleen: Not palpable
+Extremities: freely movable, pitting edema (-), cyanosis (-), petechiae (-), rash (-), dry and dehydrated(+)
+Peripheral pulses: symmetrically intact 
+檢驗紀錄(Laboratory Report) 
+Infection: WBC:24.34, CRP pending, suspect right upper lobar pneumonia
+Suspected AKI: Cre:4.4
+Electolye inbalance
+
+*********檢驗室:HE***********
+
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (k/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1060220 [0944] 24.34         4.18          10.7          32.5          77.8         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (k/μL)        (%)           ()           
+1060220 [0944] 25.6          32.9          338           14.8          -            
+群組:WBC D/C
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060220 [0944] 0.0           0.0           0.0           1.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1060220 [0944] 93.0          0.0           0.0           6.0           0.0          
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1060220 [0944] 0.0           0.0           0.0           -            
+*********檢驗室:CT***********
+
+群組:PT
+
+               PT            PT INR       
+time/item      (sec)         ()           
+1060220 [0944] 10.9          1.01         
+群組:PTT
+
+               PTT          
+time/item      (sec)        
+1060220 [0944] 31.3         
+*********檢驗室:BC***********
+
+群組:General BioChemistry
+
+               Alb           T-BIL         AST           ALT           UN           
+time/item      (g/dL)        (mg/dL)       (U/L)         (U/L)         (mg/dL)      
+1060220 [0944] 3.0           0.48          12            13            74.9         
+               CRE           Na            K             Ca           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mmol/L)     
+1060220 [0944] 4.4           121           5.3           2.27         
+群組:
+
+               eGFR         
+time/item      (mL/min/1.73 
+                m^2)        
+1060220 [0944] 14.1         
+*********檢驗室:SF***********
+
+群組:Yes
+
+               CA-125        CA-199        CEA          
+time/item      (U/mL)        (U/mL)        (ng/mL)      
+1060220 [0944] 58.6          12.24         12.71 
+檢查紀錄(Examination Report) 
+nil 
+影像報告(Imaging Report) 
+CT scan in 耕莘 hospital showed pulmonary tumor located in right upper lobe and pleural retraction. 
+病理報告(Pathology Report) 
+Bonchoscopic biopsy at 耕莘醫院(2017/1/11): moderated differentiated SCC 
+臆斷(Tentative Diagnosis) 
+Lung cancer, right upper lobe, moderated differentiated SCC. 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+*Lung cancer located in right upper lobe, DM, hypertension
+
+S: Hemoptysis, right side chest pain and dyspnea
+
+O: 
+1. Na: 121 mmol/L, K: 5.3 mmol/L
+2. BUN: 74.9 mg/dL, Cre: 4.4 mg/dL, eGFR: 14.1, Alb: 3.0 g/dL
+3. RBC: 4.18, WBC: 24.34, Hb: 10.7, HCT: 32.5, MCV: 77.8, MCH: 25.6, 
+4. PLT: 338, PT: 10.9 sec, PTT: 31.3 sec
+5. PE: Normal breathing sound; normal heart sound
+6. Image: pleural retraction
+
+A: 
+1. Lung cancer invading pleura with poor controlled DM, hypertension and kidney dysfunction.
+2. Acute kidney injury
+3. Obstructive pneumonia
+
+P:
+1. Brain MRI and abdominal CT for evaluating metastasis
+2. Seek for tissue biopsy
+3. Genetic testing for EGFR mutation and ALK rearrangement
+4. Pulmonary function test
+5. Track serum glucose level and blood pressure for evaluating medication for DM and hypertension
+6. Treatment for pneumonia
+
+Treatment Goal:
+1. Staging of lung cancer
+2. Adequate control of DM and hypertension
+3. Infection control
+4. Discuss further treatment plan 
+出院規劃(Discharge Planning) 
+Please refer to 護理紀錄 
+主治醫師評論(VS Comments) 
+I agree with the assessment of the resident. 
+醫師姓名 
+李章銘 主治醫師 

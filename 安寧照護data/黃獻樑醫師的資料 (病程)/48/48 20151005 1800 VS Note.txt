@@ -1,0 +1,15 @@
+Rapid shallow breathing was noted during T-piece breathing early during the SBT.
+Trying home ventilator for long term care at home.
+Control the infection.
+2015/10/15 16:59 SpO2:100%(%,3L,VCR)
+2015/10/15 12:16 SpO2:100%(35%,L,VCR)
+2015/10/15 09:29 SpO2:100%(35%,L,VCR)
+2015/10/15 05:31 SpO2:99%(35%,L,VCR)
+2015/10/15 16:58 T:36.3 P:103 R:24
+2015/10/15 12:16 T:36.3 P:103 R:25
+2015/10/15 09:29 T:37.5 P:107 R:27
+2015/10/15 04:48 T:37.1 P:102 R:36
+2015/10/15 ID+DS Blood.#1:No growth after 5 days   *
+2015/10/15 ID+DS Blood.#1:No growth after 5 days   *
+2015/10/14 C-Reactive Protein:7.67   mg/dL
+2015/10/14 LacticAcid:1.19   mmol/L

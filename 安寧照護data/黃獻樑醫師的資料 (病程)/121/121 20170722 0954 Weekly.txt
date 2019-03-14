@@ -1,0 +1,53 @@
+1) Right lower pneumonia, with respiratory failure and shock, status post ETT+MV (6/25-), being treated with Piperacillin/tazobactam and then cefepime (7/6-7/20)
+2) Amyotrophic lateral sclerosis (ALS), with onset in 2015, diagnosed in 2016
+3) hypertension
+
+[Treatment course]
+    The patient decided withdrawal and the family respected his decision. A psychiatrsit was consulted to rule out depression and he replied: "病人目前決策非受重大精神疾病影響，非屬完全無行為能力者，建議依照一般臨床準則評估末期狀態及維生系統使用與撤除合理性。" 倫理委員會評估此案只要有兩位專科醫師認定為末期，即無法律或倫理爭議。
+    Tramal IV drips could ameliorate his discomfort. Imovane helped him fall asleep.
+    Cefepime (7/6-20) was completed.
+
+    
+
+[Brief summary]
+6/25 - Admitted to Cardinal Tien Hospital, ETT+MV
+7/6  - Transferred to NTUH ICU
+       RLL pneumonia didn't resolve. Give cefepime
+7/7  - Stable. Fasciculation improved after titration of Trileptal to 1# Q12H
+       SBP ~140. DC Olmetec
+7/9  - Sorethroat persisted. Ultracet 0.5# Q6H -> 1# Q6H
+     - Fasciculation improved
+7/10 - Consult PM&R for numbness/tingling from immobilization
+7/11 - Try Lyrica. 家屬自備肢體按摩器
+7/12 - VC 550
+7/13 - Slept better
+     - WBC 8.38 K, seg 74.2% improved
+     - 向病人及配偶完整解釋氣切與否的利弊
+7/19 - Still numbness/tingling/pain and poor sleep
+       => Give Tramal 50 mg IF Q6H
+     - WBC 10K, seg 76%
+7/20 - Tramal infusion worked, so the dose was increased for better relief
+     - DC Maxipime (D15)
+7/21 - Tramal 100 mg Q6H IF ameliorated the discomfort from VAS 5-6 to 3-4
+       The patient refused to increase the dose or to try morphine
+       Abdominal distension (+)
+7/22 - Imovane => slept better, not awaken by tingling
+     - Sorethroat VAS 5. Not willing to escalate painkillers.
+
+[Plan]
+1) For RLL pneumonia
+- Piperacillin/tazobactam -> cefepime (7/6-20)
+- Keep VC/AC ventilator support
+- Chest care
+  
+2) For ALS
+- Keep current medication
+- Try adequate analgesics
+
+3) 
+- Adjust Tramal to try morphine if the patient wants
+- 給親友一週的時間來探望病人，之後進行Withdrawal
+  似乎要等到7/27之後
+  May contact hospice ward (transfer after extubation??)
+- DNR 意願書已給
+- Family meeting on W2

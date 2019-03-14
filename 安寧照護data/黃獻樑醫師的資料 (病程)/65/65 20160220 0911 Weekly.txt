@@ -1,0 +1,133 @@
+Brief Summary of this week    
+<3C2 treatment course>
+After he was admitted, ice blanket was performed for ketp BT around 36 degree C. The GCS level was around E1VTM1 to E3VTM4, then we removed the ice blanket on 1/29 7:30. ECG was then performed, and it reorted moderate to severe diffuse cortical dysfunction. Month angle twitching and for limbs convulsion was noted since 1/28 night, and keppra loading was then administered. Under the impression of seizure attack, we consulted neurologist, and Keppra infusion with Rivotril was suggested. Bradycarida developed since 1/29, with fluctation BP, so low dose Dopamine was added for support. 
+
+Follow-up EEG was arranged on 2016/02/01, it reported no significant changes nor epileptiform discharge. However, intermittent right facial twitching was noted since 2016/02/02. We contacted with neurologist, and they suggested to increase Rivotril dose to 1# Q6H. Seizure was subsided after then. Due to difficulty in weaning, he was transferred to RCC ward for further managment on 2015/2/6.
+
+<RCC treatment>
+After transferred to RCC, pigtail was inserted again because of large amount of right side pleural effusion. Because of poor consciousness, the possiblity of weaning off ventilator is low. We discussed with family about to perform tracheastomy or extubation. And they preferred extubation without intubation again(安寧拔管). Initially they decided to extubate at 2/16, however, patient's family is hesitated about extubation for long term care. We explained family again. They finally all agreed to extubate on 2/23.
+抗癌藥品治療副作用 (化療) 無副作用
+
+癌症治療效果追蹤評估 Disease Status:
+Residual tumor / Recurrence / Metastases
+Treatment Response:Not evaluable 
+
+PAP1
+Assessment 
+Abx free
+
+[Previous antibiotics]
+Tazocin   (1/27-2/6)  
+Meropenem (1/31-2/1)  suspect septic shock
+Tazocin   (1/17-1/26) empirically for HCAP
+
+[Mv setting]
+P-SIMV+PS: PS 8, IP 16, PEEP:5, FiO2:30%, f 4
+=> VT 300, Mv: 6, SpO2 99%, RR: 20
+
+//Weaning parameter (2016/02/05)//
+Pi/Pe:-18/+20 cmH2O, RR: 27, VT:128.8ml
+VE: 3.48L/min, RSI : 210
+2/9 Cuff leak: pass
+
+[Physical examination]
+consciousness: comatose, E1VtM1
+HEENT: pupil (R/L) 2.0/2.5, bilateral light reflex (trace)
+       Doll eye's sign (-). Cough reflex(+), 
+       intermittent right facial twitching
+Heart: regular heart beats (70-90/min)
+Chest: bilateral mild coarse breath sound
+Abdomen: soft, flat, normoactive bowel sound, 
+         no guarding
+Extremities: Bilateral upper limbs pitting edema 4+
+
+[Cultures]
+1/19 S/C: wide type K.p *2
+1/27 B/C*2: neg
+     S/C: mixed flora
+     U/C: neg
+1/28 left femoral CVC tip tx:
+1/31 S/S: PMN>25, epi<10, GNB 1+
+     S/C: Burkholderia cepacia complex (R to Cravit)
+     B/C (AL, CVC): neg
+     U/C: neg
+     cryptococcal Ag: neg
+2/1 Oral ulcer: HSV-1
+//Endocrine or others//
+1/19  ACTH/cortisol: 26.4/32.1
+1/31  ACTH/cortisol: 11.9/12.6
+      TSH/fT4: 2.57/0.829
+
+[Important study reports]
+1/17 Brain CT: Mild brain atrophy. Leukoaraiosis.
+1/18 Whole body CT: 
+     RUL lung cancer with diffuse bone, liver metastasis.
+     Moderate bilateral pleural effusions. 
+     Post- R/T change of the retropharyngeal space.
+1/20 Pleural effusion:
+     TP 3.9, LDH 796, TG 116, Glu 114
+     TNC 233, suspicious atypical cells
+     Gram stain: PMN<20, No bacteria
+1/21 Pleural effusion(733ml)
+     TP <3.0, LDH 303, TG <10, Glu 81
+1/28 brain CT: no ICH
+1/29 EEG: moderate to severe diffuse cortical dysfunction
+2/01 EEG: moderate to severe diffuse cortical dysfunction. 
+     No epileptiform discharge is seen.
+
+[consultation]
+1/17 Oncologist: 
+     1. Suspect pneumonia with suspected increased bilateral
+        pleural effusion, to exclude cancer progression
+     2. Altered consciousness, r/o sepsis related first
+1/29 Neuro: 
+     1. Please increase Keppra to 1000mg q12h.
+     2. Please add Rivotril(0.5) 1# q8h.
+     3. Please follow-up awake EEG on next W1. 
+02/01 Neuro CR范:
+     intermittent right facial twitching -> suspect seizure
+     suggest increase Rivotril dose 1# Q6H
+
+[Family's decisions]
+1/21    agreed with re-intubation
+1/27-28 agreed for therapeutic hypothermia, 
+        chest tube if indicated, 要積極
+1/28    Left upper limb swelling, SVC syndrome related, 
+        Inform family the indication of Clexane use and 
+        risk of bleeding, Family agree
+2/3     family consented to RCC transfer
+2/6     family prefer 安寧拔管 if weaning failure
+2/11    Family prefer extubation again and not reintubation.
+2/13    family consider extubation next W4
+2/16    Family signed 撒除維生醫療同意書
+2/18    FM meeting: I had explained the current condition to patient's brothers and sisters. They can accept and realize. They will discuss about withdrawl date.
+2/19    Daughter said family agree extubation at 2/23
+
+Plan 
+1. For seizure, keep Keppra and rivotril (1# Q6H)
+2. Keep pigtail drainage and monitor amount
+3. Informed family about poor prognosis and vegetative 
+   possibility. 
+-> family agree extubation(withdraw) at 2/23
+
+PAP2
+Assessment 
+1/27 Transfer to 3C2 due to PEA
+     Hypotheremia
+1/28 Seizure (Month angle twitching and limbs convulsion)
+     Add Keppra and Rivotril
+     Clexane for SVC syndrome
+1/29 Discontinued hypotheremia (48hrs)
+     EEG: diffuse cortical dysfunction
+     Bradycardia and fluctation BP
+     Low dose of dopamine support
+1/30 Shock and low BT
+     Meropenem instead of Tazocin
+     DC Clexane due to hemosputum and hematuria
+1/31 Low-grade fever up to 37.8 degree
+2/01 Repeat EEG as neurologist's suggestion
+     Shift back to Tazocin
+     SIMV-> PSV. DC dopamine
+2/02 shift back to SIMV for apnea
+2/03 Still intermittent mouth angle twitching
+     family consented to RCC transfer

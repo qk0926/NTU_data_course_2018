@@ -1,0 +1,89 @@
+. Recent recurrent stroke at left pariventricular white matter and right cerebellum, onset time suspect 2016/1/22
+. Ischemic stroke at right paramedian pons on 2015/12/29, with dysarthria and right hemiparesis, under bokey+plavix, changed to plavix + pletaal on 2016/1/15 
+. Fever 2016/1/23, pneumonia, under Tatumcef 1/22~23, Tazocin 1/23~27, maxipime 1/27~
+. Paroxysmal Afib noticed on 2016/1/23
+. Peripheral Artery Obstructive Disease
+. Left lower limb status post Above knee amputation
+. Chronic Kidney Disease, stage 4
+. Hypertension
+. Type 2 Diabetes Mellitus (2015/09/16 HbA1c 6.6%)
+. Old infarctions at left posteior frontal and parietal cortical/subcortical regions
+. Coronary Artery Disease,s/p ECMO in 2011, s/p CABG in 2012 (INCA s/p CPR w/ ROSC in 2011)
+
+[Treatment coarse]
+  He was admitted to our ward on 2016/1/12. We started swallowing trainig with ¨ï¸H¦¨ªdÀ\ on 2016/1/13. He had no choking after drinking milk or ³½´ö.  NG tube was removed smoothly on 2016/1/14 and he tolerate oral intake well although drooling was still noted. During the period of swallowing training, PE revealed bilateral clear breathing sound. 
+
+  As for PT/OT training, he started to practice walker with LLE prosthesis. And he could walk with walker and prothesis under supervision for about 5 meters.
+
+  Pus-like discharge from right 3rd toe was noticed, which may indicate progression of his PAOD in his right leg.  PE showed no pulsation of anterior tibialis and dorsalis pedis artery. Hence, we consulted Dr. ¬ö¤D·s today(pending his reply) and arranged vascular sonography on 2016/1/19 for further survey and managements, which then reported no blood flow at right anterior tibial artery. Also, we shifted Bokey(100mg/cap), 1#, QD + Plavix (75 mg/tab), 1#, QD to pletaal 1# QD + Plavix (75 mg/tab) for improving PAOD. Right foot pain was controlled with ultracet, and the pain improved gradually. Besides, Augmentin 1# QD was given for wound infection since 1/18. 2016/01/19 Wound culture revealed Enterobacter cloacae 3+ and Pseudomonas aeruginosa 3+. Antibotics was changed on 2016/1/22 to Tatumcef according to susceptibility test of wound culture because CRP was elevated.
+     
+   However, on 1/22 poor coperation, general weakness, and poor oral intake with oral stasis of food were complained. Aspiration of food was noticed once. On 1/23 fever with dyspnea, productive cough and bilateral crackles in breath sound was noticed. Under impression of aspiration pneumonia, CXR also showed mild increased infiltration at bilateral lower lung fields. Tazocin was given as empirical antibiotics. NG was also inserted because of poor oral intake. Sublingual NTG had been used for chest tightness which then relieve chest tightness. Considering the suscepitbility test, and suspect diarrhea side effect of Tazocin, antibiotics was then changed to Maxipime on 1/26. Stool WBC was negative. No fever or dyspnea was noticed after 1/24. Productive cough also improved. Because of poor peripheral intravenous line, CVC was inserted on 1/25.   
+
+  However, Poor oral intake still persisted. According to his caregiver, he need more assistance when doing transfer. Although he couldn't follow order consistently, right side weakness was also noticed by PT/OT. Due to peristent functional decline and drowsiness which not compatible with improvememt of infection signs, stroke in evoluton couldn't be rulled out. Therefore, emergent brain MRI was performed which showed multiple small hypersignal of left pariventricular white matter and right cerebellum in DWI which implys recent infaction. So Antihypertensive agents were held and hydration was given. And we consulted neurologist for medications adjustment for secondary prevention of stroke. Bedsides, cardiac echo was arranged to r/o Valvular heart disease, and anticoagulant might be given for suspect nonvavular Afib. Risk of hemorrhage was informed to his wife.        
+  
+  About DM, low blood sugar(60~90 mg/dL) was noted in the morning, and we tappered his OAD and kept monitoring the blood sugar level. However, blood sugar before dinner elevated since aspiration pneumonia. Trajenta and Lantus 6U SC were given. We would keep monitor blood sugar.  
+
+[Abx histor]y
+  -Augmentin(1g/tab), 1#, QD for PAOD wound 1/18~1/22
+  -Tatumcef 1/22-23 according to wound culture: Enterobacter cloacae 3+ ; Pseudomonas aeruginosa 3+  
+  -Tazocin 1/23~26 due to fever, pneumonia  
+  -Maxipime 1/ 27~ due to diarrhea when using Tazocin 
+
+
+A:
+Fever with productive cough , improved
+ECG: Atrial fibrillation 1/23
+NG was reinserted on 1/23
+consc: drowsy but arousable, cound't follow simple order consistently
+
+Before 1/22 -->                       Currently: 
+walk with walker under mod a. --> refused walk due to general weakness
+Transfer under mod a. --> max a.
+
+MP RUE proximal 3 distal 3+    LUE proximal 2~3 distal 3+    
+ RLE  proximal 3+  distal 4   LLE proxima 4  distal: above knee amputation
+ ---> MP decreased mildly
+
+Dysmetria: FNF +/+ 
+
+1/29 HbA1c: pending
+BUN 35.5  mg/dL 7~25 L0H0I0,(A)(U)TOE  
+CRE 3.0  mg/dL 0.6~1.3 L0H0I0,A(U)TOE  
+Na 139  mmol/L 136~145 L0H0I0,AUTOV  
+K 2.9  mmol/L 3.5~5.1 L0H0I0  
+hsCRP 3.80  mg/dL <0.8 
+
+HB 9.7  g/dL  ; WBC 12.97  K/£gL Seg 80.3  % 
+PLT 189  K/£gL 
+
+1/28 VFSS: oral stasis 
+     normal swallowing reflex
+
+P:
+. consult neurologist
+. Cardiac echo was arranged
+. diarrhea improved --> d/c smecta 1pack TID and Imolex
+. f/u lab 1/31 
+* For DM:  --> f/u HbA1c pending 
+     Novonorm 1# BID 
+     Trajenta 1# QD 
+     lantus SC 6U 
+. Keep DAPT(Dual antiplatelet therapy)
+     pletaal 1# QD + plavix 1# QD
+     * might add NOAC (renal adjust)
+. Keep Maxipim until 2/1 ; 1/22 b/c(-)  
+. Keep changing dressing QD, analgesics and Tetracycline for right toe wound.
+. Keep PT/OT/ST program 
+. Hold Norvasc(5mg/tab), 1#,QD + concor 0.5# QD for hypertension
+  Hydration 1000ml QD
+  record I/O
+
+Other Medication
+. Ultracet, 1#, Q6HPRN
+. Takepron(30mg/tab), 1#, QDAC for prevention of gastric ulcer
+. harnalidge for BPH 
+. Zoloft for depression
+
+# Goal of this week: 
+. treat pneumonia
+. Hydration keep SBP 160~180mmhg

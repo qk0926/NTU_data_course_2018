@@ -1,0 +1,24 @@
+Poor resolution of left lung haziness, probably due to hemorrhage and infection.
+Extubation appeared not feasible at this condition.
+2015/10/06 CT With/Without Contrast-Chest (V1)
+1) Bilateral lung consolidation and heterogeneous density, r/o infectious process or even necrotic change. 
+2) Enlarged cavitation at RUL, with some necrotic mass inside. 
+Explained to the family that extubation is not feasible, but tracheostomy is also not recommended at this time point due to uncertain prognosis in the near future.
+Discuss with ID expert about the choice of antimicrobial therapy for left pneumonia. 
+
+2015/10/16 PH:7.391   *
+2015/10/16 PCO2:47.8   mmHg
+2015/10/16 PO2:50.7   mmHg
+2015/10/16 HCO3:29.3   mmol/L
+2015/10/15 LacticAcid:1.41   mmol/L
+2015/10/15 WBC:13.03   K/£gL
+2015/10/15 HB:8.8   g/dL
+2015/10/15 PLT:224   K/£gL
+2015/10/16 05:03 T:36.2 P:115 R:16
+2015/10/16 01:37 T:36.4 P:113 R:26
+2015/10/15 23:18 T:36.5 P:138 R:28
+2015/10/15 21:50 T:37.2 P:101 R:21
+2015/10/16 05:03 SpO2:100%(55%,L,VCR)
+2015/10/16 01:38 SpO2:96%(55%,L,VCR)
+2015/10/15 20:57 SpO2:96%(55%,L,VCR)
+2015/10/15 16:53 SpO2:94%(55%,L,VCR)

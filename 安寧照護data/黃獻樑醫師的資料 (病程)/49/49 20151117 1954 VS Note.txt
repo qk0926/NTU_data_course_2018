@@ -1,0 +1,24 @@
+62F
+
+<Active>
+1. Hypercapnic resipratory failure, stutus post endotracheal inbucaitoin
+2. Septic shock, suspect intrabdominal infection related
+3. Suspected bile leak related peritonitis and left side pleural effusion
+4. Metastatic adenocarcinoma, suspected gastric antrum tumor as primary site, complicated with bile duct, right ureter obstruction, and suspected peritoneal carcinomatosis s/p failed ERCP on 2015/10/01, 10/5, s/p PTCD on 2015/10/02, s/p biliary stent on 10/07, s/p EUS+FNA and paracentesis on 10/19
+5. Right hydronephrosis, tumor compress related, s/p DBJ insertion on 10/8
+6. Spotaneous bacterial peritonitis (TNC:428), culture:Candida tropicalis
+
+<Inactive problems>
+7. Hand crush injury, left wrist, status post operation
+8. Gastrojejunostomy operation history 20+ years ago, cause unknown
+
+SHe was admitted to MICU due to septic shock and MOF
+
+Suggest:
+
+-> MOF in progression, consciousness confusion
+-> O2 demand increased and urine output decreased
+-> under pallative care with optimal sedative and analgesics
+-> inform family the new event and progression of infection despite under broadspectrum antibiotics
+-> withholding NG feeding
+-> inform family critical conditons and further treatment plan

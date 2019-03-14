@@ -1,0 +1,107 @@
+Brief Summary of this week    
+After admission, the patient was unconsciousness. Inotropic agent was administered, and CVVH was also initiated. Coffee ground and tarry/bloody stool were also noted. Nexium continuous infusion was arranged. DIC also developed. The PTCD function was poor. The level of total bilirubin kept elevating. Critical contidtion and poor prognosis were informed to the patient's family, and they signed DNR(except chest compression, except DC shock). Hospice combined care was consulted. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+[Current condtion]
+unconsciousness, severe jaundice
+
+* lactic acidosis and DIC were also mildly improved
+* relative stable blood pressure and saturation under current inotropic agent use and ventilator support
+* anuria
+
+[Antibiotics]
+Mepem     3/16-,   empiric use
+Targocid  3/17-,   empiric use
+Eraxis    3/17-,   empiric use
+-----------------------------------------
+Colistin  3/17-3/17,   empiric use
+
+[Culture report]
+2016/11/25 B/C: Pseudomonas aeruginosa (CRPsA)
+2016/11/27 PTCD drainage: Pseudomonas aeruginosa (CRPsA)
+
+[Inotropics]
+Levophed 8ml/hr (16ml in D5W 250ml)
+Pitressin 3/16-3/17, off
+
+[Ventilator]
+PCV 12/6/25-> SpO2: 100%, RR: 31, MV: 13~14, TV: 460-520
+
+[Nutrition]
+D50W+multivitamin
+Vit B1 *3day (3/17-3/19)
+
+[Physical examination]
+E1VtM1
+Pale conjunctiva, icteria sclera, Jaundice
+Oral ulcer, and oral bleeding, Damaged teeth
+Breath sound: clear
+Heart sound: RHB, no murmur
+Hypoactive bowel sound
+Oval abdomen. No rebound tenderness.
+Pitting edema 1+.
+
+[Important Lab findings]
+3/15 1PM 7.358/23.4/27.3/13.3/-12.5
+3/16 5AM  7.404/22.3/35.2/14.1/-10.9
+     10PM 7.584/14.1/302.4/13.4/-8.7
+3/17 5AM  7.633/14.7/76.5/15.7/-5.5
+     11AM 7.586/11.9/162.2/11.4/-10.7
+3/18 5AM  7.546/17.4/88.3/15.2/-7.4
+
+Hb 3/15 9.6 -> 10.0 -> 3/16 7.6 -> 4.4
+INR 1.91 -> 3/15 2.55 -> FFP 6U -> 1.88 -> 1.96 -> FFP 4U -> 1.81 -> FFP 4U -> 2.36 FFP 4U
+T-bil 
+1/11 1.16, 2/23 2.82, 2/26 5.01, 2/28 6.81, 3/03 10.56, 3/06 10.69, 3/08 12.54, 3/12 17.75, 3/15 24.85, 3/15 28.06, 3/16 17.01
+Cre 2/23 Cre 2.7, 2/26 3.7, 2/28 4.2, 3/01 4.1, 3/02 3.7, 3/03 3.8, 3/06 3.9, 3/08 4.0, 3/12 4.6, 3/15 4.5, 3/15 4.6, 3/16 4.6
+K > 6.0 despite medical treatment --CVVH--> K: 4.2
+
+[Important study findings]
+02/23 PTCD(III)
+PTCD(1), 8Fr, from right inferior IHD to CBD
+PTCD(2), 8Fr, from right superior IHD to CBD
+PTCD(3), 10Fr, in right liver dome biloma
+03/02 Renal echo
+   Kidney size R 8.6, L 9.1 cm
+   Parenchymal renal disease, bilateral
+03/09 Abd echo
+   s/p left hepatectomy and cholecystectomy
+   Right hepatic lesions, multiple, in favor of tumor recurrence
+   Marked splenomegaly
+   Massive ascites, in favor of cancerous peritonitis
+   Fatty infiltration of the pancreas
+
+[Important intervention and newly added medications]
+3/16 ETT+MV
+     CVVH
+
+[Important consultation]
+3/17 radiologist R黃裕城(on phone): correct coagulopathy: goal: INR<1.5, PLT>50k, if CVVH could be stopped, but the goal was still not achieved, please contact with him again.
+3/17 hospice team 
+
+[Important patient's and family's decision]
+3/17 son: DNR(不壓不電, signed) 
+3/18 son: 院宣,但希望能在尚有一口氣時先行更換衣物
+
+Plan 
+1. for BTI with septic shock and respiratory failure
+   - keep Mepem, Targocid, Eraxis for BTI (IAI)
+   - pursue all culture results
+   - keep  CVVH for refractory metabolic acidosis (3/16-)
+   - keep MV support, and weaning gradually
+   - keep inotropic agent use, and taper gradually
+   - consider arrange PTCD revision after stable hemodynamic status
+     (Goal: INR< 1.5, plt> 50k)
+2.  For GIB/coaguplophy
+   - correct the coagulopathy til the goal acheievd. 
+   - component therapy
+   - keep high dose Nexium infusion (5amp/day, cIF)
+   - add transamine 500mg Q8H
+   - NPO, and keep D50W
+   - consider SB tube if suspected EVB
+3. Inform grave prognosis due to multiple organ failure
+   --> son signed DNR(不電不壓)
+   --> family prefer critical AAD (留一口氣回家)

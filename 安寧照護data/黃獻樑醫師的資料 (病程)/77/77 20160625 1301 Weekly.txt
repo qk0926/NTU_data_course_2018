@@ -1,0 +1,229 @@
+Brief Summary of this week    
+Treatment course 6/19-6/25
+Persistent fever without toxic sign was noticed. On 6/19, Naposin was given for suspected tumor fever. Increased seizure attack was noticed and Dormicum pump was titratedup. Improved fever was later found. Rivotril was uptitrated. Oral chemotherapy Xeloda and intra-thecal chemotherapy was discontinued due to family's request. Family favored withdrawal and extubation according to the patient's will. Family explained about weaning-extubation/withdrawal. Persistent apnea of the patient under PSV was found, and ventilator was shifted back to PC-SIMV. On 6/21, hospice was consulted about withdrawal for low potential of weaning/extubation. The patietn showed low weaning potential with markedly decreased Vt when down titrate setting. Hospice explained to the family about withdrawal process. On 6/23, the family signed withdrawal permit (sister and brother). Improved edema was noticed and the patient was prepared for withdrawal. Supportive and palliative care was kept. On 6/25, withdrawal with extubation was performed at 10:06AM. Dormicum + Morphine pump was used. Palliative care was kept with family accompany. 
+
+癌症治療效果追蹤評估 Disease Status:
+Residual tumor / Recurrence / Metastases
+Treatment Response:Evaluable
+Progression 
+
+PAP1
+
+Assessment 
+Intra-thecal chemotherapy MTX(12mg)(I) 2016/06/14 DCed
+Oral chemotherapy Xeloda(500mg) 2# BID 2016/06/15 DCed
+
+<Antibiotics> 
+Antibiotic free since 6/21
+----------------------------------------------
+Cravit 6/7-6/20 for S/C ESBL Ecoli
+Vancomycin 6/11-6/17 empiric use 
+Metronidazole 6/4-6/7  for aspiration pna coverage
+Vancomycin    6/4-6/7  empiric
+Cefepime      6/3-6/7  for CNS infection and PNA
+
+<AEDs>
+Rivotril 1#(6/13-)->2#(6/15)->3#->4#(6/16)->5#(6/17)->8# (6/20)->10#(6/21) Q6H
+Topamax 1->2#(6/13) BID 6/7-
+Keppra 1500mg Q12H 5/31- (shift to PO since 6/21)
+Phenytoin 100mg Q8H 5/31- (shift to PO since 6/21)
+Midazolam pump 7->3->1.5->5 ml/hr 6/11-
+---------------------------
+Depakine 400mg 6/13 DC
+
+<Respiration>
+Extubation at 10:06AM on 6/25.
+O2 mask 35%8L
+Dormicum + Morphine pump use
+
+<Physical examination>
+BW: 51.3->51.2kg
+Consciousness: unclear, E2VtM2, spontaneous eye open sometimes 
+HEENT:grossly normal
+Chest: right breast mass with erosin and discharge, extended to left breast; also bilateral axillary area
+-> wound enlarged and more discharge and bleeding
+       Bilateral clear breath sounds
+Heart: RHB, tachycardia, no murmur
+Abdomen: soft, no tendenress; normactive BS
+Extremities: bilateral arm pitting edema, less, but more prominent at right hand
+             Intermittent muscle twitch, more at right side, esp right leg
+
+<Nutrition> 
+濃度:2 卡/cc熱量:1750 營養品:調整配方
+
+<Culture report>
+6/2 B/C(PB):negative x2 
+6/3 B/Cx2: negative F/Cx2
+    S/C: ESBL E.coli
+    U/C: yeast
+6/4 CSF/C: neg, No anaerobic pathogen 
+    CSF AFS:neg
+    Cytology: Positive for malignant cells, metastatic 
+    carcinoma!
+    S/C ESBL E.coli
+    U/C Yeast-like organism 5000 
+6/8 Bronchial washing study: ESBL E.coli
+    AFS:negative
+    Negative for malignant cells 
+    Candida albicans 
+6/11 B/C(AL):negative
+     B/C(CVC):negative 
+     F/C(CVC)
+     S/S: good Q, GNB 2+, 
+     ***S/C: Sphingomonas 1+
+     U/A: WBC 2-5/HPF, U/C: yeast
+6/12 CSF AFS:negative
+         culture:No aerobic pathogen
+6/18 B/C(AL, CVC), 
+     S/S:GQ, GNB1+, yeast1+  S/C:Sphingomonas paucimobilis
+     UA: WBC 2-5/HPF, U/C
+
+Plan 
+1. Extubation with O2 support
+2. AED and sedative agents for seizure
+3. Hospice combined care for terminal disease
+-> palliative care and best supportive care
+-> family agree withdrawl, refuse chemotherapy
+4. Keep Morphine + Dormicum pump
+
+PAP2
+
+Assessment 
+<Important study findings>
+6/4 CSF: WBC 54, L/N 32/22, Glu 42, TP 67.8
+    Cytology: Postive, carcinoma
+6/7 Brain MRI: Leptomeningeal carcinomatosis, in progression. Brain metastases.
+6/8 Bronchoscopy
+ 1. Injected mucosa over L2C, favored suction trauma.
+ 2. Moderate amount of sticky sputum over left side bronchial trees.
+ 3. Moderate amount of purulent sputum over right side bronchial trees.
+-> Bronchial washing to RML for cytology; bacterial, TB & fungal culture.
+6/10 OP: Ommaya implantation
+OP finding: Clear CSF was drained out after ventriculotomy and the ventricle was small. The open pressure was around 10 cmH2O. The catheter was 6.8 cm in length
+
+<Imporant consultation>
+6/3 Onco: consider IT, give cash G-CSF, consult neuro
+6/3 Neuro: did CSF study, empirical antibiotic,adjust AED, consider brain image
+6/4 NeuroCR程: add Vancomycin, change anxicam to dormicum pump, add Topamax 1# QD if DC NPO, followup EEG
+6/5 Onco: IT not suitable for acute infection status
+6/7 Onco張: suggested Omaya insertion with IT chemo
+    Neuro鄭: suggested Brain MRI, add Topamax for still intermittent left facial focal seizure noticed, treat underlying problems, followup EEG if improved focal seizure noticed.
+6/8 NS: for Omaya insertion, explain to family on 6/9 and surgery on 6/10 oncall
+    Onco張: IT chemo after Omaya
+6/10Onco張: suggest Omaya drainage CSF first and relieve pressure and do CSF, consider oral chemo
+6/11Onoc張: suggested could start IT chemo on 6/12
+6/13Onco張: poor condition and prognosis explained to the family. suggested DNR, Chemo IT just for symptoms and effects was limited. Suggested IT after infection controlled.
+6/13 Neuro CR鄭: taper Depakine, uptitrate Rivotril, Topamax, treat underlying, poor prognosis 
+6/14 Onco張: IT chemo MTX + oral chemo Xeloda can be kept.
+6/17 Hospice: for letting family gradual acceptance
+
+<Important patient's and family's decisions>
+6/3 agree cash G-CSF and PPI
+    agree CVC, CSF study, brain MRI, thoracocentasis, permit signed
+    agree IT
+    favor no defibrillation or cardiac massage if sudden cardiac arrest
+6/4 family concerned about AEDs+BZD use.
+6/6 family want discuss with oncologist for further plan
+    hesitate about tracheostomy and omaya implantation and further chemotherapy, afraid of long term care
+6/7 Family agreed with Omaya insertion and IT chemotherapy
+6/8 Family agreed wuth bronchoscope, and Omaya insertion
+6/11Family wanna discuss with Oncologist about IT chemo effect and response
+6/14Family agreed with IT chemo MTX and oral chemo Xeloda, DNR signed. Cash albumin
+6/16 Agree consult hospice for combined care, hope further transfer to hospice ward if no recovery of consciousness
+6/17 Brother considered 拔管不重插
+6/19 family consider withdrawl, agree further no chemotherapy
+6/20 family was explained weaning-extubation/withdrawal, they would like to try weaning first, hope to extubate on W6
+6/21 agree withdrawl or extubation without re-intubation
+     family will come on 6/22 for hospie meeting
+6/23 Family signed withdrawal permit (sister and brother)
+6/25 Family had withdrawal on 6/25 10:06AM.
+
+PAP3
+
+Assessment 
+6/2 2PM consiousness disturbance+involuntary movement
+    3PM TVSH brain CT:no definite lesion
+    5PM NTUH empirical Abx, EEG, titirate AED
+6/3 consult onco,neuro
+    prepare CSF study-> status epilepsy, desaturation
+    ETT+MV
+    Admitted to MICU
+6/4 LP: CSF study, Anxicam pump change to Dormicum pump.
+    Desaturation, adjust ETT location
+    tolerate water, resume feeding on 6/5
+    ANC 4960, DC G-CSF
+6/5 Off Dormicum pump, no seizure noted
+    Keep Depakine, phenytoin and Keppra
+    Titrate up feeding amount
+6/6 Keep Alb with Rasitol for low alb and mild edema and BW
+    Levophed off.
+    Swith to SIMV
+6/7 Low PSV => RLL collapse, shift to high PS
+    Add Topamax 1# BID
+    Change to Cravit for ESBL Ecoli
+    Brain MRI: Leptomeningeal carcinomatosis, in 
+    progression. Brain metastases.
+    Onco suggested Omaya with IT Chemo
+    Family agree Omaya
+6/8 PCV for collapsed RLL/RML => Bronchoscopy study
+    NS consulted for Omaya insertion
+6/9 CXR: still collapsed right lung. 
+    Intermittent PRN Dormicum given for intermittent focal seizure.
+6/10CXR: improved right lung collapse
+    Scheduled op for Omaya insertion.
+    Open pressure 10cmH2O
+6/11Breakthrough fever morning and afternoon
+    Repeated septic workup and add Vancomycin
+    Dormicum pump for seizure control
+6/12 Peristent fever, ice blanket use
+6/13 Intermittent focal seizure, keep Dormicum pump
+     Neuro suggested taper Depakine, Titrate up Topamax, add Rivotril
+     Oncologist explained to the family. Suggested DNR. Limited effect of chemo IT.
+     Low procalcitonin level
+     Improved CXR RLL collapse
+6/14 Family agreed with IT chemo and oral chemo
+     IT Chemotherapy D1 MTX 
+     Cash albumin + diuretics
+     DNR signed
+     Keep weaning process
+     DC Depakine and keep Rivotril
+     Off ice blanket and monitor fever curve
+6/15 Uptitrate Rivotril dose and Adjust Dormicum dose.
+     Start Oral chemotherapy Xeloda
+6/16 UPtitrate Rivotrial and keep Dormicum + PRN
+     Mild elevated BT
+     -> regularly paramol for suspect tumor fever
+     Intermittent twitch suspected seizure or myoclonus
+     Followup CXR improved RLL collpase
+     -> switch to SIMV     
+     Keep supportive care.
+6/17 Uptitrate Rivotril, taper Dormicum pump
+     Intermittent seizure, non-sustained.
+     Fever without other vital sign change, 
+     use ice blanket.
+     Consult hospice for gradual acceptance
+     DC Vancomycin for CSF culture neg
+     Taper ventilator setting
+6/18 Taper down Dormicum pump. Intermittent self limited seizure.
+     Followup CXR no RLL collapse. 
+     Improved fever curve under ice blanket and regular paramol. 
+     Repeat septic workup.
+6/19 Add Naproxin
+     Uptitrate dormicum pump again
+6/20 Improved fever, increased seizure, taper dormicum and uptitrate Rivotril
+     Hold Xeloda/IT Chemo for dropped Hb/WBC
+     Family explained about weaning-extubation/withdrawal
+     Persistent apnea under PSV, shift back to PC-SIMV 
+6/21 Shift Keppra and Phenytonin to oral form
+     Consult hospice about withdrawal for low potential of weaning/extubation
+     no chemotherapy as family request
+     family agree withdrawl
+6/22 Low weaning potential with markedly decreased Vt when down titrate setting
+     Hospice consulted and explained to the family about withdrawal process.
+6/23 Family signed withdrawal permit (sister and brother)
+     Improved edema and prepare for withdrawal
+     keep supportive and palliative care
+6/24 keep supportive and palliative care
+6/25 Withdrawal with extubation performed at 10:06AM
+     Dormicum + Morphine pump use.
+     Palliative care.

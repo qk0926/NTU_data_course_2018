@@ -1,0 +1,31 @@
+1) Moderate to severe aortic stenosis (2014/04/08 UCG), status post TAVI on 2014/12/23,
+complicated with complete AV block, status post TPM (2014/12/23-2014/12/25), status
+post permanent pacemaker implantation (DDDR, MRI-compatible) on 2014/12/25
+2) Tachy-brady arrythmia, status post permanent pacemaker implantation (DDDR,
+MRI-compatible) on 2014/12/25
+3) Hypertension
+4) Benign prostate hyperplasia, status post transurethral resection of prostate (TURP)
+5) Suspected chronic obstructive pulmonary disease (COPD)
+
+OHCA s/p CPR 18 mins then ROSC
+Intial rhythm : PEA
+Bystander CPR by ¥~¶Ä
+2016/07/29 16:20 BP:120/60
+2016/07/29 16:19 SpO2:97%(70%,L,VCR)
+2016/07/29 16:18 T:32.7 P:70 R:15
+2016/07/29 PT:15.4 sec
+2016/07/29 PTT:38.0 sec
+2016/07/29 WBC:5.33 K/£gL
+2016/07/29 Ammonia N:27 £gmol/L
+2016/07/29 CRE:0.9 mg/dL
+2016/07/29 WBC:10.81 K/£gL
+CXR: bilateral infiltration 
+On hypothermia treatment, now 33C 
+Cardiac index: 2.35 SVRI: 2277
+
+Plan:
+1. Post-cardiac arrest care and therapeutic hypothermia
+2. Taper levophed 
+3. Monitor U/O and electrolyte
+4. Use Tazocin, add cravit
+5. PICCO monitoring and note possible seizure in aEEG

@@ -1,0 +1,21 @@
+1. Acute on chronic kidney disease, complicated with metabolic acidosis, status post continuous venoud-venous hemofiltration (2017/08/03), status post intermittent hemodialysis (2017/08/04-)
+2. Urinary tract infection and peritoninits with GNB bacteremia and septic shock
+3. Ascites, suspected with spontaneous bacterial peritonitis
+4. Upper gastrointestinal tract bleeding
+5. Gastric outlet obstruction, favor duodenal stenosis, status post gastrojejunostomy on 2017/03/22
+6. Cervical cancer, squamous cell carcinoma, status post loop electrosurgical excision procedure (LEEP) on 2016/11/30, pT1bNxMX, at least stage IIB, margin/lymphovascular invasion(+), status post radiation therapy radiation therapy and intracavitary brachytherapy, total 54Gy/30fractions(2017/01/05-2017/03/03), incomplete due to renal insufficiency
+7. Right hydronephrosis, chronic polypoid ureteritis related, status post double-J insertion(2016/09/01-2016/10/17), status post percutaneous nephrostomy (PCN) insertion (2016/12), status post revision (2017/1 and 2017/5/16)
+
+clear and oriented
+abdominal pain with abdominal muscle guarding
+
+B/C: GNB
+
+Abdominal CT: no obvious internal organ perforation; much ascited; progressive left obstructive uropathy
+
+stable Levophed dose 5ml/hr for 3 days
+
+Plan:
+Keep Tazocin and Ciprocin; pursue final blood culture result
+Paracentesis again and check ascited amylase
+Consider left kidney PCN later

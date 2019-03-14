@@ -1,0 +1,65 @@
+Brief Summary of this week    
+After admission, empirical Brosym was given for suspected pneumonia or CNS infection. Depakine was given for intermittent seizure while his oxygen demand decreased gradually. EEG on 2016/09/19 showed active regional epileptogenicity in the left frontocentral areas. Neurologists were consulted and Keppra was added. Family meeting was held on 2016/09/20 and poor prognosis was informed. His family still expressed they prefer aggrassive treatment. Intermittent seizure was still noted and EEG was repeated on 2016/09/22, which showed status epilepticus. The dossage of Keppra was titrated and Domicum pump was administered. Follow-up EEG on 2016/09/23 showed only intermittent slow waves. Domicum was then tapered off on 2016/09/24. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+Following EEG on 9/22 still epileptic wave form according nurologist
+-> increase keppra to 1500 q12H and add on dormicum pump according neurologist suggestion, following EEG tomorrow again, if still not subsided, consider transfer to NICU for 24hr EEG monitor
+-> hold extubation plan due to persist seizure
+-> f/u EEG 9/23
+-> EEG improving according neurologist, suggested gradually tapper dormicum since tomorrow
+
+[Antibiotics]
+Brosym (09/17~) D7  empirical use
+
+[Inotropics]
+nil
+
+[Nutrition]
+Elemental diet: 1200kcal/day 
+
+[Respiration]
+PSV, PS:8, PEEP:6, FiO2:25%
+-->Tv:~7-8L, Tv:~500-600
+
+[Physical examinations]
+Conscious: E1M1Vt, heavy sedation now
+pupil: 3/3mm improving
+left breathing sound decrease, chest wall tumor invasion
+Heart beat: regular with intermittent drop beats,  Murmurs(-)
+Hypoactive bowel sound
+
+[Culture]
+09/17 B/C:
+      S/C:
+      U/C:
+
+[Images and special exams]
+9/17 B+C+A+P CT: 
+1. Leptomeningeal process with suspect brain metastasis.
+2. Left lung cancer with lung, pleural and bone metastases.
+3. Total consolidation and collapse of the left lung with large pleural effusion
+
+9/19 EEG:
+EEG reveals mild diffuse cortical dysfunction with emphasis in the left hemisphere, with active regional epileptogenicity in the left frontocentral areas. Advise clinical correlations. 
+
+[Important internevtions]
+09/17 ETT+MV
+
+[Consultations]
+9/19 Neurologist:
+1. Check VPA drug level stat. May (1) up-titrate Depakine if inadequate drug level, or (2) Add-on second-line AED.
+2. Pursue formal EEG report. Follow-up EEG study if still intermittent seizures.
+3. Correct the metabolic derrangement, especially the electrolyte imbalance.
+
+[Family's decisions]
+09/20 family meeting and they prefer aggrasive treatment
+
+Plan 
+1. Keep Depakine + keppra + dormicum pump for persist seizure, tapper dormicum since tomorrow, may follow up EEG next W1 if need 
+2. Keep Fentanyl for pain control
+3. Hold extubation plan due to persist seizure
+4. Emperical Brosym use for fever with left lung collapse, persue the culture data, complete 7 days course 
+5. Inform the patient's family about poor prognosis

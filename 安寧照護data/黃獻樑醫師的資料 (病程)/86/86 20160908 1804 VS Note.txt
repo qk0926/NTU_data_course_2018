@@ -1,0 +1,38 @@
+1. Mixed respiratory failure, uncal hernication and pneumonia related, s/p ETT-MV (2016/8/22-)
+2. Primary CNS diffused large B cell lymphoma, right posterior temporo-occipital area, s/p radiotherapy (2014/10, 2016, ¥_ºa), progression 
+3. Seizures, the brain tumor related
+4. Diabetes mellitus (2016/08/22 HbA1C 7.8%), dyslipidemia, hypertension, hyperuricemia
+5. Benign prostatic hyperplasia
+6. Reflux esophagitis, LA grade A (2016/7/19 EGD, ¥_ºa)
+7. Bilateral knee osteoarthritis, s/p bilateral TKR (2013/01)
+
+2016/09/08 16:11 Pain score:0
+2016/09/08 16:04 SpO2:100%(25%,L,VCR)
+2016/09/08 16:03 GCS:E1M1VT
+2016/09/08 16:03 BP:118/60
+2016/09/08 16:03 T:36.4 P:102 R:24
+
+CXR: stationary
+no fever
+oncologist, NS, hematologist: further treatment is not suggested
+
+hematologist explained to his son again today that further chemotherapy is not suggested
+
+explained to his son about hospice care and active withdrawal. still no answer from him
+
+<Weaning parameter>
+Ve:3.3Lpm
+Rate:19bpm
+Vt:174ml
+RSI:109
+Pimax:-20cmH2O
+Pemax:+15cmH2O
+Desaturation to 88% in the end of test, SOB was noted, too.
+
+His son decided withdrawal. His daughter agreed too.
+
+Plans:
+1. Taper mannitol due to prolonged use
+2. Self-paid Nexium for stress ulcer prevention
+3. Keep Cortisone for relative AI
+4. Inform possibility of sudden cardiac arrest

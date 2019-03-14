@@ -1,0 +1,28 @@
+P:
+1. End of life care, withdraw status, post extubation on 7/6
+2. Hypercapnic respiratory failure, suspect hospital acquired pneumonia related, status post ETT+MV (2016/06/25-7/6)
+3. Out-of-hospital cardiac arrest, acute coronary syndrome with atrioventricular block related, status post cardiopulmonary resusitation
+4. Sick sinus syndrome, status post Biotronik, MRI compatible DDDR (2016/6/22)
+5. Coronary artery disease, triple vessel disease, status post percutaneous occlusive balloon angioplasty with stenting, with ACS and cardiac arrest, s/p POBAS to RCA on 2016/6/15
+6. End stage renal disease, under maintenance hemodialysis on QW1,3,5, hold on 7/4
+7. Type 2 diabetes mellitus
+8. Congestive heart failure NYHA functional class III
+9. Hypertension
+10. Dyslipidemia
+11. Peripheral arterial occlusive disease, with PAOD wound
+12. Chronic obstructive pulmonary disease, under Seretide
+13. Old cerebrovascular disease 
+14. Suspect LGI bleeding
+
+A:
+consciousness: delirium to comatous, can only open eyes
+on NG  feeding, O2 mask
+2016/07/07 11:44 SpO2:96%(40%,10L,Mask)
+2016/07/07 11:44 BP:142/72
+2016/07/07 11:40 T:36.6 P:65 R:12
+
+P:
+keep O2 mask and NG feeding
+family decline medical procedures or advanced treatments
+observation for delirium or seizure, sedation if needed
+pain control for legs pain

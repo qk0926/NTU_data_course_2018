@@ -1,0 +1,89 @@
+Brief Summary of this week    
+Hypotension with hypothermia developed on 2016/08/02, and thus, septic workup was done. Tazocin was added empirically, and Levophed was also ministered. Blood culture from CVC yielded GPC, so the CVC was changed. Inotropic agent taperred gradually, and the final result of blood culture(*2 sets) showed Burkholderia cepacia complex. After discussion with ID specialist, Tazocin was switched to Meropenem on 2016/08/05.
+ However, bloody stool was noted since 2016/08/03. Component therapy with pRBC and FFP was done, and the dosage of transamine was increased. The critical condition was informed to the patient's family(daughter, daughter-in-law), and his daughter conformed the content of DNR.
+  Repeated rupture of the cuff of BIOVONA was happened on 2016/08/15. A new BIVONA was placed.
+ Since mild elevated CRP in the followed bloood test, septic workup was repeated again on 2016/08/18. Urine analysis showed pyuria and funguria(WBC> 100, yeast 4+), and thus, oral form Diflucan was added on 2016/08/18. Intermittent bloody stool was still noted, so NPO was kept. I have explained current treatment goal, plan, and patient's condition to the patient's son and daughter-in-law. Urine culture revealed Candida albicans and Diflucan was added on 2016/08/18. However, followed CXR on 2016/08/22 revealed mild increased RLL patch. Mild drowsiness was also noted. Thus, septic workup was repeated again, and Tazocin was administered since 2016/08/23. Foley was removed on 2016/08/24, and the urine output was adequate. Diflucan and Tazocin would be discontinued on 2016/09/01. 
+ Intermittent bloody stool and coffee ground material from NG tube were still noted. Thus, he kept NPO, and componenet therapy was given if needed. 
+
+Problem Assessment Plan   
+          
+PAP 1
+Assessment 
+NPO except drugs, TPN Nutriflex 1000 ml QD
+no stool passage for 3 days
+obviously increased U/O after additional Lasix 1# on 8/29
+
+<Antibiotics>
+Tazocin 8/23-, D10 (8/23: cons' sleepy, 8/22 CXR: RLL patch) 
+              -> DC on 9/1
+Diflucan(PO) 8/18-, D14 (U/A: pyuria, yeast 4+) -> DC on 9/1
+--------------------------------------------------
+Mepem 8/5-8/20 (B/C*2: Burkholderia cepacia complex)
+Vancomycin 8/3-8/10 
+Tazocin 8/2-8/5
+Levofloxacin 7/16 ~ D14
+             for S/C: Stenotrophomonas maltophilia
+Diflucan 7/15 ~ 7/25 for U/C: Candida albican 
+Targocid 7/9 - 7/18
+Mepem    6/28- 7/15, for S/C PsA and GI Bleeding suspected IAI
+Targocid 6/27-7/4, for S/C MRSA
+Tazocin  6/23-6/28, empirically for pneumonia
+
+<Culture report>
+6/23 B/C:neg 
+6/24 S/C:MRSA
+6/25 B/C:neg X 3
+     S/C:PsA(WT)
+     S/S:GNB3+(intracellular),GPB1+
+6/29 S/C:Elizabethkingia meningosepticum 1+ 
+               Stenotrophomonas maltophilia 1+   
+07/09 U/C: yeast-like pathogen > 100000 ***
+      uretheral pus: candida albican
+07/16 S/C:Stenotrophomonas maltophilia 2+
+8/2 B/C(CVC): Staphylococcus epidermidis (TTP: 19.30 hrs)
+    fungus/C(CVC): Staphylococcus epidermidis, 
+                   Burkholderia cepacia complex  (TTP: 17.1 hrs)
+    B/C(peripheral): Burkholderia cepacia complex 
+8/3 CVC tip culture: no growth
+8/19 U/C: Candida albicans >100,000 
+8/23 B/C(*2, peripheral): pending
+     B/C(CVC):不回血 
+     fungal B/C: pending
+     U/C: Yeast-like organism 40000 
+
+<Respiration>
+shift to Home Ventilator
+PC/AC mode, I/E: 25/5, RR: 10, O2: 3L, Ti:1.0 s
+
+<Lab >
+8/18 U/A: WBC > 100/HPF, yeast 4+
+8/29 U/A: WBC: 75-100, yeast: +
+9/01 WBC:6940
+
+KUB (7/26): distended stomach and colon
+CXR (8/8): increased bilateral lung markings, susp. lung edema
+    (8/22): increased RLL infiltrate, r/o aspiration pneumonia
+    (8/29): mild increase right pleural effusion
+
+<Family Decision>
+1. DNR (不電不壓不TAE,除藥到家屬來)
+   --> 已向小女兒說明有時狀況緊急,並無法等待,等待一天實屬不太可能
+2. Hesitated about panendoscopy and colonscopy
+   preferred medicaine treatment
+
+Plan 
+-keep Tazocin, and oral form Diflucan -> plan to DC on 9/1
+ monitor clinical conditions and vital signs
+ consider stopping Cortisone 1# Q12H if relative stable hemodynamics 
+-f/u blood test QW1,4 (next time: 9/1)
+ increase the diuretics to Aldactone 1# QD+Lasix 1# QD
+ High dose Pantoloc 
+ Transamin IF use
+ component therapy!
+-NPO except drug 
+ NG decompression + Primperan + Bisacodyl R
+ TPN use
+-Family decision: DNR (不電不壓不TAE,除藥到家屬來,大約要一天...)(大姊、二哥、小妹)
+ Hospice combined care.
+ as the family refused panendoscopy exam, we closely monitor GI bleeding condition and kept high dose PPI
+  

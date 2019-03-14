@@ -1,0 +1,10 @@
+# Hypoxic-ischemic encephalopathy with increased intra-cranial pressure
+# Lactic acidosis, suspect tissue hypoxia related, improved
+# Adrenal insufficiency, hypothyroidism and diabetes insipidus
+# Suspected gastroparesis
+# VAP
+
+E1VtM1, no light reflex, no cough reflex
+FiO2= 0.3  PEEP 5
+CXR: atelectasis and consolidation of bilateral lower lungs
+今日早上預計撤除呼吸器

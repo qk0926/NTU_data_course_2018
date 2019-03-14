@@ -1,0 +1,47 @@
+Dx:
+1. Out-hospital cardiac arrest, suspect brain tumor or sepsis related, s/p CPR 33mins, with ROSC
+2. Community-acquired pneumonia, bilateral lung, with septic shock
+3. Abnormal liver function, hepacellular type, suspect shock liver
+4. Acute kidney injury, KDIGO stage 2, suspect CPR related
+5. Non small cell lung cancer, adenocarcinoma, T3N2M1b, EGFR wild type, with brain metastasis status post brain stereotactic radiosurgery (SRS)(30Gy/5fx, 2016/12/15~2016/12/21), status post cisplatin + Alimta (VI)(2016/12/31-2017/04/19), status post maintainence Alimta (I)(2017/05/10), disease progression with new liver metastasis and prominent brain metastasis with perifocal edema, status post erlotinib (2017/05/22-2017/06/12), weekly paclitaxel(I)=2017/06/14
+
+<Dr>
+1. Sevatrim, tamiflu and cravit, DC tazocin
+2. Steroid use (Rinderon use), mannitol off
+3. Plan for active withdraw after signing DNR
+
+<Dietitian>
+O:
+HT:172 IBW:65  BMI:19.5
+7/12 Åé­«:57.7kg
+LacticAcid:5.41(7/8)--2.94(7/11)
+BUN:24.4(7/8)--23.4(7/9)
+CRE:1.1(7/6)--1.8(7/9)
+K:3.3(7/9)--3.7(7/11)
+7/08 ALB:2.7 g/dL
+AKI, KDIGO stage 2, suspect CPR related
+NSCLC, adenocarcinoma, T3N2M1b
+Goal calorie:1500-1750kcal/day
+protein requirement:60-70g
+Diet order:
+7/11~    Osmolite 750kcal(0.5kcal/cc)  
+Actual energy intake:663kcal
+Actual protein intake:23g/day
+A:
+Moderate depletion:ALB:2.7 g/dL
+P:
+Suggest try formula of 1.0kcal/cc to patient.
+F/U digestion, maybe consider convert pressent diet to high protein formula.
+
+<Pharmacist>
+1.Keep current antibiotic with renal dosing
+
+[RT]
+stable hemodynamics, no inotropics infusion.
+EEG: no brain wave.
+afebril.
+CXR: bilateral hazziness.
+lung mechanics withine normal limits.
+2017/07/11 ID+DS Sputum Culture #1:Normal mixed flora *
+Keep ventilator full support
+Plan for active withdraw after signing DNR

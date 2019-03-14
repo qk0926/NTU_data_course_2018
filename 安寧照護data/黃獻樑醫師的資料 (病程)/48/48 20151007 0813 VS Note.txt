@@ -1,0 +1,16 @@
+Respiratory failure, s/p tracheostomy 9/16
+NSCLC, adenocarcinoma, stage IV
+IICP, brain mets related, s/p VP-shunt in 2015/02
+TB peritonitis
+
+
+Rapid shallow breathing was noted during T-piece breathing early during the SBT.
+Trying ECPAP weaning.
+2015/10/07 04:59 T:37 P:104 R:15
+2015/10/07 01:15 T:37.5 P:98 R:30
+2015/10/06 20:33 T:37.1 P:100 R:20
+2015/10/06 17:01 T:36.8 P:101 R:26
+2015/10/07 04:59 SpO2:100%(35%,L,VCR)
+2015/10/07 01:15 SpO2:100%(35%,L,VCR)
+2015/10/06 20:33 SpO2:99%(35%,L,VCR)
+2015/10/06 17:02 SpO2:100%(35%,L,VCR)

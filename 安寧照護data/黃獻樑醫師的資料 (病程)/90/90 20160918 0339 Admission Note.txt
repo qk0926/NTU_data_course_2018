@@ -1,0 +1,369 @@
+Admission Note 
+2016/09/18 03:39 
+主訴(Chief Complaint) 
+Informant: Patient and previous medical records
+Consciousness change and seizure for one day 
+病史(Brief History) 
+<Present Illness>
+    This 35-year-old male has the history of:
+1. Non-small-cell-lung cancer, adenocarcinoma, with malignant pleural effusion, T2aN0M1a, stage IV, with EGFR exon 19 deletion, T790M mutation (+), ALK(-), status post Tarceva during 2014/02/20~2015/02/22; Disease progression with left supraclavicular, left hilar and mediastinal lymphadenopathy, status post lung CT guided re-biopsy, status post clinical trial of EGF816 (nivolumab, 2015/03/10~2015/12/16); Disease progression with bilateral axilla lymphadenopathy, status post left axillary lymph node excisional biopsy on 2015/12/19, with EGFR exon 19 deletion without T790M, Met FISH (-), status post TATTON trial (AZD9291 + AZD6244, omisertinib 80mg 1# QD + selumetinib 75mg 1# Q12H, 4days on-3days off, C1D1=2016/01/22, C2D1=2016/02/19, C3D1=2016/03/18, C4D1=2016/04/15, C5D1=2016/05/13); Disease progression with larger lung and chest wall metastases, status post port-A implantation on 2016/06/21, status post Alimta + Cisplatin (C1D1=2016/06/10, C2D1=2016/06/30, C3D1=2016/07/21, C4D1=2016/08/11); Disease progression with larger lung and chest wall metastases and new metastasis in left frontal lobe, status post Taxotere (C1D1=2016/09/01), Disease progression with multiple brain metastases and leptomeningeal carcinomatosis
+2. Intermittent atrial premature beat
+ 
+    His baseline status prior this admission was clear consciousness (GCS: E4M6V5), good orientation, total independent with his daily activities, free from nasogastric tube, foley catheter, and diaper, could eat by himself without chocking, and lived at home by himself. He had regular follow-ups at Dr. 余忠仁's clinic for his lung cancer.
+    He has smoked 1/4 PPD for the past 7 years. Initially, he noted left chest pain in 2013/10 when he was sneezing and coughing during a common cold. The location of the pain ranged from just below his left scapula horizontally to the same level of anterior left chest. The pain was intermittent, and the patient could not identify any exacerbating or relieving factor (i.e. it was unrelated to inspiration or expiration) except that it seemed to get better when he was supine. Progressive dyspnea developed so he was brought to 仁愛 hospital, where chest X-ray showed massive left pleural effusion. Thoracocentesis showed bloody fluid and cytology was positive for malignant cells that were E-cadherin (+), CEA (+), TTF-1 (+), favoring metastatic lung adenocarcinoma. Chest CT was not informative due to massive pleural effusion. 
+    He visited Dr. 余忠仁's clinic on 2014/02/13, while chest X-ray showed left pleural effusion. Thoracocentesis drained 1000ml of fluid that contained 5.3 g/dl total protein, 562 U/L LDH, 82 mg/dl glucose, 2300/ul nuclear cells with abnormal cytology. He was admitted to 14D ward on 2014/02/16 for staging. Chest CT on 2014/02/17 revealed a 3cm ill-defined hypodense lesion within collapsed LLL (SE7 IM42), suspected to be primary lung tumor, but no abnormal lymph node was noted. Brain CT on 2014/02/17 showed no evidence of brain or skull metastasis. Whole body bone scan on 2014/02/20 showed no abnormal skeletal uptake. Sonography-guided pleura biopsy (which was limited by inadequate tissue) and bronchoscopic biopsy (in which radial EBUS to LB8 showed concentric peribronchial lesion with pathology reported as chronic inflammation) were performed. He took Tarceva from 2014/02/20 to 2015/02/12 based on mutation testing result (positive for EGFR exon 19 in frame deletion) in specimen taken at 仁愛醫院. The side effect of Tarceva include: acneiform rashses on face, hair loss and grade 2 diarrhea. He was followed up regularly at our out patient clinic and the chest CT during 2014/05/17~2014/11/10 showed stable disease. 
+    Since 2015/01, cough, shortness of breath, and left chest pain were noted during exercise. Thoracocentesis was done on 2015/02/16 for EGFR gene result. EGFR study showed exon 19 deletion + exon 20 T790M mutation. CT on 2015/02/09 showed left lung cancer with pleural seeding, more prominent, and mediastinal and left supraclavicular lymphadenopathy. For disease progression, he was suggested to enroll the clinical trial of EGF816. He was admitted to oncology ward 4W2 on 2015/03/03 for lung CT guided biopsy and then enrolled into EGF816 trial. 
+    He took EGF816-CEGF816X2101 225mg po QD from 2015/03/10 to 2015/12/16 (C1D1~C10D15). Follow-up CT on 2015/12/14 revealed disease progression with bilateral axilla lymphadenopathy and larger bilateral lung metastases. He then admitted to 8B ward on 2015/12/18 and left axillary lymph node excisional biopsy was done on 2015/12/19. The gene analysis showed exon 19 deletion without T790M, Met FISH (-). He was suggested to enroll the clinical trial of TATTON trial. The Brain-Chest-Abdomen CT was done on 2016/01/11, which showed multiple brain metastases (＜=1cm, in bilateral cerebrum and cerebellum), slightly larger bilateral lung metastases, stationary bone and pleural metastasis. TATTON trial with arm of AZD9291 + AZD6244 (omisertinib 80mg 1# QD; selumetinib 75mg 1# Q12H, 4days on-3days off, C1D1=2016/01/22, C2D1=2016/02/19, C3D1=2016/03/18, C4D1=2016/04/15, C5D1=2016/05/13). 
+    Follow-up chest CT on 2016/05/20 revealed the lung and chest wall metastases were larger in size. Port-A implantation was done on 2016/06/21 and Alimta + Cisplatin (C1D1=2016/06/10, C2D1=2016/06/30, C3D1=2016/07/21, C4D1=2016/08/11) was given. Brain + chest CT on 2016/08/25 showed the lung and chest wall metastases were larger in size and suspected metastasis in left frontal lobe. Taxotere (C1D1=2016/09/01) was then given. However, brain MRI on 2016/09/12 found multiple brain metastases and leptomeningeal carcinomatosis. The next out patient clinic was scheduled on 2016/09/22.
+    This time, conscious change with seizure was noted on 2016/09/16. His cousin visited him around noon and everythings seemed fine. However, his family were unable to reach him in the afternoon. They went to his house around 20:00 and found him lying on the ground consciouslessly with general clonic tonic seizure, urine incontinence, and a contusion wound on his forehead. He was then sent to the emergency department of 仁愛 hospital. No seizure movement was noted there but he was still with poor conscious (E4V1M4). Brain CT showed no intracranial hemorrhage. Naloxone was given for suspecting opoid overdose (he was using Fentanyl patch 175 mcg at baseline), but the effect was limited. He was then transferred to our emergency department on 2016/09/17.
+    At our emergency room, initial vital signs showed high fever with tachypnia (temperature: 38.8 degrees Celcius, heart rate: 66 beats/minute, respiratory rate: 22 times/minute, blood pressure: 112/64 mmHg, saturation: 100% in ambient air). Poor consciousness was still noted (GCS: E2V2M4). Lab data showed no leukocytosis (WBC: 8.75 K/μL, Seg: 80.3%), normocytic anemia (Hb: 9.9 g/dL, MCV: 83.7 fL), thrombocytopenia (PLT: 326 K/μL), hyponatremia (Na+: 129 mmol/L), hypokalemia (K+: 3.4 mmol/L), and hypomagnesemia (Mg2+: 0.57 mmol/L). No pyuria was found. Chest radiography found increased infiltration(s) and suspected nodules in the right lung, nearly total opacification of the left lung, scoliosis of the thoracic spine, and destructive left rib lesions. Brain + chest + abdominal + pelvic computed tomography showed no evidence of intracranial hemorrhage, leptomeningeal process with suspect brain metastasis, left lung cancer with lung, pleural and bone metastases. However, gradually desaturation and dyapnea were noted. Endotrachial tube was then inserted.
+    Under the impression of consciousness change and hypoxemic respiratory failure, he was admitted to MICU on 2016/09/17 for etiology survey.
+
+<Past History>
+Family History: HTN(+), DM(+), Malignancy(+), Autoimmune disease(-)
+Medication Allergy: No  親屬描述 2016/09/18
+Medication ADR: No  親屬描述 2016/09/18
+Allergy to Medical Device and Materials: No  親屬描述 2016/09/18
+Current Medication:
+NTUH:
+PARAMOL 500 mg/tab 1 tab Q6HPRN PO 2 days
+TAZOCIN (based on piperacillin content) 2000 mg/vial 4000 mg Q6H IF 2 days
+Bricanyl Neb Soln 2.5 mg/1 mL 2 mL/amp 1 amp STAT IH 1 days
+Atrovent Neb Soln 250 mcg/1 mL 2 mL/amp 1 amp STAT IH 1 days
+針 Nexium for inj 40 mg/vial 40 mg QD IV 2 days
+(管4) Anxicam 2 mg/1 mL /amp 2 mg STAT IV 1 days
+警 Relaxin 500 mg/vial 不計價常備藥 50 mg STAT IV 1 days
+(管2) 50 Fentanyl Transdermal Patch 50 mcg/1 hr /pce (PPCD) 3 pce Q3D D 28 days
+(管2) Fentanyl Transdermal Patch 25 mcg/1 hr /pce (PPCD) 1 pce Q3D D 28 days
+(管2) Jurnista Prolonged-Release 8 mg/tab 2 tab QD PO 28 days
+(管2) OxyContin CR 10 mg/tab 2 tab Q12H PO 28 days
+Sirdalud 2 mg/tab 1 tab HS PO 28 days
+MgO 250 mg/tab 1 tab TID PO 21 days
+液 Megest Oral Susp 40 mg/1 mL 120 mL/btl 4 mL QD PO 21 days
+Other: denied
+中草藥: unknown herbs
+保健食品: denied
+Past Medical History: HTN(-), DM(-), Hepatitis(-)
+Hospitalization:
+入院日期:2016_02_18 出院日期:2016_02_20 診斷:Lung cancer, left
+入院日期:2016_01_21 出院日期:2016_01_23 診斷:Lung cancer, right
+入院日期:2015_12_18 出院日期:2015_12_20 診斷:Lung cancer
+入院日期:2015_04_06 出院日期:2015_04_08 診斷:Lung cancer
+入院日期:2015_03_23 出院日期:2015_03_27 診斷:Lung cancer
+入院日期:2015_03_10 出院日期:2015_03_11 診斷:Lung cancer
+入院日期:2015_03_03 出院日期:2015_03_06 診斷:Lung cancer
+
+Past Surgical History:
+2015_12_19  Lymph node excision biopsy, left axilla
+2016_06_21  Port-A implantation, echo-guided
+2016_06_21  Revision of Port-A implatation , echo-guided
+
+Travel History: denied
+Occupational History: timepiece industry
+Contact History: denied animals nor insects bite
+Cluster History: denied
+
+Personal History:
+  Smoking: 0.25 packs per day for 7 years, quitted for one year
+  Alcohol abuse: heavy social drinking
+  Betel nuts: denied 
+社會心理相關評估(Psychosocial Assessment) 
+Social Economic and Personal History
+教育程度:碩士
+職業:服務業
+宗教信仰:民間信仰
+婚姻狀態:未婚
+使用語言:國語 台語 
+口述血型:B，RH:不清楚，輸血反應:沒輸過血
+抽煙:沒有，已戒煙:2年
+喝酒:沒有，已戒酒:3月
+檳榔:沒有，已戒檳榔:2年
+物質濫用:不知道
+
+Psychological History and Evaluation
+意識狀態:躁動不安
+認知功能:無法評估 
+精神情緒狀態:無法評估  
+安全問題:有 其他 預防跌倒及管路安全(四肢約束)
+睡眠形態:異常 其他 無法評估
+
+Nutritional Screen
+攝食情形:
+排便狀態:異常
+排便異常狀態:其他
+其他排便異常狀態:班內未解便
+BMI:21.31
+
+Fall Risk Assessment
+總分:13
+(>=3分進行不倒翁計畫，請開預防跌倒醫囑) 
+系統性回顧(Review of System) 
+1. Systemic: weight loss(+, for a month), easy-fatigability(+, for a month), night sweats(-)
+2. Skin: petechiae(-), purpurae(-), skin rash(-), itching(-)
+3. HEENT: headache(-), dizziness(-), blurred vision(-), strabismus(-), ocular pain(-), otalgia(-), otorrhea(-), hearing impairment(-), tinnitus(-), vertigo(-), nasalstuffiness(-), nasal discharge(-), epistaxis(-), gum bleeding(-), sore throat(-), oralulcer(-)
+4. Cardiovascular: exertional chest tightness(-), nocturnal dyspnea(-), orthopnea(-), syncope(-), palpitation(-), intermittent claudication(-)
+5. Respiratory: dyspnea on exertion(-), cough(-), chest pain(-), hemoptysis(-), productive cough (-), pleuritic chest pain(-)
+6. GI: anorexia(-), nausea(-), vomiting(-), dysphagia(-), heart burn(-), acid regurgitation(-), abdominal fullness(-), hunger pain(-), midnight pain(-), constipation(-), diarrhea(-), melena(-), change of bowel habit(-), small caliber of stool(-), tenesmus(-), flatulence(-)
+7. Urogenital: flank pain(-), hematuria(-), urinary frequency(-), urgency(-), dysuria(-), hesitancy(-), small stream of urine(-), impotence(-), nocturia(-), polyuria(-), oliguria(-)
+8. Musculoskeletal: bone pain(-), arthralgia(-), myalgia(-), weakness(-), back pain(-)
+9. Metabolic: heat intolerance(-), cold intolerance(-), thirsty(-)
+10. Nervous: numbness(-), paresis/plegia(-) 
+身體檢查(Physical Examination) 
+BH: 181 cm,  BW: 69.8 kg,
+T: 37.3 °C,  P: 89 bpm,  R: 18 /min,
+BP: 111 / 58 mmHg,
+Pain score:  0,
+
+‧General appearance: fair
+‧Neurological Examination:
+   Consciousness: E2M4Vt
+   Muscle power: unable to perform
+   Gait: unable to perform
+‧Head-Eye-ENT 
+        Grossly normal, conjunctiva: not pale, sclera: anicteric
+        Pupil: isocoric,  3mm/ 3mm
+        Light reflex: L/R: +/+, EOM: full and free
+‧Neck
+	Jugular vein engorgement(-)
+	Goiter(-)
+	Meningismus: Kernig sign(-); Brudzinski sign(-)
+        Carotid bruit(-)
+‧Chest
+	Thoracic cage contour: bend to left side
+	Vocal fremitus and expansion: symmetric
+	Percussion: resonant
+        Breathing sound: clear, decreased at left side with crackles
+	Crackles(+, left), wheezes(-), rhonchi(+), stridor(-)
+‧Heart
+	Heart beat: regular with intermittent drop beats,  Murmurs(-)
+        LV lift(-) RV heave(-)
+	Increased cardiac size by percussion(-)
+	Adventitious sounds (-)
+‧Abdomen
+        Flat & soft
+	Superficial vein engorgement(-) Protruded umbilicus(-)
+	Bowel sound: Normoactive
+	Tenderness(-), rebound tenderness(-)
+	Liver and spleen: impalpable
+        Murphy's sign(-)
+‧Extremities
+        Freely movable
+        Pitting edema (-) ; Cyanosis (-)
+        Peripheral pulsation( Right side/ Left side ):
+            Brachial artery (++/++), Radial artery(++/++),
+            Femoral artery(++/++), Popliteal artery(++/++), Dorsalis pedis artery(++/++).
+‧Back
+        Costophrenic angle knocking tenderness(-)
+‧Skin
+	Abnormal pigmentation(-)
+	Petechiae(-) Purpura(-) Ecchymoses(+, at forehead) Telangiectasia(-)
+	Rash(-) Plaque(-)
+        Wound(-) Ulceration(-) Crust(-)
+‧Lymphadenopathy(-) 
+檢驗紀錄(Laboratory Report) 
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               BUN           Na            K             T-BIL         Ca           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (mg/dL)       (mmol/L)     
+1050917 [2122] 9.7           133           2.9           0.55          2.10         
+               Mg            AST          
+time/item      (mmol/L)      (U/L)        
+1050917 [2122] 0.50          39           
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050917 [2122] 10.80         3.39          9.4           28.3          83.5         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050917 [2122] 27.7          33.2          289           13.8          -            
+群組:General BioChemistry
+
+               ALB           LDH          
+time/item      (g/dL)        (U/L)        
+1050917 [2122] 3.5           456          
+群組:Yes
+
+               hsCRP        
+time/item      (mg/dL)      
+1050917 [2122] 2.33         
+
+
+*********檢驗室:RL***********
+
+群組:Biochemistry
+
+               CRE           Na            K             Ammonia N     Ca           
+time/item      (mg/dL)       (mmol/L)      (mmol/L)      (μmol/L)      (mmol/L)     
+1050917 [1525] 0.7           129           3.4           22            2.15         
+               Mg            LacticAcid   
+time/item      (mmol/L)      (mmol/L)     
+1050917 [1525] 0.57          1.78         
+群組:Coagulation
+
+               PT            PTT           PT INR       
+time/item      (sec)         (sec)         ()           
+1050917 [1525] 12.4          27.7          1.15         
+群組:General BioChemistry
+
+               ALT          
+time/item      (U/L)        
+1050917 [1525] 17           
+群組:
+
+               eGFR          Mucus(S)     
+time/item      (mL/min/1.73  (*)          
+                m^2)                      
+1050917 [1525] 136.4                      
+1050917 [1527]               -            
+群組:WBC Classification
+
+               Blast         Promyl.       Myelo.        Meta          Band         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050917 [1525] 0.0           0.0           0.0           0.0           0.0          
+               Seg           Eos.          Baso.         Mono.         Lym.         
+time/item      (%)           (%)           (%)           (%)           (%)          
+1050917 [1525] 80.3          0.0           0.0           8.3           11.4         
+               Aty.Lym.      PlasmaCell    Normobl.      PS           
+time/item      (%)           (%)           ()            ()           
+1050917 [1525] 0.0           0.0           0             -            
+群組:CBC+PLT
+
+               WBC           RBC           HB            HCT           MCV          
+time/item      (K/μL)        (M/μL)        (g/dL)        (%)           (fL)         
+1050917 [1525] 8.75          3.56          9.9           29.8          83.7         
+               MCH           MCHC          PLT           RDW-CV        PS           
+time/item      (pg)          (g/dL)        (K/μL)        (%)           ()           
+1050917 [1525] 27.8          33.2          326           13.7          -            
+群組:SEDIMENT
+
+               RBC(S)        WBC(S)        EpithCell(S)  Cast(S)       Crystal(S)                 
+time/item      (/HPF)        (/HPF)        (/HPF)        (/LPF)        (*)          
+1050917 [1527] 2-5           2-5           2-5           -             -            
+               Bacteria      Others(S)    
+time/item      (*)           (*)          
+1050917 [1527] -             -            
+群組:MULTISTIX
+
+               Sp. Gr.(C)    pH(C)         Protein(C)    Glu.(C)       Ketones(C)   
+time/item      (*)           (*)           (mg/dL)       (mg/dL)       (*)          
+1050917 [1527] 1.020         6.5           20 ( +/- )    -             2+           
+               O.B.(C)       Urobil.(C)    Bil.(C)       Nitrite(C)    WBC(C)       
+time/item      (*)           (mg/dL)       (*)           (*)           (*)          
+1050917 [1527] -             2.0           -             -             -            
+               Color         Turbidity    
+time/item      (*)           (*)          
+1050917 [1527] Yellow        +            
+*********檢驗室:PO***********
+
+群組:
+
+               Sugar(One to 
+               uch)         
+time/item      (*)          
+1050917 [1516] 126          
+1050917 [2121] 133          
+*********檢驗室:YM***********
+
+群組:Yes
+
+               pH            pCO2          pO2           HCO3          BaseExcess   
+time/item      ()            (mmHg)        (mmHg)        (mmol/L)      (mmol/L)     
+1050917 [1503] 7.528         26.8          65.1          22.5          -0.5         
+1050917 [2122] 7.558         22.0          446.8         19.8          -2.7         
+               SO2          
+time/item      (%)          
+1050917 [1503] 95.0         
+1050917 [2122] 100.0        
+群組:
+
+               Free Ca(急重症自  Hb(急重症自行檢驗)   Hct(急重症自行檢驗)  K+(急重症自行檢驗)   Na(急重症自行檢驗)  
+               行檢驗)                                                                               
+time/item      (mmol/L)      (g/dL)        (%)           (mmol/L)      (mmol/L)     
+1050917 [1503] 1.19          10.9          33            3.31          132.4        
+1050917 [2122] 1.11          10.3          31            2.88          132.3        
+               LacticAcid(急 
+               重症自行檢驗)      
+time/item      (mmol/L)     
+1050917 [1503] 1.6          
+1050917 [2122] 
+檢查紀錄(Examination Report) 
+Nil 
+影像報告(Imaging Report) 
+CT With/Without Contrast- 2016/09/17 18:57 CT of the chest, abdomen and pelvis without and with contrast enhancement shows: 
+> Multiple bilateral lung nodules of varying sizes, suggestive of metastases.
+> Total consolidation and collapse of the left lung. Left pleural thickening with large loculated pleural effusion.
+> Multiple bone metastasis at the spine, sternum, pelvic bones and the left lower rib.
+> Small left axillary lymph nodes. 
+> A small hypodense splenic lesion.
+> Unremarkable liver, pancreas, kidneys, and adrenals. 
+> Small paraaortic lymphadenopathy. 
+> No definite ileus. Normal appendix.
+> No ascites. 
+> No definite pulmonary embolism.
+Chest : AP View (Supine) 2016/09/17 15:39 (32001CYM) status post port-A implantation over the left upper chest; status post placement of nasogastric tube; massive left pleural effusion; increased infiltration(s) in both lungs; scoliosis of the thoracic spine; recommend clinical correlation and follow up.
+MRI With/Without Contrast--Brain 2016/09/12 17:40:
+1. Numerous enhancing nodules in bilateral cerebrum and cerebellum. (up to 0.7cm)
+2. Leptomeningeal enhancement over bilateral cerebellum, left fronto-temporo-parietal lobe, right frontal lobe.
+3. No midline shift. No hydrocephalus. 
+4. No definite focal restriction of diffusion on DWI and ADC map. 
+5. MRA shows no definite vascular abnormality of the Willis circle of arteries. 
+病理報告(Pathology Report) 
+S1405468
+Effusion,pleural, left,aspiration and cell block preparation,adenocarcinoma,metastatic    
+ S1405744
+Soft tissue,stated as pleura, left,ultrasonography-guided biopsy,inadequate specimen    
+ S1511499
+Lung,lower lobe,left,status post target therapy,computed tomography-guided biopsy,chronic inflammation    
+ S1508328
+Lung,lower lobe,left,CT guided biopsy,no evidence of carcinoma    
+ S1551806
+Lymph node,axillary , left,excision,adenocarcinoma,metastatic    
+ T1500751
+ S1406129
+Lung,LB9,bronchoscopic biopsy,chronic inflammation    
+ S1620927
+Soft tissue,chest, left,echo-guided biopsy,adenocarcinoma,metastatic 
+臆斷(Tentative Diagnosis) 
+1. Consciousness change and generalized clonic tonic seizure, etiology to be determined, complicated with hypoxemic respiratory failure, status post endotracheal tube intubation with mechanical ventilation (2016/09/17~)
+2. Non-small-cell-lung cancer, adenocarcinoma, with malignant pleural effusion, T2aN0M1a, stage IV, with EGFR exon 19 deletion, T790M mutation (+), ALK(-), status post Tarceva during 2014/02/20~2015/02/22; Disease progression with left supraclavicular, left hilar and mediastinal lymphadenopathy, status post lung CT guided re-biopsy, status post EGF816 (nivolumab, 2015/03/10~2015/12/16); Disease progression with bilateral axilla lymphadenopathy, status post left axillary lymph node excisional biopsy on 2015/12/19, with EGFR exon 19 deletion without T790M, Met FISH (-), status post TATTON trial (AZD9291 + AZD6244, omisertinib 80mg 1# QD + selumetinib 75mg 1# Q12H, 4days on-3days off, C1D1=2016/01/22, C2D1=2016/02/19, C3D1=2016/03/18, C4D1=2016/04/15, C5D1=2016/05/13); Disease progression with larger lung and chest wall metastases, status post port-A implantation on 2016/06/21, status post Alimta + Cisplatin (C1D1=2016/06/10, C2D1=2016/06/30, C3D1=2016/07/21, C4D1=2016/08/11); Disease progression with larger lung and chest wall metastases and new metastasis in left frontal lobe, status post Taxotere (C1D1=2016/09/01), Disease progression with multiple brain metastases and leptomeningeal carcinomatosis
+3. Intermittent atrial premature beat 
+醫療需求與治療計畫(Medical Needs and Care Plan) 
+#1. NSCLC, adenocarcinoma, stage IV
+S: Consciousness change
+O: Vital signs stable
+   PE: no meneangial signs
+   Lab: hypomagnesemia 
+   Image: no ICH
+
+A: 1. Conscious change with general clonic tonic seizure, etiology to be determined, complicated with hypoxemic respiratory failure, status post endotrachial tube insertion with mechanical ventilation (2016/09/17~)
+   2. NSCLC, adenocarcinoma, stage IV
+
+P: 1. Arrange EEG and lumbar puncture.
+   2. Given empirical Brosym.
+   3. Consider diagnostic thoracocentasis.
+
+Treatment Goal:
+1. Better consciousness. 
+出院規劃(Discharge Planning) 
+管路留置狀況:有
+靜脈管路留置(含Hickman / Port-A)：有 右手 
+雙腔導管留置：無  
+鼻胃管留置：有 16Fr. 
+氣管管路留置：有 氣管內管  7.5mm 
+胃造廔口：無  
+尿管留置：有 Two way Foley 16Fr. 
+膀胱造廔：無 
+傷口引流管：無
+其他導管：Nil
+日常生活功能分數：0
+預期出院後居住場所：獨居 
+預期出院後主要照顧者：媽媽 
+出院規劃收案篩檢：高危病患 功能量表未滿60分 
+主治醫師評論(VS Comments) 
+I agree with the assessment made by the resident. 
+醫師姓名 
+郭律成 主治醫師 
+ 

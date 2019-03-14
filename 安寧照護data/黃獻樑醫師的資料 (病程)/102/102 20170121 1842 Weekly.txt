@@ -1,0 +1,68 @@
+Brief Summary of this week    
+[Brief history]
+    This is a 72 year old male with history of lung cancer with bone metastasis. He came to our ER for dyspnea and RUL/RLL pneumonia with left side massive pleural effusion was noticed.
+
+[Treatment course]
+    After admission, we inserted pigtail to right chest for pleural effusion drainage. We drained 1000mL per day at first and his pleural effusion gradually decreased.  For right lung pneumonia, we kept Levofloxacin and Tazocin treatment, and later discontinued Tazocin for no evidence. 
+    The patient had desaturation under venturi mask support with 98% 10L/min, and thus we kept BiPAP support for the patient. He had well saturation under BiPAP support. The patient had signed DNR at first but later withdrew after being persuaded by his family.
+    The patient would stay in the ward for intensive monitoring and we would transfer the patient if he had stable conditions under BiPAP support.
+癌症治療效果追蹤評估 Disease Status:
+Residual tumor / Recurrence / Metastases
+Treatment Response:Evaluable
+SD (Stable Disease) 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+[Antibiotics]
+Cravit	 01/17-	  For lobar CAP
+-----------------------------------------
+Tazocin	 01/17-01/18 For lobar CAP
+
+<Culture>
+01/17 Pneumococcal antigen: Negative
+      Legionella Urinary Ag:negative
+      Mycoplasma Pneumoniae IgM:negative
+01/17 S/C:  S/S: no sample to collect
+      B/C*2:
+      U/C:
+      pleural gram stain:No bact. visible 
+
+[Respiration]
+BiPAP IPAP 10, EPAP 8 ,RR 12 , FiO2=50%
+
+[Vasoactive agents]
+nil
+
+[Nutrition]
+高蛋白配方 1.5大卡/ml   1500Kcal/day
+
+[Important intervention and newly added medications]
+01/04 C1D1 Cisplatin + Alimta
+01/17 Thoracentesis 1000ml (Single tapping, PE sent for study)
+01/17 pigtail insertion 500ml drained
+01/17 BiPAP support
+01/18 pigtail drained 1000mL
+01/19 pigtail drained 410mL  
+01/20 pigtail drained 90mL  => bedside echo/CXR revealed decreased pleural effusion
+
+[Important consultation]
+
+[Important patient's and family's decisions]
+DNR signed by himself
+01/17 Decided intubation if needed
+01/18 Patient signed DNR全拒 on his own will, withdrew later
+
+Plan 
+1. For Rt lobar pneumonia with impending respiratory failure
+  -keep Cravit, pursue cultures data 
+  => consider replace Levofloxacin if still no improvement on pneumonia
+  -Keep BiPAP, follow CXR QD/QOD
+  -If worsening ABG or respiratory pattern, intubate the patient
+  -check flu PCR and AFS/culture
+2. For pleural effusion
+  -keep drainage with pigtail catheter QOD
+  -pursue culture results from effusion
+3. For lung cancer
+  -C1D1 Cisplatin+Pemetrexed on 1/4, further anti-cancer therapy is not feasible currently

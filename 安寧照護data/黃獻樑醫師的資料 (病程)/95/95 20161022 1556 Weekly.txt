@@ -1,0 +1,51 @@
+Brief Summary of this week    
+We continued ventilator support and increased the respiratory rate to achieve hyperventilation for IICP. Mannitol 20% 100 ml q6h IF was given for IICP, and we closely observed her I/O and electrolytes. Unasyn was given empirically and then upgraded to ceftriaxone. Therapeutic hypothermia was administered for 24 hours (10/20 7:30 - 10/21 7:30) as neurologist suggested. Urine sample was obtained for drug screening, which was all negative. Neurosurgeon was consulted on 10/20 for bilateral pupil dilatation, and emergent brain perfusion CT was done, revealing delayed opacification of bilateral ICA, bilateral ACA, bilateral MCA, and left PCA; non-opacification of bilateral intracranial vertebral arteries, basilar artery and right PCA. The images showed hypoxic ischemic encephalopathy with suspicious brainstem infarct. Saline 3% 100 ml q6h IF was added for worsening IICP as neurosurgeon suggested. Poor neurological outcome was explained to her family (parents and husband), and his husband signed DNR permit (不電不壓除藥). Polyuria was found with low urine osmolality, suggestive of diabetes insipidus. ddAVP was given. Electrolyte imbalance was corrected. 3% saline was tapered to 100 ml q12h on 10/21 for polyuria and hypernatremia. Progressive hypotension was found and persisted despite fluid challenge. Levophed was administered and the dose was uptitrated. NG feeding was resumed on 10/22 after hypothermia therapy. Grouped vesicles developed on 10/22, where herpes zoster was suspected; acyclovir was given for 7 days. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+Assessment 
+[ventilator] 
+PCV 25% IP 14 PEEP 3 RR 14
+-> TV 490, MV 7, RR 14
+
+[Important study findings]
+10/19 urine drug screening: all negative
+10/19 brain CT: Diffuse brain edema and hypodensity at bilateral basal ganglia, r/o hypoxic-ischemic encephalopathy.
+10/20 brain perfusion CT: Hypoxic ischemic encephalopathy. Suspected infarct in brain stem. IICP with delayed intracranial arterial flow.
+      blood Osm: 326mOsm/Kg, UOsm: 138 mOsm/Kg, c/w diabetes insipidus
+
+[Important intervention and newly added medications]
+10/19 Local clinic: 雷射除毛,電波拉皮,超音波溶脂手術 under IVGA
+          ETT+MV for airway protection
+          NTUH: Mannitol for IICP and HIE
+10/20 Hypothermia
+10/20 AM7:30 Esophageal temperature monitor reinsertion, GCS E1VtM4, pupil 2.5/2.5mm, LR slur/slur
+10/20 AM9:00 E1VtM1, pupil dilated, LR -/-
+10/20 3% saline 100ml q6h run 30min for IICP
+
+[Nutrition] 10/19 alb 4.3 g/dL
+NG, 一般均衡配方, 1卡/cc, 熱量:500, 管灌安素 
+
+[Important consultation]
+10/19 Neuro: hypoxemic-encephalopathy, rule out propofol sedative effect. Arrange EEG.
+10/20 Neuro: Highly suspected HIE related IICP, try mannitol and hypothermia.
+10/20 NS: OP not indicated. Suggest medical treatment for IICP.
+10/20 NS (formal): arrange CT perfusion scan; decompressive craniectomy would provide minimal help in terms of recovery of con's given loss of brainstem reflex now; may add saline 3% 100ml (drip 30min) q6h for worsening IICP
+
+[Important patient's and family's decisions]
+10/20 DNR 不電不壓除藥
+10/21 院宣
+
+Plan 
+1. continue Rocephin 
+2. continue mannitol 100ml q6h + 3% saline q12h for IICP
+ -> keep head elevation 30 degrees
+ -> Levophed support to keep SBP >=100 mmHg
+ -> may arrange EEG later as neurologist suggested, next week
+3. Inform poor neurological outcome to her family (parents and husband), his husband signed DNR permit (不電不壓除藥)
+4. correct electrolyte imbalance and control I/O
+ -> consider regular ddAVP for DI
+ -> albumin supplement for 3 days (10/22-24)
+5. Anxicam PRN if seizures
+6. oral acyclovir for 7 days for herpes zoster

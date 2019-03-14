@@ -1,0 +1,86 @@
+Brief Summary of this week    
+The patient remained unclear conscious during this week. Dyspnea with desactuation was noted on 1/4 afternoon. We completed septic work. Lab data showed remarkable leukocytosis, and chest X ray showed infiltration over right lower lung. We informed the possibility and risk of hospital acquired pneumonia or progression of meningoencephalitis to his family. Family meeting was conducted on 1/5, and his family decided to remove oxygen supply on 1/7 morning, and they had signed permit. We also contacted with hospice team for terminal care. Therefore, we will remove oxygen supply tomorrow morning and give adequate pain control. 
+
+Problem Assessment Plan   
+          
+PAP 1 
+
+Assessment 
+[PE]
+Consicous: E2M1V1, Pupil: 3mm/3mm LR: +-/+-
+Breathing: SpO2 100% under O2 mask 98% 10L , Cheyne-stokes respiration pattern
+Chest: bilateral wheezing sound
+Heart:  RHB, no murmur
+Limb: warm, edema over left hand
+
+[Abx] Tazocin (1/4-1/6)
+----------------------------------------------------------
+Zovirax 12/08-12/14
+Ceftriaxone 12/08-14
+
+[Lab]
+2017/01/04 WBC:21.23   K/μL
+2017/01/04 HB:9.3   g/dL
+2017/01/04 PLT:383   K/μL
+2017/01/04 LacticAcid:2.72   mmol/L
+2017/01/04 hsCRP:4.29   mg/dL
+2017/01/04 CRE:1.4   mg/dL
+2017/01/04 Na:152   mmol/L
+2017/01/04 K:3.3   mmol/L
+
+[Image]
+1/4 Chest x ray: increase infiltration over right lower lung
+
+[Cultures]
+12/08 B/C: -
+      B/C: - 
+      S/C:
+      U/C: Gram pos. coccus 1000 
+           Gram pos. bacillus 4000 
+12/09 S/C: Kp 1+ of 2 strains (one is ESBL-producing)
+      CSF/C: -
+      CSF/C: -
+      CSF/AFS: -
+      CSF/AFS: -
+      CSF/F:
+      CSF/Cryptococcal Ag: -
+      CSF: TB/VZV/HSV/EBV: all negative
+1/4 B/C: pending
+    S/C: pending
+
+[Studies]
+12/08 和平醫院 CT and MRI: 
+      radiologist commont: suspect HIV encephalitis, CJD not 
+      likely
+12/09 EEG: still epileptic forms
+12/09 status elilepticus survey:
+      DIC profile: negative
+      tumor markers: negative
+      autoimmune panels Negative
+      HIV infection: Combo test negative
+12/10 UCG:40/25/66.7/MR 1+/TR 1+
+12/13 Anti-NMDA ab profiles: -
+      Repeat EEG showed no more epileptic form, DC BZD
+12/16 EEG: moderate to severe diffuse cortical dysfunction  
+           with emphesis on the right side
+[Consultation]
+2016/12/09 
+NEU Common:
+Rule out non-convulsive status epilepticus
+Encephalopathy, cause to be determined
+1. Please arrange EEG as soon as possible. 
+2. Consult neuroradiologist for the MRI in 和平 Hospital. 
+3. Check DIC profile, tumor markers, autoimmune panels and HIV infection. 
+4. Arrange cardiac echo. 
+5. Check liver function, renal function and electrolyte. 
+6. May consider to send CSF for autoimmune encephalitis.
+
+[Important family decision]
+DNR全拒 if condition exacerbation, confirmed with his daughters and brothers again on 1/4
+Family meeting on 1/5: his family decided remove mask oxygen supply on 1/7 morning, had signed permit
+
+Plan 
+1. Contact with hospice team for terminal care
+2. DNR全拒院宣 if condition deteriorated
+3. His family decided to remove mask oxygen supply on 1/7 morning, had signed permit
+4. Morphine PRN given if dyspnea after removing oxygen supply
